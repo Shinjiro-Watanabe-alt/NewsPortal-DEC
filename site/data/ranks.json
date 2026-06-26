@@ -1,10 +1,10 @@
 [
   {
-    "keyword": "水素",
+    "keyword": "太陽光",
     "trend": ""
   },
   {
-    "keyword": "太陽光",
+    "keyword": "水素",
     "trend": ""
   },
   {
@@ -20,15 +20,15 @@
     "trend": ""
   },
   {
-    "keyword": "洋上風力",
-    "trend": ""
-  },
-  {
     "keyword": "カーボン",
     "trend": ""
   },
   {
     "keyword": "EV",
     "trend": ""
+  },
+  {
+    "keyword": "再エネ",
+    "trend": "NEW"
   }
 ]
