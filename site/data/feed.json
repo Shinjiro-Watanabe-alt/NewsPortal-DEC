@@ -1,21 +1,11 @@
 [
   {
-    "id": "auto-2bd21637bdd8",
-    "title": "GBP、産業用蓄電池システム向け低圧系統連系・自立運転切替盤を販売開始～ 海外メーカーPCS対応・消防法準拠の屋外型切替盤、案件ごとにカスタマイズ可能 ～",
-    "category": "再エネ",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "2:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000174.000110590.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/110590/174/110590-174-20cba588f003f8c1db151537087a214a-1920x928.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-23363c1129bc",
     "title": "世界最大級の造形エンターテインメント番組『NEXT LEVEL SHOWCASE XVIII』公開 ─ 横幅140cmの「クイーンエイリアン」が本日予約開始、巨大スタチュー「デバステーター」も登場",
     "category": "企業・産業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
-    "time": "1:10",
+    "time": "7:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000577.000061479.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/61479/577/61479-577-b6e9548eda0565b789c494a46fe9f1d3-2112x1122.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -23,9 +13,9 @@
     "id": "auto-5e3a3b974299",
     "title": "北商物流、国際的気候変動イニシアチブ「SBTi」認定取得を発表",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
-    "time": "1:10",
+    "time": "7:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000123693.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/123693/6/123693-6-584bf430c190842a45ea3800c42b2607-1500x860.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -40,13 +30,83 @@
     "image": "https://s.tgstc.com/ogp3/29e16ef6a6aeb986e3fb8c7735b4dd10-1200x630.jpeg"
   },
   {
+    "id": "auto-a90b6a6a94a3",
+    "title": "水素コンプレッサー市場の2033年までの予測10.3% CAGRの主要要因",
+    "category": "技術・イノベ",
+    "accent": false,
+    "source": "pando.life",
+    "time": "20:15",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCYWNJMERWSkptM05QU0NINFhiOGNaeFF4RUdSLVhfUEZUZ0J6LUpfS3hkZlZvdjREVjBiLVptYk1naXBMX2VyU3JR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0afd2007e691",
+    "title": "五島列島で見た浮体式洋上風力の課題 最後の日立製風車、細る供給網",
+    "category": "再エネ",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00VFc2YTFSLWlfY0tvX3Rab3YzOXpLMGZrNXdOa2xIOW10eUhuVklpX2k3RnMzVXFmZWhBeW9PQzNaR0NQSDRYdjVNZV9hUkJ5SnVZNXBxcWZMejYySFhzdDV1RERaT1hiT3Bodg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5105cada5fbb",
+    "title": "秋田：秋田県知事と秋田市長 洋上風力関連で来月オランダなど欧州訪問 ：地域ニュース",
+    "category": "再エネ",
+    "accent": false,
+    "source": "読売新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BLURGcm52UFFTZFgxT25FU2F3ZXE3M0ZUSnhHbVN3MUUyQ1BnMjRkM21MWkd5TXA4eFFoVno3UEdGWmFfT2xOQzV4QmVkMzZ2eWhxT2FGdkpkM2xlNXkwVl9tR2RuWEl4ZWNmenRYc3A?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a70914921d96",
+    "title": "五島列島で見た浮体式洋上風力の課題 最後の日立製風車、細る供給網",
+    "category": "再エネ",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnVLU1BOcUlpcmZaSFN4NzlTRDRMTTlxM282S18xN1FWc29KdGJ1VFJWdVgzV0ZMM3BoNGkxVUNaUkR4VmtYa2YwWXNYRTJxNVlNU21TbGFoRU54RnIyZnhPLUNKLWxBUG1JWGhwdU5nTTJyaXB1NWkxZWdlNXFmekp1cjgxZFpsY010cW12ZXRmaFVpNk9vUmp0OU5LemMzbWNMcGVn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4f24b53501e1",
+    "title": "水素・アンモニア燃料船、商業化課題を解説",
+    "category": "技術・イノベ",
+    "accent": true,
+    "source": "LOGISTICS TODAY",
+    "time": "19:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wUHNTRnNsNlJRNmVxQl9GTUpvVjRQR1o0V2VaUVFfczFiTjdfLWtOVUxiMktpal9vQkhBNVhhc3hQUGR2UEFYeQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c4eeff5471b1",
+    "title": "カナデビア、オマーンでのグリーン水素分野の事業展開に向け、同国Bahwan Engineeringとパートナーシップ契約締結（2026.6）",
+    "category": "技術・イノベ",
+    "accent": false,
+    "source": "株式会社グリーンプロダクション",
+    "time": "17:09",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hdWhJYTNxSkdOdjM3cDlCcEVUWHJHWENfQXJEeUhlR3FLSDdMUFE1SDRETlNKRFI1bGV3WkxTYnpnNnVQS0xpcnNNT1pSTnlyNk9sSDhRZw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-d36840452ed3",
     "title": "FuelCell Energy、データセンター運営向けに最大380MWの燃料電池供給契約をFit Energyと締結",
     "category": "技術・イノベ",
-    "accent": true,
+    "accent": false,
     "source": "Data Center Cafe",
-    "time": "15:56",
+    "time": "16:01",
     "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTk1aEYtc24zRnRpTnBQZ0dVV25ldlBjRGdUY21lUHVHd2JUbmFIWFpYODB5TFpKMnlTTUpwU19maDJwQ2FNdlJUb0tPT0NFTUExRFhXd0RTNUF4eTg3RnZBVWdBZDV6cTdqTkVKOUNWQTFMdTdBdXM4WUFQVXV6ZWlROFpKRk1WTUVN?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8f6aee8e9579",
+    "title": "画像：はじめに：『カーボンプライシングの経済分析 始動するGX-ETSへの視座』",
+    "category": "政策・制度",
+    "accent": true,
+    "source": "日経BOOKプラス",
+    "time": "15:32",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1c0MV9TQ2tDbkZKU25nbnNoUHd2bUc3Yl9MZzJELUo3dDlvUlllVkx5RF84X0ZOQTJ4NVZ2dGhoNDZwUnRtOUxWZkNwcjI2WGhCbXhsOFI3aGF0S1g0bm4zR0dYSmh2SWtBLXdJRzNuZjVtZ3Y3REZ6Y3IxMVA2TlJwS2tJcTJEZU1qSEZ3?oc=5",
     "image": null
   },
   {
@@ -120,20 +180,10 @@
     "image": null
   },
   {
-    "id": "auto-934aaa992061",
-    "title": "株式会社アップデート、新潟の法人向け太陽光発電専門店「レオソーラー」を本格展開",
-    "category": "再エネ",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "12:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16ZlZ0bkJpS0FoLTdYaTZ4am1zQUNwSmRycVg3TmdPVnh3UFJ1QVA0cHBqR3Nid2pQWDFzNGRmQVF1Ri13SFN3dnpIcmxLSUdfOHFMRnlNYm5haHlFejFvakVOaVdhM05a?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-0f18fb7297f5",
     "title": "延命コンクリで脱炭素 会沢高圧社長が講演 苫小牧のセミナー",
     "category": "政策・制度",
-    "accent": true,
+    "accent": false,
     "source": "北海道新聞デジタル",
     "time": "12:33",
     "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmpxbVZ5SGJnVU1YYmV2ZHl3RHBYZjEtTDNhQ0NDYnpJZXg2Um90YTQwQkJMTm1yQ0Q1ZG5ZQ1ItcnVxc0UzOTFJX0x0NWZoVWlNVXhPelBOb2FPbmR3TGJSejFCeGZuaWNzRHlqOWlsdi1oc05EcEtNNkNZbTVyc2tsTVJwWFJh?oc=5",
@@ -143,7 +193,7 @@
     "id": "auto-4c2f782c6f94",
     "title": "Seaspan、2025年サステナビリティ報告書を発表し、脱炭素化、安全、ガバナンスにおける継続的な進展を強調",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "PR Newswire",
     "time": "12:26",
     "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxWjJRQXkzaGI4R0ZFZWN6bm02ZGVrSkRscjh3WktSX0pfbXFyRlVKTzdKallNcW85YzRDT0VUUnVqYnAweGFPODd4YnRqUy0tOE12dWpXSTlvX1VScUNKWUlleHlma3d6dU8xVndKbERuLXRSMUkxZFdR?oc=5",
@@ -163,7 +213,7 @@
     "id": "auto-4592ab5b1b67",
     "title": "【脱炭素・SDGs・ESG】エネット：EnneSmartで年間44.6GWh超削減、DR定着で安定供給と脱炭素を後押し",
     "category": "政策・制度",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "11:30",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZaWtPRWR6N1RoUXFlWmVfcE1jRXFUakZlY0JVM1lFMGhISXdjSGFZQ0xxdm5Oc3RLVmd5akp0YktyYXdjenNzS0JtTnZpemdVenpkcVMtbUNid0NSN3h6SkFTazhqUWZ3LVBjTGg4TjRhUQ?oc=5",
@@ -173,7 +223,7 @@
     "id": "auto-8e6ba0ea0566",
     "title": "【オピニオン】脱炭素と災害レジリエンス/田辺新一・早稲田大学創造理工学部建築学科教授",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "ガスエネルギー新聞",
     "time": "11:15",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wanhlZ21SRzRpVXpOZF83MTU2Yy1tWVh0cnV6SzMzM1duYnNlVll0UGhSM1BRTlc4M1ExZVFfXzNuTmhpTjQxY2VaZ3BpZUI1Rmk3ZVRXVXBIeHRicXk0RGhTZnRXWExoSHBSZQ?oc=5",
@@ -193,7 +243,7 @@
     "id": "auto-a504aa40ad9e",
     "title": "太陽光発電と次世代技術で農地守れ ヤンマー、岡山でプロジェクト始動",
     "category": "再エネ",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "11:05",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkdlBZN1V1bE9GTm04Uy1wbGZFUDlDU0RXV3JCbnpHMy0wSFZ5ZXdnOEJRX3hoT1Fma3VtYkV5Xy1qbGJiSzl6bnRQVGJsX1FmdWV2RDZEU1c?oc=5",
@@ -203,7 +253,7 @@
     "id": "auto-fa335e537dd7",
     "title": "建設 × 脱炭素 総合プラットフォーム シビグリ（Civil Green",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "10:48",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SRmtTV2ZGeGppMTRZdVV1bkxUNk96M21FQjh2TDdnZEVEZVJLMm9WODMzRk9vS2ZDNWJBWGFDdDlaT3ZlelppTWNqTVJIZmtuU2ZMUjZld0RrVjR4dUVYNjJrNVVFZWNkMnlVT3l3djB0OUVybkgyN3BUaw?oc=5",
@@ -223,7 +273,7 @@
     "id": "auto-6b0f4cef17ac",
     "title": "【夏休み2026】静岡大、小学生向け科学体験8/3…水素ロケットや顕微鏡製作も",
     "category": "技術・イノベ",
-    "accent": true,
+    "accent": false,
     "source": "newscafe.ne.jp",
     "time": "10:45",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT0NZMnBLcW1iNmNzMXRJNExEV1V6X2tKcTA4RGowWGFZMHJLUDItZ3Z2eUc3S2I5bDQ1M0ZtODRvVEVqQkViWnRHeUJuVHVOcGZPOWkwOTlpdmR0dHVVSV9PbWpxWnN5ZEE?oc=5",
@@ -233,7 +283,7 @@
     "id": "auto-723053b3c5d0",
     "title": "2026年夏季ダボス会議｜AI時代の電力需要拡大と太陽光発電の新たな可能性",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "10:30",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTXh4dGNob292XzQ5Z1NlMF85RmxRUzFjcFBSbjZjUXh5WmJXZzI0cGxfNlh4b21ndGlWSW10NVFOQmZTUGZ3YmlMWDA2dUlmekczdFZfajhKTUV4NUJ0eWtuaS13ZzFM?oc=5",
@@ -247,56 +297,6 @@
     "source": "北海道新聞デジタル",
     "time": "10:02",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRjVzdDdwR0tOWm5SNm5nUl9nZGhQSy1ibnlseFN1VUdNZDlpNEI5WVRmWC13Nm9NWHhBSF9JQXZzQjBtN0t4eVdqUElrUS1VeFdISkdyajItMjY5Q0ZXY1FFUUs?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8122c62244e6",
-    "title": "延命コンクリで脱炭素 会沢高圧社長が講演 苫小牧のセミナー",
-    "category": "政策・制度",
-    "accent": true,
-    "source": "47NEWS",
-    "time": "10:02",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiY0xhZ3pxNjJBalhtQ1IwaEdmNXRoZ3hZeHlQbF9US2VUcGxHLWw5dVBiQklONi1OSGc5T1N6b2FqSXRhS1dnUlN5aw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-18821a4bc6af",
-    "title": "延命コンクリで脱炭素 会沢高圧社長が講演 苫小牧のセミナー",
-    "category": "政策・制度",
-    "accent": false,
-    "source": "ｄメニューニュース",
-    "time": "10:02",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHNHV2FaZzNsaENIUEQ3MGd1RVc5dXdxU0t6aFA4VGFSNWM0RERDZ0N0WVdGY1Q5Q2t1VjV0VS1UUUJsUVpYSjFiWkd4YzRENTJITmZKVUdtal9MWXJua0dDb25oWUdaZDBaLVU2WWZDNGJ4UFh1NFNCdTNqVEZCRVZn0gGCAUFVX3lxTE40c0dXYVpnM2xoQ0hQRDcwZ3VFVzl1d3FTS3poUDhUYVI1YzRERENnQ3RZV0ZjVDlDa3VWNXRVLVRRQmxRWlhKMWJaR3hjNEQ1MkhOZkpVR21qX0xZcm5rR0NvbmhZR1pkMFotVTZZZkM0YnhQWHU0U0J1M2pURkJFVmc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-320e8a5a31f7",
-    "title": "当社保有発電所 初の低圧FIP転換案件―太陽光発電所「リュミエ菊池」における基礎工事着工のお知らせ",
-    "category": "再エネ",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "10:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nX0Z1bUtsQ2otZFlCZmItdHRWN1ZfREtnTlJIOWJJdTAwekNvN2ZzNmx3Q3ZUR2JBNUxSTjJlMDJQZG95dVF5NXVaTlotaXZvUnQ3WjBaSENZOHU0WFNkZC1DZzM5QTZl?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4f24b53501e1",
-    "title": "水素・アンモニア燃料船、商業化課題を解説",
-    "category": "技術・イノベ",
-    "accent": true,
-    "source": "LOGISTICS TODAY",
-    "time": "9:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wUHNTRnNsNlJRNmVxQl9GTUpvVjRQR1o0V2VaUVFfczFiTjdfLWtOVUxiMktpal9vQkhBNVhhc3hQUGR2UEFYeQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-097095789986",
-    "title": "【提携・M&A・新会社】クリーンエナジーコネクト：Green AIと協業開始、再エネ導入とAI省エネ支援を一体提案",
-    "category": "再エネ",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "9:38",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tYmFBR0l5SUw0SkhRTXF3ZmxEbk14UlVCSWRtV1B2bmUyclc4d21hYmNfcEdSN3lYd1ZRbWNscUVMMHduY3FVbnhyalZmeW45aDQtMy1hclBxc0ZCcWZDR1hZTWtOMzV4ZmVNREtRQWFUQQ?oc=5",
     "image": null
   }
 ]

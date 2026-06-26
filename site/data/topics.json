@@ -10,79 +10,79 @@
     "国際動向"
   ],
   "lead": {
-    "id": "auto-2bd21637bdd8",
-    "title": "GBP、産業用蓄電池システム向け低圧系統連系・自立運転切替盤を販売開始～ 海外メーカーPCS対応・消防法準拠の屋外型切替盤、案件ごとにカスタマイズ可能 ～",
-    "summary": "[GBP株式会社] 再生可能エネルギーの総合ソリューション開発企業であるGBP株式会社（本社：東京、以下「GBP」）は、産業用蓄電池システム向けの「低圧系統連系・自立運転切替盤」の販売を開始しました。本製品は、平常時の系統...",
+    "id": "auto-23363c1129bc",
+    "title": "世界最大級の造形エンターテインメント番組『NEXT LEVEL SHOWCASE XVIII』公開 ─ 横幅140cmの「クイーンエイリアン」が本日予約開始、巨大スタチュー「デバステーター」も登場",
+    "summary": "[株式会社プライム1スタジオ] 株式会社プライム1スタジオは、世界最大級のオンライン造形エンターテインメント『NEXT LEVEL SHOWCASE XVIII』をPrime 1 Studio YouTube Channelにて公開いたしました。 さらなる進化を遂げた造形・彩色と…",
     "source": "PR TIMES",
-    "time": "6/27(土) 2:10",
+    "time": "6/27(土) 7:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000174.000110590.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/110590/174/110590-174-20cba588f003f8c1db151537087a214a-1920x928.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000577.000061479.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/61479/577/61479-577-b6e9548eda0565b789c494a46fe9f1d3-2112x1122.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-23363c1129bc",
-      "rank": 1,
-      "title": "世界最大級の造形エンターテインメント番組『NEXT LEVEL SHOWCASE XVIII』公開 ─ 横幅140cmの「クイーンエイリアン」が本日予約開始、巨大スタチュー「デバステーター」も登場",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000577.000061479.html"
-    },
-    {
       "id": "auto-5e3a3b974299",
-      "rank": 2,
+      "rank": 1,
       "title": "北商物流、国際的気候変動イニシアチブ「SBTi」認定取得を発表",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000123693.html"
     },
     {
       "id": "auto-1af0c1530497",
-      "rank": 3,
+      "rank": 2,
       "title": "フランス熱波報道見てて思ったんですけどもしかしてあいつらエアコンなくても生きていける超ヌルゲーのチート環境で俺らアジア人に省エネがどうとかご高説垂れてたってコト！？",
       "tag": "",
       "pr": false,
       "source_url": "https://togetter.com/li/2713883"
     },
     {
-      "id": "auto-d36840452ed3",
+      "id": "auto-a90b6a6a94a3",
+      "rank": 3,
+      "title": "水素コンプレッサー市場の2033年までの予測10.3% CAGRの主要要因",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCYWNJMERWSkptM05QU0NINFhiOGNaeFF4RUdSLVhfUEZUZ0J6LUpfS3hkZlZvdjREVjBiLVptYk1naXBMX2VyU3JR?oc=5"
+    },
+    {
+      "id": "auto-0afd2007e691",
       "rank": 4,
-      "title": "FuelCell Energy、データセンター運営向けに最大380MWの燃料電池供給契約をFit Energyと締結",
+      "title": "五島列島で見た浮体式洋上風力の課題 最後の日立製風車、細る供給網",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTk1aEYtc24zRnRpTnBQZ0dVV25ldlBjRGdUY21lUHVHd2JUbmFIWFpYODB5TFpKMnlTTUpwU19maDJwQ2FNdlJUb0tPT0NFTUExRFhXd0RTNUF4eTg3RnZBVWdBZDV6cTdqTkVKOUNWQTFMdTdBdXM4WUFQVXV6ZWlROFpKRk1WTUVN?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00VFc2YTFSLWlfY0tvX3Rab3YzOXpLMGZrNXdOa2xIOW10eUhuVklpX2k3RnMzVXFmZWhBeW9PQzNaR0NQSDRYdjVNZV9hUkJ5SnVZNXBxcWZMejYySFhzdDV1RERaT1hiT3Bodg?oc=5"
     },
     {
-      "id": "auto-955a446ffca1",
+      "id": "auto-5105cada5fbb",
       "rank": 5,
-      "title": "UPDATER、蓄電池の再エネ属性を判別する充放電トラッキング技術確立を目指すプロジェクトを始動",
+      "title": "秋田：秋田県知事と秋田市長 洋上風力関連で来月オランダなど欧州訪問 ：地域ニュース",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ub2Ffc1NpcTktVklZTzFKMWc3S24wUm1zY0JEWDc2bWxtb0hTN1pXZ1RLMU1hVVJvQzdjOE12QU83Nm93OUIwVzh4UHJVWG5YT3JhYW1WQ0NQeTMtandRb0ZpUHpINlRSbkdIaXgweF9ITGk1eXc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BLURGcm52UFFTZFgxT25FU2F3ZXE3M0ZUSnhHbVN3MUUyQ1BnMjRkM21MWkd5TXA4eFFoVno3UEdGWmFfT2xOQzV4QmVkMzZ2eWhxT2FGdkpkM2xlNXkwVl9tR2RuWEl4ZWNmenRYc3A?oc=5"
     },
     {
-      "id": "auto-177057fca9f2",
+      "id": "auto-a70914921d96",
       "rank": 6,
-      "title": "ベナンで蓄電池導入へ！豊田通商が再エネルギーの安定供給を支援",
-      "tag": "",
+      "title": "五島列島で見た浮体式洋上風力の課題 最後の日立製風車、細る供給網",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WbGRSekw0anFTZ19UZWF1NzRYamo5SG93SXE3M2YycFpmSXZoRTNkNF9LaHNmSGs4R0dtT0R0RG8wVUhqR2VUSlluQkFVQQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnVLU1BOcUlpcmZaSFN4NzlTRDRMTTlxM282S18xN1FWc29KdGJ1VFJWdVgzV0ZMM3BoNGkxVUNaUkR4VmtYa2YwWXNYRTJxNVlNU21TbGFoRU54RnIyZnhPLUNKLWxBUG1JWGhwdU5nTTJyaXB1NWkxZWdlNXFmekp1cjgxZFpsY010cW12ZXRmaFVpNk9vUmp0OU5LemMzbWNMcGVn?oc=5"
     },
     {
-      "id": "auto-21b7962a8659",
+      "id": "auto-4f24b53501e1",
       "rank": 7,
-      "title": "「熱」の低炭素・カーボンニュートラル化やレジリエンス強化に資する城山熱供給プラントをメディアに初公開",
+      "title": "水素・アンモニア燃料船、商業化課題を解説",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TNDdYVkREMzJpaS0zbHl4bm9qUE15V3RSYktIbkFLRU1kZVBYX05TcFlFaUJqOVVBLW9YZXk1eWphbG5pWHlnZU9OV3ZiSl9OQVh4SHJpeGlUeGlPNDFoX3pxbDVVOFVSVE40?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wUHNTRnNsNlJRNmVxQl9GTUpvVjRQR1o0V2VaUVFfczFiTjdfLWtOVUxiMktpal9vQkhBNVhhc3hQUGR2UEFYeQ?oc=5"
     },
     {
-      "id": "auto-7487af7358e6",
+      "id": "auto-c4eeff5471b1",
       "rank": 8,
-      "title": "史上初めて、100％水素燃料エンジンで発電された電力が電力網に供給される。",
-      "tag": "",
+      "title": "カナデビア、オマーンでのグリーン水素分野の事業展開に向け、同国Bahwan Engineeringとパートナーシップ契約締結（2026.6）",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzBuZGFNMlRYOGRMUmd4RlFhYjVyRjJKMDN2Z0JLNTlMcjgwZ1NwRnE5Uk53c3BGOUtrNWJOUDhuYmNBMzJDZjk5em43d2ItV1VYeC1XWWtaekpvMTdaYnRwY3BfSGV0RXotcUlsS0pESDQ3WFZrYmF5UFlVUDFoMkxKbVprUmJkWjNZMFdMN0Y?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hdWhJYTNxSkdOdjM3cDlCcEVUWHJHWENfQXJEeUhlR3FLSDdMUFE1SDRETlNKRFI1bGV3WkxTYnpnNnVQS0xpcnNNT1pSTnlyNk9sSDhRZw?oc=5"
     }
   ]
 }
