@@ -50,7 +50,7 @@
   {
     "id": "auto-2c1f8ef0369a",
     "title": "『脱炭素JOURNAL（仮）』創刊号7/15発行！無料献本キャンペーンのお知らせ",
-    "category": "政策・制度",
+    "category": "再エネ",
     "accent": false,
     "source": "ソーラージャーナル",
     "time": "4:03"
@@ -64,7 +64,7 @@
     "time": "3:53"
   },
   {
-    "id": "auto-2e764972d808",
+    "id": "auto-a4d7cb7ba26a",
     "title": "飛騨高山森林組合とステラーグリーンがカーボンニュートラルの実現に向けたパートナーシップ協定を締結",
     "category": "政策・制度",
     "accent": false,
@@ -192,18 +192,10 @@
     "time": "2:03"
   },
   {
-    "id": "auto-8d9f315111f3",
-    "title": "JQA無料WEBセミナー「GX-ETSの全体像と第三者確認の最前線」開催のお知らせ",
-    "category": "政策・制度",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "2:00"
-  },
-  {
     "id": "auto-402d06b093af",
     "title": "東京都のEV補助が最大130万円に テスラModel 3は実質300万円切りも",
     "category": "政策・制度",
-    "accent": true,
+    "accent": false,
     "source": "ASCII.jp",
     "time": "1:30"
   },
@@ -211,7 +203,7 @@
     "id": "auto-2d281e06446c",
     "title": "「水素発電市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内",
     "category": "技術・イノベ",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "1:03"
   },
@@ -227,7 +219,7 @@
     "id": "auto-39b41de9894b",
     "title": "京セラコミュニケーションシステムが次世代太陽電池の導入および施工を開始：脱炭素",
     "category": "再エネ",
-    "accent": true,
+    "accent": false,
     "source": "MONOist",
     "time": "1:00"
   },
@@ -235,8 +227,16 @@
     "id": "auto-de23174910ae",
     "title": "佐賀県、国主体の環境アセスメント要請 唐津市沖洋上風力発電、格上げへ努力 佐賀県議会常任委員会",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "佐賀新聞",
     "time": "1:00"
+  },
+  {
+    "id": "auto-aac256661c6e",
+    "title": "中国：風力・太陽光発電容量の目標設定、2030年に比率50％超へ - ashu-chinastatistics.com",
+    "category": "再エネ",
+    "accent": false,
+    "source": "検索: 洋上風力・太陽光",
+    "time": "0:56"
   }
 ]
