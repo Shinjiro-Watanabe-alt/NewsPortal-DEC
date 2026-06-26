@@ -3,8 +3,13 @@
 NewsPortal(DEC) ニュース収集スクリプト
 
 官公庁・関連機関のRSS/Atomフィードを巡回し、脱炭素・水素・再生可能エネルギー
-関連の記事のみを抽出して site/data/{articles,feed,categories}.json を更新する。
-GitHub Actions から3時間おきに実行される想定。
+関連の記事のみを抽出して site/data/{articles,feed,categories,topics,ranks}.json
+を更新する。GitHub Actions から3時間おきに実行される想定。
+
+kpis.json / dashboard.json / events.json / rail-data.json / glossary.json /
+shortcuts.json は、統計値・イベント情報・用語解説など本スクリプトの収集元
+(RSS/Googleニュース検索)からは正確な値を導出できないため、対象外（静的データ
+のまま）としている。
 """
 import hashlib
 import json
@@ -205,6 +210,63 @@ def collect_one_source(source: dict, now: datetime):
     return results
 
 
+def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: set):
+    """直近の収集記事から、主要トピック(トップ記事+見出しリスト)を組み立てる"""
+    tabs = ["主要"] + [c["label"].split("・")[0] for c in categories]
+
+    if not ordered_ids:
+        return None
+
+    lead_id = ordered_ids[0]
+    lead_a = articles[lead_id]
+    lead = {
+        "id": lead_id,
+        "title": lead_a["title"],
+        "summary": lead_a["summary"],
+        "source": lead_a["source"],
+        "time": lead_a["time"],
+        "comments": 0,
+    }
+
+    headlines = []
+    for rank, aid in enumerate(ordered_ids[1:9], start=1):
+        a = articles[aid]
+        headlines.append({
+            "id": aid,
+            "rank": rank,
+            "title": a["title"],
+            "tag": "NEW" if aid in new_ids else "",
+            "pr": False,
+        })
+
+    return {"tabs": tabs, "lead": lead, "headlines": headlines}
+
+
+def build_ranks(articles: dict, previous_ranks: list, top_n: int = 8):
+    """記事に付与済みのタグ(キーワード)の出現頻度からトレンドキーワードを集計する"""
+    counts = {}
+    for a in articles.values():
+        for tag in a.get("tags", []):
+            counts[tag] = counts.get(tag, 0) + 1
+
+    if not counts:
+        return None
+
+    ranked = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))[:top_n]
+    prev_index = {r["keyword"]: i for i, r in enumerate(previous_ranks)}
+
+    result = []
+    for i, (keyword, _count) in enumerate(ranked):
+        if keyword not in prev_index:
+            trend = "NEW"
+        elif prev_index[keyword] - i >= 3:
+            trend = "急上昇"
+        else:
+            trend = ""
+        result.append({"keyword": keyword, "trend": trend})
+    return result
+
+
 def load_json(name: str, default):
     path = SITE_DATA_DIR / name
     if not path.exists():
@@ -233,12 +295,13 @@ def main():
     }
 
     collected = dict(carried_over)
-    new_count = 0
+    new_ids = set()
     for source in sources:
         for article in collect_one_source(source, now):
             if article["id"] not in collected:
-                new_count += 1
+                new_ids.add(article["id"])
             collected[article["id"]] = article
+    new_count = len(new_ids)
 
     # 新しい順にソートし、上限件数で切る
     ordered_ids = sorted(
@@ -270,9 +333,17 @@ def main():
         if label in label_to_slug:
             label_to_slug[label]["count"] = count
 
+    previous_ranks = load_json("ranks.json", [])
+    topics = build_topics(articles, ordered_ids, categories, new_ids)
+    ranks = build_ranks(articles, previous_ranks)
+
     save_json("articles.json", articles)
     save_json("feed.json", feed)
     save_json("categories.json", categories)
+    if topics is not None:
+        save_json("topics.json", topics)
+    if ranks is not None:
+        save_json("ranks.json", ranks)
 
     print(f"収集完了: 新規 {new_count} 件 / 合計 {len(articles)} 件 ({now.isoformat()})")
 
