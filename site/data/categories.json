@@ -3,13 +3,13 @@
     "slug": "policy",
     "icon": "public",
     "label": "政策・制度",
-    "count": 49
+    "count": 47
   },
   {
     "slug": "renewable",
     "icon": "bolt",
     "label": "再生可能エネルギー",
-    "count": 93
+    "count": 88
   },
   {
     "slug": "business",
@@ -21,7 +21,7 @@
     "slug": "tech",
     "icon": "science",
     "label": "技術・イノベ",
-    "count": 47
+    "count": 50
   },
   {
     "slug": "life",
@@ -33,7 +33,7 @@
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体・地域",
-    "count": 3
+    "count": 7
   },
   {
     "slug": "intl",
