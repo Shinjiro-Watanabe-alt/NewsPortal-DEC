@@ -6,12 +6,18 @@ NewsPortal(DEC) ニュース収集スクリプト
 関連の記事のみを抽出して site/data/{articles,feed,categories,topics,ranks}.json
 を更新する。GitHub Actions から3時間おきに実行される想定。
 
-kpis.json / dashboard.json / events.json / rail-data.json / glossary.json /
-shortcuts.json は、統計値・イベント情報・用語解説など本スクリプトの収集元
-(RSS/Googleニュース検索)からは正確な値を導出できないため、対象外（静的データ
-のまま）としている。
+あわせて、キー登録不要で取得できる外部公開データを使って以下も実数値で更新する
+(取得に失敗した場合は前回値を保持し、エラーにはしない):
+  - 環境省サイトの「ゼロカーボンシティ」表明自治体数 → kpis.json / dashboard.json
+  - JEPX(日本卸電力取引所)スポット市場CSVのシステムプライス平均 → rail-data.json
+
+events.json / glossary.json / shortcuts.json、および dashboard.json の地域別
+ゼロカーボン内訳・電源構成・CO2排出量トレンド等は、統一的に取得できる公開API/
+ファイルが確認できなかったため対象外（静的データのまま）としている。
 """
+import csv
 import hashlib
+import io
 import json
 import re
 import sys
@@ -267,6 +273,129 @@ def build_ranks(articles: dict, previous_ranks: list, top_n: int = 8):
     return result
 
 
+ZERO_CARBON_URL = "https://www.env.go.jp/policy/zerocarbon.html"
+# ページの正確な文言は未確認のため、まず文脈付きパターンを試し、駄目なら緩いパターンに
+# フォールバックする。最終的にもありえない値は採用しない(ZERO_CARBON_PLAUSIBLE_RANGE)。
+ZERO_CARBON_STRICT_RE = re.compile(r"表明した地方公共団体は.{0,60}?(\d[\d,]{2,})\s*団体")
+ZERO_CARBON_LOOSE_RE = re.compile(r"(\d[\d,]{2,})\s*団体")
+ZERO_CARBON_PLAUSIBLE_RANGE = (300, 1800)
+
+JEPX_DOWNLOAD_URL = "https://www.jepx.jp/_download.php"
+JEPX_SPOT_PAGE_URL = "https://www.jepx.jp/electricpower/market-data/spot/"
+
+
+def fetch_zero_carbon_total():
+    """環境省サイトから「ゼロカーボンシティ」表明自治体の総数を取得する(失敗時はNone)"""
+    try:
+        raw = fetch(ZERO_CARBON_URL)
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print(f"[skip] ゼロカーボン自治体数: 取得失敗 ({exc})", file=sys.stderr)
+        return None
+
+    text = strip_html(raw.decode("utf-8", errors="ignore"))
+    m = ZERO_CARBON_STRICT_RE.search(text) or ZERO_CARBON_LOOSE_RE.search(text)
+    if not m:
+        print("[skip] ゼロカーボン自治体数: ページ本文から数値を抽出できず", file=sys.stderr)
+        return None
+
+    total = int(m.group(1).replace(",", ""))
+    lo, hi = ZERO_CARBON_PLAUSIBLE_RANGE
+    if not (lo <= total <= hi):
+        print(f"[skip] ゼロカーボン自治体数: 抽出値 {total} が妥当な範囲外", file=sys.stderr)
+        return None
+    return total
+
+
+def fetch_jepx_spot_average(now: datetime):
+    """JEPXスポット市場CSVから直近日のシステムプライス平均(円/kWh)を取得する(失敗時はNone)"""
+    for year in (now.year, now.year - 1):
+        try:
+            body = urllib.parse.urlencode({
+                "dir": "spot_summary", "file": f"spot_summary_{year}.csv",
+            }).encode("utf-8")
+            req = urllib.request.Request(JEPX_DOWNLOAD_URL, data=body, headers={
+                "User-Agent": USER_AGENT,
+                "Referer": JEPX_SPOT_PAGE_URL,
+                "Content-Type": "application/x-www-form-urlencoded",
+            })
+            with urllib.request.urlopen(req, timeout=FETCH_TIMEOUT) as res:
+                raw = res.read()
+        except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+            print(f"[skip] JEPXスポット価格({year}): 取得失敗 ({exc})", file=sys.stderr)
+            continue
+
+        try:
+            text = raw.decode("shift_jis", errors="ignore")
+            rows = list(csv.DictReader(io.StringIO(text)))
+        except csv.Error as exc:
+            print(f"[skip] JEPXスポット価格({year}): CSV解析失敗 ({exc})", file=sys.stderr)
+            continue
+        if not rows:
+            continue
+
+        date_col = next((k for k in rows[0] if k and "年月日" in k), None)
+        price_col = next((k for k in rows[0] if k and "システムプライス" in k), None)
+        if not date_col or not price_col:
+            print(f"[skip] JEPXスポット価格({year}): 想定する列が見つからず", file=sys.stderr)
+            continue
+
+        latest_date = max((r[date_col] for r in rows if r.get(date_col)), default=None)
+        if not latest_date:
+            continue
+
+        prices = []
+        for r in rows:
+            if r.get(date_col) != latest_date:
+                continue
+            try:
+                prices.append(float(r[price_col]))
+            except (TypeError, ValueError):
+                continue
+        if prices:
+            return round(sum(prices) / len(prices), 1)
+
+    return None
+
+
+def update_zero_carbon_kpi(total: int):
+    """kpis.json / dashboard.json の「ゼロカーボン宣言」KPIを実数値で更新する"""
+    formatted = f"{total:,}"
+
+    kpis = load_json("kpis.json", [])
+    for k in kpis:
+        if k.get("label") == "ゼロカーボン宣言":
+            prev = int(str(k.get("value", "0")).replace(",", "") or 0)
+            diff = total - prev
+            k["value"] = formatted
+            k["delta"] = f"{diff:+d}"
+            k["dir"] = "down" if diff < 0 else "up"
+            k["period"] = "前回更新比"
+    save_json("kpis.json", kpis)
+
+    dashboard = load_json("dashboard.json", None)
+    if dashboard is None:
+        return
+    for k in dashboard.get("kpis", []):
+        if k.get("label") == "ゼロカーボン宣言自治体":
+            prev = int(str(k.get("value", "0")).replace(",", "") or 0)
+            diff = total - prev
+            k["value"] = formatted
+            k["delta"] = f"{diff:+d}"
+            k["dir"] = "down" if diff < 0 else "up"
+            k["period"] = "前回更新比"
+    save_json("dashboard.json", dashboard)
+
+
+def update_jepx_price(price: float):
+    """rail-data.json の卸電力価格(スポット平均)を実データで更新する"""
+    rows = load_json("rail-data.json", [])
+    for r in rows:
+        if r.get("label") == "卸電力価格":
+            r["value"] = f"{price:.1f}"
+            r["unit"] = "円/kWh"
+    save_json("rail-data.json", rows)
+
+
 def load_json(name: str, default):
     path = SITE_DATA_DIR / name
     if not path.exists():
@@ -344,6 +473,14 @@ def main():
         save_json("topics.json", topics)
     if ranks is not None:
         save_json("ranks.json", ranks)
+
+    zero_carbon_total = fetch_zero_carbon_total()
+    if zero_carbon_total is not None:
+        update_zero_carbon_kpi(zero_carbon_total)
+
+    jepx_price = fetch_jepx_spot_average(now)
+    if jepx_price is not None:
+        update_jepx_price(jepx_price)
 
     print(f"収集完了: 新規 {new_count} 件 / 合計 {len(articles)} 件 ({now.isoformat()})")
 
