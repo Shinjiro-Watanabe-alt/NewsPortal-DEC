@@ -274,14 +274,64 @@ def build_ranks(articles: dict, previous_ranks: list, top_n: int = 8):
 
 
 ZERO_CARBON_URL = "https://www.env.go.jp/policy/zerocarbon.html"
-# ページの正確な文言は未確認のため、まず文脈付きパターンを試し、駄目なら緩いパターンに
-# フォールバックする。最終的にもありえない値は採用しない(ZERO_CARBON_PLAUSIBLE_RANGE)。
+# ページ本文には総数の記載がなく、リンク先の「一覧図」PDFに埋め込まれていることが
+# 実際のページ調査で判明した。まずページ本文を試し、駄目なら一覧図PDFのテキストを試す。
+# 最終的にもありえない値は採用しない(ZERO_CARBON_PLAUSIBLE_RANGE)。
 ZERO_CARBON_STRICT_RE = re.compile(r"表明した地方公共団体は.{0,60}?(\d[\d,]{2,})\s*団体")
+ZERO_CARBON_PDF_COUNT_RE = re.compile(r"表明自治体数\D{0,10}?(\d[\d,]{2,})")
 ZERO_CARBON_LOOSE_RE = re.compile(r"(\d[\d,]{2,})\s*団体")
+ZERO_CARBON_PDF_LINK_RE = re.compile(r'<a\b[^>]*href="([^"]+)"[^>]*>([^<]{0,80})')
 ZERO_CARBON_PLAUSIBLE_RANGE = (300, 1800)
 
 JEPX_DOWNLOAD_URL = "https://www.jepx.jp/_download.php"
 JEPX_SPOT_PAGE_URL = "https://www.jepx.jp/electricpower/market-data/spot/"
+
+try:
+    import pypdf
+except Exception:
+    pypdf = None
+
+
+def extract_zero_carbon_total_from_text(text: str):
+    m = (
+        ZERO_CARBON_STRICT_RE.search(text)
+        or ZERO_CARBON_PDF_COUNT_RE.search(text)
+        or ZERO_CARBON_LOOSE_RE.search(text)
+    )
+    if not m:
+        return None
+    total = int(m.group(1).replace(",", ""))
+    lo, hi = ZERO_CARBON_PLAUSIBLE_RANGE
+    if not (lo <= total <= hi):
+        print(f"[skip] ゼロカーボン自治体数: 抽出値 {total} が妥当な範囲外", file=sys.stderr)
+        return None
+    return total
+
+
+def find_zero_carbon_pdf_url(html_text: str):
+    """ページ内のリンクから「一覧図」PDFのURLを探す"""
+    for href, link_text in ZERO_CARBON_PDF_LINK_RE.findall(html_text):
+        if "一覧図" in link_text:
+            return urllib.parse.urljoin(ZERO_CARBON_URL, href)
+    return None
+
+
+def fetch_zero_carbon_pdf_text(pdf_url: str):
+    """一覧図PDFを取得し、抽出できたテキストを返す(失敗時はNone)"""
+    if pypdf is None:
+        print("[skip] ゼロカーボン自治体数: pypdf未インストールのためPDF解析不可", file=sys.stderr)
+        return None
+    try:
+        pdf_raw = fetch(pdf_url)
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print(f"[skip] ゼロカーボン自治体数: PDF取得失敗 ({exc})", file=sys.stderr)
+        return None
+    try:
+        reader = pypdf.PdfReader(io.BytesIO(pdf_raw))
+        return "\n".join(page.extract_text() or "" for page in reader.pages)
+    except Exception as exc:  # PDF解析エラーは多岐にわたるため広めに捕捉する
+        print(f"[skip] ゼロカーボン自治体数: PDF解析失敗 ({exc})", file=sys.stderr)
+        return None
 
 
 def fetch_zero_carbon_total():
@@ -292,32 +342,28 @@ def fetch_zero_carbon_total():
         print(f"[skip] ゼロカーボン自治体数: 取得失敗 ({exc})", file=sys.stderr)
         return None
 
-    text = strip_html(raw.decode("utf-8", errors="ignore"))
-    m = ZERO_CARBON_STRICT_RE.search(text) or ZERO_CARBON_LOOSE_RE.search(text)
-    if not m:
-        print(f"[debug] ゼロカーボン自治体数: 取得テキスト長={len(text)}", file=sys.stderr)
-        hits = list(re.finditer("団体", text))
-        for mm in hits[:8]:
-            start = max(0, mm.start() - 40)
-            print(f"[debug] 「団体」周辺: ...{text[start:mm.start() + 40]}...", file=sys.stderr)
-        if not hits:
-            print(f"[debug] 「団体」を含む箇所なし。先頭500文字: {text[:500]!r}", file=sys.stderr)
+    html_raw_text = raw.decode("utf-8", errors="ignore")
+    total = extract_zero_carbon_total_from_text(strip_html(html_raw_text))
+    if total is not None:
+        return total
 
-        raw_html = raw.decode("utf-8", errors="ignore")
-        for am in re.finditer(r'<a\b[^>]*href="([^"]+)"[^>]*>([^<]{0,40})', raw_html):
-            href, link_text = am.groups()
-            if "一覧" in link_text or "ゼロカーボン" in link_text:
-                print(f"[debug] リンク候補: text={link_text!r} href={href!r}", file=sys.stderr)
-
-        print("[skip] ゼロカーボン自治体数: ページ本文から数値を抽出できず", file=sys.stderr)
+    pdf_url = find_zero_carbon_pdf_url(html_raw_text)
+    if not pdf_url:
+        print("[skip] ゼロカーボン自治体数: 一覧図PDFへのリンクが見つからず", file=sys.stderr)
         return None
 
-    total = int(m.group(1).replace(",", ""))
-    lo, hi = ZERO_CARBON_PLAUSIBLE_RANGE
-    if not (lo <= total <= hi):
-        print(f"[skip] ゼロカーボン自治体数: 抽出値 {total} が妥当な範囲外", file=sys.stderr)
-        return None
-    return total
+    pdf_text = fetch_zero_carbon_pdf_text(pdf_url)
+    if pdf_text:
+        total = extract_zero_carbon_total_from_text(pdf_text)
+        if total is not None:
+            return total
+        print(
+            f"[debug] ゼロカーボン自治体数: PDFテキスト長={len(pdf_text)} 先頭300文字={pdf_text[:300]!r}",
+            file=sys.stderr,
+        )
+
+    print("[skip] ゼロカーボン自治体数: 数値を抽出できず", file=sys.stderr)
+    return None
 
 
 def fetch_jepx_spot_average(now: datetime):

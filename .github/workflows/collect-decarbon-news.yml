@@ -25,6 +25,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install pypdf
+
       - name: Run collector
         run: python3 collector/collect.py
 
