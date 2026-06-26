@@ -1,22 +1,4 @@
 {
-  "auto-f18bdbf78cb2": {
-    "id": "auto-f18bdbf78cb2",
-    "category": "政策・制度",
-    "title": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助",
-    "source": "EVcafe",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tSWNnVDJDdzdfa2g2SXNRdzNoc2RMdUpoWjdLTW5TV1pxLTFZc1ZIZDF3Tlk3REJJQW5sNFlwS3ZuMUh3VWwxOEtn?oc=5",
-    "time": "6/26(金) 5:07",
-    "comments": 0,
-    "tags": [
-      "EV"
-    ],
-    "summary": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助&nbsp;&nbsp;EVcafe",
-    "body": [
-      "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助&nbsp;&nbsp;EVcafe"
-    ],
-    "related": [],
-    "collected": true
-  },
   "auto-e13e0de98005": {
     "id": "auto-e13e0de98005",
     "category": "再生可能エネルギー",
@@ -110,7 +92,7 @@
   },
   "auto-2c1f8ef0369a": {
     "id": "auto-2c1f8ef0369a",
-    "category": "再生可能エネルギー",
+    "category": "政策・制度",
     "title": "『脱炭素JOURNAL（仮）』創刊号7/15発行！無料献本キャンペーンのお知らせ",
     "source": "ソーラージャーナル",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iaEszUGViN01URGkwMTVLaDdOSm1McEU4RjM0eHN3Y0FWcHZLTnk0QndJUVRyeWVDYmZkZ0NUb0s4aHNscHJRMlQ3Z2xGbHluV0hQVA?oc=5",
@@ -249,6 +231,24 @@
     "summary": "航空業界の脱炭素化へ政策支援拡充を提言 国連関連報告書、SAF普及や次世代機開発の加速求める&nbsp;&nbsp;ESG Journal",
     "body": [
       "航空業界の脱炭素化へ政策支援拡充を提言 国連関連報告書、SAF普及や次世代機開発の加速求める&nbsp;&nbsp;ESG Journal"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-176becd59553": {
+    "id": "auto-176becd59553",
+    "category": "再生可能エネルギー",
+    "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKanA4Yk9qRUc4TEhtLWhiQl9MeWFFYy1JeGt2d1c5djJoZFVNRy1GdmQ0QlRFVENWWUtuaUlsNFZRS0N6MHZNcUU4akNwRWs4QTh1VGQ1d19SYjE0V2RNb1lDbjNTVVd5?oc=5",
+    "time": "6/26(金) 3:00",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始&nbsp;&nbsp;ニコニコニュース"
     ],
     "related": [],
     "collected": true
@@ -657,7 +657,7 @@
     "id": "auto-2e19946c808f",
     "category": "再生可能エネルギー",
     "title": "東北銀行系「とうぎんリニューアブル・エナジー」が宮城・岩手で再エネ創出 太陽光発電所11基で 年間約１１０万キロワット時を供給 - kankyo-news.co.jp",
-    "source": "検索: 系統用蓄電池",
+    "source": "検索: 洋上風力・太陽光",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44ZEk4bFZOSzJhUW9ya09CRV9mWkQyenFMUnNuYXhSZ1VrM0xCYUF3ZWZ6ZmxtTWg2TW5yRFV0THlrWmg5ZUJjSXZocDNpRDhpR0R3bXpvNEpOS0FFaWZGWXRmMGtHLWFDTjkwTmVGTnhSd2RpMjEwVnFiMA?oc=5",
     "time": "6/25(木) 22:34",
     "comments": 0,
@@ -1060,24 +1060,6 @@
     "related": [],
     "collected": true
   },
-  "auto-5f7e8d51e122": {
-    "id": "auto-5f7e8d51e122",
-    "category": "再生可能エネルギー",
-    "title": "韓国国民成長ファンド、AI電力網・半導体に3,700億ウォン投入…Naver風力・LS Cable & System・Simmtechを支援",
-    "source": "finance.biggo.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVFZsR2ZtbUtOZDRBbWxRZTU5X01EM1k4d21tVkdCOHlnLUFxeWg2VUExT0hveXd6Qlk0emdldEk2LTU3SmZhWHBiRGJOYnlpaFhYaURublBvXzZTanBPbVBGamc0UHo4UURfQ1FNQmFsMlll?oc=5",
-    "time": "6/25(木) 14:55",
-    "comments": 0,
-    "tags": [
-      "風力"
-    ],
-    "summary": "韓国国民成長ファンド、AI電力網・半導体に3,700億ウォン投入…Naver風力・LS Cable & System・Simmtechを支援&nbsp;&nbsp;finance.biggo.jp",
-    "body": [
-      "韓国国民成長ファンド、AI電力網・半導体に3,700億ウォン投入…Naver風力・LS Cable & System・Simmtechを支援&nbsp;&nbsp;finance.biggo.jp"
-    ],
-    "related": [],
-    "collected": true
-  },
   "auto-56fb21882500": {
     "id": "auto-56fb21882500",
     "category": "政策・制度",
@@ -1312,24 +1294,6 @@
     "related": [],
     "collected": true
   },
-  "auto-fa1a664d4c81": {
-    "id": "auto-fa1a664d4c81",
-    "category": "再生可能エネルギー",
-    "title": "陽光電源、Intersolarで三つの矢：大型発電所のコスト1%削減、産業用パワコン刷新、蓄電池白書が「シーン革命」を提唱",
-    "source": "finance.biggo.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dWRONUpkbGg3Q053MEVkYmFEN0xIQjVabEJJTWg0SFhBU1NmTm9xakZNbzB4b1JHTFR1V1hOMTdpSHNGYm13aDU4NGV6NlVFNWxHMnpQRldZMEdZbFVNWGN5aE9pNnpVZTFjZ2NfbkhvM3k5?oc=5",
-    "time": "6/25(木) 10:55",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "陽光電源、Intersolarで三つの矢：大型発電所のコスト1%削減、産業用パワコン刷新、蓄電池白書が「シーン革命」を提唱&nbsp;&nbsp;finance.biggo.jp",
-    "body": [
-      "陽光電源、Intersolarで三つの矢：大型発電所のコスト1%削減、産業用パワコン刷新、蓄電池白書が「シーン革命」を提唱&nbsp;&nbsp;finance.biggo.jp"
-    ],
-    "related": [],
-    "collected": true
-  },
   "auto-29c59f489ff5": {
     "id": "auto-29c59f489ff5",
     "category": "政策・制度",
@@ -1532,7 +1496,7 @@
   },
   "auto-aa8570de0943": {
     "id": "auto-aa8570de0943",
-    "category": "再生可能エネルギー",
+    "category": "政策・制度",
     "title": "脱炭素化サービス業界動向：2026年の市場規模は1195百万米ドル見込み｜QYResearch",
     "source": "note",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uZUtHWEd3RTFXTHpiV1dGY0lMZkU1Z1NNa1lsakpFTTFfM2hHREd5RUNOeUo0UUNib2VfYkVzbzhraEQ1UlV4ekF2YjJMMF9ZUzE2Um02WQ?oc=5",
@@ -1799,24 +1763,6 @@
     "summary": "電力需要が過去最高を記録し、屋上太陽光発電が注目を集めている。&nbsp;&nbsp;Vietnam.vn",
     "body": [
       "電力需要が過去最高を記録し、屋上太陽光発電が注目を集めている。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-45bc9f66b1a7": {
-    "id": "auto-45bc9f66b1a7",
-    "category": "再生可能エネルギー",
-    "title": "米国CMEは米国、ヨーロッパ、オーストラリアで風力デリバティブを導入する予定です。",
-    "source": "Bitget",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mUmdMOHp4RS1MaWpWRHpEQkY3MVNsa21EUGlwQUptZ1lMTU1GcWVPcnhUTmwtWi1YWnlBQ1lrUFgzOWZUc19ZenM3SEF6NWFGOTFUZzEwbnUtREVJTVViN1diNEhlSGfSAWdBVV95cUxPZlJnTDh6eEUtTGlqVkR6REJGNzFTbGttRFBpcEFKbWdZTE1NRnFlT3J4VE5sLVotWFp5QUNZa1BYMzlmVHNfWXpzN0hBejVhRjkxVGcxMG51LURFSU1VYjdXYjRIZUhn?oc=5",
-    "time": "6/25(木) 6:47",
-    "comments": 0,
-    "tags": [
-      "風力"
-    ],
-    "summary": "米国CMEは米国、ヨーロッパ、オーストラリアで風力デリバティブを導入する予定です。&nbsp;&nbsp;Bitget",
-    "body": [
-      "米国CMEは米国、ヨーロッパ、オーストラリアで風力デリバティブを導入する予定です。&nbsp;&nbsp;Bitget"
     ],
     "related": [],
     "collected": true
@@ -2094,43 +2040,6 @@
     "related": [],
     "collected": true
   },
-  "auto-4ef36465dd16": {
-    "id": "auto-4ef36465dd16",
-    "category": "再生可能エネルギー",
-    "title": "電力取引と収益最大化を自動で実現 富士電機が蓄電所向け運用システム：蓄電・発電機器 - スマートジャパン",
-    "source": "ITmedia",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYmlEM1k3VWlUWFlJSHZtTlRYTzNKRWZBeUp2bmdQWDFGQXFBY0NlYnVuc1dDYllNcUJYc0JEQUVJdk5lc3U0RHdnVnZPMG9lNkhNMkdobXg2d0MxTEEyS1VuR2FIZ0pvZndTWUUxR3hnY0RO?oc=5",
-    "time": "6/25(木) 4:15",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "電力取引と収益最大化を自動で実現 富士電機が蓄電所向け運用システム：蓄電・発電機器 - スマートジャパン&nbsp;&nbsp;ITmedia",
-    "body": [
-      "電力取引と収益最大化を自動で実現 富士電機が蓄電所向け運用システム：蓄電・発電機器 - スマートジャパン&nbsp;&nbsp;ITmedia"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-8e834e123b9b": {
-    "id": "auto-8e834e123b9b",
-    "category": "再生可能エネルギー",
-    "title": "豊田通商、ベナンで太陽光発電向け蓄電池設備を受注",
-    "source": "日本経済新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SdF9Jc2Vub3RROTVfakU1OU9VcDkzZkVKczNWdkJEaXBEWC1OZmtFTW9ZcWdUS1FjM3lpR2NiQ0tXR2o0ejhoY21yNVhBREp6UXl2X2xRZWdvYUh0M2E1OXV2T2RmTDktSElSVg?oc=5",
-    "time": "6/25(木) 4:08",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "蓄電池"
-    ],
-    "summary": "豊田通商、ベナンで太陽光発電向け蓄電池設備を受注&nbsp;&nbsp;日本経済新聞",
-    "body": [
-      "豊田通商、ベナンで太陽光発電向け蓄電池設備を受注&nbsp;&nbsp;日本経済新聞"
-    ],
-    "related": [],
-    "collected": true
-  },
   "auto-e0202d37591b": {
     "id": "auto-e0202d37591b",
     "category": "政策・制度",
@@ -2145,24 +2054,6 @@
     "summary": "GX-ETSとJ－クレジットの壁 10％制限でも足りない供給量&nbsp;&nbsp;kankyo-business.jp",
     "body": [
       "GX-ETSとJ－クレジットの壁 10％制限でも足りない供給量&nbsp;&nbsp;kankyo-business.jp"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-a6e10ae77834": {
-    "id": "auto-a6e10ae77834",
-    "category": "再生可能エネルギー",
-    "title": "クラダシ、辻・本郷スマートアセットと系統用蓄電所開発へ 3案件で事業始動 - kankyo-business.jp",
-    "source": "検索: 系統用蓄電池",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UcW16RnZ0ZHEwRVNhS3dxRmlCai10aVBMQ09fTDlmTUZWdlBSc0dTa1hZLTc5Y2cwdDJYU2oxdHhKRFkxYlZ5NzBTYkNqRlA2dUptNEJyOUJScmwtY2V6eFp6VkhWZVRzZFVuQXNQb0NVR3AwZ1R6WlJrOTQ?oc=5",
-    "time": "6/25(木) 3:53",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "クラダシ、辻・本郷スマートアセットと系統用蓄電所開発へ 3案件で事業始動&nbsp;&nbsp;kankyo-business.jp",
-    "body": [
-      "クラダシ、辻・本郷スマートアセットと系統用蓄電所開発へ 3案件で事業始動&nbsp;&nbsp;kankyo-business.jp"
     ],
     "related": [],
     "collected": true
@@ -2206,39 +2097,21 @@
     "related": [],
     "collected": true
   },
-  "auto-9a5f372fe68c": {
-    "id": "auto-9a5f372fe68c",
+  "auto-97527d292aaa": {
+    "id": "auto-97527d292aaa",
     "category": "再生可能エネルギー",
-    "title": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!（PR TIMES）",
-    "source": "毎日新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56T2RZMDZ1NTZ2Ri1ROC1MM3l5QzJWUlRrU0ZqZ2Z3WmpfZEtGX0UyZ2gzd09CUzNJUWoyZHhqZWhOYnVkUGE2V1prQVV6cndXaktySXJhalBtTFVHaV9WUEpLNGN3NjNR?oc=5",
-    "time": "6/25(木) 1:51",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!（PR TIMES）&nbsp;&nbsp;毎日新聞",
-    "body": [
-      "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!（PR TIMES）&nbsp;&nbsp;毎日新聞"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-2d1a033bdba2": {
-    "id": "auto-2d1a033bdba2",
-    "category": "再生可能エネルギー",
-    "title": "【日本蓄電池株式会社】宮城県柴田郡にて系統用蓄電施設「NC柴田郡川崎町今宿蓄電所」需給調整市場への運用開始",
+    "title": "【日本蓄電池株式会社】福島県白河市にて系統用蓄電施設「NC白河市金勝寺蓄電所」需給調整市場への運用開始",
     "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISFhjOHZHaUlhUUdsb1ZmOFVGN0FfMWRzemx5UGhJSDhUVW1xYUhxU1J3TnBoZ0NqTi1tV25kTUlKRFBYUnhONGlGdTN2a0N0eHhjYzBjdWMyQ0V2UWZ5M3JqSjBOTGwwYmc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyOEdYTkFTQnlXcGZYR1VUdDJvVWdEZUVkLURXcUpEdkp3bXE5TVhHWFhkcm0zU2tHa2hYMFlHNU9ON29ubzdpRHh1NUpGM3VLVWY3N3NEdDdLUHZTTVNmZUJEeUY1czFfdXc?oc=5",
     "time": "6/25(木) 1:00",
     "comments": 0,
     "tags": [
       "蓄電池",
       "蓄電"
     ],
-    "summary": "【日本蓄電池株式会社】宮城県柴田郡にて系統用蓄電施設「NC柴田郡川崎町今宿蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES",
+    "summary": "【日本蓄電池株式会社】福島県白河市にて系統用蓄電施設「NC白河市金勝寺蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES",
     "body": [
-      "【日本蓄電池株式会社】宮城県柴田郡にて系統用蓄電施設「NC柴田郡川崎町今宿蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES"
+      "【日本蓄電池株式会社】福島県白河市にて系統用蓄電施設「NC白河市金勝寺蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES"
     ],
     "related": [],
     "collected": true
@@ -2261,21 +2134,20 @@
     "related": [],
     "collected": true
   },
-  "auto-9613b8faaf3d": {
-    "id": "auto-9613b8faaf3d",
+  "auto-e0feede0ae21": {
+    "id": "auto-e0feede0ae21",
     "category": "再生可能エネルギー",
-    "title": "【日本蓄電池株式会社】福島県岩瀬郡にて系統用蓄電施設「NC岩瀬郡鏡石町蓄電所」需給調整市場への運用開始",
-    "source": "ライブドアニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwRDFqOWlDV3ZYeV9SbEdHVU5CV3h2Xzd4SU45LXFiQ0daR0UyNk5vQ2tCTS1KMVk4X1k1aEpMTGlnWV9ITE9mcF9jV3JxMS1qNDVJWTR6Ynh3bFVhaU5kd1V3?oc=5",
+    "title": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!",
+    "source": "イザ！",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fM1NYSGdIa0FKMDNFTnJtU1hWYUt1d3JUSXNoOUdKVkczV1VmdTlsbU52M1Vxa1lIWkctdzI3MVRMS2tEdDBrMzRNZlYxa1g5UTVDTy1kS2Y3UmdFdzBXWmx3Q2hmUXZhZVJfX2FneHpqWEhyclkwcUhB?oc=5",
     "time": "6/25(木) 1:00",
     "comments": 0,
     "tags": [
-      "蓄電池",
-      "蓄電"
+      "蓄電池"
     ],
-    "summary": "【日本蓄電池株式会社】福島県岩瀬郡にて系統用蓄電施設「NC岩瀬郡鏡石町蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ライブドアニュース",
+    "summary": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!&nbsp;&nbsp;イザ！",
     "body": [
-      "【日本蓄電池株式会社】福島県岩瀬郡にて系統用蓄電施設「NC岩瀬郡鏡石町蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ライブドアニュース"
+      "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!&nbsp;&nbsp;イザ！"
     ],
     "related": [],
     "collected": true
@@ -2313,25 +2185,6 @@
     "summary": "ＪＲ東、にかほ市の太陽光発電所に蓄電池導入へ 需要高い時間帯に電力供給&nbsp;&nbsp;秋田魁新報電子版",
     "body": [
       "ＪＲ東、にかほ市の太陽光発電所に蓄電池導入へ 需要高い時間帯に電力供給&nbsp;&nbsp;秋田魁新報電子版"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-3b13f56f3f57": {
-    "id": "auto-3b13f56f3f57",
-    "category": "再生可能エネルギー",
-    "title": "【自治体】横浜市：福島県浪江町と再エネ連携協定、脱炭素と地域活力の創出を公民連携で推進",
-    "source": "みんなの広報宣伝部",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01TDFxY1Vaa1IwQnpOMGFKX2pMTG9qWDNGSi1NVjA1WHZhMVNUbEQ2NXhUN0J0Z0pvNnRMQlBwa0hMSlM5U2xoREM3OWpWM003RVVmQUVZa2t2TGlnN2hNUWhKcVNjX3pBa3JsX1lONXdEQQ?oc=5",
-    "time": "6/24(水) 22:22",
-    "comments": 0,
-    "tags": [
-      "再エネ",
-      "脱炭素"
-    ],
-    "summary": "【自治体】横浜市：福島県浪江町と再エネ連携協定、脱炭素と地域活力の創出を公民連携で推進&nbsp;&nbsp;みんなの広報宣伝部",
-    "body": [
-      "【自治体】横浜市：福島県浪江町と再エネ連携協定、脱炭素と地域活力の創出を公民連携で推進&nbsp;&nbsp;みんなの広報宣伝部"
     ],
     "related": [],
     "collected": true
@@ -2422,24 +2275,6 @@
     "summary": "脱炭素オークション､上限額引き上げ望む声 募集量未達&nbsp;&nbsp;日本経済新聞",
     "body": [
       "脱炭素オークション､上限額引き上げ望む声 募集量未達&nbsp;&nbsp;日本経済新聞"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-784dbbe47fb5": {
-    "id": "auto-784dbbe47fb5",
-    "category": "再生可能エネルギー",
-    "title": "テスHD（5074）、3Q累計は増収増益で前年同期比2桁成長 蓄電システム案件が業績をけん引",
-    "source": "ログミーFinance",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CaTFpRHZOOVpiTUh0NG9JOUFIbVRiUm9zMmtPR2gwUThYMDFSREdHUU1WdnM2cEQ4eHA3WDljTmowbmNsSUlkTGIwZDlpUC1IVGc?oc=5",
-    "time": "6/24(水) 19:18",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "テスHD（5074）、3Q累計は増収増益で前年同期比2桁成長 蓄電システム案件が業績をけん引&nbsp;&nbsp;ログミーFinance",
-    "body": [
-      "テスHD（5074）、3Q累計は増収増益で前年同期比2桁成長 蓄電システム案件が業績をけん引&nbsp;&nbsp;ログミーFinance"
     ],
     "related": [],
     "collected": true
@@ -3026,6 +2861,25 @@
     "related": [],
     "collected": true
   },
+  "auto-a92e904fa1d9": {
+    "id": "auto-a92e904fa1d9",
+    "category": "再生可能エネルギー",
+    "title": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfNGlhaVJmUTZNam1Ec2JTakJxNEJYcFdoOWFTUDJQRmczVElPVHlKQnVWWlFoMHVRNHpvYVFtZWtfN3FSTmtJaHMtdFhjNFUwM05XSg?oc=5",
+    "time": "6/23(火) 16:30",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true
+  },
   "auto-dcfd34dd0ac2": {
     "id": "auto-dcfd34dd0ac2",
     "category": "再生可能エネルギー",
@@ -3118,25 +2972,6 @@
     "related": [],
     "collected": true
   },
-  "auto-f7d34ecbacae": {
-    "id": "auto-f7d34ecbacae",
-    "category": "再生可能エネルギー",
-    "title": "「蓄電池や洋上風力にも本腰」、損保ジャパンに聞く新エネ向け保険の現状 - 特集 - メガソーラービジネス plus",
-    "source": "日経BP",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03X3hYLU8wcmhQdDhsVE5CeXdhYy05a25wblV0RENsaDYybC12SjZZcTZKUWgzNENDUFc1MDZvNThXZVNiZUlKQTR4R0UycWdWSTVqaENVSklZaVEyM2lIOTRBelVvNlYwR053cmhkZ2NhNnhXQkszaUNOcGFBZw?oc=5",
-    "time": "6/23(火) 8:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池",
-      "洋上風力"
-    ],
-    "summary": "「蓄電池や洋上風力にも本腰」、損保ジャパンに聞く新エネ向け保険の現状 - 特集 - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
-    "body": [
-      "「蓄電池や洋上風力にも本腰」、損保ジャパンに聞く新エネ向け保険の現状 - 特集 - メガソーラービジネス plus&nbsp;&nbsp;日経BP"
-    ],
-    "related": [],
-    "collected": true
-  },
   "auto-49781b5f254a": {
     "id": "auto-49781b5f254a",
     "category": "技術・イノベ",
@@ -3151,44 +2986,6 @@
     "summary": "三菱重工の500kW級水素エンジン発電セット、実用化可能な技術成熟度に到達&nbsp;&nbsp;マイナビニュース",
     "body": [
       "三菱重工の500kW級水素エンジン発電セット、実用化可能な技術成熟度に到達&nbsp;&nbsp;マイナビニュース"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-7901c366b848": {
-    "id": "auto-7901c366b848",
-    "category": "再生可能エネルギー",
-    "title": "石川県とアイチューザー、太陽光パネル・蓄電池の共同購入事業「みんなのおうちに太陽光」を開始",
-    "source": "South65",
-    "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTElJeGNDcU50dXpCb05zc3RmNkNwRzVDcVEyMjJIZElfdzJhZFFyQlpFZDBfZGFzMFNjY09Wa0hvLWQ1ak1rU3NkV2wxd21RLVlDWmRLaTJTaExNVDJhaVk3QkgwbVdlekhXMVI0WWdnZ1hXcjlCSW5vTGR6T3dGZmhLMTlCWmhTZmdkdzUtNEpyTE9vWGctQmJhNi11SGQwWjA4U29mOVhlYzlvempQYWJETWhPcG5KMl9sVGZBYU5acWJ5ZG1MRk0xUmROMWFGeGRURm5fTFkzZFNOOHpLMEJjUlZkdU5STWJXSjY3bEZBOHFOb1pOLU5TY2ZBbjNKblF4WmZvOGEweE8wYzNqWWtqT1pVcG5ORms1YlgwTFhkT0hSSS11NE92dk5heVZpT3R0N3R5TVR6eTJTU0NuZmNn0gHHAkFVX3lxTE9NdWxHdmE1V0p4Vm1QUnZiWVFGSFIzblR2clVtNWpFYlhWNnNxZlZCYU9NQ0N5MThQSmZEWXdtaFlWNHVYT2FLelVBdUJya0VnX3Z3M2FSLWR5N2VxYmIwVGlNMUpadmp1all1ZVpkUnh2RDlGVmZFM0xuWVZoNm8zdFdSUGVZd291NlYxeWxteEJvc05QWFVQQmd2YThwb1dzakdlRnJfaWxuQkZETFVWTUFGcEdxNXpsZGRpU1I3SUZYVUNoTVhYMWxxMWlWb05TUlEwaWg4NDVRNlF2dU03ZnJHM25RQWpaRWdmZXF5QWxvTU5zb1hyeTZ4b1M2akJ1OTlSOWRWM21qMnc5SS1QSUNsbGRfTllIYmhDNjhKeW9EX0thc2VwcERoMURMVmVXNWV2QkxBZzNpWVA2aE5iZnA4ZVVmYw?oc=5",
-    "time": "6/23(火) 7:00",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "蓄電池"
-    ],
-    "summary": "石川県とアイチューザー、太陽光パネル・蓄電池の共同購入事業「みんなのおうちに太陽光」を開始&nbsp;&nbsp;South65",
-    "body": [
-      "石川県とアイチューザー、太陽光パネル・蓄電池の共同購入事業「みんなのおうちに太陽光」を開始&nbsp;&nbsp;South65"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-70843d20f672": {
-    "id": "auto-70843d20f672",
-    "category": "再生可能エネルギー",
-    "title": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mMnJYSGY5LTZycTA1R0NBS2hSUEhkR1ROS3pQaU01UVAxempHUWZuVEQ2NVFBVWFSNXo4YVNEZTd5N0I3X1hsNXFwZU9lUHQ5UTVOMUV2VndXQlRHaU9TSGs0YXNRR1pVN1E?oc=5",
-    "time": "6/23(火) 6:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池",
-      "蓄電"
-    ],
-    "summary": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES"
     ],
     "related": [],
     "collected": true
@@ -3229,20 +3026,279 @@
     "related": [],
     "collected": true
   },
-  "auto-176becd59553": {
-    "id": "auto-176becd59553",
-    "category": "再生可能エネルギー",
-    "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKanA4Yk9qRUc4TEhtLWhiQl9MeWFFYy1JeGt2d1c5djJoZFVNRy1GdmQ0QlRFVENWWUtuaUlsNFZRS0N6MHZNcUU4akNwRWs4QTh1VGQ1d19SYjE0V2RNb1lDbjNTVVd5?oc=5",
-    "time": "6/26(金) 3:00",
+  "auto-f18bdbf78cb2": {
+    "id": "auto-f18bdbf78cb2",
+    "category": "政策・制度",
+    "title": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助",
+    "source": "EVcafe",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tSWNnVDJDdzdfa2g2SXNRdzNoc2RMdUpoWjdLTW5TV1pxLTFZc1ZIZDF3Tlk3REJJQW5sNFlwS3ZuMUh3VWwxOEtn?oc=5",
+    "time": "6/26(金) 5:07",
     "comments": 0,
     "tags": [
-      "太陽光"
+      "EV"
     ],
-    "summary": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始&nbsp;&nbsp;ニコニコニュース",
+    "summary": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助&nbsp;&nbsp;EVcafe",
     "body": [
-      "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始&nbsp;&nbsp;ニコニコニュース"
+      "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助&nbsp;&nbsp;EVcafe"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-5f7e8d51e122": {
+    "id": "auto-5f7e8d51e122",
+    "category": "再生可能エネルギー",
+    "title": "韓国国民成長ファンド、AI電力網・半導体に3,700億ウォン投入…Naver風力・LS Cable & System・Simmtechを支援",
+    "source": "finance.biggo.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVFZsR2ZtbUtOZDRBbWxRZTU5X01EM1k4d21tVkdCOHlnLUFxeWg2VUExT0hveXd6Qlk0emdldEk2LTU3SmZhWHBiRGJOYnlpaFhYaURublBvXzZTanBPbVBGamc0UHo4UURfQ1FNQmFsMlll?oc=5",
+    "time": "6/25(木) 14:55",
+    "comments": 0,
+    "tags": [
+      "風力"
+    ],
+    "summary": "韓国国民成長ファンド、AI電力網・半導体に3,700億ウォン投入…Naver風力・LS Cable & System・Simmtechを支援&nbsp;&nbsp;finance.biggo.jp",
+    "body": [
+      "韓国国民成長ファンド、AI電力網・半導体に3,700億ウォン投入…Naver風力・LS Cable & System・Simmtechを支援&nbsp;&nbsp;finance.biggo.jp"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-fa1a664d4c81": {
+    "id": "auto-fa1a664d4c81",
+    "category": "再生可能エネルギー",
+    "title": "陽光電源、Intersolarで三つの矢：大型発電所のコスト1%削減、産業用パワコン刷新、蓄電池白書が「シーン革命」を提唱",
+    "source": "finance.biggo.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dWRONUpkbGg3Q053MEVkYmFEN0xIQjVabEJJTWg0SFhBU1NmTm9xakZNbzB4b1JHTFR1V1hOMTdpSHNGYm13aDU4NGV6NlVFNWxHMnpQRldZMEdZbFVNWGN5aE9pNnpVZTFjZ2NfbkhvM3k5?oc=5",
+    "time": "6/25(木) 10:55",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "陽光電源、Intersolarで三つの矢：大型発電所のコスト1%削減、産業用パワコン刷新、蓄電池白書が「シーン革命」を提唱&nbsp;&nbsp;finance.biggo.jp",
+    "body": [
+      "陽光電源、Intersolarで三つの矢：大型発電所のコスト1%削減、産業用パワコン刷新、蓄電池白書が「シーン革命」を提唱&nbsp;&nbsp;finance.biggo.jp"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-45bc9f66b1a7": {
+    "id": "auto-45bc9f66b1a7",
+    "category": "再生可能エネルギー",
+    "title": "米国CMEは米国、ヨーロッパ、オーストラリアで風力デリバティブを導入する予定です。",
+    "source": "Bitget",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mUmdMOHp4RS1MaWpWRHpEQkY3MVNsa21EUGlwQUptZ1lMTU1GcWVPcnhUTmwtWi1YWnlBQ1lrUFgzOWZUc19ZenM3SEF6NWFGOTFUZzEwbnUtREVJTVViN1diNEhlSGfSAWdBVV95cUxPZlJnTDh6eEUtTGlqVkR6REJGNzFTbGttRFBpcEFKbWdZTE1NRnFlT3J4VE5sLVotWFp5QUNZa1BYMzlmVHNfWXpzN0hBejVhRjkxVGcxMG51LURFSU1VYjdXYjRIZUhn?oc=5",
+    "time": "6/25(木) 6:47",
+    "comments": 0,
+    "tags": [
+      "風力"
+    ],
+    "summary": "米国CMEは米国、ヨーロッパ、オーストラリアで風力デリバティブを導入する予定です。&nbsp;&nbsp;Bitget",
+    "body": [
+      "米国CMEは米国、ヨーロッパ、オーストラリアで風力デリバティブを導入する予定です。&nbsp;&nbsp;Bitget"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-4ef36465dd16": {
+    "id": "auto-4ef36465dd16",
+    "category": "再生可能エネルギー",
+    "title": "電力取引と収益最大化を自動で実現 富士電機が蓄電所向け運用システム：蓄電・発電機器 - スマートジャパン",
+    "source": "ITmedia",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYmlEM1k3VWlUWFlJSHZtTlRYTzNKRWZBeUp2bmdQWDFGQXFBY0NlYnVuc1dDYllNcUJYc0JEQUVJdk5lc3U0RHdnVnZPMG9lNkhNMkdobXg2d0MxTEEyS1VuR2FIZ0pvZndTWUUxR3hnY0RO?oc=5",
+    "time": "6/25(木) 4:15",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "電力取引と収益最大化を自動で実現 富士電機が蓄電所向け運用システム：蓄電・発電機器 - スマートジャパン&nbsp;&nbsp;ITmedia",
+    "body": [
+      "電力取引と収益最大化を自動で実現 富士電機が蓄電所向け運用システム：蓄電・発電機器 - スマートジャパン&nbsp;&nbsp;ITmedia"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-8e834e123b9b": {
+    "id": "auto-8e834e123b9b",
+    "category": "再生可能エネルギー",
+    "title": "豊田通商、ベナンで太陽光発電向け蓄電池設備を受注",
+    "source": "日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SdF9Jc2Vub3RROTVfakU1OU9VcDkzZkVKczNWdkJEaXBEWC1OZmtFTW9ZcWdUS1FjM3lpR2NiQ0tXR2o0ejhoY21yNVhBREp6UXl2X2xRZWdvYUh0M2E1OXV2T2RmTDktSElSVg?oc=5",
+    "time": "6/25(木) 4:08",
+    "comments": 0,
+    "tags": [
+      "太陽光",
+      "蓄電池"
+    ],
+    "summary": "豊田通商、ベナンで太陽光発電向け蓄電池設備を受注&nbsp;&nbsp;日本経済新聞",
+    "body": [
+      "豊田通商、ベナンで太陽光発電向け蓄電池設備を受注&nbsp;&nbsp;日本経済新聞"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-a6e10ae77834": {
+    "id": "auto-a6e10ae77834",
+    "category": "再生可能エネルギー",
+    "title": "クラダシ、辻・本郷スマートアセットと系統用蓄電所開発へ 3案件で事業始動 - kankyo-business.jp",
+    "source": "検索: 系統用蓄電池",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UcW16RnZ0ZHEwRVNhS3dxRmlCai10aVBMQ09fTDlmTUZWdlBSc0dTa1hZLTc5Y2cwdDJYU2oxdHhKRFkxYlZ5NzBTYkNqRlA2dUptNEJyOUJScmwtY2V6eFp6VkhWZVRzZFVuQXNQb0NVR3AwZ1R6WlJrOTQ?oc=5",
+    "time": "6/25(木) 3:53",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "クラダシ、辻・本郷スマートアセットと系統用蓄電所開発へ 3案件で事業始動&nbsp;&nbsp;kankyo-business.jp",
+    "body": [
+      "クラダシ、辻・本郷スマートアセットと系統用蓄電所開発へ 3案件で事業始動&nbsp;&nbsp;kankyo-business.jp"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-9a5f372fe68c": {
+    "id": "auto-9a5f372fe68c",
+    "category": "再生可能エネルギー",
+    "title": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!（PR TIMES）",
+    "source": "毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56T2RZMDZ1NTZ2Ri1ROC1MM3l5QzJWUlRrU0ZqZ2Z3WmpfZEtGX0UyZ2gzd09CUzNJUWoyZHhqZWhOYnVkUGE2V1prQVV6cndXaktySXJhalBtTFVHaV9WUEpLNGN3NjNR?oc=5",
+    "time": "6/25(木) 1:51",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!（PR TIMES）&nbsp;&nbsp;毎日新聞",
+    "body": [
+      "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!（PR TIMES）&nbsp;&nbsp;毎日新聞"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-2d1a033bdba2": {
+    "id": "auto-2d1a033bdba2",
+    "category": "再生可能エネルギー",
+    "title": "【日本蓄電池株式会社】宮城県柴田郡にて系統用蓄電施設「NC柴田郡川崎町今宿蓄電所」需給調整市場への運用開始",
+    "source": "PR TIMES",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISFhjOHZHaUlhUUdsb1ZmOFVGN0FfMWRzemx5UGhJSDhUVW1xYUhxU1J3TnBoZ0NqTi1tV25kTUlKRFBYUnhONGlGdTN2a0N0eHhjYzBjdWMyQ0V2UWZ5M3JqSjBOTGwwYmc?oc=5",
+    "time": "6/25(木) 1:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "【日本蓄電池株式会社】宮城県柴田郡にて系統用蓄電施設「NC柴田郡川崎町今宿蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES",
+    "body": [
+      "【日本蓄電池株式会社】宮城県柴田郡にて系統用蓄電施設「NC柴田郡川崎町今宿蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-9613b8faaf3d": {
+    "id": "auto-9613b8faaf3d",
+    "category": "再生可能エネルギー",
+    "title": "【日本蓄電池株式会社】福島県岩瀬郡にて系統用蓄電施設「NC岩瀬郡鏡石町蓄電所」需給調整市場への運用開始",
+    "source": "ライブドアニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwRDFqOWlDV3ZYeV9SbEdHVU5CV3h2Xzd4SU45LXFiQ0daR0UyNk5vQ2tCTS1KMVk4X1k1aEpMTGlnWV9ITE9mcF9jV3JxMS1qNDVJWTR6Ynh3bFVhaU5kd1V3?oc=5",
+    "time": "6/25(木) 1:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "【日本蓄電池株式会社】福島県岩瀬郡にて系統用蓄電施設「NC岩瀬郡鏡石町蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ライブドアニュース",
+    "body": [
+      "【日本蓄電池株式会社】福島県岩瀬郡にて系統用蓄電施設「NC岩瀬郡鏡石町蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ライブドアニュース"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-3b13f56f3f57": {
+    "id": "auto-3b13f56f3f57",
+    "category": "再生可能エネルギー",
+    "title": "【自治体】横浜市：福島県浪江町と再エネ連携協定、脱炭素と地域活力の創出を公民連携で推進",
+    "source": "みんなの広報宣伝部",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01TDFxY1Vaa1IwQnpOMGFKX2pMTG9qWDNGSi1NVjA1WHZhMVNUbEQ2NXhUN0J0Z0pvNnRMQlBwa0hMSlM5U2xoREM3OWpWM003RVVmQUVZa2t2TGlnN2hNUWhKcVNjX3pBa3JsX1lONXdEQQ?oc=5",
+    "time": "6/24(水) 22:22",
+    "comments": 0,
+    "tags": [
+      "再エネ",
+      "脱炭素"
+    ],
+    "summary": "【自治体】横浜市：福島県浪江町と再エネ連携協定、脱炭素と地域活力の創出を公民連携で推進&nbsp;&nbsp;みんなの広報宣伝部",
+    "body": [
+      "【自治体】横浜市：福島県浪江町と再エネ連携協定、脱炭素と地域活力の創出を公民連携で推進&nbsp;&nbsp;みんなの広報宣伝部"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-784dbbe47fb5": {
+    "id": "auto-784dbbe47fb5",
+    "category": "再生可能エネルギー",
+    "title": "テスHD（5074）、3Q累計は増収増益で前年同期比2桁成長 蓄電システム案件が業績をけん引",
+    "source": "ログミーFinance",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CaTFpRHZOOVpiTUh0NG9JOUFIbVRiUm9zMmtPR2gwUThYMDFSREdHUU1WdnM2cEQ4eHA3WDljTmowbmNsSUlkTGIwZDlpUC1IVGc?oc=5",
+    "time": "6/24(水) 19:18",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "テスHD（5074）、3Q累計は増収増益で前年同期比2桁成長 蓄電システム案件が業績をけん引&nbsp;&nbsp;ログミーFinance",
+    "body": [
+      "テスHD（5074）、3Q累計は増収増益で前年同期比2桁成長 蓄電システム案件が業績をけん引&nbsp;&nbsp;ログミーFinance"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-f7d34ecbacae": {
+    "id": "auto-f7d34ecbacae",
+    "category": "再生可能エネルギー",
+    "title": "「蓄電池や洋上風力にも本腰」、損保ジャパンに聞く新エネ向け保険の現状 - 特集 - メガソーラービジネス plus",
+    "source": "日経BP",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03X3hYLU8wcmhQdDhsVE5CeXdhYy05a25wblV0RENsaDYybC12SjZZcTZKUWgzNENDUFc1MDZvNThXZVNiZUlKQTR4R0UycWdWSTVqaENVSklZaVEyM2lIOTRBelVvNlYwR053cmhkZ2NhNnhXQkszaUNOcGFBZw?oc=5",
+    "time": "6/23(火) 8:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "洋上風力"
+    ],
+    "summary": "「蓄電池や洋上風力にも本腰」、損保ジャパンに聞く新エネ向け保険の現状 - 特集 - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
+    "body": [
+      "「蓄電池や洋上風力にも本腰」、損保ジャパンに聞く新エネ向け保険の現状 - 特集 - メガソーラービジネス plus&nbsp;&nbsp;日経BP"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-7901c366b848": {
+    "id": "auto-7901c366b848",
+    "category": "再生可能エネルギー",
+    "title": "石川県とアイチューザー、太陽光パネル・蓄電池の共同購入事業「みんなのおうちに太陽光」を開始",
+    "source": "South65",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTElJeGNDcU50dXpCb05zc3RmNkNwRzVDcVEyMjJIZElfdzJhZFFyQlpFZDBfZGFzMFNjY09Wa0hvLWQ1ak1rU3NkV2wxd21RLVlDWmRLaTJTaExNVDJhaVk3QkgwbVdlekhXMVI0WWdnZ1hXcjlCSW5vTGR6T3dGZmhLMTlCWmhTZmdkdzUtNEpyTE9vWGctQmJhNi11SGQwWjA4U29mOVhlYzlvempQYWJETWhPcG5KMl9sVGZBYU5acWJ5ZG1MRk0xUmROMWFGeGRURm5fTFkzZFNOOHpLMEJjUlZkdU5STWJXSjY3bEZBOHFOb1pOLU5TY2ZBbjNKblF4WmZvOGEweE8wYzNqWWtqT1pVcG5ORms1YlgwTFhkT0hSSS11NE92dk5heVZpT3R0N3R5TVR6eTJTU0NuZmNn0gHHAkFVX3lxTE9NdWxHdmE1V0p4Vm1QUnZiWVFGSFIzblR2clVtNWpFYlhWNnNxZlZCYU9NQ0N5MThQSmZEWXdtaFlWNHVYT2FLelVBdUJya0VnX3Z3M2FSLWR5N2VxYmIwVGlNMUpadmp1all1ZVpkUnh2RDlGVmZFM0xuWVZoNm8zdFdSUGVZd291NlYxeWxteEJvc05QWFVQQmd2YThwb1dzakdlRnJfaWxuQkZETFVWTUFGcEdxNXpsZGRpU1I3SUZYVUNoTVhYMWxxMWlWb05TUlEwaWg4NDVRNlF2dU03ZnJHM25RQWpaRWdmZXF5QWxvTU5zb1hyeTZ4b1M2akJ1OTlSOWRWM21qMnc5SS1QSUNsbGRfTllIYmhDNjhKeW9EX0thc2VwcERoMURMVmVXNWV2QkxBZzNpWVA2aE5iZnA4ZVVmYw?oc=5",
+    "time": "6/23(火) 7:00",
+    "comments": 0,
+    "tags": [
+      "太陽光",
+      "蓄電池"
+    ],
+    "summary": "石川県とアイチューザー、太陽光パネル・蓄電池の共同購入事業「みんなのおうちに太陽光」を開始&nbsp;&nbsp;South65",
+    "body": [
+      "石川県とアイチューザー、太陽光パネル・蓄電池の共同購入事業「みんなのおうちに太陽光」を開始&nbsp;&nbsp;South65"
+    ],
+    "related": [],
+    "collected": true
+  },
+  "auto-70843d20f672": {
+    "id": "auto-70843d20f672",
+    "category": "再生可能エネルギー",
+    "title": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始",
+    "source": "PR TIMES",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mMnJYSGY5LTZycTA1R0NBS2hSUEhkR1ROS3pQaU01UVAxempHUWZuVEQ2NVFBVWFSNXo4YVNEZTd5N0I3X1hsNXFwZU9lUHQ5UTVOMUV2VndXQlRHaU9TSGs0YXNRR1pVN1E?oc=5",
+    "time": "6/23(火) 6:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES",
+    "body": [
+      "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;PR TIMES"
     ],
     "related": [],
     "collected": true
@@ -3464,24 +3520,6 @@
     "related": [],
     "collected": true
   },
-  "auto-e0feede0ae21": {
-    "id": "auto-e0feede0ae21",
-    "category": "再生可能エネルギー",
-    "title": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!",
-    "source": "イザ！",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fM1NYSGdIa0FKMDNFTnJtU1hWYUt1d3JUSXNoOUdKVkczV1VmdTlsbU52M1Vxa1lIWkctdzI3MVRMS2tEdDBrMzRNZlYxa1g5UTVDTy1kS2Y3UmdFdzBXWmx3Q2hmUXZhZVJfX2FneHpqWEhyclkwcUhB?oc=5",
-    "time": "6/25(木) 1:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!&nbsp;&nbsp;イザ！",
-    "body": [
-      "「系統用蓄電池ビジネスで存在感を示すための重要ポイント」と題して、PwCコンサルティング合同会社 シニアマネージャー 杉山 理恩氏によるセミナーを2026年8月4日(火)に開催!!&nbsp;&nbsp;イザ！"
-    ],
-    "related": [],
-    "collected": true
-  },
   "auto-ff4117edaab5": {
     "id": "auto-ff4117edaab5",
     "category": "政策・制度",
@@ -3496,25 +3534,6 @@
     "summary": "【無料公開】トヨタ、パナをEVバッテリーで頼ったSUBARU…補助金「7000億円」投下の“電池サプライヤー勢力図”を大公開&nbsp;&nbsp;ダイヤモンド・オンライン",
     "body": [
       "【無料公開】トヨタ、パナをEVバッテリーで頼ったSUBARU…補助金「7000億円」投下の“電池サプライヤー勢力図”を大公開&nbsp;&nbsp;ダイヤモンド・オンライン"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-a92e904fa1d9": {
-    "id": "auto-a92e904fa1d9",
-    "category": "再生可能エネルギー",
-    "title": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfNGlhaVJmUTZNam1Ec2JTakJxNEJYcFdoOWFTUDJQRmczVElPVHlKQnVWWlFoMHVRNHpvYVFtZWtfN3FSTmtJaHMtdFhjNFUwM05XSg?oc=5",
-    "time": "6/23(火) 16:30",
-    "comments": 0,
-    "tags": [
-      "蓄電池",
-      "蓄電"
-    ],
-    "summary": "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "【日本蓄電池株式会社】宮城県仙台市にて系統用蓄電施設「NC仙台市青葉区上愛子蓄電所」需給調整市場への運用開始&nbsp;&nbsp;ニコニコニュース"
     ],
     "related": [],
     "collected": true
@@ -3626,24 +3645,6 @@
     "summary": "再生可能エネルギーで社会を変える。住友商事の多角的なエネルギービジネスを紹介&nbsp;&nbsp;sumitomocorp.com",
     "body": [
       "再生可能エネルギーで社会を変える。住友商事の多角的なエネルギービジネスを紹介&nbsp;&nbsp;sumitomocorp.com"
-    ],
-    "related": [],
-    "collected": true
-  },
-  "auto-9ad4d9a4564a": {
-    "id": "auto-9ad4d9a4564a",
-    "category": "政策・制度",
-    "title": "TBM、注力事業であるカーボンリサイクル事業の紹介動画を公開",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUT0NwV254OVZGMk9qTlJ1SFV6eTFyb18tUWZoTVB3cWJxSzUwUGloYmhxWVFGczFKeGxKVjlnMjd0amlFRzFIY2VlV01oUTF3Ync4T1JuUWpXdzBKQWRWS1BZXzFXVThj?oc=5",
-    "time": "6/25(木) 16:00",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "TBM、注力事業であるカーボンリサイクル事業の紹介動画を公開&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "TBM、注力事業であるカーボンリサイクル事業の紹介動画を公開&nbsp;&nbsp;ニコニコニュース"
     ],
     "related": [],
     "collected": true
