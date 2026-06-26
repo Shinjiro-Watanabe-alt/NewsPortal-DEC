@@ -1,9 +1,17 @@
 [
   {
+    "id": "auto-f18bdbf78cb2",
+    "title": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助",
+    "category": "政策・制度",
+    "accent": false,
+    "source": "EVcafe",
+    "time": "5:07"
+  },
+  {
     "id": "auto-e13e0de98005",
     "title": "―当社保有発電所 初の低圧FIP転換案件―太陽光発電所「リュミエ菊池」における基礎工事着工のお知らせ",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "南日本新聞",
     "time": "5:04"
   },
@@ -11,7 +19,7 @@
     "id": "auto-a1f1e9683813",
     "title": "カーボンクレジット売買仲介の「カーボンリンク」、シリーズA 1stクローズで資金調達を実施",
     "category": "政策・制度",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "4:45"
   },
@@ -27,7 +35,7 @@
     "id": "auto-08af0ef909da",
     "title": "【太陽光発電】東京センチュリー：フィリピンで太陽光PPA合弁会社、2030年までに50MW導入へ",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "4:38"
   },
@@ -35,14 +43,14 @@
     "id": "auto-93c11add0881",
     "title": "【蓄電関連】日本蓄電池：仙台市で系統用蓄電所の市場運用開始、需給調整モデルを構築",
     "category": "再エネ",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "4:38"
   },
   {
     "id": "auto-2c1f8ef0369a",
     "title": "『脱炭素JOURNAL（仮）』創刊号7/15発行！無料献本キャンペーンのお知らせ",
-    "category": "政策・制度",
+    "category": "再エネ",
     "accent": false,
     "source": "ソーラージャーナル",
     "time": "4:03"
@@ -51,15 +59,15 @@
     "id": "auto-c673618dceac",
     "title": "屋上太陽光発電に関する政策は、もっとオープンであるべきだ。",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "3:53"
   },
   {
-    "id": "auto-a4d7cb7ba26a",
+    "id": "auto-2e764972d808",
     "title": "飛騨高山森林組合とステラーグリーンがカーボンニュートラルの実現に向けたパートナーシップ協定を締結",
     "category": "政策・制度",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "3:48"
   },
@@ -75,7 +83,7 @@
     "id": "auto-83c9fe97e75d",
     "title": "KNホールディングスがダクラク省で304MWの浮体式太陽光発電プロジェクトを開始。",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "3:23"
   },
@@ -83,7 +91,7 @@
     "id": "auto-9d0b9bb90a78",
     "title": "2026年夏季ダボス会議｜AI時代の電力需要拡大と太陽光発電の新たな可能性",
     "category": "再エネ",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "3:21"
   },
@@ -99,17 +107,9 @@
     "id": "auto-34179e634803",
     "title": "航空業界の脱炭素化へ政策支援拡充を提言 国連関連報告書、SAF普及や次世代機開発の加速求める",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "ESG Journal",
     "time": "3:01"
-  },
-  {
-    "id": "auto-176becd59553",
-    "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
-    "category": "再エネ",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "3:00"
   },
   {
     "id": "auto-f1f11b4e34f7",
