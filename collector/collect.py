@@ -302,6 +302,13 @@ def fetch_zero_carbon_total():
             print(f"[debug] 「団体」周辺: ...{text[start:mm.start() + 40]}...", file=sys.stderr)
         if not hits:
             print(f"[debug] 「団体」を含む箇所なし。先頭500文字: {text[:500]!r}", file=sys.stderr)
+
+        raw_html = raw.decode("utf-8", errors="ignore")
+        for am in re.finditer(r'<a\b[^>]*href="([^"]+)"[^>]*>([^<]{0,40})', raw_html):
+            href, link_text = am.groups()
+            if "一覧" in link_text or "ゼロカーボン" in link_text:
+                print(f"[debug] リンク候補: text={link_text!r} href={href!r}", file=sys.stderr)
+
         print("[skip] ゼロカーボン自治体数: ページ本文から数値を抽出できず", file=sys.stderr)
         return None
 
@@ -346,7 +353,7 @@ def fetch_jepx_spot_average(now: datetime):
             )
             continue
 
-        date_col = next((k for k in rows[0] if k and "年月日" in k), None)
+        date_col = next((k for k in rows[0] if k and ("受渡日" in k or "年月日" in k)), None)
         price_col = next((k for k in rows[0] if k and "システムプライス" in k), None)
         if not date_col or not price_col:
             print(
