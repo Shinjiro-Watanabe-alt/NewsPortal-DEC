@@ -1,8 +1,9 @@
 /* article.html — single article view, driven by data/articles.json keyed by ?id=. */
 (function () {
   function relatedCardHtml(id, a) {
-    return `<a class="fitem" href="article.html?id=${encodeURIComponent(id)}">
-      <div class="thumb"><span>写真</span></div>
+    const href = DN.esc(a.source_url || `article.html?id=${encodeURIComponent(id)}`);
+    return `<a class="fitem" href="${href}" target="_blank" rel="noopener noreferrer">
+      <div class="thumb">${DN.thumbInnerHtml(a.image)}</div>
       <div>
         <h4>${DN.esc(a.title)}</h4>
         <div class="fm"><span class="cat">${DN.esc(a.category)}</span>
@@ -57,7 +58,7 @@
             <button type="button" aria-label="ブックマーク">${DN.icon('bookmark_border')}</button>
           </div>
         </div>
-        <div class="thumb art-hero"><span>主要写真</span></div>
+        <div class="thumb art-hero">${DN.thumbInnerHtml(art.image, '主要写真')}</div>
         <p class="art-summary">${DN.esc(art.summary)}</p>
         <div class="art-body">${art.body.map((p) => `<p>${DN.esc(p)}</p>`).join('')}</div>
         <div class="art-tags">${art.tags.map((t) => `<a href="#">#${DN.esc(t)}</a>`).join('')}</div>

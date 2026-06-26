@@ -167,6 +167,45 @@ def classify_category(text: str, fallback: str) -> str:
     return fallback
 
 
+IMAGE_FETCH_TIMEOUT = 8
+MAX_IMAGE_FETCH_BYTES = 200_000
+META_IMAGE_PATTERNS = [
+    re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.I),
+    re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']', re.I),
+]
+
+
+def extract_og_image(html_text: str):
+    """HTML文字列からog:image(なければtwitter:image)のURLを抜き出す"""
+    for pattern in META_IMAGE_PATTERNS:
+        m = pattern.search(html_text)
+        if m:
+            return m.group(1).strip()
+    return None
+
+
+def fetch_article_image(url: str):
+    """記事の元ページを取得し、OGP画像(og:image / twitter:image)のURLを返す(失敗時はNone)"""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=IMAGE_FETCH_TIMEOUT) as res:
+            content_type = res.headers.get("Content-Type", "")
+            if "html" not in content_type.lower():
+                return None
+            raw = res.read(MAX_IMAGE_FETCH_BYTES)
+            final_url = res.geturl()
+    except (urllib.error.URLError, TimeoutError, ValueError, OSError) as exc:
+        print(f"[skip] 画像取得失敗 ({url}): {exc}", file=sys.stderr)
+        return None
+
+    image_url = extract_og_image(raw.decode("utf-8", errors="ignore"))
+    if not image_url:
+        return None
+    return urllib.parse.urljoin(final_url, image_url)
+
+
 def collect_one_source(source: dict, now: datetime):
     results = []
     source_type = source.get("type", "feed")
@@ -232,6 +271,8 @@ def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: s
         "source": lead_a["source"],
         "time": lead_a["time"],
         "comments": 0,
+        "source_url": lead_a["source_url"],
+        "image": lead_a.get("image"),
     }
 
     headlines = []
@@ -243,6 +284,7 @@ def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: s
             "title": a["title"],
             "tag": "NEW" if aid in new_ids else "",
             "pr": False,
+            "source_url": a["source_url"],
         })
 
     return {"tabs": tabs, "lead": lead, "headlines": headlines}
@@ -501,8 +543,12 @@ def main():
     new_ids = set()
     for source in sources:
         for article in collect_one_source(source, now):
-            if article["id"] not in collected:
+            prev = collected.get(article["id"])
+            if prev is None:
                 new_ids.add(article["id"])
+            elif "image" in prev:
+                # 既知記事を再収集しても、取得済みの画像URLは失わないように引き継ぐ
+                article["image"] = prev["image"]
             collected[article["id"]] = article
     new_count = len(new_ids)
 
@@ -514,6 +560,11 @@ def main():
     for a in articles.values():
         a.pop("_sort_key", None)
 
+    # 画像は記事ごとに一度だけ取得する(成功・失敗とも結果を保持し、以後は再取得しない)
+    for article in articles.values():
+        if "image" not in article:
+            article["image"] = fetch_article_image(article["source_url"])
+
     feed = [
         {
             "id": aid,
@@ -522,6 +573,8 @@ def main():
             "accent": i % 3 == 1,
             "source": articles[aid]["source"],
             "time": articles[aid]["time"].split(" ")[-1],
+            "source_url": articles[aid]["source_url"],
+            "image": articles[aid].get("image"),
         }
         for i, aid in enumerate(ordered_ids[:MAX_FEED_ITEMS])
     ]

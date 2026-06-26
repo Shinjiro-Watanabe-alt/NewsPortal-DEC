@@ -40,3 +40,15 @@ DN.kpiCardHtml = function kpiCardHtml(k) {
       <span style="color:var(--ink-3);font-weight:400;margin-left:2px">${DN.esc(k.period)}</span></div>
   </div>`;
 };
+
+// 記事サムネイル: 画像URLがあれば<img>、なければプレースホルダーのラベルを表示する。
+// 画像の読み込みに失敗した場合は onThumbImgError がプレースホルダーに差し替える。
+DN.thumbInnerHtml = function thumbInnerHtml(imageUrl, fallbackLabel) {
+  const label = fallbackLabel || '写真';
+  if (!imageUrl) return `<span>${DN.esc(label)}</span>`;
+  return `<img src="${DN.esc(imageUrl)}" alt="" loading="lazy" data-fallback="${DN.esc(label)}" onerror="DN.onThumbImgError(this)">`;
+};
+
+DN.onThumbImgError = function onThumbImgError(img) {
+  img.outerHTML = `<span>${DN.esc(img.dataset.fallback || '写真')}</span>`;
+};

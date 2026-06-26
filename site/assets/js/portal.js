@@ -35,10 +35,11 @@
     const lead = t.lead;
     const leadEl = document.getElementById('topicLead');
     if (leadEl) {
+      const leadHref = DN.esc(lead.source_url || `article.html?id=${encodeURIComponent(lead.id)}`);
       leadEl.innerHTML = `
-        <a class="thumb" href="article.html?id=${encodeURIComponent(lead.id)}"><span>主要写真</span></a>
+        <a class="thumb" href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.thumbInnerHtml(lead.image, '主要写真')}</a>
         <div class="tl-body">
-          <h3><a href="article.html?id=${encodeURIComponent(lead.id)}">${DN.esc(lead.title)}</a></h3>
+          <h3><a href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.esc(lead.title)}</a></h3>
           <p>${DN.esc(lead.summary)}</p>
           <div class="topic-meta"><span class="src">${DN.esc(lead.source)}</span><span>${DN.esc(lead.time)}</span>
             ${DN.icon('forum', 'font-size:14px')}<span>${lead.comments.toLocaleString('ja-JP')}</span></div>
@@ -48,7 +49,7 @@
     const headlinesEl = document.getElementById('headlines');
     if (headlinesEl) {
       headlinesEl.innerHTML = t.headlines.map((h) =>
-        `<li><a href="article.html?id=${encodeURIComponent(h.id)}">
+        `<li><a href="${DN.esc(h.source_url || `article.html?id=${encodeURIComponent(h.id)}`)}" target="_blank" rel="noopener noreferrer">
            <span class="rank">${h.rank}</span><span class="ttl">${DN.esc(h.title)}</span>
            ${h.tag ? `<span class="new">${DN.esc(h.tag)}</span>` : ''}
            <span class="pv">${h.pr ? 'PR' : ''}</span>
@@ -64,8 +65,9 @@
   }
 
   function feedItemHtml(f) {
-    return `<a class="fitem" href="article.html?id=${encodeURIComponent(f.id)}">
-      <div class="thumb"><span>写真</span></div>
+    const href = DN.esc(f.source_url || `article.html?id=${encodeURIComponent(f.id)}`);
+    return `<a class="fitem" href="${href}" target="_blank" rel="noopener noreferrer">
+      <div class="thumb">${DN.thumbInnerHtml(f.image)}</div>
       <div>
         <h4>${DN.esc(f.title)}</h4>
         <div class="fm"><span class="cat ${f.accent ? 'b' : ''}">${DN.esc(f.category)}</span>
