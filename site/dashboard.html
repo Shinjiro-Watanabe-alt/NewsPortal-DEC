@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>データダッシュボード — 脱炭素ナビ</title>
+<meta name="description" content="日本のCO2排出量・再エネ比率・カーボンプライス・ゼロカーボンシティ宣言状況などの脱炭素データダッシュボード。">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Shippori+Mincho:wght@500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,400,0,0&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/dashboard.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<div data-include="partials/utility.html"></div>
+<div data-include="partials/masthead.html"></div>
+<div data-include="partials/shortcuts.html"></div>
+
+<main class="main" id="main">
+  <div class="wrap dash-wrap">
+
+    <nav class="crumb" aria-label="breadcrumb">
+      <a href="index.html">ホーム</a>
+      <span class="material-symbols-outlined">chevron_right</span>
+      <span>データダッシュボード</span>
+    </nav>
+
+    <div class="dash-head">
+      <h1>データダッシュボード</h1>
+      <span class="upd" id="dashUpdated"></span>
+    </div>
+
+    <div class="kpis dash-kpis" id="dashKpis"></div>
+
+    <div class="dash-grid">
+
+      <div class="card dash-card" id="power-mix">
+        <div class="card-h"><h2><span class="bar"></span>電源構成（本日）</h2></div>
+        <div class="donut-wrap" id="powerMixChart"></div>
+      </div>
+
+      <div class="card dash-card">
+        <div class="card-h"><h2><span class="bar"></span>国内CO2排出量の推移</h2><span class="upd">億t</span></div>
+        <div class="chart-body" id="co2TrendChart"></div>
+      </div>
+
+      <div class="card dash-card">
+        <div class="card-h"><h2><span class="bar"></span>再エネ比率の推移</h2><span class="upd">%</span></div>
+        <div class="chart-body" id="renewableTrendChart"></div>
+      </div>
+
+      <div class="card dash-card" id="carbon-price">
+        <div class="card-h"><h2><span class="bar"></span>カーボンプライス推移（GX-ETS）</h2><span class="upd">円/t</span></div>
+        <div class="chart-body" id="carbonPriceChart"></div>
+      </div>
+
+      <div class="card dash-card wide" id="zero-carbon">
+        <div class="card-h"><h2><span class="bar"></span>ゼロカーボンシティ宣言状況（地域別）</h2></div>
+        <div id="zeroCarbonChart"></div>
+      </div>
+
+      <div class="card dash-card wide">
+        <div class="card-h"><h2><span class="bar"></span>部門別CO2排出量</h2></div>
+        <div id="sectorChart"></div>
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<div data-include="partials/footer.html"></div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/include.js"></script>
+<script src="assets/js/settings.js"></script>
+<script src="assets/js/chrome.js"></script>
+<script src="assets/js/dashboard.js"></script>
+</body>
+</html>

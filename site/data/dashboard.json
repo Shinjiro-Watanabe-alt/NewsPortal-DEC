@@ -1,0 +1,64 @@
+{
+  "updated": "2026年6月26日 8:30 更新",
+  "kpis": [
+    { "icon": "co2",           "label": "国内CO2排出量（年度）", "value": "9.74",  "unit": "億t",  "delta": "-5.2%",  "dir": "down", "period": "前年度比" },
+    { "icon": "bolt",          "label": "電源の再エネ比率（年度平均）", "value": "28.4", "unit": "%", "delta": "+2.1pt", "dir": "up", "period": "前年度比" },
+    { "icon": "sell",          "label": "カーボンプライス", "value": "4,300", "unit": "円/t", "delta": "+180", "dir": "up", "period": "前週比" },
+    { "icon": "location_city", "label": "ゼロカーボン宣言自治体", "value": "1,124", "unit": "自治体", "delta": "+37", "dir": "up", "period": "今四半期" }
+  ],
+  "powerMixToday": [
+    { "label": "太陽光",   "value": 18.4, "key": "solar" },
+    { "label": "風力",     "value": 4.2,  "key": "wind" },
+    { "label": "水力",     "value": 6.1,  "key": "hydro" },
+    { "label": "地熱",     "value": 0.3,  "key": "geo" },
+    { "label": "バイオマス", "value": 3.1, "key": "bio" },
+    { "label": "LNG",      "value": 34.2, "key": "lng" },
+    { "label": "石炭",     "value": 24.8, "key": "coal" },
+    { "label": "原子力",   "value": 8.9,  "key": "nuclear" }
+  ],
+  "co2Trend": [
+    { "year": "2013", "value": 14.08 },
+    { "year": "2016", "value": 13.17 },
+    { "year": "2019", "value": 12.12 },
+    { "year": "2021", "value": 11.70 },
+    { "year": "2022", "value": 10.85 },
+    { "year": "2023", "value": 10.23 },
+    { "year": "2024", "value": 9.74 }
+  ],
+  "renewableTrend": [
+    { "year": "2013", "value": 10.7 },
+    { "year": "2016", "value": 15.3 },
+    { "year": "2019", "value": 18.1 },
+    { "year": "2021", "value": 20.3 },
+    { "year": "2022", "value": 22.7 },
+    { "year": "2023", "value": 26.3 },
+    { "year": "2024", "value": 28.4 }
+  ],
+  "carbonPriceTrend": [
+    { "week": "5/4",  "value": 3980 },
+    { "week": "5/11", "value": 4050 },
+    { "week": "5/18", "value": 4120 },
+    { "week": "5/25", "value": 4090 },
+    { "week": "6/1",  "value": 4180 },
+    { "week": "6/8",  "value": 4210 },
+    { "week": "6/15", "value": 4260 },
+    { "week": "6/22", "value": 4300 }
+  ],
+  "zeroCarbonByRegion": [
+    { "region": "北海道",     "declared": 121, "total": 179 },
+    { "region": "東北",       "declared": 168, "total": 227 },
+    { "region": "関東",       "declared": 231, "total": 291 },
+    { "region": "中部",       "declared": 159, "total": 207 },
+    { "region": "近畿",       "declared": 142, "total": 197 },
+    { "region": "中国",       "declared": 79,  "total": 107 },
+    { "region": "四国",       "declared": 53,  "total": 95 },
+    { "region": "九州・沖縄", "declared": 171, "total": 233 }
+  ],
+  "sectorEmissions": [
+    { "label": "産業", "value": 33.8 },
+    { "label": "運輸", "value": 17.4 },
+    { "label": "家庭", "value": 14.6 },
+    { "label": "業務その他", "value": 16.9 },
+    { "label": "エネルギー転換", "value": 17.3 }
+  ]
+}

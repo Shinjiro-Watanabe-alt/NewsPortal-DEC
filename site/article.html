@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>脱炭素ナビ — 記事</title>
+<meta name="description" content="日本の脱炭素・カーボンニュートラルに関するニュース記事。">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Shippori+Mincho:wght@500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,400,0,0&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/article.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<div data-include="partials/utility.html"></div>
+<div data-include="partials/masthead.html"></div>
+<div data-include="partials/shortcuts.html"></div>
+
+<main class="main" id="main">
+  <div class="wrap">
+
+    <nav class="crumb" aria-label="breadcrumb">
+      <a href="index.html">ホーム</a>
+      <span class="material-symbols-outlined">chevron_right</span>
+      <a href="index.html" id="crumbCatLink"><span id="crumbCat"></span></a>
+      <span class="material-symbols-outlined">chevron_right</span>
+      <span id="crumbTitle"></span>
+    </nav>
+
+    <section class="art-col" id="articleRoot"></section>
+
+    <aside class="rail-col" data-include="partials/rail.html"></aside>
+
+  </div>
+</main>
+
+<div data-include="partials/footer.html"></div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/include.js"></script>
+<script src="assets/js/settings.js"></script>
+<script src="assets/js/chrome.js"></script>
+<script src="assets/js/article.js"></script>
+</body>
+</html>

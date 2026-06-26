@@ -1,0 +1,15 @@
+[
+  { "icon": "eco", "label": "再エネ", "href": "index.html?cat=renewable" },
+  { "icon": "solar_power", "label": "太陽光", "href": "index.html?cat=renewable" },
+  { "icon": "wind_power", "label": "洋上風力", "href": "index.html?cat=renewable" },
+  { "icon": "water_drop", "label": "水素", "href": "index.html?cat=tech" },
+  { "icon": "directions_car", "label": "EV・モビリティ", "href": "index.html?cat=life" },
+  { "icon": "house", "label": "省エネ住宅", "href": "index.html?cat=life" },
+  { "icon": "factory", "label": "産業・鉄鋼", "href": "index.html?cat=business" },
+  { "icon": "payments", "label": "補助金", "href": "index.html?cat=policy" },
+  { "icon": "swap_horiz", "label": "排出量取引", "href": "index.html?cat=policy" },
+  { "icon": "business", "label": "企業事例", "href": "index.html?cat=business" },
+  { "icon": "location_city", "label": "自治体", "href": "index.html?cat=municipal" },
+  { "icon": "menu_book", "label": "用語集", "href": "#glossary" },
+  { "icon": "monitoring", "label": "データ", "href": "dashboard.html" }
+]

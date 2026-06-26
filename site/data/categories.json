@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "policy",
+    "icon": "public",
+    "label": "政策・制度",
+    "count": 128
+  },
+  {
+    "slug": "renewable",
+    "icon": "bolt",
+    "label": "再生可能エネルギー",
+    "count": 214
+  },
+  {
+    "slug": "business",
+    "icon": "business",
+    "label": "企業・産業",
+    "count": 176
+  },
+  {
+    "slug": "tech",
+    "icon": "science",
+    "label": "技術・イノベ",
+    "count": 92
+  },
+  {
+    "slug": "life",
+    "icon": "home",
+    "label": "暮らし・住宅",
+    "count": 64
+  },
+  {
+    "slug": "municipal",
+    "icon": "location_city",
+    "label": "自治体・地域",
+    "count": 110
+  },
+  {
+    "slug": "intl",
+    "icon": "public",
+    "label": "国際動向",
+    "count": 73
+  }
+]

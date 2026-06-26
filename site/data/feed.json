@@ -1,0 +1,14 @@
+[
+  { "id": "rooftop-agrivoltaics",  "title": "商業施設の屋根に営農型太陽光　地域新電力と連携し地産地消モデル", "category": "再エネ", "accent": false, "source": "環境経済ニュース", "time": "9:05" },
+  { "id": "datacenter-power-surge","title": "データセンターの消費電力急増、再エネ調達と立地分散が新たな論点に", "category": "技術", "accent": true,  "source": "テックグリーン", "time": "8:52" },
+  { "id": "municipal-ev-fleet",    "title": "自治体の公用車、2030年までに全車EV・FCVへ　政令市で目標前倒し", "category": "自治体", "accent": false, "source": "地域脱炭素ジャーナル", "time": "8:40" },
+  { "id": "bipv-new-jis",          "title": "建材一体型太陽光（BIPV）に新JIS　ビル外装での発電を後押し", "category": "政策", "accent": true,  "source": "建設環境タイムズ", "time": "8:31" },
+  { "id": "grid-battery-200mw",    "title": "国内最大級の系統用蓄電所が運開　出力20万kW、再エネ変動を吸収", "category": "再エネ", "accent": false, "source": "エネルギーフロント", "time": "8:18" },
+  { "id": "sme-co2-visibility",    "title": "中小企業のCO2見える化、無料クラウドの利用が10万社を突破", "category": "企業", "accent": true,  "source": "サステナ経営Web", "time": "8:02" },
+  { "id": "offshore-wind-supply",  "title": "洋上風力の部品供給網、東北で集積進む　地元雇用2,000人規模に", "category": "企業", "accent": false, "source": "産業ウォッチ", "time": "7:50" },
+  { "id": "insulation-grade6",     "title": "住宅の断熱等級6が標準に　省エネ基準の段階的引き上げ案を公表", "category": "暮らし", "accent": true,  "source": "住まいと環境", "time": "7:38" },
+  { "id": "efuel-price-target",    "title": "合成燃料（e-fuel）の価格、2030年に1Lあたり200円台を目標に", "category": "技術", "accent": false, "source": "モビリティ脱炭素", "time": "7:25" },
+  { "id": "jcredit-forest-high",   "title": "森林由来J-クレジット、価格が過去最高に　企業の調達需要が拡大", "category": "政策", "accent": true,  "source": "カーボン市場レポート", "time": "7:10" },
+  { "id": "geothermal-deregulation","title": "地熱発電、規制緩和で開発加速　国立公園内の調査が解禁へ", "category": "再エネ", "accent": false, "source": "再エネ最前線", "time": "6:58" },
+  { "id": "carbon-neutral-ports",  "title": "港湾の脱炭素「カーボンニュートラルポート」、全国15港で計画策定", "category": "自治体", "accent": true,  "source": "物流グリーンnews", "time": "6:45" }
+]

@@ -1,0 +1,6 @@
+[
+  { "icon": "co2",           "label": "国内CO2排出量",   "value": "9.74",  "unit": "億t",    "delta": "-5.2%", "dir": "down", "period": "前年度比" },
+  { "icon": "bolt",          "label": "電源の再エネ比率", "value": "28.4",  "unit": "%",      "delta": "+2.1pt", "dir": "up",   "period": "前年度比" },
+  { "icon": "sell",          "label": "カーボンプライス", "value": "4,300", "unit": "円/t",   "delta": "+180",  "dir": "up",   "period": "前週比" },
+  { "icon": "location_city", "label": "ゼロカーボン宣言", "value": "1,124", "unit": "自治体", "delta": "+37",   "dir": "up",   "period": "今四半期" }
+]

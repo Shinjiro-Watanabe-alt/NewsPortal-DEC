@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>脱炭素ナビ — 日本の脱炭素ニュースポータル（スマホ版）</title>
+<meta name="description" content="日本の脱炭素・カーボンニュートラルに関するニュースとデータを集約する情報ポータル。スマホ版レイアウト。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Shippori+Mincho:wght@500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,400,0,0&display=swap" rel="stylesheet">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/mobile.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<header class="m-head">
+  <div class="m-head-row">
+    <a class="m-brand" href="mobile.html">
+      <span class="brand-mark" style="width:30px;height:30px;border-radius:9px"></span>
+      <b>脱炭素ナビ</b>
+    </a>
+    <button type="button" class="m-icon-btn" id="mSearchBtn" aria-haspopup="true" aria-expanded="false" aria-label="検索">
+      <span class="material-symbols-outlined">search</span>
+    </button>
+  </div>
+  <div class="m-search-row" id="mSearchRow">
+    <div class="search-field">
+      <input type="search" placeholder="ニュース・キーワードを検索">
+      <button type="button"><span class="material-symbols-outlined" style="font-size:18px">search</span></button>
+    </div>
+  </div>
+  <div class="m-ticker">
+    <span class="live-dot"></span>いまの全国再エネ比率&nbsp;<b id="reShare">32.1%</b>
+    <span class="m-date" id="today"></span>
+  </div>
+</header>
+
+<nav class="cat-strip"><div class="nav-list" id="navList"></div></nav>
+
+<div data-include="partials/ribbon.html"></div>
+
+<main class="m-main" id="main">
+
+  <nav class="shortcuts"><div class="wrap" id="scGrid"></div></nav>
+
+  <div class="card m-topic">
+    <div class="topics-tabs" id="topicTabs"></div>
+    <div class="topic-lead" id="topicLead"></div>
+    <ul class="headlines" id="headlines"></ul>
+  </div>
+
+  <div class="card">
+    <div class="card-h"><h2><span class="bar"></span>日本の脱炭素データ</h2><a href="dashboard.html" class="all">指標一覧&nbsp;<span class="material-symbols-outlined" style="font-size:16px">chevron_right</span></a></div>
+    <div class="kpis m-kpis" id="kpiStrip"></div>
+  </div>
+
+  <div class="filter-chip" id="filterChip">
+    <span class="material-symbols-outlined" style="font-size:16px">filter_alt</span>
+    <span class="fc-label"></span>
+    <button type="button"><span class="material-symbols-outlined" style="font-size:16px">close</span>解除</button>
+  </div>
+
+  <div class="card">
+    <div class="card-h"><h2><span class="bar"></span>新着ニュース</h2></div>
+    <div class="feed m-feed" id="feed"></div>
+    <div class="feed-more"><button type="button" id="feedMoreBtn"><span class="material-symbols-outlined" style="font-size:18px">expand_more</span>もっと読み込む</button></div>
+  </div>
+
+  <div class="card">
+    <div class="card-h"><h2><span class="bar"></span>きょうの指標</h2><span class="upd">8:30更新</span></div>
+    <div class="rail-data" id="railData"></div>
+  </div>
+
+  <div class="card">
+    <div class="card-h"><h2><span class="bar"></span>話題のキーワード</h2><span class="upd">8:30更新</span></div>
+    <ul class="ranklist" id="ranks"></ul>
+  </div>
+
+  <div class="card" id="glossary">
+    <div class="card-h"><h2><span class="bar"></span>用語をおさえる</h2></div>
+    <div class="glossary" id="glossaryList"></div>
+  </div>
+
+</main>
+
+<div data-include="partials/footer.html"></div>
+
+<nav class="tabbar">
+  <a class="tb-item" href="mobile.html" data-nav="mobile.html"><span class="material-symbols-outlined">home</span>ホーム</a>
+  <a class="tb-item" href="dashboard.html" data-nav="dashboard.html"><span class="material-symbols-outlined">monitoring</span>データ</a>
+  <a class="tb-item" href="index.html" data-nav="index.html"><span class="material-symbols-outlined">desktop_windows</span>PC版</a>
+  <div class="tb-item set-trigger" id="settingsMount"></div>
+</nav>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/include.js"></script>
+<script src="assets/js/settings.js"></script>
+<script src="assets/js/chrome.js"></script>
+<script src="assets/js/portal.js"></script>
+<script src="assets/js/mobile.js"></script>
+</body>
+</html>
