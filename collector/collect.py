@@ -295,6 +295,13 @@ def fetch_zero_carbon_total():
     text = strip_html(raw.decode("utf-8", errors="ignore"))
     m = ZERO_CARBON_STRICT_RE.search(text) or ZERO_CARBON_LOOSE_RE.search(text)
     if not m:
+        print(f"[debug] ゼロカーボン自治体数: 取得テキスト長={len(text)}", file=sys.stderr)
+        hits = list(re.finditer("団体", text))
+        for mm in hits[:8]:
+            start = max(0, mm.start() - 40)
+            print(f"[debug] 「団体」周辺: ...{text[start:mm.start() + 40]}...", file=sys.stderr)
+        if not hits:
+            print(f"[debug] 「団体」を含む箇所なし。先頭500文字: {text[:500]!r}", file=sys.stderr)
         print("[skip] ゼロカーボン自治体数: ページ本文から数値を抽出できず", file=sys.stderr)
         return None
 
@@ -320,6 +327,7 @@ def fetch_jepx_spot_average(now: datetime):
             })
             with urllib.request.urlopen(req, timeout=FETCH_TIMEOUT) as res:
                 raw = res.read()
+                content_type = res.headers.get("Content-Type", "")
         except (urllib.error.URLError, TimeoutError, ValueError) as exc:
             print(f"[skip] JEPXスポット価格({year}): 取得失敗 ({exc})", file=sys.stderr)
             continue
@@ -331,11 +339,21 @@ def fetch_jepx_spot_average(now: datetime):
             print(f"[skip] JEPXスポット価格({year}): CSV解析失敗 ({exc})", file=sys.stderr)
             continue
         if not rows:
+            print(
+                f"[debug] JEPXスポット価格({year}): 行なし content-type={content_type!r} "
+                f"先頭300文字={text[:300]!r}",
+                file=sys.stderr,
+            )
             continue
 
         date_col = next((k for k in rows[0] if k and "年月日" in k), None)
         price_col = next((k for k in rows[0] if k and "システムプライス" in k), None)
         if not date_col or not price_col:
+            print(
+                f"[debug] JEPXスポット価格({year}): 列一覧={list(rows[0].keys())} "
+                f"content-type={content_type!r} 先頭300文字={text[:300]!r}",
+                file=sys.stderr,
+            )
             print(f"[skip] JEPXスポット価格({year}): 想定する列が見つからず", file=sys.stderr)
             continue
 
