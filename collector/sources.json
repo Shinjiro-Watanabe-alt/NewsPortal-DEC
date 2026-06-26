@@ -4,6 +4,12 @@
   { "type": "feed",   "name": "資源エネルギー庁 トピックス", "url": "https://www.enecho.meti.go.jp/topics/release.rdf",      "category": "政策・制度",   "default_source_label": "資源エネルギー庁" },
   { "type": "feed",   "name": "NEDO ニュースリリース",   "url": "https://www.nedo.go.jp/news/press/index.rdf",            "category": "技術・イノベ", "default_source_label": "NEDO" },
   { "type": "feed",   "name": "JOGMEC プレスリリース",   "url": "https://www.jogmec.go.jp/rss/news.xml",                  "category": "企業・産業",   "default_source_label": "JOGMEC" },
+  { "type": "feed",   "name": "PR TIMES 全件",          "url": "https://prtimes.jp/index.rdf",                            "category": "企業・産業",   "default_source_label": "PR TIMES" },
+  { "type": "feed",   "name": "スマートジャパン(ITmedia)", "url": "https://rss.itmedia.co.jp/rss/2.0/smartjapan.xml",       "category": "技術・イノベ", "default_source_label": "ITmedia スマートジャパン" },
+  { "type": "feed",   "name": "はてなブックマーク キーワード:脱炭素",          "url": "https://b.hatena.ne.jp/keyword/%E8%84%B1%E7%82%AD%E7%B4%A0?mode=rss",                            "category": "政策・制度",     "default_source_label": "はてなブックマーク" },
+  { "type": "feed",   "name": "はてなブックマーク キーワード:再生可能エネルギー", "url": "https://b.hatena.ne.jp/keyword/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC?mode=rss", "category": "再生可能エネルギー", "default_source_label": "はてなブックマーク" },
+  { "type": "feed",   "name": "はてなブックマーク キーワード:水素",            "url": "https://b.hatena.ne.jp/keyword/%E6%B0%B4%E7%B4%A0?mode=rss",                                     "category": "技術・イノベ",   "default_source_label": "はてなブックマーク" },
+  { "type": "feed",   "name": "はてなブックマーク キーワード:GX",             "url": "https://b.hatena.ne.jp/keyword/GX?mode=rss",                                                     "category": "政策・制度",     "default_source_label": "はてなブックマーク" },
 
   { "type": "search", "name": "検索: 脱炭素・カーボンニュートラル", "query": "脱炭素 OR カーボンニュートラル when:1d", "category": "政策・制度" },
   { "type": "search", "name": "検索: 再生可能エネルギー",          "query": "再生可能エネルギー 政策 OR 導入 when:1d", "category": "再生可能エネルギー" },
