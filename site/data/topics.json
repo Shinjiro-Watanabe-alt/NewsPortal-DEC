@@ -1,21 +1,78 @@
 {
-  "tabs": ["主要", "再エネ", "政策", "企業", "技術", "暮らし", "自治体", "国際"],
+  "tabs": [
+    "主要",
+    "政策",
+    "再生可能エネルギー",
+    "企業",
+    "技術",
+    "暮らし",
+    "自治体",
+    "国際動向"
+  ],
   "lead": {
-    "id": "ghg-60-percent-2035",
-    "title": "2035年度GHG「60%削減」を正式決定　政府、再エネ最優先の電源計画へ",
-    "summary": "政府は地球温暖化対策推進本部で、2035年度の温室効果ガス排出量を2013年度比60%削減する新目標を決定した。再生可能エネルギーを最大限導入する方針を明確にし、産業・運輸・家庭の各部門で工程表を示す。",
-    "source": "脱炭素ナビ編集部",
-    "time": "6/26(金) 8:20",
-    "comments": 1204
+    "id": "auto-f18bdbf78cb2",
+    "title": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助",
+    "summary": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助&nbsp;&nbsp;EVcafe",
+    "source": "EVcafe",
+    "time": "6/26(金) 5:07",
+    "comments": 0
   },
   "headlines": [
-    { "id": "offshore-wind-round4",   "rank": 1, "title": "洋上風力 第4ラウンド、秋田・山形沖など3海域を新たに公募開始", "tag": "NEW", "pr": false },
-    { "id": "perovskite-mass-line",   "rank": 2, "title": "ペロブスカイト太陽電池、国内初の量産ラインが稼働　軽量で壁面設置も", "tag": "NEW", "pr": false },
-    { "id": "hydrogen-steel-furnace", "rank": 3, "title": "鉄鋼大手、水素還元製鉄の実証炉が本格稼働　CO2を9割削減へ", "tag": "", "pr": false },
-    { "id": "gx-ets-launch",          "rank": 4, "title": "GX-ETS（排出量取引）が本格始動　対象は年10万t超の約700社", "tag": "", "pr": false },
-    { "id": "ev-subsidy-fy",          "rank": 5, "title": "EV購入補助、来年度は車載電池の国産・再エネ比率で加算へ", "tag": "", "pr": true },
-    { "id": "heatpump-adoption",      "rank": 6, "title": "家庭用ヒートポンプ給湯器の普及率が35%超　省エネ効果を試算", "tag": "", "pr": false },
-    { "id": "zero-carbon-cities",     "rank": 7, "title": "ゼロカーボンシティ宣言が1,124自治体に　人口カバー率9割超", "tag": "", "pr": false },
-    { "id": "saf-domestic",           "rank": 8, "title": "SAF（持続可能航空燃料）国産化へ　大手商社が製造プラント着工", "tag": "", "pr": true }
+    {
+      "id": "auto-e13e0de98005",
+      "rank": 1,
+      "title": "―当社保有発電所 初の低圧FIP転換案件―太陽光発電所「リュミエ菊池」における基礎工事着工のお知らせ",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-a1f1e9683813",
+      "rank": 2,
+      "title": "カーボンクレジット売買仲介の「カーボンリンク」、シリーズA 1stクローズで資金調達を実施",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-f5a818cf2ac3",
+      "rank": 3,
+      "title": "ENEOS、日本郵船のレストラン船に水素を供給 27年春から",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-08af0ef909da",
+      "rank": 4,
+      "title": "【太陽光発電】東京センチュリー：フィリピンで太陽光PPA合弁会社、2030年までに50MW導入へ",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-93c11add0881",
+      "rank": 5,
+      "title": "【蓄電関連】日本蓄電池：仙台市で系統用蓄電所の市場運用開始、需給調整モデルを構築",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-2c1f8ef0369a",
+      "rank": 6,
+      "title": "『脱炭素JOURNAL（仮）』創刊号7/15発行！無料献本キャンペーンのお知らせ",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-c673618dceac",
+      "rank": 7,
+      "title": "屋上太陽光発電に関する政策は、もっとオープンであるべきだ。",
+      "tag": "NEW",
+      "pr": false
+    },
+    {
+      "id": "auto-a4d7cb7ba26a",
+      "rank": 8,
+      "title": "飛騨高山森林組合とステラーグリーンがカーボンニュートラルの実現に向けたパートナーシップ協定を締結",
+      "tag": "NEW",
+      "pr": false
+    }
   ]
 }

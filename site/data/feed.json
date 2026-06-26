@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-f18bdbf78cb2",
+    "title": "東京都の補助金拡充でテスラ「モデル3」が実質200万円台に。国＋都で最大237万円の補助",
+    "category": "政策・制度",
+    "accent": false,
+    "source": "EVcafe",
+    "time": "5:07"
+  },
+  {
+    "id": "auto-e13e0de98005",
+    "title": "―当社保有発電所 初の低圧FIP転換案件―太陽光発電所「リュミエ菊池」における基礎工事着工のお知らせ",
+    "category": "再エネ",
+    "accent": true,
+    "source": "南日本新聞",
+    "time": "5:04"
+  },
+  {
+    "id": "auto-a1f1e9683813",
+    "title": "カーボンクレジット売買仲介の「カーボンリンク」、シリーズA 1stクローズで資金調達を実施",
+    "category": "政策・制度",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "4:45"
+  },
+  {
+    "id": "auto-f5a818cf2ac3",
+    "title": "ENEOS、日本郵船のレストラン船に水素を供給 27年春から",
+    "category": "技術・イノベ",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "4:42"
+  },
+  {
+    "id": "auto-08af0ef909da",
+    "title": "【太陽光発電】東京センチュリー：フィリピンで太陽光PPA合弁会社、2030年までに50MW導入へ",
+    "category": "再エネ",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "4:38"
+  },
+  {
+    "id": "auto-93c11add0881",
+    "title": "【蓄電関連】日本蓄電池：仙台市で系統用蓄電所の市場運用開始、需給調整モデルを構築",
+    "category": "再エネ",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "4:38"
+  },
+  {
+    "id": "auto-2c1f8ef0369a",
+    "title": "『脱炭素JOURNAL（仮）』創刊号7/15発行！無料献本キャンペーンのお知らせ",
+    "category": "再エネ",
+    "accent": false,
+    "source": "ソーラージャーナル",
+    "time": "4:03"
+  },
+  {
+    "id": "auto-c673618dceac",
+    "title": "屋上太陽光発電に関する政策は、もっとオープンであるべきだ。",
+    "category": "再エネ",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "3:53"
+  },
+  {
+    "id": "auto-a4d7cb7ba26a",
+    "title": "飛騨高山森林組合とステラーグリーンがカーボンニュートラルの実現に向けたパートナーシップ協定を締結",
+    "category": "政策・制度",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "3:48"
+  },
+  {
     "id": "auto-ff7714f87543",
     "title": "ホーチミン市の電力業界のリーダーたちが、効果的な屋上太陽光発電投資モデルについて「助言」を行っている。",
     "category": "再エネ",
@@ -40,20 +112,20 @@
     "time": "3:01"
   },
   {
-    "id": "auto-176becd59553",
-    "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
-    "category": "再エネ",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "3:00"
-  },
-  {
     "id": "auto-f1f11b4e34f7",
     "title": "リミックスポイント[3825]：―当社保有発電所 初の低圧FIP転換案件―太陽光発電所「リュミエ菊池」における基礎工事着工のお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL",
     "category": "再エネ",
     "accent": false,
     "source": "日本経済新聞",
     "time": "3:00"
+  },
+  {
+    "id": "auto-c86e48dba66b",
+    "title": "【太陽光発電】電力広域的運営推進機関：太陽光第28回入札で30件落札、加重平均落札価格は6.74円",
+    "category": "再エネ",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "2:57"
   },
   {
     "id": "auto-f23c240d0a9e",
@@ -128,18 +200,10 @@
     "time": "1:03"
   },
   {
-    "id": "auto-ccd1fac78b38",
-    "title": "「グリーンアンモニア市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内",
-    "category": "技術・イノベ",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "1:03"
-  },
-  {
     "id": "auto-3f5fdb159c79",
     "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "1:00"
   },
@@ -155,7 +219,7 @@
     "id": "auto-de23174910ae",
     "title": "佐賀県、国主体の環境アセスメント要請 唐津市沖洋上風力発電、格上げへ努力 佐賀県議会常任委員会",
     "category": "再エネ",
-    "accent": true,
+    "accent": false,
     "source": "佐賀新聞",
     "time": "1:00"
   },
@@ -163,7 +227,7 @@
     "id": "auto-aac256661c6e",
     "title": "中国：風力・太陽光発電容量の目標設定、2030年に比率50％超へ - ashu-chinastatistics.com",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "検索: 洋上風力・太陽光",
     "time": "0:56"
   },
@@ -174,69 +238,5 @@
     "accent": false,
     "source": "十勝毎日新聞",
     "time": "0:33"
-  },
-  {
-    "id": "auto-6236cf823670",
-    "title": "日機装、ベトナム航空機部品工場で太陽光稼働",
-    "category": "再エネ",
-    "accent": true,
-    "source": "LOGISTICS TODAY",
-    "time": "0:22"
-  },
-  {
-    "id": "auto-6d304d192d36",
-    "title": "共同購入で再エネ調達を手軽に～「非化石証書共同購入プロジェクト」募集中～",
-    "category": "再エネ",
-    "accent": false,
-    "source": "pref.kyoto.jp",
-    "time": "0:05"
-  },
-  {
-    "id": "auto-e3fd48423036",
-    "title": "猛暑のテニスコートに太陽光発電の屋根が登場！ エクソル「ソーラーシェルター」",
-    "category": "再エネ",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "0:03"
-  },
-  {
-    "id": "auto-3bf2ed78046c",
-    "title": "固定式水素充填ステーションの世界市場（2026年～2032年）、市場規模（オンサイト水素製造ステーション、液体水素供給ステーション、圧縮水素供給ステーション）・分析レポー...",
-    "category": "技術・イノベ",
-    "accent": true,
-    "source": "アットプレス",
-    "time": "0:00"
-  },
-  {
-    "id": "auto-141045011339",
-    "title": "TGES、WNS千葉工場に蓄電池オンサイトサービスを導入。蓄電池とCGSの統合自動制御は初",
-    "category": "再エネ",
-    "accent": false,
-    "source": "LIGARE（リガーレ）",
-    "time": "23:33"
-  },
-  {
-    "id": "auto-4b9210f28904",
-    "title": "欧州主要鉄鋼3社、EU排出量取引制度の見直しを要請 競争力維持と脱炭素化支援を訴え",
-    "category": "政策・制度",
-    "accent": false,
-    "source": "ESG Journal",
-    "time": "23:01"
-  },
-  {
-    "id": "auto-2e19946c808f",
-    "title": "東北銀行系「とうぎんリニューアブル・エナジー」が宮城・岩手で再エネ創出 太陽光発電所11基で 年間約１１０万キロワット時を供給 - kankyo-news.co.jp",
-    "category": "再エネ",
-    "accent": true,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "22:34"
-  },
-  {
-    "id": "auto-12eb0f27a753",
-    "title": "【太陽光発電】でんき0：住宅向け試算サービスを開始、太陽光・蓄電池の導入効果を最短1分で可視化",
-    "category": "再エネ",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "22:33"
   }
 ]
