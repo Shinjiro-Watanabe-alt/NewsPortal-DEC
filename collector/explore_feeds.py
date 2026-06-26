@@ -43,6 +43,18 @@ GOOGLE_NEWS_KEYWORD_FEEDS = [
     ("Googleニュース 検索:GXグリーントランスフォーメーション", "https://news.google.com/rss/search?q=GX%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&hl=ja&gl=JP&ceid=JP:ja"),
 ]
 
+# はてなブックマーク/Qiitaのキーワード・タグフィード
+HATENA_QIITA_FEEDS = [
+    ("はてなブックマーク キーワード:脱炭素", "https://b.hatena.ne.jp/keyword/%E8%84%B1%E7%82%AD%E7%B4%A0?mode=rss"),
+    ("はてなブックマーク キーワード:再生可能エネルギー", "https://b.hatena.ne.jp/keyword/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC?mode=rss"),
+    ("はてなブックマーク キーワード:水素", "https://b.hatena.ne.jp/keyword/%E6%B0%B4%E7%B4%A0?mode=rss"),
+    ("はてなブックマーク キーワード:GX", "https://b.hatena.ne.jp/keyword/GX?mode=rss"),
+    ("Qiita タグ:脱炭素", "https://qiita.com/tags/%E8%84%B1%E7%82%AD%E7%B4%A0/feed.atom"),
+    ("Qiita タグ:再生可能エネルギー", "https://qiita.com/tags/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/feed.atom"),
+    ("Qiita タグ:水素", "https://qiita.com/tags/%E6%B0%B4%E7%B4%A0/feed.atom"),
+    ("Qiita タグ:GX", "https://qiita.com/tags/gx/feed.atom"),
+]
+
 # Googleニュースのリダイレクトページの実体を確認するためのサンプルURL
 SAMPLE_GOOGLE_NEWS_URL = (
     "https://news.google.com/rss/articles/"
@@ -99,6 +111,10 @@ def main():
 
     print("\n\n########## Googleニュース検索型(リダイレクト問題の再確認用) ##########")
     for name, url in GOOGLE_NEWS_KEYWORD_FEEDS:
+        check_feed(name, url)
+
+    print("\n\n########## はてなブックマーク/Qiita ##########")
+    for name, url in HATENA_QIITA_FEEDS:
         check_feed(name, url)
 
 
