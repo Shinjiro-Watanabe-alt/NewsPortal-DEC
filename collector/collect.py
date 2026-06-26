@@ -277,9 +277,12 @@ ZERO_CARBON_URL = "https://www.env.go.jp/policy/zerocarbon.html"
 # ページ本文には総数の記載がなく、リンク先の「一覧図」PDFに埋め込まれていることが
 # 実際のページ調査で判明した。まずページ本文を試し、駄目なら一覧図PDFのテキストを試す。
 # 最終的にもありえない値は採用しない(ZERO_CARBON_PLAUSIBLE_RANGE)。
-ZERO_CARBON_STRICT_RE = re.compile(r"表明した地方公共団体は.{0,60}?(\d[\d,]{2,})\s*団体")
+ZERO_CARBON_STRICT_RE = re.compile(r"表明した地方公共団体は.{0,60}?(\d[\d,]{2,})\s*(?:自治体|団体)")
 ZERO_CARBON_PDF_COUNT_RE = re.compile(r"表明自治体数\D{0,10}?(\d[\d,]{2,})")
-ZERO_CARBON_LOOSE_RE = re.compile(r"(\d[\d,]{2,})\s*団体")
+# 一覧図PDFの実際の文言「〇〇を始めとする1215自治体(...)が...を表明。」に合わせて、
+# 「を始めとする」直後の数値だけを拾う。単純な「数値+団体」のみだと無関係な箇所
+# (例:本文中の年号と「団体」が偶然隣接する箇所)に誤マッチするため。
+ZERO_CARBON_LOOSE_RE = re.compile(r"を始めとする(\d[\d,]{2,})\s*(?:自治体|団体)")
 ZERO_CARBON_PDF_LINK_RE = re.compile(r'<a\b[^>]*href="([^"]+)"[^>]*>([^<]{0,80})')
 ZERO_CARBON_PLAUSIBLE_RANGE = (300, 1800)
 
