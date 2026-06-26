@@ -3,25 +3,25 @@
     "slug": "policy",
     "icon": "public",
     "label": "政策・制度",
-    "count": 39
+    "count": 42
   },
   {
     "slug": "renewable",
     "icon": "bolt",
     "label": "再生可能エネルギー",
-    "count": 96
+    "count": 93
   },
   {
     "slug": "business",
     "icon": "business",
     "label": "企業・産業",
-    "count": 8
+    "count": 9
   },
   {
     "slug": "tech",
     "icon": "science",
     "label": "技術・イノベ",
-    "count": 53
+    "count": 52
   },
   {
     "slug": "life",

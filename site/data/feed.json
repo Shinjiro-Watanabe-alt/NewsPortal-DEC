@@ -50,7 +50,7 @@
   {
     "id": "auto-2c1f8ef0369a",
     "title": "『脱炭素JOURNAL（仮）』創刊号7/15発行！無料献本キャンペーンのお知らせ",
-    "category": "再エネ",
+    "category": "政策・制度",
     "accent": false,
     "source": "ソーラージャーナル",
     "time": "4:03"
@@ -128,10 +128,18 @@
     "time": "2:57"
   },
   {
-    "id": "auto-f23c240d0a9e",
+    "id": "auto-c115f17de09b",
     "title": "日光市「サステナブル奥日光認定証」制度を開始 温泉熱、EV、ゴミ削減…奥日光脱炭素化 取り組み後押し",
     "category": "政策・制度",
     "accent": true,
+    "source": "47NEWS",
+    "time": "2:41"
+  },
+  {
+    "id": "auto-f23c240d0a9e",
+    "title": "日光市「サステナブル奥日光認定証」制度を開始 温泉熱、EV、ゴミ削減…奥日光脱炭素化 取り組み後押し",
+    "category": "政策・制度",
+    "accent": false,
     "source": "下野新聞社",
     "time": "2:33"
   },
@@ -147,7 +155,7 @@
     "id": "auto-c846aeceea0e",
     "title": "【カンボジア】ア開銀、蓄電池事業への6344万ドル融資承認（NNA）",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ニュース",
     "time": "2:30"
   },
@@ -155,7 +163,7 @@
     "id": "auto-9bdaee860097",
     "title": "日本が決勝T進出のサッカーW杯 脱炭素と商業化を両立できるか？ - kankyo-business.jp",
     "category": "政策・制度",
-    "accent": true,
+    "accent": false,
     "source": "検索: 脱炭素・カーボンニュートラル",
     "time": "2:28"
   },
@@ -171,7 +179,7 @@
     "id": "auto-5fe97d53bf3a",
     "title": "脱炭素社会（その2） Seth Rollins (ZI05O243Ke)",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "Mshale",
     "time": "2:07"
   },
@@ -179,15 +187,23 @@
     "id": "auto-1a4f632cfb90",
     "title": "燃料電池用水素ガスインジェクターの世界市場2026年、グローバル市場規模（低圧型、高圧型）・分析レポートを発表",
     "category": "技術・イノベ",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "2:03"
+  },
+  {
+    "id": "auto-8d9f315111f3",
+    "title": "JQA無料WEBセミナー「GX-ETSの全体像と第三者確認の最前線」開催のお知らせ",
+    "category": "政策・制度",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "2:00"
   },
   {
     "id": "auto-402d06b093af",
     "title": "東京都のEV補助が最大130万円に テスラModel 3は実質300万円切りも",
     "category": "政策・制度",
-    "accent": false,
+    "accent": true,
     "source": "ASCII.jp",
     "time": "1:30"
   },
@@ -203,7 +219,7 @@
     "id": "auto-3f5fdb159c79",
     "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
     "category": "再エネ",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "1:00"
   },
@@ -211,7 +227,7 @@
     "id": "auto-39b41de9894b",
     "title": "京セラコミュニケーションシステムが次世代太陽電池の導入および施工を開始：脱炭素",
     "category": "再エネ",
-    "accent": false,
+    "accent": true,
     "source": "MONOist",
     "time": "1:00"
   },
@@ -222,21 +238,5 @@
     "accent": false,
     "source": "佐賀新聞",
     "time": "1:00"
-  },
-  {
-    "id": "auto-aac256661c6e",
-    "title": "中国：風力・太陽光発電容量の目標設定、2030年に比率50％超へ - ashu-chinastatistics.com",
-    "category": "再エネ",
-    "accent": true,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "0:56"
-  },
-  {
-    "id": "auto-969f44abd113",
-    "title": "洋上風力推進本部を設置 北電社長が会見",
-    "category": "再エネ",
-    "accent": false,
-    "source": "十勝毎日新聞",
-    "time": "0:33"
   }
 ]
