@@ -47,7 +47,7 @@
     if (railData) {
       const rows = await DN.fetchJSON('rail-data.json');
       railData.innerHTML = rows.map((r) =>
-        `<div class="rd"><div class="rl"><b>${DN.esc(r.label)}</b>${DN.esc(r.sub)}</div>
+        `<div class="rd${r.live ? '' : ' is-static'}"><div class="rl"><b>${DN.esc(r.label)}</b>${DN.esc(r.sub)}${r.live ? '' : DN.staticTagHtml()}</div>
           <div class="rv">${DN.esc(r.value)}<small>${DN.esc(r.unit || r.note)}</small></div></div>`).join('');
     }
 

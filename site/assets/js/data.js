@@ -28,9 +28,13 @@ DN.esc = function esc(s) {
   }[c]));
 };
 
+DN.staticTagHtml = function staticTagHtml(title) {
+  return `<span class="static-tag" title="${DN.esc(title || '現在は実データ未連携のため、参考値の静的データです')}">静的データ</span>`;
+};
+
 DN.kpiCardHtml = function kpiCardHtml(k) {
-  return `<div class="kpi">
-    <div class="k-l">${DN.icon(k.icon)}${DN.esc(k.label)}</div>
+  return `<div class="kpi${k.live ? '' : ' is-static'}">
+    <div class="k-l">${DN.icon(k.icon)}${DN.esc(k.label)}${k.live ? '' : DN.staticTagHtml()}</div>
     <div class="k-v">${DN.esc(k.value)}<small>${DN.esc(k.unit)}</small></div>
     <div class="k-d ${k.dir}">${DN.icon(k.dir === 'up' ? 'arrow_upward' : 'arrow_downward')}${DN.esc(k.delta)}
       <span style="color:var(--ink-3);font-weight:400;margin-left:2px">${DN.esc(k.period)}</span></div>

@@ -8,7 +8,8 @@
       "unit": "億t",
       "delta": "-5.2%",
       "dir": "down",
-      "period": "前年度比"
+      "period": "前年度比",
+      "live": false
     },
     {
       "icon": "bolt",
@@ -17,7 +18,8 @@
       "unit": "%",
       "delta": "+2.1pt",
       "dir": "up",
-      "period": "前年度比"
+      "period": "前年度比",
+      "live": false
     },
     {
       "icon": "sell",
@@ -26,7 +28,8 @@
       "unit": "円/t",
       "delta": "+180",
       "dir": "up",
-      "period": "前週比"
+      "period": "前週比",
+      "live": false
     },
     {
       "icon": "location_city",
@@ -35,7 +38,8 @@
       "unit": "自治体",
       "delta": "+91",
       "dir": "up",
-      "period": "前回更新比"
+      "period": "前回更新比",
+      "live": true
     }
   ],
   "powerMixToday": [
