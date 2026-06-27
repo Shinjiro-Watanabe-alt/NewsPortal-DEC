@@ -6,7 +6,7 @@
       <div class="thumb">${DN.thumbInnerHtml(a.image, a.category)}</div>
       <div>
         <h4>${DN.esc(a.title)}</h4>
-        <div class="fm"><span class="cat">${DN.esc(a.category)}</span>
+        <div class="fm"><span class="cat" style="--ct:${DN.categoryMeta(a.category).color}">${DN.esc(a.category)}</span>
           <span>${DN.esc(a.source)}</span><span>${DN.esc(a.time)}</span></div>
       </div>
     </a>`;

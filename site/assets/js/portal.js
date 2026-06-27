@@ -70,7 +70,7 @@
       <div class="thumb">${DN.thumbInnerHtml(f.image, f.category)}</div>
       <div>
         <h4>${DN.esc(f.title)}</h4>
-        <div class="fm"><span class="cat ${f.accent ? 'b' : ''}">${DN.esc(f.category)}</span>
+        <div class="fm"><span class="cat" style="--ct:${DN.categoryMeta(f.category).color}">${DN.esc(f.category)}</span>
           <span>${DN.esc(f.source)}</span><span>${DN.esc(f.time)}</span></div>
       </div>
     </a>`;
