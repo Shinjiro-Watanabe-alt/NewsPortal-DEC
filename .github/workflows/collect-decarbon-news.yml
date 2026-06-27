@@ -28,6 +28,17 @@ jobs:
       - name: Install dependencies
         run: pip install pypdf
 
+      - name: '[TEMP] env.go.jp press page diagnosis'
+        run: |
+          set -x
+          curl -sL -A "Mozilla/5.0 (compatible; NewsPortalDEC-Collector/1.0)" -o /tmp/env_press.html -w "HTTP_STATUS:%{http_code}\n" https://www.env.go.jp/press/
+          echo "----- byte size -----"
+          wc -c /tmp/env_press.html
+          echo "----- first 300 lines -----"
+          head -n 300 /tmp/env_press.html
+          echo "----- anchor tags sample -----"
+          grep -oE '<a [^>]*href="[^"]*"[^>]*>[^<]{0,80}' /tmp/env_press.html | head -n 60
+
       - name: Run collector
         run: python3 collector/collect.py
 

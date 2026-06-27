@@ -58,6 +58,10 @@ CATEGORY_RULES = [
     (re.compile("住宅|家庭|くらし|生活者|家電|節電|電気料金|ZEH"), "暮らし"),
 ]
 
+# 「国」カテゴリは政府系の報道発表のみに限定する。引き継ぎデータ(articles.json)に
+# 過去の分類ルールなどで「国」として残っている他発行元の記事は再分類の対象とする。
+APPROVED_NATIONAL_SOURCES = {"環境省", "経済産業省", "資源エネルギー庁"}
+
 XML_NS = {
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rss1": "http://purl.org/rss/1.0/",
@@ -165,6 +169,16 @@ def classify_category(text: str, fallback: str) -> str:
         if pattern.search(text):
             return category
     return fallback
+
+
+def reclassify_carried_over_national(carried_over: dict) -> None:
+    """引き継ぎ記事のうち、政府系3省庁以外の発行元で「国」のまま残っているものを
+    現行のCATEGORY_RULESで再判定し、該当なしなら「その他」に変更する"""
+    for article in carried_over.values():
+        if article.get("category") != "国" or article.get("source") in APPROVED_NATIONAL_SOURCES:
+            continue
+        haystack = article.get("title", "") + " " + article.get("summary", "")
+        article["category"] = classify_category(haystack, "その他")
 
 
 IMAGE_FETCH_TIMEOUT = 8
@@ -538,6 +552,7 @@ def main():
     carried_over = {
         aid: a for aid, a in existing_articles.items() if a.get("collected")
     }
+    reclassify_carried_over_national(carried_over)
 
     collected = dict(carried_over)
     new_ids = set()
