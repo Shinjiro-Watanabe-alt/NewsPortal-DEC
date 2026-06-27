@@ -63,7 +63,7 @@ body{
   font-feature-settings:"palt" 1;
 }
 a{color:inherit;text-decoration:none;}
-.material-symbols-outlined{font-size:20px;line-height:1;vertical-align:middle;}
+.material-symbols-outlined{font-family:'Material Symbols Outlined';font-size:20px;line-height:1;vertical-align:middle;}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 16px;}
 button{font:inherit;}
 
