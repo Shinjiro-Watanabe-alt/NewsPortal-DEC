@@ -18,7 +18,7 @@
     if (!grid) return;
     const items = await DN.fetchJSON('shortcuts.json');
     grid.innerHTML = items.map((s) =>
-      `<a class="sc" href="${DN.esc(s.href || '#')}">
+      `<a class="sc" href="index.html?tag=${encodeURIComponent(s.tags.join(','))}">
          <span class="ic">${DN.icon(s.icon)}</span>
          <span class="lb">${DN.esc(s.label)}</span>
        </a>`).join('');

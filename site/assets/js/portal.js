@@ -138,12 +138,39 @@
     }
   }
 
-  async function renderFeed(catSlug, query) {
+  async function renderFeed(catSlug, query, tagParam) {
     const el = document.getElementById('feed');
     if (!el) return;
-    const items = await DN.fetchJSON('feed.json');
     const chip = document.getElementById('filterChip');
     const moreWrap = document.querySelector('.feed-more');
+
+    if (tagParam) {
+      const tagList = tagParam.split(',');
+      const all = await getArticles();
+      const filtered = Object.values(all).filter((a) => a.tags && a.tags.some((t) => tagList.includes(t)));
+      if (chip) {
+        chip.classList.add('show');
+        chip.querySelector('.fc-label').textContent = `絞り込み中: #${tagList[0]}`;
+      }
+      if (!filtered.length) {
+        feedFullList = [];
+        el.innerHTML = '<div class="feed-empty">該当する記事が見つかりませんでした。</div>';
+        if (moreWrap) moreWrap.style.display = 'none';
+        return;
+      }
+      feedFullList = filtered;
+      if (moreWrap) moreWrap.style.display = '';
+      const moreBtn = document.getElementById('feedMoreBtn');
+      if (moreBtn) {
+        moreBtn.innerHTML = `${DN.icon('expand_more', 'font-size:18px')}もっと読み込む`;
+        moreBtn.disabled = false;
+      }
+      feedShown = Math.min(FEED_PAGE_SIZE, feedFullList.length);
+      renderFeedPage();
+      return;
+    }
+
+    const items = await DN.fetchJSON('feed.json');
 
     if (query) {
       const q = query.toLowerCase();
@@ -191,11 +218,12 @@
     const params = new URLSearchParams(location.search);
     const catSlug = params.get('cat');
     const query = params.get('q');
+    const tagParam = params.get('tag');
 
     renderNav(catSlug);
     renderTopics();
     renderKpis();
-    renderFeed(catSlug, query);
+    renderFeed(catSlug, query, tagParam);
 
     const chip = document.getElementById('filterChip');
     if (chip) {
