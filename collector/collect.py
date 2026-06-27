@@ -35,7 +35,7 @@ SOURCES_FILE = BASE_DIR / "sources.json"
 JST = timezone(timedelta(hours=9))
 WEEKDAY_JA = ["月", "火", "水", "木", "金", "土", "日"]
 
-MAX_ARTICLES = 200
+MAX_ARTICLES = 1000
 MAX_FEED_ITEMS = 30
 FETCH_TIMEOUT = 15
 USER_AGENT = "Mozilla/5.0 (compatible; NewsPortalDEC-Collector/1.0)"
@@ -303,6 +303,7 @@ def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: s
         "id": lead_id,
         "title": lead_a["title"],
         "summary": lead_a["summary"],
+        "category": lead_a["category"],
         "source": lead_a["source"],
         "time": lead_a["time"],
         "comments": 0,
@@ -317,6 +318,9 @@ def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: s
             "id": aid,
             "rank": rank,
             "title": a["title"],
+            "category": a["category"],
+            "source": a["source"],
+            "time": a["time"],
             "tag": "NEW" if aid in new_ids else "",
             "pr": False,
             "source_url": a["source_url"],

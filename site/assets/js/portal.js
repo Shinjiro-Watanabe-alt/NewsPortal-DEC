@@ -33,7 +33,7 @@
       <div class="tl-body">
         <h3><a href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.esc(lead.title)}</a></h3>
         <p>${DN.esc(lead.summary)}</p>
-        <div class="topic-meta"><span class="src">${DN.esc(lead.source)}</span><span>${DN.esc(lead.time)}</span>
+        <div class="topic-meta">${DN.icon(DN.categoryMeta(lead.category).icon, 'font-size:14px')}<span class="src">${DN.esc(lead.source)}</span><span>${DN.esc(lead.time)}</span>
           ${DN.icon('forum', 'font-size:14px')}<span>${lead.comments.toLocaleString('ja-JP')}</span></div>
       </div>`;
   }
@@ -42,6 +42,7 @@
     return headlines.map((h) =>
       `<li><a href="${DN.esc(h.source_url || `article.html?id=${encodeURIComponent(h.id)}`)}" target="_blank" rel="noopener noreferrer">
          <span class="rank">${h.rank}</span><span class="ttl">${DN.esc(h.title)}</span>
+         <span class="meta">${DN.icon(DN.categoryMeta(h.category).icon, 'font-size:12px')}<span>${DN.esc(h.source)}</span><span>${DN.esc(h.time)}</span></span>
          ${h.tag ? `<span class="new">${DN.esc(h.tag)}</span>` : ''}
          <span class="pv">${h.pr ? 'PR' : ''}</span>
        </a></li>`).join('');
@@ -70,7 +71,7 @@
     }
 
     const all = await getArticles();
-    const list = Object.values(all).filter((a) => a.category.includes(label));
+    const list = Object.values(all).filter((a) => a.category === label);
     if (!list.length) {
       if (leadEl) leadEl.innerHTML = '';
       if (headlinesEl) headlinesEl.innerHTML = '<li class="feed-empty">該当する記事がありません。</li>';
@@ -80,12 +81,15 @@
     if (headlinesEl) headlinesEl.innerHTML = headlinesHtml(list.slice(1, 1 + limit).map((a, i) => ({ ...a, rank: i + 1 })));
   }
 
+  const DEFAULT_TOPIC_TAB = '国';
+
   async function renderTopics() {
     topicsData = await DN.fetchJSON('topics.json');
+    const defaultIndex = Math.max(topicsData.tabs.indexOf(DEFAULT_TOPIC_TAB), 0);
     const tabsEl = document.getElementById('topicTabs');
     if (tabsEl) {
       tabsEl.innerHTML = topicsData.tabs.map((label, i) =>
-        `<button type="button" class="${i === 0 ? 'on' : ''}" data-tab="${i}">${DN.esc(label)}</button>`).join('');
+        `<button type="button" class="${i === defaultIndex ? 'on' : ''}" data-tab="${i}">${DN.esc(label)}</button>`).join('');
       tabsEl.addEventListener('click', (e) => {
         const btn = e.target.closest('button');
         if (!btn) return;
@@ -102,7 +106,7 @@
       });
     }
 
-    renderTab(topicsData.tabs[0]);
+    renderTab(topicsData.tabs[defaultIndex]);
   }
 
   async function renderKpis() {
@@ -118,7 +122,7 @@
       <div class="thumb">${DN.thumbInnerHtml(f.image, f.category)}</div>
       <div>
         <h4>${DN.esc(f.title)}</h4>
-        <div class="fm"><span class="cat" style="--ct:${DN.categoryMeta(f.category).color}">${DN.esc(f.category)}</span>
+        <div class="fm"><span class="cat" style="--ct:${DN.categoryMeta(f.category).color}">${DN.icon(DN.categoryMeta(f.category).icon, 'font-size:12px')}${DN.esc(f.category)}</span>
           <span>${DN.esc(f.source)}</span><span>${DN.esc(f.time)}</span></div>
       </div>
     </a>`;
