@@ -134,6 +134,24 @@ def parse_feed(xml_bytes: bytes):
     return items
 
 
+PRESS_LIST_BLOCK_RE = re.compile(
+    r'<span class="p-press-release-list__heading">([^<]+)</span>(.*?)</details>',
+    re.S,
+)
+PRESS_LIST_ITEM_RE = re.compile(r'<a href="([^"]+)" class="c-news-link__link">([^<]+)</a>')
+
+
+def parse_press_html_list(html_bytes: bytes, base_url: str):
+    """RSSを提供していない環境省 報道発表一覧ページ(HTML)から (title, link, desc, date_raw) を抜き出す"""
+    html_text = html_bytes.decode("utf-8", errors="ignore")
+    items = []
+    for date_raw, body in PRESS_LIST_BLOCK_RE.findall(html_text):
+        for href, title in PRESS_LIST_ITEM_RE.findall(body):
+            link = urllib.parse.urljoin(base_url, href)
+            items.append((title, link, "", date_raw))
+    return items
+
+
 def parse_date(raw: str):
     if not raw:
         return None
@@ -143,6 +161,7 @@ def parse_date(raw: str):
         "%Y-%m-%dT%H:%M:%S%z",
         "%Y-%m-%d %H:%M:%S",
         "%Y-%m-%d",
+        "%Y年%m月%d日発表",
     ]
     for fmt in fmts:
         try:
@@ -231,7 +250,9 @@ def collect_one_source(source: dict, now: datetime):
         print(f"[skip] {source['name']}: 取得失敗 ({exc})", file=sys.stderr)
         return results
 
-    for raw_title, link, desc, date_raw in parse_feed(raw):
+    items = parse_press_html_list(raw, url) if source_type == "html_list" else parse_feed(raw)
+
+    for raw_title, link, desc, date_raw in items:
         raw_title = strip_html(raw_title)
         desc = strip_html(desc)
         if not raw_title or not link:
@@ -599,10 +620,8 @@ def main():
         category_counts[a["category"]] = category_counts.get(a["category"], 0) + 1
 
     categories = load_json("categories.json", [])
-    label_to_slug = {c["label"]: c for c in categories}
-    for label, count in category_counts.items():
-        if label in label_to_slug:
-            label_to_slug[label]["count"] = count
+    for c in categories:
+        c["count"] = category_counts.get(c["label"], 0)
 
     previous_ranks = load_json("ranks.json", [])
     topics = build_topics(articles, ordered_ids, categories, new_ids)
