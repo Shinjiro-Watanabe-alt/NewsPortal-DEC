@@ -18,6 +18,8 @@
   --brand-tint:oklch(0.95 0.03 156);
   --accent:oklch(0.52 0.11 242);
   --accent-tint:oklch(0.95 0.025 242);
+  --warm:oklch(0.66 0.16 56);
+  --warm-tint:oklch(0.95 0.05 66);
   --beige:oklch(0.985 0.011 79);
   --hot:oklch(0.57 0.16 33);
   --visited:oklch(0.45 0.07 300);
@@ -43,6 +45,8 @@
   --brand-tint:oklch(0.32 0.04 156);
   --accent:oklch(0.70 0.11 242);
   --accent-tint:oklch(0.32 0.035 242);
+  --warm:oklch(0.78 0.14 62);
+  --warm-tint:oklch(0.34 0.055 56);
   --beige:oklch(0.345 0.015 72);
   --hot:oklch(0.70 0.15 33);
   --visited:oklch(0.72 0.08 300);
@@ -68,7 +72,7 @@ button{font:inherit;}
 .skip-link:focus{left:0;}
 
 /* ---------- utility bar ---------- */
-.util{background:var(--surface);border-bottom:1px solid var(--line);font-size:12px;color:var(--ink-2);}
+.util{background:var(--surface);border-top:3px solid var(--warm);border-bottom:1px solid var(--line);font-size:12px;color:var(--ink-2);}
 .util .wrap{display:flex;align-items:center;justify-content:space-between;height:34px;gap:14px;}
 .util-l{display:flex;align-items:center;gap:14px;min-width:0;}
 .util-r{display:flex;align-items:center;gap:4px;flex:none;position:relative;}
@@ -130,9 +134,9 @@ button{font:inherit;}
 /* ---------- generic card ---------- */
 .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);}
 .card + .card{margin-top:var(--gap);}
-.card-h{display:flex;align-items:center;gap:8px;padding:11px var(--pad);border-bottom:1px solid var(--line-2);}
+.card-h{display:flex;align-items:center;gap:8px;padding:11px var(--pad);background:var(--beige);border-radius:var(--radius) var(--radius) 0 0;border-bottom:1px solid var(--line-2);}
 .card-h h2{font-family:var(--head);font-weight:700;font-size:15px;margin:0;display:flex;align-items:center;gap:7px;}
-.card-h h2 .bar{width:4px;height:16px;border-radius:2px;background:var(--brand);}
+.card-h h2 .bar{width:4px;height:16px;border-radius:2px;background:linear-gradient(180deg,var(--warm),var(--beige));}
 .card-h .all{margin-left:auto;font-size:11.5px;color:var(--ink-2);display:inline-flex;align-items:center;}
 .card-h .all:hover{color:var(--brand-deep);}
 .card-h .upd{margin-left:auto;font-size:10.5px;color:var(--ink-3);}
