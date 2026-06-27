@@ -17,11 +17,15 @@
     const grid = document.getElementById('scGrid');
     if (!grid) return;
     const items = await DN.fetchJSON('shortcuts.json');
-    grid.innerHTML = items.map((s) =>
-      `<a class="sc" href="index.html?tag=${encodeURIComponent(s.tags.join(','))}">
+    const activeTag = new URLSearchParams(location.search).get('tag');
+    grid.innerHTML = items.map((s) => {
+      const tagKey = s.tags.join(',');
+      const state = activeTag ? (activeTag === tagKey ? ' on' : ' muted') : '';
+      return `<a class="sc${state}" href="index.html?tag=${encodeURIComponent(tagKey)}">
          <span class="ic">${DN.icon(s.icon)}</span>
          <span class="lb">${DN.esc(s.label)}</span>
-       </a>`).join('');
+       </a>`;
+    }).join('');
   }
 
   async function renderFooterCategories() {

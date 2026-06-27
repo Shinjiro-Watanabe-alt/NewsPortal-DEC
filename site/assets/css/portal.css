@@ -19,5 +19,4 @@
   .main .wrap{grid-template-columns:1fr;}
   .rail-col{order:3;}
   .feed{grid-template-columns:1fr;}
-  .tag-shortcuts{grid-template-columns:repeat(2,1fr);}
 }
