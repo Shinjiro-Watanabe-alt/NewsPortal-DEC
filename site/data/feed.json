@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-5e3a3b974299",
+    "title": "北商物流、国際的気候変動イニシアチブ「SBTi」認定取得を発表",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "7:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000123693.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/123693/6/123693-6-584bf430c190842a45ea3800c42b2607-1500x860.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-3252fe7e4473",
     "title": "JRE日高川太陽光発電所における太陽光パネル入れ替えによるリパワリング実施について",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "5:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000018452.html",
@@ -13,7 +23,7 @@
     "id": "auto-412e3bd0a21b",
     "title": "「熱」の低炭素・カーボンニュートラル化やレジリエンス強化に資する城山熱供給プラントをメディアに初公開",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "5:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000160422.html",
@@ -30,14 +40,34 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/135644/284/135644-284-8fa01f3341984b17b63d5b8f30ecadb7-1024x768.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-1beb6d5f9600",
-    "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
-    "category": "企業",
+    "id": "auto-c1036528389a",
+    "title": "【太陽光発電】イオン北海道：苫小牧の店舗屋上にPPA太陽光を導入、再エネ活用拡大で店舗CO2削減へ",
+    "category": "その他",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:34",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vS2pfSmR0QTk4ZFBFUU9DMFBMMVBVVy1UaDN3NnIydFVWeVo3SnIxbjNpakt4bFhQSmp5czdvNjBLdi1qR2FKU1gxZE5QRFBPSURiNzlRclRsVjlHVDVIOVZLSnRyMVp3LXJGbGZKWWVuQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d7616462acb8",
+    "title": "【補助金】兵庫県：非住宅向け自家消費型太陽光の補助開始、中小事業者に最大500万円",
+    "category": "暮らし",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000187.000084204.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/84204/187/84204-187-885d53331bd4ab30a3c364760b451dde-3900x2922.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "みんなの広報宣伝部",
+    "time": "22:34",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zN2tSRnEwUTJ4UF8yaExYZUFTbUVwQlE5N2JLQmpZZnFzSDUyNWRCNFBiUlFNeGE1Tl9DQmhQRTBFWTZycWE2NkRRMVBWUXFNcmNBWEZOOW93MDN2YmFpQzQ1T3NvcmxYZlREaEFwaHB0QQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-03c72ff293b3",
+    "title": "【脱炭素・SDGs・ESG】ゼロボード：フィリピン輸出企業のサステナ報告DXを実証。グローバルサウス補助金に採択",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:24",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ea1NwMVJ3cFBTRDY4U1lhX1pqanpPLW1LXzl4VDBJSTNrcHd1UUY1RG1nTWtDMGJWT1kzR2xsNzRYeWhldkNjbUsybV9uQnRPZ3BfT1Y3V0JsNUcxVnA4QmZ0OUNfb195enJST3FOS0JMZw?oc=5",
+    "image": null
   },
   {
     "id": "auto-489562b55ff7",
@@ -140,6 +170,16 @@
     "image": null
   },
   {
+    "id": "auto-f2059ad4a202",
+    "title": "トヨタ自動車 EVの“新モデル”「bZ4X Touring」と“独自の充電サービス”を公開 EVのさらなる普及めざす",
+    "category": "企業",
+    "accent": false,
+    "source": "TBS NEWS DIG",
+    "time": "16:14",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QQmNKQVl4VkowcHVhR05QLXktamdGTHBfZkNFYWJpQjVpZm1ITjMtSy1BdmZac1JsMDV5MFVEZXV2OFptMlVlckdINDczZ2pPZVVpd1JkN3JxcC15dk1N?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-e4b9f3bb8ccf",
     "title": "屋上太陽光発電：余剰電力の売買メカニズムの改正および追加。",
     "category": "その他",
@@ -153,7 +193,7 @@
     "id": "auto-4c283c05680a",
     "title": "つながる、ひろがる、脱炭素。 | だつたんそうしよう！",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "新潟日報",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HbTlIdkRpOGlLR1loMzkydUp6MEJvVGtkUjlhWVg2aXJMbUtNQU0xLVdZZS1SVl9PcHZTcnBZZ0VjRnM2WkZDalo5TnRYc3ZGMS1EZDAzRVBIVTJvYVF2bXdnYVZoUQ?oc=5",
@@ -163,7 +203,7 @@
     "id": "auto-0139409b4866",
     "title": "約200万kWhを公共施設へ！エクソル「福知山市で自社太陽光発電所の電力を公共施設で活用」",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "14:32",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXd0akJaQng1YnN4dHJDbFk1MzMzWlk5NHJ4Rlg5aEg2Z2c5ck9CQ1N5RHd3S0c2aXVrTy1WMTVKUzN0LUpRb20zUlZuem1hWXM2akE1LXJqTmt6SkE4?oc=5",
@@ -183,7 +223,7 @@
     "id": "auto-1c0f3cd1a399",
     "title": "階猛 GX経済公債・20兆円規模・使途は決まっていない・政府の割引が終われば値上げの可能性・買取り2円程度下がる見込み・脱炭素型経済成長他 Peter Jackson (kfI97TqW78)",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Mshale",
     "time": "13:13",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14RnJxWUk3MWtYQ3A1MmlqT3hEcmpJT2hwRmNZM0RmbGItOHIyOVVXZnFtQU1xOGV5d3ozV0xtenUtUjlLVC0zU0RKZGgtdHNneXRDa0llRU5kLXM?oc=5",
@@ -193,7 +233,7 @@
     "id": "auto-8c91bc19d4c5",
     "title": "【太陽光発電】JFEエンジニアリング：フィリピンで太陽光PPA参入、日系企業向けに初期投資ゼロで電力供給",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QRk1Ga3RiNGlHVzloMkJNZ21pb01rZEYwMndwZS12RUdXdnI5M0RYUEE0NWFnbVFzVzlkRDR4cy1RcUV4X2NBbTRXTW4zaEF2ZjNnWjBpaWVDRVFvd1hDc25aaFl2T21OaGhvY1JUVFR1Zw?oc=5",
@@ -213,7 +253,7 @@
     "id": "auto-28b3c4e119e3",
     "title": "【蓄電関連】Sustech：累計資金調達額150億円を突破、AI分散型電力運用でアジア展開を加速",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zTUQ0VHRYZkdFLVRMc0tmeS1SU3FQSGpwVVJHdGdqVHJESW5NcGcteVQ5aVRsanFkeXJzdVBNdS1OVDNIYnl2d3JCZlRnZmlZYTdhbTJSUXZ0Yy1DNFhneThZbzVHckFwZGxVU2tlelVGdw?oc=5",
@@ -223,7 +263,7 @@
     "id": "auto-18cfc9507cae",
     "title": "【補助金】環境省：離島脱炭素化推進事業を二次公募、再エネ設備と需要側設備の群制御実装を支援",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtOHVNbUdiemtxazRjR3ZQeWxoRnVuT0FfX0w0ZEE5MGtRRVl0Nm9SU1o3ZFFiZFNkSmhibks0aEgwZVgyTnpHRXNBMS1nZlhsTElwSEswTlJGNjdQRHRpU0tsNFJLZ2tVWXI0SU1FNmxxdw?oc=5",
@@ -243,7 +283,7 @@
     "id": "auto-b04ca8b4b307",
     "title": "【脱炭素・SDGs・ESG】Linkhola：自動車リユース部品をクレジット化、CO2削減効果の新方法論を策定",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6V0RKTDJIWEdsOUhvUFhNX0gxNG1iMWdNUEE4OTBDRWpVMEZhRWRHZ2JpRlhYY3lIOENla3ZCVVJPaTBWV01TRV95VktmN2diN1pQaFhZMTFmZnNGeFRVbVhDdGlXLU9hZE5LNlNLalUxZw?oc=5",
@@ -253,50 +293,10 @@
     "id": "auto-275947858e1d",
     "title": "【蓄電関連】テスホールディングス：JR東日本系の太陽光発電所で蓄電池工事を受注、FIP転換案件を拡大",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4ZFJ3R3FCam1SX1BYT2JNbENBanNjZUJPUG5GdGJ6cDdjOEtLYXd3c0ZkSFFrTE5adjNnWkR5ZWFISGM1X0R1OVFObTVVMVp1QzVKYUpmd1FCQThqUnRjWDJ4OTZnUDVpMkxvVWM2ZEV6UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-224b1bcef207",
-    "title": "屋根置き太陽光発電の余剰電力の販売比率を最大50%に引き上げ",
-    "category": "その他",
-    "accent": false,
-    "source": "Laodong.vn",
-    "time": "12:03",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkZGekptMnZYaWhOd3dHRmx6RWhUaFBDR2pHcDgyMTg0d1k0TlRVN3hMRWpFd0Y5dTM2MHhOY1g1d2QxS3hOLUxfS1EwZ3hLWDJxV2RjdmRPVVgwUW1FbFluSU1yY0YyUlBXeFc0UHl0bmIzQ2hMVzBuWFdmWlYxcHBvNG9CS3ZNZnlGbi1qVkVqYWRSNjFhSFd1ZFltQlVzbmZyQWp5WVNIMHJ5QWFCS2t3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-64d2c0907acc",
-    "title": "ザライ省は、総額1兆ベトナムドンを超える太陽光発電所プロジェクトへの投資家を募集している。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "11:17",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0JSRTF0emhUY0NGUUxoY1Buc0I3UzVQRE1PVDFrWDBNTXhtdFRsSVNacXVSTjE1T0FhcG1KWFljRVVJSnhtTDl1UnBFVldyMkp3WHdwdzY0RGZZR29sWUo3YmNwb1QxclZHaHhrM0Z3Zi0tcFg0Y05zWUdxYmwwVkJLakNpQzcwWi1penA4ZVRIUm1uODIzRlp3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7c910123b1a7",
-    "title": "屋上太陽光発電：余剰電力の販売率を50％に引き上げる。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "11:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3NoU05obHZUWHFrUER4QVhLemdyaUlfYzVjZjVra3NTR0FXbUZhUFVXVmhrRGpLNGd5NFVmc0dLUlFncFNIck13ZXBNQWVqcXBIUTVROTdNTXpxNUM5YURuZFpuYUpjREh1QjNBTm9WUldQZG5vUFhCTERMRnhpY1hDV3RTQk9hNFFlZkphaEhXWVNxSHhrLWI2QlI1dFBYWjhV?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-674ec8312c40",
-    "title": "丸善製薬株式会社 ｜ 総合研究所にPPAによる再エネ発電を導入",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "10:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLVmxNVDZtc1dyTWxraTJCY09yQTRZckVweWF0SndCSFg0VWl4M21GUk82WEJJaTdXYmFoNk1kTjhTZVJzeU5mWUlOS0JmSUtWcnc?oc=5",
     "image": null
   }
 ]
