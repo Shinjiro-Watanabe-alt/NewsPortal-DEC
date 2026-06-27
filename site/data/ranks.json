@@ -1,5 +1,9 @@
 [
   {
+    "keyword": "脱炭素",
+    "trend": ""
+  },
+  {
     "keyword": "太陽光",
     "trend": ""
   },
@@ -8,15 +12,7 @@
     "trend": ""
   },
   {
-    "keyword": "脱炭素",
-    "trend": ""
-  },
-  {
     "keyword": "蓄電池",
-    "trend": ""
-  },
-  {
-    "keyword": "GX",
     "trend": ""
   },
   {
@@ -29,6 +25,10 @@
   },
   {
     "keyword": "CO2",
+    "trend": ""
+  },
+  {
+    "keyword": "GX",
     "trend": ""
   }
 ]
