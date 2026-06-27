@@ -50,12 +50,13 @@ KEYWORDS = [
 ]
 KEYWORD_RE = re.compile("|".join(re.escape(k) for k in KEYWORDS))
 
-# カテゴリ自動分類（一致したら上書き）
+# カテゴリ自動分類（一致したら上書き、優先順位は上から）
 CATEGORY_RULES = [
-    (re.compile("水素|燃料電池|FCV|アンモニア"), "技術・イノベ"),
-    (re.compile("太陽光|風力|地熱|再エネ|再生可能エネルギー|蓄電"), "再生可能エネルギー"),
-    (re.compile("自治体|地域|港湾|都市"), "自治体・地域"),
-    (re.compile("補助|基準|法|規制|制度|計画|目標|閣議|省庁"), "政策・制度"),
+    (re.compile("水素|燃料電池|FCV|アンモニア"), "技術"),
+    (re.compile("自治体|地方公共団体|ゼロカーボンシティ|地域|港湾|都市"), "自治体"),
+    (re.compile("海外|米国|アメリカ|欧州|ヨーロッパ|英国|イギリス|ドイツ|フランス|中国|インド|韓国|台湾|アジア|中東|国連|世界|COP\d+"), "国際"),
+    (re.compile("住宅|家庭|くらし|生活者|家電|節電|電気料金|ZEH"), "暮らし"),
+    (re.compile("補助|基準|法|規制|制度|計画|目標|閣議|省庁"), "国"),
 ]
 
 XML_NS = {
@@ -257,7 +258,7 @@ def collect_one_source(source: dict, now: datetime):
 
 def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: set):
     """直近の収集記事から、主要トピック(トップ記事+見出しリスト)を組み立てる"""
-    tabs = ["主要"] + [c["label"].split("・")[0] for c in categories]
+    tabs = ["総合"] + [c["label"] for c in categories]
 
     if not ordered_ids:
         return None
@@ -569,7 +570,7 @@ def main():
         {
             "id": aid,
             "title": articles[aid]["title"],
-            "category": articles[aid]["category"].replace("再生可能エネルギー", "再エネ"),
+            "category": articles[aid]["category"],
             "accent": i % 3 == 1,
             "source": articles[aid]["source"],
             "time": articles[aid]["time"].split(" ")[-1],

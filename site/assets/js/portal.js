@@ -164,8 +164,7 @@
       if (catSlug) {
         const cat = categories.find((c) => c.slug === catSlug);
         if (cat) {
-          const label = cat.label.split('・')[0]; // "再生可能エネルギー" -> matches feed's "再エネ" via includes check below
-          filtered = items.filter((f) => cat.label.includes(f.category) || f.category === label || cat.label.startsWith(f.category));
+          filtered = items.filter((f) => f.category === cat.label);
           if (chip) {
             chip.classList.add('show');
             chip.querySelector('.fc-label').textContent = `絞り込み中: ${cat.label}`;
