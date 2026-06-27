@@ -1,8 +1,28 @@
 [
   {
+    "id": "auto-62a2bd3c895c",
+    "title": "～北海道松前町の地域資源を活用し、産学官連携で次世代のGX人材を育成～学校法人野又学園、松前町、東急不動産株式会社「GX人材育成及び地域連携に関する協定」を締結",
+    "category": "自治体",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "4:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000713.000006953.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/6953/713/6953-713-f295178c265e4961e4dd14505f4c8b88-1668x1260.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-1beb6d5f9600",
+    "title": "東洋製罐の茨木工場でオンサイト型自家消費太陽光発電サービスを開始",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "4:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000187.000084204.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/84204/187/84204-187-885d53331bd4ab30a3c364760b451dde-3900x2922.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-5e3a3b974299",
     "title": "北商物流、国際的気候変動イニシアチブ「SBTi」認定取得を発表",
-    "category": "国",
+    "category": "企業",
     "accent": false,
     "source": "PR TIMES",
     "time": "1:10",
@@ -10,69 +30,79 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/123693/6/123693-6-584bf430c190842a45ea3800c42b2607-1500x860.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-3252fe7e4473",
-    "title": "JRE日高川太陽光発電所における太陽光パネル入れ替えによるリパワリング実施について",
-    "category": "企業",
+    "id": "auto-2fc3318efc19",
+    "title": "［記者のメモ］再エネに島しょ性活用",
+    "category": "その他",
+    "accent": false,
+    "source": "沖縄タイムス社",
+    "time": "18:57",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MZnJyU3paYzhtYVI1TWNnWEFCdXY3M2FCNV9CLTR1V0R4cjNkSnNMX2RZSkozMklnd0VBU3VSczhEUk04MGlnVGNwVmx3R3ctUTJrWmlDVE90bWdwQmc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-405f02327a8a",
+    "title": "第14回「プラチナ大賞」、地域課題解決モデルを募集 脱炭素、教育、健康長寿など先進的な取り組みを表彰",
+    "category": "自治体",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000018452.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
-  },
-  {
-    "id": "auto-412e3bd0a21b",
-    "title": "「熱」の低炭素・カーボンニュートラル化やレジリエンス強化に資する城山熱供給プラントをメディアに初公開",
-    "category": "国",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000160422.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/160422/10/160422-10-2b7d4dd02b6bda2c3af4a0aafe8b3060-745x590.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-634d627d19d2",
-    "title": "電動バイクの電力消費量最大20％削減を目指します",
-    "category": "国",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000284.000135644.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/135644/284/135644-284-8fa01f3341984b17b63d5b8f30ecadb7-1024x768.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "月刊私塾界",
+    "time": "18:21",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qOFloUHJDNGUtQ1pYR3NDQUEzMW1nQ2M3SXlXY2xvRFludFZ4MGhZQ3RWaEh3Y1RSeGU1RnVmS0FKbFUyVjJtWGFfdXhkaHFUcFE?oc=5",
+    "image": null
   },
   {
     "id": "auto-9c0f1cb9e51d",
     "title": "バイオマスでも太陽光でも地熱でもない…石油消費量を3分の1にできると期待され世界が狙う｢次世代燃料｣",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "はてなブックマーク",
     "time": "17:57",
     "source_url": "https://president.jp/articles/-/115065",
     "image": "https://president.ismcdn.jp/mwimgs/d/e/1200wm/img_de94fc9bcdeddcee5935e3cee890d579339190.jpg"
   },
   {
+    "id": "auto-25adf2f75a0d",
+    "title": "【原発建て替え目標】原発新設は必要か 再エネ拡大優先を 法政大教授 高橋洋",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "16:34",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZnlDOVJDVElMWkFfRzdRVEY5WEc4MkMwSF9lcmc1T0NyVE1qSUZheTZRUGR1WmQ3OHlnWXo5UGtpX0FDZnhDMkRiUHRvTDgzNnc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-e4b9f3bb8ccf",
     "title": "屋上太陽光発電：余剰電力の売買メカニズムの改正および追加。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "15:08",
     "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSF9oWm80em9qUmV6bEpmZnFPRXp5ZDhxbkozT0ZiaUdOU0QtdGZxMnpTUE9IR3hmOHJLOXFrZXZIdTAtSlNTZ0NsZUhvaEdreGJCZWxTU1dkS3FwVjk3UlJ1SnVwOGNIYng5QnJ3eXNzN2NHMUEybVgtWGxETEhSUG9yZVFMYk44bFVsVGZjVkREWHhoUUFNZDU4Z1g?oc=5",
     "image": null
   },
   {
-    "id": "auto-3382bafcfa3e",
-    "title": "約200万kWhを公共施設へ！エクソル「福知山市で自社太陽光発電所の電力を公共施設で活用」 (2026年6月27日掲載)",
+    "id": "auto-4c283c05680a",
+    "title": "つながる、ひろがる、脱炭素。 | だつたんそうしよう！",
+    "category": "その他",
+    "accent": false,
+    "source": "新潟日報",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HbTlIdkRpOGlLR1loMzkydUp6MEJvVGtkUjlhWVg2aXJMbUtNQU0xLVdZZS1SVl9PcHZTcnBZZ0VjRnM2WkZDalo5TnRYc3ZGMS1EZDAzRVBIVTJvYVF2bXdnYVZoUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0139409b4866",
+    "title": "約200万kWhを公共施設へ！エクソル「福知山市で自社太陽光発電所の電力を公共施設で活用」",
     "category": "その他",
     "accent": false,
     "source": "ライブドアニュース",
     "time": "14:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNUJsNkttSHl2NVB4cE1BYmRrOWZLZ3pkSTZNakhudExNQnkxNGl6dXl4OXlSRlBaNHI5Ui1sLUp1UTlkbzYtb0dYSGgySTkwOXNHUWttM3kzN2NiQVE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXd0akJaQng1YnN4dHJDbFk1MzMzWlk5NHJ4Rlg5aEg2Z2c5ck9CQ1N5RHd3S0c2aXVrTy1WMTVKUzN0LUpRb20zUlZuem1hWXM2akE1LXJqTmt6SkE4?oc=5",
     "image": null
   },
   {
     "id": "auto-1c0f3cd1a399",
     "title": "階猛 GX経済公債・20兆円規模・使途は決まっていない・政府の割引が終われば値上げの可能性・買取り2円程度下がる見込み・脱炭素型経済成長他 Peter Jackson (kfI97TqW78)",
-    "category": "国",
+    "category": "その他",
     "accent": true,
     "source": "Mshale",
     "time": "13:13",
@@ -92,7 +122,7 @@
   {
     "id": "auto-ceed58facb3d",
     "title": "【補助金】環境省：公共交通の脱炭素化支援で公募開始、鉄道設備の省CO2化を後押し",
-    "category": "国",
+    "category": "その他",
     "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
@@ -112,7 +142,7 @@
   {
     "id": "auto-18cfc9507cae",
     "title": "【補助金】環境省：離島脱炭素化推進事業を二次公募、再エネ設備と需要側設備の群制御実装を支援",
-    "category": "国",
+    "category": "その他",
     "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
@@ -132,7 +162,7 @@
   {
     "id": "auto-b04ca8b4b307",
     "title": "【脱炭素・SDGs・ESG】Linkhola：自動車リユース部品をクレジット化、CO2削減効果の新方法論を策定",
-    "category": "国",
+    "category": "その他",
     "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "12:05",
@@ -192,7 +222,7 @@
   {
     "id": "auto-fd4090d847b2",
     "title": "脱炭素社会を知ってもらう 学生向きのセミナー開催 札幌市",
-    "category": "国",
+    "category": "その他",
     "accent": true,
     "source": "Excite エキサイト",
     "time": "8:49",
@@ -202,7 +232,7 @@
   {
     "id": "auto-3c0b34e2d570",
     "title": "脱炭素社会を知ってもらう 学生向きのセミナー開催 札幌市",
-    "category": "国",
+    "category": "その他",
     "accent": false,
     "source": "au Webポータル",
     "time": "8:47",
@@ -212,7 +242,7 @@
   {
     "id": "auto-f8ef372fadb2",
     "title": "脱炭素社会を知ってもらう 学生向きのセミナー開催 札幌市（2026年6月27日掲載）｜STV NEWS NNN",
-    "category": "国",
+    "category": "その他",
     "accent": false,
     "source": "日テレNEWS NNN",
     "time": "8:46",
@@ -222,7 +252,7 @@
   {
     "id": "auto-6c6e52ae7598",
     "title": "脱炭素社会を知ってもらう 学生向きのセミナー開催 札幌市 (2026年6月27日掲載)",
-    "category": "国",
+    "category": "その他",
     "accent": true,
     "source": "ライブドアニュース",
     "time": "8:46",
@@ -252,21 +282,11 @@
   {
     "id": "auto-21b7962a8659",
     "title": "「熱」の低炭素・カーボンニュートラル化やレジリエンス強化に資する城山熱供給プラントをメディアに初公開",
-    "category": "国",
+    "category": "その他",
     "accent": true,
     "source": "時事ドットコム",
     "time": "8:10",
     "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TNDdYVkREMzJpaS0zbHl4bm9qUE15V3RSYktIbkFLRU1kZVBYX05TcFlFaUJqOVVBLW9YZXk1eWphbG5pWHlnZU9OV3ZiSl9OQVh4SHJpeGlUeGlPNDFoX3pxbDVVOFVSVE40?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5a7435d0f9a0",
-    "title": "モンテネグロに蓄電システム供給へ パワーエックス、自社製品の輸出も視野",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "7:55",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51U1F2ckFhQlVPRk00Sm5fVjV3VTFwRHpNMFFFMXdkYU1pbE1OX3VuaElGVnZleXRkR1B3Rjc0SE1YYTdTeDJ0VlZjX1RmN0xYRFE?oc=5",
     "image": null
   },
   {
@@ -277,26 +297,6 @@
     "source": "山陽新聞",
     "time": "7:52",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNEwxVnFkRlUwS1JybmE4WDhQOGw3ZzZYS1k3d0NTZHBYZHVROGRqUld6OVVKSTdKUlFnMzR4YUZ6OUhPYTdnVUx3c251ZUg5Vmc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cb1cd68c4fd5",
-    "title": "株式会社アップデート（長岡市）、新潟の法人向け太陽光発電専門店「レオソーラー」を本格展開",
-    "category": "国",
-    "accent": true,
-    "source": "にいがた経済新聞",
-    "time": "7:39",
-    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFByc0ZzbGpyakd6a01lOUVXUlVTM2hILUdlQUo2T2lfcmVoTzlvemtWMjZWbmIxNndQa2toRFMwLTBtenh0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-271247bc101e",
-    "title": "再生可能エネルギーを学ぶ！親子バスツアー",
-    "category": "その他",
-    "accent": false,
-    "source": "ふーぽ",
-    "time": "5:07",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51OW1FdnltM3JheWU4RlF2OE1oS2dRemR6VVJlcXFqNnpEQmxNNlBnNnVINkRDa2p0RmY4Mm15WnRtT3Y0M2ota3pXUlF1eUJQbnRBbTRfTQ?oc=5",
     "image": null
   }
 ]
