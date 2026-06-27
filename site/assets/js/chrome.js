@@ -1,5 +1,5 @@
-/* 脱炭素ニュースポータル — shared chrome: date/live ticker, shortcuts grid, footer
-   category list, right rail. Runs once partials.html has been injected.
+/* 脱炭素ニュースポータル — shared chrome: date display, shortcuts grid, footer
+   category list, right rail, masthead search. Runs once partials.html has been injected.
    Every render here is guarded with an existence check so pages that don't
    include a given partial (e.g. mobile.html may skip the right rail) simply
    skip that piece. */
@@ -11,16 +11,6 @@
     if (!node) return;
     const now = new Date();
     node.textContent = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日(${WEEKDAYS[now.getDay()]})`;
-  }
-
-  function startLiveGauge() {
-    const node = document.getElementById('reShare');
-    if (!node) return;
-    const base = 32.1;
-    setInterval(() => {
-      const n = (base + (Math.random() * 0.6 - 0.3)).toFixed(1);
-      node.textContent = n + '%';
-    }, 3500);
   }
 
   async function renderShortcuts() {
@@ -63,14 +53,24 @@
     if (ranks) {
       const items = await DN.fetchJSON('ranks.json');
       ranks.innerHTML = items.map((r) =>
-        `<li><a href="#"><span class="rk-n"></span><span class="rk-t">${DN.esc(r.keyword)}</span>${
+        `<li><a href="index.html?q=${encodeURIComponent(r.keyword)}"><span class="rk-n"></span><span class="rk-t">${DN.esc(r.keyword)}</span>${
           r.trend ? `<span class="rk-up">${DN.esc(r.trend)}</span>` : ''}</a></li>`).join('');
     }
 
     const glossary = document.getElementById('glossaryList');
     if (glossary) {
       const terms = await DN.fetchJSON('glossary.json');
-      glossary.innerHTML = terms.map((t) => `<a href="#">${DN.esc(t)}</a>`).join('');
+      glossary.innerHTML = terms.map((t) =>
+        `<div class="gl-item">
+           <button type="button" class="gl-term">${DN.esc(t.term)}</button>
+           <p class="gl-def">${DN.esc(t.definition)}</p>
+         </div>`).join('');
+      glossary.addEventListener('click', (e) => {
+        const btn = e.target.closest('.gl-term');
+        if (!btn) return;
+        btn.nextElementSibling.classList.toggle('show');
+        btn.classList.toggle('on');
+      });
     }
   }
 
@@ -81,12 +81,43 @@
     });
   }
 
+  function initSearch() {
+    const box = document.querySelector('.searchbox');
+    if (!box) return;
+
+    const tabs = box.querySelector('.search-tabs');
+    if (tabs) {
+      tabs.addEventListener('click', (e) => {
+        const btn = e.target.closest('button');
+        if (!btn) return;
+        tabs.querySelectorAll('button').forEach((b) => b.classList.toggle('on', b === btn));
+      });
+    }
+
+    const field = box.querySelector('.search-field');
+    const input = field?.querySelector('input');
+    if (!field || !input) return;
+
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) input.value = q;
+
+    const submit = () => {
+      const value = input.value.trim();
+      if (!value) return;
+      location.href = `index.html?q=${encodeURIComponent(value)}`;
+    };
+    field.querySelector('button')?.addEventListener('click', submit);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') submit();
+    });
+  }
+
   document.addEventListener('dn:partials-loaded', () => {
     renderToday();
-    startLiveGauge();
     renderShortcuts();
     renderFooterCategories();
     renderRail();
     highlightNav();
+    initSearch();
   });
 })();

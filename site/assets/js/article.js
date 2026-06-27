@@ -1,5 +1,20 @@
 /* article.html — single article view, driven by data/articles.json keyed by ?id=. */
 (function () {
+  const BOOKMARK_KEY = 'dn-bookmarks';
+
+  function getBookmarks() {
+    const raw = localStorage.getItem(BOOKMARK_KEY);
+    return raw ? JSON.parse(raw) : [];
+  }
+
+  function toggleBookmark(id) {
+    const list = getBookmarks();
+    const i = list.indexOf(id);
+    if (i === -1) list.push(id); else list.splice(i, 1);
+    localStorage.setItem(BOOKMARK_KEY, JSON.stringify(list));
+    return i === -1; // true = ブックマークに追加された
+  }
+
   function relatedCardHtml(id, a) {
     const href = DN.esc(a.source_url || `article.html?id=${encodeURIComponent(id)}`);
     return `<a class="fitem" href="${href}" target="_blank" rel="noopener noreferrer">
@@ -61,7 +76,7 @@
         <div class="thumb art-hero">${DN.thumbInnerHtml(art.image, art.category, true)}</div>
         <p class="art-summary">${DN.esc(art.summary)}</p>
         <div class="art-body">${art.body.map((p) => `<p>${DN.esc(p)}</p>`).join('')}</div>
-        <div class="art-tags">${art.tags.map((t) => `<a href="#">#${DN.esc(t)}</a>`).join('')}</div>
+        <div class="art-tags">${art.tags.map((t) => `<a href="index.html?q=${encodeURIComponent(t)}">#${DN.esc(t)}</a>`).join('')}</div>
       </div>
 
       <div class="card">
@@ -71,6 +86,33 @@
           .map((rid) => relatedCardHtml(rid, all[rid])).join('')}</div>
       </div>
     `;
+
+    const shareBtn = root.querySelector('[aria-label="共有"]');
+    const printBtn = root.querySelector('[aria-label="印刷"]');
+    const bookmarkBtn = root.querySelector('[aria-label="ブックマーク"]');
+
+    const setBookmarkUI = (on) => {
+      bookmarkBtn.classList.toggle('on', on);
+      bookmarkBtn.innerHTML = DN.icon(on ? 'bookmark' : 'bookmark_border');
+    };
+    setBookmarkUI(getBookmarks().includes(id));
+    bookmarkBtn.addEventListener('click', () => setBookmarkUI(toggleBookmark(id)));
+
+    printBtn.addEventListener('click', () => window.print());
+
+    shareBtn.addEventListener('click', async () => {
+      const shareUrl = art.source_url || location.href;
+      if (navigator.share) {
+        try { await navigator.share({ title: art.title, url: shareUrl }); } catch { /* ユーザーがキャンセルした場合等 */ }
+        return;
+      }
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+        const original = shareBtn.innerHTML;
+        shareBtn.innerHTML = DN.icon('check');
+        setTimeout(() => { shareBtn.innerHTML = original; }, 1500);
+      } catch { /* クリップボード権限が無い場合等 */ }
+    });
   }
 
   document.addEventListener('dn:partials-loaded', init);

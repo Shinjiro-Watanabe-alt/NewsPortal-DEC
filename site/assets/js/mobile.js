@@ -9,6 +9,23 @@
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
       if (open) row.querySelector('input')?.focus();
     });
+
+    const input = row.querySelector('input');
+    const submitBtn = row.querySelector('button');
+    if (!input || !submitBtn) return;
+
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) input.value = q;
+
+    const submit = () => {
+      const value = input.value.trim();
+      if (!value) return;
+      location.href = `mobile.html?q=${encodeURIComponent(value)}`;
+    };
+    submitBtn.addEventListener('click', submit);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') submit();
+    });
   }
 
   document.addEventListener('dn:partials-loaded', init);

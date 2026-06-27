@@ -14,6 +14,7 @@
 .art-share button{display:flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;
   border:1px solid var(--line);background:none;color:var(--ink-2);cursor:pointer;}
 .art-share button:hover{border-color:var(--brand);color:var(--brand-deep);background:var(--brand-tint);}
+.art-share button.on{border-color:var(--brand);color:var(--brand-deep);background:var(--brand-tint);}
 .art-hero{height:340px;margin:18px 0;border-radius:10px;}
 .art-summary{font-size:14.5px;color:var(--ink-2);background:var(--surface-2);border-radius:8px;
   padding:13px 16px;margin-bottom:6px;line-height:1.8;font-weight:500;}
