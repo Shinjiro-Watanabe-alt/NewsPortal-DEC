@@ -1,4 +1,4 @@
-/* 脱炭素ナビ — shared chrome: date/live ticker, shortcuts grid, footer
+/* 脱炭素ニュースポータル — shared chrome: date/live ticker, shortcuts grid, footer
    category list, right rail. Runs once partials.html has been injected.
    Every render here is guarded with an existence check so pages that don't
    include a given partial (e.g. mobile.html may skip the right rail) simply

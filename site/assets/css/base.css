@@ -1,5 +1,5 @@
 /* ============================================================
-   脱炭素ナビ — shared design system
+   脱炭素ニュースポータル — shared design system
    Tokens + components reused by every page (index/mobile/article/dashboard).
    Page-specific grid scaffolding lives in each page's own stylesheet.
    ============================================================ */
@@ -209,6 +209,26 @@ button{font:inherit;}
    border:1px solid var(--line-2);display:flex;align-items:center;justify-content:center;flex:none;}
 .thumb span{font-family:ui-monospace,Menlo,monospace;font-size:9px;letter-spacing:.1em;color:var(--ink-3);background:color-mix(in oklch,var(--surface),transparent 15%);padding:1px 6px;border-radius:4px;}
 .thumb img{width:100%;height:100%;object-fit:cover;display:block;}
+
+/* category-based thumbnail fallback (no real article image): 写真風/アイコン風 を
+   :root[data-thumbstyle] で切り替え。--ct はカテゴリごとの色(data.js の CATEGORY_META)。 */
+.thumb-fallback{position:relative;width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:var(--surface-2);}
+.thumb-fallback .tf-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;}
+.thumb-fallback .ti{display:none;}
+.thumb-fallback .clabel{position:absolute;left:7px;bottom:7px;z-index:2;display:inline-flex;align-items:center;gap:4px;
+  font-size:10px;font-weight:700;color:#fff;background:color-mix(in oklch,var(--ct,var(--brand)),black 8%);
+  padding:2px 8px;border-radius:999px;letter-spacing:.02em;}
+.thumb-fallback .clabel .material-symbols-outlined{font-size:13px;}
+:root[data-thumbstyle="icon"] .thumb-fallback{
+  background:
+    radial-gradient(120% 130% at 85% 15%, color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 55%) 0%, transparent 60%),
+    linear-gradient(135deg, color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 80%), color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 92%));}
+:root[data-thumbstyle="icon"] .thumb-fallback::after{content:"";position:absolute;left:-14px;bottom:-14px;width:48px;height:48px;
+  border-radius:50%;background:color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 68%);opacity:.55;}
+:root[data-thumbstyle="icon"] .thumb-fallback .tf-photo{display:none;}
+:root[data-thumbstyle="icon"] .thumb-fallback .ti{display:block;position:relative;z-index:1;font-size:28px;
+  color:color-mix(in oklch,var(--ct,var(--brand)),var(--ink) 30%);opacity:.9;}
+.art-hero .thumb-fallback .ti{font-size:48px;}
 
 /* right rail */
 .rail-data{padding:6px 14px 14px;}

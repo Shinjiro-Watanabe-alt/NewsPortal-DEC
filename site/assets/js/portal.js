@@ -37,7 +37,7 @@
     if (leadEl) {
       const leadHref = DN.esc(lead.source_url || `article.html?id=${encodeURIComponent(lead.id)}`);
       leadEl.innerHTML = `
-        <a class="thumb" href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.thumbInnerHtml(lead.image, '主要写真')}</a>
+        <a class="thumb" href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.thumbInnerHtml(lead.image, lead.category, true)}</a>
         <div class="tl-body">
           <h3><a href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.esc(lead.title)}</a></h3>
           <p>${DN.esc(lead.summary)}</p>
@@ -67,7 +67,7 @@
   function feedItemHtml(f) {
     const href = DN.esc(f.source_url || `article.html?id=${encodeURIComponent(f.id)}`);
     return `<a class="fitem" href="${href}" target="_blank" rel="noopener noreferrer">
-      <div class="thumb">${DN.thumbInnerHtml(f.image)}</div>
+      <div class="thumb">${DN.thumbInnerHtml(f.image, f.category)}</div>
       <div>
         <h4>${DN.esc(f.title)}</h4>
         <div class="fm"><span class="cat ${f.accent ? 'b' : ''}">${DN.esc(f.category)}</span>

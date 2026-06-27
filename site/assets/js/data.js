@@ -1,4 +1,4 @@
-/* 脱炭素ナビ — tiny data-fetch helper.
+/* 脱炭素ニュースポータル — tiny data-fetch helper.
    Every render module pulls content through DN.fetchJSON() instead of inline
    arrays, so swapping in a real API/RSS source later is a one-line change. */
 window.DN = window.DN || {};
@@ -41,14 +41,47 @@ DN.kpiCardHtml = function kpiCardHtml(k) {
   </div>`;
 };
 
-// 記事サムネイル: 画像URLがあれば<img>、なければプレースホルダーのラベルを表示する。
-// 画像の読み込みに失敗した場合は onThumbImgError がプレースホルダーに差し替える。
-DN.thumbInnerHtml = function thumbInnerHtml(imageUrl, fallbackLabel) {
-  const label = fallbackLabel || '写真';
-  if (!imageUrl) return `<span>${DN.esc(label)}</span>`;
-  return `<img src="${DN.esc(imageUrl)}" alt="" loading="lazy" data-fallback="${DN.esc(label)}" onerror="DN.onThumbImgError(this)">`;
+// カテゴリ別のアイコン・色・ストック写真(assets/cat/*.jpg)。記事に実画像が無い場合の
+// フォールバック表示に使う。表記ゆれ(フルラベル/略称)の両方にマッチするようキーワードで判定。
+DN.CATEGORY_META = {
+  renewable: { keywords: ['再生可能エネルギー', '再エネ'], icon: 'solar_power', color: 'oklch(0.60 0.13 150)', photo: 'saiene' },
+  tech: { keywords: ['技術・イノベ', '技術'], icon: 'science', color: 'oklch(0.55 0.13 258)', photo: 'gijutsu' },
+  municipal: { keywords: ['自治体・地域', '自治体'], icon: 'location_city', color: 'oklch(0.64 0.11 195)', photo: 'jichitai' },
+  policy: { keywords: ['政策・制度', '国'], icon: 'account_balance', color: 'oklch(0.55 0.13 295)', photo: 'seisaku' },
+  business: { keywords: ['企業・産業', '企業'], icon: 'apartment', color: 'oklch(0.66 0.12 80)', photo: 'kigyo' },
+  life: { keywords: ['暮らし・住宅', '暮らし'], icon: 'cottage', color: 'oklch(0.60 0.15 30)', photo: 'kurashi' },
+  intl: { keywords: ['国際動向', '国際'], icon: 'public', color: 'oklch(0.58 0.13 340)', photo: 'kokusai' },
+};
+
+DN.DEFAULT_CATEGORY_META = { icon: 'eco', color: 'oklch(0.60 0.10 152)', photo: 'saiene' };
+
+DN.categoryMeta = function categoryMeta(category) {
+  if (category) {
+    for (const key in DN.CATEGORY_META) {
+      const m = DN.CATEGORY_META[key];
+      if (m.keywords.some((kw) => category.includes(kw) || kw.includes(category))) return m;
+    }
+  }
+  return DN.DEFAULT_CATEGORY_META;
+};
+
+// 記事サムネイル: 画像URLがあれば<img>、なければカテゴリ別のフォールバック(写真風/アイコン風、
+// :root[data-thumbstyle]で表示切替)を表示する。画像の読み込みに失敗した場合は
+// onThumbImgError がフォールバックに差し替える。
+DN.thumbFallbackHtml = function thumbFallbackHtml(category, withLabel) {
+  const m = DN.categoryMeta(category);
+  return `<div class="thumb-fallback" style="--ct:${m.color}">
+    <img class="tf-photo" src="assets/cat/${m.photo}.jpg" alt="${DN.esc(category || '')}" loading="lazy">
+    <span class="material-symbols-outlined ti">${m.icon}</span>
+    ${withLabel && category ? `<span class="clabel">${DN.icon(m.icon)}${DN.esc(category)}</span>` : ''}
+  </div>`;
+};
+
+DN.thumbInnerHtml = function thumbInnerHtml(imageUrl, category, withLabel) {
+  if (!imageUrl) return DN.thumbFallbackHtml(category, withLabel);
+  return `<img src="${DN.esc(imageUrl)}" alt="" loading="lazy" data-fb-cat="${DN.esc(category || '')}" data-fb-label="${withLabel ? '1' : ''}" onerror="DN.onThumbImgError(this)">`;
 };
 
 DN.onThumbImgError = function onThumbImgError(img) {
-  img.outerHTML = `<span>${DN.esc(img.dataset.fallback || '写真')}</span>`;
+  img.outerHTML = DN.thumbFallbackHtml(img.dataset.fbCat, img.dataset.fbLabel === '1');
 };

@@ -1,4 +1,4 @@
-/* 脱炭素ナビ — fetch-based HTML partial loader.
+/* 脱炭素ニュースポータル — fetch-based HTML partial loader.
    <div data-include="partials/utility.html"></div> gets its innerHTML replaced
    with the fetched partial. Fires 'dn:partials-loaded' on document once every
    data-include on the page has resolved, so page scripts can safely query the
