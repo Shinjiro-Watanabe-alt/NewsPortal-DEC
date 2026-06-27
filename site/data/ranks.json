@@ -1,10 +1,10 @@
 [
   {
-    "keyword": "太陽光",
+    "keyword": "水素",
     "trend": ""
   },
   {
-    "keyword": "水素",
+    "keyword": "太陽光",
     "trend": ""
   },
   {
@@ -12,23 +12,23 @@
     "trend": ""
   },
   {
-    "keyword": "蓄電池",
-    "trend": ""
+    "keyword": "GX",
+    "trend": "急上昇"
   },
   {
-    "keyword": "再エネ",
-    "trend": "急上昇"
+    "keyword": "蓄電池",
+    "trend": ""
   },
   {
     "keyword": "蓄電",
     "trend": ""
   },
   {
-    "keyword": "GX",
-    "trend": "NEW"
+    "keyword": "再エネ",
+    "trend": ""
   },
   {
-    "keyword": "洋上風力",
-    "trend": ""
+    "keyword": "CO2",
+    "trend": "NEW"
   }
 ]
