@@ -9,13 +9,13 @@
     "slug": "renewable",
     "icon": "bolt",
     "label": "再生可能エネルギー",
-    "count": 88
+    "count": 94
   },
   {
     "slug": "business",
     "icon": "business",
     "label": "企業・産業",
-    "count": 8
+    "count": 3
   },
   {
     "slug": "tech",
@@ -33,7 +33,7 @@
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体・地域",
-    "count": 7
+    "count": 6
   },
   {
     "slug": "intl",
