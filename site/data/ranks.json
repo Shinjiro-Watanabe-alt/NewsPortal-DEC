@@ -1,10 +1,10 @@
 [
   {
-    "keyword": "水素",
+    "keyword": "太陽光",
     "trend": ""
   },
   {
-    "keyword": "太陽光",
+    "keyword": "水素",
     "trend": ""
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "keyword": "GX",
-    "trend": "急上昇"
+    "trend": ""
   },
   {
     "keyword": "蓄電池",
@@ -29,6 +29,6 @@
   },
   {
     "keyword": "CO2",
-    "trend": "NEW"
+    "trend": ""
   }
 ]
