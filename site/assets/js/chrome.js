@@ -48,6 +48,14 @@
       `<a href="index.html?cat=${encodeURIComponent(c.slug)}">${DN.esc(c.label)}</a>`).join('');
   }
 
+  async function renderFooterTech() {
+    const node = document.getElementById('footTech');
+    if (!node) return;
+    const items = await DN.fetchJSON('shortcuts.json');
+    node.innerHTML = '<b>技術キーワード</b>' + items.map((s) =>
+      `<a href="index.html?tag=${encodeURIComponent(s.tags.join(','))}">${DN.esc(s.label)}</a>`).join('');
+  }
+
   async function renderRail() {
     const railUpd = document.getElementById('railUpdated');
     const ranksUpd = document.getElementById('ranksUpdated');
@@ -142,6 +150,7 @@
     renderUpdatedAt();
     renderShortcuts();
     renderFooterCategories();
+    renderFooterTech();
     renderRail();
     renderSearchSugg();
     highlightNav();
