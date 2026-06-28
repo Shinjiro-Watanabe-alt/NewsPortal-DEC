@@ -233,6 +233,15 @@
     renderFeedPage();
   }
 
+  function scrollToFeed() {
+    const target = document.getElementById('filterChip');
+    if (!target) return;
+    const header = document.querySelector('.m-head');
+    const offset = (header ? header.getBoundingClientRect().height : 0) + 12;
+    const top = target.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo(0, Math.max(top, 0));
+  }
+
   async function init() {
     categories = await DN.fetchJSON('categories.json');
     const params = new URLSearchParams(location.search);
@@ -244,7 +253,8 @@
     renderTopics();
     renderKpis();
     renderRibbon();
-    renderFeed(catSlug, query, tagParam);
+    await renderFeed(catSlug, query, tagParam);
+    if (catSlug || query || tagParam) scrollToFeed();
 
     const chip = document.getElementById('filterChip');
     if (chip) {
