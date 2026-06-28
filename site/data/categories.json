@@ -21,7 +21,7 @@
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 59
+    "count": 54
   },
   {
     "slug": "life",
@@ -33,12 +33,12 @@
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 31
+    "count": 30
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 104
+    "count": 116
   }
 ]
