@@ -10,6 +10,7 @@
     dark: false,
     thumb: 'photo',
     size: 'm',
+    color: 'teal',
   };
 
   const SIZE = {
@@ -17,6 +18,15 @@
     m: { label: '標準', fs: '14px',   gap: '14px', pad: '14px' },
     l: { label: '大',   fs: '15.5px', gap: '16px', pad: '16px' },
   };
+
+  const COLORS = [
+    { value: 'teal',   label: 'ティール',   hue: 198 },
+    { value: 'green',  label: 'グリーン',   hue: 152 },
+    { value: 'blue',   label: 'ブルー',     hue: 235 },
+    { value: 'purple', label: 'パープル',   hue: 300 },
+    { value: 'amber',  label: 'アンバー',   hue: 70 },
+    { value: 'rose',   label: 'ローズ',     hue: 12 },
+  ];
 
   function load() {
     try {
@@ -39,6 +49,7 @@
     r.setProperty('--pad', s.pad);
     document.documentElement.setAttribute('data-dark', t.dark ? 'true' : 'false');
     document.documentElement.setAttribute('data-thumbstyle', t.thumb === 'icon' ? 'icon' : 'photo');
+    document.documentElement.setAttribute('data-color', t.color || DEFAULTS.color);
   }
 
   let state = load();
@@ -67,9 +78,30 @@
     return wrap;
   }
 
+  function swatches(options, current, onPick) {
+    const buttons = options.map((o) =>
+      `<button type="button" class="sp-swatch${o.value === current ? ' on' : ''}" data-v="${DN.esc(o.value)}"
+         style="background:oklch(0.52 0.12 ${o.hue})" title="${DN.esc(o.label)}" aria-label="${DN.esc(o.label)}">${
+         o.value === current ? DN.icon('check') : ''}</button>`
+    ).join('');
+    const wrap = DN.el('div', 'sp-swatches');
+    wrap.innerHTML = buttons;
+    wrap.addEventListener('click', (e) => {
+      const btn = e.target.closest('button[data-v]');
+      if (btn) onPick(btn.getAttribute('data-v'));
+    });
+    return wrap;
+  }
+
   function renderPanelBody() {
     if (!bodyEl) return;
     bodyEl.innerHTML = '';
+
+    // カラー
+    const colorRow = DN.el('div', 'sp-row');
+    colorRow.innerHTML = `<div class="sp-lbl"><span>カラー</span></div>`;
+    colorRow.appendChild(swatches(COLORS, state.color, (v) => set({ color: v })));
+    bodyEl.appendChild(colorRow);
 
     // テーマ
     const themeRow = DN.el('div', 'sp-row');

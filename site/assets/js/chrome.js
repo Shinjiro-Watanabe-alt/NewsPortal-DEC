@@ -16,7 +16,9 @@
     } catch {
       // meta.json未生成時は現在時刻を表示
     }
-    node.textContent = `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${WEEKDAYS[dt.getDay()]}） ニュースデータ更新`;
+    const hh = String(dt.getHours()).padStart(2, '0');
+    const mm = String(dt.getMinutes()).padStart(2, '0');
+    node.textContent = `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${WEEKDAYS[dt.getDay()]}） ${hh}:${mm}更新`;
   }
 
   async function renderShortcuts() {
