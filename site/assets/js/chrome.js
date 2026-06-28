@@ -6,16 +6,20 @@
 (function () {
   const WEEKDAYS = ['日', '月', '火', '水', '木', '金', '土'];
 
-  async function renderUpdatedAt() {
-    const node = document.getElementById('today');
-    if (!node) return;
-    let dt = new Date();
+  async function fetchUpdatedAt() {
     try {
       const meta = await DN.fetchJSON('meta.json');
-      if (meta?.updated_at) dt = new Date(meta.updated_at);
+      if (meta?.updated_at) return new Date(meta.updated_at);
     } catch {
       // meta.json未生成時は現在時刻を表示
     }
+    return new Date();
+  }
+
+  async function renderUpdatedAt() {
+    const node = document.getElementById('today');
+    if (!node) return;
+    const dt = await fetchUpdatedAt();
     const hh = String(dt.getHours()).padStart(2, '0');
     const mm = String(dt.getMinutes()).padStart(2, '0');
     node.textContent = `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${WEEKDAYS[dt.getDay()]}） ${hh}:${mm}更新`;
@@ -45,6 +49,15 @@
   }
 
   async function renderRail() {
+    const railUpd = document.getElementById('railUpdated');
+    const ranksUpd = document.getElementById('ranksUpdated');
+    if (railUpd || ranksUpd) {
+      const dt = await fetchUpdatedAt();
+      const hhmm = `${String(dt.getHours()).padStart(2, '0')}:${String(dt.getMinutes()).padStart(2, '0')}更新`;
+      if (railUpd) railUpd.textContent = hhmm;
+      if (ranksUpd) ranksUpd.textContent = hhmm;
+    }
+
     const railData = document.getElementById('railData');
     if (railData) {
       const rows = await DN.fetchJSON('rail-data.json');
