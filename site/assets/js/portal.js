@@ -175,7 +175,7 @@
       return;
     }
 
-    const items = await DN.fetchJSON('feed.json');
+    const items = Object.values(await getArticles());
 
     if (query) {
       const q = query.toLowerCase();
