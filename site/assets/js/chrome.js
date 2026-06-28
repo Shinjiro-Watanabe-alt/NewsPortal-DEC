@@ -6,11 +6,17 @@
 (function () {
   const WEEKDAYS = ['日', '月', '火', '水', '木', '金', '土'];
 
-  function renderToday() {
+  async function renderUpdatedAt() {
     const node = document.getElementById('today');
     if (!node) return;
-    const now = new Date();
-    node.textContent = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日(${WEEKDAYS[now.getDay()]})`;
+    let dt = new Date();
+    try {
+      const meta = await DN.fetchJSON('meta.json');
+      if (meta?.updated_at) dt = new Date(meta.updated_at);
+    } catch {
+      // meta.json未生成時は現在時刻を表示
+    }
+    node.textContent = `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${WEEKDAYS[dt.getDay()]}） ニュースデータ更新`;
   }
 
   async function renderShortcuts() {
@@ -48,9 +54,11 @@
     const events = document.getElementById('events');
     if (events) {
       const items = await DN.fetchJSON('events.json');
-      events.innerHTML = items.map((e) =>
-        `<li><a href="#"><div class="ev-d"><b>${DN.esc(e.day)}</b><span>${DN.esc(e.month)}月</span></div>
-          <div class="ev-t">${DN.esc(e.title)}<span>${DN.esc(e.place)}</span></div></a></li>`).join('');
+      events.innerHTML = items.length
+        ? items.map((e) =>
+            `<li><a href="${DN.esc(e.source_url || '#')}" target="_blank" rel="noopener noreferrer"><div class="ev-d"><b>${DN.esc(e.day)}</b><span>${DN.esc(e.month)}月</span></div>
+              <div class="ev-t">${DN.esc(e.title)}<span>${DN.esc(e.place || e.source)}</span></div></a></li>`).join('')
+        : '<li class="ev-empty">現在開催予定のイベント・セミナー情報はありません。</li>';
     }
 
     const ranks = document.getElementById('ranks');
@@ -117,7 +125,7 @@
   }
 
   document.addEventListener('dn:partials-loaded', () => {
-    renderToday();
+    renderUpdatedAt();
     renderShortcuts();
     renderFooterCategories();
     renderRail();

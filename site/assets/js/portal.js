@@ -83,7 +83,7 @@
     if (headlinesEl) headlinesEl.innerHTML = headlinesHtml(list.slice(1, 1 + limit).map((a, i) => ({ ...a, rank: i + 1 })));
   }
 
-  const DEFAULT_TOPIC_TAB = '国';
+  const DEFAULT_TOPIC_TAB = '総合';
 
   async function renderTopics() {
     topicsData = await DN.fetchJSON('topics.json');

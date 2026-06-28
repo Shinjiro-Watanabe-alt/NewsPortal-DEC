@@ -354,6 +354,75 @@ def build_ranks(articles: dict, previous_ranks: list, top_n: int = 8):
     return result
 
 
+EVENT_KEYWORDS = [
+    "セミナー", "シンポジウム", "フォーラム", "ウェビナー", "説明会",
+    "勉強会", "講演会", "展示会", "総会", "カンファレンス", "EXPO", "見本市",
+]
+EVENT_KEYWORD_RE = re.compile("|".join(EVENT_KEYWORDS))
+# 「7月29日に開催」「7月8日(水)開催」のように、日付の直後(住所・会場等の短い修飾を挟むことはある)に
+# 「開催」が続く箇所のみを開催日とみなす。記事タイトルに混在する掲載日(「6月27日掲載」等)との
+# 誤判定を避けるため。
+EVENT_DATE_RE = re.compile(r"(\d{1,2})月(\d{1,2})日.{0,15}?開催")
+
+
+def extract_event_date(text: str, base: datetime):
+    m = EVENT_DATE_RE.search(text)
+    if not m:
+        return None
+    month, day = int(m.group(1)), int(m.group(2))
+    try:
+        candidate = base.replace(month=month, day=day, hour=0, minute=0, second=0, microsecond=0)
+    except ValueError:
+        return None
+    if candidate.date() < base.date():
+        try:
+            candidate = candidate.replace(year=candidate.year + 1)
+        except ValueError:
+            return None
+    return candidate
+
+
+def build_events(articles: dict, previous_events: list, now: datetime, top_n: int = 8):
+    """収集記事のうち、セミナー/イベント関連かつ開催日が明記されているものから一覧を組み立てる。
+    開催日を過ぎたものは(引き継ぎ分も含めて)除外する"""
+    found = {}
+    for a in articles.values():
+        haystack = a["title"] + " " + " ".join(a.get("body", []))
+        if not EVENT_KEYWORD_RE.search(haystack):
+            continue
+        event_dt = extract_event_date(a["title"], now) or extract_event_date(haystack, now)
+        if event_dt is None:
+            continue
+        key = (event_dt.month, event_dt.day, a["title"])
+        found[key] = {
+            "month": f"{event_dt.month:02d}",
+            "day": f"{event_dt.day:02d}",
+            "title": a["title"],
+            "place": "オンライン" if "オンライン" in haystack else "",
+            "source": a["source"],
+            "source_url": a["source_url"],
+            "_date": event_dt.isoformat(),
+        }
+
+    for e in previous_events:
+        raw_date = e.get("_date")
+        if not raw_date:
+            continue
+        try:
+            d = datetime.fromisoformat(raw_date)
+        except ValueError:
+            continue
+        if d < now:
+            continue
+        key = (int(e["month"]), int(e["day"]), e["title"])
+        found.setdefault(key, e)
+
+    ordered = sorted(found.values(), key=lambda e: e["_date"])[:top_n]
+    for e in ordered:
+        e.pop("_date", None)
+    return ordered
+
+
 ZERO_CARBON_URL = "https://www.env.go.jp/policy/zerocarbon.html"
 # ページ本文には総数の記載がなく、リンク先の「一覧図」PDFに埋め込まれていることが
 # 実際のページ調査で判明した。まずページ本文を試し、駄目なら一覧図PDFのテキストを試す。
@@ -630,6 +699,8 @@ def main():
     previous_ranks = load_json("ranks.json", [])
     topics = build_topics(articles, ordered_ids, categories, new_ids)
     ranks = build_ranks(articles, previous_ranks)
+    previous_events = load_json("events.json", [])
+    events = build_events(articles, previous_events, now)
 
     save_json("articles.json", articles)
     save_json("feed.json", feed)
@@ -638,6 +709,8 @@ def main():
         save_json("topics.json", topics)
     if ranks is not None:
         save_json("ranks.json", ranks)
+    save_json("events.json", events)
+    save_json("meta.json", {"updated_at": now.isoformat()})
 
     zero_carbon_total = fetch_zero_carbon_total()
     if zero_carbon_total is not None:

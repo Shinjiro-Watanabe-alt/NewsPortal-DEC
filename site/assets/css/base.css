@@ -268,6 +268,7 @@ button{font:inherit;}
 .events .ev-d span{font-size:9.5px;font-weight:700;}
 .events .ev-t{font-size:12.5px;font-weight:500;line-height:1.45;}
 .events .ev-t span{display:block;font-size:10.5px;color:var(--ink-3);font-weight:400;margin-top:2px;}
+.events .ev-empty{padding:18px 8px;text-align:center;color:var(--ink-3);font-size:12.5px;}
 
 .ranklist{list-style:none;margin:0;padding:6px 6px 10px;counter-reset:r;}
 .ranklist li a{display:flex;align-items:center;gap:11px;padding:7px 8px;border-radius:7px;}
