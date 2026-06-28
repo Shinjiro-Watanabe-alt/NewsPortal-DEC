@@ -180,8 +180,31 @@ def format_time(dt: datetime) -> str:
     return f"{dt.month}/{dt.day}({wd}) {dt.hour}:{dt.minute:02d}"
 
 
-def make_id(link: str) -> str:
-    return "auto-" + hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
+def make_id(key: str) -> str:
+    return "auto-" + hashlib.sha1(key.encode("utf-8")).hexdigest()[:12]
+
+
+# 同じ記事が複数のRSS/検索クエリ経由で別リンク・別配信元として重複収集されるのを防ぐための
+# タイトル正規化キー。末尾の「(配信元テレビ局)」「(掲載日)」「(3ページ目)」のような
+# Yahoo!ニュース等が付与する注記や、全角/半角スペースの差異を吸収して同一記事と判定する
+TITLE_DEDUP_SUFFIX_RE = re.compile(r"\s*[\(（][^()（）]{1,30}[\)）]\s*$")
+
+
+def normalize_title_for_dedup(title: str) -> str:
+    return re.sub(r"\s+", "", TITLE_DEDUP_SUFFIX_RE.sub("", title))
+
+
+def dedupe_by_title(articles: dict) -> dict:
+    """正規化タイトルが一致する記事(別IDで重複登録されている過去収集分を含む)を1件に
+    統合する。注記がない分タイトルが短くなる傾向を利用し、最も短いタイトルの記事を残す
+    (同じ長さなら辞書の並び順で先に見つかった方、すなわちより古い記事を残す)"""
+    best = {}
+    for a in articles.values():
+        key = normalize_title_for_dedup(a["title"])
+        current = best.get(key)
+        if current is None or len(a["title"]) < len(current["title"]):
+            best[key] = a
+    return {a["id"]: a for a in best.values()}
 
 
 def classify_category(text: str, fallback: str) -> str:
@@ -273,7 +296,7 @@ def collect_one_source(source: dict, now: datetime):
         matched_tags = list(dict.fromkeys(KEYWORD_RE.findall(haystack)))[:4]
 
         results.append({
-            "id": make_id(link),
+            "id": make_id(normalize_title_for_dedup(title)),
             "category": classify_category(haystack, source["category"]),
             "title": title,
             "source": source_label,
@@ -741,6 +764,10 @@ def main():
                 article["image"] = prev["image"]
             collected[article["id"]] = article
     new_count = len(new_ids)
+
+    # 同じ記事が複数のRSS/検索クエリ経由で別ID(旧リンクベースIDの引き継ぎ分を含む)として
+    # 重複登録されている場合があるため、タイトル単位で1件に統合する
+    collected = dedupe_by_title(collected)
 
     # 新しい順にソートし、上限件数で切る
     ordered_ids = sorted(
