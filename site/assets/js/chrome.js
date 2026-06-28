@@ -101,6 +101,14 @@
     }
   }
 
+  async function renderSearchSugg() {
+    const node = document.getElementById('searchSugg');
+    if (!node) return;
+    const items = await DN.fetchJSON('ranks.json');
+    node.innerHTML = '<span>注目:</span>' + items.slice(0, 5).map((r) =>
+      `<a href="index.html?q=${encodeURIComponent(r.keyword)}">${DN.esc(r.keyword)}</a>`).join('');
+  }
+
   function highlightNav() {
     const here = location.pathname.split('/').pop() || 'index.html';
     document.querySelectorAll('[data-nav]').forEach((a) => {
@@ -135,6 +143,7 @@
     renderShortcuts();
     renderFooterCategories();
     renderRail();
+    renderSearchSugg();
     highlightNav();
     initSearch();
   });
