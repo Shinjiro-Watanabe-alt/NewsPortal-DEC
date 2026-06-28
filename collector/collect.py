@@ -49,6 +49,7 @@ KEYWORDS = [
     "Jクレジット", "J-クレジット", "SAF", "e-fuel", "合成燃料",
 ]
 KEYWORD_RE = re.compile("|".join(re.escape(k) for k in KEYWORDS))
+KEYWORDS_SET = set(KEYWORDS)
 
 # カテゴリ自動分類（一致したら上書き、優先順位は上から）
 CATEGORY_RULES = [
@@ -329,12 +330,84 @@ def build_topics(articles: dict, ordered_ids: list, categories: list, new_ids: s
     return {"tabs": tabs, "lead": lead, "headlines": headlines}
 
 
+# 「話題のキーワード」ランキング専用の特化辞書。記事の関連性判定(KEYWORDS)用の
+# 広いカテゴリ語とは別に、環境政策・施策に携わる人が見て分かる固有名詞的な
+# 法律・制度・技術名のみを集めている。ランキングの語彙はこれに加えて、下の
+# パターンベース抽出で一定の頻度・出典数に達した語を自動的に取り込んでいくため、
+# 手動でリストを増やし続けなくても新しい制度・技術名が拾えるようになっている。
+RANK_BASE_KEYWORDS = [
+    "GX推進法", "GX推進戦略", "地球温暖化対策計画", "エネルギー基本計画",
+    "水素基本戦略", "カーボンプライシング", "炭素税", "排出量取引制度",
+    "GX-ETS", "Jクレジット", "CBAM", "FIT制度", "FIP制度",
+    "RE100", "SBTi", "TCFD", "CCS", "CCUS", "DAC", "SAF",
+    "アンモニア混焼", "ペロブスカイト太陽電池", "バイオマス", "グリーン水素",
+]
+
+RANK_CANDIDATE_SUFFIXES = [
+    "法", "計画", "制度", "戦略", "構想", "宣言", "ロードマップ", "ガイドライン", "イニシアチブ",
+]
+# 英字略称(RE100・GX-ETSのような表記)。会社名・媒体名(ENEOS・NEWS等)との
+# 区別がつかない素の英字のみの語を誤って拾わないよう、数字またはハイフンを
+# 含むものだけを候補として扱う(末尾の小文字1字(SBTiのような表記)は許容)
+RANK_ACRONYM_RE = re.compile(
+    r"(?<![A-Za-z0-9])(?:[A-Z][A-Z0-9]{1,7}-[A-Z0-9]{1,8}|[A-Z][A-Z0-9]{2,7})[a-z]?(?![A-Za-z0-9])"
+)
+# 「法」は「法人」の一部に偶然マッチしてしまうため、直後が「人」の場合は除外する
+RANK_KANJI_SUFFIX_RE = re.compile(
+    r"[一-龠ァ-ヴー]{2,14}?(?:法(?!人)|計画|制度|戦略|構想|宣言|ロードマップ|ガイドライン|イニシアチブ)"
+)
+RANK_PROMOTE_MIN_COUNT = 3
+RANK_PROMOTE_MIN_SOURCES = 2
+
+
+def extract_rank_candidates(text: str) -> set:
+    """記事本文から、ランキング語彙の自動候補(数字/ハイフンを含む英字略称・
+    法令/制度名らしい漢字複合語)を抜き出す。既存のKEYWORDS(関連性判定用の
+    広い語)に含まれるものは、専門ランキング向けの新規候補としては扱わない"""
+    found = {
+        m for m in RANK_ACRONYM_RE.findall(text)
+        if any(c.isdigit() for c in m) or "-" in m
+    }
+    found.update(RANK_KANJI_SUFFIX_RE.findall(text))
+    found -= KEYWORDS_SET
+    return found
+
+
+def build_rank_vocab(articles: dict):
+    """直近の記事群(articles.jsonの引き継ぎ分含む全件)から自動候補語を集計し、
+    一定の頻度・出典数に達したものだけをベース辞書に加えて返す。
+    記事の引き継ぎ自体がローリングウィンドウになっているため、話題性が薄れた語は
+    追って自然に閾値を下回り、明示的なプルーニング処理なしで自動的に外れていく"""
+    candidate_counts = {}
+    candidate_sources = {}
+    for a in articles.values():
+        haystack = a.get("title", "") + " " + a.get("summary", "")
+        for term in extract_rank_candidates(haystack):
+            candidate_counts[term] = candidate_counts.get(term, 0) + 1
+            candidate_sources.setdefault(term, set()).add(a.get("source", ""))
+
+    promoted = [
+        term for term, count in candidate_counts.items()
+        if count >= RANK_PROMOTE_MIN_COUNT
+        and len(candidate_sources[term]) >= RANK_PROMOTE_MIN_SOURCES
+    ]
+
+    return list(dict.fromkeys(RANK_BASE_KEYWORDS + sorted(promoted)))
+
+
 def build_ranks(articles: dict, previous_ranks: list, top_n: int = 8):
-    """記事に付与済みのタグ(キーワード)の出現頻度からトレンドキーワードを集計する"""
+    """環境政策・施策の専門語(ベース辞書＋自動採用された候補語)が記事本文(タイトル+
+    概要)に出現する頻度からトレンドキーワードを集計する"""
+    vocab = build_rank_vocab(articles)
+    if not vocab:
+        return None
+    vocab_re = re.compile("|".join(re.escape(v) for v in sorted(vocab, key=len, reverse=True)))
+
     counts = {}
     for a in articles.values():
-        for tag in a.get("tags", []):
-            counts[tag] = counts.get(tag, 0) + 1
+        haystack = a.get("title", "") + " " + a.get("summary", "")
+        for term in set(vocab_re.findall(haystack)):
+            counts[term] = counts.get(term, 0) + 1
 
     if not counts:
         return None
