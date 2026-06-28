@@ -1,4 +1,8 @@
 /* dashboard.html — data dashboard: KPI strip + hand-rolled SVG charts, no chart library. */
+/* dashboard.html / glossary.html はニュース検索の対象が無いため検索窓を非表示にする(タブ切替は維持)。 */
+.masthead .search-field,
+.masthead .search-sugg{display:none;}
+
 .dash-wrap{max-width:980px;}
 .dash-head{display:flex;align-items:baseline;gap:12px;margin:14px 0 16px;flex-wrap:wrap;}
 .dash-head h1{font-family:var(--head);font-weight:900;font-size:24px;margin:0;letter-spacing:.01em;}
