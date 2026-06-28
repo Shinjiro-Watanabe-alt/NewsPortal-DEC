@@ -1,0 +1,11 @@
+/* news.html — ニュース専用ページ: nav + center の2カラムグリッド(右レール無し)。 */
+.main .wrap{display:grid;grid-template-columns:184px 1fr;gap:var(--gap);align-items:start;}
+.main .wrap > .crumb{grid-column:1/-1;}
+
+@media(max-width:1080px){
+  .main .wrap{grid-template-columns:minmax(0,1fr);}
+  .nav-col{display:none;}
+}
+@media(max-width:820px){
+  .feed{grid-template-columns:minmax(0,1fr);}
+}

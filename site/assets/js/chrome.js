@@ -99,15 +99,6 @@
     const box = document.querySelector('.searchbox');
     if (!box) return;
 
-    const tabs = box.querySelector('.search-tabs');
-    if (tabs) {
-      tabs.addEventListener('click', (e) => {
-        const btn = e.target.closest('button');
-        if (!btn) return;
-        tabs.querySelectorAll('button').forEach((b) => b.classList.toggle('on', b === btn));
-      });
-    }
-
     const field = box.querySelector('.search-field');
     const input = field?.querySelector('input');
     if (!field || !input) return;
