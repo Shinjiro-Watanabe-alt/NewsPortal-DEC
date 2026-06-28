@@ -3,13 +3,13 @@
     "slug": "national",
     "icon": "account_balance",
     "label": "国",
-    "count": 21
+    "count": 25
   },
   {
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体",
-    "count": 16
+    "count": 20
   },
   {
     "slug": "business",
@@ -21,24 +21,24 @@
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 46
+    "count": 57
   },
   {
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 5
+    "count": 10
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 22
+    "count": 31
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 78
+    "count": 101
   }
 ]
