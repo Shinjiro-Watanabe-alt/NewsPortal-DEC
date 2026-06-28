@@ -38,6 +38,7 @@ DN.kpiCardHtml = function kpiCardHtml(k) {
     <div class="k-v">${DN.esc(k.value)}<small>${DN.esc(k.unit)}</small></div>
     <div class="k-d ${k.dir}">${DN.icon(k.dir === 'up' ? 'arrow_upward' : 'arrow_downward')}${DN.esc(k.delta)}
       <span style="color:var(--ink-3);font-weight:400;margin-left:2px">${DN.esc(k.period)}</span></div>
+    <div class="k-src">参照元: ${DN.esc(k.source)}<br>基準日: ${DN.esc(k.asOf)}</div>
   </div>`;
 };
 

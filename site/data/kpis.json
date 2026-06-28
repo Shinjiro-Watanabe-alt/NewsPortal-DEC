@@ -7,7 +7,9 @@
     "delta": "-5.2%",
     "dir": "down",
     "period": "前年度比",
-    "live": false
+    "live": false,
+    "source": "環境省（温室効果ガスインベントリ）",
+    "asOf": "2024年度確定値"
   },
   {
     "icon": "bolt",
@@ -17,7 +19,9 @@
     "delta": "+2.1pt",
     "dir": "up",
     "period": "前年度比",
-    "live": false
+    "live": false,
+    "source": "資源エネルギー庁（電力調査統計）",
+    "asOf": "2024年度"
   },
   {
     "icon": "sell",
@@ -27,7 +31,9 @@
     "delta": "+180",
     "dir": "up",
     "period": "前週比",
-    "live": false
+    "live": false,
+    "source": "東京証券取引所（GX-ETS）",
+    "asOf": "2026年6月22日時点"
   },
   {
     "icon": "location_city",
@@ -37,6 +43,8 @@
     "delta": "+0",
     "dir": "up",
     "period": "前回更新比",
-    "live": true
+    "live": true,
+    "source": "環境省（ゼロカーボンシティ表明状況）",
+    "asOf": "2026年6月26日時点"
   }
 ]

@@ -581,9 +581,11 @@ def fetch_jepx_spot_average(now: datetime):
     return None
 
 
-def update_zero_carbon_kpi(total: int):
+def update_zero_carbon_kpi(total: int, now: datetime):
     """kpis.json / dashboard.json の「ゼロカーボン宣言」KPIを実数値で更新する"""
     formatted = f"{total:,}"
+    source = "環境省（ゼロカーボンシティ表明状況）"
+    as_of = f"{now.year}年{now.month}月{now.day}日時点"
 
     kpis = load_json("kpis.json", [])
     for k in kpis:
@@ -594,6 +596,8 @@ def update_zero_carbon_kpi(total: int):
             k["delta"] = f"{diff:+d}"
             k["dir"] = "down" if diff < 0 else "up"
             k["period"] = "前回更新比"
+            k["source"] = source
+            k["asOf"] = as_of
     save_json("kpis.json", kpis)
 
     dashboard = load_json("dashboard.json", None)
@@ -607,6 +611,8 @@ def update_zero_carbon_kpi(total: int):
             k["delta"] = f"{diff:+d}"
             k["dir"] = "down" if diff < 0 else "up"
             k["period"] = "前回更新比"
+            k["source"] = source
+            k["asOf"] = as_of
     save_json("dashboard.json", dashboard)
 
 
@@ -714,7 +720,7 @@ def main():
 
     zero_carbon_total = fetch_zero_carbon_total()
     if zero_carbon_total is not None:
-        update_zero_carbon_kpi(zero_carbon_total)
+        update_zero_carbon_kpi(zero_carbon_total, now)
 
     jepx_price = fetch_jepx_spot_average(now)
     if jepx_price is not None:
