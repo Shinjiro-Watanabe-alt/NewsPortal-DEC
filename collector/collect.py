@@ -597,6 +597,7 @@ def update_zero_carbon_kpi(total: int, now: datetime):
             k["dir"] = "down" if diff < 0 else "up"
             k["period"] = "前回更新比"
             k["source"] = source
+            k["sourceUrl"] = ZERO_CARBON_URL
             k["asOf"] = as_of
     save_json("kpis.json", kpis)
 
@@ -612,6 +613,7 @@ def update_zero_carbon_kpi(total: int, now: datetime):
             k["dir"] = "down" if diff < 0 else "up"
             k["period"] = "前回更新比"
             k["source"] = source
+            k["sourceUrl"] = ZERO_CARBON_URL
             k["asOf"] = as_of
     save_json("dashboard.json", dashboard)
 

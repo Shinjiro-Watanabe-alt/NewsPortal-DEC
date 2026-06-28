@@ -9,6 +9,7 @@
     "period": "前年度比",
     "live": false,
     "source": "環境省（温室効果ガスインベントリ）",
+    "sourceUrl": "https://www.env.go.jp/earth/ondanka/ghg-mrv/emissions/",
     "asOf": "2024年度確定値"
   },
   {
@@ -21,6 +22,7 @@
     "period": "前年度比",
     "live": false,
     "source": "資源エネルギー庁（電力調査統計）",
+    "sourceUrl": "https://www.enecho.meti.go.jp/statistics/electric_power/ep002/",
     "asOf": "2024年度"
   },
   {
@@ -32,7 +34,8 @@
     "dir": "up",
     "period": "前週比",
     "live": false,
-    "source": "東京証券取引所（GX-ETS）",
+    "source": "GXリーグ（GX-ETS）",
+    "sourceUrl": "https://gx-league.go.jp/action/gxets/",
     "asOf": "2026年6月22日時点"
   },
   {
@@ -45,6 +48,7 @@
     "period": "前回更新比",
     "live": true,
     "source": "環境省（ゼロカーボンシティ表明状況）",
+    "sourceUrl": "https://www.env.go.jp/policy/zerocarbon.html",
     "asOf": "2026年6月26日時点"
   }
 ]

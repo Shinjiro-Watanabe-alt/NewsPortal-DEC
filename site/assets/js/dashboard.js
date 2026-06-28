@@ -120,6 +120,14 @@
     document.getElementById('carbonPriceChart').innerHTML = lineChart(d.carbonPriceTrend, 'value', 'week', 'var(--brand-deep)');
     document.getElementById('zeroCarbonChart').innerHTML = hBarRatioList(d.zeroCarbonByRegion);
     document.getElementById('sectorChart').innerHTML = hBarValueList(d.sectorEmissions, '%', 'var(--accent)');
+
+    const charts = d.charts || {};
+    document.getElementById('powerMixSrc').innerHTML = DN.chartSrcHtml(charts.powerMixToday);
+    document.getElementById('co2TrendSrc').innerHTML = DN.chartSrcHtml(charts.co2Trend);
+    document.getElementById('renewableTrendSrc').innerHTML = DN.chartSrcHtml(charts.renewableTrend);
+    document.getElementById('carbonPriceSrc').innerHTML = DN.chartSrcHtml(charts.carbonPriceTrend);
+    document.getElementById('zeroCarbonSrc').innerHTML = DN.chartSrcHtml(charts.zeroCarbonByRegion);
+    document.getElementById('sectorSrc').innerHTML = DN.chartSrcHtml(charts.sectorEmissions);
   }
 
   document.addEventListener('dn:partials-loaded', init);

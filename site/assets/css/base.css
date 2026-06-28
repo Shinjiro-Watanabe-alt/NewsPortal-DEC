@@ -209,6 +209,7 @@ button{font:inherit;}
 .k-d.up{color:var(--brand-deep);}
 .k-d.down{color:var(--accent);}
 .kpi .k-src{font-size:9.5px;color:var(--ink-3);line-height:1.5;margin-top:6px;padding-top:6px;border-top:1px solid var(--line-2);}
+.kpi .k-src a{color:var(--ink-2);font-weight:600;text-decoration:underline;}
 
 /* feed */
 .feed{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line-2);}

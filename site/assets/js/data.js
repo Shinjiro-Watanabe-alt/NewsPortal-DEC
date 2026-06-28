@@ -38,8 +38,18 @@ DN.kpiCardHtml = function kpiCardHtml(k) {
     <div class="k-v">${DN.esc(k.value)}<small>${DN.esc(k.unit)}</small></div>
     <div class="k-d ${k.dir}">${DN.icon(k.dir === 'up' ? 'arrow_upward' : 'arrow_downward')}${DN.esc(k.delta)}
       <span style="color:var(--ink-3);font-weight:400;margin-left:2px">${DN.esc(k.period)}</span></div>
-    <div class="k-src">参照元: ${DN.esc(k.source)}<br>基準日: ${DN.esc(k.asOf)}</div>
+    <div class="k-src">参照元: ${DN.sourceLinkHtml(k.source, k.sourceUrl)}<br>基準日: ${DN.esc(k.asOf)}</div>
   </div>`;
+};
+
+DN.sourceLinkHtml = function sourceLinkHtml(source, url) {
+  if (!url) return DN.esc(source);
+  return `<a href="${DN.esc(url)}" target="_blank" rel="noopener noreferrer">${DN.esc(source)}</a>`;
+};
+
+DN.chartSrcHtml = function chartSrcHtml(meta) {
+  if (!meta) return '';
+  return `参照元: ${DN.sourceLinkHtml(meta.source, meta.sourceUrl)}<br>基準日: ${DN.esc(meta.asOf)}`;
 };
 
 // カテゴリ別のアイコン・色・ストック写真(assets/cat/*.jpg)。記事に実画像が無い場合の
