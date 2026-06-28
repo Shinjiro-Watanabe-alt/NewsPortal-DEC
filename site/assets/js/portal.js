@@ -118,6 +118,21 @@
     el.innerHTML = kpis.map(DN.kpiCardHtml).join('');
   }
 
+  async function renderRibbon() {
+    const ribbon = document.querySelector('.ribbon');
+    const textEl = document.getElementById('ribbonText');
+    const linkEl = document.getElementById('ribbonLink');
+    if (!ribbon || !textEl || !linkEl) return;
+    const all = await getArticles();
+    const latest = Object.values(all).find((a) => a.category === '国');
+    if (!latest) {
+      ribbon.style.display = 'none';
+      return;
+    }
+    textEl.textContent = latest.title;
+    linkEl.href = latest.source_url || `article.html?id=${encodeURIComponent(latest.id)}`;
+  }
+
   function feedItemHtml(f) {
     const href = DN.esc(f.source_url || `article.html?id=${encodeURIComponent(f.id)}`);
     return `<a class="fitem" href="${href}" target="_blank" rel="noopener noreferrer">
@@ -228,6 +243,7 @@
     renderNav(catSlug);
     renderTopics();
     renderKpis();
+    renderRibbon();
     renderFeed(catSlug, query, tagParam);
 
     const chip = document.getElementById('filterChip');
