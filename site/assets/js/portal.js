@@ -31,20 +31,22 @@
     return `
       <a class="thumb" href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.thumbInnerHtml(lead.image, lead.category, true)}</a>
       <div class="tl-body">
+        <div class="topic-meta">${DN.catBadgeHtml(lead.category)}<span class="src">${DN.esc(lead.source)}</span><span>${DN.esc(lead.time)}</span>
+          ${DN.icon('forum', 'font-size:14px')}<span>${lead.comments.toLocaleString('ja-JP')}</span></div>
         <h3><a href="${leadHref}" target="_blank" rel="noopener noreferrer">${DN.esc(lead.title)}</a></h3>
         <p>${DN.esc(lead.summary)}</p>
-        <div class="topic-meta">${DN.icon(DN.categoryMeta(lead.category).icon, 'font-size:14px')}<span class="src">${DN.esc(lead.source)}</span><span>${DN.esc(lead.time)}</span>
-          ${DN.icon('forum', 'font-size:14px')}<span>${lead.comments.toLocaleString('ja-JP')}</span></div>
       </div>`;
   }
 
   function headlinesHtml(headlines) {
     return headlines.map((h) =>
       `<li><a href="${DN.esc(h.source_url || `article.html?id=${encodeURIComponent(h.id)}`)}" target="_blank" rel="noopener noreferrer">
-         <span class="rank">${h.rank}</span><span class="ttl">${DN.esc(h.title)}</span>
-         <span class="meta">${DN.icon(DN.categoryMeta(h.category).icon, 'font-size:12px')}<span>${DN.esc(h.source)}</span><span>${DN.esc(h.time)}</span></span>
-         ${h.tag ? `<span class="new">${DN.esc(h.tag)}</span>` : ''}
-         <span class="pv">${h.pr ? 'PR' : ''}</span>
+         <span class="rank">${h.rank}</span>
+         <div class="hl-body">
+           <div class="hl-meta">${DN.catBadgeHtml(h.category)}<span>${DN.esc(h.source)}</span><span>${DN.esc(h.time)}</span>
+             ${h.tag ? `<span class="new">${DN.esc(h.tag)}</span>` : ''}</div>
+           <div class="hl-row2"><span class="ttl">${DN.esc(h.title)}</span><span class="pv">${h.pr ? 'PR' : ''}</span></div>
+         </div>
        </a></li>`).join('');
   }
 
@@ -121,9 +123,8 @@
     return `<a class="fitem" href="${href}" target="_blank" rel="noopener noreferrer">
       <div class="thumb">${DN.thumbInnerHtml(f.image, f.category)}</div>
       <div>
+        <div class="fm">${DN.catBadgeHtml(f.category)}<span>${DN.esc(f.source)}</span><span>${DN.esc(f.time)}</span></div>
         <h4>${DN.esc(f.title)}</h4>
-        <div class="fm"><span class="cat" style="--ct:${DN.categoryMeta(f.category).color}">${DN.icon(DN.categoryMeta(f.category).icon, 'font-size:12px')}${DN.esc(f.category)}</span>
-          <span>${DN.esc(f.source)}</span><span>${DN.esc(f.time)}</span></div>
       </div>
     </a>`;
   }

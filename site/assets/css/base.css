@@ -174,17 +174,19 @@ button{font:inherit;}
 .topic-lead .tl-body h3{font-family:var(--head);font-weight:700;font-size:19px;line-height:1.4;margin:0 0 7px;letter-spacing:.01em;}
 .topic-lead .tl-body h3:hover{color:var(--brand-deep);}
 .topic-lead .tl-body p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.65;}
-.topic-meta{display:flex;align-items:center;gap:9px;margin-top:9px;font-size:11px;color:var(--ink-3);}
+.topic-meta{display:flex;align-items:center;gap:9px;margin-bottom:9px;font-size:11px;color:var(--ink-3);flex-wrap:wrap;}
 .topic-meta .src{color:var(--ink-2);font-weight:500;}
 .headlines{list-style:none;margin:0;padding:4px 0;}
-.headlines li a{display:flex;align-items:baseline;gap:10px;padding:9px 14px;font-size:13.5px;line-height:1.5;border-bottom:1px solid var(--line-2);min-width:0;}
+.headlines li a{display:flex;align-items:flex-start;gap:10px;padding:9px 14px;font-size:13.5px;line-height:1.5;border-bottom:1px solid var(--line-2);min-width:0;}
 .headlines li:last-child a{border-bottom:none;}
 .headlines li a:hover{background:var(--surface-2);}
 .headlines li a:hover .ttl{color:var(--brand-deep);}
-.headlines .rank{flex:none;width:18px;font-family:var(--head);font-weight:900;color:var(--brand);font-size:14px;text-align:center;}
+.headlines .rank{flex:none;width:18px;font-family:var(--head);font-weight:900;color:var(--brand);font-size:14px;text-align:center;padding-top:1px;}
+.headlines .hl-body{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px;}
+.headlines .hl-meta{display:flex;align-items:center;gap:6px;font-size:10.5px;color:var(--ink-3);flex-wrap:wrap;}
+.headlines .hl-row2{display:flex;align-items:baseline;gap:8px;min-width:0;}
 .headlines .ttl{flex:1;font-weight:500;min-width:0;}
-.headlines .new{flex:none;color:var(--hot);font-weight:700;font-size:10px;border:1px solid color-mix(in oklch,var(--hot),transparent 60%);border-radius:4px;padding:0 4px;align-self:center;}
-.headlines .meta{flex:none;display:inline-flex;align-items:center;gap:4px;font-size:10.5px;color:var(--ink-3);align-self:center;}
+.headlines .new{flex:none;color:var(--hot);font-weight:700;font-size:10px;border:1px solid color-mix(in oklch,var(--hot),transparent 60%);border-radius:4px;padding:0 4px;}
 .headlines .pv{flex:none;font-size:10.5px;color:var(--ink-3);font-variant-numeric:tabular-nums;}
 .topics-foot{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-top:1px solid var(--line-2);font-size:11px;color:var(--ink-3);gap:10px;}
 .topics-foot a{color:var(--brand-deep);font-weight:700;}
@@ -206,9 +208,10 @@ button{font:inherit;}
 .fitem{background:var(--surface);display:grid;grid-template-columns:104px minmax(0,1fr);gap:12px;padding:13px 14px;}
 .fitem:hover{background:var(--surface-2);}
 .fitem .thumb{height:70px;}
+.fitem>div:last-child{display:flex;flex-direction:column;gap:6px;min-width:0;}
 .fitem h4{margin:0;font-size:13.5px;font-weight:500;line-height:1.5;letter-spacing:.01em;}
 .fitem:hover h4{color:var(--brand-deep);}
-.fitem .fm{display:flex;align-items:center;gap:8px;margin-top:7px;font-size:10.5px;color:var(--ink-3);flex-wrap:wrap;}
+.fitem .fm{display:flex;align-items:center;gap:8px;font-size:10.5px;color:var(--ink-3);flex-wrap:wrap;}
 .fitem .cat{display:inline-flex;align-items:center;gap:3px;color:color-mix(in oklch,var(--ct,var(--brand)),var(--ink) 22%);font-weight:700;background:color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 86%);padding:1px 7px;border-radius:4px;}
 [data-dark="true"] .fitem .cat{color:color-mix(in oklch,var(--ct,var(--brand)),white 30%);background:color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 72%);}
 .feed-more{padding:13px;text-align:center;}
@@ -231,6 +234,12 @@ button{font:inherit;}
   font-size:10px;font-weight:700;color:#fff;background:color-mix(in oklch,var(--ct,var(--brand)),black 8%);
   padding:2px 8px;border-radius:999px;letter-spacing:.02em;}
 .thumb-fallback .clabel .material-symbols-outlined{font-size:13px;}
+
+/* 一覧アイテムの1行目に置くカテゴリバッジ(.clabelと同じ色付きピル)。
+   新着ニュース一覧/トピックス注目記事/見出しリストで共通利用。 */
+.cat-badge{display:inline-flex;align-items:center;gap:4px;flex:none;font-size:10px;font-weight:700;color:#fff;
+  background:color-mix(in oklch,var(--ct,var(--brand)),black 8%);padding:2px 8px;border-radius:999px;letter-spacing:.02em;}
+.cat-badge .material-symbols-outlined{font-size:13px;}
 :root[data-thumbstyle="icon"] .thumb-fallback{
   background:
     radial-gradient(120% 130% at 85% 15%, color-mix(in oklch,var(--ct,var(--brand)),var(--surface) 55%) 0%, transparent 60%),

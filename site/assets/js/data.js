@@ -77,6 +77,13 @@ DN.thumbFallbackHtml = function thumbFallbackHtml(category, withLabel) {
   </div>`;
 };
 
+// トピックスのサムネ上ラベル(.clabel)と同じ「色付き背景+カテゴリ名」のピル型バッジ。
+// 新着ニュース一覧/注目記事/見出しリストの1行目アイコンに使う。
+DN.catBadgeHtml = function catBadgeHtml(category) {
+  const m = DN.categoryMeta(category);
+  return `<span class="cat-badge" style="--ct:${m.color}">${DN.icon(m.icon)}${DN.esc(category || '')}</span>`;
+};
+
 DN.thumbInnerHtml = function thumbInnerHtml(imageUrl, category, withLabel) {
   if (!imageUrl) return DN.thumbFallbackHtml(category, withLabel);
   return `<img src="${DN.esc(imageUrl)}" alt="" loading="lazy" data-fb-cat="${DN.esc(category || '')}" data-fb-label="${withLabel ? '1' : ''}" onerror="DN.onThumbImgError(this)">`;
