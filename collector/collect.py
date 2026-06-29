@@ -11,6 +11,7 @@ NewsPortal(DEC) ニュース収集スクリプト
   - 環境省サイトの「ゼロカーボンシティ」表明自治体数 → kpis.json / dashboard.json
   - 環境省の表明自治体「取組一覧」PDFから集計した都道府県別の表明件数
     → dashboard.json の zeroCarbonByPrefecture
+    (いずれも日々の変動が少ないため週1回のみ収集し、収集日をasOfに明示する)
   - JEPX(日本卸電力取引所)スポット市場CSVのシステムプライス平均 → rail-data.json
 
 events.json / glossary.json / shortcuts.json、および dashboard.json の地域別
@@ -628,6 +629,9 @@ def build_events(articles: dict, previous_events: list, now: datetime, top_n: in
 
 
 ZERO_CARBON_URL = "https://www.env.go.jp/policy/zerocarbon.html"
+# ゼロカーボンシティ宣言自治体数は日々の変動が少ないため、収集は週1回に間引く。
+ZERO_CARBON_COLLECT_INTERVAL_DAYS = 7
+ZERO_CARBON_ASOF_RE = re.compile(r"(\d+)年(\d+)月(\d+)日")
 # ページ本文には総数の記載がなく、リンク先の「一覧図」PDFに埋め込まれていることが
 # 実際のページ調査で判明した。まずページ本文を試し、駄目なら一覧図PDFのテキストを試す。
 # 最終的にもありえない値は採用しない(ZERO_CARBON_PLAUSIBLE_RANGE)。
@@ -705,10 +709,12 @@ ZERO_CARBON_MUNICIPALITY_TOTALS = {
     "福岡県": 60, "佐賀県": 20, "長崎県": 21, "熊本県": 45, "大分県": 18, "宮崎県": 26, "鹿児島県": 43, "沖縄県": 41,
 }
 
-# PDF内の各エントリは「\n<連番> <都道府県名>\n」で始まる(都道府県自身の表明も
-# 市区町村の表明も同じ形式)。実データで確認済みの構造に基づく。
+# PDF内の各エントリは「\n<連番> <都道府県名>\n<ふりがな>\n」で始まり、続く行は
+# 市区町村名(市区町村による表明)か表明日の日付(都道府県自身による表明)のいずれか
+# になる。ZERO_CARBON_MUNICIPALITY_TOTALSは市区町村数のみの集計のため、都道府県
+# 自身の表明(続く行が数字=日付で始まるケース)は市区町村の表明として数えない。
 ZERO_CARBON_ENTRY_RE = re.compile(
-    r"\n\d+\s(" + "|".join(ZERO_CARBON_PREFECTURES) + r")(?=\n)"
+    r"\n\d+\s(" + "|".join(ZERO_CARBON_PREFECTURES) + r")\n[ぁ-んー]+\n(?!\d)"
 )
 
 
@@ -859,6 +865,22 @@ def fetch_jepx_spot_average(now: datetime):
             return round(sum(prices) / len(prices), 1)
 
     return None
+
+
+def zero_carbon_collected_recently(now: datetime):
+    """ゼロカーボンシティ宣言自治体数(総数・都道府県別)の最終収集日からの経過日数が
+    ZERO_CARBON_COLLECT_INTERVAL_DAYS未満ならTrueを返す(変動が少ないため週1回に間引く)"""
+    dashboard = load_json("dashboard.json", None) or {}
+    as_of = dashboard.get("charts", {}).get("zeroCarbonByPrefecture", {}).get("asOf", "")
+    m = ZERO_CARBON_ASOF_RE.search(as_of)
+    if not m:
+        return False
+    y, mo, d = map(int, m.groups())
+    try:
+        prev = datetime(y, mo, d, tzinfo=now.tzinfo)
+    except ValueError:
+        return False
+    return (now - prev).days < ZERO_CARBON_COLLECT_INTERVAL_DAYS
 
 
 def update_zero_carbon_kpi(total: int, now: datetime):
@@ -1027,13 +1049,16 @@ def main():
     save_json("events.json", events)
     save_json("meta.json", {"updated_at": now.isoformat()})
 
-    zero_carbon_total = fetch_zero_carbon_total()
-    if zero_carbon_total is not None:
-        update_zero_carbon_kpi(zero_carbon_total, now)
+    if zero_carbon_collected_recently(now):
+        print(f"[skip] ゼロカーボンシティ宣言自治体: 前回収集から{ZERO_CARBON_COLLECT_INTERVAL_DAYS}日未満のため収集をスキップ", file=sys.stderr)
+    else:
+        zero_carbon_total = fetch_zero_carbon_total()
+        if zero_carbon_total is not None:
+            update_zero_carbon_kpi(zero_carbon_total, now)
 
-    zero_carbon_by_prefecture = fetch_zero_carbon_by_prefecture()
-    if zero_carbon_by_prefecture is not None:
-        update_zero_carbon_by_prefecture(zero_carbon_by_prefecture, now)
+        zero_carbon_by_prefecture = fetch_zero_carbon_by_prefecture()
+        if zero_carbon_by_prefecture is not None:
+            update_zero_carbon_by_prefecture(zero_carbon_by_prefecture, now)
 
     jepx_price = fetch_jepx_spot_average(now)
     if jepx_price is not None:
