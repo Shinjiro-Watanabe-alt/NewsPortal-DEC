@@ -193,11 +193,11 @@ PRECEDING_REGION_CHUKAN_ITEM_RE = re.compile(
     r'<td[^>]*>\s*<a href="(?P<href>[^"]+\.pdf)"'
 )
 # 一覧ページ自体に公表日の記載がないため、各PDF本文1ページ目に印字されている
-# 公表日(令和表記)を直接読み取る。PDFからのテキスト抽出では桁の間に余分な空白が
-# 入ることがあるため、数字の間の空白は許容して読み取る
+# 公表日(令和表記)を直接読み取る。PDFからのテキスト抽出では「令和 ７ 年 ２ 月 27 日」
+# のように桁や単位の前後に余分な空白が入ることがあるため、それらすべてを許容して読み取る
 _DIGITS = r"[0-9０-９](?:\s*[0-9０-９])*"
 PDF_PUBLISH_DATE_RE = re.compile(
-    rf"令和(?P<era_year>{_DIGITS})\s*年(?P<month>{_DIGITS})\s*月(?P<day>{_DIGITS})\s*日"
+    rf"令和\s*(?P<era_year>{_DIGITS})\s*年\s*(?P<month>{_DIGITS})\s*月\s*(?P<day>{_DIGITS})\s*日"
 )
 
 
