@@ -13,10 +13,12 @@
     color: 'teal',
   };
 
+  // fsD: 本文・UIテキスト全般に乗せる加算分。fsDl: 見出し等の大きい文字に乗せる加算分
+  // (拡大してもレイアウトが崩れにくいよう、本文より変化量を小さくしている)。
   const SIZE = {
-    s: { label: '小',   fs: '13px',   gap: '10px', pad: '11px' },
-    m: { label: '標準', fs: '14px',   gap: '14px', pad: '14px' },
-    l: { label: '大',   fs: '15.5px', gap: '16px', pad: '16px' },
+    s: { label: '小',   fsD: '0px', fsDl: '0px', gap: '10px', pad: '11px' },
+    m: { label: '標準', fsD: '1px', fsDl: '0px', gap: '14px', pad: '14px' },
+    l: { label: '大',   fsD: '2px', fsDl: '1px', gap: '16px', pad: '16px' },
   };
 
   const COLORS = [
@@ -44,7 +46,8 @@
   function applyTheme(t) {
     const r = document.documentElement.style;
     const s = SIZE[t.size] || SIZE.m;
-    r.setProperty('--fs', s.fs);
+    r.setProperty('--fs-d', s.fsD);
+    r.setProperty('--fs-dl', s.fsDl);
     r.setProperty('--gap', s.gap);
     r.setProperty('--pad', s.pad);
     document.documentElement.setAttribute('data-dark', t.dark ? 'true' : 'false');
