@@ -201,17 +201,19 @@ PDF_PUBLISH_DATE_RE = re.compile(
 )
 
 
-def extract_pdf_publish_date(pdf_bytes: bytes):
+def extract_pdf_publish_date(pdf_bytes: bytes, context: str = ""):
     """PDF1ページ目のテキストから令和表記の公表日を西暦(YYYY-MM-DD)で返す(抽出失敗時はNone)"""
     if pypdf is None:
         return None
     try:
         reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
         text = reader.pages[0].extract_text() or ""
-    except Exception:
+    except Exception as exc:
+        print(f"[diag] PDF解析失敗 ({context}): {exc}", file=sys.stderr)
         return None
     m = PDF_PUBLISH_DATE_RE.search(text)
     if not m:
+        print(f"[diag] 公表日の正規表現が不一致 ({context}): 抽出テキスト先頭200文字={text[:200]!r}", file=sys.stderr)
         return None
 
     def digits(group: str) -> int:
@@ -239,7 +241,7 @@ def parse_preceding_region_chukan(html_bytes: bytes, base_url: str):
         link = urllib.parse.urljoin(base_url, m.group("href"))
         date_raw = None
         try:
-            date_raw = extract_pdf_publish_date(fetch(link))
+            date_raw = extract_pdf_publish_date(fetch(link), context=link)
         except (urllib.error.URLError, TimeoutError, ValueError) as exc:
             print(f"[skip] 先行地域中間評価PDFの日付取得失敗 ({link}): {exc}", file=sys.stderr)
         items.append((title, link, "", date_raw))
