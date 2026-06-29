@@ -284,6 +284,248 @@
       "source": "環境省（温室効果ガスインベントリ）",
       "sourceUrl": "https://www.env.go.jp/earth/ondanka/ghg-mrv/emissions/",
       "asOf": "2024年度確定値"
+    },
+    "zeroCarbonByPrefecture": {
+      "source": "環境省（ゼロカーボンシティ取組一覧）",
+      "sourceUrl": "https://www.env.go.jp/policy/zerocarbon.html",
+      "asOf": "2026年6月29日時点"
     }
-  }
+  },
+  "zeroCarbonByPrefecture": [
+    {
+      "prefecture": "北海道",
+      "declared": 174,
+      "total": 179
+    },
+    {
+      "prefecture": "青森県",
+      "declared": 21,
+      "total": 40
+    },
+    {
+      "prefecture": "岩手県",
+      "declared": 26,
+      "total": 33
+    },
+    {
+      "prefecture": "宮城県",
+      "declared": 21,
+      "total": 35
+    },
+    {
+      "prefecture": "秋田県",
+      "declared": 14,
+      "total": 25
+    },
+    {
+      "prefecture": "山形県",
+      "declared": 25,
+      "total": 35
+    },
+    {
+      "prefecture": "福島県",
+      "declared": 26,
+      "total": 59
+    },
+    {
+      "prefecture": "茨城県",
+      "declared": 38,
+      "total": 44
+    },
+    {
+      "prefecture": "栃木県",
+      "declared": 25,
+      "total": 25
+    },
+    {
+      "prefecture": "群馬県",
+      "declared": 23,
+      "total": 35
+    },
+    {
+      "prefecture": "埼玉県",
+      "declared": 55,
+      "total": 63
+    },
+    {
+      "prefecture": "千葉県",
+      "declared": 36,
+      "total": 54
+    },
+    {
+      "prefecture": "東京都",
+      "declared": 48,
+      "total": 62
+    },
+    {
+      "prefecture": "神奈川県",
+      "declared": 29,
+      "total": 33
+    },
+    {
+      "prefecture": "新潟県",
+      "declared": 21,
+      "total": 30
+    },
+    {
+      "prefecture": "富山県",
+      "declared": 13,
+      "total": 15
+    },
+    {
+      "prefecture": "石川県",
+      "declared": 15,
+      "total": 19
+    },
+    {
+      "prefecture": "福井県",
+      "declared": 12,
+      "total": 17
+    },
+    {
+      "prefecture": "山梨県",
+      "declared": 28,
+      "total": 27
+    },
+    {
+      "prefecture": "長野県",
+      "declared": 45,
+      "total": 77
+    },
+    {
+      "prefecture": "岐阜県",
+      "declared": 24,
+      "total": 42
+    },
+    {
+      "prefecture": "静岡県",
+      "declared": 25,
+      "total": 35
+    },
+    {
+      "prefecture": "愛知県",
+      "declared": 34,
+      "total": 54
+    },
+    {
+      "prefecture": "三重県",
+      "declared": 25,
+      "total": 29
+    },
+    {
+      "prefecture": "滋賀県",
+      "declared": 11,
+      "total": 19
+    },
+    {
+      "prefecture": "京都府",
+      "declared": 20,
+      "total": 26
+    },
+    {
+      "prefecture": "大阪府",
+      "declared": 35,
+      "total": 43
+    },
+    {
+      "prefecture": "兵庫県",
+      "declared": 29,
+      "total": 41
+    },
+    {
+      "prefecture": "奈良県",
+      "declared": 8,
+      "total": 39
+    },
+    {
+      "prefecture": "和歌山県",
+      "declared": 6,
+      "total": 30
+    },
+    {
+      "prefecture": "鳥取県",
+      "declared": 9,
+      "total": 19
+    },
+    {
+      "prefecture": "島根県",
+      "declared": 13,
+      "total": 19
+    },
+    {
+      "prefecture": "岡山県",
+      "declared": 21,
+      "total": 27
+    },
+    {
+      "prefecture": "広島県",
+      "declared": 12,
+      "total": 23
+    },
+    {
+      "prefecture": "山口県",
+      "declared": 9,
+      "total": 19
+    },
+    {
+      "prefecture": "徳島県",
+      "declared": 7,
+      "total": 24
+    },
+    {
+      "prefecture": "香川県",
+      "declared": 11,
+      "total": 17
+    },
+    {
+      "prefecture": "愛媛県",
+      "declared": 11,
+      "total": 20
+    },
+    {
+      "prefecture": "高知県",
+      "declared": 22,
+      "total": 34
+    },
+    {
+      "prefecture": "福岡県",
+      "declared": 42,
+      "total": 60
+    },
+    {
+      "prefecture": "佐賀県",
+      "declared": 12,
+      "total": 20
+    },
+    {
+      "prefecture": "長崎県",
+      "declared": 14,
+      "total": 21
+    },
+    {
+      "prefecture": "熊本県",
+      "declared": 10,
+      "total": 45
+    },
+    {
+      "prefecture": "大分県",
+      "declared": 13,
+      "total": 18
+    },
+    {
+      "prefecture": "宮崎県",
+      "declared": 18,
+      "total": 26
+    },
+    {
+      "prefecture": "鹿児島県",
+      "declared": 32,
+      "total": 43
+    },
+    {
+      "prefecture": "沖縄県",
+      "declared": 7,
+      "total": 41
+    }
+  ]
 }
