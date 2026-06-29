@@ -6,6 +6,49 @@
   };
   const RENEWABLE_KEYS = ['solar', 'wind', 'hydro', 'geo', 'bio'];
 
+  // 47都道府県タイルグリッドの[row, col]配置。実際の地理的な位置関係を簡略化した
+  // カートグラム(方眼)で近似し、沖縄県は本土から離れた位置に独立配置する。
+  const PREF_GRID_POS = {
+    '北海道': [0, 9],
+    '青森県': [1, 9], '岩手県': [2, 9], '宮城県': [3, 9], '秋田県': [2, 8], '山形県': [3, 8], '福島県': [4, 9],
+    '茨城県': [5, 10], '栃木県': [5, 9], '群馬県': [5, 8], '埼玉県': [6, 9], '千葉県': [6, 10], '東京都': [7, 9], '神奈川県': [8, 9],
+    '新潟県': [4, 8], '富山県': [5, 7], '石川県': [4, 6], '福井県': [5, 6], '山梨県': [7, 8], '長野県': [6, 8], '岐阜県': [6, 7],
+    '静岡県': [8, 8], '愛知県': [7, 7], '三重県': [8, 7],
+    '滋賀県': [6, 6], '京都府': [6, 5], '大阪府': [7, 5], '兵庫県': [7, 4], '奈良県': [7, 6], '和歌山県': [8, 5],
+    '鳥取県': [6, 4], '島根県': [6, 3], '岡山県': [7, 3], '広島県': [7, 2], '山口県': [7, 1],
+    '徳島県': [8, 4], '香川県': [8, 3], '愛媛県': [8, 2], '高知県': [9, 3],
+    '福岡県': [9, 1], '佐賀県': [10, 0], '長崎県': [11, 0], '熊本県': [10, 1], '大分県': [9, 2], '宮崎県': [10, 2], '鹿児島県': [11, 1],
+    '沖縄県': [13, 0],
+  };
+
+  function prefShortLabel(name) {
+    return name === '北海道' ? name : name.replace(/[都道府県]$/, '');
+  }
+
+  function tileGridChart(items) {
+    const positions = Object.values(PREF_GRID_POS);
+    const rows = Math.max(...positions.map((p) => p[0])) + 1;
+    const cols = Math.max(...positions.map((p) => p[1])) + 1;
+
+    const tiles = items.map((it) => {
+      const pos = PREF_GRID_POS[it.prefecture];
+      if (!pos) return '';
+      const pct = Math.round(Math.min(1, it.declared / it.total) * 100);
+      const fillPct = Math.max(10, pct);
+      const textColor = pct >= 50 ? '#fff' : 'var(--ink-2)';
+      return `<div class="tile" style="grid-row:${pos[0] + 1};grid-column:${pos[1] + 1};
+          background:color-mix(in oklch,var(--brand) ${fillPct}%,var(--surface-2));color:${textColor}"
+          title="${DN.esc(it.prefecture)}: ${it.declared}/${it.total}（${pct}%）が表明">
+        <span>${DN.esc(prefShortLabel(it.prefecture))}</span>
+      </div>`;
+    }).join('');
+
+    return `<div class="tilegrid" style="grid-template-columns:repeat(${cols},1fr);grid-template-rows:repeat(${rows},1fr)">
+        ${tiles}
+      </div>
+      <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>低い→高い</span></div>`;
+  }
+
   function donutChart(items) {
     const size = 200, thickness = 32, r = (size - thickness) / 2, cx = size / 2, cy = size / 2;
     const c = 2 * Math.PI * r;
@@ -119,6 +162,7 @@
     document.getElementById('renewableTrendChart').innerHTML = lineChart(d.renewableTrend, 'value', 'year', 'var(--brand)');
     document.getElementById('carbonPriceChart').innerHTML = lineChart(d.carbonPriceTrend, 'value', 'week', 'var(--brand-deep)');
     document.getElementById('zeroCarbonChart').innerHTML = hBarRatioList(d.zeroCarbonByRegion);
+    document.getElementById('zeroCarbonMapChart').innerHTML = tileGridChart(d.zeroCarbonByPrefecture);
     document.getElementById('sectorChart').innerHTML = hBarValueList(d.sectorEmissions, '%', 'var(--accent)');
 
     const charts = d.charts || {};
@@ -128,6 +172,7 @@
     document.getElementById('carbonPriceSrc').innerHTML = DN.chartSrcHtml(charts.carbonPriceTrend);
     document.getElementById('zeroCarbonSrc').innerHTML = DN.chartSrcHtml(charts.zeroCarbonByRegion);
     document.getElementById('sectorSrc').innerHTML = DN.chartSrcHtml(charts.sectorEmissions);
+    document.getElementById('zeroCarbonMapSrc').innerHTML = DN.chartSrcHtml(charts.zeroCarbonByPrefecture);
   }
 
   document.addEventListener('dn:partials-loaded', init);
