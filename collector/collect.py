@@ -9,11 +9,13 @@ NewsPortal(DEC) ニュース収集スクリプト
 あわせて、キー登録不要で取得できる外部公開データを使って以下も実数値で更新する
 (取得に失敗した場合は前回値を保持し、エラーにはしない):
   - 環境省サイトの「ゼロカーボンシティ」表明自治体数 → kpis.json / dashboard.json
+  - 環境省の表明自治体「取組一覧」PDFから集計した都道府県別の表明件数
+    → dashboard.json の zeroCarbonByPrefecture
   - JEPX(日本卸電力取引所)スポット市場CSVのシステムプライス平均 → rail-data.json
 
 events.json / glossary.json / shortcuts.json、および dashboard.json の地域別
-ゼロカーボン内訳・電源構成・CO2排出量トレンド等は、統一的に取得できる公開API/
-ファイルが確認できなかったため対象外（静的データのまま）としている。
+(8地域)ゼロカーボン内訳・電源構成・CO2排出量トレンド等は、統一的に取得できる
+公開API/ファイルが確認できなかったため対象外（静的データのまま）としている。
 """
 import csv
 import hashlib
@@ -679,31 +681,72 @@ def find_zero_carbon_list_pdf_url(html_text: str):
     return None
 
 
-def diag_zero_carbon_municipality_list():
-    """[診断専用] 都道府県別マップ機能の準備として、取組一覧PDFのテキスト構造を
-    ログに出すだけの関数。JSON出力には一切影響しない。"""
+ZERO_CARBON_PREFECTURES = [
+    "北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県",
+    "茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県",
+    "新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県",
+    "静岡県", "愛知県", "三重県",
+    "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県",
+    "鳥取県", "島根県", "岡山県", "広島県", "山口県",
+    "徳島県", "香川県", "愛媛県", "高知県",
+    "福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県",
+]
+
+# 各都道府県の市区町村数(東京都は特別区を含む)。市町村合併以外では変動しない
+# 静的な行政区分データのため、ハードコードしている(合計1,741市区町村と整合)。
+ZERO_CARBON_MUNICIPALITY_TOTALS = {
+    "北海道": 179, "青森県": 40, "岩手県": 33, "宮城県": 35, "秋田県": 25, "山形県": 35, "福島県": 59,
+    "茨城県": 44, "栃木県": 25, "群馬県": 35, "埼玉県": 63, "千葉県": 54, "東京都": 62, "神奈川県": 33,
+    "新潟県": 30, "富山県": 15, "石川県": 19, "福井県": 17, "山梨県": 27, "長野県": 77, "岐阜県": 42,
+    "静岡県": 35, "愛知県": 54, "三重県": 29,
+    "滋賀県": 19, "京都府": 26, "大阪府": 43, "兵庫県": 41, "奈良県": 39, "和歌山県": 30,
+    "鳥取県": 19, "島根県": 19, "岡山県": 27, "広島県": 23, "山口県": 19,
+    "徳島県": 24, "香川県": 17, "愛媛県": 20, "高知県": 34,
+    "福岡県": 60, "佐賀県": 20, "長崎県": 21, "熊本県": 45, "大分県": 18, "宮崎県": 26, "鹿児島県": 43, "沖縄県": 41,
+}
+
+# PDF内の各エントリは「\n<連番> <都道府県名>\n」で始まる(都道府県自身の表明も
+# 市区町村の表明も同じ形式)。実データで確認済みの構造に基づく。
+ZERO_CARBON_ENTRY_RE = re.compile(
+    r"\n\d+\s(" + "|".join(ZERO_CARBON_PREFECTURES) + r")(?=\n)"
+)
+
+
+def count_zero_carbon_by_prefecture(pdf_text: str):
+    """取組一覧PDFの全文テキストから都道府県ごとの表明件数を集計する"""
+    counts = {pref: 0 for pref in ZERO_CARBON_PREFECTURES}
+    for m in ZERO_CARBON_ENTRY_RE.finditer(pdf_text):
+        counts[m.group(1)] += 1
+    return counts
+
+
+def fetch_zero_carbon_by_prefecture():
+    """都道府県別「取組一覧」PDFから表明自治体数を集計する(失敗時はNone)"""
     try:
         raw = fetch(ZERO_CARBON_URL)
     except (urllib.error.URLError, TimeoutError, ValueError) as exc:
-        print(f"[diag] 取組一覧PDF: ページ取得失敗 ({exc})", file=sys.stderr)
-        return
+        print(f"[skip] ゼロカーボン都道府県別: ページ取得失敗 ({exc})", file=sys.stderr)
+        return None
 
     html_raw_text = raw.decode("utf-8", errors="ignore")
     pdf_url = find_zero_carbon_list_pdf_url(html_raw_text)
     if not pdf_url:
-        print("[diag] 取組一覧PDF: リンクが見つからず", file=sys.stderr)
-        return
-    print(f"[diag] 取組一覧PDF: URL={pdf_url}", file=sys.stderr)
+        print("[skip] ゼロカーボン都道府県別: 取組一覧PDFへのリンクが見つからず", file=sys.stderr)
+        return None
 
     pdf_text = fetch_zero_carbon_pdf_text(pdf_url)
     if not pdf_text:
-        print("[diag] 取組一覧PDF: テキスト抽出失敗", file=sys.stderr)
-        return
+        print("[skip] ゼロカーボン都道府県別: PDFテキスト抽出失敗", file=sys.stderr)
+        return None
 
-    print(f"[diag] 取組一覧PDF: 全文長={len(pdf_text)}", file=sys.stderr)
-    print(f"[diag] 取組一覧PDF: 先頭800文字={pdf_text[:800]!r}", file=sys.stderr)
-    mid = len(pdf_text) // 2
-    print(f"[diag] 取組一覧PDF: 中間800文字={pdf_text[mid:mid + 800]!r}", file=sys.stderr)
+    counts = count_zero_carbon_by_prefecture(pdf_text)
+    total = sum(counts.values())
+    print(f"[info] ゼロカーボン都道府県別: 集計件数={total} 内訳={counts}", file=sys.stderr)
+    lo, hi = ZERO_CARBON_PLAUSIBLE_RANGE
+    if not (lo <= total <= hi):
+        print(f"[skip] ゼロカーボン都道府県別: 集計件数 {total} が妥当な範囲外", file=sys.stderr)
+        return None
+    return counts
 
 
 def fetch_zero_carbon_pdf_text(pdf_url: str):
@@ -855,6 +898,29 @@ def update_zero_carbon_kpi(total: int, now: datetime):
     save_json("dashboard.json", dashboard)
 
 
+def update_zero_carbon_by_prefecture(counts: dict, now: datetime):
+    """dashboard.json の都道府県別ゼロカーボン宣言状況(zeroCarbonByPrefecture)を実数値で更新する"""
+    dashboard = load_json("dashboard.json", None)
+    if dashboard is None:
+        return
+
+    dashboard["zeroCarbonByPrefecture"] = [
+        {
+            "prefecture": pref,
+            "declared": counts.get(pref, 0),
+            "total": ZERO_CARBON_MUNICIPALITY_TOTALS[pref],
+        }
+        for pref in ZERO_CARBON_PREFECTURES
+    ]
+    charts = dashboard.setdefault("charts", {})
+    charts["zeroCarbonByPrefecture"] = {
+        "source": "環境省（ゼロカーボンシティ取組一覧）",
+        "sourceUrl": ZERO_CARBON_URL,
+        "asOf": f"{now.year}年{now.month}月{now.day}日時点",
+    }
+    save_json("dashboard.json", dashboard)
+
+
 def update_jepx_price(price: float):
     """rail-data.json の卸電力価格(スポット平均)を実データで更新する"""
     rows = load_json("rail-data.json", [])
@@ -964,7 +1030,10 @@ def main():
     zero_carbon_total = fetch_zero_carbon_total()
     if zero_carbon_total is not None:
         update_zero_carbon_kpi(zero_carbon_total, now)
-    diag_zero_carbon_municipality_list()
+
+    zero_carbon_by_prefecture = fetch_zero_carbon_by_prefecture()
+    if zero_carbon_by_prefecture is not None:
+        update_zero_carbon_by_prefecture(zero_carbon_by_prefecture, now)
 
     jepx_price = fetch_jepx_spot_average(now)
     if jepx_price is not None:
