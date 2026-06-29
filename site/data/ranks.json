@@ -8,6 +8,10 @@
     "trend": ""
   },
   {
+    "keyword": "DAC",
+    "trend": "NEW"
+  },
+  {
     "keyword": "RE100",
     "trend": ""
   },
@@ -25,10 +29,6 @@
   },
   {
     "keyword": "SAF",
-    "trend": ""
-  },
-  {
-    "keyword": "SBTi",
     "trend": ""
   }
 ]

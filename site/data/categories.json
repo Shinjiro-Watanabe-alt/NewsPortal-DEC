@@ -9,7 +9,7 @@
     "slug": "preceding_region",
     "icon": "flag",
     "label": "先行地域",
-    "count": 60
+    "count": 64
   },
   {
     "slug": "municipal",
@@ -21,30 +21,30 @@
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 13
+    "count": 16
   },
   {
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 58
+    "count": 64
   },
   {
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 10
+    "count": 11
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 30
+    "count": 33
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 120
+    "count": 130
   }
 ]
