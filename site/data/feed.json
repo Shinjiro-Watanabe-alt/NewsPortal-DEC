@@ -1,39 +1,139 @@
 [
   {
-    "id": "auto-dd090373b9b9",
-    "title": "NTT東日本グループであるNTT-MEとナルネットコミュニケーションズ、中古EVリース事業で提携",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000061.000066010.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/66010/61/66010-61-419eec45ba14ce2693b1de9c832b7665-3900x2601.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-07b079c54ec5",
-    "title": "ドーガンMGXファンド「AZAPA株式会社」に投資実行および業務提携契約を締結",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000059260.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/59260/22/59260-22-3d28247f2615204d52b72027c03f9450-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-ca901f631550",
     "title": "EVバッテリー寿命予測診断実証実験開始",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "23:10",
+    "time": "5:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000185539.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/185539/5/185539-5-7061296e0de837f7e3b98f6b291d35b6-2706x1326.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-514997e60080",
+    "title": "東洋建設／国内最大級ケーブル敷設船完成／洋上風力係留・送電網構築に活用",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊建設工業新聞",
+    "time": "21:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJdm5kV1I3QkhfaUU1UGQyMElOOTNKdm41UXljekZJSkhISElxclBTTjB6TW9iMUxqeWhmbEJKRHFEZ0dYTjRr?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8e67fa84b005",
+    "title": "経産省、液化水素を安全に充填 設備ルール策定、FCV後押し",
+    "category": "技術",
+    "accent": false,
+    "source": "日刊工業新聞",
+    "time": "20:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QeTQ1U0d6NTJxRk9POHVqRm1TV0lnQldaSnJrRDd2OW9tUTNBdTNQSnpCOUFTNzdZNVpkdVVQWDBOdk5FSHBXMFpVV29XeVpiVTRVUk1BR1BlUmM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cac0b1979425",
+    "title": "カナデビア、オマーン大手と提携 グリーン水素開拓",
+    "category": "技術",
+    "accent": false,
+    "source": "日刊工業新聞",
+    "time": "20:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ybEdhM0h5WDViQm4yWWVnUnJaNjZRdkxIVjZZc1FsZ0FnWThJcW5BZ19sd2VraG16THplYUJhNjhteUEzUWZXRUQxMW9MR0hlSllVTVVzT1dLcWc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6a6a72164717",
+    "title": "工場インフラ更新､脱炭素のコスパ示す ソニーOBの新興",
+    "category": "その他",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVkltX0Y1UVZwTWxMam5kNUtqdTlDaGpRZXFQUzVDWFBHQmNONkI0VW82V2U1SUlEUno0dDczZTB6SmdoNkV5LXlmSmFobmRRSFI1MHJjMEpUVWpFOXowVzBSS3NvZFRrdms4QWlSTk1GWFpfLWNF?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2b08eb3a8e83",
+    "title": "「30年後の東電は原発か再エネか」3.11経験の株主が質問",
+    "category": "企業",
+    "accent": false,
+    "source": "毎日新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrU1BWNnRxSVZIRWxOVElXLXZkVW9PU3JHZERMejhsRlVCVzFmT2FaNU45eVRMbGJBajFkUloweUFwV0oxQ0F2aWxVOWxranJmVi1kTlRybUYySE1JVW5rTVBmU1V5LXJoRHc1blBsMzN0VmhFWThEZk1yaklrRTA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2d1218a1038a",
+    "title": "SMFL、東洋製罐工場に太陽光PPA導入",
+    "category": "その他",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "19:18",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxNzZsSzRPR3EtOG4zNEdCRUc4dTdiQ011d0FTaXNDTzFSaGVucU42UVBFUVBNQ0R3NUVjUV9YUWZhN2xVMHp3Tg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e857ed3b86e0",
+    "title": "都市ガス脱炭素化で契約 北陸ガス・INPEX系、長岡市と",
+    "category": "自治体",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "16:50",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVTJlcVNTS2RHMERZVmJiSmxaSURVZ3ZWQzc5SzBRckNmM1E3czFKeGEtTk8yZW05Yi1CZWFoSEVyS0E5OTZuWXB4aXJCLU1sOXdSVGpManExNk5Idk5xTFpMNTBzaHNOQzl0SjhHR3VIWGlpNUV0RWxwLUlHY2lpeUF4YjlCYTZfaVVMQmU5ZUE1SHgzd19pd3hvTEtrUWFnZFE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-be75a639bb9a",
+    "title": "トレカ「カーボンニュートラル」",
+    "category": "その他",
+    "accent": false,
+    "source": "t.co",
+    "time": "15:24",
+    "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9EX0E2M2NKeU5OeFZLQWhpSkZDN045b0tuRFJmR1lOc1RqREVqTlhiSXp6UDk3REp6UFl3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9472675c69e8",
+    "title": "【独自】RENON POWER：「売って終わり」にしない。低圧から特高まで再エネ普及の相棒へ―需要家併設の太陽光・蓄電一体型分散システム提案も視野",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "15:20",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GOEpDQVhxRHNMMEdUdldwcGNZelJXSEZOa0FuYUJ1VndQQU5kU0xESEZVNnVXYzlTeElZMDAwaEVsck15NnRoeXNfYlkzMW9PVE9odEx4ZDA0WFdjN1JtOXc3d3BWTFM3TW9nVFdGNlhOV3c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4de944e8c4eb",
+    "title": "サステナビリティ特集：脱炭素への伴走者＝日本テトラパック 紙容器で市場開拓を",
+    "category": "その他",
+    "accent": true,
+    "source": "日本食糧新聞・電子版",
+    "time": "15:14",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JNnZiT1NPZDMzUkZyaUtvXzJSdFoyZV9jcDV5ZkFuTmtPbkhrMkhUMDdWa2VLcEluMWw1aHpobS05SXBXUGZUQnV2ejZVRnY1UHNfMDB4dHVXX05HZmZMVlhVaDZNdw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-524e540e5243",
+    "title": "サステナビリティ特集：サクラ食品工業 竜王工場に太陽光発電",
+    "category": "その他",
+    "accent": false,
+    "source": "日本食糧新聞・電子版",
+    "time": "15:09",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQ0MteTJEUGZIZjBpb2ZZYmIxN0R0QXVQY1RZa3N3azFhWFpPMExGcmhzeWVYZEg2Vmp3U0l0VjdvMm0xdWUyeXpDUUt1ZG9VYW5DMWlGeTZCS1ljbnRfZFEzT0M?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-dcb30b7cac8e",
+    "title": "南部カントー市、洋上風力２件承認",
+    "category": "その他",
+    "accent": false,
+    "source": "nna.jp",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nNEpmLWdpd00td2oyT18xV0VseV9WMjJWejZWRGp2RDNLQnFKUjFJRjdXMGE3NTI3OGJzQlFPdE5Rb1hEN3c?oc=5",
+    "image": null
   },
   {
     "id": "auto-3f42958c2e75",
     "title": "【6/29話題】スクエニとエネチェンジが脱炭素系新サービスにOasys採用、Baseが2日連続でブロック生成停止、ストラテジーのmNAVが1倍割れなど（音声ニュース）",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "あたらしい経済",
     "time": "13:49",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XQmdrRXNuOFpHeDNmTXgwck5TUlVVVHJzNEFzVXVyUzhta0dCOFpub01HYjFTSFRkOW9KX3VzcFI4akt2a3U0M2dCSkplVE4ySnJGVw?oc=5",
@@ -43,17 +143,27 @@
     "id": "auto-86b10076ffbe",
     "title": "「FPの家」が初期費用０円（※1）の太陽光発電サービス「スマイルーフ」を導入開始！",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "13:15",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oRTlveDFNSDg2QWJ2dTU2U3JpQTIxVE1CRV9jaTViVHBXVGcxN0FFWnBIZjBZM3FWVzgyb1VvSGl6aElJVWpjU0pVMl9WNThPd2FNdnhMUGNEQ3d6MlRCc3JfRGc5SldV?oc=5",
     "image": null
   },
   {
+    "id": "auto-897567e96f3d",
+    "title": "🔷成田市カーボンニュートラル推進会議本市は2050年カーボンニュートラルの実現に向け市と事業者...",
+    "category": "その他",
+    "accent": false,
+    "source": "選挙ドットコム",
+    "time": "12:36",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUTBlZVZha1BzYzVvZmdQTGdIeHB6NUZPMGdabDdXUE5iMzlEMXFfdjJnU1BkdE9SekJxa3lWVGJ3NHBqaWRqRzFhZDdWLXFjVmhXQ2RjVmZRdE1Cd2xJ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-91ac656e86d1",
     "title": "丘の斜面に広がる太陽光発電所が、田園の上にあるクリーンエネルギーを映し出す",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "MSN",
     "time": "12:30",
     "source_url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPVURiWXZiOUsxYkZ2Tl9UQkhsLW5PTzdRNmc0c1VrTTBlbTRhVFJNbFFoaFUzTWs0V2FSNG5oaUlVckJmOWZ5SjV2LVNxNHpNX3llX3d6eTJManR6eE83bXBBT3Z6VXZYcTNyVWoxMnlHaXJGemJ3REVKZXpkQUNnUXYycEZrR21YVnNya3JZZ0RfRDFMdm5yY1VBbnFXbVZvMGFvUWQ1TkZ6ZVdQM0U5aE5zcm5fVmVPcW5SUnhWV0VYMkFiVER4VjZZOG9oNmljd3FtNW9ic2c3a21QbjdkTy1pbGp1Ui1UVFNQYjRWRnd2UXdLdW5odlNUR0w2NTF1RFBYVVJjQlY4MVJxdkYySkRWVGJFbGtWRFVtM2NUY2pQd0pZV3lDVHdVN1ZKdEhRbmpJY3BpR3M5LXJUdTVPN2otb1MwM1RnaHZPN3BfQW14eEVfRWJUaG5kOTQ4RzhKaS1vU2Z0V2o3Y1JQQk1FSWM0eG1qUGZrMDZVdjh5TTNWR3NlN3V1aUdFWHo5WWdBTDlVVDZPSFZ6MGItX25RYmxZXzNFS0Jyd1ZPZEhYVEs2YktuUUxXX2hjZUdBU0hfc0prbUVGcHBRb3p4RVBfZExYYlM5dVNnV0R1cVVUanQzMk9NXzJ2djM4VlI2VmNyclBBbEJYZVpGS0FxRlY5eURlZV9LbUJSRVBLYmVFQmo?oc=5",
@@ -73,17 +183,17 @@
     "id": "auto-04fc0eed2ca7",
     "title": "苫小牧・錦岡市有地での太陽光発電 東京と札幌の2事業者を選定",
     "category": "その他",
-    "accent": true,
-    "source": "ｄメニューニュース",
+    "accent": false,
+    "source": "北海道新聞デジタル",
     "time": "12:27",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeU1kRXJ4QlQySlY5dm5TQnJwMUNLNFhtMElBRHY2M3VLS1BPNmhpV1oyNkpxOFladEhENW5YVVpGeFJIZUltVV9YUW5sRm1QNy1sWTQ2aVBjeWUtQVc0TEZOdXZQZFg5SjBoS3dlc01DbHNVdEdCNTMtdjNUS0FtcWVfelNxOV9RWWpJdUNzTdIBggFBVV95cUxNM0Y1Y0taVk52WS1VTE9ESklCYUhQMEd0VkpJdC1SNlJDNDB0U3N0Yy1HVVdlSzRvd2RTUUhMSDFEckFDdWR6X3JqMXdBdFZPbFQyT1BJSHR1QmI1RHRJNzJWYzlxejlxdUdCUE00ekMyYlVoOHgtSDk5SldTSkFqc0N3?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPbmRKOGpHa2Q3NllaemZxREpvVVp5bkZpTXNFNmN3Z01rQ045X05DcFBOXzN6a0UyMUlmcExMYWw2UTZLbWw1RVY0cUExLUhKeVdSM054ZkhiUQ?oc=5",
     "image": null
   },
   {
     "id": "auto-367d2e07a395",
     "title": "ネクセンティス株、太陽光発電プロジェクトの収益化契約で10%急騰 執筆 - Investing.com",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
     "time": "12:26",
     "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSS1h4ZTdqWUtpM0tqREVfTkVVREc0VWlkMHktR2dFMHpaWmVlUTZqQU40Y29Rcjl4Uk9uNmlRZnZ1UXQ2eUNFWWFFTlhGNmZiMDFXZkNweVNKcklDR2J4dHlPZ3dXM2ZNblFnNWI1bEt0OVpJMFhV?oc=5",
@@ -97,6 +207,16 @@
     "source": "VOI.id",
     "time": "12:18",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yeXhXeUhPQlBKemJScjhmQndKTkxtWWZvYUZLeENOdml0d2JlaHlBOXBzUTF0ZTdSLW4yQmpmWFA2bnlxX1HSAUJBVV95cUxQWHNBQjJnZlc4QjF1THhueTdnN3JrTkY0STFvM1UyWmZmalRYRUV6VEhfY3g3WFRYY1ZKd0d2TTgtSFE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9d827e804418",
+    "title": "創立９０周年記念特集 第１部 プラント・エンジ各社、脱炭素社会へ ぶれずに前進",
+    "category": "企業",
+    "accent": false,
+    "source": "化学工業日報 電子版",
+    "time": "11:32",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oMXFwSFhGQmlHejBUZkllLUJTVGRBVDR3VVNuS0s4WGdWVFo3bThVQkVlZk5qdHZiekplYTBOTnBWWGZJckxoZ2lYSG1nWW1FZDBj?oc=5",
     "image": null
   },
   {
@@ -177,126 +297,6 @@
     "source": "LOGISTICS TODAY",
     "time": "9:50",
     "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95VlEzeHF5SVpjMnhQNk5QVHlQRy1LeHFDeHFEbDdTM0xBanVHdmthbngzcGo4bVBuOERFcm9nVXNWSkZQdjNCOQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ac6c2e513b54",
-    "title": "北陸ガスとINPEX系、都市ガスの脱炭素化で新潟県長岡市と契約",
-    "category": "自治体",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "9:43",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DU0FpdFJGM3RRMWNHM29zcDZvUlRZLW5aOG92cGk2TnJVNk45WGFqQjF6Yk1UNFNLOWFpUVhocW1ja05wZ01fVnFZRDlOQ1EtSE5QZGdLU2RIVW90N0FiZGhURFlxQ3pIZDBZaA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5bc4236a9fa9",
-    "title": "ソーラーカーポート導入に最大1億円補助、蓄電池・EVも対象 2次公募 - kankyo-business.jp",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 系統用蓄電池",
-    "time": "9:20",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNXBjTl9iNHdzRlg4WWw1TV9iMW12SmdRanNsSXdnLXZ5TXpZRi0zcERON2Z3aXFuR2ZsQlNqeTlVNDl2SFI2V3AwaXFFaWM1TlhvWkVKQXFpb3h6VDFzbGl5LVNyaFJQZGl5ZU9vbzhEaHhjZDViMVN3TTY?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2036ca4e0dfb",
-    "title": "2026年世界のポリマー水素分離膜産業調査レポート｜QYResearch",
-    "category": "技術",
-    "accent": false,
-    "source": "note",
-    "time": "9:14",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTlJNN1pTbGw1WjlBRXpzU25XQmRVWnBiNms2WENKR0JZckpOTzZ1T2FyQXRPRkd2b3hMTDYxY2t3eUo3elo5ejZNRXNrc0NmT1VyVmp6SQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6a6e669c54bc",
-    "title": "スクウェア・エニックスとENECHANGE、脱炭素アクションを後押しする新サービスを共同開発へ",
-    "category": "その他",
-    "accent": false,
-    "source": "AMP[アンプ]",
-    "time": "9:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uVFZ1TWxPN2hhdVR4am1PZmNIeWI4aVl6QlE0OTZSUUNSSTFSZUhEVFUxS2ZsMjlTYmRhMTdVYWlqM1pfUXBObjdLRHZiSExicXpuVE1kMURDbGU0aTRleUlGTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-42cc59e6d939",
-    "title": "北海道電力、道南洋上風力の人材育成へ新会社を7月設立",
-    "category": "その他",
-    "accent": true,
-    "source": "ｄメニューニュース",
-    "time": "8:40",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QcjgyRHRDM0tMNHg3blhpTDFQYjNma0ttbmpOdlVqTVhTb3BjNWZZTWYtMDJybDhaNHpSU2lYa3NWZkJKRS0yTU92bGJfZ0FtV3htY1dsX0hWRnVWd1NuUDZRaFV5eVNHc1NKWHRheENDRU9JRk9oUmxyZDfSAXxBVV95cUxNUHI4MkR0QzNLTDR4N25YaUwxUGIzZmtLbW5qTnZVak1YU29wYzVmWU1mLTAycmw4WjR6UlNpWGtzVmZCSkUtMk1PdmxiX2dBbVd4bWNXbF9IVkZ1VndTblA2UWhVeXlTR3NTSlh0YXhDQ0VPSUZPaFJscmQ3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af62e8c9614a",
-    "title": "マイクログリッド・太陽光発電総合ソリューション市場調査レポート：トップ５企業ランキングと競争環境分析｜QYResearch",
-    "category": "その他",
-    "accent": false,
-    "source": "note",
-    "time": "8:24",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44amRCVjhrcjFKRU1iMkVLLVRET2Q5UEl1RHNoUHpMX0NmeTExX1loMUlfYS1UaWYzS0xnYzBaSGgtb2N5T3QzOTJFWE1peGdyZEJOc0YwNA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-74cf362a1825",
-    "title": "インドでアンモニア生産支援、日印首脳合意へ IHI参加の再エネ事業",
-    "category": "技術",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "8:10",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xVmFxRHBBNmhxQUJiMC1Ick9RNXZrZDhsTUVwNzhINFhXVmNhd1ExdTlOUXhmYmhnUFIxZkdpMHhDQ3BHWkpQMHRuMFltdXZVX25FME93RDEyVjFrYnlMZ3R5czBZNlJNVmEzbg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-06f8469d99c1",
-    "title": "太陽光発電設備市場：技術別、設置方式別、システム規模別、用途別―2026年～2032年の世界市場予測",
-    "category": "国際",
-    "accent": true,
-    "source": "newscast.jp",
-    "time": "8:08",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUThlbThzdUNHcENnTnFzWHlhbjl6R28tblVfTENBRW8tcU93bHpmSnd2V1BMZExnN0RCV1ZoQnZYTUNZa09QWXVGTTZ3Skk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-719fbfa0b08b",
-    "title": "「グリーンエナジー&カンパニー」は脱炭素×地方創生の高成長企業｜Z世代のための株式投資",
-    "category": "その他",
-    "accent": false,
-    "source": "日刊ゲンダイDIGITAL",
-    "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NXzhZMGMwSHJfRTNYazItOU9PY3pfRzRuR3RHbFpETnpMSGVhTXdvd0ctZWJZQWdrWWZIQmdWMDc1WUpaOFBESlNiekt6QXhISUhqYWtzcXdSNGM4Ykd6RUNhdWt1Zlk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6fefca0b93aa",
-    "title": "中国が再エネを拡大しつつ石炭依存を維持する五カ年計画を示す",
-    "category": "国際",
-    "accent": false,
-    "source": "mezha.net",
-    "time": "7:29",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwZmpPaHFtTmJ2WFNYX2VpbkJUbndBN0JWSlRtcGlZbGFUNl9uOWFRb3ZqUEhuSHFRMF9ZZVdac2FLdVNzOUlhVkRNUmFqX2pBZmFIZ2dkdVFUbElDakRaNW1CUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5b4116c105af",
-    "title": "中古EVのバッテリー不安を解消『バッテリー品質保証付きリユースEV』ソリューションの提供開始に向けて",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "7:18",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sTS1WVnpQekZUSDZ1emZBWW9OT3JDTG9MWDdmUDFEckxOeUFMeWs3T29ucWhidTNDNU1aUFlQTXkzdjhDSHBDZGhsamx6UEJEaFlTa1NYUEs2Z1NfUE1ib0kwd3FKdWpqbjRBeUdtMm9jakVaanZJSGpiOA?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/10437/211/10437-211-d1bd3703f0a685ec2f706319f91f92c3-1200x625.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-2d1218a1038a",
-    "title": "SMFL、東洋製罐工場に太陽光PPA導入",
-    "category": "その他",
-    "accent": false,
-    "source": "LOGISTICS TODAY",
-    "time": "7:17",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxNzZsSzRPR3EtOG4zNEdCRUc4dTdiQ011d0FTaXNDTzFSaGVucU42UVBFUVBNQ0R3NUVjUV9YUWZhN2xVMHp3Tg?oc=5",
     "image": null
   }
 ]
