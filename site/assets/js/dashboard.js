@@ -46,7 +46,7 @@
     return `<div class="tilegrid" style="grid-template-columns:repeat(${cols},1fr);grid-template-rows:repeat(${rows},1fr)">
         ${tiles}
       </div>
-      <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>低い→高い</span></div>`;
+      <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>0% ～50%～100%</span></div>`;
   }
 
   function donutChart(items) {
