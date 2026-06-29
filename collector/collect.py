@@ -671,6 +671,41 @@ def find_zero_carbon_pdf_url(html_text: str):
     return None
 
 
+def find_zero_carbon_list_pdf_url(html_text: str):
+    """ページ内のリンクから表明自治体の都道府県別「取組一覧」PDFのURLを探す"""
+    for href, link_text in ZERO_CARBON_PDF_LINK_RE.findall(html_text):
+        if "取組一覧" in link_text:
+            return urllib.parse.urljoin(ZERO_CARBON_URL, href)
+    return None
+
+
+def diag_zero_carbon_municipality_list():
+    """[診断専用] 都道府県別マップ機能の準備として、取組一覧PDFのテキスト構造を
+    ログに出すだけの関数。JSON出力には一切影響しない。"""
+    try:
+        raw = fetch(ZERO_CARBON_URL)
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print(f"[diag] 取組一覧PDF: ページ取得失敗 ({exc})", file=sys.stderr)
+        return
+
+    html_raw_text = raw.decode("utf-8", errors="ignore")
+    pdf_url = find_zero_carbon_list_pdf_url(html_raw_text)
+    if not pdf_url:
+        print("[diag] 取組一覧PDF: リンクが見つからず", file=sys.stderr)
+        return
+    print(f"[diag] 取組一覧PDF: URL={pdf_url}", file=sys.stderr)
+
+    pdf_text = fetch_zero_carbon_pdf_text(pdf_url)
+    if not pdf_text:
+        print("[diag] 取組一覧PDF: テキスト抽出失敗", file=sys.stderr)
+        return
+
+    print(f"[diag] 取組一覧PDF: 全文長={len(pdf_text)}", file=sys.stderr)
+    print(f"[diag] 取組一覧PDF: 先頭800文字={pdf_text[:800]!r}", file=sys.stderr)
+    mid = len(pdf_text) // 2
+    print(f"[diag] 取組一覧PDF: 中間800文字={pdf_text[mid:mid + 800]!r}", file=sys.stderr)
+
+
 def fetch_zero_carbon_pdf_text(pdf_url: str):
     """一覧図PDFを取得し、抽出できたテキストを返す(失敗時はNone)"""
     if pypdf is None:
@@ -929,6 +964,7 @@ def main():
     zero_carbon_total = fetch_zero_carbon_total()
     if zero_carbon_total is not None:
         update_zero_carbon_kpi(zero_carbon_total, now)
+    diag_zero_carbon_municipality_list()
 
     jepx_price = fetch_jepx_spot_average(now)
     if jepx_price is not None:
