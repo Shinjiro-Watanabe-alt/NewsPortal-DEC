@@ -54,48 +54,6 @@
       "asOf": "2026年6月29日時点"
     }
   ],
-  "powerMixToday": [
-    {
-      "label": "太陽光",
-      "value": 18.4,
-      "key": "solar"
-    },
-    {
-      "label": "風力",
-      "value": 4.2,
-      "key": "wind"
-    },
-    {
-      "label": "水力",
-      "value": 6.1,
-      "key": "hydro"
-    },
-    {
-      "label": "地熱",
-      "value": 0.3,
-      "key": "geo"
-    },
-    {
-      "label": "バイオマス",
-      "value": 3.1,
-      "key": "bio"
-    },
-    {
-      "label": "LNG",
-      "value": 34.2,
-      "key": "lng"
-    },
-    {
-      "label": "石炭",
-      "value": 24.8,
-      "key": "coal"
-    },
-    {
-      "label": "原子力",
-      "value": 8.9,
-      "key": "nuclear"
-    }
-  ],
   "co2Trend": [
     {
       "year": "2013",
@@ -255,11 +213,6 @@
     }
   ],
   "charts": {
-    "powerMixToday": {
-      "source": "資源エネルギー庁（電力調査統計）",
-      "sourceUrl": "https://www.enecho.meti.go.jp/statistics/electric_power/ep002/",
-      "asOf": "2024年度"
-    },
     "co2Trend": {
       "source": "環境省（温室効果ガスインベントリ）",
       "sourceUrl": "https://www.env.go.jp/earth/ondanka/ghg-mrv/emissions/",

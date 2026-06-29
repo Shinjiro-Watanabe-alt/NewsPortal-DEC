@@ -1,11 +1,5 @@
 /* dashboard.html — hand-rolled SVG charts (no chart library), driven by data/dashboard.json. */
 (function () {
-  const POWER_COLORS = {
-    solar: '#f4b400', wind: '#4fb6a8', hydro: '#3b82c4', geo: '#e0654a',
-    bio: '#6fae52', lng: '#8a93a8', coal: '#5b5247', nuclear: '#9b6bce',
-  };
-  const RENEWABLE_KEYS = ['solar', 'wind', 'hydro', 'geo', 'bio'];
-
   // 47都道府県タイルグリッドの[row, col]配置。実際の地理的な位置関係を簡略化した
   // カートグラム(方眼)で近似し、沖縄県は本土から離れた位置に独立配置する。
   const PREF_GRID_POS = {
@@ -47,39 +41,6 @@
         ${tiles}
       </div>
       <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>0% ～50%～100%</span></div>`;
-  }
-
-  function donutChart(items) {
-    const size = 200, thickness = 32, r = (size - thickness) / 2, cx = size / 2, cy = size / 2;
-    const c = 2 * Math.PI * r;
-    const total = items.reduce((s, i) => s + i.value, 0);
-    const renewablePct = (items.filter((i) => RENEWABLE_KEYS.includes(i.key))
-      .reduce((s, i) => s + i.value, 0) / total * 100).toFixed(1);
-
-    let offset = 0;
-    const segs = items.map((it) => {
-      const len = (it.value / total) * c;
-      const seg = `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="${POWER_COLORS[it.key]}"
-        stroke-width="${thickness}" stroke-dasharray="${len.toFixed(2)} ${(c - len).toFixed(2)}"
-        stroke-dashoffset="${(-offset).toFixed(2)}" transform="rotate(-90 ${cx} ${cy})"></circle>`;
-      offset += len;
-      return seg;
-    }).join('');
-
-    const svg = `<svg viewBox="0 0 ${size} ${size}" role="img" aria-label="本日の電源構成">
-      ${segs}
-      <text x="${cx}" y="${cy - 5}" text-anchor="middle" font-family="var(--head)" font-weight="900"
-        font-size="25" fill="var(--brand-deep)">${renewablePct}%</text>
-      <text x="${cx}" y="${cy + 16}" text-anchor="middle" font-family="var(--body)" font-size="11"
-        fill="var(--ink-3)">再エネ比率</text>
-    </svg>`;
-
-    const legend = items.map((it) => `<div class="dl-row">
-        <span class="dl-sw" style="background:${POWER_COLORS[it.key]}"></span>
-        <span>${DN.esc(it.label)}</span><b>${it.value}%</b>
-      </div>`).join('');
-
-    return `${svg}<div class="donut-legend">${legend}</div>`;
   }
 
   function barChart(items, valueKey, labelKey, color) {
@@ -157,7 +118,6 @@
     document.getElementById('dashUpdated').textContent = d.updated;
     root.innerHTML = d.kpis.map(DN.kpiCardHtml).join('');
 
-    document.getElementById('powerMixChart').innerHTML = donutChart(d.powerMixToday);
     document.getElementById('co2TrendChart').innerHTML = barChart(d.co2Trend, 'value', 'year', 'var(--accent)');
     document.getElementById('renewableTrendChart').innerHTML = lineChart(d.renewableTrend, 'value', 'year', 'var(--brand)');
     document.getElementById('carbonPriceChart').innerHTML = lineChart(d.carbonPriceTrend, 'value', 'week', 'var(--brand-deep)');
@@ -166,7 +126,6 @@
     document.getElementById('sectorChart').innerHTML = hBarValueList(d.sectorEmissions, '%', 'var(--accent)');
 
     const charts = d.charts || {};
-    document.getElementById('powerMixSrc').innerHTML = DN.chartSrcHtml(charts.powerMixToday);
     document.getElementById('co2TrendSrc').innerHTML = DN.chartSrcHtml(charts.co2Trend);
     document.getElementById('renewableTrendSrc').innerHTML = DN.chartSrcHtml(charts.renewableTrend);
     document.getElementById('carbonPriceSrc').innerHTML = DN.chartSrcHtml(charts.carbonPriceTrend);
