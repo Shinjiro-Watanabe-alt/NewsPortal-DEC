@@ -9,13 +9,13 @@
     "slug": "preceding_region",
     "icon": "flag",
     "label": "先行地域",
-    "count": 0
+    "count": 60
   },
   {
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体",
-    "count": 20
+    "count": 22
   },
   {
     "slug": "business",
@@ -27,7 +27,7 @@
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 54
+    "count": 58
   },
   {
     "slug": "life",
@@ -45,6 +45,6 @@
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 116
+    "count": 120
   }
 ]
