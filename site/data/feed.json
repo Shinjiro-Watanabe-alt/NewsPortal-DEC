@@ -50,16 +50,6 @@
     "image": null
   },
   {
-    "id": "auto-d1e365c10246",
-    "title": "バイウィル取締役CSO伊佐陽介の著書『GXで評価される企業、されない企業』～脱炭素コストから企業価値へ変える経営戦略～を7月9日(木)に発売",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xT0Nwb0tSQTVjbk5Iei1aV09hR2IwRHA0U0dHYjhDOEk5QXotMGFnempqdHVlcFZ1T2x6VVdzaHljb3VKOUhMckN0THptUG5CYy1rZGhjcWM1aXJGTVc0VDhMN0NWejVqOWc?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-6afad60f927a",
     "title": "JPEA「ソーラーウィーク大賞」の公募開始へ 今年度からリサイクル・自然共生もテーマに",
     "category": "自治体",
@@ -73,10 +63,20 @@
     "id": "auto-1df101a621b4",
     "title": "2026年大型蓄電PCS業界分析：動向予測＋産業調査 – 年平均成長率（CAGR）9.1％で成長（2026～2032年）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ドリームニュース",
     "time": "7:00",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FU0FhamtWNzVrTGxrN0pjZXczTVZmUUR3N0xwMU82OWg2ZC1JTkppb3I2NllZSHE3aE9zSE9zeGVZVEw4Y256LXlmNmszWHIwZFBZ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bbf7753d032e",
+    "title": "スクエニとエネチェンジ、脱炭素アクション後押しする新サービス開発開始、Oasys採用で（あたらしい経済）",
+    "category": "その他",
+    "accent": true,
+    "source": "Yahoo!ニュース",
+    "time": "6:59",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmVxQUhCTHdCMV8zUy1USHNPYnpZX1ZwU1dmcWpnaXp1N21nVUJlN2NpQUFYRER5Z3dWeGdsOEpLTF9TZC0tOFZpdlZBR2MzSUF3SFptNVJFOXdGN3l3Uk9lTGpUYms0OXZlUFZQeEZSQ2NENFpWZVlmdnNGTW9CMnJRSlJXd0ZHMG1menRB?oc=5",
     "image": null
   },
   {
@@ -100,20 +100,10 @@
     "image": null
   },
   {
-    "id": "auto-e3783569380f",
-    "title": "ドーガンMGXファンドより投資を受け入れ、業務提携契約を締結",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "6:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OQUZ5Y2xFUGR2eGQ2V2h6TndOaXhRWnozZzY5OTZ6WWdRQWY1RlFDNGM0dUJjTXNyQ2Q1dE5qZDJBdmd2cjdCMi0zTm5tRUl2eHRfZUg4Z3FRWEFFck82dlJ6REkzaWo5?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-5b4116c105af",
     "title": "中古EVのバッテリー不安を解消『バッテリー品質保証付きリユースEV』ソリューションの提供開始に向けて",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "5:48",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TXM1VVlBLVRjRGg5Y1FNZ1pTUW04R2FMb1FzcnJOdmk1eWpjUzVzd3g3YzB1SXIxcHlXRm1BenlMVXpmUktlS3ZfOEt6UWY0b0VnVHZMY3Z0TnJHZzFJcmw2Z1ItVU5r?oc=5",
@@ -133,7 +123,7 @@
     "id": "auto-b9688168f357",
     "title": "オフサイトPPA×AI省エネで脱炭素経営を支援、CECとGreen AI - kankyo-business.jp",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "検索: 再生可能エネルギー",
     "time": "5:06",
     "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1leVdNRE4tUUVPV2k3ZU81X2J0b0prcHBIM1hjdW1mbFVoY19USU8yX1pDNkxIM1pXMU1MQ09QUEktM0VGQms2bEZNVjNGVTFIemN0WDhyS2tGSU55NHlvclk5NzdQOWMwUzBzTVB3aWgwczFhOHFVcUI4N3Y?oc=5",
@@ -143,7 +133,7 @@
     "id": "auto-34c6603105b9",
     "title": "ERE、和歌山のメガソーラーをリパワリング 太陽光発電パネルは再資源化へ - kankyo-business.jp",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "検索: 洋上風力・太陽光",
     "time": "5:06",
     "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnMTRuN0dBd2FIeHBTRGs1NDByOU9HLXBvZWdJQ1hJblp4blBBNjVwVE91WWRpWnI5TnU3WFNoTEN1cVNGQlpvd3VCMlNud1BUREEzV1dTVndFdU5SbTd5NzBOTDRIUm1pR2pOTC1OZVFUVWc2UlJ2a3BScVk?oc=5",
@@ -163,7 +153,7 @@
     "id": "auto-5e3c91bb8169",
     "title": "スマホアプリで脱炭素、地域振興に貢献 ラグビー・静岡ブルーレヴズ制作：ニュース",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "中日BIZナビ",
     "time": "5:00",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzYmlfM3EzdkNDd2tCSnp2N3l1Y1QydUNYZWNmWXZKRUlzTmJIaGpWcDhOb3B1T1EzbVgtUWtmMXVIVHNWOFVmNkJNLVF2VW1lNGJmQkNMUnJ3TWZJcnRR?oc=5",
@@ -173,7 +163,7 @@
     "id": "auto-9e1b173dd65a",
     "title": "フィリピン家庭で太陽光発電装置設置が急増、電力料金の高騰受け（ロイター）",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ニュース",
     "time": "4:57",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TaTBudUlScDgxTUQxcF81N0hjSTk0aDZZV21rbUpqbGJwclV2NFBlNWctRHRHSGNoQnBpMVJ0UUJJNmhXdl9OSC1lQUFNVUZNUnNnYTZjME43QXdkclgzQXN1bzQ2WDlvY1FiTEZIZnFIZXZhR2pKYjlvSkowaWs?oc=5",
@@ -193,10 +183,20 @@
     "id": "auto-9a007962898d",
     "title": "「グローバルなクリーン水素生産市場、2040年に437兆ウォン規模」",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "매일경제",
     "time": "4:51",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UDVNcHNaYzN5UUhLRzRLVW5XaER2bEhvVEhoWjdFUWhuWlVNYVZiQ3JzOHlZWF8tcXFBUkR6M0RJOHdLZGVwNmsyX2VFUUZ4T19R?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6c05bb2573c3",
+    "title": "エネチェンジは反発、スクエニと生活者の脱炭素アクションを後押しする新サービス開発◇ (2026年6月29日掲載)",
+    "category": "暮らし",
+    "accent": true,
+    "source": "ライブドアニュース",
+    "time": "4:31",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1Qm5kS3daWGJOTld4ZjQ0SzBXNWQ3RzZtVnhNeEVobDNfdldabjBjeGtfcjgzU1ZDRFljM2xaUDVESU1tTGpMbUJGcndyalBLOWpzQlgyc2JudXBFQ3c?oc=5",
     "image": null
   },
   {
@@ -210,10 +210,20 @@
     "image": null
   },
   {
+    "id": "auto-16ed50de9a95",
+    "title": "北電が「洋上風力推進本部」、まず人材育成の新会社 - ニュース - メガソーラービジネス plus",
+    "category": "企業",
+    "accent": false,
+    "source": "日経BP",
+    "time": "4:05",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tdHd5YWpCNzJoSTY2TldDYWtiOGlBMV9IVEh3R0JMQVh2VmZxcnp5SDFhSGdDY2RHS2hzX1lGUjJBdkVlSkJkeUxJWVNVS1N5aGhQQ083U0xGZmVNOWZ2bEtaYXY0Yzk0ZXB4cjhHSEJ6cktH?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-6b9cbd663626",
     "title": "電池グレードリン酸二水素リチウム市場規模レポート2026：1416百万米ドル到達予測、年平均成長率10.8%で拡大",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "4:04",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icWpoVjd6Vms0TV85cGR2SnlZa3NaNDhHZ29vWWQyckNpcXNxNUlQLXJEd19ZUUlrNDNTeHRjSnRDSU5kYi1SNllzZkpOMG1mSk83dU4wRmdaamZ1VWpFYUk0bkRuMWtXb2VaeFRZTWFpWnluaXgxR21wRQ?oc=5",
@@ -223,20 +233,10 @@
     "id": "auto-4830b4d00038",
     "title": "水素用圧力伝送器の世界市場2026年、グローバル市場規模（チタン、鋼合金、アルミニウム合金）・分析レポートを発表",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "4:03",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RY2FrRzcxc2IwVk4tVWJ3cHNjcFJjLWM4T0QxOWFYUzB1dVJaclBOQ2hsT1p4NkRMd1dQZ2hiLTZTZFc4OXB2VV93ZUoxeFBvWG5NTi1wdmNKOF9EZDBONFNKWWFvTkxqT2wzVlMzRFJjMlRHcExuMDQyUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-dfb1b5b83d75",
-    "title": "ティッセンクルップとGlobalLogicのフィジカルAIによる重工業の革新と脱炭素化推進",
-    "category": "その他",
-    "accent": false,
-    "source": "ニュースメディアVOIX",
-    "time": "3:56",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTGpna0JKdlQweVpSZ2RpdVFuSEtMZkJWcXdjdnZsU1FBLTRBOTg4ZmZOR0NKNjFka2l2WDBOMVV1aHRnZk5vTTBuUU9sTFpQSGtWYWZ6UzJvcXd4RWJLQUtONHJMNDMtU1FWS2hObHBHQmEwYThj?oc=5",
     "image": null
   },
   {
@@ -280,23 +280,23 @@
     "image": null
   },
   {
-    "id": "auto-bef63d8de5da",
-    "title": "風力タービン用ギアボックス市場は、2025年の115億5000万米ドルから拡大すると予測されています",
-    "category": "その他",
-    "accent": true,
-    "source": "newscast.jp",
-    "time": "3:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94WFRzOW1CUHRpdjRRamlrbG5UWVhPZmEwTkEtN0t1NUR3ZHdXZjZNcE50MEQ0Sy1HdVJabGMyWDRGd1NHVXBhTXdFdW1SYjg?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-b630adf42b9f",
     "title": "蓄電池とエネルギーマネジメントがカギ 日本PVプランナー協会が語るEPCの未来",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ソーラージャーナル",
     "time": "3:02",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZMGU3R0E0NEdlenlVWThveGU1NDVaOXdTUTh1MUJyQXgwZzZmbnJ2eDJVMW12NVZBeVJxVGRlMDRrQXBkajdvN2NyQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-13ae2d4fbdc5",
+    "title": "【タイナビ発電所調べ】太陽光発電所の売却依頼が前年比44.8％増！過去最高ペース！ （個人×低FIT×連系5年～8年）案件が中古市場に流出傾向",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44N2dyUjdWVDZtSzhpVTQ4RTJOc2kzZnNTWFZ6TjdhUFcxa0gxdWE4WXdhbm9iMU5HRXdrVV83RUMzZXZFeEtBaFhLVXlEOWVtRmxuVDBlTGQyUmM2Y2dUamN4Tlo0TU55bXc?oc=5",
     "image": null
   }
 ]
