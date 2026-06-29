@@ -186,9 +186,70 @@ def parse_preceding_region_committee(html_bytes: bytes, base_url: str):
     return items
 
 
+# 「脱炭素先行地域中間評価」セクション(id=chukan)。各自治体ごとの進捗報告書まで含む
+# 表は対象外とし、令和X年度ごとの中間評価結果(総評/総評について)のみを抜き出す
+PRECEDING_REGION_CHUKAN_ITEM_RE = re.compile(
+    r'<td>(?P<title>令和[0-9０-９]+年度脱炭素先行地域中間評価[^<]*)</td>\s*'
+    r'<td[^>]*>\s*<a href="(?P<href>[^"]+\.pdf)"'
+)
+# 一覧ページ自体に公表日の記載がないため、各PDF本文1ページ目に印字されている
+# 公表日(令和表記)を直接読み取る。PDFからのテキスト抽出では桁の間に余分な空白が
+# 入ることがあるため、数字の間の空白は許容して読み取る
+_DIGITS = r"[0-9０-９](?:\s*[0-9０-９])*"
+PDF_PUBLISH_DATE_RE = re.compile(
+    rf"令和(?P<era_year>{_DIGITS})\s*年(?P<month>{_DIGITS})\s*月(?P<day>{_DIGITS})\s*日"
+)
+
+
+def extract_pdf_publish_date(pdf_bytes: bytes):
+    """PDF1ページ目のテキストから令和表記の公表日を西暦(YYYY-MM-DD)で返す(抽出失敗時はNone)"""
+    if pypdf is None:
+        return None
+    try:
+        reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
+        text = reader.pages[0].extract_text() or ""
+    except Exception:
+        return None
+    m = PDF_PUBLISH_DATE_RE.search(text)
+    if not m:
+        return None
+
+    def digits(group: str) -> int:
+        return int(re.sub(r"\s+", "", group).translate(ZENKAKU_DIGITS))
+
+    era_year, month, day = digits(m.group("era_year")), digits(m.group("month")), digits(m.group("day"))
+    return f"{era_year + 2018}-{month:02d}-{day:02d}"
+
+
+def parse_preceding_region_chukan(html_bytes: bytes, base_url: str):
+    """脱炭素先行地域づくり支援サイトの「中間評価」セクション(id=chukan)から資料一覧を
+    (title, link, desc, date_raw) として抜き出す。一覧ページに日付の記載がないため、
+    各PDFを取得して公表日を読み取る(PDF取得・解析に失敗した場合は date_raw を
+    Noneとし、収集時刻が日付として採用される)"""
+    html_text = html_bytes.decode("utf-8", errors="ignore")
+    section_start = html_text.find('id="chukan"')
+    if section_start == -1:
+        return []
+    section_end = html_text.find('id="progress"', section_start)
+    section = html_text[section_start:section_end if section_end != -1 else None]
+
+    items = []
+    for m in PRECEDING_REGION_CHUKAN_ITEM_RE.finditer(section):
+        title = m.group("title")
+        link = urllib.parse.urljoin(base_url, m.group("href"))
+        date_raw = None
+        try:
+            date_raw = extract_pdf_publish_date(fetch(link))
+        except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+            print(f"[skip] 先行地域中間評価PDFの日付取得失敗 ({link}): {exc}", file=sys.stderr)
+        items.append((title, link, "", date_raw))
+    return items
+
+
 HTML_LIST_PARSERS = {
     "press_release_list": parse_press_html_list,
     "preceding_region_committee": parse_preceding_region_committee,
+    "preceding_region_chukan": parse_preceding_region_chukan,
 }
 
 

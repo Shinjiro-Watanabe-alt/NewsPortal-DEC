@@ -1,6 +1,7 @@
 [
   { "type": "html_list", "name": "環境省 報道発表一覧", "url": "https://www.env.go.jp/press/",                          "category": "国",   "default_source_label": "環境省" },
   { "type": "html_list", "parser": "preceding_region_committee", "name": "環境省 脱炭素先行地域評価委員会 開催状況", "url": "https://policies.env.go.jp/policy/roadmap/preceding-region/", "category": "先行地域", "default_source_label": "環境省（脱炭素先行地域）" },
+  { "type": "html_list", "parser": "preceding_region_chukan",    "name": "環境省 脱炭素先行地域中間評価",         "url": "https://policies.env.go.jp/policy/roadmap/preceding-region/", "category": "先行地域", "default_source_label": "環境省（脱炭素先行地域）" },
   { "type": "feed",   "name": "経済産業省 ニュースリリース", "url": "https://www.meti.go.jp/ml_index_release.rdf",           "category": "国",   "default_source_label": "経済産業省" },
   { "type": "feed",   "name": "資源エネルギー庁 トピックス", "url": "https://www.enecho.meti.go.jp/topics/release.rdf",      "category": "国",   "default_source_label": "資源エネルギー庁" },
   { "type": "feed",   "name": "NEDO ニュースリリース",   "url": "https://www.nedo.go.jp/news/press/index.rdf",            "category": "技術", "default_source_label": "NEDO" },
