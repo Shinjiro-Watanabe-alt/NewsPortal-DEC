@@ -6,6 +6,12 @@
     "count": 25
   },
   {
+    "slug": "preceding_region",
+    "icon": "flag",
+    "label": "先行地域",
+    "count": 0
+  },
+  {
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体",

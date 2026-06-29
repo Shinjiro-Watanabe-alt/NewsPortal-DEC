@@ -54,7 +54,8 @@ KEYWORDS_SET = set(KEYWORDS)
 # カテゴリ自動分類（一致したら上書き、優先順位は上から）
 CATEGORY_RULES = [
     (re.compile("水素|燃料電池|FCV|アンモニア"), "技術"),
-    (re.compile("自治体|地方公共団体|ゼロカーボンシティ|地域|港湾|都市"), "自治体"),
+    # 「地域」は「先行地域」(脱炭素先行地域)を誤って自治体カテゴリに引き込んでしまうため除外する
+    (re.compile("自治体|地方公共団体|ゼロカーボンシティ|(?<!先行)地域|港湾|都市"), "自治体"),
     (re.compile("海外|米国|アメリカ|欧州|ヨーロッパ|英国|イギリス|ドイツ|フランス|中国|インド|韓国|台湾|アジア|中東|国連|世界|COP\d+"), "国際"),
     (re.compile("住宅|家庭|くらし|生活者|家電|節電|電気料金|ZEH"), "暮らし"),
 ]
@@ -151,6 +152,44 @@ def parse_press_html_list(html_bytes: bytes, base_url: str):
             link = urllib.parse.urljoin(base_url, href)
             items.append((title, link, "", date_raw))
     return items
+
+
+# 「脱炭素先行地域づくり支援サイト」の先行地域ページ自体には新着記事一覧がなく、
+# 「脱炭素先行地域評価委員会」の開催状況一覧だけが日付付きで定期的に更新されるため、
+# これを先行地域カテゴリの最新ニュース相当として抜き出す
+PRECEDING_REGION_COMMITTEE_RE = re.compile(
+    r'<a href="(?P<href>[^"]+)"[^>]*>\s*第(?P<round>[0-9０-９]+)回\s*'
+    r'脱炭素先行地域評価委員会\s*</a>\s*<br>\s*'
+    r'（日時：令和(?P<era_year>[0-9０-９]+)年(?P<month>[0-9０-９]+)月(?P<day>[0-9０-９]+)日'
+    # 通常は「／場所：○○」だが、書面開催の回は「／書面開催」のみで「場所：」が付かない
+    r'／(?:場所：)?(?P<place>[^）]*)）'
+)
+ZENKAKU_DIGITS = str.maketrans("０１２３４５６７８９", "0123456789")
+
+
+def parse_preceding_region_committee(html_bytes: bytes, base_url: str):
+    """脱炭素先行地域づくり支援サイトの「開催状況」一覧から (title, link, desc, date_raw) を
+    抜き出す。年月日は元号(令和)表記かつ全角/半角数字が混在しているため、半角化したうえで
+    西暦に変換する"""
+    html_text = html_bytes.decode("utf-8", errors="ignore")
+    items = []
+    for m in PRECEDING_REGION_COMMITTEE_RE.finditer(html_text):
+        round_no = m.group("round").translate(ZENKAKU_DIGITS)
+        era_year = int(m.group("era_year").translate(ZENKAKU_DIGITS))
+        month = int(m.group("month").translate(ZENKAKU_DIGITS))
+        day = int(m.group("day").translate(ZENKAKU_DIGITS))
+        year = era_year + 2018  # 令和1年 = 2019年
+        title = f"脱炭素先行地域評価委員会（第{round_no}回）を開催"
+        link = urllib.parse.urljoin(base_url, m.group("href"))
+        desc = f"場所：{m.group('place').strip()}"
+        items.append((title, link, desc, f"{year}-{month:02d}-{day:02d}"))
+    return items
+
+
+HTML_LIST_PARSERS = {
+    "press_release_list": parse_press_html_list,
+    "preceding_region_committee": parse_preceding_region_committee,
+}
 
 
 def parse_date(raw: str):
@@ -274,7 +313,11 @@ def collect_one_source(source: dict, now: datetime):
         print(f"[skip] {source['name']}: 取得失敗 ({exc})", file=sys.stderr)
         return results
 
-    items = parse_press_html_list(raw, url) if source_type == "html_list" else parse_feed(raw)
+    if source_type == "html_list":
+        parser = HTML_LIST_PARSERS[source.get("parser", "press_release_list")]
+        items = parser(raw, url)
+    else:
+        items = parse_feed(raw)
 
     for raw_title, link, desc, date_raw in items:
         raw_title = strip_html(raw_title)
