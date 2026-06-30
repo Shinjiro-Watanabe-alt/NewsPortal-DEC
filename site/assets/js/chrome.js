@@ -66,12 +66,55 @@
       if (ranksUpd) ranksUpd.textContent = hhmm;
     }
 
-    const railData = document.getElementById('railData');
-    if (railData) {
-      const rows = await DN.fetchJSON('rail-data.json');
-      railData.innerHTML = rows.map((r) =>
-        `<div class="rd${r.live ? '' : ' is-static'}"><div class="rl"><b>${DN.esc(r.label)}</b>${DN.esc(r.sub)}${r.live ? '' : DN.staticTagHtml()}</div>
-          <div class="rv">${DN.esc(r.value)}<small>${DN.esc(r.unit || r.note)}</small></div></div>`).join('');
+    const digestToday = document.getElementById('digestToday');
+    if (digestToday) {
+      const arts = await DN.fetchJSON('articles.json');
+      const GOV = new Set(['環境省', '経済産業省', '資源エネルギー庁']);
+      const artsArr = Object.values(arts);
+      const now = new Date();
+      const todayPrefix = `${now.getMonth() + 1}/${now.getDate()}(`;
+      const todayCount = artsArr.filter((a) => GOV.has(a.source) && a.time && a.time.startsWith(todayPrefix)).length;
+      digestToday.innerHTML =
+        `<div class="digest-today"><a href="news.html?cat=${encodeURIComponent('国')}">` +
+        `本日の新着（官公庁）<b>${todayCount}</b>件</a></div>`;
+    }
+
+    const digestSchedule = document.getElementById('digestSchedule');
+    if (digestSchedule) {
+      try {
+        const items = await DN.fetchJSON('schedule.json');
+        const todayStr = new Date().toISOString().slice(0, 10);
+        const upcoming = items.filter((s) => s.date >= todayStr).slice(0, 4);
+        if (upcoming.length) {
+          const rows = upcoming.map((s) => {
+            const yr = s.date.slice(0, 4);
+            const mo = s.date.slice(5, 7).replace(/^0/, '');
+            return `<div class="dg-sched">` +
+              `<span class="dg-type">${DN.esc(s.type)}</span>` +
+              `<a href="${DN.esc(s.url || '#')}" target="_blank" rel="noopener noreferrer">${DN.esc(s.title)}</a>` +
+              `<span class="dg-date">${DN.esc(yr)}年${DN.esc(mo)}月</span></div>`;
+          }).join('');
+          digestSchedule.innerHTML = `<div class="dg-h">政策スケジュール</div>${rows}`;
+        }
+      } catch (_) { /* schedule.json未生成時は表示しない */ }
+    }
+
+    const digestSubsidy = document.getElementById('digestSubsidy');
+    if (digestSubsidy) {
+      try {
+        const items = await DN.fetchJSON('subsidies.json');
+        if (items.length) {
+          const listItems = items.slice(0, 8).map((s) =>
+            `<li><a href="${DN.esc(s.url)}" target="_blank" rel="noopener noreferrer">` +
+            `<span class="dg-src">${DN.esc(s.source)}</span>${DN.esc(s.title)}</a></li>`
+          ).join('');
+          digestSubsidy.innerHTML = `<div class="dg-h">公募情報</div><ul class="dg-sub-list">${listItems}</ul>`;
+        } else {
+          digestSubsidy.innerHTML = '<div class="dg-h">公募情報</div><p class="dg-empty">収集中…</p>';
+        }
+      } catch (_) {
+        digestSubsidy.innerHTML = '<div class="dg-h">公募情報</div><p class="dg-empty">収集中…</p>';
+      }
     }
 
     const events = document.getElementById('events');

@@ -646,6 +646,36 @@ ZERO_CARBON_PLAUSIBLE_RANGE = (300, 1800)
 
 JEPX_DOWNLOAD_URL = "https://www.jepx.jp/_download.php"
 JEPX_SPOT_PAGE_URL = "https://www.jepx.jp/electricpower/market-data/spot/"
+# 補助金・公募情報の収集対象ページ
+SUBSIDY_SOURCES_CFG = [
+    {
+        "name": "環境省 補助金・交付金（令和7年度）",
+        "url": "https://www.env.go.jp/policy/hojokin/r07.html",
+        "source_label": "環境省",
+        "base_url": "https://www.env.go.jp",
+        "href_filter": "/policy/hojokin/",
+    },
+    {
+        "name": "NEDO 公募情報",
+        "url": "https://www.nedo.go.jp/koubo/index.html",
+        "source_label": "NEDO",
+        "base_url": "https://www.nedo.go.jp",
+        "href_filter": "/koubo/",
+    },
+    {
+        "name": "経済産業省 公募情報",
+        "url": "https://www.meti.go.jp/information/publicoffer/kobo/index.html",
+        "source_label": "経済産業省",
+        "base_url": "https://www.meti.go.jp",
+        "href_filter": "/information/publicoffer/",
+    },
+]
+
+_SUBSIDY_A_RE = re.compile(r'<a\b[^>]*href="([^"]*)"[^>]*>\s*([^<]{4,120})\s*</a>', re.S)
+_SUBSIDY_NOISE_RE = re.compile(
+    r'^\s*(?:ページの先頭へ|前(?:のページ)?|次(?:のページ)?|一覧に戻る|ホーム|トップ(?:ページ)?|'
+    r'もっと見る|English|サイトマップ|\d{1,4}(?:件)?|▲|▼|›|»)\s*$'
+)
 
 try:
     import pypdf
@@ -953,6 +983,56 @@ def update_jepx_price(price: float):
     save_json("rail-data.json", rows)
 
 
+
+def collect_subsidies(now: datetime) -> list:
+    """環境省・NEDO・経産省の公募・補助金一覧ページからリンクを抽出してsubsidies.json用リストを返す。
+    パーサーが想定するHTML構造と実際の構造が異なる場合に備え、診断ログを出力する。"""
+    results = []
+    seen_urls: set = set()
+
+    for cfg in SUBSIDY_SOURCES_CFG:
+        try:
+            raw = fetch(cfg["url"])
+        except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+            print(f"[skip] 補助金収集 {cfg['name']}: 取得失敗 ({exc})", file=sys.stderr)
+            continue
+
+        html_text = raw.decode("utf-8", errors="ignore")
+        found: list = []
+        for href, raw_title in _SUBSIDY_A_RE.findall(html_text):
+            title = strip_html(raw_title).strip()
+            if not title or _SUBSIDY_NOISE_RE.match(title):
+                continue
+            if cfg["href_filter"] not in href:
+                continue
+            # トップや自己参照リンクを除外
+            norm = href.rstrip("/")
+            if norm in ("", cfg["url"].rstrip("/"), "/"):
+                continue
+            url = urllib.parse.urljoin(cfg["base_url"], href)
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            found.append({
+                "title": title,
+                "source": cfg["source_label"],
+                "url": url,
+                "updated": now.strftime("%Y-%m-%d"),
+            })
+
+        print(f"[info] 補助金収集 {cfg['name']}: {len(found)}件取得", file=sys.stderr)
+        if found:
+            print(f"[diag] 補助金サンプル ({cfg['name']}): {found[:2]}", file=sys.stderr)
+        else:
+            # 0件の場合はページの先頭数百文字を記録して構造調査に役立てる
+            print(
+                f"[diag] 補助金0件 ({cfg['name']}): ページ先頭400文字={html_text[:400]!r}",
+                file=sys.stderr,
+            )
+        results.extend(found)
+
+    return results
+
 def load_json(name: str, default):
     path = SITE_DATA_DIR / name
     if not path.exists():
@@ -1063,6 +1143,9 @@ def main():
     jepx_price = fetch_jepx_spot_average(now)
     if jepx_price is not None:
         update_jepx_price(jepx_price)
+
+    subsidies = collect_subsidies(now)
+    save_json("subsidies.json", subsidies)
 
     print(f"収集完了: 新規 {new_count} 件 / 合計 {len(articles)} 件 ({now.isoformat()})")
 
