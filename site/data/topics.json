@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-66db6e6e7a2d",
-    "title": "「GX関連基礎資料 -企業の取組事例集2-」を公開",
-    "summary": "[Carbon EX] アスエネグループにおいてCarbon EXとともにカーボンクレジット領域でサービス提供を行っている株式会社exroad（エクスロード、本社：東京都港区、代表者：木村 圭佑）は、『GX関連基礎資料 -企業の取組事例集2-...",
+    "id": "auto-2b1e16070a43",
+    "title": "ダイキアクシス・サステイナブル・パワー、モルゲンロット、ミライト・ワン 3社共同で再エネを活用した次世代グリーンデータセンター事業を始動",
+    "summary": "[モルゲンロット] 愛媛県と千葉県での拠点を皮切りに、今後は全国で再生可能エネルギーを活用し「NVIDIA B200」等をクラウド上で提供 株式会社ダイキアクシス（本社：愛媛県松山市、代表取締役社長：大亀 裕貴）の子会社である株式...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "6/30(火) 16:15",
+    "time": "7/1(水) 0:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000107.000143261.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/143261/107/143261-107-a84a90762d545a85bb69d3dfd808a0e7-3900x1115.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000097.000053470.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/53470/97/53470-97-aa5706a6207de381837f87b6079113bd-3900x2925.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-4c1729ca25b9",
+      "id": "auto-8603bd8a0b17",
       "rank": 1,
+      "title": "小学生でもわかるスコープ３地獄 ⑨｜武智倫太郎",
+      "category": "技術",
+      "source": "はてなブックマーク",
+      "time": "6/30(火) 18:43",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://note.com/aiethics496/n/n16ed7ab944b4"
+    },
+    {
+      "id": "auto-3bb26c2fccee",
+      "rank": 2,
+      "title": "蓄電池設備及び土地に係る権利取得に関するお知らせ",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "6/30(火) 18:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000091.000111823.html"
+    },
+    {
+      "id": "auto-0f0a6f2beb2a",
+      "rank": 3,
+      "title": "脱炭素関連の事業提携に向けた連携協定の締結について",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "6/30(火) 16:48",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaMHlMQTZEX0RyN3YwNUVaY0txejFfTnhwX0FvQkwwVUxiaXNvLWY2WDRfeWh6aDhLLTEyNFRiWl9fa3VpbTJoV01jRUsyUmplMW4tOEtPdVV0MjZXV1BkQzA3akphSUF1?oc=5"
+    },
+    {
+      "id": "auto-9b8c86407799",
+      "rank": 4,
+      "title": "家庭部門の脱炭素化に向けた新たな官民連携・業界横断の取り組み「ガス石油省エネ給湯機普及促進会議（スマいる給湯プロジェクト）」設立",
+      "category": "暮らし",
+      "source": "北海道新聞デジタル",
+      "time": "6/30(火) 16:16",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnd4OEg2R0pZVXpZS1BoZExTOVBxQU5EdUtGdlJjR21YUVRWckhVRTZ6ZmlfQjJCQXkyM01yUlk4dndCS3dWWHNqYXZhM3B5eVFaUzhlLVcxSnFzSExUZjAyYXllOGFGRlZCMUw3WThWVnVrejlTbzNfQlJYTTdENU0zUUJ2MDFL?oc=5"
+    },
+    {
+      "id": "auto-66db6e6e7a2d",
+      "rank": 5,
+      "title": "「GX関連基礎資料 -企業の取組事例集2-」を公開",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "6/30(火) 16:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000107.000143261.html"
+    },
+    {
+      "id": "auto-4c1729ca25b9",
+      "rank": 6,
       "title": "「発電する歩道」を実現する太陽光発電システム、ミライラボが販売開始",
       "category": "技術",
       "source": "ITmedia スマートジャパン",
       "time": "6/30(火) 16:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2606/30/news144.html"
     },
     {
-      "id": "auto-0a9b8775fe6b",
-      "rank": 2,
-      "title": "デカい炭化水素、デカン。",
-      "category": "技術",
-      "source": "はてなブックマーク",
-      "time": "6/30(火) 14:43",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://anond.hatelabo.jp/20260630144157"
-    },
-    {
-      "id": "auto-b4d4781a5de7",
-      "rank": 3,
-      "title": "アスエネ、脱炭素経営の未来をともに創るパートナー企業を表彰する「第1回 ASUENE Partner Award」開催、満足度約90％以上を記録",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "6/30(火) 14:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000717.000058538.html"
-    },
-    {
-      "id": "auto-2b1e16070a43",
-      "rank": 4,
-      "title": "ダイキアクシス・サステイナブル・パワー、モルゲンロット、ミライト・ワン 3社共同で再エネを活用した次世代グリーンデータセンター事業を始動",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "6/30(火) 12:15",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000097.000053470.html"
-    },
-    {
-      "id": "auto-8ea6b5130a3f",
-      "rank": 5,
-      "title": "(株)日本水泳振興会と共同、(株)Bloom AIがSAFESWIM実機デモ会を新潟県長岡市で開催",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "6/30(火) 11:45",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000182685.html"
-    },
-    {
-      "id": "auto-87f6af1fa252",
-      "rank": 6,
-      "title": "お出掛け時の強い味方!!【SAFFRON】コンパクトヘアアイロン(ブラシタイプ) HDL-4714",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "6/30(火) 11:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000469.000030097.html"
-    },
-    {
-      "id": "auto-0a7d76096a17",
+      "id": "auto-62c6579b48ba",
       "rank": 7,
-      "title": "＜Qoo10 「エアコン」販売数ランキング＞省エネ基準引き上げ前の駆け込み需要が増加！AIセンサー搭載や自動掃除機能付きが人気に",
-      "category": "暮らし",
-      "source": "PR TIMES",
-      "time": "6/30(火) 11:15",
+      "title": "『水素ステーション近い人は候補に挙げるべきかと』 トヨタ MIRAI jtn********さんのレビュー",
+      "category": "技術",
+      "source": "carview!",
+      "time": "6/30(火) 15:29",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000970.000022933.html"
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlNnNDOUx0cXFUZ0hzbktMd2gtcXVxZkp6a095MEF1d3B1c3dhYnlvbjhaTzdhb1hKMXNILUN3Y0lWajk2Q2wyZmVSbjJrMkg2NHhpazhMUHNPNFNyTkkyd1NLbzJZSFNlZFZ0RTNyRXR5MkZ1RzdVRFhGakdZQQ?oc=5"
     },
     {
-      "id": "auto-d7f742c90a42",
+      "id": "auto-ecb2c990b7aa",
       "rank": 8,
-      "title": "北海道岩見沢市とステラーグリーンがカーボンニュートラルの実現に向けた連携協定を締結",
+      "title": "アスエネ、脱炭素経営の未来をともに創るパートナー企業を表彰する「第1回 ASUENE Partner",
       "category": "その他",
-      "source": "時事ドットコム",
-      "time": "6/30(火) 8:15",
+      "source": "ニコニコニュース",
+      "time": "6/30(火) 15:18",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JQ3F2N1g4WnhEb1dkWHhubEt6clQ0SkxTVHZXam54SlYzQUxVeUlrVWM2R1E5LWY1TUdYSV9YRzdVZ0QwRzlUWU1KXzczaGdNbHR5RVc2X0FBcGtHNkdNUVdxcGdiS3J0TlRR?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBURkg4ZUVhbkJGZk1hNzJiMUtETFMyU0c2SWNobGpORklJdnhiQTdOZmZfVXE1bE1aWDdsTmRJbVBJQ0tqbnI4WnJHMXBCeThicHYxY2lYc0pta3FPVXFfU3I1ZXdyOU1CNldPWFVKWi01SFdkdkRINkQwWQ?oc=5"
     }
   ]
 }
