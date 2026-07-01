@@ -40,7 +40,7 @@
     return `<div class="tilegrid" style="grid-template-columns:repeat(${cols},1fr);grid-template-rows:repeat(${rows},1fr)">
         ${tiles}
       </div>
-      <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>0% ～50%～100%</span></div>`;
+      <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>0% ～100%</span></div>`;
   }
 
   function barChart(items, valueKey, labelKey, color) {

@@ -9,15 +9,3 @@
 @media(max-width:820px){
   .feed{grid-template-columns:minmax(0,1fr);}
 }
-
-/* 再エネ導入比率マップ: 47都道府県タイルを扁平にしてコンパクトに表示する。
-   タイル内は「都道府県名+発電量(億kWh)」と、右端の発電量相対バーの2要素で構成する */
-#renewable-map .rn-tilegrid{gap:3px;}
-#renewable-map .rn-tile{aspect-ratio:3;font-size:calc(9px + var(--fs-d));
-  display:flex;align-items:center;gap:3px;padding:0 4px;}
-#renewable-map .rn-info{display:flex;flex-direction:column;justify-content:center;overflow:hidden;flex:1;min-width:0;line-height:1.2;}
-#renewable-map .rn-name{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-#renewable-map .rn-kwh{font-size:calc(7.5px + var(--fs-d));opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-#renewable-map .rn-bar-wrap{width:7px;align-self:stretch;background:rgba(127,127,127,.3);
-  border-radius:2px;flex:none;display:flex;align-items:flex-end;overflow:hidden;}
-#renewable-map .rn-bar-fill{width:100%;background:currentColor;border-radius:2px;}

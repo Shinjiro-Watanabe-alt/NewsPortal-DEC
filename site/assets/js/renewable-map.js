@@ -56,7 +56,7 @@
     return `<div class="tilegrid rn-tilegrid" style="grid-template-columns:repeat(${cols},1fr);grid-template-rows:repeat(${rows},1fr)">
         ${tiles}
       </div>
-      <div class="tile-legend"><span>再エネ導入比率</span><span class="tile-legend-bar"></span><span>0% ～50%～100%</span></div>
+      <div class="tile-legend"><span>再エネ導入比率</span><span class="tile-legend-bar"></span><span>0% ～100%</span></div>
       <div class="tile-legend"><span>発電量(右端バー)</span><span>少ない ～ 多い（対数目盛）</span></div>`;
   }
 
