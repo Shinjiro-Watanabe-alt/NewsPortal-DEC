@@ -47,14 +47,25 @@
   .tile{font-size:calc(9px + var(--fs-d));}
 }
 
-/* 再エネ導入比率マップ: 47都道府県タイルを扁平にしてコンパクトに表示する。
-   タイル内は「都道府県名+発電量(億kWh)」と、右端の発電量相対バーの2要素で構成する */
-#renewable-map .rn-tilegrid{gap:3px;}
-#renewable-map .rn-tile{aspect-ratio:3;font-size:calc(9px + var(--fs-d));
-  display:flex;align-items:center;gap:3px;padding:0 4px;}
-#renewable-map .rn-info{display:flex;flex-direction:column;justify-content:center;overflow:hidden;flex:1;min-width:0;line-height:1.2;}
-#renewable-map .rn-name{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-#renewable-map .rn-kwh{font-size:calc(7.5px + var(--fs-d));opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-#renewable-map .rn-bar-wrap{width:7px;align-self:stretch;background:rgba(127,127,127,.3);
+/* 再エネ導入比率マップ: 47都道府県タイルをコンパクトに表示する。
+   通常表示はタイルの高さが十数pxしかなく縦書きだと文字が入り切らないため、
+   横書き1行の都道府県名+発電量バーの2要素のみとする(発電量の数値は非表示)。
+   拡大モーダルでは都道府県名・発電量(億kWh)を改行して大きく表示し、バーも併記する。
+   モーダルは#renewable-mapの外(document.body直下)にクローンされるため、
+   IDスコープを外したクラスセレクタにして両方の文脈で同じルールが効くようにする */
+.rn-tilegrid{gap:3px;}
+.rn-tile{aspect-ratio:2.6;font-size:calc(9px + var(--fs-d));
+  display:flex;align-items:center;justify-content:center;gap:3px;padding:1px 4px;}
+.rn-info{display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;flex:1;min-width:0;line-height:1;}
+.rn-name{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;}
+.rn-kwh{display:none;}
+.rn-bar-wrap{width:6px;align-self:stretch;background:rgba(127,127,127,.3);
   border-radius:2px;flex:none;display:flex;align-items:flex-end;overflow:hidden;}
-#renewable-map .rn-bar-fill{width:100%;background:currentColor;border-radius:2px;}
+.rn-bar-fill{width:100%;background:currentColor;border-radius:2px;}
+
+.zoom-modal-body .rn-tilegrid{min-width:1040px;}
+.zoom-modal-body .rn-tile{aspect-ratio:auto;min-height:50px;font-size:13px;padding:6px 10px;}
+.zoom-modal-body .rn-info{align-items:flex-start;line-height:1.3;}
+.zoom-modal-body .rn-name{font-size:14px;white-space:nowrap;}
+.zoom-modal-body .rn-kwh{display:block;font-size:12px;opacity:.8;white-space:nowrap;}
+.zoom-modal-body .rn-bar-wrap{width:10px;}
