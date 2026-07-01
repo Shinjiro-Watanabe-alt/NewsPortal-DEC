@@ -33,7 +33,7 @@ def main():
         full = urllib.parse.urljoin(TARGET, href)
         print(f"[link] href={href!r} full={full!r} text={text!r}", file=sys.stderr)
         count += 1
-        if count >= 60:
+        if count >= 250:
             break
     print(f"[info] 抽出リンク数={count}", file=sys.stderr)
 
