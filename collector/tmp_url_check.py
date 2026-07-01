@@ -5,36 +5,29 @@ import urllib.error
 import urllib.request
 
 UA = "Mozilla/5.0 (compatible; NewsPortalDEC-URLCheck/1.0)"
-TIMEOUT = 25
 
 CANDIDATES = [
-    # 政策スケジュール系
-    "https://www.enecho.meti.go.jp/category/others/basic_plan/",
-    "https://www.meti.go.jp/policy/energy_environment/global_warming/global_warming_top.html",
-    "https://www.meti.go.jp/policy/energy_environment/global_warming/index.html",
-    "https://gx-league.go.jp/",
-    "https://gx-league.go.jp/ets/",
-    "https://www.env.go.jp/earth/ondanka/keikaku/global.html",
-    "https://www.env.go.jp/earth/ondanka/",
-    "https://www.env.go.jp/earth/2050carbon_neutral.html",
-    "https://www.cas.go.jp/jp/seisaku/2050carbon_neutral/",
-    "https://www.cas.go.jp/jp/seisaku/2050carbon_neutral/index.html",
-    "https://www.meti.go.jp/policy/energy_environment/global_warming/2050carbonneutral.html",
-    # 補助金系
-    "https://www.env.go.jp/policy/hojokin/",
-    "https://www.env.go.jp/policy/hojokin/index.html",
-    "https://www.env.go.jp/policy/hojokin/r07.html",
-    "https://www.meti.go.jp/information/publicoffer/kobo/index.html",
-    "https://www.nedo.go.jp/koubo/index.html",
+    # 第7次エネルギー基本計画（前回15秒でタイムアウト。経産省系ドメインは接続が遅い
+    # 傾向があるため、タイムアウトを伸ばして再試行する）
+    ("https://www.enecho.meti.go.jp/category/others/basic_plan/", 50),
+    # 地球温暖化対策計画2030年目標（新規候補パス）
+    ("https://www.env.go.jp/earth/ondanka.html", 15),
+    ("https://www.env.go.jp/earth/index.html", 15),
+    ("https://www.env.go.jp/earth/ondanka/keikaku/index.html", 15),
+    ("https://www.env.go.jp/earth/2030ghg.html", 15),
+    # 環境省 補助金一覧（新規候補パス）
+    ("https://www.env.go.jp/guide/budget/", 15),
+    ("https://www.env.go.jp/guide/budget/index.html", 15),
+    ("https://www.env.go.jp/earth/ondanka/keiei/index.html", 15),
 ]
 
 TITLE_RE = re.compile(rb"<title[^>]*>([^<]*)</title>", re.I)
 
 
-def check(url: str):
+def check(url: str, timeout: int):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=TIMEOUT) as res:
+        with urllib.request.urlopen(req, timeout=timeout) as res:
             body = res.read(4000)
             status = res.status
             final_url = res.geturl()
@@ -52,8 +45,8 @@ def check(url: str):
 
 
 def main():
-    for url in CANDIDATES:
-        check(url)
+    for url, timeout in CANDIDATES:
+        check(url, timeout)
 
 
 if __name__ == "__main__":
