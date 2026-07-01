@@ -149,6 +149,20 @@
         btn.nextElementSibling.classList.toggle('show');
         btn.classList.toggle('on');
       });
+
+      // サイドバーの簡易版(rail.htmlはid="glossary"の親カードを持つ)には出さず、
+      // 用語集ページ本編でのみ、まだ用語集に登録されていない話題のキーワード件数を表示する
+      if (!document.getElementById('glossary')) {
+        try {
+          const pending = await DN.fetchJSON('glossary_pending.json');
+          if (pending.length) {
+            const note = document.createElement('p');
+            note.className = 'gl-pending-note';
+            note.textContent = `未登録: ${pending.length}件`;
+            glossary.after(note);
+          }
+        } catch (_) { /* glossary_pending.json未生成時は表示しない */ }
+      }
     }
   }
 

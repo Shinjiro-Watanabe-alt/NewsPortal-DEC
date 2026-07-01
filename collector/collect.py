@@ -1043,6 +1043,39 @@ def collect_subsidies(now: datetime) -> list:
 
     return results
 
+
+GLOSSARY_PENDING_MAX = 100
+
+
+def collect_glossary_pending(ranks: list, now: datetime) -> list:
+    """話題のキーワードのうち、まだglossary.jsonに登録されていない語を集める。
+    定義文の自動生成はできないため、後で人手が確認・登録する前提の候補リストとして
+    site/data/glossary_pending.json に保持する(サイト上では件数のみ表示)"""
+    glossary = load_json("glossary.json", [])
+    existing_terms = {g["term"] for g in glossary}
+    # glossaryのtermは「CBAM(炭素国境調整措置)」のように略称+日本語併記の場合があるため、
+    # 括弧より前の略称部分でも既存判定する(表記ゆれによる重複登録を避ける)
+    existing_prefixes = {t.split("(")[0] for t in existing_terms}
+
+    pending = load_json("glossary_pending.json", [])
+    pending_terms = {p["term"] for p in pending}
+
+    now_str = now.strftime("%Y-%m-%d")
+    for r in ranks:
+        term = r["keyword"]
+        if term in existing_terms or term in existing_prefixes or term in pending_terms:
+            continue
+        pending.append({"term": term, "firstSeen": now_str})
+        pending_terms.add(term)
+
+    # 既にglossary.jsonへ登録済みになった語はpendingから外す
+    pending = [
+        p for p in pending
+        if p["term"] not in existing_terms and p["term"] not in existing_prefixes
+    ]
+    return pending[:GLOSSARY_PENDING_MAX]
+
+
 def load_json(name: str, default):
     path = SITE_DATA_DIR / name
     if not path.exists():
@@ -1136,6 +1169,7 @@ def main():
         save_json("topics.json", topics)
     if ranks is not None:
         save_json("ranks.json", ranks)
+        save_json("glossary_pending.json", collect_glossary_pending(ranks, now))
     save_json("events.json", events)
     save_json("meta.json", {"updated_at": now.isoformat()})
 

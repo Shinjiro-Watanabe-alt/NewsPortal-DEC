@@ -297,6 +297,7 @@ button{font:inherit;}
 .gl-term:hover,.gl-term.on{border-color:var(--brand);color:var(--brand-deep);background:var(--brand-tint);}
 .gl-def{display:none;margin:6px 0 0;font-size:calc(12px + var(--fs-d));line-height:1.7;color:var(--ink-2);background:var(--surface-2);border-radius:8px;padding:9px 12px;}
 .gl-def.show{display:block;}
+.gl-pending-note{margin:0;padding:9px 14px 13px;font-size:calc(11px + var(--fs-d));color:var(--ink-3);border-top:1px solid var(--line);}
 
 .promo{background:linear-gradient(160deg,var(--brand-deep),var(--brand));color:#fff;border:none;}
 .promo .ph{padding:15px 16px 6px;}
