@@ -1,10 +1,10 @@
 [
   {
-    "keyword": "グリーン水素",
+    "keyword": "SAF",
     "trend": ""
   },
   {
-    "keyword": "SAF",
+    "keyword": "グリーン水素",
     "trend": ""
   },
   {
@@ -16,6 +16,10 @@
     "trend": ""
   },
   {
+    "keyword": "NTT-ME",
+    "trend": "NEW"
+  },
+  {
     "keyword": "バイオマス",
     "trend": ""
   },
@@ -25,10 +29,6 @@
   },
   {
     "keyword": "RE100",
-    "trend": ""
-  },
-  {
-    "keyword": "SBTi",
     "trend": ""
   }
 ]
