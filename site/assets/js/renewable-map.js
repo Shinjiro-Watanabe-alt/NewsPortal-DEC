@@ -53,7 +53,7 @@
       </div>`;
     }).join('');
 
-    return `<div class="tilegrid rn-tilegrid" style="grid-template-columns:repeat(${cols},1fr);grid-template-rows:repeat(${rows},1fr)">
+    return `<div class="tilegrid rn-tilegrid" style="grid-template-columns:repeat(${cols},minmax(0,1fr));grid-template-rows:repeat(${rows},1fr)">
         ${tiles}
       </div>
       <div class="tile-legend"><span>再エネ導入比率</span><span class="tile-legend-bar"></span><span>0% ～100%</span></div>
@@ -66,6 +66,7 @@
     try {
       const data = await DN.fetchJSON('renewable-by-prefecture.json');
       chartEl.innerHTML = renewableTileGridChart(data.data);
+      DN.enableTapToZoom(chartEl, '再エネ導入比率（都道府県別）');
       const srcEl = document.getElementById('renewableMapSrc');
       if (srcEl) srcEl.innerHTML = DN.chartSrcHtml(data);
     } catch (_) {

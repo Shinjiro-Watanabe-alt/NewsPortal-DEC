@@ -103,3 +103,31 @@ DN.thumbInnerHtml = function thumbInnerHtml(imageUrl, category, withLabel) {
 DN.onThumbImgError = function onThumbImgError(img) {
   img.outerHTML = DN.thumbFallbackHtml(img.dataset.fbCat, img.dataset.fbLabel === '1');
 };
+
+// モバイル幅ではタイルグリッド/SVGグラフ等を縮小表示すると読みにくくなるため、
+// タップで内容を拡大モーダル表示できるようにする(デスクトップでは何もしない)。
+DN.MOBILE_ZOOM_BREAKPOINT = 820;
+
+DN.enableTapToZoom = function enableTapToZoom(el, title) {
+  if (!el || el.dataset.zoomBound) return;
+  el.dataset.zoomBound = '1';
+  el.classList.add('zoomable');
+  el.addEventListener('click', () => {
+    if (window.innerWidth > DN.MOBILE_ZOOM_BREAKPOINT) return;
+    const overlay = DN.el('div', 'zoom-overlay');
+    overlay.innerHTML = `<div class="zoom-modal">
+        <div class="zoom-modal-h"><b>${DN.esc(title)}</b><button type="button" class="zoom-close" aria-label="閉じる">${DN.icon('close')}</button></div>
+        <div class="zoom-modal-body">${el.innerHTML}</div>
+      </div>`;
+    document.body.appendChild(overlay);
+    document.body.classList.add('zoom-lock');
+    const close = () => {
+      overlay.remove();
+      document.body.classList.remove('zoom-lock');
+    };
+    overlay.querySelector('.zoom-close').addEventListener('click', close);
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay) close();
+    });
+  });
+};

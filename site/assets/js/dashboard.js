@@ -37,7 +37,7 @@
       </div>`;
     }).join('');
 
-    return `<div class="tilegrid" style="grid-template-columns:repeat(${cols},1fr);grid-template-rows:repeat(${rows},1fr)">
+    return `<div class="tilegrid" style="grid-template-columns:repeat(${cols},minmax(0,1fr));grid-template-rows:repeat(${rows},1fr)">
         ${tiles}
       </div>
       <div class="tile-legend"><span>表明割合</span><span class="tile-legend-bar"></span><span>0% ～100%</span></div>`;
@@ -124,6 +124,14 @@
     document.getElementById('zeroCarbonChart').innerHTML = hBarRatioList(d.zeroCarbonByRegion);
     document.getElementById('zeroCarbonMapChart').innerHTML = tileGridChart(d.zeroCarbonByPrefecture);
     document.getElementById('sectorChart').innerHTML = hBarValueList(d.sectorEmissions, '%', 'var(--accent)');
+
+    // モバイル幅ではタップで拡大モーダル表示できるようにする
+    DN.enableTapToZoom(document.getElementById('co2TrendChart'), '国内CO2排出量の推移');
+    DN.enableTapToZoom(document.getElementById('renewableTrendChart'), '再エネ比率の推移');
+    DN.enableTapToZoom(document.getElementById('carbonPriceChart'), 'カーボンプライス推移（GX-ETS）');
+    DN.enableTapToZoom(document.getElementById('zeroCarbonChart'), 'ゼロカーボンシティ宣言状況（地域別）');
+    DN.enableTapToZoom(document.getElementById('zeroCarbonMapChart'), 'ゼロカーボンシティ宣言状況（都道府県別）');
+    DN.enableTapToZoom(document.getElementById('sectorChart'), '部門別CO2排出量');
 
     const charts = d.charts || {};
     document.getElementById('co2TrendSrc').innerHTML = DN.chartSrcHtml(charts.co2Trend);
