@@ -75,7 +75,7 @@
       const todayPrefix = `${now.getMonth() + 1}/${now.getDate()}(`;
       const todayCount = artsArr.filter((a) => GOV.has(a.source) && a.time && a.time.startsWith(todayPrefix)).length;
       digestToday.innerHTML =
-        `<div class="digest-today"><a href="news.html?cat=${encodeURIComponent('国')}">` +
+        `<div class="digest-today"><a href="news.html?cat=national&date=today">` +
         `本日の新着（官公庁）<b>${todayCount}</b>件</a></div>`;
     }
 

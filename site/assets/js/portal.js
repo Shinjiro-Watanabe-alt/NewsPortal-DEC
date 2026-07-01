@@ -158,7 +158,7 @@
     }
   }
 
-  async function renderFeed(catSlug, query, tagParam) {
+  async function renderFeed(catSlug, query, tagParam, dateParam) {
     const el = document.getElementById('feed');
     if (!el) return;
     const chip = document.getElementById('filterChip');
@@ -221,6 +221,22 @@
         chip.classList.remove('show');
       }
       feedFullList = filtered.length ? filtered : items;
+
+      if (dateParam === 'today') {
+        const now = new Date();
+        const todayPrefix = `${now.getMonth() + 1}/${now.getDate()}(`;
+        feedFullList = feedFullList.filter((f) => f.time && f.time.startsWith(todayPrefix));
+        if (chip) {
+          const cat = categories.find((c) => c.slug === catSlug);
+          chip.classList.add('show');
+          chip.querySelector('.fc-label').textContent = `絞り込み中: ${cat ? `${cat.label} / 本日` : '本日'}`;
+        }
+        if (!feedFullList.length) {
+          el.innerHTML = '<div class="feed-empty">本日はまだ新着記事がありません。</div>';
+          if (moreWrap) moreWrap.style.display = 'none';
+          return;
+        }
+      }
     }
 
     if (moreWrap) moreWrap.style.display = '';
@@ -248,13 +264,14 @@
     const catSlug = params.get('cat');
     const query = params.get('q');
     const tagParam = params.get('tag');
+    const dateParam = params.get('date');
 
     renderNav(catSlug);
     renderTopics();
     renderKpis();
     renderRibbon();
-    await renderFeed(catSlug, query, tagParam);
-    if (catSlug || query || tagParam) scrollToFeed();
+    await renderFeed(catSlug, query, tagParam, dateParam);
+    if (catSlug || query || tagParam || dateParam) scrollToFeed();
 
     const chip = document.getElementById('filterChip');
     if (chip) {

@@ -649,11 +649,14 @@ JEPX_SPOT_PAGE_URL = "https://www.jepx.jp/electricpower/market-data/spot/"
 # 補助金・公募情報の収集対象ページ
 SUBSIDY_SOURCES_CFG = [
     {
-        "name": "環境省 補助金・交付金（令和7年度）",
-        "url": "https://www.env.go.jp/policy/hojokin/r07.html",
+        "name": "環境省 公募情報",
+        "url": "https://www.env.go.jp/guide/kobo.html",
         "source_label": "環境省",
         "base_url": "https://www.env.go.jp",
-        "href_filter": "/policy/hojokin/",
+        # このページは「公募中の案件名」テーブルの本文リンクのみが対象案件で、
+        # ページ全体には共通ナビ(ホーム/申請手続等)のリンクが大量に含まれるため、
+        # <table>タグ内のリンクだけに絞り込む(href_filterでは共通ナビを除外できない)
+        "table_scope": True,
     },
     {
         "name": "NEDO 公募情報",
@@ -998,12 +1001,19 @@ def collect_subsidies(now: datetime) -> list:
             continue
 
         html_text = raw.decode("utf-8", errors="ignore")
+        if cfg.get("table_scope"):
+            # 共通ナビを含まない本文の<table>部分だけを対象にする
+            table_match = re.search(r"<table\b.*?</table>", html_text, re.S | re.I)
+            search_text = table_match.group(0) if table_match else ""
+        else:
+            search_text = html_text
+
         found: list = []
-        for href, raw_title in _SUBSIDY_A_RE.findall(html_text):
+        for href, raw_title in _SUBSIDY_A_RE.findall(search_text):
             title = strip_html(raw_title).strip()
             if not title or _SUBSIDY_NOISE_RE.match(title):
                 continue
-            if cfg["href_filter"] not in href:
+            if "href_filter" in cfg and cfg["href_filter"] not in href:
                 continue
             # トップや自己参照リンクを除外
             norm = href.rstrip("/")
