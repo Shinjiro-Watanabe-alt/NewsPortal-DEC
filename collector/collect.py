@@ -685,6 +685,11 @@ try:
 except Exception:
     pypdf = None
 
+try:
+    import openpyxl
+except Exception:
+    openpyxl = None
+
 
 def extract_zero_carbon_total_from_text(text: str):
     m = (
@@ -986,6 +991,114 @@ def update_jepx_price(price: float):
     save_json("rail-data.json", rows)
 
 
+RENEWABLE_XLSX_URL = "https://www.enecho.meti.go.jp/statistics/electric_power/ep002/xls/2025/2-2-2025.xlsx"
+RENEWABLE_PAGE_URL = "https://www.enecho.meti.go.jp/statistics/electric_power/ep002/results.html"
+# 都道府県別発電実績は月次更新のため、日々の変動が少なく収集を週1回に間引く
+RENEWABLE_COLLECT_INTERVAL_DAYS = 7
+RENEWABLE_SHEET_YM_RE = re.compile(r"^(\d{4})\.([0-9０-９]+)$")
+RENEWABLE_ASOF_RE = re.compile(r"(\d+)年(\d+)月(\d+)日公表時点")
+
+
+def find_latest_renewable_sheet(sheet_names):
+    """月別シート名(例:"2025.4"。全角数字が混じることがある)から最新月のシートを選ぶ"""
+    candidates = []
+    for name in sheet_names:
+        normalized = name.translate(ZENKAKU_DIGITS)
+        m = RENEWABLE_SHEET_YM_RE.match(normalized)
+        if not m:
+            continue
+        candidates.append(((int(m.group(1)), int(m.group(2))), name))
+    if not candidates:
+        return None
+    candidates.sort()
+    return candidates[-1][1]
+
+
+def fetch_renewable_ratio_by_prefecture():
+    """資源エネルギー庁「都道府県別発電実績」Excelから、都道府県ごとの
+    再エネ導入比率((水力+風力+太陽光+地熱)÷合計)を算出する(失敗時はNone)。
+    列構成: B=水力 C=火力 D=原子力 E=風力 F=太陽光 G=地熱 H=バイオマス I=廃棄物
+    J=蓄電池 K=新エネ計 L=その他 M=合計(いずれも1,000kWh単位)。
+    K列(新エネ計)は実際には風力+太陽光+地熱+蓄電池のみで構成されており、
+    H列(バイオマス)・I列(廃棄物)はC列(火力発電所)に計上済みの数値の再掲のため、
+    重複計上を避けるためbiomass/wasteは合算しない"""
+    if openpyxl is None:
+        print("[skip] 再エネ導入比率: openpyxl未インストールのためExcel解析不可", file=sys.stderr)
+        return None
+    try:
+        raw = fetch(RENEWABLE_XLSX_URL)
+    except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+        print(f"[skip] 再エネ導入比率: Excel取得失敗 ({exc})", file=sys.stderr)
+        return None
+
+    try:
+        wb = openpyxl.load_workbook(io.BytesIO(raw), data_only=True)
+    except Exception as exc:
+        print(f"[skip] 再エネ導入比率: Excel解析失敗 ({exc})", file=sys.stderr)
+        return None
+
+    sheet_name = find_latest_renewable_sheet(wb.sheetnames)
+    if not sheet_name:
+        print(f"[skip] 再エネ導入比率: 月別シートが見つからず (シート一覧={wb.sheetnames})", file=sys.stderr)
+        return None
+
+    ws = wb[sheet_name]
+    title_row = next(ws.iter_rows(min_row=1, max_row=1, values_only=True), ())
+    as_of_text = ""
+    for cell in title_row:
+        if isinstance(cell, str) and "公表時点" in cell:
+            m = RENEWABLE_ASOF_RE.search(cell.translate(ZENKAKU_DIGITS))
+            if m:
+                y, mo, d = m.groups()
+                as_of_text = f"{y}年{mo}月{d}日公表時点"
+            break
+
+    results = []
+    for row in ws.iter_rows(min_row=5, max_row=ws.max_row, values_only=True):
+        pref = row[0] if row else None
+        if pref not in ZERO_CARBON_PREFECTURES:
+            continue
+        if len(row) < 13:
+            continue
+        hydro = row[1] or 0
+        wind = row[4] or 0
+        solar = row[5] or 0
+        geo = row[6] or 0
+        total = row[12] or 0
+        if not total:
+            continue
+        renewable = hydro + wind + solar + geo
+        ratio = round(renewable / total * 100, 1)
+        if not (0 <= ratio <= 100):
+            print(f"[skip] 再エネ導入比率: {pref}の算出値{ratio}が妥当な範囲外", file=sys.stderr)
+            continue
+        # total(1,000kWh単位)をkWhに換算して保存。表示側で単位(億kWh等)に丸める
+        results.append({"prefecture": pref, "ratio": ratio, "totalKwh": round(total * 1000)})
+
+    print(f"[info] 再エネ導入比率: シート={sheet_name} 集計件数={len(results)}", file=sys.stderr)
+    if len(results) < 40:
+        print(f"[skip] 再エネ導入比率: 集計件数{len(results)}が少なすぎるため採用しない", file=sys.stderr)
+        return None
+
+    return {
+        "data": results,
+        "source": "資源エネルギー庁「電力調査統計」都道府県別発電実績",
+        "sourceUrl": RENEWABLE_PAGE_URL,
+        "asOf": as_of_text or f"{sheet_name}分",
+    }
+
+
+def renewable_collected_recently(now: datetime):
+    """再エネ導入比率の最終収集日からの経過日数がRENEWABLE_COLLECT_INTERVAL_DAYS未満なら
+    Trueを返す(月次更新データのため収集を週1回に間引く)"""
+    data = load_json("renewable-by-prefecture.json", None) or {}
+    collected_at = data.get("collectedAt", "")
+    try:
+        prev = datetime.fromisoformat(collected_at)
+    except ValueError:
+        return False
+    return (now - prev).days < RENEWABLE_COLLECT_INTERVAL_DAYS
+
 
 def collect_subsidies(now: datetime) -> list:
     """環境省・NEDO・経産省の公募・補助金一覧ページからリンクを抽出してsubsidies.json用リストを返す。
@@ -1190,6 +1303,14 @@ def main():
 
     subsidies = collect_subsidies(now)
     save_json("subsidies.json", subsidies)
+
+    if renewable_collected_recently(now):
+        print(f"[skip] 再エネ導入比率: 前回収集から{RENEWABLE_COLLECT_INTERVAL_DAYS}日未満のため収集をスキップ", file=sys.stderr)
+    else:
+        renewable_result = fetch_renewable_ratio_by_prefecture()
+        if renewable_result is not None:
+            renewable_result["collectedAt"] = now.isoformat()
+            save_json("renewable-by-prefecture.json", renewable_result)
 
     print(f"収集完了: 新規 {new_count} 件 / 合計 {len(articles)} 件 ({now.isoformat()})")
 
