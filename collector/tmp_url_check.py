@@ -2,15 +2,12 @@
 import re
 import sys
 import urllib.error
-import urllib.parse
 import urllib.request
 
 UA = "Mozilla/5.0 (compatible; NewsPortalDEC-URLCheck/1.0)"
 TIMEOUT = 20
 
 TARGET = "https://www.env.go.jp/guide/kobo.html"
-
-A_RE = re.compile(r'<a\b[^>]*href="([^"]*)"[^>]*>\s*([^<]{2,120})\s*</a>', re.S)
 
 
 def main():
@@ -23,19 +20,22 @@ def main():
         return
 
     print(f"[info] ページ長={len(body)}文字", file=sys.stderr)
-    seen = set()
-    count = 0
-    for href, text in A_RE.findall(body):
-        text = re.sub(r"\s+", " ", text).strip()
-        if not text or href in seen:
-            continue
-        seen.add(href)
-        full = urllib.parse.urljoin(TARGET, href)
-        print(f"[link] href={href!r} full={full!r} text={text!r}", file=sys.stderr)
-        count += 1
-        if count >= 250:
-            break
-    print(f"[info] 抽出リンク数={count}", file=sys.stderr)
+
+    # <main> ~ </main> があればその範囲、なければ id="main" 以降を本文とみなす
+    m = re.search(r"<main\b.*?</main>", body, re.S | re.I)
+    if not m:
+        m = re.search(r'id="main".*', body, re.S | re.I)
+    section = m.group(0) if m else body
+
+    print(f"[info] 本文候補長={len(section)}文字", file=sys.stderr)
+    # タグを除去して読める形にする
+    text_only = re.sub(r"<script.*?</script>", "", section, flags=re.S | re.I)
+    text_only = re.sub(r"<style.*?</style>", "", text_only, flags=re.S | re.I)
+    text_only = re.sub(r"<[^>]+>", "\n", text_only)
+    text_only = re.sub(r"\n\s*\n+", "\n", text_only).strip()
+    print("[body-text-start]", file=sys.stderr)
+    print(text_only[:3000], file=sys.stderr)
+    print("[body-text-end]", file=sys.stderr)
 
 
 if __name__ == "__main__":
