@@ -8,7 +8,7 @@ import urllib.request
 UA = "Mozilla/5.0 (compatible; NewsPortalDEC-URLCheck/1.0)"
 TIMEOUT = 20
 
-TARGET = "https://www.env.go.jp/guide/budget/"
+TARGET = "https://www.env.go.jp/guide/kobo.html"
 
 A_RE = re.compile(r'<a\b[^>]*href="([^"]*)"[^>]*>\s*([^<]{2,120})\s*</a>', re.S)
 
