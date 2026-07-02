@@ -5,48 +5,138 @@
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "1:10",
+    "time": "7:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000061.000135262.html",
     "image": null
-  },
-  {
-    "id": "auto-7215cc1f4222",
-    "title": "JASP、循環型経済の実現に向けリサイクル工場と業務提携を開始",
-    "category": "国際",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "0:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000182734.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/182734/12/182734-12-4d965fa436bba3cd60ddfc39807eac83-1841x1101.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-971ca18b7cfb",
     "title": "BTS登場！入場特典の詳細も情報解禁！「VISION FESTA」福岡会場は8月2日よりいよいよ開幕！",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
-    "time": "0:40",
+    "time": "6:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000451.000027592.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/27592/451/27592-451-65a6b71aefa17ab548faa924a222378d-1909x2700.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-3c11e4ecbf87",
+    "title": "【公募】飯田市：座光寺小学校にPPA太陽光を導入へ。災害時電源も見据え事業者を公募",
+    "category": "自治体",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:13",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50LU1RWU83QjlFRUVMRFBVT3ZxVmp1QWtkbGZaSFJMX3VLZUppT0RWNzFldXZmb2pfQk1FRHNhUjUxX3JvdERiNW8tRUpzSm5SVERBcU1yM1RFc2dlYkRUUm52ZnBoVnY4cG5WNjd6eEVoUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-73c4a0b36d56",
+    "title": "【脱炭素・SDGs・ESG】竹中工務店：電力CO2排出係数の将来シナリオを開発。建物のホールライフカーボン削減を支援",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:08",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WcHBDWEtXZDNNWXVmbk1oZW9YTnNCRlpsQVNLYzV1eUpzS0RZZ2R1UUkxNnE1elJMOHkxd3I0V0NDalVCU1hBNTVXakdvYi0zWmFsQWZDbVA0cjFJTDdQZmpzelBxWTRlbWt2U25ncm0tUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fe033dd8544a",
+    "title": "東洋建設、ケーブル敷設船引き渡し 洋上風力向け国内最大級",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊工業新聞",
+    "time": "20:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MY2p4bzR4TFVPWDVPcDhJV1RpX0cyUE1lbHNjRTFycnNEZTZ6SThaRzIzR283UU53eXdKQUYtSVo2eHZUNWlIdnNuRno4Rk5oOFpJQ1JWU1lOR3M?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4d8a58b0b080",
+    "title": "新任GX担当者が知っておきたい ソーラーシェアリングの基礎",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92WkNqYjQtbm1YYXVON1E4bFFFa3pQcFYxcHV5T05DVnNCYkpvbHg1aWUwa3NGRElsVmg2NU94X29oNTVXRVMzUFFhT0x1NGNidnZxaG5DNlhJVWxKbFRxZks4TWJhcHEzdlY3eUFMLW84eWdFSFFv?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-dc97ac720ac1",
+    "title": "東洋建設、洋上風力のケーブル敷設船が完成 日本で稼働",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hYVZOdU5sVEloVHNhSUdIaDJZb3UyekN3SXdpanZKUnVpeGR3R3lCdFpoLUR0SkdMcnZoMDBoVVhqRUlnWm11dWtjdUJPZFlBR0Y1SURFYTBrYW9LU0didVJQaE5HLVBDX0dwdHZ4WkNqNVlpaXc0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6a78663ad238",
+    "title": "出光社長｢従来目標､挑戦的だった｣ 30年度GHG削減修正",
+    "category": "企業",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FUjhCbEtmN050Vmo4NVBZa1M3aEQ0UGthYkw1NlEzblVBN3JTSWtvUWw0N3VFbjJaNWhWNW9CRVJNLWFZWXN4a0NfX01pbVJ1R0p0bHd3T1gtTng4VV92RXR0NHhFaGN6VklJVGl5SVFXRW9FNjhZ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c04e6e7feebc",
+    "title": "港湾物流の脱炭素へ、Sustechが台湾展開",
+    "category": "自治体",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "19:07",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EVWczTVlGMEZ0SzV0dTN5ZW5aLVlULVlHYndxNlJ3YldiaG9fNVFrLWI3RE5pQlhQeTJHLVlxdDBOOWxLa3RGUg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b47e36f7a02f",
+    "title": "水素活用エンジン広がる 川重が発電ユニット、ヤンマーは船舶用 燃料電池より低コスト",
+    "category": "技術",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "17:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjNXNKdDRHenpvTmhMT1Q4czJyektlZkhpQ0RVaEI0aHZPb0RJWTVhYzZXV05KN0ctX1ZrYmRFck03OTd3bkNFM2E3U25LSXU5NGtfUDZJX0U1aWQxNXhneFhKWjYtY0JVYU1FZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e5a0ddb65381",
+    "title": "脱炭素関連の事業提携に向けた連携協定の締結について 企業リリース",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊工業新聞",
+    "time": "16:08",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16R2c3eWxEZk41VnhoSXJ4SU12clozTWlvQVEyUnhvQk1PTXhTNVpLNjdLRjczbWR1MThjN0ZXRU5OUFBaczg4Z0RKMmhNTmJSVGc2MzFINmw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2e7fdf7f3745",
+    "title": "千葉県の森林保全活動の推進と脱炭素化に向けた連携協定を締結",
+    "category": "その他",
+    "accent": false,
+    "source": "千葉日報オンライン",
+    "time": "16:04",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CUzhrclAwV2RzTkVjNzdlYlJnZFl3ZGFkazVYYjdRMzl1czVodXJrdmZMbUwyY29qaExkdVlTYlVXNlBaQkZDVHd5VDRMZlpyTUJ4MER2RQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-74bf4091e276",
+    "title": "トクヤマ、水素社会の実現に向け「株式会社H2ほっかいどう」に出資、水素化マグネシウムの用途開拓を推進",
+    "category": "技術",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "15:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSd0ZFN0xHbVBsT2x5MkNsdDdQQzlkN3hieFczdzRXTHZpUXNyZFFOSDRleGc3NVhXQmJSZnh0RERydDhnVUZadGV2eTkxT1NiWFo1SjdVODRiOTQ?oc=5",
+    "image": null
   },
   {
     "id": "auto-259ea78442de",
     "title": "2023年8.5億ドルから2029年17億ドルへ、半導体排ガス処理投資で脱炭素を提言【A.T. カーニー】",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "15:30",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBybXN1ZEl0YW1vSDFsN3NlZ012VVRTRWpOd0g0c21IMkpEcTB2U3FJMUJIWFA1UEl6ZXdqSkxjNEMySGhZM2xxeWFzV1kwZjdZTkhKR2M4YUllXzNlNUlUOGFoNFcwai1ISEpvaWVGd0p4aW5LZ2t0OEdoTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-db3cbc2264b7",
-    "title": "苓北・天草風力事業における東京瓦斯株式会社との電力購入契約（PPA）締結に関するお知らせ",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "14:30",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZdWlNendscTZ6ZDAyamxiQnBtNHdvRHRZUzBXM2ItbWprenZZZzMya1lqT09VWU5jaEYzdjdNT29GejV1YTFPODU0LXkySlh6NHc0RXlFUENkaEZqZk52QmRaN0lab0xiTW5hd3I4TFQyRlhzbVFJWm9uMA?oc=5",
     "image": null
   },
   {
@@ -140,10 +230,30 @@
     "image": null
   },
   {
+    "id": "auto-652bc80fd4a0",
+    "title": "【画像】太陽光発電所から電線約1400万円相当盗んだ疑い ベトナム国籍の男3人を逮捕",
+    "category": "その他",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "9:57",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlM0JFSkVlTVotLWNmWmhsNzdTX0FMazFJR0pvOFFNdnVxRnc0Q1NSdi1CRElncVlkUVF1UlJHWVBiZ2d5N2E0WWUtZm1mbnFSek5LZjV4NHJhWEM0MXlQd2JDVlBTOVRsaDBuVWpwb0gyVl84anE5cTVPYkg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a50711a764f0",
+    "title": "【太陽光発電】住民反発、かすむ役割 メガソーラー「副作用」",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "9:51",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nblQxLURJVVFTazkzX1BaSUJkY0ZnMzVIMjAtQVlmTHllR3huVjJkNVVZV0lWOWtpbU1sWlYyNDg0N0FRMmpVcmRRTGZ4MXFEREE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-e5ee5bfcc4e3",
     "title": "科学技術環境委員会は、トゥアンナム太陽光発電所プロジェクトにおいて調査を実施した。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "9:33",
     "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkswamkyOVBuZXhsM3g1VFlXRG94SkRfQnZCemhEU0NoYnFpVEQyZjE5bktlbUpIdklYdEVRZ1pLUlUzZHdtNVpoN2c1RExBVkozSFdaMGZaN0FMMVdPM2ppYTZmSTdZcG9lMzI1T1dfNngydHR3X1BqUlpXR2FUT3pDVmJJeldHZmtiTFB2TWdVQ2dJNlJ3dEpXM0t2eDhmWC1Ec3FobElWbkF6dGJYRUhRVDJ0VVE?oc=5",
@@ -157,6 +267,16 @@
     "source": "日本経済新聞",
     "time": "9:33",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYWEFKLTF1WC1QYWtPdzVkX1gxQWFCdmFUcWg5N2Nuak41ZGpBbkVmYUtIc3YzcFQzOGJJY1prUUdoazJ5N2tNanVDYklrWmZRaUJuVk5rTDhySTYzVl9Mdkk2ZTJzM3RfVGU0dg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f5a01b1b3e2a",
+    "title": "能代ロケット実験場南地区の完成祝う 「水素社会」実現へ新たな研究開発拠点",
+    "category": "技術",
+    "accent": false,
+    "source": "秋田魁新報電子版",
+    "time": "9:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UWk1idG1feXRqSVplaVVLUDQ0VDEySGk5VEd1V2xpWTlzd1FRWnAwVFF1MkxuTjBUU19uMlpDSmFGb1lIcGJGclpyRGVPbDdyQlNZVkh4Y3B1alVjaWhBTGJn?oc=5",
     "image": null
   },
   {
@@ -177,126 +297,6 @@
     "source": "PR TIMES",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBbWJJY1VQbmxxOEwxZThYbjVQZWFlcjBGZWpoNlZhSXZ4aUl1TVNpUEZlTnNKMHRzZVl6Y1lxa0t3c3FGR0tKWks0MDMyYlZkb0RjWFVfZUZhUjBvYlljTWVWdUwxME94MVE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5f843f37378c",
-    "title": "次世代エネルギーとして注目の液体水素、安全利用へ JAXA能代ロケット実験場に新施設完成 秋田",
-    "category": "技術",
-    "accent": false,
-    "source": "FNNプライムオンライン",
-    "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WWFczZTFlVmM0QUxNMWNuc2laSGVkWGV6U1JlSFNhdzNTc0dRQzZ2OWFqRnpDNXhVdHBhZWs0Nm5fdmFOeUg5QlJMazNxQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-75b5e61abc74",
-    "title": "フェラーリが「2ストローク対向ピストン」水素エンジン特許を出願。1800年代から存在する技術を「水素で」アップデート、内燃機関の誇りを守る",
-    "category": "技術",
-    "accent": true,
-    "source": "intensive911.com",
-    "time": "8:51",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RWnVtNWM2N3BoelJ4T3lfd1FFcDFkb19TSjd3bF9MTHcxUTZvODBDRmJnRmM1QUVCZEdYOGZHOTJEV09SSWVBQXg2N3dwUkpXNmhSb3F2M0VPN3lZVGlyT05jR3FZWTdR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-954053b5022b",
-    "title": "山間部の峠道に太陽光発電式の反射板を設置するパイロットプロジェクト。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "8:43",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFhCSTFZSjMzVFM3NU1DWm1GWk5sMXNaa19TUmdFN243UzlVMXZ5RzFTNWh3Q3QxSXVtYVgyX3JScDJZdXRNLVZMRW1mN0o3LUhkZ3NhaVpSQWktOHNtMnhZdTh6dXpaNXc1djV6ZHZiSW5pTXhGN0JjUkdtUDJfelZaUGN6ZjU2Sk9xMDJWR05XT2xmZ3g2RC1n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9221f6604edc",
-    "title": "GATESの系統用蓄電池プラットフォーム「蓄託（TIK TAK）」が新たに「完工（開発）案件」の取り扱いを開始",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "8:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NdG9haEpDNVBQVkNLa204ZTN0VGxCU0N4Smk0S0ZfczY2TlFuX3JSelJhTWs0WTZIaDlXeDU4UGxucWxzN3ozWjlzUEdaVF9OMnhWZkxHc24wSHhqd2wyQVdEakhwUHloYUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8747c5dd11df",
-    "title": "太陽光発電所から約6700m分の電線を盗んだ疑い ベトナム国籍の男3人を逮捕 愛知県三河地方で同様被害相次ぐ",
-    "category": "その他",
-    "accent": true,
-    "source": "Excite エキサイト",
-    "time": "8:06",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6ZG96QnZ0WG14NVl3SEhOb3BlZjFMMk5FRHY5TzdjOVdnMHpZNGlrQk96bk1hcGs5bnpkTkIwMWtma3NxWUJidGpTT2I1ek80MkZrN2M1TzdlSmVVWTQtYmNZQl9JSFhBVzVyOWhxVllsa0k?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-60b134936596",
-    "title": "コーセー南ア工場にグリーン水素初搬入〈動画〉",
-    "category": "技術",
-    "accent": false,
-    "source": "sannichi.co.jp",
-    "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcmRkLVlFbi0wUm9wcElkNFRuaThkaUhvMzE4WlduTi14bmhTdUFrQnhzQVJGeWdYOVZSbDQ5RXdwQ1RCbU1jMXFxU1ZRRHR4dnBkZzZaQmcyaG1yVDBDMFdxdng2OTFkTUpVdHF1ejRPMWc4WVZLQ0lGTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c56754439f20",
-    "title": "村田製作所、太陽光発電活用した水素生成・使用の実証実験を開始",
-    "category": "技術",
-    "accent": false,
-    "source": "netdenjd.com",
-    "time": "7:55",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJenlKV0JUMXBiU01Ia3pUWTVLX0prOWhlSmF0cDRlcVUzUVVFeGliakdLenZBVVNDdThPNGNqXzZRT1AxWDlVVk53aldTTXZ4T3c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b82c1d63b02b",
-    "title": "グリッドシナップス、日本の蓄電池オーナー向け「owner-side O&M / AM」サービスを開始",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "7:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MOVVPaXFEcXVFRGpwcndSVC1hWG9rZEZ2RW1sTVAxZ3NaT0thUDdneW9fN3VvazAyYWFwLTZBRm1OR204X3lRSHo3OVBWUVJlTFcyUzEyU1ozQm9uSl9BZzRsdmRZQkRu?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1c28c267217c",
-    "title": "太陽光発電所で電線6700m盗んだ疑い、ベトナム国籍の男3人逮捕 時価1430万円相当 愛知・豊田市 (2026年7月2日掲載)",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "7:37",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OeU5idFhlVW91THQzOXhXYWhIcGxtTkZuU2g4S3hDX0J3SDhCNUhTLUYtSlJKNEdDd25aOF95emtINVE4NjR1cm1vWXpDdVVlUWI2bXV5QXN3QTlMOVE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c04e6e7feebc",
-    "title": "港湾物流の脱炭素へ、Sustechが台湾展開",
-    "category": "自治体",
-    "accent": false,
-    "source": "LOGISTICS TODAY",
-    "time": "7:36",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EVWczTVlGMEZ0SzV0dTN5ZW5aLVlULVlHYndxNlJ3YldiaG9fNVFrLWI3RE5pQlhQeTJHLVlxdDBOOWxLa3RGUg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6b0e78928817",
-    "title": "上里建設、オーストラリア・アデレードにおける5MW/10MWh系統用蓄電所建設のEPC契約を締結",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "7:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZX1BSNjFybXR1U1RjcDIxZFVmRzgxaUE5OTQwMjlNNk9xWXVpRDFlSjNxSnZmaEc0LXBuYW5yM3dMNUVkOFVIVHFJNldSUlJhX2w4ag?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ca66dff3646f",
-    "title": "【脱炭素・SDGs・ESG】デンソー：環境方針「エコビジョン2035」を策定、CO2回収や水素活用で環境価値創出へ",
-    "category": "技術",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "7:13",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43YmxZX29pY0xfUnpvUFRfVTZ1WjZjd01rcVJoYzJhQ2NfZVQ1U0pXVjVJM0Vpd0dvTFVySWRTTlRyc3Z5cWg2bXJLRENiX2ZVa0FLd2kzYXFwLWxpZW8yWnlrQUVRd1hkU0hPYUdyMEx1UQ?oc=5",
     "image": null
   }
 ]
