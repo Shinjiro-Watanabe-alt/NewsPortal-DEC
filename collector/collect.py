@@ -51,7 +51,18 @@ KEYWORDS = [
     "ゼロカーボン", "カーボンニュートラル", "省エネ", "排出量取引",
     "Jクレジット", "J-クレジット", "SAF", "e-fuel", "合成燃料",
 ]
-KEYWORD_RE = re.compile("|".join(re.escape(k) for k in KEYWORDS))
+def _keyword_pattern(keyword: str) -> str:
+    # "EV" 等の英数字のみのキーワードは単語境界を付けないと、"SEVENTEEN"のような
+    # 無関係な英単語の一部にも部分一致してしまう(実例: BTS関連PRがEV記事として混入)。
+    # 前後が英数字でない場合のみマッチさせることで誤検知を防ぐ。日本語キーワードは
+    # 英数字と隣接することがまず無いため対象外でよい。
+    escaped = re.escape(keyword)
+    if re.fullmatch(r"[A-Za-z0-9]+", keyword):
+        return r"(?<![A-Za-z0-9])" + escaped + r"(?![A-Za-z0-9])"
+    return escaped
+
+
+KEYWORD_RE = re.compile("|".join(_keyword_pattern(k) for k in KEYWORDS))
 KEYWORDS_SET = set(KEYWORDS)
 
 # カテゴリ自動分類（一致したら上書き、優先順位は上から）

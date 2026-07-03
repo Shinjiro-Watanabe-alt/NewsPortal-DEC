@@ -23,19 +23,8 @@
   },
   "headlines": [
     {
-      "id": "auto-971ca18b7cfb",
-      "rank": 1,
-      "title": "BTS登場！入場特典の詳細も情報解禁！「VISION FESTA」福岡会場は8月2日よりいよいよ開幕！",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "7/3(金) 6:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000451.000027592.html"
-    },
-    {
       "id": "auto-3c11e4ecbf87",
-      "rank": 2,
+      "rank": 1,
       "title": "【公募】飯田市：座光寺小学校にPPA太陽光を導入へ。災害時電源も見据え事業者を公募",
       "category": "自治体",
       "source": "みんなの広報宣伝部",
@@ -46,7 +35,7 @@
     },
     {
       "id": "auto-73c4a0b36d56",
-      "rank": 3,
+      "rank": 2,
       "title": "【脱炭素・SDGs・ESG】竹中工務店：電力CO2排出係数の将来シナリオを開発。建物のホールライフカーボン削減を支援",
       "category": "その他",
       "source": "みんなの広報宣伝部",
@@ -57,7 +46,7 @@
     },
     {
       "id": "auto-fe033dd8544a",
-      "rank": 4,
+      "rank": 3,
       "title": "東洋建設、ケーブル敷設船引き渡し 洋上風力向け国内最大級",
       "category": "その他",
       "source": "日刊工業新聞",
@@ -68,7 +57,7 @@
     },
     {
       "id": "auto-4d8a58b0b080",
-      "rank": 5,
+      "rank": 4,
       "title": "新任GX担当者が知っておきたい ソーラーシェアリングの基礎",
       "category": "その他",
       "source": "日本経済新聞",
@@ -79,7 +68,7 @@
     },
     {
       "id": "auto-dc97ac720ac1",
-      "rank": 6,
+      "rank": 5,
       "title": "東洋建設、洋上風力のケーブル敷設船が完成 日本で稼働",
       "category": "その他",
       "source": "日本経済新聞",
@@ -90,7 +79,7 @@
     },
     {
       "id": "auto-6a78663ad238",
-      "rank": 7,
+      "rank": 6,
       "title": "出光社長｢従来目標､挑戦的だった｣ 30年度GHG削減修正",
       "category": "企業",
       "source": "日本経済新聞",
@@ -101,7 +90,7 @@
     },
     {
       "id": "auto-c04e6e7feebc",
-      "rank": 8,
+      "rank": 7,
       "title": "港湾物流の脱炭素へ、Sustechが台湾展開",
       "category": "自治体",
       "source": "LOGISTICS TODAY",
