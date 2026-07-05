@@ -12,10 +12,6 @@
     "trend": ""
   },
   {
-    "keyword": "GX-ETS",
-    "trend": ""
-  },
-  {
     "keyword": "経営戦略",
     "trend": ""
   },
@@ -28,7 +24,11 @@
     "trend": ""
   },
   {
-    "keyword": "RE100",
+    "keyword": "GX-ETS",
     "trend": ""
+  },
+  {
+    "keyword": "SBTi",
+    "trend": "NEW"
   }
 ]
