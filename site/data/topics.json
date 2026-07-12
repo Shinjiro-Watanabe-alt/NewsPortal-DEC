@@ -23,41 +23,63 @@
   },
   "headlines": [
     {
-      "id": "auto-2e9046ee7414",
+      "id": "auto-2eb7431aa4a2",
       "rank": 1,
+      "title": "香川県、GX転換を加速させる坂出市番の州地区を海外企業向けピッチイベントでPR(日本) | ビジネス短信",
+      "category": "国際",
+      "source": "jetro.go.jp",
+      "time": "7/12(日) 15:01",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NWmxaQUVXTlMyUzlHSjVSWUJPVGYtSjhBam5jUnprUnQtYmQwb0FweEtydkNfYXI1YlUtXzNZYjJmWDZFeGV0NkJXdDc2OW13NHBXTU5Sa0x3WTJ2MHkyakpMdFZINlp5NVkxOVhR?oc=5"
+    },
+    {
+      "id": "auto-b95f8ad1ab7e",
+      "rank": 2,
+      "title": "海底送電：洋上風力発電を実現するために必要なインフラ。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "7/12(日) 14:45",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemx2Z2Z0Y09lV1NPVTJneE95a2hmamtHX2tRcFlDV2NQbHZ2NzZNRDRFTDFqNnJkNEpONTNTck5DcFJxWnNpaklJU1VmZmJVd2JPQkxSWVZoLXhRc1VpMFZIY2JwTDlqOWg5QlRva2NXVE0ycTBIR2NmZVhrQ25XV2FCUWIxNVhDRFVsY0xkd2xJR3ZYbWMxVDBlMXV2RmpX?oc=5"
+    },
+    {
+      "id": "auto-2e9046ee7414",
+      "rank": 3,
       "title": "2026年8月にパーム油と太陽光発電所を管理するKDMPを公式に立ち上げる準備ができた協同組合大臣",
       "category": "その他",
       "source": "VOI.id",
       "time": "7/12(日) 13:24",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95enJoVW1feDZxWmU5bE03VERGTjE4NDk0NGtYMDNrX1BCRmVBNm9pRlBDLW9DVkpvNnpWeW4zRmxKRUQ4enfSAUJBVV95cUxOaFByNGluZ1FPakc0YjhPWVNuNFhGUk8wQkRWaWkyanVicXRqdTI4ZlFhenhLWTRBNm14LWdsbnV2bGc?oc=5"
     },
     {
       "id": "auto-41f5b02b4dc1",
-      "rank": 2,
+      "rank": 4,
       "title": "ホーチミン市は、カンジオに一連の風力発電プロジェクトを追加し、ロンソンにエネルギーセンターを設立することを提案している。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "7/12(日) 12:24",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEpyeUR4QksxU3VualdEb3lGUkIwaVpTRWV2YmxLblc3VEFLdEhNRS1xNVRXVEh1Nkh2VUQ4SlFJV0NtQXdqVTdiMGxpbUdRNVZkYnhsRm84WU5RMXU1UEdNVy1Ba3dqbjdRMERPdExOakV5a0tJZHY0Sm8zbERRc0N5T0lUWnFuQTJaaDFaOFF1V0l4TUJ3Yk5lZmRhNmlFZ3pGVUlTbm9GVTl2dFFGZkZwWkpkMjl5d3NFZTBMZHI?oc=5"
     },
     {
       "id": "auto-73b06e815d0d",
-      "rank": 3,
+      "rank": 5,
       "title": "風力のコーティングの市場展望、要求および未来の規模",
       "category": "その他",
       "source": "Spherical Insights",
       "time": "7/12(日) 10:58",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRa1BuSms4MmhFNUZ1NWtwYmMyVnJkbG5Bdk1iMF84YzU3eTJEWjFRTVRCRVp2VnBvUWVLYS1MZzI3dVBGU01hbnFhUjRPQU15Sm8tYlFpZWZuaXdFbDFvcGk5aW80SVNxRnB1S3E3dGpXM3ZUa0w4Tk93?oc=5"
     },
     {
       "id": "auto-ad0ecb649948",
-      "rank": 4,
+      "rank": 6,
       "title": "関電が原子力ＰＰＡ／国内初、脱炭素要請に応え –",
       "category": "その他",
       "source": "電気新聞ウェブサイト",
@@ -68,7 +90,7 @@
     },
     {
       "id": "auto-76d1dab053cb",
-      "rank": 5,
+      "rank": 7,
       "title": "タイ・グエン市には1,511基の屋上太陽光発電設備がある。",
       "category": "その他",
       "source": "Vietnam.vn",
@@ -79,7 +101,7 @@
     },
     {
       "id": "auto-c625cc7c5ad0",
-      "rank": 6,
+      "rank": 8,
       "title": "中国の太陽光発電大手、日本グリーン電力の転換・高度化を後押し",
       "category": "国際",
       "source": "36Kr Japan",
@@ -87,28 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLOFNJZ2tOUHpwVDNqTFhyYVc3WmdBM0RjdVVpTEIxbG1wSDM4OE8xNDFoVmhWMU9CVXI4?oc=5"
-    },
-    {
-      "id": "auto-3132d864175a",
-      "rank": 7,
-      "title": "あいテレビ×TOMUSHI カブトムシを軸にした脱炭素×地域資源循環のビジネスをスタート～令和８年度愛媛県ゼロカーボン・ビジネスモデル創出事業に採択～",
-      "category": "自治体",
-      "source": "山陽新聞",
-      "time": "7/12(日) 9:30",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JeTJKWFFTeGZvNG1zS0NhbTFkbm9QUFFyckRaLXVIdmZWN3UxRXBRdm5OdFVVUXdHOWh4clU2MnpCY2FfaVJhTEFacXFNMVBiZHc?oc=5"
-    },
-    {
-      "id": "auto-28e129fb3c99",
-      "rank": 8,
-      "title": "EVガーデンで行われた「ふくしまエコ探検隊」の結成式の様子を、ソーラーポストがレポートします?当日は馬場市長も出席され、これか... - gurutto-fukushima.com",
-      "category": "その他",
-      "source": "検索: 洋上風力・太陽光",
-      "time": "7/12(日) 9:28",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vM0psZXdOYlh6T21vbHRZa0tNT0JNUXJIZVJDaUlmZERhT2xEUXNhcjBOOVVmOGJGVUVwQm9aOWYxaERwMEUyZTBJTWhRb0FMZVhURURXRWZnU2hWdGpYYzRxRUVWUmhKNWhqTWNHbzlsbS10bjd3eU1lQ2Y?oc=5"
     }
   ]
 }
