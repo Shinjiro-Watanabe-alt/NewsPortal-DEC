@@ -16,48 +16,59 @@
     "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、自らが噴気試験を含む掘削調査を実施する「地熱フロンティアプロジェクト」の候補地として北海道上川町を選定しました。 地熱発電は、天候に左右されずに...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/12(日) 22:10",
+    "time": "7/13(月) 4:10",
     "comments": 0,
     "source_url": "https://prtimes.jp/main/html/rd/p/000000884.000012624.html",
     "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-2eb7431aa4a2",
+      "id": "auto-cb255ff35557",
       "rank": 1,
+      "title": "トラックはバッテリーvs水素で激突… Hyundai、乗用ハイブリッドでBYDの攻勢を正面突破",
+      "category": "技術",
+      "source": "BigGo ファイナンス",
+      "time": "7/12(日) 16:55",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NczRwWVhzbmlhNGxOd1BWZ2tIYUlIenFEQ2Y0Rzg3UEVqMXlmVW1IdjcyZ21kVFpTcXd6Rmprajkyb0QzdXdwRFlXc1RVU09ZS1R6R29HNDR0Vk9Yd01FdndPQjBtenowYzVmWlEyS3psa1JE?oc=5"
+    },
+    {
+      "id": "auto-2eb7431aa4a2",
+      "rank": 2,
       "title": "香川県、GX転換を加速させる坂出市番の州地区を海外企業向けピッチイベントでPR(日本) | ビジネス短信",
       "category": "国際",
       "source": "jetro.go.jp",
       "time": "7/12(日) 15:01",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NWmxaQUVXTlMyUzlHSjVSWUJPVGYtSjhBam5jUnprUnQtYmQwb0FweEtydkNfYXI1YlUtXzNZYjJmWDZFeGV0NkJXdDc2OW13NHBXTU5Sa0x3WTJ2MHkyakpMdFZINlp5NVkxOVhR?oc=5"
     },
     {
       "id": "auto-b95f8ad1ab7e",
-      "rank": 2,
+      "rank": 3,
       "title": "海底送電：洋上風力発電を実現するために必要なインフラ。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "7/12(日) 14:45",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemx2Z2Z0Y09lV1NPVTJneE95a2hmamtHX2tRcFlDV2NQbHZ2NzZNRDRFTDFqNnJkNEpONTNTck5DcFJxWnNpaklJU1VmZmJVd2JPQkxSWVZoLXhRc1VpMFZIY2JwTDlqOWg5QlRva2NXVE0ycTBIR2NmZVhrQ25XV2FCUWIxNVhDRFVsY0xkd2xJR3ZYbWMxVDBlMXV2RmpX?oc=5"
     },
     {
       "id": "auto-2e9046ee7414",
-      "rank": 3,
+      "rank": 4,
       "title": "2026年8月にパーム油と太陽光発電所を管理するKDMPを公式に立ち上げる準備ができた協同組合大臣",
       "category": "その他",
       "source": "VOI.id",
-      "time": "7/12(日) 13:24",
+      "time": "7/12(日) 13:26",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95enJoVW1feDZxWmU5bE03VERGTjE4NDk0NGtYMDNrX1BCRmVBNm9pRlBDLW9DVkpvNnpWeW4zRmxKRUQ4enfSAUJBVV95cUxOaFByNGluZ1FPakc0YjhPWVNuNFhGUk8wQkRWaWkyanVicXRqdTI4ZlFhenhLWTRBNm14LWdsbnV2bGc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oUHI0aW5nUU9qRzRiOE9ZU240WEZSTzBCRFZpaTJqdWJxdGp1MjhmUWF6eEtZNEE2bXgtZ2xudXZsZ9IBQkFVX3lxTE5oUHI0aW5nUU9qRzRiOE9ZU240WEZSTzBCRFZpaTJqdWJxdGp1MjhmUWF6eEtZNEE2bXgtZ2xudXZsZw?oc=5"
     },
     {
       "id": "auto-41f5b02b4dc1",
-      "rank": 4,
+      "rank": 5,
       "title": "ホーチミン市は、カンジオに一連の風力発電プロジェクトを追加し、ロンソンにエネルギーセンターを設立することを提案している。",
       "category": "その他",
       "source": "Vietnam.vn",
@@ -68,7 +79,7 @@
     },
     {
       "id": "auto-73b06e815d0d",
-      "rank": 5,
+      "rank": 6,
       "title": "風力のコーティングの市場展望、要求および未来の規模",
       "category": "その他",
       "source": "Spherical Insights",
@@ -79,7 +90,7 @@
     },
     {
       "id": "auto-ad0ecb649948",
-      "rank": 6,
+      "rank": 7,
       "title": "関電が原子力ＰＰＡ／国内初、脱炭素要請に応え –",
       "category": "その他",
       "source": "電気新聞ウェブサイト",
@@ -90,7 +101,7 @@
     },
     {
       "id": "auto-76d1dab053cb",
-      "rank": 7,
+      "rank": 8,
       "title": "タイ・グエン市には1,511基の屋上太陽光発電設備がある。",
       "category": "その他",
       "source": "Vietnam.vn",
@@ -98,17 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hWjNMbEhLNTMtY2Z1SXBMdFVTZUVsdm9xSzFqU3NVTkxXcVFyUFZBZmJ2UTVqalBncUZLUDc0WXZoZjNVLUMzR1dNNkdvbzhlQVl3NW9DMXJIa1NfSlozMlA3ekt6dTNEYURVaFVBekhxdzBtcC1yUTZBV21Ld0k?oc=5"
-    },
-    {
-      "id": "auto-c625cc7c5ad0",
-      "rank": 8,
-      "title": "中国の太陽光発電大手、日本グリーン電力の転換・高度化を後押し",
-      "category": "国際",
-      "source": "36Kr Japan",
-      "time": "7/12(日) 9:32",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLOFNJZ2tOUHpwVDNqTFhyYVc3WmdBM0RjdVVpTEIxbG1wSDM4OE8xNDFoVmhWMU9CVXI4?oc=5"
     }
   ]
 }
