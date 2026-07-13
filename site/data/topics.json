@@ -11,53 +11,86 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-5671e521286e",
-    "title": "水田で営農型太陽光発電に取り組む「SAVE THE FARMS by YANMAR SHIGA RITTO」が滋賀県に開所",
-    "summary": "水田で営農型太陽光発電に取り組む「SAVE THE FARMS by YANMAR SHIGA RITTO」が滋賀県に開所&nbsp;&nbsp;農業とITの未来メディア",
-    "category": "その他",
-    "source": "農業とITの未来メディア",
-    "time": "7/13(月) 17:03",
+    "id": "auto-408a720ee400",
+    "title": "地熱フロンティアプロジェクト、候補地として北海道上川町を選定",
+    "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、自らが噴気試験を含む掘削調査を実施する「地熱フロンティアプロジェクト」の候補地として北海道上川町を選定しました。 地熱発電は、天候に左右されずに...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "7/14(火) 4:10",
     "comments": 0,
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oUFN5TUxHLUF2TTBQSTJEU3VDVHNVQUx3dk9KYko1d3Z2V0VOOHJwTTlSdzVCemVYbENiOXV0dUhWczI3Vk5RLVp4cw?oc=5",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000884.000012624.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-604f4e29f29f",
+      "id": "auto-56c42fe1767c",
       "rank": 1,
+      "title": "パワーセル、カリフォルニアのAIデータハブ向けに3000万クローナの水素燃料電池を受注",
+      "category": "技術",
+      "source": "BigGo ファイナンス",
+      "time": "7/13(月) 18:05",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PdDFsdFRod2c5YmpkUmlWMDZTWEJtRERELUJrd0RmN0R0RTRkM21RVl9VWWprNFRGNDJmSGI5d0lzRjhwNjhBUTBCRG1mVVNIWjkxLTlVSllZckxjeUFoWXVObllpU3RtZVFJTVRsWWx0Tmxt?oc=5"
+    },
+    {
+      "id": "auto-c625cc7c5ad0",
+      "rank": 2,
+      "title": "中国の太陽光発電大手、日本グリーン電力の転換・高度化を後押し",
+      "category": "国際",
+      "source": "36Kr Japan",
+      "time": "7/13(月) 18:02",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLOFNJZ2tOUHpwVDNqTFhyYVc3WmdBM0RjdVVpTEIxbG1wSDM4OE8xNDFoVmhWMU9CVXI4?oc=5"
+    },
+    {
+      "id": "auto-5671e521286e",
+      "rank": 3,
+      "title": "水田で営農型太陽光発電に取り組む「SAVE THE FARMS by YANMAR SHIGA RITTO」が滋賀県に開所",
+      "category": "その他",
+      "source": "農業とITの未来メディア",
+      "time": "7/13(月) 17:03",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oUFN5TUxHLUF2TTBQSTJEU3VDVHNVQUx3dk9KYko1d3Z2V0VOOHJwTTlSdzVCemVYbENiOXV0dUhWczI3Vk5RLVp4cw?oc=5"
+    },
+    {
+      "id": "auto-604f4e29f29f",
+      "rank": 4,
       "title": "徳島で水素エンジンHV公道実証",
       "category": "技術",
       "source": "日本経済新聞",
-      "time": "7/13(月) 16:51",
-      "tag": "NEW",
+      "time": "7/13(月) 16:52",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2NEeGtyMXdmWldMLWEyUGhSTGswc0dva1VTVVRnc1VWcXZQMnM5OVNSYTVuSFNHU3d1cThzaWYtWDFpeUdmNEViaGZUTTF3S1gwRjV3cjdYQjdHZ0dJOXhiOWVLMGl1NDJSaldRME81eGJjc0FpZnl2dW5obWl4SU0welYzMTBBd0UwdkhFLW9lbkNOcXhkNUV1RFczR1FDWkE?oc=5"
     },
     {
-      "id": "auto-126184e9d920",
-      "rank": 2,
-      "title": "eMAXIS Neo 水素エコノミー【03312223】：基準価格・投資信託情報",
+      "id": "auto-e6c9f4666633",
+      "rank": 5,
+      "title": "川崎臨海部における国内初の高圧水素パイプラインのEPC（設計・調達・建設）契約締結について",
       "category": "技術",
-      "source": "Yahoo!ファイナンス",
-      "time": "7/13(月) 16:10",
+      "source": "ニコニコニュース",
+      "time": "7/13(月) 16:15",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zbHZzaEFGai0wY3M5OXRYT2ZnV3ltcGR2T1NkVlFkdWRKbzZoY05BWVg1ZGxfYUNKMUNFQk42R2RjN3JtMFVWVEd0OGF0b0NzMHJ4ZQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93XzlhUDUtZHhQLWZRNmFjbjItNEVQdUFGc3BmSTdkcWMtQkR2RkNtSlBpNmZheW5CY2VlUnBpT3lESEVqRURpVGRPZHZ0TGpjaF81SE1tVnlrWmpwRzBENE4wR2Z1QTF3bE1yRUJPbTN0Wm9LV1E?oc=5"
     },
     {
       "id": "auto-ca20c1dfacc7",
-      "rank": 3,
+      "rank": 6,
       "title": "欧州のエアバスが、航空機エンジンメーカーのMTUエアロ・エンジンズと、民間航空機向けの水素燃料電池推進システム開発で合弁設立（RIEF）",
       "category": "技術",
       "source": "一般社団法人環境金融研究機構",
       "time": "7/13(月) 15:55",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Ha28tUzgwcVUtZXNPN1hnRG9IbTA2ejVaUzdXajF4VnNla25udGRKSkdiUXMwM3ZOMFN2bU9Ya29Eb1lOWUE?oc=5"
     },
     {
       "id": "auto-13d3921358ac",
-      "rank": 4,
+      "rank": 7,
       "title": "清涼飲料特集：変革期迎える自販機＝アサヒ飲料 脱炭素社会へ「CO2を食べる」",
       "category": "その他",
       "source": "日本食糧新聞・電子版",
@@ -68,7 +101,7 @@
     },
     {
       "id": "auto-8d5b8325c890",
-      "rank": 5,
+      "rank": 8,
       "title": "国土交通省 15日に航空脱炭素化会議 | 航空 | ニュース - daily-cargo.com",
       "category": "その他",
       "source": "検索: 脱炭素・カーボンニュートラル",
@@ -76,39 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wUkFYbFJwOXF1cG1yakZ5MHFHQ3BmS0JvajhNVUhqOEJyc25Sd0VCb2Z4c2I0WjItNG9mZkJzX2xNYkZhUHgydnRjeFlnZjMtWUVMMUN1WnZnZUtaNzF0bFBnWEszbUNS?oc=5"
-    },
-    {
-      "id": "auto-3fd14bb6b726",
-      "rank": 6,
-      "title": "再エネ設備導入支援のエブリーラボ 空き家に〝第3の選択肢〟 蓄電池拠点へ転用 分散型ネットワーク構築 初年度100件、3年間で100メガワット時規模 - jutaku-s.com",
-      "category": "その他",
-      "source": "検索: 系統用蓄電池",
-      "time": "7/13(月) 15:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CSy15NEdpYmdzc2lMQVRUc1BlNk82V2VEWGY0QTkzalc1eTh1bnBUcmJ0UGhIZDRydy15RFQ0RzRFR0MyZDloU0FiYi1VZ0VzcFFNZk9MYw?oc=5"
-    },
-    {
-      "id": "auto-c625cc7c5ad0",
-      "rank": 7,
-      "title": "中国の太陽光発電大手、日本グリーン電力の転換・高度化を後押し",
-      "category": "国際",
-      "source": "36Kr Japan",
-      "time": "7/13(月) 14:59",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLOFNJZ2tOUHpwVDNqTFhyYVc3WmdBM0RjdVVpTEIxbG1wSDM4OE8xNDFoVmhWMU9CVXI4?oc=5"
-    },
-    {
-      "id": "auto-4e274b89efe8",
-      "rank": 8,
-      "title": "碧南発電所でのアンモニア燃料転換、需要に応じタンク建設 JERA奥田社長：ニュース",
-      "category": "技術",
-      "source": "中日BIZナビ",
-      "time": "7/13(月) 14:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSEtCVV9OQVUzdHhaMF9PSkZEZDZucGV2UU51SXNKbk0tdnFQWFhVbXBQS3QzN2dDUm9JT1dzLW9fWUh2M2tQR2lhYjNhaXhfa2c5WV91TzNfOGZ2dzUw?oc=5"
     }
   ]
 }
