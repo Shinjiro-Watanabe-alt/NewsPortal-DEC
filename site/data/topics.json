@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-fb63b09f7c0c",
-    "title": "海上に浮かぶ「浮遊軸型風車」の実証がスタート 長崎県壱岐市で",
-    "summary": "垂直軸型風車と円筒浮体が一体で回転する構造を採用した、新たな風力発電システムの実証がスタートした。",
-    "category": "技術",
-    "source": "ITmedia スマートジャパン",
-    "time": "7/14(火) 16:30",
+    "id": "auto-408a720ee400",
+    "title": "地熱フロンティアプロジェクト、候補地として北海道上川町を選定",
+    "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、自らが噴気試験を含む掘削調査を実施する「地熱フロンティアプロジェクト」の候補地として北海道上川町を選定しました。 地熱発電は、天候に左右されずに...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "7/15(水) 4:40",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/14/news100.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2607/14/cover_news100.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000884.000012624.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-e78508a91a43",
+      "id": "auto-3d45a49d9a8d",
       "rank": 1,
+      "title": "【DMM EV ON】アプリ会員の充電料金を7月14日（火）より大幅値下げ！業界最安水準を目指した新価格へ改定",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/15(水) 4:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000005077.000002581.html"
+    },
+    {
+      "id": "auto-e24af65c7c84",
+      "rank": 2,
+      "title": "「Parallel Plastics」、再生プラ製品に“素材の来歴とCO2”を示す「素材来歴・環境負荷証明書」を標準添付開始 - 改正資源有効利用促進法・ESG開示を後押し",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/15(水) 4:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001663.000009971.html"
+    },
+    {
+      "id": "auto-423b78833ee5",
+      "rank": 3,
+      "title": "『 最強の国策ビジネス「系統用蓄電池」が稼げる理由 』上野悟 著 読書会開催のお知らせ",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/15(水) 3:40",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000004.000183816.html"
+    },
+    {
+      "id": "auto-4e35d0203def",
+      "rank": 4,
+      "title": "夏場の空調消費電力を最大38％削減する「GXマット」が特許取得",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/15(水) 3:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000004.000146314.html"
+    },
+    {
+      "id": "auto-707e6e0fcac9",
+      "rank": 5,
+      "title": "オランダの洋上風力から初送電／中部電力が出資、年末全面運開へ –",
+      "category": "その他",
+      "source": "電気新聞ウェブサイト",
+      "time": "7/14(火) 18:47",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zZWoyTWIwV09lX3lIdGoxZ0NXbkhnSGowUldEeUxDcUVwdjhQa2xlYjR3Vkczc2VLX1RQVWtsaVNlNHVZWEFYWHRYNTJNbXJhODNqLTZQYw?oc=5"
+    },
+    {
+      "id": "auto-a0845eff5471",
+      "rank": 6,
+      "title": "ゼロカーボンの取組みをさらに加速させます",
+      "category": "技術",
+      "source": "ニコニコニュース",
+      "time": "7/14(火) 18:45",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lWmhybzA0aUg3SUswYmZxT2o1V2R1cTdSZjdRa3hxUERDWC15Nlp5eFZsLUI0bzQ3cmlTMXdaQXNPemhjR2E5TGxLdjRZa0l4UE03N1hVVEtIaUxPSlh2VWpHSzNGRFFoYmhmYlFiTUllQ1QwX2N2bjFRTQ?oc=5"
+    },
+    {
+      "id": "auto-fb63b09f7c0c",
+      "rank": 7,
+      "title": "海上に浮かぶ「浮遊軸型風車」の実証がスタート 長崎県壱岐市で",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "7/14(火) 16:30",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/14/news100.html"
+    },
+    {
+      "id": "auto-e78508a91a43",
+      "rank": 8,
       "title": "太陽光発電充電ステーションを利用して、イングランド各地を旅しよう。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "7/14(火) 14:46",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFNEN1pMRVlxd01UWkQ0Q1dpUC1UWVIxal9OYW1VeXVOLTlmLVBBNUdMWEdiRnVNSEtxc2VwMW93R0tuc3E0enlKUUlXN0xUSGhvNjJLRHNvcWxueDNXR2VPYWtxdWxtTVQ1YU83LXc4dnlTa1c4MDQycDVyVEd4NHAycw?oc=5"
-    },
-    {
-      "id": "auto-de86ee4637cf",
-      "rank": 2,
-      "title": "独自工法「ヒナタオ軽量接着工法」のライセンス認定制度の導入について～施工体制の強化により設置困難な建物への太陽光発電設備導入を加速～",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "7/14(火) 13:48",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DYl9qeUxFcHdjX1RrVmRlSWFMbkFmVUFhXzRFcXhraElTT21ueUdQYS1oU0V1YzZIWUwyUm10VWpjdjVRYWk1N1pKbzBhX0FHZElVS05TRUZhUVdjWWE0NGxjWTlwdmtpS3k4SHh4VVgwc2U5N3JlNFkyNA?oc=5"
-    },
-    {
-      "id": "auto-02f1c0f9ef9b",
-      "rank": 3,
-      "title": "洋上風力発電事業 秋田・鈴木知事が定着誓う＜取材メモらんだむ＞",
-      "category": "その他",
-      "source": "河北新報オンライン",
-      "time": "7/14(火) 13:34",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CQ3JTU2xvSmpTZDNPbnZzMFhjaWRLdHRHZGR5NXhpeDVqaVVqMjY3WFQtZFBzUW1uYXRfX01nS2ctck0tVlV5Sk1ha2Qxak9TZmdGUzN6OVhXaWRlVVlkQw?oc=5"
-    },
-    {
-      "id": "auto-49aeb6c0342c",
-      "rank": 4,
-      "title": "浮体式洋上風力、過酷環境で技術実証 経産省が15日から海域公募",
-      "category": "その他",
-      "source": "北海道新聞デジタル",
-      "time": "7/14(火) 13:06",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95eE52UmNhUDgySWdmaVdCUlZHeTk5T0g4a1JjNHBleWFwRklWLU14SXhsNlV0dzFacDFBS1dKUWJoclFJc3Fpa1ZKcVZPQ0JyOFRlSUtwMFlzUQ?oc=5"
-    },
-    {
-      "id": "auto-3c079a4bc6c4",
-      "rank": 5,
-      "title": "屋上太陽光発電：政策的な後押しにより成長が加速。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "7/14(火) 13:05",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFY4MUpWcGdsMWdCTnE1d3prVHN0UjlMVUxpbWNDbGNmNUY5Y3JqQzN5NENpOHlPYzA2MExwa291ZTFNQjIxc0p3WU5Udm1XYThWcXl0cTd2RXU3OTFQS3NVSllidmN0ZmpTRzc4U0RsVS1tUTVnR09SODZyTi1SNmJ2Unk?oc=5"
-    },
-    {
-      "id": "auto-a9c6a248eccd",
-      "rank": 6,
-      "title": "大動脈構想に第3世代FCシステム...仲間と築く水素社会の未来",
-      "category": "技術",
-      "source": "トヨタイムズ",
-      "time": "7/14(火) 11:46",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qbUtfZVZVMklSWmN5NXVXcGZLNnhpWFkzMjhtOUZWTTJIc0tvbF9TM2NUVnV4eElGTkl2SGxmV0dTYmFtX3I5YnpjSHlBeW9DSW9zdnk3bDVDQXhQMXdIMC1uN3ZKMXdFUnVLeGd5b2hMZw?oc=5"
-    },
-    {
-      "id": "auto-ee6142300460",
-      "rank": 7,
-      "title": "脱炭素社会へ長野県と237社加盟の企業グループが連携協定 キャンペーンなど展開",
-      "category": "その他",
-      "source": "信濃毎日新聞デジタル",
-      "time": "7/14(火) 11:46",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MS05JaGt6ZHhfXzdSb2EyVll4cG5MLWxtTll3VktCOThMLVZCc01IOUhVUTJoMFdnZzhJQnBya1lPVFBtblB3ZHZEV0hZeWFfdHdJS2ZiYm9DSmRxVFA4eGk4RVFndzlkampwcG85Nk0?oc=5"
-    },
-    {
-      "id": "auto-09f8e044b645",
-      "rank": 8,
-      "title": "鈴木知事 ヨーロッパ訪問で洋上風力発電関連は「着実に前進」生産拠点誘致に向けて期待感 ／ スタジアム整備は県と市が足並みをそろえ企業版ふるさと納税を活用へ 秋田",
-      "category": "国際",
-      "source": "ライブドアニュース",
-      "time": "7/14(火) 11:09",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWTF1aEpSLWNQYVU4cmlPXzJxdWRiYnJILVVxcEJPdEU5b09fM1JKSHNUbWlPc3lzeEZ3STJjY2MwTm9RR3Fkemo5aE9rR2MtSW40SmJjZlBobjBXYUUw?oc=5"
     }
   ]
 }
