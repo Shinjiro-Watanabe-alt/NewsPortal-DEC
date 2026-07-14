@@ -1,23 +1,83 @@
 [
   {
-    "id": "auto-a0845eff5471",
-    "title": "ゼロカーボンの取組みをさらに加速させます",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "18:15",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000001473.000017557.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/17557/1473/17557-1473-9514ecbaf4df611a9ea11f3a55790e9b-1184x704.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-fb63b09f7c0c",
     "title": "海上に浮かぶ「浮遊軸型風車」の実証がスタート 長崎県壱岐市で",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ITmedia スマートジャパン",
     "time": "16:30",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/14/news100.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2607/14/cover_news100.jpg"
+  },
+  {
+    "id": "auto-de86ee4637cf",
+    "title": "独自工法「ヒナタオ軽量接着工法」のライセンス認定制度の導入について～施工体制の強化により設置困難な建物への太陽光発電設備導入を加速～",
+    "category": "その他",
+    "accent": true,
+    "source": "ニコニコニュース",
+    "time": "13:48",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DYl9qeUxFcHdjX1RrVmRlSWFMbkFmVUFhXzRFcXhraElTT21ueUdQYS1oU0V1YzZIWUwyUm10VWpjdjVRYWk1N1pKbzBhX0FHZElVS05TRUZhUVdjWWE0NGxjWTlwdmtpS3k4SHh4VVgwc2U5N3JlNFkyNA?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/21766/1463/21766-1463-4d87e8f69bbbf9780ce84fcc5dcc04dc-506x247.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-02f1c0f9ef9b",
+    "title": "洋上風力発電事業 秋田・鈴木知事が定着誓う＜取材メモらんだむ＞",
+    "category": "その他",
+    "accent": false,
+    "source": "河北新報オンライン",
+    "time": "13:34",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CQ3JTU2xvSmpTZDNPbnZzMFhjaWRLdHRHZGR5NXhpeDVqaVVqMjY3WFQtZFBzUW1uYXRfX01nS2ctck0tVlV5Sk1ha2Qxak9TZmdGUzN6OVhXaWRlVVlkQw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-49aeb6c0342c",
+    "title": "浮体式洋上風力、過酷環境で技術実証 経産省が15日から海域公募",
+    "category": "その他",
+    "accent": false,
+    "source": "北海道新聞デジタル",
+    "time": "13:06",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95eE52UmNhUDgySWdmaVdCUlZHeTk5T0g4a1JjNHBleWFwRklWLU14SXhsNlV0dzFacDFBS1dKUWJoclFJc3Fpa1ZKcVZPQ0JyOFRlSUtwMFlzUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a9c6a248eccd",
+    "title": "大動脈構想に第3世代FCシステム...仲間と築く水素社会の未来",
+    "category": "技術",
+    "accent": true,
+    "source": "トヨタイムズ",
+    "time": "11:46",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qbUtfZVZVMklSWmN5NXVXcGZLNnhpWFkzMjhtOUZWTTJIc0tvbF9TM2NUVnV4eElGTkl2SGxmV0dTYmFtX3I5YnpjSHlBeW9DSW9zdnk3bDVDQXhQMXdIMC1uN3ZKMXdFUnVLeGd5b2hMZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ee6142300460",
+    "title": "脱炭素社会へ長野県と237社加盟の企業グループが連携協定 キャンペーンなど展開",
+    "category": "その他",
+    "accent": false,
+    "source": "信濃毎日新聞デジタル",
+    "time": "11:46",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MS05JaGt6ZHhfXzdSb2EyVll4cG5MLWxtTll3VktCOThMLVZCc01IOUhVUTJoMFdnZzhJQnBya1lPVFBtblB3ZHZEV0hZeWFfdHdJS2ZiYm9DSmRxVFA4eGk4RVFndzlkampwcG85Nk0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-09f8e044b645",
+    "title": "鈴木知事 ヨーロッパ訪問で洋上風力発電関連は「着実に前進」生産拠点誘致に向けて期待感 ／ スタジアム整備は県と市が足並みをそろえ企業版ふるさと納税を活用へ 秋田",
+    "category": "国際",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "11:09",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWTF1aEpSLWNQYVU4cmlPXzJxdWRiYnJILVVxcEJPdEU5b09fM1JKSHNUbWlPc3lzeEZ3STJjY2MwTm9RR3Fkemo5aE9rR2MtSW40SmJjZlBobjBXYUUw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9b8c86407799",
+    "title": "家庭部門の脱炭素化に向けた新たな官民連携・業界横断の取り組み「ガス石油省エネ給湯機普及促進会議（スマいる給湯プロジェクト）」設立",
+    "category": "暮らし",
+    "accent": true,
+    "source": "北海道新聞デジタル",
+    "time": "11:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDZkaG5fcDRZX3ZYdVNLemF6eFBoUG56UTI4NkF6cmE1UU1UcFlueVVWczRJbU9fWXJZSWtuZEstNURYaVBucHd3ZjBuT2pVTHhtdGdUaEpFYnM1M093bXZyQWtMcTQycTFodmQySG0wd0QzQXNhYVgwM1hZMGZfeURDWW03aUJf?oc=5",
+    "image": null
   },
   {
     "id": "auto-793e94a61052",
@@ -50,16 +110,6 @@
     "image": null
   },
   {
-    "id": "auto-09f8e044b645",
-    "title": "鈴木知事 ヨーロッパ訪問で洋上風力発電関連は「着実に前進」生産拠点誘致に向けて期待感 ／ スタジアム整備は県と市が足並みをそろえ企業版ふるさと納税を活用へ 秋田 (2026年7月14日掲載)",
-    "category": "国際",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "10:29",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95aXZjVWZESDRLRUQ4ZGhlQW0wendlS2dER1hqMHRDbTR2Q2dSYU96OFhvR1huMmlwckNYSjhWcjQwdmx0Rm9NcW5sVDg5NFNnb1k1OHROSXdTcTlreFE?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-d65b42f000d4",
     "title": "水素ハイブリッド電車、営業運転へ 27年度末にJR鶴見線と南武線",
     "category": "技術",
@@ -73,10 +123,30 @@
     "id": "auto-67f84fa3bb07",
     "title": "洋上風力関連のヨーロッパ視察踏まえ 鈴木知事 関連企業誘致へ「秋田の優位性・可能性をさらにアピール」",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Excite エキサイト",
     "time": "10:12",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzWVJWMDNTLXhkSVg0MHV5a0hGMFpYOHdQSXRrNVRuelNETlZFSi02cmx2RElRRUo0WUdrTzBvSHY5aDFxU1FUeGZnS0JwZENvV2JVOXlkVnFBNVFGWTRGcm16YU9UYi1WRUEwQmd3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d75bcdc34cf5",
+    "title": "日本製鉄とJFEスチールの電炉投資が加速、製鉄脱炭素は競争力維持の焦点に",
+    "category": "企業",
+    "accent": true,
+    "source": "Traders Union",
+    "time": "10:08",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2dxZHptcVVVUnNaYlJ2M3JxVlVyWjJwRmZPTDdsUGFHaDh2TXg5WkdZci1EVnd2SXd4ZHoyQ2RJSXBROHVwa3YzWjctRTRmU0pTMUc4YzQxb2RuaW5UY3hXR0NkLUpxWWhGOUJ2eUVfLW9pXzZsS0FtUi1oc1MwcHo2azJnRGU5RzhqZUlQYVRkYVBTamtVU2VtQ1VNLWg5NkhjTXlJaFpKaFowcW55dw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3fe1f1e7eb44",
+    "title": "【太陽光発電】JFE商事、いちご栽培ハウス内における実証試験開始",
+    "category": "その他",
+    "accent": false,
+    "source": "ctiweb.co.jp",
+    "time": "10:01",
+    "source_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPRXFEWTRJYXZLdlpzMTdXRG9namdDdzhsVHNQMVdKZFF2OG1SSFRCYlhnWkRQemhLX0ZoWEFyQXFWTkJtZEdEZ2c5VXB0TFVpNXhqUHFXc19zbHowcEkwbWdEdzVQUzV6c0Zzd0EzSTE2V0E3OFBleVBsLTh6ZVZ0VmQ5YkhiTENRdHRUWlV6cmdxOHN6aDhnQm80d0FVdEd5MHZScUVqQ3M1RlhROTE0T0RTUkFHMFQ4Nkw1MjVfTV8tc3FkMWV0NWk3RW53elN0UU9qUTl0QmhDdm1qR1RJQzBmd1FzRDluc2swbGEwejBIeEN0UC1TdjdMNmg0WEhVelFRXzlELW9SN2UxNGN6cVpkUjktVDR3Q3dCaFBpay1fNWdXc1RsNEU0SGlIV2dHWnZhZ2lkSkpfZ0o3RWV1aFpiWmRHQ214QXZpc1pB?oc=5",
     "image": null
   },
   {
@@ -93,7 +163,7 @@
     "id": "auto-745bd21b049d",
     "title": "TAOKE ENERGY、岐阜県各務原市で2MW高圧蓄電所の系統連系を完了",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "10:00",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nSWx5cGtPNW9RM2NQOWxHRzhQaWsza2pyNmtrS3ZxRXR2S3NpN2kxb19TZmw2SlBldTRISDFzZEtSNVR1R1JnSm82blJZUVRXeDU5N3pxMGdfc2o0d01nUVlRc0NRYVdY?oc=5",
@@ -103,7 +173,7 @@
     "id": "auto-9c0e271a9b64",
     "title": "［社説］製鉄の脱炭素に不退転で挑め",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "日本経済新聞",
     "time": "10:00",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYl9iQUZPRzdGZnYydmk3MGRVN0pCUTJSQjNJZ0ZjWTU1QlY1YzhXcGtWRlVoMTY2Wm9yT2pRUl9JbVZtQ3JVWGNCNUxlMFBvSVZ4Z2dGaDNpMXh4ZDRvYXBTNTFFeS1BWVhJMQ?oc=5",
@@ -120,10 +190,10 @@
     "image": null
   },
   {
-    "id": "auto-65b7e3a7b873",
-    "title": "国策の洋上風力てこ入れ 20年間の収入保証、単価上限は最大3.5倍70万円",
+    "id": "auto-ec3c0418264b",
+    "title": "洋上風力の収入保証3.5倍の70万円上限に 経産省、物価高でてこ入れ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日本経済新聞",
     "time": "9:50",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MRmduaFdHM2c0T0lGRHJveUVpVUZOaGdlcjhBT3I3d1l0MThLSEs3VjdaY3FWUF9FSGNCSmg5bW9lMFMxMkFOMTUydmpTUm1RVkpKVzl0Mkp6aWpmZ3dZU2NLdktKNGFKZnc0TA?oc=5",
@@ -133,17 +203,27 @@
     "id": "auto-774a06e56d28",
     "title": "「日常の5大守則をPR」...南部発電、大衆向け省エネ街頭キャンペーンを展開",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "매일경제",
     "time": "9:41",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9acG84cjRnZ1NIRVdYRTV0Wm5qc2stU2lsNTZISzRodWpPbzVBMnZ5NWgtZFV1S2F5MHdoVTA1WWcxTUE0RDNRTHd3OWNkZ0R2cjhZ?oc=5",
     "image": null
   },
   {
+    "id": "auto-6f4215224ba2",
+    "title": "柏崎の電気は、柏崎で！ ―太陽光発電によるエネルギーの地産地消",
+    "category": "その他",
+    "accent": false,
+    "source": "city.kashiwazaki.lg.jp",
+    "time": "9:36",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMU9DU3JWNWVPZFdRTzBvdmxMd0FqcmhQMXYxcnRmNkpJcFJuZ195TWpkQTJtVHpXVkFRb3d5VjZhNERPOW02RkFoTW80a2VnMHNIQXVzMS0xX2hWQ0RXS1NUTXYxSEdHRVF5U0hEOUVab1BzUm9MZjUxdlVBZ2RIZndtb2daM3NxQlE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-4783133e0016",
     "title": "鹿児島相互信金、脱炭素経営セミナー開催 経営者30人が参加",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "nikkinonline.com",
     "time": "9:31",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZbG1FWFpNbnB5UmFyVnlJekJhMnBMTjU3UHpjOWE4WlJ3QkJlQkpUVDhZTTlZbHA2Z1FzbzFPVUVyYXdiVElIcXU3Q2sxUE5qRjBwR0R3?oc=5",
@@ -154,16 +234,16 @@
     "title": "完全無油式水素コンプレッサーの世界市場（2026年～2032年）、市場規模（空冷、水冷）・分析レポートを発表",
     "category": "技術",
     "accent": false,
-    "source": "アットプレス",
+    "source": "newscast.jp",
     "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50dXdnbWF6enI3MUdfZ2I0Q2ZCUWpWa2tVNk1mVmVoVEMwZFIxczRRX3gzTURmeGxFQWVtX1htODhVdmxFaHYzX0pmQllhTDQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mSHkyLUpfcF9BdjdXUzlzTGVHdWxpV0pzRjZtS0FMaGxMaWlMajcyamdKSHgxZXFjeUYyYkpYTk9WTUo0clRz?oc=5",
     "image": null
   },
   {
     "id": "auto-c4be2221ac02",
     "title": "フィリピンは太陽光発電技術の導入を加速させている。",
-    "category": "企業",
-    "accent": true,
+    "category": "その他",
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "9:14",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjNDb25JU1dOX3BhdGpRZF82Q0l0NVhfYnVQWVhWTTZ3OEYwMEstaVVQYTM0R09lbmJxRnRsU2JPaVJHdUpuVHp5ek1EWmF0ZE5ISXB2XzBrX2xDYW1JZGY3cUFuamFha1lNeE91YWtIenRRSG1vLXc5Y0ZoRG5aY0pXNFRGMWc?oc=5",
@@ -173,7 +253,7 @@
     "id": "auto-dc7f10481f6d",
     "title": "JR東日本、水素社会へ本格投資 鉄道・発電・まちづくりを一体展開",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "エコノミックニュース",
     "time": "9:13",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xbDQyRnRlOHJKYTNGTWhpR1FWV3NiSVFldmJWT0dCLWZEOUNqRHZteEthSV9jNE5hYXZRaF9uLWFOZw?oc=5",
@@ -193,7 +273,7 @@
     "id": "auto-beddb7dfcc40",
     "title": "洋上風力発電契機に地域活性化を 秋田県内自治体と企業が会議",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "NHKニュース",
     "time": "9:08",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlejRGSE8tS3hONWVYckhCQmNzQlduTkduUFJVMm1EeEJJakI2cUVvd2FvMTR0bVhNTDVlTVVVYmpmd0xseUxqSHRJZHp2QnljdEtNbnYxYUk?oc=5",
@@ -203,100 +283,20 @@
     "id": "auto-018f6074c754",
     "title": "EVとエネルギーマネジメントの連携による価値創出に向けた取り組みを開始",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "8:51",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53dGlkTXg1bXpiRmM1YjB2RUl1QXZnSHhhcnhYdmpFdUl3OGhndVVwMDdkZ3NiZG9aRUV1c2x3NkxZV1BwZGROX1VGZUs0N25nNlZRYkhJc3pEa0VlQTAtcGpHZnpyU21vTGgyMTdOMXpORFdCQVJBdTI1WQ?oc=5",
     "image": null
   },
   {
-    "id": "auto-969cfa762d4a",
-    "title": "水素ハイブリッド電車２７年営業",
+    "id": "auto-011389f57285",
+    "title": "水素電車、２７年度末に営業開始",
     "category": "技術",
     "accent": false,
     "source": "中国新聞デジタル",
     "time": "8:46",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTWlqS2x4d2kwdUpudnVWb2lHYmFTNlNxNXB3a0NfTU84cVJFZndNU1dycGVEZUNCc08yMHVudnpHWkJlU1otMFhGeUhzOWdLYkJVOWNxU2xmQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-450c3ba230e7",
-    "title": "水素ハイブリッド電車２７年営業 ＪＲ東日本、鶴見線と南武線で",
-    "category": "技術",
-    "accent": true,
-    "source": "山形新聞",
-    "time": "8:46",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3RhZjJnUjVUV3Ytb2RlOXl4RUJYV1hxWEdnQmctTFlmNTRISTRDS05qQ0hoU3VPeXl6QzRiOTQzSGk5elRyQkx6MlF0M2V1cnBjY2pRZDdWSEpBcU9rSllxTWlYTVlqa0dfRWZwUy12b2hSVnl5aDlTQmZ3NTBCbkpKRlUwWDZQUGRwUw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b01680679327",
-    "title": "水素ハイブリッド電車27年営業 JR東日本、鶴見線と南武線で",
-    "category": "技術",
-    "accent": false,
-    "source": "au Webポータル",
-    "time": "8:46",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sN3l4OGFCc1NCSkxwWHdmQzk1OEZwQjROeEFvLXEzaXFsbklka2MtWEJoME14aFE4LXJ5WVVwT09rSDlzVEhuSWpjdW52MFF4LTRHSjhEMXdja3RzTmFCMW9uV1VpdDFsSGtOX1h0MnJjSVJDaGdEOTN0MA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-051a6824086b",
-    "title": "秋田県漁協、追徴課税分９２００万円納付 洋上風力事業巡り「更正処分」通知",
-    "category": "その他",
-    "accent": false,
-    "source": "47NEWS",
-    "time": "8:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yRk1VbUhGX290VlFSUkRBaE5lTTVsaWI3eC1DSHQwOGtfTHZNMHhXeVpzUm5tMVpBQW9yTFI1VUJTcTk5Nkk2Q3dBdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0c1bdd9ef692",
-    "title": "Googleが2029年からアーカンソー州の太陽光発電プロジェクトから電力を購入へ 執筆 - Investing.com",
-    "category": "その他",
-    "accent": true,
-    "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-    "time": "8:27",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pWVBzV09YeGc0aTJhMFFBdVg0UGZ4anF2SURNWVN6UmRod19HMU9nQkZmXzZUQmNteWYxeElPZXBZSWw5VFhzb3JsSGRtczdFakdGQktCNVZsSnNYV1JaSXJlYjBTOTFNa1I4d19ETDI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e0855542cf8e",
-    "title": "【2026年7月14日更新】キリンビール、千歳工場で グリーン水素実証を開始",
-    "category": "技術",
-    "accent": false,
-    "source": "産報出版",
-    "time": "8:10",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pQnJZekVXTDVzNDIwZnpobzQyZ3ZhNzYzeTNhclVqclF6dmdWNWxDVzB0VUpfaTVWbnA4UUt3aUNqMFhfMWEzbmFiMU5ycmxmcEl6NDV0QmFLdkFMQmVEanhvUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a9c6a248eccd",
-    "title": "大動脈構想に第3世代FCシステム...仲間と築く水素社会の未来",
-    "category": "技術",
-    "accent": false,
-    "source": "トヨタイムズ",
-    "time": "8:01",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdWYtOTh0VzNncUxoMkFfbHNQNEQySXEzNlhhclNmdlh0STVKT1p6QWpCaTdxWjAwbkhJcFlpeVhBMURHSjJLdDlJNldrcEJiLUgzSF80SEhzZ2htdi1iZDRkVTNCT0c5XzI1RHJ5cw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fd203306ef64",
-    "title": "飯田・多摩川精機で「水素焼き肉イベント」 水素の魅力をアピール",
-    "category": "技術",
-    "accent": true,
-    "source": "飯田経済新聞",
-    "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFYjA3WmZjTVM0cGY4aGVzcm93eW1qQkdHbjhBX1RKanYxd3JKNUttQUc5OFNHTThhcG1ZSnJjbnBNSktfdGRGbXRNMHJmLWs?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bead3eb26282",
-    "title": "株式会社西鉄が脱炭素に向けた新たな一歩を踏み出し、SBT認定を取得",
-    "category": "その他",
-    "accent": false,
-    "source": "ニュースメディアVOIX",
-    "time": "7:35",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GV2R0T0xFbG14Ry12WnJkSGR0SmRvVjZ4YnhHTWVfcGhuOFp2UWZhY3FaNnpKR1JDdThfcnBJZFNVQmQ1djl3QkQ3VGlad3phTUdWaUU0eUFHNW5HMXhrYXJOdjNVUG5iVng5LQ?oc=5",
     "image": null
   }
 ]
