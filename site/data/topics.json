@@ -23,8 +23,19 @@
   },
   "headlines": [
     {
-      "id": "auto-de86ee4637cf",
+      "id": "auto-e78508a91a43",
       "rank": 1,
+      "title": "太陽光発電充電ステーションを利用して、イングランド各地を旅しよう。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "7/14(火) 14:46",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFNEN1pMRVlxd01UWkQ0Q1dpUC1UWVIxal9OYW1VeXVOLTlmLVBBNUdMWEdiRnVNSEtxc2VwMW93R0tuc3E0enlKUUlXN0xUSGhvNjJLRHNvcWxueDNXR2VPYWtxdWxtTVQ1YU83LXc4dnlTa1c4MDQycDVyVEd4NHAycw?oc=5"
+    },
+    {
+      "id": "auto-de86ee4637cf",
+      "rank": 2,
       "title": "独自工法「ヒナタオ軽量接着工法」のライセンス認定制度の導入について～施工体制の強化により設置困難な建物への太陽光発電設備導入を加速～",
       "category": "その他",
       "source": "ニコニコニュース",
@@ -35,29 +46,40 @@
     },
     {
       "id": "auto-02f1c0f9ef9b",
-      "rank": 2,
+      "rank": 3,
       "title": "洋上風力発電事業 秋田・鈴木知事が定着誓う＜取材メモらんだむ＞",
       "category": "その他",
       "source": "河北新報オンライン",
       "time": "7/14(火) 13:34",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CQ3JTU2xvSmpTZDNPbnZzMFhjaWRLdHRHZGR5NXhpeDVqaVVqMjY3WFQtZFBzUW1uYXRfX01nS2ctck0tVlV5Sk1ha2Qxak9TZmdGUzN6OVhXaWRlVVlkQw?oc=5"
     },
     {
       "id": "auto-49aeb6c0342c",
-      "rank": 3,
+      "rank": 4,
       "title": "浮体式洋上風力、過酷環境で技術実証 経産省が15日から海域公募",
       "category": "その他",
       "source": "北海道新聞デジタル",
       "time": "7/14(火) 13:06",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95eE52UmNhUDgySWdmaVdCUlZHeTk5T0g4a1JjNHBleWFwRklWLU14SXhsNlV0dzFacDFBS1dKUWJoclFJc3Fpa1ZKcVZPQ0JyOFRlSUtwMFlzUQ?oc=5"
     },
     {
+      "id": "auto-3c079a4bc6c4",
+      "rank": 5,
+      "title": "屋上太陽光発電：政策的な後押しにより成長が加速。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "7/14(火) 13:05",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFY4MUpWcGdsMWdCTnE1d3prVHN0UjlMVUxpbWNDbGNmNUY5Y3JqQzN5NENpOHlPYzA2MExwa291ZTFNQjIxc0p3WU5Udm1XYThWcXl0cTd2RXU3OTFQS3NVSllidmN0ZmpTRzc4U0RsVS1tUTVnR09SODZyTi1SNmJ2Unk?oc=5"
+    },
+    {
       "id": "auto-a9c6a248eccd",
-      "rank": 4,
+      "rank": 6,
       "title": "大動脈構想に第3世代FCシステム...仲間と築く水素社会の未来",
       "category": "技術",
       "source": "トヨタイムズ",
@@ -68,18 +90,18 @@
     },
     {
       "id": "auto-ee6142300460",
-      "rank": 5,
+      "rank": 7,
       "title": "脱炭素社会へ長野県と237社加盟の企業グループが連携協定 キャンペーンなど展開",
       "category": "その他",
       "source": "信濃毎日新聞デジタル",
       "time": "7/14(火) 11:46",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MS05JaGt6ZHhfXzdSb2EyVll4cG5MLWxtTll3VktCOThMLVZCc01IOUhVUTJoMFdnZzhJQnBya1lPVFBtblB3ZHZEV0hZeWFfdHdJS2ZiYm9DSmRxVFA4eGk4RVFndzlkampwcG85Nk0?oc=5"
     },
     {
       "id": "auto-09f8e044b645",
-      "rank": 6,
+      "rank": 8,
       "title": "鈴木知事 ヨーロッパ訪問で洋上風力発電関連は「着実に前進」生産拠点誘致に向けて期待感 ／ スタジアム整備は県と市が足並みをそろえ企業版ふるさと納税を活用へ 秋田",
       "category": "国際",
       "source": "ライブドアニュース",
@@ -87,28 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWTF1aEpSLWNQYVU4cmlPXzJxdWRiYnJILVVxcEJPdEU5b09fM1JKSHNUbWlPc3lzeEZ3STJjY2MwTm9RR3Fkemo5aE9rR2MtSW40SmJjZlBobjBXYUUw?oc=5"
-    },
-    {
-      "id": "auto-9b8c86407799",
-      "rank": 7,
-      "title": "家庭部門の脱炭素化に向けた新たな官民連携・業界横断の取り組み「ガス石油省エネ給湯機普及促進会議（スマいる給湯プロジェクト）」設立",
-      "category": "暮らし",
-      "source": "北海道新聞デジタル",
-      "time": "7/14(火) 11:01",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDZkaG5fcDRZX3ZYdVNLemF6eFBoUG56UTI4NkF6cmE1UU1UcFlueVVWczRJbU9fWXJZSWtuZEstNURYaVBucHd3ZjBuT2pVTHhtdGdUaEpFYnM1M093bXZyQWtMcTQycTFodmQySG0wd0QzQXNhYVgwM1hZMGZfeURDWW03aUJf?oc=5"
-    },
-    {
-      "id": "auto-793e94a61052",
-      "rank": 8,
-      "title": "Googleが米国の大規模太陽光発電プロジェクトを支援。",
-      "category": "国際",
-      "source": "Vietnam.vn",
-      "time": "7/14(火) 10:53",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90aFZLaFdKc1NOSHFpTXBuZ3ZEQXhPQTdjdi0xekcta2poQjFfNGhhYmh6RjdZT2t0SjNrZzZWbXB1TTF4bzV0dHduOW1ZejNWODlzSlJSdHhQbWhiclZHcktHMjRnYU8wQzQwcFNVTmhBanNpeXA1bGk5VmRlOGs?oc=5"
     }
   ]
 }
