@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-4f1dd738a7c1",
-    "title": "東亜建設工業グループの2030年度温室効果ガス（GHG）削減目標でSBT認定を更新",
-    "summary": "[東亜建設工業株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/180723/12/180723-12-460ad015d8fbe61ff4d9a072ea6c11e8-402x402.jpg?width=536&…",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "7/14(火) 11:00",
+    "id": "auto-fb63b09f7c0c",
+    "title": "海上に浮かぶ「浮遊軸型風車」の実証がスタート 長崎県壱岐市で",
+    "summary": "垂直軸型風車と円筒浮体が一体で回転する構造を採用した、新たな風力発電システムの実証がスタートした。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "7/14(火) 16:30",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000180723.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/180723/12/180723-12-460ad015d8fbe61ff4d9a072ea6c11e8-402x402.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/14/news100.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2607/14/cover_news100.jpg"
   },
   "headlines": [
     {
-      "id": "auto-c625cc7c5ad0",
+      "id": "auto-de86ee4637cf",
       "rank": 1,
-      "title": "中国の太陽光発電大手、日本グリーン電力の転換・高度化を後押し",
-      "category": "国際",
-      "source": "36Kr Japan",
-      "time": "7/14(火) 3:06",
+      "title": "独自工法「ヒナタオ軽量接着工法」のライセンス認定制度の導入について～施工体制の強化により設置困難な建物への太陽光発電設備導入を加速～",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/14(火) 15:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001463.000021766.html"
+    },
+    {
+      "id": "auto-0c1bdd9ef692",
+      "rank": 2,
+      "title": "Googleが2029年からアーカンソー州の太陽光発電プロジェクトから電力を購入へ 執筆 - Investing.com",
+      "category": "その他",
+      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "time": "7/14(火) 8:27",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pWVBzV09YeGc0aTJhMFFBdVg0UGZ4anF2SURNWVN6UmRod19HMU9nQkZmXzZUQmNteWYxeElPZXBZSWw5VFhzb3JsSGRtczdFakdGQktCNVZsSnNYV1JaSXJlYjBTOTFNa1I4d19ETDI?oc=5"
+    },
+    {
+      "id": "auto-e0855542cf8e",
+      "rank": 3,
+      "title": "【2026年7月14日更新】キリンビール、千歳工場で グリーン水素実証を開始",
+      "category": "技術",
+      "source": "産報出版",
+      "time": "7/14(火) 8:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pQnJZekVXTDVzNDIwZnpobzQyZ3ZhNzYzeTNhclVqclF6dmdWNWxDVzB0VUpfaTVWbnA4UUt3aUNqMFhfMWEzbmFiMU5ycmxmcEl6NDV0QmFLdkFMQmVEanhvUQ?oc=5"
+    },
+    {
+      "id": "auto-a9c6a248eccd",
+      "rank": 4,
+      "title": "大動脈構想に第3世代FCシステム...仲間と築く水素社会の未来",
+      "category": "技術",
+      "source": "トヨタイムズ",
+      "time": "7/14(火) 8:01",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdWYtOTh0VzNncUxoMkFfbHNQNEQySXEzNlhhclNmdlh0STVKT1p6QWpCaTdxWjAwbkhJcFlpeVhBMURHSjJLdDlJNldrcEJiLUgzSF80SEhzZ2htdi1iZDRkVTNCT0c5XzI1RHJ5cw?oc=5"
+    },
+    {
+      "id": "auto-fd203306ef64",
+      "rank": 5,
+      "title": "飯田・多摩川精機で「水素焼き肉イベント」 水素の魅力をアピール",
+      "category": "技術",
+      "source": "飯田経済新聞",
+      "time": "7/14(火) 8:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFYjA3WmZjTVM0cGY4aGVzcm93eW1qQkdHbjhBX1RKanYxd3JKNUttQUc5OFNHTThhcG1ZSnJjbnBNSktfdGRGbXRNMHJmLWs?oc=5"
+    },
+    {
+      "id": "auto-307efc0aac2c",
+      "rank": 6,
+      "title": "【GAZOOレーシング】世界一過酷なラリーで燃料電池を鍛える！ 「DKR GR FC ハイラックス」が2027年ダカール参戦へ",
+      "category": "技術",
+      "source": "carview!",
+      "time": "7/14(火) 8:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOC1OY25TMl9tenlyZ243YnZIU0Y2M053a3pOT3hJSkF4eC1VOTRLcEFJMzVxV1g1a24wV1pNZXVmdjFmTHAxUVFQbzc4WnpibHF0dExNVDJBSTJFekdzQ3NMVkF5eHNCZHptMjJtcGhHRmoxQXpOQlpCdUdKcUpSQ1BwX3NXVzBMTVczVDFPY1RxUXBDWHNn?oc=5"
+    },
+    {
+      "id": "auto-bead3eb26282",
+      "rank": 7,
+      "title": "株式会社西鉄が脱炭素に向けた新たな一歩を踏み出し、SBT認定を取得",
+      "category": "その他",
+      "source": "ニュースメディアVOIX",
+      "time": "7/14(火) 7:35",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GV2R0T0xFbG14Ry12WnJkSGR0SmRvVjZ4YnhHTWVfcGhuOFp2UWZhY3FaNnpKR1JDdThfcnBJZFNVQmQ1djl3QkQ3VGlad3phTUdWaUU0eUFHNW5HMXhrYXJOdjNVUG5iVng5LQ?oc=5"
+    },
+    {
+      "id": "auto-890710756947",
+      "rank": 8,
+      "title": "【再エネ×脱炭素】カンファレンス2026開催｜再エネ/脱炭素投資を企業成長の力に変える",
+      "category": "企業",
+      "source": "ニコニコニュース",
+      "time": "7/14(火) 6:51",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLOFNJZ2tOUHpwVDNqTFhyYVc3WmdBM0RjdVVpTEIxbG1wSDM4OE8xNDFoVmhWMU9CVXI4?oc=5"
-    },
-    {
-      "id": "auto-f01a15fd2d93",
-      "rank": 2,
-      "title": "洋上風力市場への参入に大きな一歩、愛媛県の舶用総合電機メーカーがNEDO事業に採択",
-      "category": "国際",
-      "source": "ウインドジャーナル",
-      "time": "7/14(火) 3:02",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1WSUJHTi1YVlJ6WUl3eFBvUjh6LUVtRmN0OGtUSENKallaeGdRRVEwbW5VMFhFZjgxZXVVSmpZekZ1TGNI?oc=5"
-    },
-    {
-      "id": "auto-7f982c51617f",
-      "rank": 3,
-      "title": "田中鉄工が今年も大垣市のゼロカーボンシティ化を応援！産官学連携で脱炭素推進へ",
-      "category": "自治体",
-      "source": "全国ソーシャルビジネス事業者データベース",
-      "time": "7/14(火) 3:01",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3hGMm5fUk11UWF6WmpXT1M1UC1yVUpFR3kxTWpxdUxVWUZjejJid2VvcEhRQzNhbklxWXYyc01pamJnektyZXZ3SnhRaDFHNzhuYUprNzFKX3hsZVpzT1dhQ29WemJyVHZEa1l1N0tmZnBha2Nfc09yeHhQa08zTm1hZUpDc1NzZGdQakxiSzU?oc=5"
-    },
-    {
-      "id": "auto-d325d53e148f",
-      "rank": 4,
-      "title": "田中鉄工が大垣市と事業構想大学院大学の連携でゼロカーボンシティ実現を加速する取り組み",
-      "category": "自治体",
-      "source": "ニュースメディアVOIX",
-      "time": "7/14(火) 2:44",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zYWZVQzM5bk9SNkJQUXh4NjhPNXMwaXFWS1d4ZWtvN01UT0hyX3k2VUpOLXlrZ2NucmxYTUNlZkpDNjZZaXpB?oc=5"
-    },
-    {
-      "id": "auto-db7c4c9eacaa",
-      "rank": 5,
-      "title": "スマートブルーが提案する脱炭素経営の新戦略｜再エネを活用した企業成長の可能性",
-      "category": "その他",
-      "source": "ニュースメディアVOIX",
-      "time": "7/14(火) 2:44",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vRnZOT0k5SnJDT195bW1hcW5RZVN4Vmt3YkJDcFFjQVFraGNrRDI1MDI0SXFUVDgwdHg3X2NGWDZORUh0QUdZ?oc=5"
-    },
-    {
-      "id": "auto-745bd21b049d",
-      "rank": 6,
-      "title": "TAOKE ENERGY、岐阜県各務原市で2MW高圧蓄電所の系統連系を完了",
-      "category": "その他",
-      "source": "PR TIMES",
-      "time": "7/14(火) 2:37",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ycFJQckZoSFdST1JmdV9LME54V0VfbnRjSEFMVmhocmx5S3ppZXFPRUZrbmI3aUFhQmN4aW5nSTU2V1YyMUxMalZ0NVkyb3hFWWhsejBlbm5JWm8tMGs3dkxhcTAwU25PYkE?oc=5"
-    },
-    {
-      "id": "auto-f897515eb86c",
-      "rank": 7,
-      "title": "再生可能エネルギーの拡大を背景に、世界のEGS（人工地熱貯留層利用技術）市場は2035年までに倍増する見通し",
-      "category": "国際",
-      "source": "Excite エキサイト",
-      "time": "7/14(火) 2:30",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRlotQlgwRkJmVzdLbG9Ubm93N1MwUDNQdjVSemJ0c21KVDNDazhGNzA2d2RBSDQ2TXc2QU5LcGU0ZThPQXdWUlFadG90SVR3M2RwT1R1QUtydWZseWxIa0FOdnZSSG04S1E?oc=5"
-    },
-    {
-      "id": "auto-087a1341a826",
-      "rank": 8,
-      "title": "プレスリリース：自治体と進める「コスト最適化×再エネ導入」ウェビナーを開催（PR TIMES）",
-      "category": "自治体",
-      "source": "毎日新聞",
-      "time": "7/14(火) 2:21",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGRUV3eEZsQUxUdmJjTWV1VWpabHVhcDliRmdMRkcwazg2d0tJQVFkeTNadW80Q0toTlFtMWFqVTA0YkllcUd2QV9NYllOSXdXcEx3RUJ5UlM1YUlxeXJYcHozM193TndT?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRTRCTHc5VzBBTm9QelpMZmJHMFFYREtaYjRxRWM5ZzNveG0tbDc4NUtWdnZ4OUZ6OVpnYThSRTg1S3lpZXdMUTN1eHp1UWxDWXd2YkFHWU8xazhlNG8wUHRSTnBxd2o1Rk5YQUpmdVdJY3BqMjdBc0FJcw?oc=5"
     }
   ]
 }
