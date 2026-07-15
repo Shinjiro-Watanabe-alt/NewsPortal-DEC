@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-fa7e3fa2907c",
+    "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "4:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000481.000013100.html",
+    "image": null
+  },
+  {
+    "id": "auto-8a859d7f56e3",
+    "title": "Archeda、JAXAとの委託業務成果に関する論文が、国際査読学術誌 「Remote Sensing」に掲載",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "4:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000110822.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/110822/26/110822-26-09c4cf210fe52edf0b117c8d6714b805-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-59af10c419eb",
+    "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-79ad8f9a99f9",
+    "title": "長期オークション、洋上風力は最高７０万円台／前回比最大で４倍 –",
+    "category": "その他",
+    "accent": false,
+    "source": "電気新聞ウェブサイト",
+    "time": "19:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wcWhWaTNXbFppU0Nwbk9ySkd3Mkpua0dtVUIwRDRoMXB4cW1mUHdvcjZIM0RaRm9FTFhvaHd1RThRVTl2YWtrSWxONGE3bXVRWllmX2F0Zw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-81bf08d63d49",
+    "title": "脱炭素経営に理解 上越市脱炭素経済ネットワークセミナー 事例を発表",
+    "category": "その他",
+    "accent": true,
+    "source": "上越タイムス社",
+    "time": "18:37",
+    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rNWxWR1YzVlQxTkw0QXBxcjNfdkRVdUw4OEJjc05BeEk2Wm55MVFYNGJUNjB0amxDMXVublp3bW9Jdw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-528f4dcf6b9a",
     "title": "140年の客船文化を引き継ぐ新型船 “水素燃料”で環境への配慮発信",
     "category": "技術",
@@ -13,7 +63,7 @@
     "id": "auto-3220de3b79a2",
     "title": "大塚グループにて需要地併設型蓄電池の運用を開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "14:48",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aSG5lSFJGRS0tcTlFcmUtTnA3TjZpOW41T1NNOFp0QTdzTEdZak5sX2RyVE5IUnZqbm1YT3MyM1FJUFVQZ3kyV2sxNGVDZmxiU041OEw1di1nc2otVHh1ZmpVbk0xMWhsMXRXR1NZdHlobUZvQV9oUUtTZw?oc=5",
@@ -23,7 +73,7 @@
     "id": "auto-ec9d96dfb69b",
     "title": "函館から洋上風力人材を 北大が課程内容発表",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "北海道新聞デジタル",
     "time": "14:04",
     "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUZKQ1Z4QXk0WlZZZmpqamU1RjhGZ3VkeUFtbzdlS2FYSndSZW5LZktvVDVXWDJnWUJLOXQ3RVdpVlFodklIWU5sZmFVZ2J1U0FvTDZibXVrNzZjTE9CZk01NjZvUVhESFVJYTdLbWV3bTdLb2cwQUlnR2NmWV8zLTVzN3EyakZl?oc=5",
@@ -43,10 +93,20 @@
     "id": "auto-22f34bdfb464",
     "title": "太陽光発電補助が人気…神奈川県の事業に申し込み殺到、２日間で締め切り",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "カナロコ",
     "time": "13:10",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMkRzU0R2TFE4M0ZacGRfcl91X3BvNFg3M3VrVm1yTEMzQVNCZDZIS2JaQkxHZzlGSHdGUFF3T3M3VDFLODAwUlpQY1Z3N1d3aVJsaGtVenVRZTlYUXQzbTNtQlgyVnFMb3lZLQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d4d23cab7234",
+    "title": "燃料電池車の仕組みは？ トヨタと連携の環境講座、みよし・南中で：ニュース",
+    "category": "技術",
+    "accent": true,
+    "source": "中日BIZナビ",
+    "time": "12:56",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zZ3VNYU82dWdZNjhGbzh5TFlyUDlpRC13Yk5YcXYtZXAwOGoxWlVfNlpIZGdsRFAxdG1BZkJzcUhkb1g3NzNQbG8wNTU1NlMyeVpaY1h5aF9RQlVScTIw?oc=5",
     "image": null
   },
   {
@@ -237,66 +297,6 @@
     "source": "新電力ネット",
     "time": "8:49",
     "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xZnFTWGlsZVV3YlRUcEQxOG01YzdnbC1jV2FZNXpWa3VkVVB3ZWVTYmpYb2RzZ3l1YzJiYks0NmQtZUZyNldLdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fe7762508371",
-    "title": "令和8年度太陽光発電システム等設置事業補助金",
-    "category": "その他",
-    "accent": false,
-    "source": "新電力ネット",
-    "time": "8:49",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OeWdLc0ZHYWZiVTJJUFF4aGVudE1VOEM5ZXZOSzFYdTU0UW1jVHpVWVVXQ2Nua3ZpV0JFMXJHLU51eDg0QkVLZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c13e482a03c7",
-    "title": "北海道大学 洋上風力発電の人材育成で新課程 企業も協力",
-    "category": "その他",
-    "accent": true,
-    "source": "NHKニュース",
-    "time": "8:16",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SUk55aDFwbWdYdTJMWWZnbjdSdzdUX0I5dnhhN3dESzZjcmtEajVxMEEwYUcwaEZJSFRsTFJIUGtmQUxpZ3Y2aHV6Sm55a1F2MDJTZW5Udkc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cddf811abc6f",
-    "title": "EST脱炭素交通大賞の応募受付開始、環境に優しい交通の取り組みを求む",
-    "category": "その他",
-    "accent": false,
-    "source": "ニュースメディアVOIX",
-    "time": "7:44",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxSzNRNGtLV2RfOEJyOTlEdUcxRUJ3VWNEV3dWRkdPSEFudXlRb21OSzJHWEp3RE9CTklxSzFFWnlFLWZkZUQ0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5d7237a2c8eb",
-    "title": "JFE商事 イチゴ温室で太陽光発電 垂直懸下式を採用（日刊産業新聞）",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "7:32",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOW81U1B6VzUycTlaalNtZ1lsR1diaW1abUVQcFhmWl9OdTlQNlJWWlZmV1Y0U25QNnFJZ2poTmZpeW43M29NZWdmU3dZdGk3eHM2TEpTWlNzNHMzVE0zMmZPRUdSQ29RU3FYYUY0ek5sempqZUdiaEllQnRSdlU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ae549988b15a",
-    "title": "倉敷化工社長に西井郁也氏昇格 マツダ出身、脱炭素化などに対応",
-    "category": "その他",
-    "accent": true,
-    "source": "山陽新聞",
-    "time": "7:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iZldjWkRRZGtsQTZnQThKWVYydUFIbmNwZkVMQmdTUmpYVjV2RXBVdXZUSkV4QzNRbW1kNV9wdmtZNUZkc2dualRpaE1iQ2Z4Q1E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6c8afc768488",
-    "title": "世界初！？水素100%で過ごす「近未来ホテル」誕生 お風呂もBBQもすべてCO2フリー 福島・浪江町",
-    "category": "技術",
-    "accent": false,
-    "source": "ｄメニューニュース",
-    "time": "7:19",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rTHJhY3hndENHMUlZX3AxVmFlQTRMalFBZDlRY2dxUEI3czJoLUtCUjVtMnpZeHZ2dVFCcEJYdTdZUno2dmdaT1BNdm42aHBaQ29Rdnh3YXJvUW43VWRjelBNTmFsQXVtVEw3NmJzUVRSVTJ50gF0QVVfeXFMTWtMcmFjeGd0Q0cxSVlfcDFWYWVBNExqUUFkOVFjZ3FQQjdzMmgtS0JSNW0yell4dnZ1UUJwQlh1N1lSejZ2Z1pPUE12bjZocFpDb1F2eHdhcm9RbjdVZGN6UE1OYWxBdW1UTDc2YnNRVFJVMnk?oc=5",
     "image": null
   }
 ]
