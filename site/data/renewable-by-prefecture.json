@@ -3,27 +3,27 @@
     {
       "prefecture": "北海道",
       "ratio": 27.5,
-      "totalKwh": 2568348700
+      "totalKwh": 2569070700
     },
     {
       "prefecture": "青森県",
-      "ratio": 42.4,
-      "totalKwh": 471247106
+      "ratio": 44.2,
+      "totalKwh": 486058106
     },
     {
       "prefecture": "岩手県",
-      "ratio": 67.2,
-      "totalKwh": 361810095
+      "ratio": 67.3,
+      "totalKwh": 362234095
     },
     {
       "prefecture": "宮城県",
       "ratio": 19.7,
-      "totalKwh": 1088076590
+      "totalKwh": 1088086590
     },
     {
       "prefecture": "秋田県",
-      "ratio": 21.8,
-      "totalKwh": 954947591
+      "ratio": 21.9,
+      "totalKwh": 956099591
     },
     {
       "prefecture": "山形県",
@@ -33,32 +33,32 @@
     {
       "prefecture": "福島県",
       "ratio": 18.6,
-      "totalKwh": 5229884494
+      "totalKwh": 5230028494
     },
     {
       "prefecture": "茨城県",
       "ratio": 6.0,
-      "totalKwh": 2977064556
+      "totalKwh": 2977143556
     },
     {
       "prefecture": "栃木県",
       "ratio": 22.0,
-      "totalKwh": 862514226
+      "totalKwh": 862614226
     },
     {
       "prefecture": "群馬県",
       "ratio": 93.1,
-      "totalKwh": 322747769
+      "totalKwh": 322766769
     },
     {
       "prefecture": "埼玉県",
       "ratio": 44.3,
-      "totalKwh": 44767750
+      "totalKwh": 44786750
     },
     {
       "prefecture": "千葉県",
       "ratio": 1.4,
-      "totalKwh": 7008276473
+      "totalKwh": 7010221473
     },
     {
       "prefecture": "東京都",
@@ -73,7 +73,7 @@
     {
       "prefecture": "新潟県",
       "ratio": 18.1,
-      "totalKwh": 3762175860
+      "totalKwh": 3763131860
     },
     {
       "prefecture": "富山県",
@@ -83,7 +83,7 @@
     {
       "prefecture": "石川県",
       "ratio": 31.5,
-      "totalKwh": 486194385
+      "totalKwh": 486559385
     },
     {
       "prefecture": "福井県",
@@ -103,22 +103,22 @@
     {
       "prefecture": "岐阜県",
       "ratio": 100.0,
-      "totalKwh": 659661809
+      "totalKwh": 660264809
     },
     {
       "prefecture": "静岡県",
-      "ratio": 65.5,
-      "totalKwh": 384389000
+      "ratio": 65.8,
+      "totalKwh": 388060000
     },
     {
       "prefecture": "愛知県",
       "ratio": 3.1,
-      "totalKwh": 5806177594
+      "totalKwh": 5806201594
     },
     {
       "prefecture": "三重県",
       "ratio": 15.7,
-      "totalKwh": 1337767971
+      "totalKwh": 1338177971
     },
     {
       "prefecture": "滋賀県",
@@ -147,18 +147,18 @@
     },
     {
       "prefecture": "和歌山県",
-      "ratio": 39.4,
-      "totalKwh": 194532900
+      "ratio": 39.5,
+      "totalKwh": 194861900
     },
     {
       "prefecture": "鳥取県",
       "ratio": 65.4,
-      "totalKwh": 222249000
+      "totalKwh": 222472000
     },
     {
       "prefecture": "島根県",
       "ratio": 7.7,
-      "totalKwh": 1230709000
+      "totalKwh": 1230826000
     },
     {
       "prefecture": "岡山県",
@@ -172,8 +172,8 @@
     },
     {
       "prefecture": "山口県",
-      "ratio": 7.4,
-      "totalKwh": 1587288087
+      "ratio": 7.5,
+      "totalKwh": 1588847087
     },
     {
       "prefecture": "徳島県",
@@ -198,7 +198,7 @@
     {
       "prefecture": "福岡県",
       "ratio": 11.1,
-      "totalKwh": 941332212
+      "totalKwh": 941420212
     },
     {
       "prefecture": "佐賀県",
@@ -213,7 +213,7 @@
     {
       "prefecture": "熊本県",
       "ratio": 13.9,
-      "totalKwh": 889121800
+      "totalKwh": 889325800
     },
     {
       "prefecture": "大分県",
@@ -223,7 +223,7 @@
     {
       "prefecture": "宮崎県",
       "ratio": 75.0,
-      "totalKwh": 362308805
+      "totalKwh": 362537805
     },
     {
       "prefecture": "鹿児島県",
@@ -238,6 +238,6 @@
   ],
   "source": "資源エネルギー庁「電力調査統計」都道府県別発電実績",
   "sourceUrl": "https://www.enecho.meti.go.jp/statistics/electric_power/ep002/results.html",
-  "asOf": "2026年6月30日公表時点",
-  "collectedAt": "2026-07-09T01:13:11.629661+09:00"
+  "asOf": "2026年7月1日公表時点",
+  "collectedAt": "2026-07-16T01:47:39.604180+09:00"
 }
