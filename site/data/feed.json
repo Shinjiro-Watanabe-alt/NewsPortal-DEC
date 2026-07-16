@@ -1,59 +1,79 @@
 [
   {
-    "id": "auto-fa7e3fa2907c",
-    "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
-    "category": "国際",
+    "id": "auto-801d04c35a88",
+    "title": "大手設備エンジニアリング企業の需要家併設蓄電池で需給調整市場への参加を実現",
+    "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "1:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000481.000013100.html",
+    "time": "4:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000042.000028289.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-e59838c2dcec",
+    "title": "株式会社Circloop、リユーザブルカップサービスのライフサイクル全体のCO2排出量を可視化：カーボンフットプリント(CFP)算定報告書を公開",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "3:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000007.000136289.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/136289/7/136289-7-95d7279c15b38db8b0ebe38163aeec19-998x403.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-1ea1f872b111",
+    "title": "環境省「ESGリース促進事業」において4年連続で優良取組認定事業者に認定",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "2:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000062.000165128.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/165128/62/165128-62-7f938feecdffcb794a3aefc26a5f8900-311x440.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-85751b644f16",
+    "title": "華為、欧州の再エネ主力電源化を支える系統形成戦略「LUTERRA」を発表",
+    "category": "国際",
+    "accent": false,
+    "source": "BigGo ファイナンス",
+    "time": "17:55",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lc3NhaWp4ekE2QXl5QmhNOHUzdHhKM1lxXzU4YWZ0UDV4MTlJR1dLVmZmVzdmaUVzemE2T3NMZmZGa0ZRaFV0dTl4azdJa3VZOVJVX25jX0tHVElZenRVd1VmNldRV0JIQlhUQ2Utenl1Z2tK?oc=5",
     "image": null
   },
   {
-    "id": "auto-59af10c419eb",
-    "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
-    "category": "企業",
+    "id": "auto-d0a13d5603d2",
+    "title": "家庭用蓄電池を無償で設置・貸与する「てるまるでんちプロジェクト」２０２６年度本申込を７月１６日(木)受付開始～家庭の安心・電気代削減・再エネの有効活用を同時に実現～",
+    "category": "暮らし",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "1:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "RBB TODAY",
+    "time": "17:10",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rVlRYMXVtRUI4UjlYV0NEUUpJcHlYdlRWYXVjZkJKMFNGbDV6WnN3bXYyYklSUmtBbEh5aVVMQzJLOXZxSGw2VFVjQ3lsaHdUb1ZxUWtNN0UzWXZtZzNlakd5Y05uYWw5bG1ndW9xTnRMMi03S01BNw?oc=5",
+    "image": null
   },
   {
-    "id": "auto-8a859d7f56e3",
-    "title": "Archeda、JAXAとの委託業務成果に関する論文が、国際査読学術誌 「Remote Sensing」に掲載",
-    "category": "企業",
+    "id": "auto-b0606b4b3115",
+    "title": "多様なエネルギー不可欠 タイで日経アジアフォーラム 車、脱炭素ニーズ強まる",
+    "category": "国際",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "1:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000110822.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/110822/26/110822-26-09c4cf210fe52edf0b117c8d6714b805-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "日本経済新聞",
+    "time": "17:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44YkpPMW1iUmJrOGhhOEdjMnhkUHBJcHlyR0EwVzc3aGZJOXhNWG5FVEpIbi0xSUdGWkk2S3RncDVzbHZCendqRGNSRE9KelJNRTcxM0EtZk9EdDJlWUhTdEppNll3RzNmeHo4aA?oc=5",
+    "image": null
   },
   {
-    "id": "auto-2dd9598738d2",
-    "title": "Green Carbon株式会社は、フィリピンにおいてAWD（間断灌漑）が水田における生物多様性と生態系の回復力を向上させることを実証",
-    "category": "企業",
+    "id": "auto-b24bc39966f5",
+    "title": "ヘキサゴン・プルス、水素インフラ好調もバス事業低迷で減収—コスト削減で損失縮小",
+    "category": "技術",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "1:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000286.000117956.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/117956/286/117956-286-e0602105576d4af1d6818572b1dea249-1734x907.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-ec5f87264ce2",
-    "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "0:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/82695/47/82695-47-a03ac21f05123f08d1d641e60c50bb96-2756x1163.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "BigGo ファイナンス",
+    "time": "16:55",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rQWxJcnNmSWVsQ2tOeXdNWU5NN2tjWGJzcF95QlYyTzlCdW1rMGlFT0xDWFYyci1CbDIwSjE1UmFMY2JYM0ZRWU9id2FLLUluUGlTQUY0MEhvUFlXamJRUzJfaVMxZ0tadlU0d295amZpdjVj?oc=5",
+    "image": null
   },
   {
     "id": "auto-1fac924a9eea",
     "title": "家庭用蓄電池を無償で設置・貸与する「てるまるでんちプロジェクト」２０２６年度本申込を７月１６日(木)受付開始～家庭の安",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "15:15",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4aE1rbkJ0VVhlb0RZTXBGWkJ0VVU5TlRmdE5UZlBBbnhEa3JsdS15UzF4MFBiUzZhdkpGU2RHRXZpNzQteUxvRWJHWEhnUzlyMEpSVjdJM1c5dEVnWGtyVHFsQUNET2Ey?oc=5",
@@ -73,7 +93,7 @@
     "id": "auto-5fe51b13dd7f",
     "title": "洋上風力やレアアース採鉱など国策ＰＪへ参画 継続的利益成長を生むニッチトップの複数展開 | 三洋貿易 | インタビュー",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "株主手帳オンライン",
     "time": "15:01",
     "source_url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQTlyYTBKUVJURmNscFRyRTBCRDhmeFdCWXh1cUJkN0VQM29vQmUyaWRSU3NjQjE4NUlvYlVXZTgzZVNLV2M1M2oySDJWS2R3YWc4UHU3Q19VMTRnQlpQYy1FN0ZOcEhhcnZaeXdLTUhiZ3hrQTZmdHBuUjVnOFlQaUxKZmhTQUkzeTBlTDJXdWk0bWhLNjRQQURyeHJxLWJEVVNDcGpTdjlzdzRUTDdEQjRVdHc0X2s3SURxY0RUdjNmOVh6N0ZSTXY2X0JBNEFVVG5PNXlMWWRob1ljdTlBVlR1UVlKVXE0dXBrYk14aF9CNmZmb1dYcWk0emlpMEZNVFRjdVRMSFhYNUVoc3J1YjdSS2Zsc3UtczRLRm96YU5JUFVNZUZFRC1JRE5sQWltNGx2ZnZUemNXY2x2QUtFRGQ2MzVvOFRtNGpFZ29CT2xFWTdJd2lV?oc=5",
@@ -83,7 +103,7 @@
     "id": "auto-6cc660f10185",
     "title": "田中貴金属工業湘南工場 平塚で水素燃料発電 国内最大級500kW供給",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "タウンニュース",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odjVqOWVpNzJZWUVFZEZIRzF4SF9qTVVwMUhZSVdzZFI4OHBZMUVXQkV6c0V6dERQMkt2RWoyUFJmbl8yN04zeFZOZm9CVDd4azh4N0xhRnZpZk5lakVqTGZ5dnM?oc=5",
@@ -97,6 +117,16 @@
     "source": "日テレNEWS NNN",
     "time": "12:59",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnByaTJISXh1NEVlbEtJRWFGbFViUVpPX001WVoxbjFhcnZaNktIRnpDSVBPN2lmNnhLVnQxVk9QajhiVlJPTkl4bHpkenl0YXZQRlVXVWdsUzc1YnpLdFM1SlNZQklWQnl4VEozZUI1dGlwNmxnQkEzRWNETjQ3d0Fkd1pvZk0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-237db5558c7a",
+    "title": "6年目の水素エンジン 富士24時間での世界初の挑戦と広がる仲間づくり",
+    "category": "技術",
+    "accent": false,
+    "source": "トヨタイムズ",
+    "time": "12:33",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzUmFNckJfU0F3dDk5MnVLTEZoTXR3Xy10NkkzdTJyVGRHM1BsVGYwck5ybDNReUNNMDdBbHQtT0ZDZEFQOXZaWVRKUEJ0S0E2S09paGN3VzF3bXF6V2xkUHNLWjZHczRBZXVJWXhKTFdjZw?oc=5",
     "image": null
   },
   {
@@ -114,9 +144,9 @@
     "title": "グリーンライト・再エネインフラ投資法人の サポーター就任及びサポート契約締結に関するお知らせ",
     "category": "その他",
     "accent": false,
-    "source": "サンスポ",
+    "source": "RBB TODAY",
     "time": "12:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQWR3MHhUaWNYOXVwXzRIQnItdl9pc3J0Y2NKV1VFMVJJcWN5dkxNRW1xRmI4SV9JMjJHamlzZnM2ZEhtY1lfMFdSbDdpRDJEZF85SG5mbDhFdlpqVkd3YUdYbGQtc0NfZGZMUHU0VllTYVZMbTNkYnplbXJURTVQRUdn?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSG5WaE1naDZQQ1duOEhfZHA0RGNVR0NwQTlmSjdjbm50Z3FCWk0zZmV6RUFYb1k3bjlXZzlmdThzbjVPY2NaUnpnT2syOVhtMjlYOU5LT2I5Rkgwb0FQN2U0cWVFdFpKd0hWM2syOHpIX25ibkl5ZjNkeTY?oc=5",
     "image": null
   },
   {
@@ -124,9 +154,9 @@
     "title": "グリーンライト・再エネインフラ投資法人 投資口の取得に関するお知らせ",
     "category": "その他",
     "accent": false,
-    "source": "サンスポ",
+    "source": "RBB TODAY",
     "time": "12:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN3hxblZJcTNhazZ0RThTa3hYelNqMG5NV3d2aGZLR1BabEZQekNYenp0YlBUYUFxdVdlcjhWOV9RX0g3U25XTnhFQTg1bWZDZElOUW94MkJGZ3U1VmRQalR2a3VlLVR4Uk82dVdpcEdWbktNMHVNaV94ZnJYUnBka2hB?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4WmM0bFdwMGtmLU8tR3RMMnJsYmZfTExDVGpLODdLSDVqNWNGMXFsVGtWWTI4Zk0yVS0yRlJ6SU5iNmNIWGxGYVVqcXNjbGVHaWE2dm1CX09lcGpvVTBIY1JzMzYtVDVRVDRVX1NHSzlyNjZlWHdjN0hFVEE?oc=5",
     "image": null
   },
   {
@@ -267,36 +297,6 @@
     "source": "Vietnam.vn",
     "time": "9:54",
     "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0cU92dGxTSENGbHFwcFlyREYzWFVoYUM0eWJ3Q3lHdlNNMVBwSk1nQUlaSjZ5cm5JTVhOS2VMME9lX1dSLU5QSGd2X2N5T2Y5b05ta1RoMV9CUTY3Z05oUVVaZjlpVUdJNGI4eVFQWHBPV3Y3dDF0aXBNY1U0UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b05252c1fb76",
-    "title": "【法案提出】「自動車産業脱炭素化推進法案」を提出",
-    "category": "その他",
-    "accent": false,
-    "source": "新・国民民主党",
-    "time": "9:46",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GMWQtWUJMRFVTSkZtRXI1Vmt6U3Z5NVpPZ21mOXNyNjBCSUlTVU5TaERSREZ1bTdTVmtfUEhpNkpUTXdHOFRqS0RVVjRXLXR1VldBaDhjV0FfMVU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f1c4fa0cdcf2",
-    "title": "脱炭素マネーが逆流する前に仕込む、バイオマス・次世代燃料の本命 厳選20銘柄｜日本個別株デューデリジェンスセンター",
-    "category": "その他",
-    "accent": true,
-    "source": "note",
-    "time": "9:39",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuMTBERGVMMjVuUzRKZXFRME5yemd0UlRadjNmTFY0OE9uVkhQeGNReVpSNlhMNUkzejl5a0RkRFNCZzB1ZGJTQW5UQ25Oa1ZzRXJLc0dDR3FxSUU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0736c51a0666",
-    "title": "純利益151％増で化けたイーレックス（9517）、脱炭素の主役がいま「燃料販売」で荒稼ぎする理由",
-    "category": "その他",
-    "accent": false,
-    "source": "note",
-    "time": "9:35",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZkNzNU93US1uMS1CWjdPekJnS3RuREJUbU5md3JJN1Q5eGpvYzd1V1l4Y3VLX0pldzk4alFFd0lZc291ODZCbWU3YW1DclZ4dV90Y2ZZRml4N1U?oc=5",
     "image": null
   }
 ]
