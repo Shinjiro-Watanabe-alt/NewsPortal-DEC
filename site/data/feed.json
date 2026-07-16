@@ -1,19 +1,99 @@
 [
   {
-    "id": "auto-116fdc8b49df",
-    "title": "トリナ・ソーラーのペロブスカイト／結晶シリコンタンデム型モジュールが世界新記録を樹立 ～ピーク出力907W、全面積モジュール効率29.2％を達成～",
+    "id": "auto-fa7e3fa2907c",
+    "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
     "category": "国際",
     "accent": false,
     "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000241.000008483.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/8483/241/8483-241-a0cac8722c7929c78b42cfa01edc88f8-841x560.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000481.000013100.html",
+    "image": null
+  },
+  {
+    "id": "auto-59af10c419eb",
+    "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-8a859d7f56e3",
+    "title": "Archeda、JAXAとの委託業務成果に関する論文が、国際査読学術誌 「Remote Sensing」に掲載",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000110822.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/110822/26/110822-26-09c4cf210fe52edf0b117c8d6714b805-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-2dd9598738d2",
+    "title": "Green Carbon株式会社は、フィリピンにおいてAWD（間断灌漑）が水田における生物多様性と生態系の回復力を向上させることを実証",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000286.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/286/117956-286-e0602105576d4af1d6818572b1dea249-1734x907.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-ec5f87264ce2",
+    "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "0:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/82695/47/82695-47-a03ac21f05123f08d1d641e60c50bb96-2756x1163.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-1fac924a9eea",
+    "title": "家庭用蓄電池を無償で設置・貸与する「てるまるでんちプロジェクト」２０２６年度本申込を７月１６日(木)受付開始～家庭の安",
+    "category": "暮らし",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "15:15",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4aE1rbkJ0VVhlb0RZTXBGWkJ0VVU5TlRmdE5UZlBBbnhEa3JsdS15UzF4MFBiUzZhdkpGU2RHRXZpNzQteUxvRWJHWEhnUzlyMEpSVjdJM1c5dEVnWGtyVHFsQUNET2Ey?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5530f5244cf7",
+    "title": "【令和8年7月16日】守口市と地域脱炭素推進コンソーシアム 関西まちWe’llとの地域脱炭素化事業に関する連携協定",
+    "category": "自治体",
+    "accent": false,
+    "source": "守口市",
+    "time": "15:06",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3lpZ2w5WDZ5bGpHOFBOemdGdUUtc01vRkZjMTAzRnd1QkxyakNMUzNFYkVNQjRzeTFIRURrU3Y5bFRlUmRQc0J3VDJnZW1Jc3BqVURRNDJpWWtveHlLLVRGR0RMWlJfeWxud2Q0Z01GcjM2UU5XeVlwSlBvWF9lUXhsN0NkaDc5OTd1U1ZvUlM3MzU0ZnRYb0VvVnFEOEw4SHR0NHhvZ2xjMHpLZWFj?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5fe51b13dd7f",
+    "title": "洋上風力やレアアース採鉱など国策ＰＪへ参画 継続的利益成長を生むニッチトップの複数展開 | 三洋貿易 | インタビュー",
+    "category": "その他",
+    "accent": true,
+    "source": "株主手帳オンライン",
+    "time": "15:01",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQTlyYTBKUVJURmNscFRyRTBCRDhmeFdCWXh1cUJkN0VQM29vQmUyaWRSU3NjQjE4NUlvYlVXZTgzZVNLV2M1M2oySDJWS2R3YWc4UHU3Q19VMTRnQlpQYy1FN0ZOcEhhcnZaeXdLTUhiZ3hrQTZmdHBuUjVnOFlQaUxKZmhTQUkzeTBlTDJXdWk0bWhLNjRQQURyeHJxLWJEVVNDcGpTdjlzdzRUTDdEQjRVdHc0X2s3SURxY0RUdjNmOVh6N0ZSTXY2X0JBNEFVVG5PNXlMWWRob1ljdTlBVlR1UVlKVXE0dXBrYk14aF9CNmZmb1dYcWk0emlpMEZNVFRjdVRMSFhYNUVoc3J1YjdSS2Zsc3UtczRLRm96YU5JUFVNZUZFRC1JRE5sQWltNGx2ZnZUemNXY2x2QUtFRGQ2MzVvOFRtNGpFZ29CT2xFWTdJd2lV?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6cc660f10185",
+    "title": "田中貴金属工業湘南工場 平塚で水素燃料発電 国内最大級500kW供給",
+    "category": "技術",
+    "accent": false,
+    "source": "タウンニュース",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odjVqOWVpNzJZWUVFZEZIRzF4SF9qTVVwMUhZSVdzZFI4OHBZMUVXQkV6c0V6dERQMkt2RWoyUFJmbl8yN04zeFZOZm9CVDd4azh4N0xhRnZpZk5lakVqTGZ5dnM?oc=5",
+    "image": null
   },
   {
     "id": "auto-64b549cc4337",
     "title": "酒田沖で洋上風力発電へ海底地盤調査が本格化 24時間体制のCPT調査開始（2026年7月15日掲載）｜YBC NEWS NNN",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "日テレNEWS NNN",
     "time": "12:59",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnByaTJISXh1NEVlbEtJRWFGbFViUVpPX001WVoxbjFhcnZaNktIRnpDSVBPN2lmNnhLVnQxVk9QajhiVlJPTkl4bHpkenl0YXZQRlVXVWdsUzc1YnpLdFM1SlNZQklWQnl4VEozZUI1dGlwNmxnQkEzRWNETjQ3d0Fkd1pvZk0?oc=5",
@@ -23,7 +103,7 @@
     "id": "auto-4e274b89efe8",
     "title": "碧南発電所でのアンモニア燃料転換、需要に応じタンク建設 JERA奥田社長：ニュース",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "中日BIZナビ",
     "time": "12:18",
     "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UZGcxaVBfenR5blhRYXNsV2R4XzRLZ1J5SElrSTM5Wl9Bb1dXWGtFNDQ3cTllTko2RlU0MEppRFlSMEhuc19pNy1iSElOdmJNY2pHZmNBcVFmMlhLenFRV2xaVQ?oc=5",
@@ -43,7 +123,7 @@
     "id": "auto-6f7eeb81856a",
     "title": "グリーンライト・再エネインフラ投資法人 投資口の取得に関するお知らせ",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "サンスポ",
     "time": "12:00",
     "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN3hxblZJcTNhazZ0RThTa3hYelNqMG5NV3d2aGZLR1BabEZQekNYenp0YlBUYUFxdVdlcjhWOV9RX0g3U25XTnhFQTg1bWZDZElOUW94MkJGZ3U1VmRQalR2a3VlLVR4Uk82dVdpcEdWbktNMHVNaV94ZnJYUnBka2hB?oc=5",
@@ -53,7 +133,7 @@
     "id": "auto-2e8227125f7a",
     "title": "脱炭素で生乳買い取り増額 業界が27 年度実証実験へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "MSN",
     "time": "11:49",
     "source_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQM2VhcEF2VmZtZnRKZVpfeWtubmt6Q2drc3d6YWl6M3hNc2Jvc3pSbUNpRm5QNTBGVTB2MnFNRDJpQ3k4S0ptenVQOXMtNVJ4VGVXaDU1czNacFpKeFF4OHFDTmFyNHBMYVJJM2hqb3RBQVNFMTRGbDVxRUpRcWRSQ1ZpWmdwTy1zRlQwZlhLOU5xMU9HMjZwRVlJd2o2NDU3b1dsSE9VV2Ztd2xhYjFxa18zX3VxMDlrb1RQeGVrbktFa1dqRjRfMUlibVBnOXdWeGdEbllVTXZsajZiQ29kdTd3SHhKcnp5NWdJMDAxTm9yNzJTakc5SEZtV1lWdmZzeHRVMF9UdGhWck5OclRCMEVieHA2eFl6REpVejA2dWEzSW9CbWlWTzBDWHFSYTRkczNUMGNheXBOQ2VBcGVvWW9MVjNjN05UZHA1RTRaZHo0VVZxWDR6ZDJKMnRrX1l3N3g2bWhyTDJXNHZUUXQtLWtGaHowNmZGR3dSUWphRlNVOHFQXzA2N0swMk00QQ?oc=5",
@@ -73,27 +153,17 @@
     "id": "auto-8856341871ff",
     "title": "祇園祭の山鉾で導入進む再生可能エネルギー 東京の企業が協力 伝統と進化の共存も魅力に（産経新聞）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ニュース",
     "time": "11:22",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVmlncHh2bkJoOWdkRkRxbDNwOTNrRTdtQ0p6RzdTYWZ2cHk4Z2Vya296ZHJuR3NfN1dCRWJ4b3c4MlRFTjJJcHkwRm5zVHBZZVE2RW9mYzc1bHllZk1URnZSekdrekhXanA1R0ViMWl6T1VEQklCZjhJQ05SSnM?oc=5",
     "image": null
   },
   {
-    "id": "auto-5530f5244cf7",
-    "title": "【令和8年7月16日】守口市と地域脱炭素推進コンソーシアム 関西まちWe’llとの地域脱炭素化事業に関する連携協定",
-    "category": "自治体",
-    "accent": false,
-    "source": "守口市",
-    "time": "11:21",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3lpZ2w5WDZ5bGpHOFBOemdGdUUtc01vRkZjMTAzRnd1QkxyakNMUzNFYkVNQjRzeTFIRURrU3Y5bFRlUmRQc0J3VDJnZW1Jc3BqVURRNDJpWWtveHlLLVRGR0RMWlJfeWxud2Q0Z01GcjM2UU5XeVlwSlBvWF9lUXhsN0NkaDc5OTd1U1ZvUlM3MzU0ZnRYb0VvVnFEOEw4SHR0NHhvZ2xjMHpLZWFj?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-b6afb293d0b7",
     "title": "洋上風力発電の環境影響評価準備書を公開 遊佐町沖計画で住民意見募る縦覧スタート",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ライブドアニュース",
     "time": "11:21",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82TDNRV2dFU1JhVHNUZkc3T0xwWHRVTVJibmlVMjBHNklMNXlqNXNfTzNTRjBsZGRSaGNFVkFuX3hmNjhBV0k2enY3NjZuanAwRkFZRGozVVpZRlVmOS0w?oc=5",
@@ -103,7 +173,7 @@
     "id": "auto-e958cb61a699",
     "title": "生乳業界の実証実験のイメージ - 農家の脱炭素で生乳買い取り増額 業界が27年度実証実験へ - 写真・画像(1/1)",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "西日本新聞me",
     "time": "11:18",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFWFBUdW45RE5GWXNVc0xlV2daTkxGWGlTZUx2N2tBal9meEJ4Rm5OVnB0YU4wa19YNzFXR2xoT21MR2RPYndZYlZJdzA5VFU2NmNBa1g1QQ?oc=5",
@@ -123,7 +193,7 @@
     "id": "auto-3d0117bd98ca",
     "title": "障害を取り除き、屋上太陽光発電の普及を促進する。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "10:49",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVlUMEROenpGMGFrbERyOGJCTWdINXpzQ18xZ3ItbUJFbmZYS2RmUDRZajF3THV1bzlEeHNxekhLOE82RzFYeDRsV212bzNqTHoxU3dpZjhNLXpuZHdVSUw0Nkk2UUg3MGI2NTdfN1hMSEV5ZmFybWtBOFF1SDIxVXVhMFlsNGlBWDZoaFZn?oc=5",
@@ -133,20 +203,10 @@
     "id": "auto-ffd3ed8c513f",
     "title": "ライ・チャウ氏は、国家電力網への接続と太陽光発電を支援する政策の実施に関する取り組みを概説する。",
     "category": "暮らし",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "10:46",
     "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0RnelU0OElzZmVfNGdpS1VaV2dqXzZzOVFPWG1VSFVXZEhjUC1oOGFnelZyZEI4Zk94dzRVT3A2SWdlaUpCVnFYQXo2YS1VSm5EZjZONkM2MHZrY200bnhva1JJS25VVXF4S2hwVHo4UWY2UDNTVEtsMy1mNDdOenJob1JlVDAyWDlxaEwzX1hBeTl2em92LVFLUkNVMjBOckVEMHpaWXBIa1AzOVd6TWstZDYwOG9qXzlGVHFn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d95e655be23a",
-    "title": "脱炭素で生乳買い取り増額",
-    "category": "その他",
-    "accent": false,
-    "source": "デイリースポーツ",
-    "time": "10:07",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxZmU3bXVueDE1TlgwQnB6bjRRX0piTGloVlg0YnRjb25iMWdsV1RrXzBhZ19uZUlEVEx6ZkZpRWpoTXZwRmJGay16bGVHelZmYzNtRnFKc2tVb1kwMkdBdGZLRUdneGpmLWp6VEQ4YWI4dWpHUlVWTA?oc=5",
     "image": null
   },
   {
@@ -160,10 +220,30 @@
     "image": null
   },
   {
+    "id": "auto-49c9768b7eff",
+    "title": "脱炭素で生乳買い取り増額 業界が２７年度実証実験へ｜全国のニュース｜Web東奥",
+    "category": "その他",
+    "accent": true,
+    "source": "東奥日報社",
+    "time": "10:04",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XZEdyUzM0MUdId0VidDZEQnNkd3ZSc0tMSmZEbXdnTGNpZVltekpCemtyRnA3MGhLYjNVbVpWRG9ZbzE5MlZYZ0d5M2FmX1pTVmROc3dNd1Q?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-585af83ce711",
+    "title": "脱炭素で生乳買い取り増額 業界が２７年度実証実験へ",
+    "category": "その他",
+    "accent": false,
+    "source": "nnn.co.jp",
+    "time": "10:04",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVk4SlNfVTNEVDd6NUhKVFNQcjVXOFZOVGlhcnJyTWZPUFhmRkJqdXgxTnRFNUQyb1llRVVyRzBpR3JWS2NHd0xGemJ3c3Vn?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-b28d34ba4bdc",
     "title": "酪農家の脱炭素で生乳買い取り増額",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "nnn.co.jp",
     "time": "10:04",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWcG9DYVB4aU1nMGFaeEwweUVkcjBZOFVCaW0tZHhBNXZWZ3k3VGJtcVc0NmxRQ3pwd3ZIdmlSY0RTNVFyOUxEQkRWWmxGSW9Y?oc=5",
@@ -173,10 +253,20 @@
     "id": "auto-d51f7650299d",
     "title": "農家の脱炭素で生乳買い取り増額／業界が２７年度実証実験へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "四国新聞",
     "time": "10:04",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzVLbHNWWWI2MlUwQlFIU1hBUl9vVE5MMzRycWo0QXNsMktPVjMwMmIwR0hKLVIyTkZ2blBsdXRaSndSZFhPWVI0bjdtNFk0WGRsY3MxRzJXU3M2dnlSZ0lFVTR6SFFWd2lqeUpfbW1iMElNUWJJbnhCUTBMUEV2Tw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b279d1e01615",
+    "title": "太陽光発電の発展を促進するための解決策を見出す。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "9:54",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0cU92dGxTSENGbHFwcFlyREYzWFVoYUM0eWJ3Q3lHdlNNMVBwSk1nQUlaSjZ5cm5JTVhOS2VMME9lX1dSLU5QSGd2X2N5T2Y5b05ta1RoMV9CUTY3Z05oUVVaZjlpVUdJNGI4eVFQWHBPV3Y3dDF0aXBNY1U0UQ?oc=5",
     "image": null
   },
   {
@@ -207,96 +297,6 @@
     "source": "note",
     "time": "9:35",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZkNzNU93US1uMS1CWjdPekJnS3RuREJUbU5md3JJN1Q5eGpvYzd1V1l4Y3VLX0pldzk4alFFd0lZc291ODZCbWU3YW1DclZ4dV90Y2ZZRml4N1U?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a6c5c222acaa",
-    "title": "水素エネルギー産業、2030年以降に爆発的成長の可能性―中国",
-    "category": "技術",
-    "accent": false,
-    "source": "Record China",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53a2JFMHJJQ3VKVXBseFZPUmFZTlZESHFydDV4YXRTV1JoQVBFakcyZWp1VHBYM2hZQWthZV80WjhvNmdZS2tRdDJpbk1tX2pOVFR3VEt4WjlORzRDSmRYdGhtWVZwZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9a63d6b27a74",
-    "title": "「林地残材など地域資源の有効活用と脱炭素化を目指す」広島ガスがバイオマス発電所を稼働 報道陣に施設公開",
-    "category": "自治体",
-    "accent": true,
-    "source": "Yahoo!ニュース",
-    "time": "9:29",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VlRvYzJMNDJXTWduMFZnaC03RGtTQWZGclVFa1JCc2thTXNfV1ZWUE9VS3ZGOGZwVGlmeEphVjJXdG5RRms2WFNMSkxKdW8yUlRGZDFycjZienlMaHNUdExMb0o0QmNtbE1BRWlDR1NFSEVOaXJRMVdZeHVnMHM?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-05efd5ddc5f9",
-    "title": "東急パワーサプライが家庭用蓄電池を無償設置する「てるまるでんち」2026年度本申込開始",
-    "category": "暮らし",
-    "accent": false,
-    "source": "ELEMINIST(エレミニスト)",
-    "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uVE9vbTJscGtKMWZCblU4aUhHYlhDc2lsR1VkQ0Vwdmh6UllMX0pISVNOUldldzMxVEwzUEVjZVRSWjBPMnRjRHZn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-771e2fbee56e",
-    "title": "住友電工、再エネ向け蓄電池を5倍に増産 長寿命・火災リスク減",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSi1EOFl5YlJRMktvakdVcXdIOHk4bnF4c0oxNkh2amo3RmMzeHNmbzM3TUNOU1JPVFBNeFJwN01fTDJ1Z2RjZnFMcDYxUWMzMlpuWVhOMDJyWW4tUjRMYVR2c29xYjVnVVpQYg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6459a64f9976",
-    "title": "廃校の教室で学ぶ\"使い終えた太陽光パネル\"の未来。中南米6カ国のJICA研修員が「じりじりリユース発電所」を視察",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsY0VoZ2ZzVGlPdVlzOFhJOVlEeXBFLTlSeHQzYjkyRk9SR3RqcjBVcWxmeFUwZVdvdE9uay1pQTdqNkxEa2JOanlKMVc0bHJHNWhuTUE0SVNfdmdvZ3UwN1hIdjFVY0FB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-09c1681c1a3a",
-    "title": "中国、職業教育に27の新専攻を新設 ヒューマノイドロボットや水素エネルギー分野を強化",
-    "category": "技術",
-    "accent": false,
-    "source": "中国経済新聞",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mWXZEVXV4bk9UMVdRNUh3Vl9RdmVjNEQ5elpRWXZ5dVcxSDMyRDNQUjNXcTBySDM1LXpLTXdNLTI0WXp5NzB4ZWpYdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af0923b1e753",
-    "title": "Enfinity Global、Strioga Family Foundationと提携し、イタリアで150MWの蓄電プロジェクトを推進",
-    "category": "その他",
-    "accent": false,
-    "source": "PR Newswire",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakNfT0pfd05TSGVqMVAzZGdkemVBRzdPRkNmYVBpUGZna3pYYXBqdFphaW1uT3ZkOWJZT2s3MjFuUU15WElBcThWdTBpWXlBbkhnVmpYaEJYanNmZXhCOUdUNk1sd3hwQ2JKYVA4NWZFRnJWQnVNX2tuendpbDhRY2NLc21XeF80X25kZ0U3a3RxdllGRHpLbm1tU0pGZkl3SVFlMVliZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e712230bfeba",
-    "title": "日立、栃木配送センターの太陽光設備倍増",
-    "category": "その他",
-    "accent": true,
-    "source": "LOGISTICS TODAY",
-    "time": "8:27",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y2c2alRTSHpCM2tMdW5OV1BWN29mX1dzQkwzVmMzbzVrd1FEZTlhdTZKVFdWWnkyUTV5T083bTd0M1JsdWVxRw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c42b3887c454",
-    "title": "神戸大、水素･未来エネルギー技術研究センターの「液体水素供給システム」竣工式典開催。（2026.7）",
-    "category": "技術",
-    "accent": false,
-    "source": "株式会社グリーンプロダクション",
-    "time": "7:57",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DZ216eUt6UDRveVctY2w5ZTRkM1psLXo2TWhQY3cyTkg1T1lxOEh1aC01T1ZlUEVRcndMWU41XzA2aFVzMEp6LXA4QlZTQnExT2pNSTl6Yw?oc=5",
     "image": null
   }
 ]
