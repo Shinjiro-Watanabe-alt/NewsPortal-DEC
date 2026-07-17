@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-fa7e3fa2907c",
-    "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
-    "summary": "[株式会社バイウィル] 「GXをやりたくなる世界」を目指し、環境価値を活用した経済循環を推進する株式会社バイウィル（本社：東京都中央区、代表取締役社長：下村 雄一郎、以下「バイウィル」）は、株式会社肥後銀行、株式会社大分銀行...",
-    "category": "国際",
+    "id": "auto-2ba0443c7737",
+    "title": "【ガソリン高騰・猛暑・人手不足の救世主】大手企業でも採用が進むブレイズの「EVデリバリー」、法人リース・個人ローン対応",
+    "summary": "[株式会社ブレイズ] 株式会社ブレイズ（愛知県名古屋市、代表取締役：市川秀幸、以下ブレイズ）は、配送・施設管理・訪問サービスなど幅広い業務で活用されている三輪電動バイク「EV DELIVERY（EVデリバリー）」について、法人向けリ...",
+    "category": "企業",
     "source": "PR TIMES",
-    "time": "7/17(金) 7:10",
+    "time": "7/17(金) 11:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000481.000013100.html",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000664.000046750.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/46750/664/46750-664-19b266ab1675ab30aeb157b92c6b4e91-1500x1000.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-59af10c419eb",
+      "id": "auto-33b5d9020fa6",
       "rank": 1,
-      "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
+      "title": "【新刊案内】ナフサショック完全シナリオ ～ AI・半導体・EV時代に始まる化学産業大再編 ～ 発行：（株）シーエムシー・リサーチ",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "7/17(金) 7:10",
-      "tag": "",
+      "time": "7/17(金) 10:50",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000003045.000012580.html"
     },
     {
-      "id": "auto-2dd9598738d2",
+      "id": "auto-41f2629381f3",
       "rank": 2,
-      "title": "Green Carbon株式会社は、フィリピンにおいてAWD（間断灌漑）が水田における生物多様性と生態系の回復力を向上させることを実証",
+      "title": "系統用蓄電所向けプロジェクトファイナンスを実行",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "7/17(金) 7:10",
-      "tag": "",
+      "time": "7/17(金) 10:49",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000286.000117956.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000061.000138114.html"
     },
     {
-      "id": "auto-ec5f87264ce2",
+      "id": "auto-075f63bc048a",
       "rank": 3,
-      "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
+      "title": "学校法人酪農学園・雪印メグミルク株式会社・別海町森林組合・農林中央金庫「北海道別海町の森林保全活動へのJクレジット活用に関する連携協定」締結",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "7/17(金) 6:40",
+      "time": "7/17(金) 10:44",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000004.000186838.html"
+    },
+    {
+      "id": "auto-637bf83b6679",
+      "rank": 4,
+      "title": "太陽光は世界を変えた。では、変わらなかったものは何か。",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "7/17(金) 10:38",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000155406.html"
+    },
+    {
+      "id": "auto-640735f23f7d",
+      "rank": 5,
+      "title": "家庭用エアコンもフロンの「みだり放出」禁止対象に──フロン排出対策中間取りまとめ",
+      "category": "暮らし",
+      "source": "ITmedia スマートジャパン",
+      "time": "7/17(金) 7:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/17/news020.html"
+    },
+    {
+      "id": "auto-d882d80e5a2c",
+      "rank": 6,
+      "title": "大塚グループ初、蓄電池システム導入 太陽光設備に併設し電力を安定的に確保 - kankyo-business.jp",
+      "category": "その他",
+      "source": "検索: 系統用蓄電池",
+      "time": "7/17(金) 3:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yanI4U2NxbkVXR0NHZG0zZ01iV1hheUZWUjluQUxROVlHV0NkNy1NdzVnZXMzS09QWnI1SzZmdk9ZMlBFMGR3UXg4VjZSTTR0VEN1c0Q3YVBiZndKdHQzX3RBUXUwd3lqcDhEckkyUEw5T2p3WU9rSHRnM1M?oc=5"
+    },
+    {
+      "id": "auto-5f506adc6ed9",
+      "rank": 7,
+      "title": "営農型太陽光発電市場、爆発的成長へ：2025年の28億米ドルから2035年には201億米ドルへ",
+      "category": "その他",
+      "source": "ドリームニュース",
+      "time": "7/17(金) 3:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RdkswcWkxTUF2QXU1NXZ3Z0lrLUF4VzdPZllCV21sZlhOaEhwS3FPbmlScmcxZHg5SWJ5M0R6T3VKYmJwZUdLQjVyUFBRYlE5aTJF?oc=5"
+    },
+    {
+      "id": "auto-bb7251ac7917",
+      "rank": 8,
+      "title": "タイガース二軍の球場で「環境問題に関心を」…太陽光発電で照明・グラウンド整備に再生水（読売新聞オンライン）",
+      "category": "その他",
+      "source": "Yahoo!ニュース",
+      "time": "7/17(金) 3:15",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html"
-    },
-    {
-      "id": "auto-5cc28cd87810",
-      "rank": 4,
-      "title": "2026年6月よりJ-クレジットを活用して温室効果ガスをオフセットするキグナスカーボンオフセット燃料を販売開始",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "7/17(金) 6:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000162914.html"
-    },
-    {
-      "id": "auto-0d25b02cfa23",
-      "rank": 5,
-      "title": "韓国ハンファオーシャン、国内サプライチェーンで390MWの洋上風力発電所を建設（KOREA WAVE）",
-      "category": "国際",
-      "source": "Yahoo!ニュース",
-      "time": "7/16(木) 22:15",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wUmRkekhkV2l5YUQxeURiNUNramRucEZJT2duVHBWUVNHVjh6azFpSy1fbGx5Z3U5UHNTRUVadFh0cmhiZXFhd29YbTQ2YTVxN1V2aUozOTM1Y3pjbVRPeHJWWmJRaElPWVIyalY2ZUotTTVGNFhMOUFKRVhBZDg?oc=5"
-    },
-    {
-      "id": "auto-2050509178ce",
-      "rank": 6,
-      "title": "脱炭素に出航！ 水素燃料電池船の愛称募集 今冬、東京港で運航 都港湾局HP、来月31日まで",
-      "category": "技術",
-      "source": "東京新聞デジタル",
-      "time": "7/16(木) 22:15",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fWEkwY1NFMGlXbE1RSVMwXzFvVzJLQ2tXY054aUpCRmxKMEpUV1JoWGpVb0UtVUdMZW5rTXEzTmFRdDV0dDQ3Z2p6ZHAtVFBiZmJN?oc=5"
-    },
-    {
-      "id": "auto-bc84e9f6e24b",
-      "rank": 7,
-      "title": "韓国ハンファオーシャン、国内サプライチェーンで390MWの洋上風力発電所を建設 写真枚 国際ニュース",
-      "category": "国際",
-      "source": "AFPBB News",
-      "time": "7/16(木) 22:13",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLXNKMG8zT2EzU1lKdS1jeXhPNHV1UGZuZl9NUF9DNG41dk1hUG9JZmlZaHZkTTI5TkVUVkJyOXg3ZnY3LTNIalJxSTBRRS1ISUZua2hYM0QwVXZoN1EzM0YyeXNyWHdsSnc2UnJOazlrOGI2eUdLM0FLdW1VMnRLSw?oc=5"
-    },
-    {
-      "id": "auto-7cf00fd21d20",
-      "rank": 8,
-      "title": "「水素ハイブリッド電車」は本当にCO2フリーか？見えない排出を検証する",
-      "category": "技術",
-      "source": "アゴラ 言論プラットフォーム",
-      "time": "7/16(木) 21:45",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YeXZRLXAycWhCOVFXT2FoLWJ5MXpBLU1kOXkxMmMwMFg5WE1fWjVjM0JNZ0J5WkF4NXJiWWo0cThCZzItMEhNa0M5c2pTVFV5TW9sM0xJSVQtcVk?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fS3lldkU4TGpqYUtYLU53aUpLSVMzWEdDVHYwWVlMRGc2dXdXWU1uTllYM2Q5Y2ZvQTV1eFFJM0lkS1hWYWZrMGhCN1BhNGxUUGFndm15UU1fVnRSWkZhTmwxVUNXOG1pOWlGdGhfSlhxYWo2RVJCVTlCUFYwWnc?oc=5"
     }
   ]
 }
