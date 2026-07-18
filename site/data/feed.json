@@ -1,13 +1,43 @@
 [
   {
+    "id": "auto-59af10c419eb",
+    "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-ec5f87264ce2",
     "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "22:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/82695/47/82695-47-a03ac21f05123f08d1d641e60c50bb96-2756x1163.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-637bf83b6679",
+    "title": "太陽光は世界を変えた。では、変わらなかったものは何か。",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "22:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000155406.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/155406/23/155406-23-c7b4405f0c7ac307c977b66694a22bcf-3900x2601.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-4d1c83f0ec65",
+    "title": "「場所食い」なソーラーパネルは過去へ。強力な\"進化系\"太陽光パネル",
+    "category": "その他",
+    "accent": false,
+    "source": "Gizmodo",
+    "time": "14:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vdzlfTUQtSlZINkNINVpaVDdrYkFtS1pPQVhmNkVfeWFzcmxod05CUUdHLVFZSW1sajEzZmQwWDBNQWw2dUxab011Q0diejVocXpjdVBqV01aUGtNb2FIeXB3?oc=5",
+    "image": null
   },
   {
     "id": "auto-67b7a2cbb319",
@@ -17,6 +47,16 @@
     "source": "Laodong.vn",
     "time": "12:49",
     "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDlNZnRnYUw3bnViQklMSGRnRER0dFBRM2IwSGJUUzdXeTJBSFh6U1hCX25yTWFSdE5zaEdyUGU5OGoxNmw5LV9UdVRqNDRhdEJ6TnFrRUVrQkd1LXNiQ1hyNDhpWTNSMVp5dW9jUjh1X1FlMXF4TmtsZlJzaDJ2bkZlVmNXSUZrbjY1YVBKZWNRbGZ0WFl2UHZNUGdhekFkVlVweVBaaWZ5Zmdu?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6d5a7e00e236",
+    "title": "オーストラリア初のカーボンニュートラルなジン蒸留所",
+    "category": "その他",
+    "accent": false,
+    "source": "Siemens",
+    "time": "12:20",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGZ6M3dGT0VuUUF0dC0tMklKdnVzUVdTV3hhUW9hU3lCdnVGQkItU1oyZ2YzeTVDQkV5Mi1KSmVqWVRTVW9IOWpMZDRyNU4tNEN0OThiNlBoTmhjdzJKaHQwMXFvMy16THpsVDVMdnk3ZldkaTdKMDFLc01Felg4UUJCcWVzRnNHNWlxSkVxQQ?oc=5",
     "image": null
   },
   {
@@ -33,17 +73,27 @@
     "id": "auto-90097768da40",
     "title": "成形サイクルタイム20％減の素材を船外機に初採用～「ハイサイクルSMC」素材でカーボンニュートラル推進に貢献",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "北海道新聞デジタル",
     "time": "10:38",
     "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejRRTnlqWTdEaUprdzM1TnUyTWNhN3Q4MDQ5QWhJVTlwZURkSnJWeVNnc1Qydl9kVVdCTS1nUXAxUDg0V1d4TFBCLTM1TEwzSFZwa2s5X1hQZjJ0cHVNbnBPZmJlUVdFVkQtb25jR2FzZ0ZOdVNlUzY4UHhOcnBRVEFJaEVZRzhr?oc=5",
     "image": null
   },
   {
+    "id": "auto-8d8441472742",
+    "title": "【次世代自動車・充電器】JFEエンジニアリング・住友三井オートサービス：交換式EVで提携、商用車の充電待ちを短縮",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "10:06",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TZXNMWmdVWXRfU2g3RHQ5bnBfSW55M2w3SDRiWDF5eVlNaVhWem02aFVCSDloSVVLdWNySHZUaGJwNmNXMEZTelgzZzg5SjRDVjl2Z1VvZkZFZWJIN2p0OVFJcTZXQXh0dF9qc19FNGdaZw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-441c52b6a70d",
     "title": "ハンファジャパン、オリジナル蓄電池「ENERICH（エネリッチ） 蓄電池」を販売開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "CLASSY.[クラッシィ]",
     "time": "9:59",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fT2FxenUyc1FONFdiYUJ3TTExOWFpZjZCeVY1Vl9JZnBJcGh0OF9MUDluekJYSDZyTU5UVmJNQ19NNkxIdDQ1NGhGMHVxb1R6XzJEbjBRMA?oc=5",
@@ -53,7 +103,7 @@
     "id": "auto-9f28656e2691",
     "title": "データセンター用固体酸化物形燃料電池（SOFC）の世界市場（2026年～2032年）、市場規模（平面型、管状、その他）・分析レポートを発表",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "アットプレス",
     "time": "9:30",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nNExkcmhiQVJmNHdQNnFZUFBkSkpSdkIzUExxUVRMUklKM2w3WEUydVpmV3c5UW5NdkxXYUFaUWoxLTYzRzRuMUxIYTBqTDg?oc=5",
@@ -73,7 +123,7 @@
     "id": "auto-8fa7a3749c7c",
     "title": "オフグリッド・マイクログリッドの世界市場（2026年～2032年）、市場規模（太陽光マイクログリッド、風力マイクログリッド、ディーゼルマイクログリッド、ハイブリッドマイクログリッド）・分析レポートを発表",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "アットプレス",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdHVFQl9ib1FmaDBYYko1SC14ZkRwNXRSS0czNkU5Z1ZITTFrc3hEcGdGRDhqQ3A3YmJxZGgwR0NCYk95NjEyQ1BCZDU0UkE?oc=5",
@@ -83,7 +133,7 @@
     "id": "auto-ae549988b15a",
     "title": "倉敷化工社長に西井郁也氏昇格 マツダ出身、脱炭素化などに対応",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "山陽新聞",
     "time": "8:56",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iZldjWkRRZGtsQTZnQThKWVYydUFIbmNwZkVMQmdTUmpYVjV2RXBVdXZUSkV4QzNRbW1kNV9wdmtZNUZkc2dualRpaE1iQ2Z4Q1E?oc=5",
@@ -100,16 +150,6 @@
     "image": null
   },
   {
-    "id": "auto-8d8441472742",
-    "title": "【次世代自動車・充電器】JFEエンジニアリング・住友三井オートサービス：交換式EVで提携、商用車の充電待ちを短縮",
-    "category": "その他",
-    "accent": true,
-    "source": "みんなの広報宣伝部",
-    "time": "8:01",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TZXNMWmdVWXRfU2g3RHQ5bnBfSW55M2w3SDRiWDF5eVlNaVhWem02aFVCSDloSVVLdWNySHZUaGJwNmNXMEZTelgzZzg5SjRDVjl2Z1VvZkZFZWJIN2p0OVFJcTZXQXh0dF9qc19FNGdaZw?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-7fc4884469fe",
     "title": "【政策】静岡市：10kW以上の地上設置型太陽光を条例で規制、14区域は市長許可制に",
     "category": "その他",
@@ -123,7 +163,7 @@
     "id": "auto-bb35a8c4da10",
     "title": "【海外】Actis：ポーランドの風力発電資産を買収、再エネ・蓄電池で最大1.5GWの基盤構築",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "8:01",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01bkdPNC1PYXQ2WWZnN19TZ1BTTjRnUmVuLW5QNmZJeTdLbG9JSjhzS3hhTG5KX2hjcExIQkVUS2ppbU5PbjNkS3FLMjZuZGVrNHBWZFZBandJa2o4d3dlQ2x5WG95ZTB6aERfWFZISDdvUQ?oc=5",
@@ -133,7 +173,7 @@
     "id": "auto-f3f5884c9bf3",
     "title": "【公募】南相馬市：公共施設への太陽光発電設備導入、なみえミライエナジーを優先候補に選定",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "7:56",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VODRlV2k5ZldrZnBqV092djJtYUVBYjJacENveFEzNHU2cmR2V29idjVRYmJFNzlJSjBKT1JsbnlKRzFaTUNsZVNTejluQjJGU252R1l3azExbFNXbW1fRnJqeWgwZEVmcXI2SWgwSDM4QQ?oc=5",
@@ -153,7 +193,7 @@
     "id": "auto-018f6074c754",
     "title": "EVとエネルギーマネジメントの連携による価値創出に向けた取り組みを開始",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "7:40",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wMHVmUkdlcS1TMmNsVUxNRDZuRF9fOGRuamoyYzdlazFVLUNYbVV1UVNPNHJIS2pEZkxSaVp1LWRrN3c3aGxHaU9odE93aDVOWmpuM3ZEa2c3dmc2QV8xSTVieEhXY1hfQm1fSnE1Mms0VjhTYnc?oc=5",
@@ -163,7 +203,7 @@
     "id": "auto-3f1b470569b9",
     "title": "ヤマハが燃料電池搭載の電動小型低速車両「YG-M FC」で公道実証を開始",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ドライバーWeb",
     "time": "7:29",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVDVSeUlDdEJ0c2twa3dyOGJPemFRWXg4OTlVQU1PNUtCOTluelMtNDY2dTZLNmxyV1JBb3RqVFFvS0RtTUFzcVQ4Y3E3el9raVRnR0hR?oc=5",
@@ -180,20 +220,30 @@
     "image": null
   },
   {
+    "id": "auto-3220de3b79a2",
+    "title": "大塚グループにて需要地併設型蓄電池の運用を開始",
+    "category": "その他",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "5:40",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93T3ZpdUxjTloxMlJyNmg3V3c1Y2EtcTJhMkhFZVRlanQxY0NqNW5JSFpQZ1YwSGlyeU9QTnctZHJEYWVmcGxUNHFPdDUyWEdOYmtBZXFXNmRjZkZGMldYeVlWWFY4dEJHWWZsNUJLc1pJeWg2?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-fd99f9736aae",
     "title": "三菱ふそう、カーボンニュートラル目標を14年前倒しで達成——ただし裏がある",
     "category": "その他",
     "accent": false,
     "source": "Tarantas News",
     "time": "5:35",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLURVUlRESkRTc3FDb0NqQzZJZTNHajBsbUozY3NEZllNd290dS1fQzR5NUV6TFEzLVBTSTZhaWVTMDZIeGd5anNYblRHdVA3UU8wemhpVlo5blpQUUY1T2Z5RnNMbl8xc09Gam9jS0F2VkliM3lSUWMwSW85SlBrUHQ3MXY3aUJFQUQ3Z29qLXowVXpqZWV6OXV3SHNZSFdkWmI1R0R0RURERjNIM0twVEN6YlhVaXg4b2o1T1U4dEpkaUtE0gHIAUFVX3lxTE1HYjQ3YlF0bXA4ZVNIajNzbmYwRXY2UmtxRmF3M3ByQnFUYXAtalNHMFZ3bmVzWXJmSmg2Q1c3NGFWZzduNHFqVjhtRjRIaHlVY2tIQTNSMzk1TkZyaGRTUUhjNzJ3Z3hENG9sYmtrLVBxbFFvRk42NGxnS1kwXzFqajhfTGZ3STFZSXBjak9HY0tTLVhCNVVSSUk3dGpESUdlbWs1OXNpYUdqWW5aZ0drVXUtbFRTYjA1aWdKZlZ4WHhSaUlaVF92?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2I0N2JRdG1wOGVTSGozc25mMEV2NlJrcUZhdzNwckJxVGFwLWpTRzBWd25lc1lyZkpoNkNXNzRhVmc3bjRxalY4bUY0SGh5VWNrSEEzUjM5NU5GcmhkU1FIYzcyd2d4RDRvbGJray1QcWxRb0ZONjRsZ0tZMF8xamo4X0xmd0kxWUlwY2pPR2NLUy1YQjVVUklJN3RqRElHZW1rNTlzaWFHalluWmdHa1V1LWxUU2IwNWlnSmZWeFh4UmlJWlRfdtIByAFBVV95cUxNR2I0N2JRdG1wOGVTSGozc25mMEV2NlJrcUZhdzNwckJxVGFwLWpTRzBWd25lc1lyZkpoNkNXNzRhVmc3bjRxalY4bUY0SGh5VWNrSEEzUjM5NU5GcmhkU1FIYzcyd2d4RDRvbGJray1QcWxRb0ZONjRsZ0tZMF8xamo4X0xmd0kxWUlwY2pPR2NLUy1YQjVVUklJN3RqRElHZW1rNTlzaWFHalluWmdHa1V1LWxUU2IwNWlnSmZWeFh4UmlJWlRfdg?oc=5",
     "image": null
   },
   {
     "id": "auto-574bff4c6c06",
     "title": "インドが初の国産水素燃料列車を運行開始。",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "4:51",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzd6dXhVX3UyUndYUFd0bU9Ea2JqcUN5TjdKNFp0Y05HU0cyaVoxdFRsWTdHTnpMaGduTU5jaF9EOXZ2TTdZREc1dUhyWTNMN1dVOENDRm9wYXRJblotTmhyYVMyNElXUERaT19RTnRiUGJJXzg5Y2VPQXg3aXVWZ2NQNXByZjQ?oc=5",
@@ -203,7 +253,7 @@
     "id": "auto-394093f892af",
     "title": "インドが初の水素燃料列車を運行開始。",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "4:49",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MM3pyeE8tMWMxSzB3WVR0WGt1dXRLalU2ay1fZVNTRnV3SHFrY0hfVUo0RnB0Vl9fTUtXMFNxcEYzQmt1YUlWUXJyYmw2NC1yVlJTWHBjX2lzLTJwRmdXQkl5eUpKVHZVVkZ5WnVhenhWQ0M4b3BqZ0dTbGUtQ2M?oc=5",
@@ -223,7 +273,7 @@
     "id": "auto-295586a4ee88",
     "title": "販売首位でも利益は赤字、中国新興EV各社に迫る収益の壁。中国の人型ロボット生産、10万台突破の見通し⋯【中国テック＆ビジネス最前線】 – CONNECTO（コネクト）",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "connec2.jp",
     "time": "4:00",
     "source_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ncFRSWmtUdHhDLW1mTDZMYVJtcEZUeG5uV3k5WG54ejNkMm9jOGJyTldwRUpJOEpjTnFDSWNn?oc=5",
@@ -233,7 +283,7 @@
     "id": "auto-cba9be20f589",
     "title": "ザライ省は再生可能エネルギー開発の可能性を拡大している。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "3:18",
     "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOE5ZQ21sQnN3VDJrWXVCLXl3cGJhcE5uT01yN0xVQ1BMa2JrUWc2dUFDQWl6SWIwdklyX2RSVTdnckhHWjVOZXNHeE1Md2d5b29aeWNRNk9BX1N6ZzM5RE1MZEdvSmZoelRGcGpnN3BTYVFyWVdPUWpwNTdJN2NrVFl6NjI?oc=5",
@@ -247,56 +297,6 @@
     "source": "風傳媒",
     "time": "2:39",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBQk5lWFZNTEk4ZnNkY211T2VsaDhVOUxRd1RGMTRTZ3FOZXlyQWxNTE4tNmV1TnBlR0J3RXJRcmJoNUpYaGhIcEhPQ2laTmFX?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ef029393cb3c",
-    "title": "宇宙空間で巨大太陽光発電！世界のエネルギー革命に挑む",
-    "category": "国際",
-    "accent": true,
-    "source": "TVer",
-    "time": "2:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwSVp5TWtULXRibTQ2ckFoaVoyajhzMmp5VmNwc1A1NkZEWTlrMXAwTm1henZlaVBmR2l4NmdrQkdxdWlRQ3ZsaHJaQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5a2ce91312c5",
-    "title": "ブレイクスルー 世界初！宇宙で太陽光発電～地球に電力供給(テレ東、2026/7/18 10:30 OA)の番組情報ページ - tv-tokyo.co.jp",
-    "category": "国際",
-    "accent": false,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "2:09",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEdZdHlQY2RKZGJFbkV6R04yRHk3RWlQUVZoNS1rcXNGZkZkeF84TUVTa1BJZk1EbFNBak5xOW5hVlVJa1JiMWhrc1JFdjM4bDQ5akRiTXlUZWVPZFc3NjlNWUJrUUtRQXRxRWZqN2w4cTdRSkNmR0dZTGJScHljSjgzWUVHM1d3Y1kzVll3VQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-637bf83b6679",
-    "title": "太陽光は世界を変えた。では、変わらなかったものは何か。",
-    "category": "国際",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "1:40",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80OGROekxGWG9XWDUxRUZHdElYZG9ic2pYSzlIUGdsYlpxcXJyLTRUSjNiU0R1V3hWSmpqTEZ2dEF3aEVramVVcmVmY0hHZjZDVTQtZXRueFRycUlfejkyc1dUcHQ4eGI5bGtndGxsTEJ0c2kx?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/155406/23/155406-23-c7b4405f0c7ac307c977b66694a22bcf-3900x2601.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-5a290dd65516",
-    "title": "インド初の水素列車がハリヤナ州で運行開始 モディ首相が環境政策の象徴として発表",
-    "category": "技術",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "1:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xRU1Va0k3Z01kVks5MG1CM3lkb0JkOXFua3JtYmtaTGxvc1ZFeWFIb2xoUzd4NUNDTHVRX1dzZlBtb0ItX0c2aXFmTEFPOVN1cWdTTg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-126184e9d920",
-    "title": "eMAXIS Neo 水素エコノミー【03312223】：基準価格・投資信託情報",
-    "category": "技術",
-    "accent": false,
-    "source": "Yahoo!ファイナンス",
-    "time": "0:23",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zbHZzaEFGai0wY3M5OXRYT2ZnV3ltcGR2T1NkVlFkdWRKbzZoY05BWVg1ZGxfYUNKMUNFQk42R2RjN3JtMFVWVEd0OGF0b0NzMHJ4ZQ?oc=5",
     "image": null
   }
 ]
