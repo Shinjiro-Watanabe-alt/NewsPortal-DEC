@@ -1,49 +1,69 @@
 [
   {
+    "id": "auto-59af10c419eb",
+    "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "17:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-637bf83b6679",
     "title": "太陽光は世界を変えた。では、変わらなかったものは何か。",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "16:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000155406.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/155406/23/155406-23-c7b4405f0c7ac307c977b66694a22bcf-3900x2601.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-fa7e3fa2907c",
-    "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
+    "id": "auto-5329a34c3f37",
+    "title": "JMU、メタノール船が呉で完成 重油を切り替えながら航行 脱炭素への対応を強化",
     "category": "国際",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "16:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000481.000013100.html",
+    "accent": false,
+    "source": "中国新聞デジタル",
+    "time": "9:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSNWMzdDVpdU5PYmx6bEM3NWZJcnNmU2plV0RHX0VpU3E2ZldDZjBuZWN1VzFqRnlWTkJMbG80Z1ozNG1FUXJWaDFOVVZrS01tN240eXZRdllmUQ?oc=5",
     "image": null
   },
   {
-    "id": "auto-ec5f87264ce2",
-    "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
-    "category": "企業",
+    "id": "auto-9f28656e2691",
+    "title": "データセンター用固体酸化物形燃料電池（SOFC）の世界市場（2026年～2032年）、市場規模（平面型、管状、その他）・分析レポートを発表",
+    "category": "技術",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "16:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/82695/47/82695-47-a03ac21f05123f08d1d641e60c50bb96-2756x1163.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "アットプレス",
+    "time": "9:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nNExkcmhiQVJmNHdQNnFZUFBkSkpSdkIzUExxUVRMUklKM2w3WEUydVpmV3c5UW5NdkxXYUFaUWoxLTYzRzRuMUxIYTBqTDg?oc=5",
+    "image": null
   },
   {
-    "id": "auto-018f6074c754",
-    "title": "EVとエネルギーマネジメントの連携による価値創出に向けた取り組みを開始",
-    "category": "企業",
+    "id": "auto-8fa7a3749c7c",
+    "title": "オフグリッド・マイクログリッドの世界市場（2026年～2032年）、市場規模（太陽光マイクログリッド、風力マイクログリッド、ディーゼルマイクログリッド、ハイブリッドマイクログリッド）・分析レポートを発表",
+    "category": "国際",
+    "accent": true,
+    "source": "アットプレス",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdHVFQl9ib1FmaDBYYko1SC14ZkRwNXRSS0czNkU5Z1ZITTFrc3hEcGdGRDhqQ3A3YmJxZGgwR0NCYk95NjEyQ1BCZDU0UkE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ae549988b15a",
+    "title": "倉敷化工社長に西井郁也氏昇格 マツダ出身、脱炭素化などに対応",
+    "category": "その他",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "16:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000284.000123722.html",
+    "source": "山陽新聞",
+    "time": "8:56",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iZldjWkRRZGtsQTZnQThKWVYydUFIbmNwZkVMQmdTUmpYVjV2RXBVdXZUSkV4QzNRbW1kNV9wdmtZNUZkc2dualRpaE1iQ2Z4Q1E?oc=5",
     "image": null
   },
   {
     "id": "auto-7fc4884469fe",
     "title": "【政策】静岡市：10kW以上の地上設置型太陽光を条例で規制、14区域は市長許可制に",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "8:01",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CSDBZemZ5cFJKbFZ6MW50TGhVWDJVdl9yeGhTUENKOU9oejRiZU5ySkFTb0FYTTVkOWNfel9SMWFyc1p2LUc1eFB0LVdiaU55dnhNcXdQUms4RDBCN1hOa1M5aWxaTnlmUDB4SXNPdzg4Zw?oc=5",
@@ -53,10 +73,40 @@
     "id": "auto-bb35a8c4da10",
     "title": "【海外】Actis：ポーランドの風力発電資産を買収、再エネ・蓄電池で最大1.5GWの基盤構築",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "8:01",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01bkdPNC1PYXQ2WWZnN19TZ1BTTjRnUmVuLW5QNmZJeTdLbG9JSjhzS3hhTG5KX2hjcExIQkVUS2ppbU5PbjNkS3FLMjZuZGVrNHBWZFZBandJa2o4d3dlQ2x5WG95ZTB6aERfWFZISDdvUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f3f5884c9bf3",
+    "title": "【公募】南相馬市：公共施設への太陽光発電設備導入、なみえミライエナジーを優先候補に選定",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "7:56",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VODRlV2k5ZldrZnBqV092djJtYUVBYjJacENveFEzNHU2cmR2V29idjVRYmJFNzlJSjBKT1JsbnlKRzFaTUNsZVNTejluQjJGU252R1l3azExbFNXbW1fRnJqeWgwZEVmcXI2SWgwSDM4QQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fa7e3fa2907c",
+    "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "7:40",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UVHFYaTR6b2ttaS1nSUJwYUs1elpTQ2d1U3lwZzYwQXFCRXpvaURCZmZHZGUwWl8wS19JYW5LSUhBbVlfUlJiUngzc1BwSnpjTi0tdHdqcFp6a01abEpIUWFCRDNROHRSWUVDREI3NlFpZXhz?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-018f6074c754",
+    "title": "EVとエネルギーマネジメントの連携による価値創出に向けた取り組みを開始",
+    "category": "その他",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "7:40",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wMHVmUkdlcS1TMmNsVUxNRDZuRF9fOGRuamoyYzdlazFVLUNYbVV1UVNPNHJIS2pEZkxSaVp1LWRrN3c3aGxHaU9odE93aDVOWmpuM3ZEa2c3dmc2QV8xSTVieEhXY1hfQm1fSnE1Mms0VjhTYnc?oc=5",
     "image": null
   },
   {
@@ -67,6 +117,16 @@
     "source": "山陰中央新報デジタル",
     "time": "7:00",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tYjktMUhES010OVlGdXBXc05wNFp5X1pmOGI3c182ejlCdUFyWENnd0ZRakhxbXEyajNBN25qYmY0WjRQbnVEOHFvYUFlYWFYbHdLd1hIRzhacTQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fd99f9736aae",
+    "title": "三菱ふそう、カーボンニュートラル目標を14年前倒しで達成——ただし裏がある",
+    "category": "その他",
+    "accent": false,
+    "source": "Tarantas News",
+    "time": "5:35",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLURVUlRESkRTc3FDb0NqQzZJZTNHajBsbUozY3NEZllNd290dS1fQzR5NUV6TFEzLVBTSTZhaWVTMDZIeGd5anNYblRHdVA3UU8wemhpVlo5blpQUUY1T2Z5RnNMbl8xc09Gam9jS0F2VkliM3lSUWMwSW85SlBrUHQ3MXY3aUJFQUQ3Z29qLXowVXpqZWV6OXV3SHNZSFdkWmI1R0R0RURERjNIM0twVEN6YlhVaXg4b2o1T1U4dEpkaUtE0gHIAUFVX3lxTE1HYjQ3YlF0bXA4ZVNIajNzbmYwRXY2UmtxRmF3M3ByQnFUYXAtalNHMFZ3bmVzWXJmSmg2Q1c3NGFWZzduNHFqVjhtRjRIaHlVY2tIQTNSMzk1TkZyaGRTUUhjNzJ3Z3hENG9sYmtrLVBxbFFvRk42NGxnS1kwXzFqajhfTGZ3STFZSXBjak9HY0tTLVhCNVVSSUk3dGpESUdlbWs1OXNpYUdqWW5aZ0drVXUtbFRTYjA1aWdKZlZ4WHhSaUlaVF92?oc=5",
     "image": null
   },
   {
@@ -90,10 +150,20 @@
     "image": null
   },
   {
+    "id": "auto-0880141d993f",
+    "title": "【受付中】東広島市脱炭素先行地域づくり事業補助金（事業者用）について",
+    "category": "その他",
+    "accent": false,
+    "source": "city.higashihiroshima.lg.jp",
+    "time": "4:39",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTGl5OEM2VTRHb1JESWpXZG9wMWxKWkxYcGFSMlg4RWNpRHBjcXg1d2d6ZldTYUFyVjQ3YVY5N0VkYnROcjRqZEMxdDNGX2ZGZm01NU9Nenc0aVIwWm4zbFExQ2toLU0tX0JPQVpGU0ZGUEdVN1UtYWJlLU1aM1VPdVJ0enZnZHFobjdMUg?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-443218e993ff",
     "title": "水素ハイブリッド電車『HYBARI』、日本初の営業運転は27年度末へ",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "東京報道新聞",
     "time": "4:27",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2NHFmNHdZRlI2OEEzWmx1WEhlR3RqN2xtTjQxSWplWlFMaUp4cU9XSF9kX1RHaXp1QnRxQWNGYW84dUhMZEtxaUNZb2pqaUpMc0g0?oc=5",
@@ -103,7 +173,7 @@
     "id": "auto-295586a4ee88",
     "title": "販売首位でも利益は赤字、中国新興EV各社に迫る収益の壁。中国の人型ロボット生産、10万台突破の見通し⋯【中国テック＆ビジネス最前線】 – CONNECTO（コネクト）",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "connec2.jp",
     "time": "4:00",
     "source_url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ncFRSWmtUdHhDLW1mTDZMYVJtcEZUeG5uV3k5WG54ejNkMm9jOGJyTldwRUpJOEpjTnFDSWNn?oc=5",
@@ -123,7 +193,7 @@
     "id": "auto-2c9fbc9d4428",
     "title": "三菱地所、脱炭素目標を5年前倒しで達成 再エネ率100％と両輪の経営で過去最高益も記録 | 黃信維（コウ・シンイ） | ニュース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "風傳媒",
     "time": "2:39",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBQk5lWFZNTEk4ZnNkY211T2VsaDhVOUxRd1RGMTRTZ3FOZXlyQWxNTE4tNmV1TnBlR0J3RXJRcmJoNUpYaGhIcEhPQ2laTmFX?oc=5",
@@ -133,7 +203,7 @@
     "id": "auto-ef029393cb3c",
     "title": "宇宙空間で巨大太陽光発電！世界のエネルギー革命に挑む",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "TVer",
     "time": "2:21",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwSVp5TWtULXRibTQ2ckFoaVoyajhzMmp5VmNwc1A1NkZEWTlrMXAwTm1henZlaVBmR2l4NmdrQkdxdWlRQ3ZsaHJaQQ?oc=5",
@@ -153,7 +223,7 @@
     "id": "auto-5a290dd65516",
     "title": "インド初の水素列車がハリヤナ州で運行開始 モディ首相が環境政策の象徴として発表",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "1:00",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoU3JQbE45U1Y3UWpjd2RwR1RkOWJfZXRxT3hqaGxBY1A4dGpXaVdVaWpicXRjN0hVbENZYjNUZDBTNm45ZTdvME9EcWRTWmQ0WC1FSjNOeG45VUowUmFpRjJLOHg2LWxBWUJzcXFhbzFKRW8?oc=5",
@@ -163,7 +233,7 @@
     "id": "auto-126184e9d920",
     "title": "eMAXIS Neo 水素エコノミー【03312223】：基準価格・投資信託情報",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ファイナンス",
     "time": "0:23",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zbHZzaEFGai0wY3M5OXRYT2ZnV3ltcGR2T1NkVlFkdWRKbzZoY05BWVg1ZGxfYUNKMUNFQk42R2RjN3JtMFVWVEd0OGF0b0NzMHJ4ZQ?oc=5",
@@ -180,6 +250,16 @@
     "image": null
   },
   {
+    "id": "auto-2154ded74d68",
+    "title": "【最大163万円引き】ホンダも三菱も対象。東京都民なら軽EVを爆安で手に入れられる手厚すぎる補助金の中身",
+    "category": "その他",
+    "accent": true,
+    "source": "carview!",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDloM0JFZ2h3R3VqblZFTmhrSkI5NUVXY0JmcGNqZ3Q0aTBqRm1jN1ZrT0R2TUlMTUpiN2g2OU1uTWFRX1pWTzc5TFBmNXN6dkxMZ1hhbFBUSlh0NVFCRW83X01qbzQwdWVUaDdneWVhczZ1NUtfWUxUVkt2VHNjRXFJU1dzQTdjc2hvRG0waFFsNkVVWHc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-ffbf5a8a9ca1",
     "title": "【EU】欧州委、電化政策発表。2040年トラックEV比率40%、軽工業の電化も。CBAMも改正 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
     "category": "国際",
@@ -193,7 +273,7 @@
     "id": "auto-fe8e8a917581",
     "title": "【2026年度】燃料転換・電化・水素対応で使える省エネ補助金「電化・脱炭素燃転型（Ⅱ型）」を解説",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "補助金ポータル",
     "time": "23:52",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DV2FCcWlvbG1tLUhmTTRBQjdDVUtQWEt3NFM2QXZyTm1SVWFWQm4xQkY1VTNfaGkxd25PTFFUck8yOVNQbW9xckVMcVlDRlE3VUg1d0F5cmcxUDhnWlJR?oc=5",
@@ -203,7 +283,7 @@
     "id": "auto-691f3474745b",
     "title": "インド 初の“水素列車” 運行開始 | NHKニュース",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "はてなブックマーク",
     "time": "23:34",
     "source_url": "https://news.web.nhk/newsweb/na/na-k10015179761000",
@@ -217,86 +297,6 @@
     "source": "NHKニュース",
     "time": "23:19",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02M21nVDNGenNCdFpmdjdtbWpidks2SzJOcnNjREN0NFVkbExuRERDWlVDVXJmOWRkeEpuR0E1NHZkOV9Bal9jYmdHcXBpckRIa1E4ekV1Tk9aVUk5VDBr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4a7a70c1f1b8",
-    "title": "【公募】環境省：太陽光と蓄電池の同時導入を支援、ストレージパリティ補助事業を7月31日まで公募",
-    "category": "その他",
-    "accent": true,
-    "source": "みんなの広報宣伝部",
-    "time": "22:06",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91MWNNV2hwd0ROMGhVVlBTcnJEX1BjNVVWc1BzUHBvc29Jb0cwdERRa2tGRk10LXlaczNDUjJJZy0zZi1MMXRTZUsyTXVlaExTVlVreUc1ZEcxOU1XNWc3MVVRemdock5wS3JLRFRaQm00dw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b2366e434b6a",
-    "title": "【海外】Suntech：高効率N型モジュール「Ultra T 3.0」を発表、蓄電・EMS一体型の世界展開を加速",
-    "category": "国際",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "22:06",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02RnBSSVNZSFlERzBxb3dVRWtTXzg5ZHFRTko3UEY2UUNEcjMtT2c5VEZWdWwzSFpNUWZqX1ZkZGIyNFM4anZfZkt1Mm9VZHRKWDM1VDJNRWpMUzBFRWNyMmlTanh6eUJRS0VFZjFJMVBnUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-dc88307ae0a5",
-    "title": "小型モビリティー・建機・農機・船舶に活用…OKUMA TECHが事業化に挑む「粉体水素」の利点",
-    "category": "技術",
-    "accent": false,
-    "source": "ニュースイッチ by 日刊工業新聞社",
-    "time": "21:27",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GZHhkRmJXbGV1YWdianNYRl92WVZMenhMM1F1Qnk5SWNBR1I4amV2NVRQN2l1aUh0NlRVRWFscnVxY1J2d0FB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6f697aac1102",
-    "title": "脱炭素化企業２０４０年までに３５０社超誘致目標山口県のＧＸ戦略地域最終審査",
-    "category": "自治体",
-    "accent": true,
-    "source": "47NEWS",
-    "time": "21:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UVTFCdjBFOURTVm5pbktOMEp1RGREYUkxX2ZZdkhqV1dOWDRBZFNreXdRdVVWSXMtU2tDYUs1ZDU1SDJEem1KZzRNdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6064a228a17d",
-    "title": "家庭の太陽光発電、余剰分を取引市場で販売 大阪ガスが年内にも開始 ＦＩＴ優位薄れ",
-    "category": "暮らし",
-    "accent": false,
-    "source": "京都新聞デジタル",
-    "time": "21:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41MU95Uk9Sek5ONXp4S2xoSVc5VzIzdlZnMm1hWDZ3NjhmRWt5VGhLeEs0TFRqNGQzTGRRRmNWQ3g0S3RRTWZjbW1oaC03ekFjVDA1UlhscWQ2Zlk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e4071c6fc4cd",
-    "title": "ソーラーアーク解体へ 安八の新幹線沿い 巨大な太陽光発電施設 ／岐阜",
-    "category": "その他",
-    "accent": false,
-    "source": "毎日新聞",
-    "time": "20:02",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0cGFnN0V2U20tRUtSbW1XTV9tYTFvNUdncDdEckdPRVEyVEFpRUE5cUxXN1dhUnRMVm1vQTRpcmItQllnWFVpX1VDRUpEM0ZnTU02VGNIYXQwaWo4TTBYb01QZU1MOEN0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8fac99c191b4",
-    "title": "洋上風力 対応人材を 北大、カリキュラム新設へ ／北海道",
-    "category": "その他",
-    "accent": true,
-    "source": "毎日新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0taVh6UWc5QnJzbnFlcVlsanZOb2I2TUY1SFZQMnpfMzRuY1ZzSGNCZTM2c1VaM1FjSjdpWFpzWjZXM2ZTenBZMjRXdGo2RlcxWVRVRk1Ha1dJOEVQTHZwMi1qanowTjFkZmVpVjBCZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7b719583bdbf",
-    "title": "水素研究「異分野交えた連携を」 東北大の折茂教授が都内で講演 10月に仙台でシンポ",
-    "category": "技術",
-    "accent": false,
-    "source": "河北新報オンライン",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yOTFEeE5MQkNTRFg3ajlla0FFaWNJdjAxdzhnaTFsM3RPd3lMUHRwZXk3bUp5TkJwbW52NXhpSlBPdkFPR0FVbmVvdmN2aG9DdXFQSHdSRVU5bjNPREtLWg?oc=5",
     "image": null
   }
 ]
