@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-59af10c419eb",
-    "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
-    "summary": "[シーラホールディングス] [画像: https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?width=…",
+    "id": "auto-ec5f87264ce2",
+    "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
+    "summary": "[浜田] 株式会社浜田（本社：大阪府高槻市、代表取締役：濱田篤介、以下「当社」）は、北九州市の「令和8年度 北九州市サステナブル環境ビジネス展開事業助成金」にて、「タイにおける太陽光パネルのリユース・リサイク...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/19(日) 17:10",
+    "time": "7/19(日) 22:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/143674/151/143674-151-e126ff94f371d7a28dd5d2b5b149e4e1-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/82695/47/82695-47-a03ac21f05123f08d1d641e60c50bb96-2756x1163.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-ec5f87264ce2",
-      "rank": 1,
-      "title": "北九州市補助金に採択：タイにおける太陽光パネルのリユース・リサイクル事業化可能性調査を開始",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "7/19(日) 16:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000082695.html"
-    },
-    {
       "id": "auto-637bf83b6679",
-      "rank": 2,
+      "rank": 1,
       "title": "太陽光は世界を変えた。では、変わらなかったものは何か。",
       "category": "国際",
       "source": "PR TIMES",
-      "time": "7/19(日) 16:40",
+      "time": "7/19(日) 22:40",
       "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000155406.html"
     },
     {
-      "id": "auto-8bd7edecf764",
+      "id": "auto-fa7e3fa2907c",
+      "rank": 2,
+      "title": "バイウィル、中・南九州の地銀4行が共同展開する「九州J-クレジット預金」へJ-クレジットを提供",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "7/19(日) 22:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000481.000013100.html"
+    },
+    {
+      "id": "auto-3220de3b79a2",
       "rank": 3,
+      "title": "大塚グループにて需要地併設型蓄電池の運用を開始",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/19(日) 20:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000108.000070390.html"
+    },
+    {
+      "id": "auto-59af10c419eb",
+      "rank": 4,
+      "title": "シーラHD、系統用蓄電所の仕入れに関するお知らせ",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/19(日) 17:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000143674.html"
+    },
+    {
+      "id": "auto-e6feaee2b484",
+      "rank": 5,
+      "title": "にとう泰明【新宿区】省エネ補助金は7月31日締切",
+      "category": "その他",
+      "source": "選挙ドットコム",
+      "time": "7/19(日) 13:27",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uX294b1RDSURtdFJSY1ZKdHdKZTZvaWR2bnBnZGdGazJCc2VEQzRZRmMzTHZwVW03RF9oOFd1Qmgya2UyR3VyN3k3RXZFU1RRbDBaaFlobzllV1dLdnJN?oc=5"
+    },
+    {
+      "id": "auto-7e3399d157e7",
+      "rank": 6,
+      "title": "水素で変わる私たちの未来 神戸が脱炭素の最前線に【神戸市北区】兵庫県議会議員 大塚公彦",
+      "category": "技術",
+      "source": "選挙ドットコム",
+      "time": "7/19(日) 12:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zMlhlX2N0VGh5bWZxYkJsWEEzcEx1aXdoZlZiZE9MNi03VmxLejNSQlFhZ0dseC1hMFdzUTRQc21TZjlETXk0MHhVdEdBOUhxTm15WmRWamRxczBUaDk0?oc=5"
+    },
+    {
+      "id": "auto-8bd7edecf764",
+      "rank": 7,
       "title": "水素用ニードルバルブの世界市場（2026年～2032年）、市場規模（高圧ニードルバルブ、中圧ニードルバルブ、低圧ニードルバルブ）・分析レポートを発表",
       "category": "技術",
       "source": "Newscast.jp",
       "time": "7/19(日) 9:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PdUpfczlSUkRRaFkxR3M1dHZ1OGd2ZEZRSDZhOFdldnd5YkRKdVgwYWxVTGh0N1M3Y1dnamxZZXdzaTBFUkN0V0ZwRzJOU00?oc=5"
     },
     {
-      "id": "auto-11834aff0e39",
-      "rank": 4,
-      "title": "洋上風力発電の基礎構造物を製造する「笠岡モノパイル製作所」で太陽光発電コーポレートPPAサービスの運用を開始",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "7/19(日) 8:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ajh5a0tONGFLMmk5U3lfM2N2WnBTdFU1dElhdnFzNHY3Ti1QQlZSbzMxekJmUExOYjhHbVVCRTRFbUpDX2haRFRLM3YwZmJ0ZHc?oc=5"
-    },
-    {
-      "id": "auto-3796f3f5499d",
-      "rank": 5,
-      "title": "【公募】環境省：運輸部門の脱炭素実証で3件を採択、電動化技術などの社会実装とCO2削減を後押し",
-      "category": "その他",
-      "source": "みんなの広報宣伝部",
-      "time": "7/19(日) 8:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPTkJuNlNlYlpvVS12MGdvVmVfbTRkTk9JcF9jTTN4Q1hnQ0Q0UmljRkU5RW5fSlZ2aEV0X3ljblFucEQwa29JOTQ0Y201d2N5aVBzN212MzNwa0w5Yi03UXF0Q2ZIUjAtRHdNaFNVRWdFQQ?oc=5"
-    },
-    {
-      "id": "auto-25f0ba4cff1e",
-      "rank": 6,
-      "title": "【補助金】環境省：データセンター脱炭素化支援の二次公募、省エネ・未利用エネルギー設備などを補助",
-      "category": "その他",
-      "source": "みんなの広報宣伝部",
-      "time": "7/19(日) 8:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aalNjRUJDNGxtTUpuaUFBYTBMMmx3QXYzcEZ2Z1lTZVdzcnFsNTFvS2xGQ2VCdE5Ga2pJQ1FyWk5nUExiNHpoLWpPODN6M1k1YVZSb2ZWU3pyZ2N3R2psUWlPeUlHTW5rUHhtLVZwQ1BmQQ?oc=5"
-    },
-    {
-      "id": "auto-c9f8288e1937",
-      "rank": 7,
-      "title": "【太陽光発電】東京都・川崎市・仙台市・太陽光発電協会：4者協定を締結、普及啓発からリサイクルまで連携",
-      "category": "その他",
-      "source": "みんなの広報宣伝部",
-      "time": "7/19(日) 8:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQVFF6SEtQT1RfUElLUkltR0NWb053NTJhTUptU0FyRFdwUTl2ZmhXbGtXWWhCYnZ2Z3RVWWl3eEgybDdkR2hsbDU4WkVVc3BnbWRjMVZtQnpGTElKV2ZYM1pWb0trU0xGcHVZdEV0bE1uUQ?oc=5"
-    },
-    {
-      "id": "auto-a7e19f48ab23",
+      "id": "auto-4ca9f01104d5",
       "rank": 8,
-      "title": "【太陽光発電】アルコニックス：次世代太陽電池のPXPに出資、銅・レアメタルの国内循環供給網構築へ",
-      "category": "その他",
+      "title": "【自治体】仙台市：太陽光普及で東京都などと協定、新築建築物への導入制度の円滑な施行へ知見共有",
+      "category": "自治体",
       "source": "みんなの広報宣伝部",
-      "time": "7/19(日) 8:47",
+      "time": "7/19(日) 8:52",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Vbld2MWpwdk9XMGotSzFJUF9OeFhBU2JGT19zeU1wbFY3UzVnVk5pMTczT3NabHF3Qms2ZzhtYW1Rek5JWDlVb1ZSejBlcVM3R2poc1R0azIwbmNoSkhYTFI4aGxHNjlUbkZENmpTTWxGZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jTW41ZlNqdm1GN0hTRDR3MkZ0RnBsc1pwSmpjV3dHdnBjeXFtRkNLYkdDX3dmbnNZWDVXOU05OVo4dGJ1V1VVMzhPR3V4VXBIX08yQmp5VkI3eFowODVPUnFFRWtGVTliRkV1X3JJM0x1QQ?oc=5"
     }
   ]
 }
