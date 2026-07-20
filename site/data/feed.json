@@ -10,14 +10,74 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/155406/23/155406-23-c7b4405f0c7ac307c977b66694a22bcf-3900x2601.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-95e95fc583a3",
+    "title": "政府／太陽光発電環境アセス／一種事業の対象拡大",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊建設工業新聞",
+    "time": "21:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PaXhlZVBrOTRDanNTdl9NTHczcWF3XzZYVWdzSkZuZWR3NWVXTWpLVkltMnF2ZzNMRzllTTdZNEhaeFNNMmc0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-eaafb2b368c7",
+    "title": "ＥＮＥＯＳ、独ＧＥＦ１と合成燃料で戦略協業、日本初輸入へ - kabu-ir.com",
+    "category": "企業",
+    "accent": false,
+    "source": "検索: 企業の脱炭素・水素事業",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sMkphOGlUcnM0a3NXenhid0ZYQ3hrT3ZuOUtadVduVlI3bE82VE5EamhEbDVZTEFHZmNzeV9TcUdaOEo2U1VIaFFkY01meG10X0pGVw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bed5de54cf30",
+    "title": "蓄電池産業の新戦略を読み解く 高付加価値化で売上高3倍に",
+    "category": "その他",
+    "accent": false,
+    "source": "日経ビジネス電子版",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85QW02TXFlYng5NEV3LWlxZ0w2Sm1QdTNvczhxZ1BuR3VzeEU3X1lpMHM5MG9aM0RGeXNXcW9GNlAxTW45eG9vRURVR2pMQUgyU19sYkMtNFpnZDF4T3RuS1psSjVUaHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-46ec37f8d644",
+    "title": "海中作業を自動化､洋上風力にも 中国新興240億円調達",
+    "category": "国際",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkREhqNTlyWWs5UnJqY1FjU0wxNDczT3paLVZZZ1VadEVwU3hqRmE4aEV0RU1xemh2dl9uSTVKcldlbV9VS0RDNnMzeFRQRG1DcTJidnFDNUpZazNwaEFJdGpzRzFXalI3V293NWNGWnAybUQtU2E0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a5a89f11af19",
+    "title": "【CaseStudy】丸紅洋上風力開発：「ここで働く意味」を語るのに必要なのはスタイル──ボトムアップで、自分たちらしさを言語化 Sony Playstation (whyVGOk8pc)",
+    "category": "その他",
+    "accent": false,
+    "source": "Mshale",
+    "time": "19:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QLWVOcGM3Z01jSTNnRlFpT280NzVOQWpPLUVtNE84SVhCekNyZ043NHRCc29RUUw0UDRHTmdVaFhLNEo2ajg4aU92TGJCWm1ub3diT1pSQk4tODg?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-1e5e6b398ed6",
     "title": "EVミニバンを、毎日使う一台へ。『Kia PBV 東名横浜』が7月25日グランドオープン！Kia PBVを体感できる常設ショールーム",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "15:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000123.000107958.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/107958/123/107958-123-5df4ccf5b067b7456ff3e24f200384de-3900x2344.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-db3ec3213f95",
+    "title": "Ａブラウン、オルタナジー風力への出資完了",
+    "category": "その他",
+    "accent": true,
+    "source": "nna.jp",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXcFFoak5EYmJVUkxwSFp3UjNQc21lX1ZTNjRMV3FiNDlhcWR3c2UtQXdpa09MZjlYYlhTTkZocVlkczBTQ2c?oc=5",
+    "image": null
   },
   {
     "id": "auto-1a3a5990d3e0",
@@ -44,9 +104,9 @@
     "title": "水素はいつ「粒子」になり、いつ「波」になるのか――量子トンネルを支配する仕組みを解明",
     "category": "技術",
     "accent": true,
-    "source": "ニコニコニュース",
-    "time": "12:03",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55OUNWX25ub2Z3MnliX1lkZlFIMEViZzNTUU5EWkRScWprMzRiNU5JMUJ6WWp2RXJiaDlMQU03WHk2TTI3VU1HZE9ZcDhkY2xucXFWNXZhSHdDRVd3UzRucDBsU0hDQmxYMWxHd00zV0hteTJrZmc?oc=5",
+    "source": "ナゾロジー",
+    "time": "12:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JVEtRNUNnT0xHZEEyVWlRUkVXNlJfY0gxc254OU1uN0RuMUMtWTE0SWlKaEtmRzJZTTN0M3ZfXzVHV3l3R0pjLVF6STVvY2RXSmJkRkJhQVQwZTg?oc=5",
     "image": null
   },
   {
@@ -237,66 +297,6 @@
     "source": "東愛知新聞",
     "time": "3:01",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcDRIWFNrZEN3STh0blJjS1dPeVlWSTBoQV95cnF4bVNFUmtTOUR5bmNiOS1YYzZFNldTcUpqcU1GRTlnTWJPNjdVOTA3ZU5LVE1HYm1YN2kya1Nt?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-98a69add69bb",
-    "title": "カーボンニュートラル実現へ 環境問題に関心のある若者対象に企業見学会 8月開催 岡山県",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "2:08",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05QzhyWldPV0VoSGNPaUdkUDI0RUZhaS1yVGcwdVBGNHNtb0JnbWF6cUFCRUNDY0Y5T3cyRk1lNGI1bEcyY3drWGdhUVJidENWbWRGNkdLNnBLbG5rWW5kUV9xMWc5ZGhKM2FJeV9n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-380958e35988",
-    "title": "【水素産業】利点広め需要高めよ（７月２０日）",
-    "category": "技術",
-    "accent": true,
-    "source": "47NEWS",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BRFZQSW1xTXlCUWdkWDVENmFZLUVsU1NqeHEyeTF2d3JCeUJWR2I0djFTOExNR2hubVVDQjN1Rmk3SC0yZTZYZ01GOA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4a64b281fe57",
-    "title": "洋上風力発電の開発には政府の関与が不可欠である。",
-    "category": "企業",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "1:42",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2ZmcFBHUWh1RWh2MmdZWW5KMllRZ2tUWGlYdE9sOExfS0ZzemFRRjd3UzBtcGZwRUFPWlNpb3ltSnZxV3dDanUwYUVXT3hZUkZNTjRrQ2xGUmFqVTRHdzZHdElDQUllSU5lZ1p1S2ZQM3U0TkRiQnY4NW1QaERXLTB2ODlCZVhEUktqZzdfaWRRZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cddaddef2d78",
-    "title": "燃料電池…若さで伝える 東洋システムが10月に教室、ものづくり情熱結集",
-    "category": "技術",
-    "accent": false,
-    "source": "ｄメニューニュース",
-    "time": "23:35",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFRNUmdDb2xqTTJlbk9aUFBjQWs0U3dHX1VMNGdnanZScWxtRlRGM3ZRRjl0aHhvMkw1R1Y2OXktNkQzc0NSLTZJM1kySER4bll0Y0FveXZTOEd6WERzblI0YXpDel9uaGFXamhCSU5OQlRTZXU4Y0tRMEdfWmxLaUVLaVRORU01cnVtM9IBjAFBVV95cUxPZFRNUmdDb2xqTTJlbk9aUFBjQWs0U3dHX1VMNGdnanZScWxtRlRGM3ZRRjl0aHhvMkw1R1Y2OXktNkQzc0NSLTZJM1kySER4bll0Y0FveXZTOEd6WERzblI0YXpDel9uaGFXamhCSU5OQlRTZXU4Y0tRMEdfWmxLaUVLaVRORU01cnVtMw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9d9416a155d7",
-    "title": "ＥＵ、排出量取引制度の改正案を公表",
-    "category": "その他",
-    "accent": true,
-    "source": "Economic Media Bulletin Limited (EMB)",
-    "time": "23:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNHB3RWc0eEY0RHV4WkJrY0NUT0VtS1Z2TU1TSmFXTnU0bkRlX3FTVlNDU1FmMXlOcWc1YjR2cHpiX2lmUFAxbUxyc3FoY3M?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e26a60c6cff1",
-    "title": "【太陽光発電】太陽光発電協会・3自治体：仙台市が連携協定に参加、普及啓発からリサイクルまで4者で推進",
-    "category": "自治体",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "22:57",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNEVzWjJQdDVRcTJLTWM5TW9SenhhX1BwMlA4VjJGNG9LdGdqZzZfLVg4SHJLOFlGdGVRcGpSUXpwaXV2Tjd3Qk04TDJhTlpoVy0wZzdvN09BNE54RERWM1NfbS0tcHc5Mzd5NldHT1JHQQ?oc=5",
     "image": null
   }
 ]

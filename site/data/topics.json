@@ -23,8 +23,63 @@
   },
   "headlines": [
     {
-      "id": "auto-1e5e6b398ed6",
+      "id": "auto-95e95fc583a3",
       "rank": 1,
+      "title": "政府／太陽光発電環境アセス／一種事業の対象拡大",
+      "category": "その他",
+      "source": "日刊建設工業新聞",
+      "time": "7/20(月) 21:03",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PaXhlZVBrOTRDanNTdl9NTHczcWF3XzZYVWdzSkZuZWR3NWVXTWpLVkltMnF2ZzNMRzllTTdZNEhaeFNNMmc0?oc=5"
+    },
+    {
+      "id": "auto-eaafb2b368c7",
+      "rank": 2,
+      "title": "ＥＮＥＯＳ、独ＧＥＦ１と合成燃料で戦略協業、日本初輸入へ - kabu-ir.com",
+      "category": "企業",
+      "source": "検索: 企業の脱炭素・水素事業",
+      "time": "7/20(月) 21:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sMkphOGlUcnM0a3NXenhid0ZYQ3hrT3ZuOUtadVduVlI3bE82VE5EamhEbDVZTEFHZmNzeV9TcUdaOEo2U1VIaFFkY01meG10X0pGVw?oc=5"
+    },
+    {
+      "id": "auto-bed5de54cf30",
+      "rank": 3,
+      "title": "蓄電池産業の新戦略を読み解く 高付加価値化で売上高3倍に",
+      "category": "その他",
+      "source": "日経ビジネス電子版",
+      "time": "7/20(月) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85QW02TXFlYng5NEV3LWlxZ0w2Sm1QdTNvczhxZ1BuR3VzeEU3X1lpMHM5MG9aM0RGeXNXcW9GNlAxTW45eG9vRURVR2pMQUgyU19sYkMtNFpnZDF4T3RuS1psSjVUaHc?oc=5"
+    },
+    {
+      "id": "auto-46ec37f8d644",
+      "rank": 4,
+      "title": "海中作業を自動化､洋上風力にも 中国新興240億円調達",
+      "category": "国際",
+      "source": "日本経済新聞",
+      "time": "7/20(月) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkREhqNTlyWWs5UnJqY1FjU0wxNDczT3paLVZZZ1VadEVwU3hqRmE4aEV0RU1xemh2dl9uSTVKcldlbV9VS0RDNnMzeFRQRG1DcTJidnFDNUpZazNwaEFJdGpzRzFXalI3V293NWNGWnAybUQtU2E0?oc=5"
+    },
+    {
+      "id": "auto-a5a89f11af19",
+      "rank": 5,
+      "title": "【CaseStudy】丸紅洋上風力開発：「ここで働く意味」を語るのに必要なのはスタイル──ボトムアップで、自分たちらしさを言語化 Sony Playstation (whyVGOk8pc)",
+      "category": "その他",
+      "source": "Mshale",
+      "time": "7/20(月) 19:03",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QLWVOcGM3Z01jSTNnRlFpT280NzVOQWpPLUVtNE84SVhCekNyZ043NHRCc29RUUw0UDRHTmdVaFhLNEo2ajg4aU92TGJCWm1ub3diT1pSQk4tODg?oc=5"
+    },
+    {
+      "id": "auto-1e5e6b398ed6",
+      "rank": 6,
       "title": "EVミニバンを、毎日使う一台へ。『Kia PBV 東名横浜』が7月25日グランドオープン！Kia PBVを体感できる常設ショールーム",
       "category": "企業",
       "source": "PR TIMES",
@@ -34,8 +89,19 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000123.000107958.html"
     },
     {
+      "id": "auto-db3ec3213f95",
+      "rank": 7,
+      "title": "Ａブラウン、オルタナジー風力への出資完了",
+      "category": "その他",
+      "source": "nna.jp",
+      "time": "7/20(月) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXcFFoak5EYmJVUkxwSFp3UjNQc21lX1ZTNjRMV3FiNDlhcWR3c2UtQXdpa09MZjlYYlhTTkZocVlkczBTQ2c?oc=5"
+    },
+    {
       "id": "auto-1a3a5990d3e0",
-      "rank": 2,
+      "rank": 8,
       "title": "サンパワー、カリフォルニア州住宅コミュニティで太陽光発電システムを完成 執筆 - Investing.com",
       "category": "暮らし",
       "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -43,72 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90U1dJQy1CRmJtQzJLVF9wTW50MkQ3elNXQWZBT19oaE15RzdmbE1abkFaMFFoVExDRzlwZnJiQ1BCamVzcm1SR2ZqQWtKaHRwTE1lZlZRa1V6bjBFZUd1OHh4Nl8yLXhpSjBlc1ppaVk?oc=5"
-    },
-    {
-      "id": "auto-30268b7322b6",
-      "rank": 3,
-      "title": "電力、新エネルギー、再生可能エネルギー、石油・ガス、化学製品の国家管理における産業貿易省の政策、法律、任務、権限の実施に関する検査結果の発表",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "7/20(月) 12:05",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOeVFZMEhrSndfblMxZ3RrOGlFU01XblBuczBZdUhvYzlDaXdtZkVUTHdmVnE1Tl9uQUVvSzZ2b2dXc2NQT0tiMThQSG9BblJPZktKNnpRMklhRU5TUGNCZGNWdm80MGQxZHpPaXRmanF6V0tDbktkc2pvcVRGZTZvZmRlMXdteUlYVEVnUk5pU3F2S0N6ZXFEOV9fV2ktSlhQc3pNRlR4Q1BVSWxfWnNSNW1nWEt4bXlXYzhaZ1YwaUlfTUx6Nk94eF9ia2EtYjgxTW5UVE5QdlpnRnU1cldwYnRVTVlITkUxMmo1RGZWai13eWNSLTlka2xFa1liS0NUQU9LOEk4SGVFb202TVRQMlFEazl5OFNlMDM4REtubllieUcyTHc0emphTlZqaVFZMVZaZ2w4ODFJblE?oc=5"
-    },
-    {
-      "id": "auto-fda698e8d3e2",
-      "rank": 4,
-      "title": "水素はいつ「粒子」になり、いつ「波」になるのか――量子トンネルを支配する仕組みを解明",
-      "category": "技術",
-      "source": "ニコニコニュース",
-      "time": "7/20(月) 12:03",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55OUNWX25ub2Z3MnliX1lkZlFIMEViZzNTUU5EWkRScWprMzRiNU5JMUJ6WWp2RXJiaDlMQU03WHk2TTI3VU1HZE9ZcDhkY2xucXFWNXZhSHdDRVd3UzRucDBsU0hDQmxYMWxHd00zV0hteTJrZmc?oc=5"
-    },
-    {
-      "id": "auto-845a30e6f6e0",
-      "rank": 5,
-      "title": "次世代蓄電池分野の各国調査 エナジーインベストに決定 ＮＥＤＯ - kankyo-news.co.jp",
-      "category": "技術",
-      "source": "検索: グリーン水素",
-      "time": "7/20(月) 10:55",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jZWFqN1Z4RXNHVGNWdTRJYk9URWFqS3N2NUoxRDRESVpsMVJlQ3hDemtNc2ZyN2FuRzJYV2RkSDF0V1YzcjZFM3ZpSW5peG83LWhnUkd3VnNER09xdDhIWktTa3hpckJDYnNob2FzYU1Bc1pldHFrYTVoVQ?oc=5"
-    },
-    {
-      "id": "auto-ba1b454b4275",
-      "rank": 6,
-      "title": "中国の太陽光発電輸出、全体は減少もアジア・アフリカ向けは増加 執筆 - Investing.com",
-      "category": "国際",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "time": "7/20(月) 10:41",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00aHVEV290VE1RVEZ4VlF4VEVsUm5xSWJWdjJyMTI4X01tVEl2cHVVdjVXT1M1cEtmV3plMjZMVF9WeU1BY2ZzMkp1OWRLMHZmYVNEVlZKR2lydmR5TlpWNkc4UWIzQTNuLVJ6TWsxRng?oc=5"
-    },
-    {
-      "id": "auto-298a9062031d",
-      "rank": 7,
-      "title": "かがし屋の高圧太陽光発電所、蓄電池併設を完了し運転開始(2026年7月16日11時0分) - oita-press.co.jp",
-      "category": "その他",
-      "source": "検索: 系統用蓄電池",
-      "time": "7/20(月) 10:13",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JMVRRS0M0UGVhdXh6bVlMNmxmN3JYVUZ5d0pMSF9pYzZPNG1GckhGRUV1U1BaQTZxM0d5OXo4R3B2MEdqLUw4d01MYUJDS2RKdFZrQnBDbXFrLXVUTzdsLVZPSF9EMzZ4YldGQXpR?oc=5"
-    },
-    {
-      "id": "auto-cbc668195e80",
-      "rank": 8,
-      "title": "水素タンク（IV型・V型複合材）市場規模レポート 2035年",
-      "category": "技術",
-      "source": "Global Market Insights Inc.",
-      "time": "7/20(月) 9:57",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWl6b1dTS0FyY3dVMXdVRmFfcXpFVlJxeEJXLXl5ZXh1b0VTM3NlZFVEQ0xiR0tqUGFZZ2VORklZdnBOMUVCa0xMT3FkYmhKM2tQcXQ4R2NCZ3h6NG1pRnNfTklTZEQ1U2JSS3RsMUV3eWZINi1LMGN1SXV0b2htQ3JFTUZ3cDZQbXRxcDN6MXZ0YUY5Y0R6QQ?oc=5"
     }
   ]
 }
