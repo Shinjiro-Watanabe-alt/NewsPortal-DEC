@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-af93c3bf7595",
+    "title": "バイウィル、バンダイナムコHDの脱炭素施策をサポート アミューズメント施設の実質CO2ゼロ化に向け1,000万kWhの環境価値調達を支援",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "4:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000484.000013100.html",
+    "image": null
+  },
+  {
     "id": "auto-821b07e16aec",
     "title": "スタイリングライフ・ホールディングス、「TOKYO GX ACTION MUSEUM」に出展",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "1:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000606.000004775.html",
@@ -13,11 +23,31 @@
     "id": "auto-8e357138fc6d",
     "title": "MNインターファッション、「TOKYO GX ACTION MUSEUM」に初出展",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "1:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000204.000024743.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/24743/204/24743-204-91f320831e6a935d34ab9e79a17b8c77-3900x2200.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-2ecbcff59a59",
+    "title": "ENEOS、独社から合成燃料を初輸入へ",
+    "category": "技術",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "18:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kdzdhdXJVRWdnOUU1M1VhWmFiQmsyb2RGUklrWWRWNnNMRjEwalNvcUoxY0RDb29OVFNiTFNvLVRKTjVHbHpfMQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5df8757759f8",
+    "title": "系統用蓄電所「豊岡1号」の試運転開始に関するお知らせ",
+    "category": "その他",
+    "accent": true,
+    "source": "ニコニコニュース",
+    "time": "16:18",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RdnJ0enc2Y3QtOG9Bc2hHc1lBSnNEWk9lYm12RkZMRGlxdTl2emFaSEVxOEpHeWJ5YWc1R3dNaXFCT3hhcGlqUHJOUDlUWlhZVExSWW5XUURnTjl0NnktZXBwb2F1ZmZB?oc=5",
+    "image": null
   },
   {
     "id": "auto-edd2af057918",
@@ -30,20 +60,10 @@
     "image": null
   },
   {
-    "id": "auto-182f852bad33",
-    "title": "Earth hacks、QuizKnockを運営する株式会社batonと共同制作した中高生向け探究学習教材「すごろくとクイズで楽しく学べる脱炭素」が「消費者教育教材資料表彰2026」優秀賞を受賞",
-    "category": "その他",
-    "accent": false,
-    "source": "RBB TODAY",
-    "time": "14:10",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsUC1DY3ltVjloUnUwaDlaT0wwS3hFa2JhSVRLWVA0U3BFNHZWQlZWb3pGenJCZFAwTnJ3QXRCWE1IMElsMkgyOURxR01YMTVreHV1MEgzQ3FDMW82OEdkWEFNQ2Z3SGVpSVFGLTFVMGFlalIyVHBGcA?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-2e44406fda52",
     "title": "太陽光発電市場 2035年に5,216億9,000万米億ドルへ拡大、CAGR約6.48%で成長",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社",
     "time": "13:28",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUVTS3JmSngtdDFESDZqa2ZOOUpuQktucVNMOVo1Qk1pMHVhS3ZqR2VmNXRXeEVLalFmVS1OcEt2bFlWTFNxNEE0RVk5ajFkUWNZcUN5UHByamN0cjZFaDNFSWdaMzhmT1oyOGVjODNFQ2hRbXpjdkk2MFdIN0hsT0VNVnZMcWtCYUlLVlMzbE9MLXhBT29RdlhQeWU5eUJwc2VaMDlvQnBmSHpLb2JSQVdFOTBHR0cyQnd5TVY3bVA?oc=5",
@@ -53,7 +73,7 @@
     "id": "auto-e3b2451fef67",
     "title": "日本初導入！MKタクシー本社ガレージに次世代蓄電池を設置。「バナジウムイオン電池エネルギー貯蔵システム」オープニングセ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "13:18",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93N3lZWGdLbXBvcG10OFU2U0x5aERzVG0tSk11eUNPWlhrZVNqTVkwT0V4MUZzZzE4Qk9qMmlKWGFRZURkZWZBMmUxZEVoTVdQWTNoOE1FbHhqM3RZdnJkVl9qX0diODFSOEtuUDU4di1paXMyaHJ6UVFpaw?oc=5",
@@ -73,7 +93,7 @@
     "id": "auto-a950aaae347a",
     "title": "三菱ふそうトラック・バス。国内の全製造拠点でカーボンニュートラル達成。国内自動車メーカーで初。製造拠点の電力を化石燃料由来から再エネ由来に転換。不足分はクレジット相殺（RIEF）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "一般社団法人環境金融研究機構",
     "time": "12:59",
     "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxT2I0Um5YZ1NzRXotaXNMbkEyX1pRY1dYSk1JWjNqS2lPdE0zZTVQSkVmak9xZ01zZHl4VnpYY0xtNjN3?oc=5",
@@ -83,7 +103,7 @@
     "id": "auto-c496b9c2d7ec",
     "title": "今週のエネルギー転換 - サンパワー、大規模太陽光発電プロジェクトで再生可能エネルギーへの移行を牽引",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "simplywall.st",
     "time": "11:25",
     "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjNzazBhU1Rpdk1ZbVJQSHQyYlFIX2VqV08zOXFxNEd2VkJaYkpZRFZhWGttZG5yWjdTQmlVdEhPVmhEUUFNaFFGRlpqaWxYSURfQ3hzNWRDTFFnZnJ1SVFsS2NXdnlzSzBGWGRWNDRsMXhjRGNwc2dpNmFKVUl5QmVfUFdFNjlHWERFTnRMNNIBlAFBVV95cUxPN2E2dDNjQk5xZzEwWWNKbXh2d2JNdkF2TEN6bjB1dTRaZ3pUeGxlZEVhcGh1bkluUFJCaE1ROVQ2WGhSVFNYdFpyUkg2VVJpQm43NEVaVWd4Rk9TODAxN1gxUkZwX0ZHaTdiQVZrdlF0MFZmckRnLTlvRF9mZWtJaUExWEZ6WXl3VnRjTGwyOHI0MDZQ?oc=5",
@@ -103,7 +123,7 @@
     "id": "auto-0af9382e348c",
     "title": "「魚が逃げる」「安全性は」…洋上風力発電で市民団体と国がオンライン意見交換会 鹿児島県いちき串木野市",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "南日本新聞",
     "time": "11:09",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hMlZxSFFFNC1IT09adHB3LXdweFF3OW0za2pyNEpNT2RJcGhKajctczk2S0lSMXFSYWdFV2VraXp3RmxSWmp5LU10YkEzNGNoTEw1dEc5NUY?oc=5",
@@ -113,7 +133,7 @@
     "id": "auto-714d9ecd863a",
     "title": "浮遊軸型風車の実証開始 国産・低コストの浮体式洋上風力 ＦＡＷＴコンソ - kankyo-news.co.jp",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "検索: 洋上風力・太陽光",
     "time": "10:55",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3M1BDREpicWdFeVVsUmtQaEliNlBVcElBUzMyYVBiVlJGOXJKcVhuUG1ZZ3B1Y2tDM0pUYjJLbUFXck1GTW5hamVlTEJhbWJHWEpHY2kzSlQyX0E2ZDQxRkRzTEE2bGJRRXVub1dJZVpSX0x1dUg3a3k4cw?oc=5",
@@ -133,7 +153,7 @@
     "id": "auto-88c27c4d68af",
     "title": "脱炭素バイオマス燃料製造竣工式【愛媛】（eat愛媛朝日テレビ）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ニュース",
     "time": "10:27",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xdFh2WFNqWDBfdmpZeHhJb2FDUzdkUHFKWmI2Rmd3el81U1Fkamg3RmhQaVNoSnZ2eUZ5VGN0U2Z3eE1jWmxZX3lFNkxrZDByV3UxeTV2QmE1Nl9YaWpUWFB5RkcwNGp2UlFkaG1Xek9aUW8zRDJmNkd6bHlkS1U?oc=5",
@@ -143,10 +163,20 @@
     "id": "auto-f38acc03c3b5",
     "title": "QuizKnockを運営する株式会社batonがEarth hacksと共同制作した中高生向け探究学習教材「すごろくとクイズで楽しく学べる脱炭素」が、「消費者教育教材資料表彰 2026」優秀賞を受賞",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "AERA DIGITAL",
     "time": "10:16",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84eENhNmRsRjJwQjNMWlpRMDlMVHNVUXI4cGJyUXVyTVhaQzI0QzZyUmNpd1RNMVQ1X3BBWWRNdV9QYzVPeGlvcnRNa25jQXlU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-902ec4328a49",
+    "title": "EUがETS改正案を提案、無料割当を脱炭素投資に紐付ける",
+    "category": "その他",
+    "accent": false,
+    "source": "Межа. Новини України.",
+    "time": "9:34",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BOWg3elVPRlpoSDcwUnNyZ2RmY1hKMXRGOUZDeExfRlhMdFdobk9DVG40eHMzblc2cnRnMGpod0ljSlIxc2Vub1FMTmo2RXBjTFRqMW0zX0pmbzQ0TEE?oc=5",
     "image": null
   },
   {
@@ -226,17 +256,17 @@
     "accent": true,
     "source": "ニコニコニュース",
     "time": "7:30",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44WjdjWlhpd29BckdCUHVJWm9ZVFpEUVlmc3NHNlBJemlYRHNLMUZBaHBaU1VOV0FKM0FHdGZOTGFJd3hEMHVndFhaY284c0FKc1E5NzM4dk9aMUwwUGlJQXprZDhpd2plOGF4LUN1VzdvMVNMR055dFZRaw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rZWVWSmZURUFrVlpoVExlZ1JQNTlnVjhwb1g3VjQtX01Uc1haWlNianQ0eWRBcnhQVzJyZk5Pc2hOVU8wLVd0M2VFXzN6a0tULUZuQ0g1Y0h5T3EzOW5DaDFlQ09pY25TaUJEUkxkT0lwY3F1SS0wb2tPYw?oc=5",
     "image": null
   },
   {
-    "id": "auto-5df8757759f8",
-    "title": "系統用蓄電所「豊岡1号」の試運転開始に関するお知らせ",
+    "id": "auto-182f852bad33",
+    "title": "Earth hacks、QuizKnockを運営する株式会社batonと共同制作した中高生向け探究学習教材「すごろくとクイズで楽しく学べる脱炭素」が「消費者教育教材資料表彰2026」優秀賞を受賞",
     "category": "その他",
     "accent": false,
-    "source": "イザ！",
-    "time": "7:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuaHN1QXJTdnMxaWVMMHZLT0tiLVhDQjlGd1RrRnpyLWpCYXd1aU9RRGxHZ0F4eGJmLWJ4WjhadHRjcVZ3NnVaVDVvZFJBb0JRc0lQWG9INnRoZTlTMkFXRUVvaU80NjBBdTlHc1gwTVByY2JYOEpnaWNR?oc=5",
+    "source": "ニコニコニュース",
+    "time": "7:18",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wa2dKM2UyQ2tHSTBheHV1RmdsVkpvb1QzTHFTU0FxMXdsc25ST0tKODhfdWJvc0c0dmxYX2RXWEUxbkNXY3o4WVFvdTFNUy1XcEowZkRCOXphS3FIZXFxQkdMbDFfdWRVck1fMzFPT0Z5THVzNnlmdmE0QQ?oc=5",
     "image": null
   },
   {
@@ -260,16 +290,6 @@
     "image": null
   },
   {
-    "id": "auto-2ecbcff59a59",
-    "title": "ENEOS、独社から合成燃料を初輸入へ",
-    "category": "技術",
-    "accent": false,
-    "source": "LOGISTICS TODAY",
-    "time": "6:56",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kdzdhdXJVRWdnOUU1M1VhWmFiQmsyb2RGUklrWWRWNnNMRjEwalNvcUoxY0RDb29OVFNiTFNvLVRKTjVHbHpfMQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-1ffe5f3fd81c",
     "title": "トーカロ、サプライヤー向け脱炭素勉強会",
     "category": "その他",
@@ -277,26 +297,6 @@
     "source": "LOGISTICS TODAY",
     "time": "6:56",
     "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZQXg2anFOMGlSeGlveWszLUtqcUo1cl8wZWN4TlZpTzQyZUc3TzNZRy1fWTdlQldYWTF0OUNMZERfNmMzSXdBMA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e4469440de81",
-    "title": "蓄電池を併設しFIPへ移行 グリーングロース、導入～卸電力市場運用を支援 - kankyo-business.jp",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 系統用蓄電池",
-    "time": "6:47",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBULU95VWIzN2UzUlh5bVpTOEhENHBiZzNMR2FmUkdNQWdBSEF0TDREV1RDd29uM1Jpb1dYcFpsOXNwaTZZTExQaDNxT3R1SERBWUJwYm9BTzZGbEFKRXhUeEg5UnB4QnBIbnJBYXJmLTlDOEh5bEVIZTdIb1g?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8cca2788230d",
-    "title": "ペロブスカイト・水素…投資総額370兆円の「日本成長戦略」、製品・技術を特定 - kankyo-business.jp",
-    "category": "技術",
-    "accent": false,
-    "source": "検索: 水素・燃料電池",
-    "time": "6:47",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82NHdGdTdWWDc1cS13bGZIRDRVM2lzRXpQQ2Q3YVdBc083ODFRVnIxd2oxRVU4MTNNQWlCMEpRak1ud0djcjBkT2EySF9aWnRveFF6SlRmT1JUMlR6ZHJpazJDQlBYLVVLSXNHa2s1Nk5WZHlTZWM4Wk1jYmN0MWM?oc=5",
     "image": null
   }
 ]
