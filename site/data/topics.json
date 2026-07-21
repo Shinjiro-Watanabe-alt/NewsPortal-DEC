@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-fe1bbe46c4d6",
-    "title": "ドラッグストアの防災拠点化へNo.1グループがBCP対応型蓄電池「EnerCraft EC-700」を「第26回 JAPANドラッグストアショー」に出展",
-    "summary": "[株式会社No.1] オフィスDXおよび防災ソリューションを支援する株式会社No.1（本社：東京都千代田区、代表取締役：辰巳崇之、東証スタンダード：3562、以下：当社）および子会社である株式会社Club One Systems（本社：東京都千...",
+    "id": "auto-e64a64355026",
+    "title": "テラチャージ、CAVE OKINAWAにEV用普通充電器2基をサービス開始",
+    "summary": "[Terra Charge 株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/75648/466/75648-466-ba8890e4f5dbc2abc06cd93fc6e8e6f5-1075x650.png?w…",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/21(火) 15:40",
+    "time": "7/21(火) 23:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000100.000055597.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/55597/100/55597-100-fedd2454ccb5ca574df5e2f90e41d2ea-1198x752.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000466.000075648.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/75648/466/75648-466-ba8890e4f5dbc2abc06cd93fc6e8e6f5-1075x650.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-d5ee0304865c",
+      "id": "auto-fe1bbe46c4d6",
       "rank": 1,
-      "title": "テルトニカ、EV対応フリート管理テレマティクスを日本市場で本格展開",
+      "title": "ドラッグストアの防災拠点化へNo.1グループがBCP対応型蓄電池「EnerCraft EC-700」を「第26回 JAPANドラッグストアショー」に出展",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "7/21(火) 15:15",
+      "time": "7/21(火) 15:40",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000182425.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000100.000055597.html"
+    },
+    {
+      "id": "auto-e3b2451fef67",
+      "rank": 2,
+      "title": "日本初導入！MKタクシー本社ガレージに次世代蓄電池を設置。「バナジウムイオン電池エネルギー貯蔵システム」オープニングセ",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "7/21(火) 13:18",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93N3lZWGdLbXBvcG10OFU2U0x5aERzVG0tSk11eUNPWlhrZVNqTVkwT0V4MUZzZzE4Qk9qMmlKWGFRZURkZWZBMmUxZEVoTVdQWTNoOE1FbHhqM3RZdnJkVl9qX0diODFSOEtuUDU4di1paXMyaHJ6UVFpaw?oc=5"
+    },
+    {
+      "id": "auto-7d507b5f84f6",
+      "rank": 3,
+      "title": "ERIホールディングス＜6083＞、環境経営コンサルティングのカーボンフリーコンサルティングを子会社化",
+      "category": "その他",
+      "source": "Excite エキサイト",
+      "time": "7/21(火) 13:11",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0SlQ1RU9oSDhWYlZXQWw2REZxSl9RTzdidXZTdzFwaVZOMm5FS1R6Ujd3V05UTTNDZl9wNnlRbUpkeXBFeE9INWVxVUZRdXJ1b21kOEEwS1ZUdWc1VkY2aTZrSnhVMkk?oc=5"
+    },
+    {
+      "id": "auto-a950aaae347a",
+      "rank": 4,
+      "title": "三菱ふそうトラック・バス。国内の全製造拠点でカーボンニュートラル達成。国内自動車メーカーで初。製造拠点の電力を化石燃料由来から再エネ由来に転換。不足分はクレジット相殺（RIEF）",
+      "category": "その他",
+      "source": "一般社団法人環境金融研究機構",
+      "time": "7/21(火) 12:59",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxT2I0Um5YZ1NzRXotaXNMbkEyX1pRY1dYSk1JWjNqS2lPdE0zZTVQSkVmak9xZ01zZHl4VnpYY0xtNjN3?oc=5"
+    },
+    {
+      "id": "auto-9adf972655c8",
+      "rank": 5,
+      "title": "水素コンプレッサー産業の将来の収益と市場洞察：2026年から2033年までの年平均成長率",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "7/21(火) 12:03",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNFVqWjMwb1UtdWZ6MkNzSE9OeDZsdFIzSjg0UElZN0dkNVZlWEN3eTQxeG9PTjR0dThWOFUwQ1JPTDdIN2ZwVEpn?oc=5"
+    },
+    {
+      "id": "auto-c496b9c2d7ec",
+      "rank": 6,
+      "title": "今週のエネルギー転換 - サンパワー、大規模太陽光発電プロジェクトで再生可能エネルギーへの移行を牽引",
+      "category": "その他",
+      "source": "simplywall.st",
+      "time": "7/21(火) 11:25",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjNzazBhU1Rpdk1ZbVJQSHQyYlFIX2VqV08zOXFxNEd2VkJaYkpZRFZhWGttZG5yWjdTQmlVdEhPVmhEUUFNaFFGRlpqaWxYSURfQ3hzNWRDTFFnZnJ1SVFsS2NXdnlzSzBGWGRWNDRsMXhjRGNwc2dpNmFKVUl5QmVfUFdFNjlHWERFTnRMNNIBlAFBVV95cUxPN2E2dDNjQk5xZzEwWWNKbXh2d2JNdkF2TEN6bjB1dTRaZ3pUeGxlZEVhcGh1bkluUFJCaE1ROVQ2WGhSVFNYdFpyUkg2VVJpQm43NEVaVWd4Rk9TODAxN1gxUkZwX0ZHaTdiQVZrdlF0MFZmckRnLTlvRF9mZWtJaUExWEZ6WXl3VnRjTGwyOHI0MDZQ?oc=5"
+    },
+    {
+      "id": "auto-f89932f088c8",
+      "rank": 7,
+      "title": "太陽光発電などの設備導入、最大4000万円補助 徳島県が中小企業を対象に申請募る",
+      "category": "その他",
+      "source": "徳島新聞デジタル",
+      "time": "7/21(火) 11:20",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55bklxN1VMa1BtMVFVdnlxRWFHSnJBSVJ0bmx4bFlYYkY0TF9VdGdROVRRZDdPdGlVdG9RenFySU5yV3Q1NmpiblUwRFFCV25nb25VaFJR?oc=5"
     },
     {
       "id": "auto-0af9382e348c",
-      "rank": 2,
+      "rank": 8,
       "title": "「魚が逃げる」「安全性は」…洋上風力発電で市民団体と国がオンライン意見交換会 鹿児島県いちき串木野市",
       "category": "その他",
       "source": "南日本新聞",
       "time": "7/21(火) 11:09",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fbnRMOEh2V1hpdmF3SjhfMFpJUWJxeUxmM3B2c293VWhxbWJvUjhyc2paN2ZvN0toXzFXbndVZ0dRNFFKenFsR3BETGp1dWNTdTZvN2xDNA?oc=5"
-    },
-    {
-      "id": "auto-714d9ecd863a",
-      "rank": 3,
-      "title": "浮遊軸型風車の実証開始 国産・低コストの浮体式洋上風力 ＦＡＷＴコンソ - kankyo-news.co.jp",
-      "category": "その他",
-      "source": "検索: 洋上風力・太陽光",
-      "time": "7/21(火) 10:55",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3M1BDREpicWdFeVVsUmtQaEliNlBVcElBUzMyYVBiVlJGOXJKcVhuUG1ZZ3B1Y2tDM0pUYjJLbUFXck1GTW5hamVlTEJhbWJHWEpHY2kzSlQyX0E2ZDQxRkRzTEE2bGJRRXVub1dJZVpSX0x1dUg3a3k4cw?oc=5"
-    },
-    {
-      "id": "auto-88c27c4d68af",
-      "rank": 4,
-      "title": "脱炭素バイオマス燃料製造竣工式【愛媛】（eat愛媛朝日テレビ）",
-      "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "7/21(火) 10:27",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xdFh2WFNqWDBfdmpZeHhJb2FDUzdkUHFKWmI2Rmd3el81U1Fkamg3RmhQaVNoSnZ2eUZ5VGN0U2Z3eE1jWmxZX3lFNkxrZDByV3UxeTV2QmE1Nl9YaWpUWFB5RkcwNGp2UlFkaG1Xek9aUW8zRDJmNkd6bHlkS1U?oc=5"
-    },
-    {
-      "id": "auto-f38acc03c3b5",
-      "rank": 5,
-      "title": "QuizKnockを運営する株式会社batonがEarth hacksと共同制作した中高生向け探究学習教材「すごろくとクイズで楽しく学べる脱炭素」が、「消費者教育教材資料表彰 2026」優秀賞を受賞",
-      "category": "その他",
-      "source": "AERA DIGITAL",
-      "time": "7/21(火) 10:16",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84eENhNmRsRjJwQjNMWlpRMDlMVHNVUXI4cGJyUXVyTVhaQzI0QzZyUmNpd1RNMVQ1X3BBWWRNdV9QYzVPeGlvcnRNa25jQXlU?oc=5"
-    },
-    {
-      "id": "auto-902ec4328a49",
-      "rank": 6,
-      "title": "EUがETS改正案を提案、無料割当を脱炭素投資に紐付ける",
-      "category": "その他",
-      "source": "Межа. Новини України.",
-      "time": "7/21(火) 9:34",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BOWg3elVPRlpoSDcwUnNyZ2RmY1hKMXRGOUZDeExfRlhMdFdobk9DVG40eHMzblc2cnRnMGpod0ljSlIxc2Vub1FMTmo2RXBjTFRqMW0zX0pmbzQ0TEE?oc=5"
-    },
-    {
-      "id": "auto-fd98d1be368e",
-      "rank": 7,
-      "title": "EUが排出権の無償配分を脱炭素投資に結びつける案を検討、企業責任の強化を狙う",
-      "category": "その他",
-      "source": "Межа. Новини України.",
-      "time": "7/21(火) 9:32",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3ZDg3RHZmXzdHQWFIdmpWY1U1b1B2bHRyRzl3Y0pKbWNBS1JNQ0RxMElnUGo2NXlBN0tLbl9MOVVwVFhkQ3AyU0tqejFJTEhISk1NNGxsT2xaS3ZjejZyOFVLUVFTWXcw?oc=5"
-    },
-    {
-      "id": "auto-19572363703f",
-      "rank": 8,
-      "title": "カオバン県の貧困世帯に贈り物や太陽光発電プロジェクトを寄贈する。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "7/21(火) 9:23",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDI0dWhtUExBUXRub3VaanBPZ1k2REE1MDVFVC1GRjBsYXd6ZmxJWGlUSU93bGE2RnpwY09OSkZWNXhyZWhhaU5mQ2hOSWtWamFqbDcwaUVZdldiR1ljTVl1dFowNVNYbFUzUDJHUmRCZUViQnE2WXU0S1NNcFREQVUtN0k2ek5QajRKU1V6c0lrTXZ0djZB?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hMlZxSFFFNC1IT09adHB3LXdweFF3OW0za2pyNEpNT2RJcGhKajctczk2S0lSMXFSYWdFV2VraXp3RmxSWmp5LU10YkEzNGNoTEw1dEc5NUY?oc=5"
     }
   ]
 }

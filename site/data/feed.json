@@ -1,23 +1,83 @@
 [
   {
+    "id": "auto-e64a64355026",
+    "title": "テラチャージ、CAVE OKINAWAにEV用普通充電器2基をサービス開始",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000466.000075648.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/75648/466/75648-466-ba8890e4f5dbc2abc06cd93fc6e8e6f5-1075x650.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-fe1bbe46c4d6",
     "title": "ドラッグストアの防災拠点化へNo.1グループがBCP対応型蓄電池「EnerCraft EC-700」を「第26回 JAPANドラッグストアショー」に出展",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "15:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000100.000055597.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/55597/100/55597-100-fedd2454ccb5ca574df5e2f90e41d2ea-1198x752.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-d5ee0304865c",
-    "title": "テルトニカ、EV対応フリート管理テレマティクスを日本市場で本格展開",
-    "category": "企業",
+    "id": "auto-e3b2451fef67",
+    "title": "日本初導入！MKタクシー本社ガレージに次世代蓄電池を設置。「バナジウムイオン電池エネルギー貯蔵システム」オープニングセ",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "13:18",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93N3lZWGdLbXBvcG10OFU2U0x5aERzVG0tSk11eUNPWlhrZVNqTVkwT0V4MUZzZzE4Qk9qMmlKWGFRZURkZWZBMmUxZEVoTVdQWTNoOE1FbHhqM3RZdnJkVl9qX0diODFSOEtuUDU4di1paXMyaHJ6UVFpaw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7d507b5f84f6",
+    "title": "ERIホールディングス＜6083＞、環境経営コンサルティングのカーボンフリーコンサルティングを子会社化",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "13:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0SlQ1RU9oSDhWYlZXQWw2REZxSl9RTzdidXZTdzFwaVZOMm5FS1R6Ujd3V05UTTNDZl9wNnlRbUpkeXBFeE9INWVxVUZRdXJ1b21kOEEwS1ZUdWc1VkY2aTZrSnhVMkk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a950aaae347a",
+    "title": "三菱ふそうトラック・バス。国内の全製造拠点でカーボンニュートラル達成。国内自動車メーカーで初。製造拠点の電力を化石燃料由来から再エネ由来に転換。不足分はクレジット相殺（RIEF）",
+    "category": "その他",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "15:15",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000182425.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "source": "一般社団法人環境金融研究機構",
+    "time": "12:59",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxT2I0Um5YZ1NzRXotaXNMbkEyX1pRY1dYSk1JWjNqS2lPdE0zZTVQSkVmak9xZ01zZHl4VnpYY0xtNjN3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9adf972655c8",
+    "title": "水素コンプレッサー産業の将来の収益と市場洞察：2026年から2033年までの年平均成長率",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "12:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNFVqWjMwb1UtdWZ6MkNzSE9OeDZsdFIzSjg0UElZN0dkNVZlWEN3eTQxeG9PTjR0dThWOFUwQ1JPTDdIN2ZwVEpn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c496b9c2d7ec",
+    "title": "今週のエネルギー転換 - サンパワー、大規模太陽光発電プロジェクトで再生可能エネルギーへの移行を牽引",
+    "category": "その他",
+    "accent": false,
+    "source": "simplywall.st",
+    "time": "11:25",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjNzazBhU1Rpdk1ZbVJQSHQyYlFIX2VqV08zOXFxNEd2VkJaYkpZRFZhWGttZG5yWjdTQmlVdEhPVmhEUUFNaFFGRlpqaWxYSURfQ3hzNWRDTFFnZnJ1SVFsS2NXdnlzSzBGWGRWNDRsMXhjRGNwc2dpNmFKVUl5QmVfUFdFNjlHWERFTnRMNNIBlAFBVV95cUxPN2E2dDNjQk5xZzEwWWNKbXh2d2JNdkF2TEN6bjB1dTRaZ3pUeGxlZEVhcGh1bkluUFJCaE1ROVQ2WGhSVFNYdFpyUkg2VVJpQm43NEVaVWd4Rk9TODAxN1gxUkZwX0ZHaTdiQVZrdlF0MFZmckRnLTlvRF9mZWtJaUExWEZ6WXl3VnRjTGwyOHI0MDZQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f89932f088c8",
+    "title": "太陽光発電などの設備導入、最大4000万円補助 徳島県が中小企業を対象に申請募る",
+    "category": "その他",
+    "accent": true,
+    "source": "徳島新聞デジタル",
+    "time": "11:20",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55bklxN1VMa1BtMVFVdnlxRWFHSnJBSVJ0bmx4bFlYYkY0TF9VdGdROVRRZDdPdGlVdG9RenFySU5yV3Q1NmpiblUwRFFCV25nb25VaFJR?oc=5",
+    "image": null
   },
   {
     "id": "auto-0af9382e348c",
@@ -26,7 +86,7 @@
     "accent": false,
     "source": "南日本新聞",
     "time": "11:09",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fbnRMOEh2V1hpdmF3SjhfMFpJUWJxeUxmM3B2c293VWhxbWJvUjhyc2paN2ZvN0toXzFXbndVZ0dRNFFKenFsR3BETGp1dWNTdTZvN2xDNA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hMlZxSFFFNC1IT09adHB3LXdweFF3OW0za2pyNEpNT2RJcGhKajctczk2S0lSMXFSYWdFV2VraXp3RmxSWmp5LU10YkEzNGNoTEw1dEc5NUY?oc=5",
     "image": null
   },
   {
@@ -126,7 +186,7 @@
     "accent": false,
     "source": "ｄメニューニュース",
     "time": "8:01",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWtzbDZ0cGR3UVowWl8yVHFnLS1iTUNvTWo1Xy0takkxWGxrZ3JaYWJqb0JZbzJzNklGT3B2ZWl4dmVrNE8tMHdzUVVtRHQwWEdBUHN0YVlQNFpQOW5fZ1FLbUtNZ0F2bDRoek9TTWpVVHBfRU1UUlA1dmRRVi1rSUwyeWhDaWR3aGU3ajk4RkZOZ2g4ZEVINHZYWnVEOWtjNjdaMzdWNVRMbmVmOThhSGZPZHdRYVJlWUlCYkJXMmRQWEt5YkN1V2EwUUTSAXxBVV95cUxObUZEemFmbUNuY1dQUVlwN0duU1VtOGtlMnhHNlpCejhjcjM5U3A0dHVFZE9jU0YzcUJxbE50dGJ4ZmxWWkgzbTBNUVh4clFSbVdGMmQyRWdXcEJna25oODYzVkdSWWNrVEF3UzBuNm9QNzV1eThvdldWVXRZ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tRkR6YWZtQ25jV1BRWXA3R25TVW04a2UyeEc2WkJ6OGNyMzlTcDR0dUVkT2NTRjNxQnFsTnR0YnhmbFZaSDNtME1RWHhyUVJtV0YyZDJFZ1dwQmdrbmg4NjNWR1JZY2tUQXdTMG42b1A3NXV5OG92V1ZVdFnSAXxBVV95cUxObUZEemFmbUNuY1dQUVlwN0duU1VtOGtlMnhHNlpCejhjcjM5U3A0dHVFZE9jU0YzcUJxbE50dGJ4ZmxWWkgzbTBNUVh4clFSbVdGMmQyRWdXcEJna25oODYzVkdSWWNrVEF3UzBuNm9QNzV1eThvdldWVXRZ?oc=5",
     "image": null
   },
   {
@@ -164,9 +224,9 @@
     "title": "系統用蓄電所「豊岡1号」の試運転開始に関するお知らせ",
     "category": "その他",
     "accent": true,
-    "source": "PR TIMES",
+    "source": "イザ！",
     "time": "7:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vcUhidzhxSldYWmJUeDFqelJSTVU1YzltcjVsUXNfSEc1MWFtUHlCcGtzM3RRNlBkV0NuVmRybHFqWFBXd3liVUwyLTZCcFhNSmZ3RjYtOEFURnRlNmVmRnUxWkVSSkp6d0E?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuaHN1QXJTdnMxaWVMMHZLT0tiLVhDQjlGd1RrRnpyLWpCYXd1aU9RRGxHZ0F4eGJmLWJ4WjhadHRjcVZ3NnVaVDVvZFJBb0JRc0lQWG9INnRoZTlTMkFXRUVvaU80NjBBdTlHc1gwTVByY2JYOEpnaWNR?oc=5",
     "image": null
   },
   {
@@ -225,78 +285,18 @@
     "category": "技術",
     "accent": true,
     "source": "検索: 水素・燃料電池",
-    "time": "6:45",
+    "time": "6:47",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82NHdGdTdWWDc1cS13bGZIRDRVM2lzRXpQQ2Q3YVdBc083ODFRVnIxd2oxRVU4MTNNQWlCMEpRak1ud0djcjBkT2EySF9aWnRveFF6SlRmT1JUMlR6ZHJpazJDQlBYLVVLSXNHa2s1Nk5WZHlTZWM4Wk1jYmN0MWM?oc=5",
     "image": null
   },
   {
-    "id": "auto-b3bedcfb3109",
-    "title": "米規制で中国太陽光が新興国重視へ輸出再編 - CHOSUNBIZ",
-    "category": "国際",
-    "accent": false,
-    "source": "Chosunbiz",
-    "time": "6:33",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTVJQlN4eEZrVDRDNVhMbERkS3E2Yk9wd3dUcGxzeTFWbkhhMkl0cEplTVVKWTkxaWRVR0NBMTYyMTNqWGp5OE1tMlg1SmJ3WDZaTVE5T1d5Z2FkS3Q2TEpDUGNlUTZvcEVEbWxKRnFkeWQzenVNZmRMSkdNOWNzZnBUeXp5ZDFyUXFSa3Q3NEptQUZwZDJReWNxeDnSAZwBQVVfeXFMTkE1SUJTeHhGa1Q0QzVYTGxEZEtxNmJPcHd3VHBsc3kxVm5IYTJJdHBKZU1VSlk5MWlkVUdDQTE2MjEzalhqeThNbTJYNUpid1g2Wk1ROU9XeWdhZEt0NkxKQ1BjZVE2b3BFRG1sSkZxZHlkM3p1TWZkTEpHTTljc2ZwVHl6eWQxclFxUmt0NzRKbUFGcGQyUXljcXg5?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-edd2af057918",
-    "title": "「東京都カーボンクレジットマーケットサポートデスク」への参画について",
+    "id": "auto-3894101e9e03",
+    "title": "ＪＥＳＣＯ(1434) 東京アクアティクスセンター 舗装型太陽光発電設備工事受注のお知らせ 2026年07月21日[適時開示]",
     "category": "その他",
     "accent": false,
-    "source": "時事ドットコム",
-    "time": "6:16",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Scm5jWUZxTTUzZ0k1QUZxRU9leTVwRGJtOGh2N0JMaThTay0wQU9aVGNTM29pYlBmQU04OEJCZHoyYnp2QzJQZ3YtbkVjd1VObE1OQUIwVFpycFdCSjVWLVdkQ0hKLUxHcG1B?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9b5fee4e7453",
-    "title": "世田谷区と東急パワーサプライが、再エネ推進とエネルギーレジリエンス強化に関する連携協定を締結",
-    "category": "その他",
-    "accent": true,
-    "source": "エリマネこ",
-    "time": "6:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRVBKQnF1TXl3SEdxOVFtcVRWLV9kOEg5VHNOd2w5UE1qcTRETlFrZVg0d1VmdElDc3FmaWNYRWRFSkIycllJRW03QlhXc1BIWmJWOGdCdW12bnZHM1NvRUhLa21mZl91UXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-38c400beac70",
-    "title": "RENON POWER、低圧系統用蓄電池パッケージの累計受注500サイトを突破",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:50",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50ODhEVXIteHlYdEMyUGpDYXFmeS1xTG5zMUctY1EtSFdDc0dvZ2k1dkdwZ1d5X2RMTk8tZkZHekxaNzdlSEU0OXFMVW5pVGhsd2RKSlFYMF9McGlKTXR6alZxMGFoT2xzaXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d36ca9d1267b",
-    "title": "NETIS登録・点検支援技術性能カタログ掲載の水中ドローン点検技術を、洋上風力発電・海洋インフラ分野へ展開",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "5:28",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45MV83QWNnd215a3JjRUdiVndXYjNfRktVVm5zeHhYTEd0U08tVV8zYjBZakRybnBac2hEME1GMHRtOU5kUzNUYlJFTlY3ekh0bjFvSDBVUGtCZnZxaGpPVkZB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a9b74d51ef56",
-    "title": "バイウィル、バンダイナムコHDの脱炭素施策をサポート",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "4:48",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93UnBwMjNyM2xZbU5KSWNPaGwzVW40cGJhLVl6b0pKOWFWelVYVEtybDFTRjhTN1ZmTlFIM3ZjNXRvdzh3d1VtZzNuU0I5WXQzZU9xN25hYUF2WUM0Ul83R3V6eUFxbVVV?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-936fd7de951a",
-    "title": "【日本蓄電池株式会社】鳥取県岩美郡にて系統用蓄電施設「NC岩美郡岩美町蓄電所」蓄電池設置開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "4:30",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJS19PUUVKZVR1T1ZKZzFmUUNOSE1Ca0FEOGN1Y1dIaVEyTnYtMERTQVY5bF9lMGd2aUlHUlVhY1RRMG5TRlV2eEZnaFV0Ty0tM05MRGhFSXo1MUZ6VUJOcDJ1WmMyRmJTVjVtUmJRUGVFVXo5aVE?oc=5",
+    "source": "みんかぶ",
+    "time": "6:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wR0JBTXlFU2JWRVFYSFd3N1RCZjBKeVpqTm1fQklxRkxydXFWRlQwQXlab1VLaXJueHMtbWpsMHJaMXROX3pZSkF6QUhLczFjdVRtNA?oc=5",
     "image": null
   }
 ]
