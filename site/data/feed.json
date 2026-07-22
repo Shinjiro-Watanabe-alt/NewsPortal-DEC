@@ -1,19 +1,69 @@
 [
   {
+    "id": "auto-1f410508b249",
+    "title": "全国どこでも開催。購入前に実機で“吸って確かめる”水素吸入体験セミナーを本格展開",
+    "category": "技術",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000187333.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/187333/3/187333-3-799e00d7577d45d8520bce274aed27ba-1248x928.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-d7d6f3be1003",
     "title": "Oh my teeth、歯科医師がオンライン診療で処方する過酸化水素6%のシート型ホームホワイトニングを提供開始",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "15:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000146.000048884.html",
     "image": null
   },
   {
+    "id": "auto-935bc891903c",
+    "title": "水素実証始動 回廊整備と試験バス導入",
+    "category": "技術",
+    "accent": false,
+    "source": "じゃかるた新聞",
+    "time": "15:09",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3dUQxWUxSQVk5MDVnT21jZFZ3Ul9STW0xY3dBbkw1VjhlYXBsTldhcy0tWDRLVkFGcXVpSHNYSXlLX2pjYnEtNXRSTGIxNnMwYUtpa19Fd212ZUlHbEtLV0d4VQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-17648dae2762",
+    "title": "Solar-powered tricycles help in fuel crisis 燃料危機のなか、太陽光発電三輪車が役立つ",
+    "category": "その他",
+    "accent": false,
+    "source": "朝日新聞",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80azhMT2o4bjZwZkl4OVVSaFdTQ0t4Vk5qSU43a0w1SzRUUmJvYUtLYXJFMVpOWHg3VzA3TjdxcmtUZHBmcnM3R0RtcEhScnVidGtlUmVB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-54d6798cd593",
+    "title": "｢再エネの推進を｣ 世界を例に理解深め",
+    "category": "国際",
+    "accent": true,
+    "source": "タウンニュース",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1waHlTTnhzOGFNZGRsQUhaWUxOZjItV0hpR0VyOHpOa2gxdHEtVDY2cFpWcHltQnp4ZkIzd0FtMV9FVDZCcExGMTg1Q21mOFB3OW0yckcyRDlsUDdMRzRSbzV4TDA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9e3650384620",
+    "title": "莱洲は、特別な政策を通じて、恵まれない地域への太陽光発電の導入を先導している。",
+    "category": "自治体",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "14:48",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTNzQWNMV0dtR3BxelExUnlhNV9rVlZCWmRKYUQxN0UxT2hBNTRrQ0poSmd0Zmo4MlloSVQ4SG16MVlwZ28wT3NpSDZLZElnZE1iRkN2YjhheWhsUi1ZZjYwbXpHdC02YVpDVWk3QjdDZzRtRlZSb0hsU0hFRVFrNk5kTnVxWVI2eDZfcDFXbUJLdW9DTFNueFpMd09KS2t2M1E?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-b82121545224",
     "title": "ノボ ノルディスク ファーマ「郡山工場」、化石燃料の使用を撤廃およびCO2排出量実質ゼロを達成",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "13:00",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIR3VsNFdBOXlvTU5hZ0R2UFc4d25BcDBGMS02cktaaGJ3WHlMX0N0d3d2bUVOVGVUSjZoQmFFMTNEZE13OUlDaXAzdGlmaFRITVVCWlpkM1lRQXRHZ1lOemIwSmhWSkIxVWZGMlNpWmQzSVZGWnJnTlplTQ?oc=5",
@@ -23,27 +73,17 @@
     "id": "auto-9243400341db",
     "title": "太陽光発電施設で銅線ケーブル窃盗か ２人を逮捕 愛媛県警",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "NHKニュース",
     "time": "12:24",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Sc1dGZUFRR3lfOVl3VUYxSFlVU0pqQ1dLSl9Yd3dEUkVLY1Myd1FvLTBKQjZvUzZqN014QTdRNVRHRGRTOVFQODg1TDFzUVBSVG1HLVdCaHA?oc=5",
     "image": null
   },
   {
-    "id": "auto-96a8368c8211",
-    "title": "年間1億円の電気代を削減へ！宮城県美里町で始まった「水田×太陽光発電」の最新アグリビジネス",
-    "category": "その他",
-    "accent": false,
-    "source": "愛知のニュース",
-    "time": "12:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5dUFFbnB1ZVFVb1d1NjJxd3ZrWG90cWt5eTZ5UmtZdFhuWV9BSDh3YjdNSEpOY2o5Y1BuSTBjX3p6ekh2ejVMQWpUYW41QXE2MDBvVm00WjFrdw?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-56347c801b99",
     "title": "国内全製造拠点でカーボンニュートラル達成",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "カーゴニュースオンライン",
     "time": "11:52",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16WENSUmZuZWQ5R0RYSkhHdkdZa042ZHE0T2Ntb2drSnEtbHFIeVFLM08yTjkzd1ZMT29ncXFTNFlfb1l2bVA5R0hLdGVNc3dfMW5LbTFycFVPZHRVTU13?oc=5",
@@ -63,7 +103,7 @@
     "id": "auto-5583e2c43bc5",
     "title": "脱炭素社会の実現へ、スポーツクラブによる再エネ教室など紹介 県内の企業・団体が取り組み共有 秋田（秋田テレビ）",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ニュース",
     "time": "10:54",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNEZDNlNKMkdxUUE2SzJuYUFIVzNXb0k4aURnV3pEUGd4UzZVTXc0ZHBJQmJNU3Fid2dITEVEd1U3Sld2MXpONEhqZGRTRS1wX21yLV9zd2VnVmVBd3lDOXRXUzVzSWpJdU9rSEU3dU13ZVR0cU5DenpQRmpDQzg?oc=5",
@@ -73,7 +113,7 @@
     "id": "auto-424dc2c7b201",
     "title": "【注目！】銅線泥棒に“技術”で対抗 独自開発の盗難防止システム 全国各地の太陽光発電所でも導入（テレビ静岡NEWS）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ニュース",
     "time": "10:27",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jajJ2S3daV1dZYjA0M1VvSUdRbldjXzdLV2YxUVdGMy16T2tEVENqOUllUzd3aFVtYkNsRjI1cVpnUVpGWmdyY2paaFdpQ1pJT05Ib1lRaFoySkVaLVVwemJhSzBYcURMdnlXZVM2Q1lncDdiOWlfUW5RWW9vUWc?oc=5",
@@ -93,20 +133,10 @@
     "id": "auto-0176ff9a4b6a",
     "title": "脱炭素経営伴走支援対象企業を募集します",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "徳島県ホームページ",
     "time": "9:20",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DYkNiQzJDbE5HZF9yRnR2M1RYV1o5cVA3T01BVjJNYUhFNlYzQkRHSmpzM0NZYTZfaDU0OTFJbG9md083VzU4U3FVT18wTktFZVpkVnppS3drM2Rtb3NqWWJ2UnFHTDlLd0xPTUV3RjIxS1A4Wm1qS1UxRQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8b0a074d35f7",
-    "title": "GoodWeが文京区オフィスビル屋上に太陽光システム展示場を開設し実機体験を提供",
-    "category": "その他",
-    "accent": true,
-    "source": "ニュースメディアVOIX",
-    "time": "8:44",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02MFhHdlhULVZ5Mmp2ZjVJSnV5bUY1U2stcjdtWkhWUXRLNGJNRW0tZU91eTBpLVp6UGxBdlJkY2M2R0MxRWtr?oc=5",
     "image": null
   },
   {
@@ -176,7 +206,7 @@
     "accent": false,
     "source": "アットプレス",
     "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xUGx3UnhLSjlTQW5HNVFkdXpnYmF6UVUyaVg1cjRXZzN1cmt0MnpyeWxyZHFmaDZ4WnREZzh2cThkRjlmRmc3UDBiZ2RDdw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Bb3lJcTdNMktMTzNaeFZET19uRWtOQlVDUDdJS2NqOHl5bl9URmxsOVpXN3ZyQi0xOElQOFF1eXJaaDliSUY1eUVVMWNOR2s?oc=5",
     "image": null
   },
   {
@@ -190,10 +220,20 @@
     "image": null
   },
   {
+    "id": "auto-bddbbc584f05",
+    "title": "文京区のオフィスビル屋上にGoodWe太陽光システム展示場がオープン",
+    "category": "その他",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "7:59",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lbVIyTHprRy0yRm5qNi1oRy05dlFvTWh6TGtsbDl2QWFlbjd3elRlNWdFb1RHMFg0UWZDcW8ybGM3YjBzSnNGMHotZDBERzZEVC15RHl1NFNNUEM2MUMxUlhnbTQxUGlxNUE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-a5a89f11af19",
     "title": "【CaseStudy】丸紅洋上風力開発：「ここで働く意味」を語るのに必要なのはスタイル──ボトムアップで、自分たちらしさを言語化 Sony Playstation (whyVGOk8pc)",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Mshale",
     "time": "7:45",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QLWVOcGM3Z01jSTNnRlFpT280NzVOQWpPLUVtNE84SVhCekNyZ043NHRCc29RUUw0UDRHTmdVaFhLNEo2ajg4aU92TGJCWm1ub3diT1pSQk4tODg?oc=5",
@@ -213,17 +253,27 @@
     "id": "auto-b2b3a23da82a",
     "title": "【VR】北海道 室蘭市 (環境省 地域連携・低炭素水素技術実証事業) Slavia Prague (FIjox40LEl)",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Mshale",
     "time": "7:40",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBocUd0YXhYRHk2VEZTLVhIR013SHpNdmZhdmJtU3RRX2prNnJXbHZaZzB3M18tZzV3UjlmRUY5TzNRMUhpcl9tQS05QXRWek5Wb0c5bWNHaUZ2UDg?oc=5",
     "image": null
   },
   {
+    "id": "auto-b9f17adce2ce",
+    "title": "法アセス「対象拡大」を閣議決定、太陽光の規模要件が半分に - ニュース - メガソーラービジネス plus",
+    "category": "その他",
+    "accent": false,
+    "source": "日経BP",
+    "time": "7:38",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXVzVFemRoRDRtajFScjhQWmVhS2JWRlRBc3JwcEN2anFnM3ZmYjF6eW9mT2xyWnhpVUN0ZDdVaW9nUDUtQzM2ZEhsbmV5NzdJalFxdzlwbUVlQ1ExeUoyRUx1bG9tSG1mVmV5RG1xeW42U2dq?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-5c8b92a2573d",
     "title": "PLN EPIとeFUELS SEAはインドネシアとシンガポールのグリーン水素サプライチェーンの開発を促進します",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "VOI.ID",
     "time": "7:24",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DTlhtUDR3b1Z2NkNVaDgwVmQwVWk1aFZTa2pRQW9LQ1lsUmFvSWtLc0NsRGxadEl5a1B3Y3FJZU5Yd9IBQkFVX3lxTE5DTlhtUDR3b1Z2NkNVaDgwVmQwVWk1aFZTa2pRQW9LQ1lsUmFvSWtLc0NsRGxadEl5a1B3Y3FJZU5Ydw?oc=5",
@@ -233,10 +283,10 @@
     "id": "auto-ea4dfac96c80",
     "title": "オフグリッド太陽光発電システム市場：製品タイプ、バッテリー技術、出力容量、エンドユーザー別、世界予測、2026年～2032年",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "Newscast.jp",
     "time": "7:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RTWdpU2YtTE9XSGtDOU5qVTZIVjZtc3N4LTlCN0hSSkFxSWhhd21QWG15VlZZaVBFckRUM0NpYmVIb1RIRGhwbUV3dGFBcVk?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3VXRJRWxIRWxZd05XQUNtcUVaR1FESHp5eFNTSXgxY1RQeENOaWZ2cmZxNXUzOGo3bW5mY0p1T3dUaHF3NXBF?oc=5",
     "image": null
   },
   {
@@ -247,56 +297,6 @@
     "source": "Vietnam.vn",
     "time": "7:13",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHVqNzVXazNLb0cydXhucUlITE5NVHNEY2NaekptUzgtZEVzU1c3bHVxX182Mm81Q1EyT21NRkVuYUU5NkQ0amlZSWgxRWItcVM0cUIyT04wQnRuNkFCVzBLSGhSLWRmRFJEOUpVLWJPMWctN1hYODNXdVVoVDBkdkd6ZjNucUZqYlJVcXZaZzRIQmlU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7de01d944242",
-    "title": "北川村太陽光発電設備及び蓄電池導入費補助金",
-    "category": "その他",
-    "accent": true,
-    "source": "新電力ネット",
-    "time": "7:12",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03MmdzTDlCZU1ubTRwdnRTQ0d6NDc3b050VG15TDhNaHotOFdiTTVHaldScHZreEZMZVhyUXFuNlVVQnp4YkhpQg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a25bf09fe44d",
-    "title": "遊水地法面へのペロブスカイト太陽電池導入で成果 防草効果などのメリットも",
-    "category": "技術",
-    "accent": false,
-    "source": "ITmedia スマートジャパン",
-    "time": "7:00",
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/22/news044.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2607/22/l_rk_260721_pero.jpg"
-  },
-  {
-    "id": "auto-5d9635116c8f",
-    "title": "令和8年度 省エネルギー設備導入等支援事業補助金",
-    "category": "その他",
-    "accent": false,
-    "source": "新電力ネット",
-    "time": "6:36",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GU2QxLThFc3Q2dlRqOHMwYXp2MmtYVHY3NUJHdnFEakdOVnhhcnVtTDFBX0Z5TmpsY3M2bWcxLUVwblZmMzRHUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-be12288ae375",
-    "title": "松山市ゼロカーボンシティ推進補助金",
-    "category": "自治体",
-    "accent": true,
-    "source": "新電力ネット",
-    "time": "6:36",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WaS1Kbkk2LXVIcTJ3T0h3QXhOU1ltTkN2dld1QUZ4cXRwUkM0cVlCX2h2bzhMZlJUZ0pZU0QzenpTNW91TUZkTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7d46aa415d3a",
-    "title": "郡山工場で化石燃料使用撤廃およびCO₂排出量実質ゼロ達成 ノボ ノルディスク ファーマ",
-    "category": "その他",
-    "accent": false,
-    "source": "医薬通信社",
-    "time": "6:11",
-    "source_url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPekNuaWF6YmRndXE5cE9yTFFBSEhYMEhUbHliYlBlR1AwU254UDRnaUZYRnByUkFMcFZWZmx4b19HYnI5RDV3c3RNR0t1Z2JQcEVBVjZVTEJOTFE0MjFYUWd1VTE3M2Z1SzU3dmdmZnBpek1rTWg5TXZGYlJ1TjVSTlFDZW40cHJHd2h3bi1mSkFsUjlZWDRkLVBJQlFWZUdmQU9ydWtPampCOGdjcDk1eXBER3cyWGQ2MGZicWxjWHgxOFdOemtVcXNGcHVpZkZUVVZVUEpna2owbklvVlJSOXQtdTh5SEFpN1NDUWwzU0FrMGQ1RU03STgtbkxRbFZOOWxnNElHUmJ4TW50dzJJUThZZzN1dTF4bkk5UEw5MzB3clF3eEdWOVNXdnZXbHQ2ZEtfQm5NN0g0dl9Ya3dQUVJZa3BJTFA1R3JKU0lhTkVyQzFKMjBRT1RDekI?oc=5",
     "image": null
   }
 ]

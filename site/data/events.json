@@ -1,14 +1,6 @@
 [
   {
     "month": "07",
-    "day": "22",
-    "title": "カクイチ、日本農業新聞みどりGXラボ オンラインセミナー「課題解決・マッチングデー」に登壇",
-    "place": "オンライン",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000077608.html"
-  },
-  {
-    "month": "07",
     "day": "24",
     "title": "【JPIセミナー】「EV用リチウムイオン電池のリサイクル技術と事業展開 ～全固体電池時代を見据えて～」7月24日(金)開催",
     "place": "",
@@ -38,5 +30,13 @@
     "place": "",
     "source": "ライブドアニュース",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BMHFDY0ZEX3Z2SWlWOWZLZklnMkpzclVGREtFelpZQW55UGJyeU9TU1loOXI3UHVLcjUxWkpYNV9NcURvWGtFNVVyVmEwZUhvazhocnp1OG16b0lTZmtGNzBn?oc=5"
+  },
+  {
+    "month": "07",
+    "day": "22",
+    "title": "カクイチ、日本農業新聞みどりGXラボ オンラインセミナー「課題解決・マッチングデー」に登壇",
+    "place": "オンライン",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000077608.html"
   }
 ]
