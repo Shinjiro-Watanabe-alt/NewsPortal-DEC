@@ -11,42 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-fb4aef2acd88",
-    "title": "ドローンのサーマル画像から「温度が読めるオルソ」を実現、DBAが独自開発。太陽光・外壁点検向けWebサービス提供へ",
-    "summary": "[一般社団法人日本ドローンビジネスサポート協会] 一般社団法人日本ドローンビジネスサポート協会（DBA／所在地：岡山市、代表理事：森本宏治）は、ドローンで撮影したサーマル（熱赤外）画像から、温度情報を保持したままオルソ画像（正射画像）を生成する手法を...",
+    "id": "auto-d718c00309e7",
+    "title": "人工石灰石を用いた製造時固定量110kg CO2／m3のCO2固定コンクリート製品の現場実証を完了しました",
+    "summary": "[NEDO] NEDOのグリーンイノベーション基金事業「CO2を用いたコンクリート等製造技術開発」プロジェクトの一環である「多様なカルシウム源を用いた炭酸塩化技術の確立」（以下、本事業）において、住友大阪セメント株式会...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/24(金) 1:10",
+    "time": "7/24(金) 2:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000122.000023105.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/23105/122/23105-122-b9cae4013bcf2e4d689cd5608fdfa8ff-1200x558.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000295.000135644.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/135644/295/135644-295-1fcfeae8529a13a05c41d9b9da05a96c-1327x538.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-bae2218f804a",
+      "id": "auto-d2310f308df7",
       "rank": 1,
+      "title": "航空オイルショック（4）「死の谷」の脱炭素燃料",
+      "category": "その他",
+      "source": "日本経済新聞",
+      "time": "7/23(木) 17:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZGtSVG0wa21oU0VTSlFPUDVpb3BBYVgyQVJMeEdlQnkxamIyX1ZFa2JBZ1ZCd3VNTWNlMlZ6cVk1Zmd2OUNfSDJLRDgxWV9ydi1JMkZrc2hmTE82RmNROUF3VzF4TkM4cklKTg?oc=5"
+    },
+    {
+      "id": "auto-bae2218f804a",
+      "rank": 2,
       "title": "【JPIセミナー】「水素事業の商用化に向けた市場形成の方向性と課題",
       "category": "技術",
       "source": "ニコニコニュース",
       "time": "7/23(木) 16:45",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GUVJ0SkpMM2VqeVVZc2hYM2hvYUUzN2Zremtmb3VaVlNiYXE0dHY5c3A3VThCU2NUODA5dnlENWpjWm11MDhmdS1HcTVaUDZaOTRyTDVSMWRwVVU4TlpSSDRKMWJEVVFzV0s4cWN1ZGY0bWJFeTRPSEVGTQ?oc=5"
     },
     {
+      "id": "auto-e81369e94147",
+      "rank": 3,
+      "title": "燃料電池システム市場における水素循環ポンプの戦略分析と、2026年から2033年までの予",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "7/23(木) 16:24",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rVW9lU21Ob1RKRW9BR2hDc2xYOWNkNGNEM010VVBTZkpzcGdZZ1FNczZmOHo1NzV1TGU4RUJUV0ZXVzlvNGF6azZ3?oc=5"
+    },
+    {
+      "id": "auto-984722fb7ff7",
+      "rank": 4,
+      "title": "高圧液体水素ポンプ市場分析報告：2026年から2033年までの収益予測と11.8%のCA",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "7/23(木) 16:07",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84a2lnNjlqVjBFNVFCcThScXFheGhIemUxMHBRQzhEM2wyS2hRcFYxT1pjV2tVNTZ1Wm9WV0ZGak9LZWVxMXpKNmJR?oc=5"
+    },
+    {
+      "id": "auto-a4e0f461e5aa",
+      "rank": 5,
+      "title": "メタノールと水素市場レポート: 歴史的傾向、将来の予測、および2026年から2033年ま",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "7/23(木) 15:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5la3lkYm9IMUh6ZWQ4UEZFeDdvWENzbzJqWGpZQ05vcDY3U28wZVhUMUpkUmNDYmFlWVRoZG8wbzZkTHVMUlhYUXJR?oc=5"
+    },
+    {
+      "id": "auto-44626239e2dd",
+      "rank": 6,
+      "title": "自動車用燃料電池電解質膜市場に関する洞察：市場プレイヤー、市場規模、地理的地域、予測（2",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "7/23(木) 15:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zdDlxcmlOTkN4VnlodFFEUmYzck5fekZLMkU2LWppcFZ4RTFCbkRhMlphcVBJOU5lVmVCVnpVMkJMdmYxRjVxNFhB?oc=5"
+    },
+    {
       "id": "auto-8c9fe70fb899",
-      "rank": 2,
+      "rank": 7,
       "title": "たいせつ補助金 好評受付中 太陽光発電設備等の設置を支援",
       "category": "その他",
       "source": "タウンニュース",
       "time": "7/23(木) 15:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QNkFlRVdWX3J1TTZNZ0Y3b3hCMHdLQTlST1lLNUM0WklrS3dDa19fYTRpZDdNbGN1RnprVWhJYzVNZFZ5VTBsT2ZXTjlKZkZkdTJycEc0V2xLX2ZyOXZoREtEbU8?oc=5"
     },
     {
       "id": "auto-042ecaae0c8b",
-      "rank": 3,
+      "rank": 8,
       "title": "洋上風力促進「官民連携を」 道経連が函館地域懇",
       "category": "自治体",
       "source": "北海道新聞デジタル",
@@ -54,61 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXRpdFVhV2dlN254MmRUNFJsUnN6elp4Zm9kcm5qOHBBOWZwZGlKWUt3WTFnaGNfUHBpd25CUXRLXzBjbjAwWDJRZkpGQWJONFVTZ3VHd3p0VGtFWU93UlFDNkt5QzFkVXpNeHEwVmRmSUVtUFU4Sy11VV9ScXUwbXl1LTVmX1d5?oc=5"
-    },
-    {
-      "id": "auto-06bc8cf60f1f",
-      "rank": 4,
-      "title": "中国、2030年までに風力・太陽光発電を53%増へ 執筆 - Investing.com",
-      "category": "国際",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "time": "7/23(木) 13:57",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsOXpYTXBQaWxIVEdWS0JoX2hvSzNKZ2VVYzJPTm1ZeUUzbVppT1E2TXptdjJ1N1JkbDV6WEZ2VEdpT2IwYk9HTHB5dl9uNVRxblhjbFlLcUZpX2VSM1ViNEs2cFV3ZXRLYTY0MFNIM18?oc=5"
-    },
-    {
-      "id": "auto-d245af32f69d",
-      "rank": 5,
-      "title": "「（仮称）函館寅沢風力発電事業」実施の見送りについて - インベナジー・サービシズ・ジャパン合同会社",
-      "category": "自治体",
-      "source": "はてなブックマーク",
-      "time": "7/23(木) 13:37",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://invenergy.jp/news/hakodate-torasawa-project-update/"
-    },
-    {
-      "id": "auto-864f2cab2302",
-      "rank": 6,
-      "title": "第６回：イラン戦争後のＧＣＣ諸国における脱炭素動向",
-      "category": "その他",
-      "source": "Economic Media Bulletin Limited (EMB)",
-      "time": "7/23(木) 13:07",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nWVRXYVZ5YWtBQkpzbXJJeUtEbTY0RnBYUzJEWlFtakJlZFhEdDIwU0ZiUWpka2JnLUZIY09Mcmc1bGVsel94Y1ZUdw?oc=5"
-    },
-    {
-      "id": "auto-b0921b7f563a",
-      "rank": 7,
-      "title": "神栖 太陽光発電の銅線盗んだ疑い カンボジア国籍の２人逮捕",
-      "category": "その他",
-      "source": "NHKニュース",
-      "time": "7/23(木) 12:55",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fTU45Wi1lamI3QmowNmFCSkxEdEhqTFIyWTVDdDJKTjNHY2N5cWZSQ3o4UlU2aXBudExPdm5ZNHhFb2pRXzlsbXlUMkkxTUdESWFFeFdmbjg?oc=5"
-    },
-    {
-      "id": "auto-26adc4fefa29",
-      "rank": 8,
-      "title": "今日のエネルギー転換 ― 大規模な太陽光発電プロジェクトにより、アイダホ州のエネルギーの未来に明るい兆し",
-      "category": "その他",
-      "source": "simplywall.st",
-      "time": "7/23(木) 11:27",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS08xRWNhWE0xS2pUWG9MZnhCenJQMHVIUWh1MW14WlFBOTRRcUJEMlJBR0NLclF1dWNKUmhhMS1LTndkNGNaQV9XOUZxVkI4Q0hhV3paOUN0a1JxOEVDbzc4bjIwZUV4WW9ZOEpiVFJhT0ZUWHJ6bkdaTTB6ZUM0TjNHb1VHUUtvbW1Da00tMNIBlAFBVV95cUxPdTVna0Zsb3gxOWNtSzNWVHI2SHpkNFg5YWZyd0xHdTdWTXlJRFplVUdTTU15aXpGTXNmNkhpbk9UYm94MTVvU1hWSXNSUnc1dmxtbEkwTzFiVXZwemRqMTFFaUFNenh2NDVNSzB3dDVzdkhDZmVuZnhmVV9UdVVEdDhfNzdjMkxZLXRybUJnd19WZUx2?oc=5"
     }
   ]
 }
