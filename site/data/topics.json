@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-d718c00309e7",
-    "title": "人工石灰石を用いた製造時固定量110kg CO2／m3のCO2固定コンクリート製品の現場実証を完了しました",
-    "summary": "[NEDO] NEDOのグリーンイノベーション基金事業「CO2を用いたコンクリート等製造技術開発」プロジェクトの一環である「多様なカルシウム源を用いた炭酸塩化技術の確立」（以下、本事業）において、住友大阪セメント株式会...",
+    "id": "auto-fb4aef2acd88",
+    "title": "ドローンのサーマル画像から「温度が読めるオルソ」を実現、DBAが独自開発。太陽光・外壁点検向けWebサービス提供へ",
+    "summary": "[一般社団法人日本ドローンビジネスサポート協会] 一般社団法人日本ドローンビジネスサポート協会（DBA／所在地：岡山市、代表理事：森本宏治）は、ドローンで撮影したサーマル（熱赤外）画像から、温度情報を保持したままオルソ画像（正射画像）を生成する手法を...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/24(金) 2:40",
+    "time": "7/24(金) 7:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000295.000135644.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/135644/295/135644-295-1fcfeae8529a13a05c41d9b9da05a96c-1327x538.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000122.000023105.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/23105/122/23105-122-b9cae4013bcf2e4d689cd5608fdfa8ff-1200x558.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-d2310f308df7",
+      "id": "auto-3be0c5f5029b",
       "rank": 1,
+      "title": "「夜だから太陽光発電できない」も言い訳にならない時代に",
+      "category": "その他",
+      "source": "Gizmodo",
+      "time": "7/23(木) 22:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tMmtuRmRwX1ZYNDFMdnlGRHZHUHVzek1uS043RV9wRUhDZ3gxa3h2YjlNQzdFeTdmYU1UZnBSV1lpWlBqMkpfUHlPSTJuMG0zVmo5LV9mWGJfZW5hMDY1WTdWLWNMY1k?oc=5"
+    },
+    {
+      "id": "auto-fd272ed2c089",
+      "rank": 2,
+      "title": "太陽光発電所3カ所から銅線ケーブル盗む 容疑で外国籍の男2人逮捕 転売目的か 茨城県警",
+      "category": "その他",
+      "source": "au Webポータル",
+      "time": "7/23(木) 21:25",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Rdmo2LUYyUjAwX0R2aDJndGdpQk56SFVMRjVKWVNtQUY1czdVa2RGbTMzMVFYVWFob0lYdjBBcXViMW9ySUxqS20wa25TeDJLN2ZpdFExc05STFhjOV9sVVJxSEF1WnR0Ym1fRWlKYnB4LXdzeEZxSFdjOA?oc=5"
+    },
+    {
+      "id": "auto-bbf6a5def054",
+      "rank": 3,
+      "title": "営農型太陽光発電のパネル下でサカキ生産 産地復活めざし収穫祭 福島・楢葉町 2026.7.24付",
+      "category": "その他",
+      "source": "公明新聞電子版プラス",
+      "time": "7/23(木) 20:08",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOHdnRDE4bWNRZjRqMkg5QVlrTV8tLXhWTnZwd2h3S2xEd1BCZUE0a05wZ3d4dWJHY2JRbTFqbktJRUE0eWVrWGYtai1SYzV1WmNnRTRhaUtRSUZNSUJMUWszMW9yd243RjhoVGY2dEpvcGROa2VHWV9LMnJoTnVHLQ?oc=5"
+    },
+    {
+      "id": "auto-454dfd5a34d0",
+      "rank": 4,
+      "title": "大東建託、千葉市で地域電力網 脱炭素街づくり",
+      "category": "自治体",
+      "source": "日刊工業新聞",
+      "time": "7/23(木) 20:04",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYzlIbFg5Nm1nZUJOekdnT0FWVjF1NmR2NXMwUGdrTGNFZVFlZ09JV3R4bjdZeERUb1ZnWjl3dGY1ampRVW1Vel9wNEN3QlR2clBxcEdldWJyN00?oc=5"
+    },
+    {
+      "id": "auto-c37168dd74b8",
+      "rank": 5,
+      "title": "燃料電池システム用グローバル水素バルブ市場分析報告書：2026年から2033年までの市場",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "7/23(木) 19:07",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jekwwQzd5My1seDhPTnNTX2hFQTBQMjRTdUctVzVXZUVoTElTQnRMYlluYlpMMG1Jd1p2T3YtQ1hyd3FTclpMdG53?oc=5"
+    },
+    {
+      "id": "auto-d2310f308df7",
+      "rank": 6,
       "title": "航空オイルショック（4）「死の谷」の脱炭素燃料",
       "category": "その他",
       "source": "日本経済新聞",
       "time": "7/23(木) 17:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZGtSVG0wa21oU0VTSlFPUDVpb3BBYVgyQVJMeEdlQnkxamIyX1ZFa2JBZ1ZCd3VNTWNlMlZ6cVk1Zmd2OUNfSDJLRDgxWV9ydi1JMkZrc2hmTE82RmNROUF3VzF4TkM4cklKTg?oc=5"
     },
     {
       "id": "auto-bae2218f804a",
-      "rank": 2,
+      "rank": 7,
       "title": "【JPIセミナー】「水素事業の商用化に向けた市場形成の方向性と課題",
       "category": "技術",
       "source": "ニコニコニュース",
       "time": "7/23(木) 16:45",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GUVJ0SkpMM2VqeVVZc2hYM2hvYUUzN2Zremtmb3VaVlNiYXE0dHY5c3A3VThCU2NUODA5dnlENWpjWm11MDhmdS1HcTVaUDZaOTRyTDVSMWRwVVU4TlpSSDRKMWJEVVFzV0s4cWN1ZGY0bWJFeTRPSEVGTQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xemJJSGVfaHpleU5NRWtxNXVUV0JYdUNKT1VnOVAwcDUzeXJYSVlMTFF3SXB1NEMza2JyQWowaVRXZGlSZ2QwamJMR183NF9SOGNPTTNfdXFaR1RDRkhqaW1mT0huUTIweUdRRnJUb0twS1F1NjRoZU9GRQ?oc=5"
     },
     {
-      "id": "auto-e81369e94147",
-      "rank": 3,
-      "title": "燃料電池システム市場における水素循環ポンプの戦略分析と、2026年から2033年までの予",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "7/23(木) 16:24",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rVW9lU21Ob1RKRW9BR2hDc2xYOWNkNGNEM010VVBTZkpzcGdZZ1FNczZmOHo1NzV1TGU4RUJUV0ZXVzlvNGF6azZ3?oc=5"
-    },
-    {
-      "id": "auto-984722fb7ff7",
-      "rank": 4,
-      "title": "高圧液体水素ポンプ市場分析報告：2026年から2033年までの収益予測と11.8%のCA",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "7/23(木) 16:07",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84a2lnNjlqVjBFNVFCcThScXFheGhIemUxMHBRQzhEM2wyS2hRcFYxT1pjV2tVNTZ1Wm9WV0ZGak9LZWVxMXpKNmJR?oc=5"
-    },
-    {
-      "id": "auto-a4e0f461e5aa",
-      "rank": 5,
-      "title": "メタノールと水素市場レポート: 歴史的傾向、将来の予測、および2026年から2033年ま",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "7/23(木) 15:02",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5la3lkYm9IMUh6ZWQ4UEZFeDdvWENzbzJqWGpZQ05vcDY3U28wZVhUMUpkUmNDYmFlWVRoZG8wbzZkTHVMUlhYUXJR?oc=5"
-    },
-    {
-      "id": "auto-44626239e2dd",
-      "rank": 6,
-      "title": "自動車用燃料電池電解質膜市場に関する洞察：市場プレイヤー、市場規模、地理的地域、予測（2",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "7/23(木) 15:02",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zdDlxcmlOTkN4VnlodFFEUmYzck5fekZLMkU2LWppcFZ4RTFCbkRhMlphcVBJOU5lVmVCVnpVMkJMdmYxRjVxNFhB?oc=5"
-    },
-    {
-      "id": "auto-8c9fe70fb899",
-      "rank": 7,
-      "title": "たいせつ補助金 好評受付中 太陽光発電設備等の設置を支援",
-      "category": "その他",
-      "source": "タウンニュース",
-      "time": "7/23(木) 15:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QNkFlRVdWX3J1TTZNZ0Y3b3hCMHdLQTlST1lLNUM0WklrS3dDa19fYTRpZDdNbGN1RnprVWhJYzVNZFZ5VTBsT2ZXTjlKZkZkdTJycEc0V2xLX2ZyOXZoREtEbU8?oc=5"
-    },
-    {
-      "id": "auto-042ecaae0c8b",
+      "id": "auto-db14a573f212",
       "rank": 8,
-      "title": "洋上風力促進「官民連携を」 道経連が函館地域懇",
-      "category": "自治体",
-      "source": "北海道新聞デジタル",
-      "time": "7/23(木) 14:22",
-      "tag": "",
+      "title": "JFE商事「イチゴハウス」、営農型太陽光を実証 垂直懸下式で脱炭素・収益向上両立へ",
+      "category": "その他",
+      "source": "日本食糧新聞・電子版",
+      "time": "7/23(木) 15:04",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXRpdFVhV2dlN254MmRUNFJsUnN6elp4Zm9kcm5qOHBBOWZwZGlKWUt3WTFnaGNfUHBpd25CUXRLXzBjbjAwWDJRZkpGQWJONFVTZ3VHd3p0VGtFWU93UlFDNkt5QzFkVXpNeHEwVmRmSUVtUFU4Sy11VV9ScXUwbXl1LTVmX1d5?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwb1RNc0RrRHFJdEhXSkVkM0RGbjZBM1pFTGR3V2VnN0cxMVpSbmdkd19STzQ3UThoZEplVEZuVzdfZ3BwX0VRVHY1bll6blhrbUpYM2tCRmFDM2FTa1VYSFRrVC12UQ?oc=5"
     }
   ]
 }
