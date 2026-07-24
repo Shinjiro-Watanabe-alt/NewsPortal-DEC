@@ -11,31 +11,86 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-ed9592552efd",
-    "title": "Spatial Pleasureが参画する共同研究、国土交通省の技術研究開発（テーマ6）に採択",
-    "summary": "[株式会社Spatial Pleasure] 株式会社Spatial Pleasure（本社：東京都世田谷区、代表取締役：鈴木綜真、以下「当社」）が参画する共同研究「運輸部門の脱炭素効果可視化と方法論確立に向けた研究」が、国土交通省の技術研究開発制度「道路政...",
+    "id": "auto-18eb5f418ec9",
+    "title": "【ベトナム】Capichi、EV配車大手「Green SM」とMOU締結。デリバリー配送に続き、飲食店送客へ連携拡大",
+    "summary": "[CAPICHI PTE. LTD.] [画像1: https://prcdn.freetls.fastly.net/release_image/88989/18/88989-18-5c33246eb8bf028beefe4fe67d17357c-1920x1280.jpg?wi…",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/25(土) 0:10",
+    "time": "7/25(土) 4:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000033.000047935.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/47935/33/47935-33-27e1136e9387447a1a410011c4e0263c-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000088989.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/88989/18/88989-18-5c33246eb8bf028beefe4fe67d17357c-1920x1280.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-62b04cb8b380",
+      "id": "auto-8259a7aa5e39",
       "rank": 1,
+      "title": "低濃度水素吸入がヒト腸内細菌叢を改善──潰瘍性大腸炎 RCT｜順天堂・理研・MiZ",
+      "category": "技術",
+      "source": "PR TIMES",
+      "time": "7/25(土) 4:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000080.000047753.html"
+    },
+    {
+      "id": "auto-1cd634de8a04",
+      "rank": 2,
+      "title": "電動フォークリフト・大型AGV・特殊EV車両向け6kWワイヤレス充電システム「RCSH6000」を開発",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "7/25(土) 4:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000266.000009609.html"
+    },
+    {
+      "id": "auto-0f7d2c684766",
+      "rank": 3,
+      "title": "武州さすてな電気ビジネスの導入開始",
+      "category": "自治体",
+      "source": "PR TIMES",
+      "time": "7/25(土) 3:40",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000232.000099719.html"
+    },
+    {
+      "id": "auto-73056bf33540",
+      "rank": 4,
+      "title": "DHL、中国ロンジと太陽光・蓄電池物流で協業",
+      "category": "国際",
+      "source": "LOGISTICS TODAY",
+      "time": "7/24(金) 18:22",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwQmtGYmxmM2R5R253d0RHSHFrRDh1U3kzb0otYVhDRmttM05GWU96NFZtZVh1MkNFRy1RMWQ5V2FuQkZnRzdUUg?oc=5"
+    },
+    {
+      "id": "auto-923a3c5aceaa",
+      "rank": 5,
+      "title": "シマント、モビリティ脱炭素コンソーシアム参画",
+      "category": "その他",
+      "source": "LOGISTICS TODAY",
+      "time": "7/24(金) 18:22",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05N004Y1RMRW9KTU8zakxBYUdzYzFpa3RTcHhIYVdPSkhwb2VUVThaTE9qQi15ellhTXZPMUs1ZnItdDNRSU1jMw?oc=5"
+    },
+    {
+      "id": "auto-62b04cb8b380",
+      "rank": 6,
       "title": "「営農型太陽光発電（ソーラーシェアリング）の制度改定と実務対応」と題して、西村あさひ法律事務所・外国法共同事業",
       "category": "その他",
       "source": "ニコニコニュース",
       "time": "7/24(金) 15:48",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xYWtDY1kzcm4zSXBkRXF5VFNMX3hIZ2tfVVhtendkaUxTUWdhUzBySmpVdE5sQlliZWsxLVRDTWJVc1VreGZOMldyZm5YWkpfXzdEbm1nVmlnNEoyWE5rV2RtUFJvYUJD?oc=5"
     },
     {
       "id": "auto-8c9fe70fb899",
-      "rank": 2,
+      "rank": 7,
       "title": "たいせつ補助金 好評受付中 太陽光発電設備等の設置を支援",
       "category": "その他",
       "source": "タウンニュース",
@@ -46,69 +101,14 @@
     },
     {
       "id": "auto-26612555eb3c",
-      "rank": 3,
+      "rank": 8,
       "title": "液体水素レーシングカーの部品作りや3Dプリンター体験！シーホース三河が贈る「ミカワミライラボ」8/28(金)開催【参加",
       "category": "技術",
       "source": "ニコニコニュース",
       "time": "7/24(金) 15:18",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yMVVuWlpDYS1WS2tER04xcElWdXA3WV90eXBfNnhEZWlzZlhRU0JjcEwtNTdYMTFFbmpJYUJCYXE3Z1ZTTDh3YTRMUTRxS2k2ZWg1Q2dFVHdwd3JJSUNIX204dnMtWTBnUDJXVzN4d3hXa3ExYVo5ZlJPaw?oc=5"
-    },
-    {
-      "id": "auto-02927e7d03e2",
-      "rank": 4,
-      "title": "作物育てながら太陽光発電 トドック電力、むかわで「営農型」稼働",
-      "category": "その他",
-      "source": "北海道新聞デジタル",
-      "time": "7/24(金) 14:11",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTh2cG8yNHZiR2ZMcVpwUTl5NVBWRUNGdnYwMGRGeFI3UWRVcVVmS0hQT01vYjFfWHR5Y1BxbnE1LWVMdXVrbmtaVnFVSkNJOHRTczVScUVOZ3RtX1FsWmpZNl9GQlV3WTF2NTdIa2RjQmM2MHhWVkY1a1MwU3Nrd2xJX2MybVJT?oc=5"
-    },
-    {
-      "id": "auto-4cd31c4ae35f",
-      "rank": 5,
-      "title": "ヴィンフォン市は、地元住民のために太陽光発電式の街路灯システムを稼働させた。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "7/24(金) 14:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2MxTDNqVHV4SmpmNVJHdzkyWUtvbktCellZV0ZiV2ZmeUUtUU5XOU43NUU5TnJ5dUp3QTRua1JSVkhhbWkxRXYwS1pxYjU5aUlMaHNVSUFHWEsycG1JejB5bmYwZkRySlpmVEp0NVNTWGJpcG0yZmpIelFmN21ja0xjN2lQeUJCWFVDTXEtbnVBak5TRnJjVkpxVWc0VzJYV3c?oc=5"
-    },
-    {
-      "id": "auto-bc9431f859b8",
-      "rank": 6,
-      "title": "【JPIセミナー】「地域再エネ活用 “佐賀モデル” の特徴と展開",
-      "category": "自治体",
-      "source": "ニコニコニュース",
-      "time": "7/24(金) 13:45",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xbWVrRFNrS0I1WUpOd0ljWjM2czluZkdjbWVFcm04SzNWcGhwMjQ5T1hibVJvTHNpeDNVS25vYzM5N2pidW5Jek0zZlZqSmhzZFJqdmlfMWg5THlnbmZYYlUzRzRlS2VE?oc=5"
-    },
-    {
-      "id": "auto-c81b81bf0171",
-      "rank": 7,
-      "title": "【申込8/4昼まで】電気代高騰・酷暑化に勝つ太陽光発電対策とは オンラインカンファレンス「次世代GX工場における設備投",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "7/24(金) 13:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1obDBKdHYxaEVWNExsZWUyb29fMUFNVk1QbTZtU3F3Ukt3UFdYV1gyUnVSbE1jdlJMZ2RRSGswQUxyd2VGaUhoZm1GSWFOZFdaVkloZEpLVjBCeDdJTnNfbktiTnhaRXI5SVZNRUFvR3RvTVlsekRYZnlGZw?oc=5"
-    },
-    {
-      "id": "auto-eaca0264f535",
-      "rank": 8,
-      "title": "水素で走るタクシーお披露目 アジア競技大会開催にあわせ導入すすむ 愛知県 (2026年7月24日掲載)",
-      "category": "技術",
-      "source": "ライブドアニュース",
-      "time": "7/24(金) 12:52",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOaG9Ja1dreDRVV0RUVGZpUzBCN1EtT3NySkxPMzJqc2NlWmpDSHdkRURXVGhXbVBfNWhjb3A5a1k0SDJ6QUZFX0p4dXZ1RVpSMEtzcTNMdDZhVmhyZ1E?oc=5"
     }
   ]
 }
