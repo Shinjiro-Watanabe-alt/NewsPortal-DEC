@@ -1,22 +1,22 @@
 [
   {
-    "id": "auto-ff6e99adba0f",
-    "title": "「新方式省スペース太陽光利活用システム」による新時代実現に向けて！株主様を募集いたします！投資の意向調査にご協力ください。",
-    "category": "暮らし",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "11:45",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000187645.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/187645/1/187645-1-ea8c8f24b370e0552d8cf79737568f81-1592x880.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-61e28a6d72c3",
     "title": "製造業復活へ。脱炭素と老朽化対策のための設備投資意思決定支援サービス提供開始",
     "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "17:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000152578.html",
+    "image": null
+  },
+  {
+    "id": "auto-296007f431f4",
+    "title": "Earth hacks、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展",
+    "category": "暮らし",
     "accent": true,
     "source": "PR TIMES",
-    "time": "11:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000152578.html",
+    "time": "17:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
     "image": null
   },
   {
@@ -25,7 +25,7 @@
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "9:40",
+    "time": "15:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000051.000170473.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/170473/51/170473-51-47d302e24ef3dee9911e5ad32f9d058f-648x486.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -35,7 +35,7 @@
     "category": "自治体",
     "accent": false,
     "source": "PR TIMES",
-    "time": "9:40",
+    "time": "15:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000232.000099719.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/99719/232/99719-232-dac0c3922d36dd2763a37503deac7da4-500x531.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -48,6 +48,96 @@
     "time": "9:05",
     "source_url": "https://www.nikkei.com/article/DGXZQOSG024OX0S6A700C2000000/",
     "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3291600010072026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=bdfc6978c48cf14a29dfde9b4c89b9a2"
+  },
+  {
+    "id": "auto-7386d0c61ad9",
+    "title": "液体推進ロケットの世界市場（2026年～2032年）、市場規模（液体酸素＋ケロシン、液体酸素＋液体水素、液体酸素＋メタン）・分析レポートを発表",
+    "category": "技術",
+    "accent": false,
+    "source": "アットプレス",
+    "time": "6:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hcTdtWVJOYll6WEh5Zk1uTmxrZjNlM0JFUlR2RnI4REZ2dkR1aVFrQjduSFRpa0puay0taFVjdzEycFlvbEl4R0k4TVVIanc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a93bc6e060a9",
+    "title": "画像17 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
+    "category": "その他",
+    "accent": false,
+    "source": "ウォーカープラス",
+    "time": "5:48",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNzlPQnhmc3NJUHJNZFN2WnRzcm9yMW53TkQxYXh0MzJBVzVrVkRMMjlEakxkYVgtWlJvTDl5aGNzNnVzMThFTFN0bWw5T1hvb05RdGlJeUpnQWpRNGJiTGVSRExSa3F4UFVJb3FB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ca0b8536e73d",
+    "title": "データセンター用水素燃料電池の世界市場（2026年～2032年）、市場規模（プロトン交換膜型燃料電池（PEMFC）、固体酸化物型燃料電池（SOFC）、リン酸型燃料電池（PAFC）、その他）・分析レポートを発表",
+    "category": "技術",
+    "accent": true,
+    "source": "アットプレス",
+    "time": "5:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZkNaRWo3TTJ0dHY5dUZ3cG4xV1MzXy1JdGVBbVBjUl91SF83QXNIWFFDZWZkNVhMVk52Y0dYNnVlVXpLUnVIOC1ZaURPRXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c7f5009c5fc1",
+    "title": "水素ステーションの世界市場（2026年～2032年）、市場規模（気体水素ステーション、液体水素ステーション）・分析レポートを発表",
+    "category": "技術",
+    "accent": false,
+    "source": "アットプレス",
+    "time": "4:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HREJIemhxTmZKY1lyOE83cjFndUpSUThsd1hjS2RVcjlHM2hRZVphVnVSQTdWMnZ6aGFqVkdDazJhMkhrZWpiSXI0TEppNkk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cca64374474b",
+    "title": "JSFA、5年の「検討」から実行へ 工場の脱炭素と適量生産に踏み込む（WWDJAPAN.com）",
+    "category": "その他",
+    "accent": false,
+    "source": "Yahoo!ニュース",
+    "time": "4:17",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUzBCOXRyUGZUaHZYWEdTUkNYbzQ2OTFBY2t1RGhEUnl5MzJrOWtjWnpPSzhIVjA0aFRWd0hwZnZkcThCR2paemhMcnROQ2tBY1VyYjlrYTEwdUlfOFc4LUs3ak45cHAyejZhR0YxR1pwclRpT0tFU1dNNFRmZzg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9f78d71ca881",
+    "title": "ＢＥＹＯＯＯＯＯＮＤＳ・岡村美波、すしを食べて脱炭素！？ 「おすしは火を使わないのでたくさん食べていいような気がする」",
+    "category": "その他",
+    "accent": true,
+    "source": "プラメポータル",
+    "time": "3:51",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92TXFKTllCQkVEaHB5dktPOGVTSnFaanFiSmJ6a25sNjM1dlpITW5rcHZrNEpWbWlPV1hoZU02aHhXMWVtLWVvV3hTTjN1dXFNckVQbjNpa0JaQklVMDJDZjdDeV9wQS1LdDljclJLZVBZemlMcVZEaUJZcFd5VUk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a6a7d157007f",
+    "title": "【脱炭素・SDGs・ESG】日本規格協会：木質ペレット品質のJAS全17規格を販売、農林水産省で初めて国際規格ISOと整合",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "3:50",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQenVlS0J2anFJcU1KWGIzUUJXOFd2Um4wTlFDUkJyekt0VkFpcE51SDBhU28tZ0JyWDc1dUw5RWZoMzFBdWI1Vm5SWXhQQ21NV2xMNWlfZkx5XzdseWJKczdZNktTMmpUdUNVUmpJNk1ldw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-dfe9fc870050",
+    "title": "【脱炭素・SDGs・ESG】熊谷組・神鋼商事・清本鉄工・ローカルエナジーシステム：国内初のブラックバークペレット工場が愛媛県西条市で竣工、年3万トンを生産し10月に商業運転",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "3:50",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44X2MxV0pwalF5X0lqR0ZlblE4ZDlEQ3g1OFg0alNCdWVUUXY4b2ozd1JsYldPTkxtb2lHbTJzLVVYTEVENEx0QXpjMHRSZzRBNVRJWm1MQzRRbUVtd2NpTXNEMjdTTldHVzJWTE1ZbTJIQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-adf201a9b9c8",
+    "title": "【脱炭素・SDGs・ESG】武州ガス：綜研化学狭山事業所にカーボンオフセット都市ガス、年間約378トンのCO2を相殺",
+    "category": "自治体",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "3:45",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00bnRRaFBoYmJOcENnU1lDVDg2UGlKb0FFN3dtbUxzZTA2MXJ6RDBrWFhhZWZfSFJEVmZUVXB3LW03N3paVlFTNmhXNXlNS3V3SmFfOUhfVW5ReWgxX3JhVVVWNmoxRHdjOERlTlNwbEQtQQ?oc=5",
+    "image": null
   },
   {
     "id": "auto-31ca0e0ff1ab",
@@ -70,10 +160,20 @@
     "image": null
   },
   {
+    "id": "auto-cedbd2e55645",
+    "title": "高分子光開始剤の世界市場（2026年～2032年）、市場規模（側鎖開裂型、主鎖開裂型、側鎖水素脱離型、主鎖水素脱離型）・分析レポートを発表",
+    "category": "技術",
+    "accent": true,
+    "source": "Newscast.jp",
+    "time": "1:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWLW1GQUFSV0hic05jVG05cldJVEJaMi12RnlzanZhcWowWG1CazFjdjVEakJ4UGlpbzdBd0ZMSXFFZUs4dlo0b0VQS0RCa28?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-cbdb66067b94",
     "title": "画像3 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ウォーカープラス",
     "time": "23:48",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSDhXUTN2M0dZQWdzd3lnSU1wem15Yy03eTl5S1BlcG5DMmdoNUtmREhGQTZuZUZqZG0wWjJTMm1CQTliZ01MNjc1a1B2bUpLNHgxSWVWU2I1aUUwLVBKRjRLSE1ENXhfRG9aRzBR?oc=5",
@@ -93,7 +193,7 @@
     "id": "auto-b22a9811cb5b",
     "title": "【蓄電関連】シーラホールディングス：栃木県小山市で2MW・8MWhの系統用蓄電所取得へ、4基保有に向け21億円投資",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "23:00",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhNFpiQkR2TDJWUXFQT3hPQU5SNDJjeGYwbDk5U0c5UFB1VGd1VzJxdG5XNDg3c1NJS0xjZEZOWGpjMjVSeEExR1hwSkJ0SGJfWHYzSHdrTUtUOXFiMzVqS0FPVm8yRE5vN2g1NlNXNEMyUQ?oc=5",
@@ -103,7 +203,7 @@
     "id": "auto-5ee8fbcf9291",
     "title": "バクニン省は、屋上太陽光発電システムを設置する世帯に対し、最大600万ベトナムドンの財政支援を提供している。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "23:00",
     "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0RnM1RBZGlpWnlwSFoxaHRaMEZCNVQxdXFkWkRZVjVfN0dqT3g4cWEwNGtzQ01mOUwzaFNVWXl4bE90aWs4LURFb1NxNjFPa3R2N0NraGF1Z09pWHJvYlc4Tmc4ckdRei1IbC1fSWdYVUl1OVpuQ1NOQVB4TDZLSUw2c0pmZHNrZzA0LVc4QnlpTFpoYk13N1FOYS1MQVFv?oc=5",
@@ -120,6 +220,16 @@
     "image": null
   },
   {
+    "id": "auto-0ecb5a63ac5d",
+    "title": "【蓄電関連】エナリス：大塚グループ北海道工場で需要地併設型蓄電池を運用、太陽光余剰電力を夜間操業に活用",
+    "category": "その他",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:50",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSTTJiY1JwT1haUnlWWWM4cGRINVhvTjZVOVd0cDloOWhKZzNzcjEtWHNlVTFBeU1FYXhoOUhrVlN4d29YR0RyaFVkYV9ZUW1FQzFISXc2cnNhdkRuclluSTFRMjBBUC1Nc2wtNHc3N2cxdw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-9854aad6fa1a",
     "title": "愛知県が水素タクシーの導入を促進 お披露目会（中京テレビＮＥＷＳ）",
     "category": "技術",
@@ -133,10 +243,20 @@
     "id": "auto-65151e72c0eb",
     "title": "【国際】2024年の再エネ発電量9.8%増で過去最高の成長率。シェアは31.7%。IRENA | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Sustainable Japan",
     "time": "22:10",
     "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaThEQWFYRklNbWhOMUQtRkltR3RXcEY4R05YM3VnYjJBZjlBRkl4a1JWYmQ3bWk1Wk9nRHdydWNBYkF6WnJIel9VT190ZTJ1SHRFWllwRjRDX1dzTDdIdHZrdHBySjIzdU12OTdCLXBZajd3azBESzM5c050cEtlT29wMNIBgwFBVV95cUxNaThEQWFYRklNbWhOMUQtRkltR3RXcEY4R05YM3VnYjJBZjlBRkl4a1JWYmQ3bWk1Wk9nRHdydWNBYkF6WnJIel9VT190ZTJ1SHRFWllwRjRDX1dzTDdIdHZrdHBySjIzdU12OTdCLXBZajd3azBESzM5c050cEtlT29wMA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-38cefdaa589a",
+    "title": "「水素タクシー」お披露目 愛知県が導入を促進 アジア大会までに約80台導入へ 3分の充填で約800キロ走行",
+    "category": "技術",
+    "accent": true,
+    "source": "au Webポータル",
+    "time": "21:52",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tNk95eDdNcDlSWUg2dE9TUWlGLS1JbHpoaGJYQ2JqcnF0OGgzYXgweDNmakFUbDhaS1ZkaGprd25TeldNeFdCVVBQT0hrS1I0QnhHNmVCYmU0ekctMENoOHNVMVFtNXQ5am5WTmdJTEp3OE5nS1JmQWQ2Yw?oc=5",
     "image": null
   },
   {
@@ -177,126 +297,6 @@
     "source": "岐阜新聞デジタル",
     "time": "20:00",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTG1hYUtZY1ZNUm9RcUlEME1ydXFsajUxTGRRa2hvX1ZVN1NDdG80cUpMV2NTMUhOSEYxMEJobDNfdXdnRU9xTXVsUmFRblBmRkRxMTR3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-73056bf33540",
-    "title": "DHL、中国ロンジと太陽光・蓄電池物流で協業",
-    "category": "国際",
-    "accent": false,
-    "source": "LOGISTICS TODAY",
-    "time": "18:29",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwQmtGYmxmM2R5R253d0RHSHFrRDh1U3kzb0otYVhDRmttM05GWU96NFZtZVh1MkNFRy1RMWQ5V2FuQkZnRzdUUg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-923a3c5aceaa",
-    "title": "シマント、モビリティ脱炭素コンソーシアム参画",
-    "category": "その他",
-    "accent": true,
-    "source": "LOGISTICS TODAY",
-    "time": "18:29",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05N004Y1RMRW9KTU8zakxBYUdzYzFpa3RTcHhIYVdPSkhwb2VUVThaTE9qQi15ellhTXZPMUs1ZnItdDNRSU1jMw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-35e0afe55a24",
-    "title": "【GRAND調査】GRAND視聴者の「サステナビリティ・GX関心層」は含有率17.6%｜この関心は導入依頼が全体の約3",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "17:18",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yTjltUkxSbzloYkxqMFlXTmFkY0dkQWNaaXpVcmJEUldyRkhiX3hVaDRMS0tGaUJaTjdyTExWM1ZaMi13WDhUenNtbHJaXzlBTFcxd0FaRDgxOFJJOHMzMVFNMTBjbHJ1SFMyVGpvdzNTaEJCeDlQNDFITQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-62b04cb8b380",
-    "title": "「営農型太陽光発電（ソーラーシェアリング）の制度改定と実務対応」と題して、西村あさひ法律事務所・外国法共同事業",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "15:48",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xYWtDY1kzcm4zSXBkRXF5VFNMX3hIZ2tfVVhtendkaUxTUWdhUzBySmpVdE5sQlliZWsxLVRDTWJVc1VreGZOMldyZm5YWkpfXzdEbm1nVmlnNEoyWE5rV2RtUFJvYUJD?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a765909c54b6",
-    "title": "ネクステラ・エナジー、第2四半期利益が予想上回る AIデータセンター需要で再エネ受注残が35.1GWに急増",
-    "category": "その他",
-    "accent": true,
-    "source": "BigGo ファイナンス",
-    "time": "15:25",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13aDdYTXlSU1RWR0Q1Z1JGLWlCRERKOWtHeUNXTVN0TGxLcE94WHh2RU4tY1FBYXhDQk1NRWdCY05EZ25HVWpqdVlxQzllUzZicDk0ZmVjR0RCeEJQTHB2RXZpYW04d3Y5MHRZdW1oMFdMNDdU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-26612555eb3c",
-    "title": "液体水素レーシングカーの部品作りや3Dプリンター体験！シーホース三河が贈る「ミカワミライラボ」8/28(金)開催【参加",
-    "category": "技術",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "15:18",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yMVVuWlpDYS1WS2tER04xcElWdXA3WV90eXBfNnhEZWlzZlhRU0JjcEwtNTdYMTFFbmpJYUJCYXE3Z1ZTTDh3YTRMUTRxS2k2ZWg1Q2dFVHdwd3JJSUNIX204dnMtWTBnUDJXVzN4d3hXa3ExYVo5ZlJPaw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c7dac2d31ef0",
-    "title": "画像2 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "14:56",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MWWttZUN5a3ZrUFJ3LWVKNmY1OHViclpTSTFoOERFSjRlZlVhaUJrT0wxeHpmY3VETkhEcHczN0hGa1A4SnFnLWhPam5OQlJrZXlKdUFleHFPVjJyUnZOWkpvZ0JWamx3R2xBMURB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-02927e7d03e2",
-    "title": "作物育てながら太陽光発電 トドック電力、むかわで「営農型」稼働",
-    "category": "その他",
-    "accent": true,
-    "source": "北海道新聞デジタル",
-    "time": "14:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTh2cG8yNHZiR2ZMcVpwUTl5NVBWRUNGdnYwMGRGeFI3UWRVcVVmS0hQT01vYjFfWHR5Y1BxbnE1LWVMdXVrbmtaVnFVSkNJOHRTczVScUVOZ3RtX1FsWmpZNl9GQlV3WTF2NTdIa2RjQmM2MHhWVkY1a1MwU3Nrd2xJX2MybVJT?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4cd31c4ae35f",
-    "title": "ヴィンフォン市は、地元住民のために太陽光発電式の街路灯システムを稼働させた。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "14:10",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2MxTDNqVHV4SmpmNVJHdzkyWUtvbktCellZV0ZiV2ZmeUUtUU5XOU43NUU5TnJ5dUp3QTRua1JSVkhhbWkxRXYwS1pxYjU5aUlMaHNVSUFHWEsycG1JejB5bmYwZkRySlpmVEp0NVNTWGJpcG0yZmpIelFmN21ja0xjN2lQeUJCWFVDTXEtbnVBak5TRnJjVkpxVWc0VzJYV3c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af7e61c0d5f1",
-    "title": "なぜ多くの太陽光発電や風力発電プロジェクトは、受入試験の結果を受け取っていないのでしょうか？",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "14:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXNMX2JnZ2FRakVCclFLMmdseG1rMW0xLUxCcnV2QWpQNmtPOFJHc0h0TGJNd1FLQ2RoazVMMUdVb3Zsd2hIdzlBaWNnNGxCZ0F2NTFUYkZxVmllVXRxZlVfaExKZThHNk85V2JNbVFhb2ZTOFc0SEl0WlNTU01Hb0wwVEZwYy1hVWdFb21UTUdEaHlmYmJBT0toOEVuT2NRa0tvcGRpMWx2dw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c81b81bf0171",
-    "title": "【申込8/4昼まで】電気代高騰・酷暑化に勝つ太陽光発電対策とは オンラインカンファレンス「次世代GX工場における設備投",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "13:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xZmt3V056NlQyTXpTbFQzdVJ6MHFzb0FEWGR0X0NyOGh3ZTViR0w2WHJqM2tGQ09YOFpGN3VXREZzWGR0WTJLY0pMSmZtVWtJdkg2VGZBQ0UydElMX2hBZHRXZk9MVUZRTzBsakNJaGtnUWlZWURZVVZtRQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-eaca0264f535",
-    "title": "水素で走るタクシーお披露目 アジア競技大会開催にあわせ導入すすむ 愛知県 (2026年7月24日掲載)",
-    "category": "技術",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "12:52",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOaG9Ja1dreDRVV0RUVGZpUzBCN1EtT3NySkxPMzJqc2NlWmpDSHdkRURXVGhXbVBfNWhjb3A5a1k0SDJ6QUZFX0p4dXZ1RVpSMEtzcTNMdDZhVmhyZ1E?oc=5",
     "image": null
   }
 ]
