@@ -11,15 +11,15 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-61e28a6d72c3",
-    "title": "製造業復活へ。脱炭素と老朽化対策のための設備投資意思決定支援サービス提供開始",
-    "summary": "[株式会社ムダレス] 製造業復活支援ベンチャーの株式会社ムダレス（本社：東京都目黒区、代表取締役：廣松 茂）は、工場ファシリティ設備の更新・投資判断を、経験と勘に依存した運用からデータとロジックに基づくマネジメントレベル...",
+    "id": "auto-543adafb4db7",
+    "title": "【想定年利25％】広大な自己所有地を活用し、次世代インフラを構築！「北九州市修多羅系統用蓄電所 開発ファンド」7/25(土)募集開始",
+    "summary": "[ミラリタ株式会社] 事業投資型クラウドファンディングプラットフォーム「ミラリタ」を運営するミラリタ株式会社（本社：東京都港区／代表取締役社長：重田恭宏）は、「北九州市修多羅系統用蓄電所 開発ファンド（以下「本ファンド」...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "7/25(土) 17:10",
+    "time": "7/25(土) 21:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000152578.html",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000051.000170473.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/170473/51/170473-51-47d302e24ef3dee9911e5ad32f9d058f-648x486.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
@@ -34,8 +34,30 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html"
     },
     {
-      "id": "auto-ff6e99adba0f",
+      "id": "auto-3e54185ea6a8",
       "rank": 2,
+      "title": "水素ステーション市場、2032年までに3倍以上に成長予測！クリーンエネルギーの未来を支えるインフラに注目",
+      "category": "技術",
+      "source": "全国ソーシャルビジネス事業者データベース",
+      "time": "7/25(土) 12:31",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkw1M1did0F5T1ctblZibkNscGhESGRDZWxtbV91OVpnQlh4NGY4WS1fLUQ3bVZPcXNfY1ZnZEMwWGEwRnkyMWs4TVBRQmFJa0FjWE5wTDFlcW8zeGV1YnFzcHRIMkdEYVBPXzl4T0Nxc0gwN042ZDBVekgwYzRXSW1feFFRSGRBaTA1enptRlA?oc=5"
+    },
+    {
+      "id": "auto-31799d7068f4",
+      "rank": 3,
+      "title": "グローバル地熱タービン市場レポートTill 2035",
+      "category": "その他",
+      "source": "Spherical Insights",
+      "time": "7/25(土) 12:16",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oVUVycDBlVVRkYlUzZmJ3QjVpd215TFh1OGtsZmtNREpoT1Jid19INGtUN2NPT3VraVdvdHJpeFFKQjlsYms3Z0JiT2wtWkZwbk00QmxiTHYxbnZadFdSS2RrekpZejNHcG9VWHRPWVBoektQUXYzX2VNNA?oc=5"
+    },
+    {
+      "id": "auto-ff6e99adba0f",
+      "rank": 4,
       "title": "「新方式省スペース太陽光利活用システム」による新時代実現に向けて！株主様を募集いたします！投資の意向調査にご協力ください。",
       "category": "暮らし",
       "source": "PR TIMES",
@@ -45,70 +67,48 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000187645.html"
     },
     {
+      "id": "auto-a8e6fd7ee48a",
+      "rank": 5,
+      "title": "2035年までのユーティリティスケールナトリウムイオン蓄電システム市場規模レポート",
+      "category": "その他",
+      "source": "Global Market Insights Inc.",
+      "time": "7/25(土) 10:50",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0lDQXNYZGRHYzJzR19HQlNGaTg2QmFJb3p1X1IyZURfZFZETGMxY0xHVWJBM2U2eTA1OVBuMXl6d21LRERSM1BRT2JISlhzQzlsN3NXbURsaVRXZnh6cnlObWlQVmgyZ3k4a21jRjFXN0ExU0ZnWHUwWFlSTG42V0s1bkZ0bTdkdm00ZzE3cVVwcTN5cWE4TXVRWVBVamtmSENERg?oc=5"
+    },
+    {
       "id": "auto-9773fd0fe95d",
-      "rank": 3,
+      "rank": 6,
       "title": "浮体式洋上風力発電の可能性語り合う 函館でシンポジウム",
       "category": "その他",
       "source": "北海道新聞デジタル",
       "time": "7/25(土) 9:53",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xWEZqb3BqaFVTTzJObTdWMDFTcDVWa3k3N0REVTVkUkxja2w2T1U0Z012VWR4emREWEc1elVMOHV4QWlrQTBjcTNKalFiS3JEOEZ3RXhuMHFQZw?oc=5"
     },
     {
       "id": "auto-b65b8b54221e",
-      "rank": 4,
+      "rank": 7,
       "title": "高圧水素ボンベ用マウスバルブの世界市場（2026年～2032年）、市場規模（35MPa、70MPa）・分析レポートを発表",
       "category": "技術",
       "source": "アットプレス",
       "time": "7/25(土) 9:30",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43a0ZjNnVjSlBoUjZqSkhoRlc2WXhQbl9XWDAyS25rVHVoR2ctemp0QnNzWjBKZFN0RURUM1VUUmVibWFYVExscmxCQS1YVmc?oc=5"
     },
     {
       "id": "auto-52fcca286807",
-      "rank": 5,
+      "rank": 8,
       "title": "eVTOL電気駆動システムの世界市場（2026年～2032年）、市場規模（全電気式、ハイブリッド電気式、水素電気式）・分析レポートを発表",
       "category": "技術",
       "source": "アットプレス",
       "time": "7/25(土) 9:30",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BbWxjUmluTnZQbWtpOThnMTh5bThzcGJLZ3ZTZ2RYRWRCdnRKeUozdmVtN2s4aVAxazJXS29JY3k2UXRhU21UTUVoeXFJaTg?oc=5"
-    },
-    {
-      "id": "auto-edb469160904",
-      "rank": 6,
-      "title": "モンテネグロに蓄電システム供給へ パワーエックス、自社製品の輸出も視野",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "7/25(土) 9:14",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51U1F2ckFhQlVPRk00Sm5fVjV3VTFwRHpNMFFFMXdkYU1pbE1OX3VuaElGVnZleXRkR1B3Rjc0SE1YYTdTeDJ0VlZjX1RmN0xYRFE?oc=5"
-    },
-    {
-      "id": "auto-c515ac2f908f",
-      "rank": 7,
-      "title": "「メルトダウンしにくい」次世代原子炉 29年度に世界初の水素製造試験 - 日本経済新聞",
-      "category": "技術",
-      "source": "はてなブックマーク",
-      "time": "7/25(土) 9:05",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://www.nikkei.com/article/DGXZQOSG024OX0S6A700C2000000/"
-    },
-    {
-      "id": "auto-0af7d0cbfd62",
-      "rank": 8,
-      "title": "洋上風力発電評価の世界市場（2026年～2032年）、市場規模（資源評価、環境影響評価、その他）・分析レポートを発表",
-      "category": "国際",
-      "source": "Newscast.jp",
-      "time": "7/25(土) 9:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WSHlLYzhwd3dBbWppU0JGTEI5Y0JoU1FKZ2Z5QjVSZGh2ODhtX0FZV2tsUF9ITm5PLTlWS1FKajgyeHg5NW1RcEVWaHN6T1E?oc=5"
     }
   ]
 }
