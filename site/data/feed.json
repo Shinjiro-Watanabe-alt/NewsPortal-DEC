@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-296007f431f4",
+    "title": "Earth hacks、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展",
+    "category": "暮らし",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
+    "image": null
+  },
+  {
+    "id": "auto-61e28a6d72c3",
+    "title": "製造業復活へ。脱炭素と老朽化対策のための設備投資意思決定支援サービス提供開始",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000152578.html",
+    "image": null
+  },
+  {
     "id": "auto-543adafb4db7",
     "title": "【想定年利25％】広大な自己所有地を活用し、次世代インフラを構築！「北九州市修多羅系統用蓄電所 開発ファンド」7/25(土)募集開始",
     "category": "企業",
@@ -8,16 +28,6 @@
     "time": "21:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000051.000170473.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/170473/51/170473-51-47d302e24ef3dee9911e5ad32f9d058f-648x486.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-296007f431f4",
-    "title": "Earth hacks、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展",
-    "category": "暮らし",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "17:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
-    "image": null
   },
   {
     "id": "auto-3e54185ea6a8",
@@ -33,21 +43,11 @@
     "id": "auto-31799d7068f4",
     "title": "グローバル地熱タービン市場レポートTill 2035",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Spherical Insights",
     "time": "12:16",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oVUVycDBlVVRkYlUzZmJ3QjVpd215TFh1OGtsZmtNREpoT1Jid19INGtUN2NPT3VraVdvdHJpeFFKQjlsYms3Z0JiT2wtWkZwbk00QmxiTHYxbnZadFdSS2RrekpZejNHcG9VWHRPWVBoektQUXYzX2VNNA?oc=5",
     "image": null
-  },
-  {
-    "id": "auto-ff6e99adba0f",
-    "title": "「新方式省スペース太陽光利活用システム」による新時代実現に向けて！株主様を募集いたします！投資の意向調査にご協力ください。",
-    "category": "暮らし",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "11:45",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000187645.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/187645/1/187645-1-ea8c8f24b370e0552d8cf79737568f81-1592x880.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-a8e6fd7ee48a",
@@ -230,6 +230,16 @@
     "image": null
   },
   {
+    "id": "auto-ff6e99adba0f",
+    "title": "「新方式省スペース太陽光利活用システム」による新時代実現に向けて！株主様を募集いたします！投資の意向調査にご協力ください。",
+    "category": "その他",
+    "accent": false,
+    "source": "CLASSY.[クラッシィ]",
+    "time": "3:50",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55MnZ0ZmxxaEpFUjRtOXFJMS0xbjBlMTdfT1BXd2Jfa3ZVTG9WN0ZCWFRMRC1wWXJhQndCdVNrcnUtckZNUENzYVJyU0R3V0h1WGJIcmtjVQ?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/187645/1/187645-1-ea8c8f24b370e0552d8cf79737568f81-1592x880.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-adf201a9b9c8",
     "title": "【脱炭素・SDGs・ESG】武州ガス：綜研化学狭山事業所にカーボンオフセット都市ガス、年間約378トンのCO2を相殺",
     "category": "自治体",
@@ -243,7 +253,7 @@
     "id": "auto-31ca0e0ff1ab",
     "title": "【脱炭素・SDGs・ESG】NGK：再エネ地産地消支援「NGK eneloco」開始、企画から運用まで一括し2030年度売上高100億円へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "3:05",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44c2Y0ZmpJOS1FNXdhTEJUYU9fcmEzSk9VbVJFc2ZUaG1ZVjdzYzhxWEVkT215eXRwOUxsSUZFVGp5SW5aZlpHT0NQT003TENtaGp3ekplVHluV0ltSE5ReXBoNHZFaW43cVdsbkVYN2tsZw?oc=5",
@@ -253,7 +263,7 @@
     "id": "auto-7db3820c6c22",
     "title": "太陽光発電の応用範囲を拡大する。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "2:08",
     "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WQ3lCMF9DdmlnZ3FWakhjb2pHbmJLcFRwbGhDZ2djeGEzWk1vcmtVeEtkZXhkOFNaYUNaS0UtMkU1VjI1WDUwcDZYRkRpWmlVOHVCYUNFeld1OElhN3RDUlc4dUZETE0?oc=5",
@@ -264,16 +274,16 @@
     "title": "高分子光開始剤の世界市場（2026年～2032年）、市場規模（側鎖開裂型、主鎖開裂型、側鎖水素脱離型、主鎖水素脱離型）・分析レポートを発表",
     "category": "技術",
     "accent": false,
-    "source": "アットプレス",
+    "source": "Newscast.jp",
     "time": "1:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQ1lIbmRjVUZQSVdzWXJrWEJwajhSRE02RUpRbjBxTkdLN1l6R29TeFptT0U0U1ZNZ3Fnd2JyVGtCeVlQY1ZRTnl5RnJoa00?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWLW1GQUFSV0hic05jVG05cldJVEJaMi12RnlzanZhcWowWG1CazFjdjVEakJ4UGlpbzdBd0ZMSXFFZUs4dlo0b0VQS0RCa28?oc=5",
     "image": null
   },
   {
     "id": "auto-a4907c998fa4",
     "title": "画像 | JERAの戦略子会社幹部が描く、脱炭素ビジネス戦略。「企業の悩み解決」で、3年後プライム上場100社と取引目指す",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "東洋経済オンライン",
     "time": "1:00",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tWVZRQ0dyZUJGNER0VExSeU5vN3BqbGhrTk84alk2UnV5YW42T1czaFNFTnotdjVCMXZCREdfcW5MSnIwcmdLV2RielBWNmxkVXVXYS1ROA?oc=5",
@@ -283,20 +293,10 @@
     "id": "auto-cbdb66067b94",
     "title": "画像3 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ウォーカープラス",
     "time": "23:48",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSDhXUTN2M0dZQWdzd3lnSU1wem15Yy03eTl5S1BlcG5DMmdoNUtmREhGQTZuZUZqZG0wWjJTMm1CQTliZ01MNjc1a1B2bUpLNHgxSWVWU2I1aUUwLVBKRjRLSE1ENXhfRG9aRzBR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f3eb22078033",
-    "title": "バクニン省は、屋上太陽光発電設備の設置に対し、最大600万ベトナムドンの補助金を提供しています。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "23:02",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFJtRDBDWEVWYlQtaUlwRDA4X3VaV3VISlg4aFdTb1M3MlZ0S3BRamtNSnNGT0JhQ2dzMGtSQ25ONXRlUDZSaFRJOW1DdTFac2t1N0Vtcm9PYXZfR1hwRkgtdVRGU3pYMV9FWkkxSkFIV3owTEkxWFVuUjZtZ2x1OWxmeVBGVE5NbjMwa0F5N18?oc=5",
     "image": null
   }
 ]
