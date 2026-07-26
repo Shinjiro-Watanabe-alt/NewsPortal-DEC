@@ -23,8 +23,19 @@
   },
   "headlines": [
     {
-      "id": "auto-04ed87d1b6df",
+      "id": "auto-ed45126ce5e5",
       "rank": 1,
+      "title": "ホンダ、マラッカ工場に初の太陽光発電を設置",
+      "category": "その他",
+      "source": "nna.jp",
+      "time": "7/26(日) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50V1JURW44di1BeVRQZUlzc3hsbDQ1VnBHTzUtWFp1YVNWRDUyZWdRRWQxUUU3SWRfZ0VlVm9FVVFhUFFoMFE?oc=5"
+    },
+    {
+      "id": "auto-04ed87d1b6df",
+      "rank": 2,
       "title": "シャープがベトナムの太陽光発電事業を買収。",
       "category": "その他",
       "source": "Vietnam.vn",
@@ -35,7 +46,7 @@
     },
     {
       "id": "auto-5b05b2fb7558",
-      "rank": 2,
+      "rank": 3,
       "title": "【焦点】資源エネルギー庁：分散型電源にJC-STAR★1取得を要件化、太陽光・蓄電池は2027年4月から段階適用",
       "category": "その他",
       "source": "みんなの広報宣伝部",
@@ -46,7 +57,7 @@
     },
     {
       "id": "auto-18c3aa64f0fd",
-      "rank": 3,
+      "rank": 4,
       "title": "#水素 チャンネルニュース 第289回 2026年7月26日号 ( #水素エネルギー ・ #燃料電池 )",
       "category": "技術",
       "source": "t.co",
@@ -56,8 +67,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE80MjVDVDVpYnBTT2s1SkJjWkVHYXpxUUMwODBRNFdoVkdyVjN3TTVaRkxmRVhNNThxamxZ?oc=5"
     },
     {
+      "id": "auto-b8d3a87af2c2",
+      "rank": 5,
+      "title": "三菱地所・伊藤忠商事・東京センチュリーの共同事業向け系統用蓄電システムを受注",
+      "category": "その他",
+      "source": "山陽新聞",
+      "time": "7/26(日) 8:50",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwNzlJWEtnSmxkOFNCSnRKRUlDcUFScEVXTWV2Zi1Bc3VJWmNkU043ZWVTanRvRTFQcWdlS2NmdW1KZGVWazlCRzlEbm9kT2tVRmc?oc=5"
+    },
+    {
       "id": "auto-8f17ccb8797b",
-      "rank": 4,
+      "rank": 6,
       "title": "酷暑下の電力供給、太陽光発電と原発稼働で備え 夕方にはリスク",
       "category": "その他",
       "source": "日本経済新聞",
@@ -68,7 +90,7 @@
     },
     {
       "id": "auto-56cef2b31483",
-      "rank": 5,
+      "rank": 7,
       "title": "UAV用水素燃料電池システムの世界市場（2026年～2032年）、市場規模（空冷式、水冷式）・分析レポートを発表",
       "category": "技術",
       "source": "アットプレス",
@@ -79,7 +101,7 @@
     },
     {
       "id": "auto-61e28a6d72c3",
-      "rank": 6,
+      "rank": 8,
       "title": "製造業復活へ。脱炭素と老朽化対策のための設備投資意思決定支援サービス提供開始",
       "category": "その他",
       "source": "Excite エキサイト",
@@ -87,28 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hYkcwczRZVzNlanI0UUFmZUllZE40dXpVd2MzbS1DSFNIWEJLXzRhOEk2TEFNUzhLLVNXVzdWUE9hckp5ZGhOX3UyeHYtak5XaXdvdWJieWo1QmFtYktXYnd6dDNQYzJMbXdCcUJzOExXRm8?oc=5"
-    },
-    {
-      "id": "auto-da7e3bb73914",
-      "rank": 7,
-      "title": "世界で転換期を迎えた自動車環境規制。脱炭素と産業競争力の新たな均衡点",
-      "category": "国際",
-      "source": "caranddriver.co.jp",
-      "time": "7/26(日) 8:01",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03RVQtX1VMa3RpTVFtT25yMkJyeDlCUlZlQ0t0Q1dXUVBjQzVBUGJCV2NOOVlmRTlXcWVtWXROeHJpdVUyb25tTVdTT0dGcmF2cHhVTW5sZG94THU3c3o1SUdLck1hT2lqVlE?oc=5"
-    },
-    {
-      "id": "auto-f28308be1910",
-      "rank": 8,
-      "title": "NGK、再エネ導入支援事業「エネロコ」立ち上げ 島根県邑南町が第1号に：ニュース",
-      "category": "その他",
-      "source": "中日BIZナビ",
-      "time": "7/26(日) 7:55",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWM1bUltU1RQTkNXdnY2Tm5lV0tIaWpUUEJtV2Y0eU1FWGp2a0FyVm9WblVhNzQzQzZ2N3lKWEluVHBWRnFJc0ZCRFpxQUsxazB5eHlrY0pXT2t6eHVJ?oc=5"
     }
   ]
 }

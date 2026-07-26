@@ -10,10 +10,20 @@
     "image": null
   },
   {
+    "id": "auto-ed45126ce5e5",
+    "title": "ホンダ、マラッカ工場に初の太陽光発電を設置",
+    "category": "その他",
+    "accent": true,
+    "source": "nna.jp",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50V1JURW44di1BeVRQZUlzc3hsbDQ1VnBHTzUtWFp1YVNWRDUyZWdRRWQxUUU3SWRfZ0VlVm9FVVFhUFFoMFE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-04ed87d1b6df",
     "title": "シャープがベトナムの太陽光発電事業を買収。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "11:00",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHMwVmF4LS1UdmpkdGRyZXFHenQyUDEzZXU2LTlaVzU0ZnVyX2JGNFgteW9aQUpYMFBWNjFzZ2Z6LVJTYXNpa1JnSnQ2NVN3Qk41Qi1zZVFFX0RjbFhVRHk1UEFYRXU4RlAtdktqWFhIZU1WYnFWNmhDakktM1hJX3hUZHRqbUE?oc=5",
@@ -33,17 +43,27 @@
     "id": "auto-18c3aa64f0fd",
     "title": "#水素 チャンネルニュース 第289回 2026年7月26日号 ( #水素エネルギー ・ #燃料電池 )",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "t.co",
     "time": "9:04",
     "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE80MjVDVDVpYnBTT2s1SkJjWkVHYXpxUUMwODBRNFdoVkdyVjN3TTVaRkxmRVhNNThxamxZ?oc=5",
     "image": null
   },
   {
+    "id": "auto-b8d3a87af2c2",
+    "title": "三菱地所・伊藤忠商事・東京センチュリーの共同事業向け系統用蓄電システムを受注",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "8:50",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwNzlJWEtnSmxkOFNCSnRKRUlDcUFScEVXTWV2Zi1Bc3VJWmNkU043ZWVTanRvRTFQcWdlS2NmdW1KZGVWazlCRzlEbm9kT2tVRmc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-8f17ccb8797b",
     "title": "酷暑下の電力供給、太陽光発電と原発稼働で備え 夕方にはリスク",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "日本経済新聞",
     "time": "8:50",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wT1pEZlhwZjlGNlF5YTlmUnV2Y2N1ZGdrdWdKTUN2VU5ESFZKeXNhcE1ZWlZobkJyUmxYckNZTTRJckpBd1pGcUI5b19XS3VhekVWUFpUZ2dXeEM2aXRzU1J2SjJVRHZMNV9lVA?oc=5",
@@ -53,7 +73,7 @@
     "id": "auto-56cef2b31483",
     "title": "UAV用水素燃料電池システムの世界市場（2026年～2032年）、市場規模（空冷式、水冷式）・分析レポートを発表",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "アットプレス",
     "time": "8:30",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YQUlfbFlYX09fRDRqdU1uclpCbUxUeDJNSUR5QUs0UU5zd0JCT1hKX0pvbnZNVDByeUF2NFhNdUFSNkNjV3hjczlLT21CZHc?oc=5",
@@ -73,7 +93,7 @@
     "id": "auto-da7e3bb73914",
     "title": "世界で転換期を迎えた自動車環境規制。脱炭素と産業競争力の新たな均衡点",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "caranddriver.co.jp",
     "time": "8:01",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03RVQtX1VMa3RpTVFtT25yMkJyeDlCUlZlQ0t0Q1dXUVBjQzVBUGJCV2NOOVlmRTlXcWVtWXROeHJpdVUyb25tTVdTT0dGcmF2cHhVTW5sZG94THU3c3o1SUdLck1hT2lqVlE?oc=5",
@@ -83,10 +103,20 @@
     "id": "auto-f28308be1910",
     "title": "NGK、再エネ導入支援事業「エネロコ」立ち上げ 島根県邑南町が第1号に：ニュース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "中日BIZナビ",
     "time": "7:55",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWM1bUltU1RQTkNXdnY2Tm5lV0tIaWpUUEJtV2Y0eU1FWGp2a0FyVm9WblVhNzQzQzZ2N3lKWEluVHBWRnFJc0ZCRFpxQUsxazB5eHlrY0pXT2t6eHVJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f9470786fa6e",
+    "title": "【焦点】建築物のCO2を「見える価値」へ、ライフサイクルカーボン評価制度が始動―官民関係者301名が制度設計と課題を議論",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "6:44",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlTFY4Sk1XNFZINW5kQnVZNWFJVmVmT1VNdGIwT29ZS0VpY29NYzV0R09QaWhGZThaaURXN2s5X2h0RFJ6Ukl5UjRYdXJGNHJtbDI1Vm9pMXMxaU4tT3JSSElSV0ZaZnBsRzdXaWJEeTVOaTA?oc=5",
     "image": null
   },
   {
@@ -140,10 +170,30 @@
     "image": null
   },
   {
+    "id": "auto-9bcc6d9f63ac",
+    "title": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」 | | 全国のニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "佐賀新聞",
+    "time": "4:48",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZEttMXEya3FXdzZDR1lqTVQ2Uzk2Rk0wa3RkY3hIRU5vdG9FTWJFUV9YYk1JcXRfa1RUWml2OXhsdm81VG1nTDc3c2dkN3IxTkVWcEdR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9613059051ff",
+    "title": "福島原発後の再エネ描く映画公開",
+    "category": "企業",
+    "accent": false,
+    "source": "埼玉新聞",
+    "time": "4:48",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ybEp6UUxTaGU4WHpqLXJMV2VnejlRUUhxOFA2T2RmQ1pjLThKaW54Qmwwc0daamRwVWNRR1BteF9nbDd5eC05anBDU3NoOEYwdjBteTcxUQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-a932bd5630a3",
     "title": "【蓄電関連】グリーングロース：かがし屋の高圧太陽光発電所に4.5MWh蓄電池、FIP移行と市場連動運用を一括支援",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "4:24",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qM1FxaU9uSUgydnRpOFVkdTQxU0M2STllYjJvUUxCVEk5WEtBMVI0RldyZ2wzQ0dqaDk5RWVqeEE3bDA3ZTlCc1k4WXk3T014cnNqS0JaZWhuU3RWMHZweVFWamswT3NFcW9kWVRsSnZhQQ?oc=5",
@@ -163,7 +213,7 @@
     "id": "auto-1696b9c35d8f",
     "title": "【研究】東京科学大学・GX推進機構：産学官金の「融合」で共創協定、2027年度に次世代幹部向けGX人材育成プログラム",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "4:14",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53WjhMYkZyWThNVkRWaUFSNnBLYUlhLVhNMnRZRjA1Q2NidmlnelhZak94MmRFbnU4R2F1STVIVTdWbDM4UGY1bDF3QXBGTFEzZXFKNW9OeGJFWU52RmdDNjFGc1pUV2hRbjFzcFpwLVFtQQ?oc=5",
@@ -173,7 +223,7 @@
     "id": "auto-279900a97d0f",
     "title": "【海外】AIKO：イタリア農園に1MWのABC太陽光発電設備、TOPCon比で30年間に約633MWh増発",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "4:14",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42MktLdVFBaVlZNy1NSFBYaHllWlZfamtzZjRkN1c1V1QzTTNYUU1RcUhJR0llSUtsdnZTcGl4TTlBOWRsa2hIdkFsNzBwVVFaZWNzS1dIcE1RdkFRMlZWWXdXZnlqdFVZaDNkQXVCMWJfdw?oc=5",
@@ -193,7 +243,7 @@
     "id": "auto-779d2b9b30a5",
     "title": "絶滅危惧種になっていた燃料電池車関連は6.2兆円の予算が付いた。政府の骨太方針2026で復活するか？",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "自動車評論家 国沢光宏",
     "time": "3:18",
     "source_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSFJMMG93S2ZGV1RrcWJMSzZNUVY5T2JuXzh5UnQ2UU92cGJKcUZWQUpoQXFxTTg0SHNUZTd4cjNHZFN4VGx2aERCRFp5UURxRU11OFBySkExSWN3dC00c1FuanN1TUc5Y0VUc3FzdEVDamFNQUFaTjNnZzVINFRrVFdqeDFFUTZOb3hhOVEzYjNwSGhpZXB1VHZhWmEyUElqUENhNVMzSkZmaHdhT21TNTBpNFR6anl6ZG1UUFhkWkI2UFdJLVI0akZ6dEtWZW5oTkZSRHRMYVh0UjkwdmNYQS1xaWk5SVpBa3JGckRIaFpYVDcxelJqSWhwWHhtaVpJeDQ0WUg5UWpVODJCWWx1QTZBSTZVdUpZdzhNMXVFdHJpTXd0UTJoUm8yVWloQk9xWDRKYWZ2SmxqemtHLWl5ZFEyZFoxQldvWG5mbjk4M2NfQUhHSW5RNmNyd0JZZw?oc=5",
@@ -203,7 +253,7 @@
     "id": "auto-20b06b65aa9f",
     "title": "やっぱり豊田章男会長は正しかった…EV大失速を横目にトヨタが｢世界トップ｣に君臨し続けるための\"切り札\"【2026年6月BEST】",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "3:15",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13S21mcTdpbVV4OG4yOXptYmFhMlE2cGtHRDlIa1pjc2pjZjRhajdpY3J2Z2RWcE5OUm5DMjhQY1ZtWWRnRGhXS2RhQm9EZGdGMThVVmZVTC1Va2RMS0k4eFJkTFNnV1JlcWdaUFQzY0Y5VU5FR0E?oc=5",
@@ -217,6 +267,16 @@
     "source": "Vietnam.vn",
     "time": "2:34",
     "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFhOMjB5R1VodmNUUFFlaTFaTkR1S3huTGk4ZVA5akF4WHd4QjZIeEt6VGFQLTFlQWxQTzhqMEo2bF8wWGF5NzdUQWtrSEZzaWwtbWc4RWprejdFbklkR1J1TURvSXllTDlWUk9tOFQxR0dGNFZ1SUU2S1EtNmVqYV9CSWRuUzBxZmtVYklVdUM0UQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1e533edfb7d7",
+    "title": "画像14 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
+    "category": "その他",
+    "accent": false,
+    "source": "ウォーカープラス",
+    "time": "2:30",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xUXdDR1lKaXlPclVSYkV2U1NlNWlQUHF2NEpSS3RJNlU4MTJaOVRmQWRQaHZUR21HdDg3YnNYUDdvZVZmTXNIcWRlSnlTakhPdDd0UDZ2R284MFFHU29BWXlYNzR3YVowY25ZenZn?oc=5",
     "image": null
   },
   {
@@ -237,66 +297,6 @@
     "source": "みんなの広報宣伝部",
     "time": "1:45",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92NWJLTzY1Z09UQ2pYZjgzdUNXME5BMUpUNUh0ekF1cEp4SUdIQmJrVG00Z1o2OWxWY0dqUzNHT0h4aVNqQVA2MmtySlNFV1RMSVRuZERucU9XYjBiWUdZeXlaaFo4T1lNbE1uSEFVcUxNQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-720156fd007c",
-    "title": "水上でサウナを楽しむ！？ 「水素サウナボート」開発にヤマハ発動機が参画",
-    "category": "技術",
-    "accent": false,
-    "source": "CAR CARE PLUS",
-    "time": "1:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qMzN6cjVtekliSElrb2Y3M0ZDem1oemRzQTJkejRDeFhRcFhUUUpfZE50UkdBWmM2eWhzbmxpN29MRFVncnNmSUhhTWIwY2VXdE5tN2VPNkJ5aUM0U0VNNG1R?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1cf803219021",
-    "title": "脱炭素の取り組みなど学ぶ",
-    "category": "その他",
-    "accent": true,
-    "source": "tonichi.net",
-    "time": "0:43",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wekt5QkQyT180RVJuQVduNXp4YUJOMGxaZVgxNVFPZFM2LXZySmR0TVFTZDZhZHBRRmk5WUJhRE1EQVIwdEZOejA3OWMxSFc2THlvWGlGcTJnVmRX?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a1ca897bb21e",
-    "title": "画像1 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "0:41",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2YTNvVEcwME9hMzhaQTFQTXNoQ2NHT0dLUk5lc1JIOW1wRVNiOW9aTU9Zc0FyTV9ibTdDTUFubnNfOUJUZ1lnaWtvX0VmYUpCc0diR25pY3NRZmNaRDBfUXFJdnVuOS1raWU1cFVn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cca64374474b",
-    "title": "JSFA、5年の「検討」から実行へ 工場の脱炭素と適量生産に踏み込む（WWDJAPAN.com）",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "23:15",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUzBCOXRyUGZUaHZYWEdTUkNYbzQ2OTFBY2t1RGhEUnl5MzJrOWtjWnpPSzhIVjA0aFRWd0hwZnZkcThCR2paemhMcnROQ2tBY1VyYjlrYTEwdUlfOFc4LUs3ak45cHAyejZhR0YxR1pwclRpT0tFU1dNNFRmZzg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cfa76d70a1f4",
-    "title": "太陽光に水素、柏崎の「脱炭素」若者目線で分かりやすくＰＲ！新潟工科大生が動画作成",
-    "category": "技術",
-    "accent": true,
-    "source": "47NEWS",
-    "time": "23:10",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RNjRKMElFRUMtM05Kek5TblpvZVhqUDhJYVp3NHZFWEtaMkMxeFY1ajViZFhHcXNoWFpUMTR2Y3luM1VBT2lMbndraw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7d01d13c825f",
-    "title": "【太陽光発電】ちゅうぎんエナジー：テクノス新真壁工場にオンサイトPPA、年間約20万9千キロワット時を供給",
-    "category": "その他",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "22:39",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JWWRsTkZtUG93ZmRkcmxpajlNcWNSZHZoa0hhc2ZVczZHRkg3alRjYzBrUzF5cU1YRW5oMHFsdkY5Z1dRUWQ4QnhWZ1E4VWZUMjF1dUpTLUdwNmU3Zm9PWDRTMklyUGdJMFNyV2JSVXphdw?oc=5",
     "image": null
   }
 ]
