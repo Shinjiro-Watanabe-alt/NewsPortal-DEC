@@ -5,7 +5,7 @@
     "category": "暮らし",
     "accent": false,
     "source": "PR TIMES",
-    "time": "11:10",
+    "time": "17:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
     "image": null
   },
@@ -15,15 +15,125 @@
     "category": "企業",
     "accent": true,
     "source": "PR TIMES",
-    "time": "11:10",
+    "time": "17:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000152578.html",
+    "image": null
+  },
+  {
+    "id": "auto-56cef2b31483",
+    "title": "UAV用水素燃料電池システムの世界市場（2026年～2032年）、市場規模（空冷式、水冷式）・分析レポートを発表",
+    "category": "技術",
+    "accent": false,
+    "source": "アットプレス",
+    "time": "8:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YQUlfbFlYX09fRDRqdU1uclpCbUxUeDJNSUR5QUs0UU5zd0JCT1hKX0pvbnZNVDByeUF2NFhNdUFSNkNjV3hjczlLT21CZHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f28308be1910",
+    "title": "NGK、再エネ導入支援事業「エネロコ」立ち上げ 島根県邑南町が第1号に：ニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "7:55",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWM1bUltU1RQTkNXdnY2Tm5lV0tIaWpUUEJtV2Y0eU1FWGp2a0FyVm9WblVhNzQzQzZ2N3lKWEluVHBWRnFJc0ZCRFpxQUsxazB5eHlrY0pXT2t6eHVJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3f12badf1dcd",
+    "title": "スイスで「大規模蓄電池時代」の幕開け",
+    "category": "その他",
+    "accent": true,
+    "source": "SWI swissinfo.ch",
+    "time": "6:30",
+    "source_url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQbWI2Y1VOQVZoeTRnanc1cGhVc1BWRExJdVNHUkM1VndleF9GYWhsZGFmNlo5eUhRSE9TbUtsU3NfTHYzYWlLakoxUU9wejlYM29JUXB4NlVLU0NjZ0VGVVh1ZHVvd1c1WXJJd2NYS3ZCSkFiN2lYZDFmLUQ5ZWFtdlZKRHdPR3VVeG12M0lLR2hSc2JvUWowcFJUVjNWTExZM2FmWUJkUmg2ZU5xRWhmVy1VYzM3Y25UOFFpcGQ1elpSSnJ2b1RFXzFWMlByZzNlZWdIVE5UM2tkNThnYzF4cmIwT3c0dFRKODNHcFF6ZFFXbDZfdHZleDVwelFPTTZUVDVoZU9FY3ZsUnlzVjIweGcwdUp5dFRPR1FxLVVOMmpoa0QzU1RzNmgtUm1KdFl3clRQOS0xTl9rMDdpbnhBQWVueVVjb0tkbmh4Q09LekI0eTdCT2owSXdta1NLS3ZCVHdDWTZVclpJUHhaTGlTMExlX0g4LXpiMXBOWUE4N045STgycjV5MEtDZk9wV294MEJIWW1VSEl6NkItVG1ldk5yRExieHNSOXlCamVqZW9PaWhwV3JCZ3h3dWlaazJuLUZBdjRvM3h0NV9TczdOTDdDTTRPLWVoaFBURg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9613059051ff",
+    "title": "福島原発後の再エネ描く映画公開",
+    "category": "その他",
+    "accent": false,
+    "source": "デーリー東北",
+    "time": "5:37",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zMU5WQlFqQ0QzWk5TNWNLVXhIMUswX2lOSl9Yb1A3ZHNBVkQtSnpLM010V1hVa05pOF9SbzRnMnVIX0ZHT29wMDdXeDJETmlCdDg2UzR2VlFyQUNCYlZvMzNvaktNUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5231c96d2c44",
+    "title": "ドラマ制作に「自家創出の再エネ」を活用、TBS GXが仕掛ける初のドラマコラボ企画「#感動発電」とは",
+    "category": "その他",
+    "accent": false,
+    "source": "Brand New Creativity",
+    "time": "5:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Kclg0cEl3R0dBUFVYMkVheTFWMlhVeElfdGlSdGtlQmlLQkhHMF80OFBnVFdpSFRFY21lZkdSQ3FBdndSYmtqNHRaOXZFVTk4MzZVRGlQSks?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ba107f477312",
+    "title": "Seldish ／Seldish、福島市の大規模太陽光発電所を対象に反射光シミュレーションを自主実施 - pr-free.jp",
+    "category": "その他",
+    "accent": true,
+    "source": "検索: 洋上風力・太陽光",
+    "time": "5:08",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42RG1PV0FDTWtNd01qZU1OUzZWZXVxNGhMY3lJal9LaTUwQUVsOE1zVVRrcEZFSFdpcklrVVZRMW4wbkwtcXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fcfd16e518a9",
+    "title": "中国の「グリーン製品」輸出が世界シェア22%超に EV・電池・太陽光が牽引",
+    "category": "国際",
+    "accent": false,
+    "source": "AFPBB News",
+    "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxb3FEdW9WSGVKdENoSFhYVEJUbEphaWd0NGtrQ2VIWnlDZW5WQ0dTeG5IX190bVQxUko0TWxmMUVxd3B0dlBRZTRsa20zRnlEWlHSAVRBVV95cUxQYnNpVUN2Yi1waloyTWdBZVdRdVFfTXRpYmFjQ1JtOEMxWERpbXZ5VEZRZGdLLWVkVXctTGcxMlY3U0RwWDhVUHZpTFZGeGZxMzUybjE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4eac9eaef3fe",
+    "title": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」",
+    "category": "企業",
+    "accent": false,
+    "source": "ｄメニューニュース",
+    "time": "4:48",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlBSZXdlWVkwemVKZFh2VUNwQjQ1NnZIWl80cVFFMEI1Z21NTENDTnN5NjVEVWM3alRiMkd2RXVMakJCRHVacnJGZ3VUYlhlOGJOUnVWLXhCLVZPU1ZuUGtNQTFyTnp2bkFyR0FjMEhEUmQtamxLYUhlNmJaT3R2UUFTa196SktUMURVTXhnd9IBjwFBVV95cUxQVlBSZXdlWVkwemVKZFh2VUNwQjQ1NnZIWl80cVFFMEI1Z21NTENDTnN5NjVEVWM3alRiMkd2RXVMakJCRHVacnJGZ3VUYlhlOGJOUnVWLXhCLVZPU1ZuUGtNQTFyTnp2bkFyR0FjMEhEUmQtamxLYUhlNmJaT3R2UUFTa196SktUMURVTXhndw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9bcc6d9f63ac",
+    "title": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」 | | 全国のニュース",
+    "category": "その他",
+    "accent": true,
+    "source": "佐賀新聞",
+    "time": "4:48",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZEttMXEya3FXdzZDR1lqTVQ2Uzk2Rk0wa3RkY3hIRU5vdG9FTWJFUV9YYk1JcXRfa1RUWml2OXhsdm81VG1nTDc3c2dkN3IxTkVWcEdR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b0f3236b106c",
+    "title": "【脱炭素・SDGs・ESG】三菱地所：調達電力の再エネ比率100％を達成、2030年度のCO2削減目標を5年前倒し",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "4:14",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82LWo1OVpfZzRQeUZCSkFOdWQ0STVKS090elpCc093aWdsSDdXc0ZCZjZOZHRhZFQ4bmZmTWYtZjBpektueUY4aUNTVHdVWE9XWW1GZjRCNnFIblczc0NmdE1fb05QNmJjWHlWWGNDNlRNZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-534c60f60566",
+    "title": "中国は2030年までに風力と太陽光発電容量の半分を達成することを目指す",
+    "category": "国際",
+    "accent": false,
+    "source": "VOI.ID",
+    "time": "3:22",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXcjQyMWNEa0d5bklKeWZ1SS1Oa1liV0FTM3NUelhOTzRCZk5mSVhzb0F3ZHpxNTY1dXk3S0pad1pmTlptT0HSAUJBVV95cUxQX2VaMi1IMnE0RHhoWkhUbGNqc0FSN2J6QUZWRW5OSVo3d1JSRUp5SUtGN29jVzJaNjRLM2Rrb0ZUelE?oc=5",
     "image": null
   },
   {
     "id": "auto-779d2b9b30a5",
     "title": "絶滅危惧種になっていた燃料電池車関連は6.2兆円の予算が付いた。政府の骨太方針2026で復活するか？",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "自動車評論家 国沢光宏",
     "time": "3:18",
     "source_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSFJMMG93S2ZGV1RrcWJMSzZNUVY5T2JuXzh5UnQ2UU92cGJKcUZWQUpoQXFxTTg0SHNUZTd4cjNHZFN4VGx2aERCRFp5UURxRU11OFBySkExSWN3dC00c1FuanN1TUc5Y0VUc3FzdEVDamFNQUFaTjNnZzVINFRrVFdqeDFFUTZOb3hhOVEzYjNwSGhpZXB1VHZhWmEyUElqUENhNVMzSkZmaHdhT21TNTBpNFR6anl6ZG1UUFhkWkI2UFdJLVI0akZ6dEtWZW5oTkZSRHRMYVh0UjkwdmNYQS1xaWk5SVpBa3JGckRIaFpYVDcxelJqSWhwWHhtaVpJeDQ0WUg5UWpVODJCWWx1QTZBSTZVdUpZdzhNMXVFdHJpTXd0UTJoUm8yVWloQk9xWDRKYWZ2SmxqemtHLWl5ZFEyZFoxQldvWG5mbjk4M2NfQUhHSW5RNmNyd0JZZw?oc=5",
@@ -36,14 +146,14 @@
     "accent": false,
     "source": "ニコニコニュース",
     "time": "3:15",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pbURKYmdQaDZwVWRCLWp6U2d1dmxGTk1PUzlIWW5BdkVsc1hqN084NXJocnVLb0xFOUwyVE1PbkRrS0toTDNiV1l5TXhaMm1vUElBVEFXQnI5aXNyN0p6RlBwUVlMSlZ0STVQdFcwZE02cTNfZ2JSWGFEdw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13S21mcTdpbVV4OG4yOXptYmFhMlE2cGtHRDlIa1pjc2pjZjRhajdpY3J2Z2RWcE5OUm5DMjhQY1ZtWWRnRGhXS2RhQm9EZGdGMThVVmZVTC1Va2RMS0k4eFJkTFNnV1JlcWdaUFQzY0Y5VU5FR0E?oc=5",
     "image": null
   },
   {
     "id": "auto-96bac479ed79",
     "title": "経済特区や工業団地における屋上太陽光発電の開発。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "2:34",
     "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFhOMjB5R1VodmNUUFFlaTFaTkR1S3huTGk4ZVA5akF4WHd4QjZIeEt6VGFQLTFlQWxQTzhqMEo2bF8wWGF5NzdUQWtrSEZzaWwtbWc4RWprejdFbklkR1J1TURvSXllTDlWUk9tOFQxR0dGNFZ1SUU2S1EtNmVqYV9CSWRuUzBxZmtVYklVdUM0UQ?oc=5",
@@ -53,15 +163,25 @@
     "id": "auto-4aac29df8f17",
     "title": "「POWチケット」で131万円を寄付 全国7スキー場で再生可能エネルギー導入など脱炭素化が前進",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "dmksnowboard.com",
     "time": "2:19",
     "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPclNYX0pkSXFxWWNJVF95NDlxMFp2NExPRHM0WnJpMWhIVnI2YVd5T2t5bzRMdWlVOVczMl9ZZGxWYjREYmRBVTlzRG9idWV3NktWMzBzUnlQQjRwMUFKNFJUZ2J4Y0hmQmpnMmMtamtQWG5HQVVj?oc=5",
     "image": null
   },
   {
-    "id": "auto-0d5eb1af8868",
-    "title": "水上でサウナを楽しむ！？ 「水素サウナボート」をヤマハ発動機が開発に参画",
+    "id": "auto-55b20cd9cd6b",
+    "title": "【脱炭素・SDGs・ESG】古河電気工業：2049年度ネットゼロ目標がSBTi認定、スコープ1～3を90％削減へ",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "1:45",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92NWJLTzY1Z09UQ2pYZjgzdUNXME5BMUpUNUh0ekF1cEp4SUdIQmJrVG00Z1o2OWxWY0dqUzNHT0h4aVNqQVA2MmtySlNFV1RMSVRuZERucU9XYjBiWUdZeXlaaFo4T1lNbE1uSEFVcUxNQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-720156fd007c",
+    "title": "水上でサウナを楽しむ！？ 「水素サウナボート」開発にヤマハ発動機が参画",
     "category": "技術",
     "accent": false,
     "source": "CAR CARE PLUS",
@@ -120,13 +240,13 @@
     "image": null
   },
   {
-    "id": "auto-55b20cd9cd6b",
-    "title": "【脱炭素・SDGs・ESG】古河電気工業：2049年度ネットゼロ目標がSBTi認定、スコープ1～3を90％削減へ",
+    "id": "auto-6cbaa539e674",
+    "title": "【蓄電関連】東急パワーサプライ：東京都内の戸建てに蓄電池を無償設置、遠隔制御で電気代削減と防災を支援",
     "category": "その他",
     "accent": false,
     "source": "みんなの広報宣伝部",
-    "time": "22:34",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92NWJLTzY1Z09UQ2pYZjgzdUNXME5BMUpUNUh0ekF1cEp4SUdIQmJrVG00Z1o2OWxWY0dqUzNHT0h4aVNqQVA2MmtySlNFV1RMSVRuZERucU9XYjBiWUdZeXlaaFo4T1lNbE1uSEFVcUxNQQ?oc=5",
+    "time": "22:39",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xbnlnTWtFcHVtOUMxejl3UnhwTUlrcUpzZDZxME9pTWRxMnBSQ1hBLUlhLV9QV2pKOTlPRy1rSnJ0SUt0VE5MNXB3WEpXZUVFOTFCVlc1MnNxc2VOWUt3R194LWkyc1FpQ29qTjNOcVBSdw?oc=5",
     "image": null
   },
   {
@@ -177,126 +297,6 @@
     "source": "ウォーカープラス",
     "time": "20:11",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a90929be1995",
-    "title": "＜画像1 / 3＞ホンダが水素で走る新型燃料電池自動車のリースを開始",
-    "category": "技術",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "20:07",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yX3pGTHIzR0dBQmszQ2hfMWdwTWhYTk90Zm1WUjVtaVdMM3V0Tno2SlJnU2pkTjd4TkNmSVpyc2tSTDFPWlpfSUZZYklkZ0tNZUVGSVdoLUtoc2x6Z3VJaGNhTFFYTnRS?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-329e11771fe0",
-    "title": "洋上風力発電評価の世界市場、2032年には92億ドル超え！再生可能エネルギーの未来を支える成長市場に注目！",
-    "category": "国際",
-    "accent": true,
-    "source": "全国ソーシャルビジネス事業者データベース",
-    "time": "20:01",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUpaRnBRVFlkSzlUZjFRVDA3eXJFRjI0YVN2Q1VSdWpzQUltZk9IMUR4d1A0dHVhdzFtQUFFdDZXckhpRS1Rd1ZGNzA2R3AtYmtTMUR1c3JXSmJ5dXZiX2lIenlnazMyYVlpcTI2ZVdoQXpjOV9OQzRqelZ1QmFmelZERUR3WWFXZUotMC1tZVc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-54f6c98dc05d",
-    "title": "「上海電力の水先案内人」、杉浦瑞泉容疑者が警視庁に逮捕 すでに譲渡した権利を「譲渡する」と２億円を詐取容疑 再エネ業界では超有名人",
-    "category": "その他",
-    "accent": false,
-    "source": "YouTube",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ja2RmcG5tV3BGNGVKbkFZVUNiR3RrQ1MtanRqaEJpSXM5WDNRSWktVTNUQnUzRWJYaGQyT3R1cHhjaTg3WXdxN0VFVzJUMU1EVWhsNUFpTmdCZXhP?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e07c9c591003",
-    "title": "脱炭素社会の実現に向けた「家庭用蓄電池DR制御」実証試験の結果について発表しました",
-    "category": "暮らし",
-    "accent": false,
-    "source": "city.miyako.iwate.jp",
-    "time": "17:58",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3NrLXZuaXcwM1B2R1A3b3NORG9KcHBNbzJhVW9TbFpBRzBlTDlyMzU2NGpxQkVrVWx2d2dlbDJlQlhROGpiS2tVR19sUlJHS3NwLUlwM01LeGl5Zm1MVklxZDZCZkZ6U3c0TlZrN2lBOU9sNWJGWmJBSEtYSTZ0SmFzMA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4ec85da59b9e",
-    "title": "堤防法面に「太陽光発電ブロック」、8カ月の実証で成果",
-    "category": "その他",
-    "accent": true,
-    "source": "日経BP",
-    "time": "16:47",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWZmRnpPSUdwZ0RSbGluUzJpV3BudTRHUDlzYzFybXZMWDBhMHJRcmZhdzcya3lRWGlKSG9YZVpPeXdWcmNOVFNoMmpYMHRnNjdQU3BwamNFV1UxM3Z4Q0drNjk1Tl9sNTlJTTVZc2ZvRmhlbktqWmFBSkVoOWQyRzhWUEhRR0tjdXRfM2Job1IxSWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3e54185ea6a8",
-    "title": "水素ステーション市場、2032年までに3倍以上に成長予測！クリーンエネルギーの未来を支えるインフラに注目",
-    "category": "技術",
-    "accent": false,
-    "source": "全国ソーシャルビジネス事業者データベース",
-    "time": "12:31",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkw1M1did0F5T1ctblZibkNscGhESGRDZWxtbV91OVpnQlh4NGY4WS1fLUQ3bVZPcXNfY1ZnZEMwWGEwRnkyMWs4TVBRQmFJa0FjWE5wTDFlcW8zeGV1YnFzcHRIMkdEYVBPXzl4T0Nxc0gwN042ZDBVekgwYzRXSW1feFFRSGRBaTA1enptRlA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-31799d7068f4",
-    "title": "グローバル地熱タービン市場レポートTill 2035",
-    "category": "その他",
-    "accent": false,
-    "source": "Spherical Insights",
-    "time": "12:16",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oVUVycDBlVVRkYlUzZmJ3QjVpd215TFh1OGtsZmtNREpoT1Jid19INGtUN2NPT3VraVdvdHJpeFFKQjlsYms3Z0JiT2wtWkZwbk00QmxiTHYxbnZadFdSS2RrekpZejNHcG9VWHRPWVBoektQUXYzX2VNNA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ff6e99adba0f",
-    "title": "「新方式省スペース太陽光利活用システム」による新時代実現に向けて！株主様を募集いたします！投資の意向調査にご協力ください。",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "11:45",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000187645.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/187645/1/187645-1-ea8c8f24b370e0552d8cf79737568f81-1592x880.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-a8e6fd7ee48a",
-    "title": "2035年までのユーティリティスケールナトリウムイオン蓄電システム市場規模レポート",
-    "category": "その他",
-    "accent": false,
-    "source": "Global Market Insights Inc.",
-    "time": "10:50",
-    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0lDQXNYZGRHYzJzR19HQlNGaTg2QmFJb3p1X1IyZURfZFZETGMxY0xHVWJBM2U2eTA1OVBuMXl6d21LRERSM1BRT2JISlhzQzlsN3NXbURsaVRXZnh6cnlObWlQVmgyZ3k4a21jRjFXN0ExU0ZnWHUwWFlSTG42V0s1bkZ0bTdkdm00ZzE3cVVwcTN5cWE4TXVRWVBVamtmSENERg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9773fd0fe95d",
-    "title": "浮体式洋上風力発電の可能性語り合う 函館でシンポジウム",
-    "category": "その他",
-    "accent": false,
-    "source": "北海道新聞デジタル",
-    "time": "9:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xWEZqb3BqaFVTTzJObTdWMDFTcDVWa3k3N0REVTVkUkxja2w2T1U0Z012VWR4emREWEc1elVMOHV4QWlrQTBjcTNKalFiS3JEOEZ3RXhuMHFQZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b65b8b54221e",
-    "title": "高圧水素ボンベ用マウスバルブの世界市場（2026年～2032年）、市場規模（35MPa、70MPa）・分析レポートを発表",
-    "category": "技術",
-    "accent": true,
-    "source": "Newscast.jp",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zQnA0NXZoVU5qMDRsM2xBeEVXOWRPSzJtNGhtYWpfWXNYZTlOYnVFR0hoVEtKcjJwZ0kyM3l4dFBXREt2ck1R?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-52fcca286807",
-    "title": "eVTOL電気駆動システムの世界市場（2026年～2032年）、市場規模（全電気式、ハイブリッド電気式、水素電気式）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "Newscast.jp",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5abWFYMms3dWtZbkpnSFZuN0NOS0JHNWFTZmNNS0trVEVVU09SX0tSUHRTRXRhLWNnbkFteVJKUUp4bmZxcjFZ?oc=5",
     "image": null
   }
 ]
