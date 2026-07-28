@@ -11,42 +11,64 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-296007f431f4",
-    "title": "Earth hacks、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展",
-    "summary": "[Earth hacks株式会社] 生活者の声をもとに、脱炭素関連商品・サービスや事業の開発を目指す生活者共創型プラットフォームを展開するEarth hacks株式会社（本社：東京都渋谷区、代表取締役社長CEO：関根澄人、以下「Earth hacks」）は...",
-    "category": "暮らし",
+    "id": "auto-6c2de9f94995",
+    "title": "【DMM EV ON】松屋フーズの東京都内の店舗に急速・超急速EV充電器の導入が決定",
+    "summary": "[合同会社DMM.com] [画像: https://prcdn.freetls.fastly.net/release_image/2581/5088/2581-5088-c54602bb96498a8acd2583258a673ae5-3900x2048.png?width=5…",
+    "category": "企業",
     "source": "PR TIMES",
-    "time": "7/29(水) 0:40",
+    "time": "7/29(水) 4:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000005088.000002581.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/2581/5088/2581-5088-c54602bb96498a8acd2583258a673ae5-3900x2048.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-8d7139c0e0a4",
+      "id": "auto-3f482a96e91c",
       "rank": 1,
+      "title": "大賞に国土交通大臣賞と環境大臣賞が贈られる！ EST普及推進委員会「EST脱炭素交通大賞」",
+      "category": "その他",
+      "source": "ライブドアニュース",
+      "time": "7/28(火) 18:07",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVThSLWVFVTBZay1rOC1KbkhYSzBxcGJBa011TkE3TmxUMWtMNHFDMGZCNlBGYnRveVBpQTV6RnYyTG9QX0FzOVl4MGVNT2RzNEJ4ZzVwRzRoTFg5ZE5J?oc=5"
+    },
+    {
+      "id": "auto-d36121405197",
+      "rank": 2,
+      "title": "【東芝】椿本チエインと屋根置き太陽光発電を活用したバーチャルPPAを締結",
+      "category": "その他",
+      "source": "北海道新聞デジタル",
+      "time": "7/28(火) 16:38",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDRFX2VHTFlzQ2hGTWlQZXJ2U1dBZU9tbk5pU1NQWXVRR0JIaG5yUnJBU1UwaHA0YmhIdnJPcUxlWExMQk1mZTF2M2lPVnNva3hmcnJCNHhGbmlHQnFURXV6cnBLQkt4b0tuaExleVNiTGliQlYtS2RuaFNjZGlqMDM1dlNpY1lN?oc=5"
+    },
+    {
+      "id": "auto-8d7139c0e0a4",
+      "rank": 3,
       "title": "日本がASEAN等で推進する化石燃料依存偏重のAZEC政策は、中国の再エネ依存を加速する「近視眼」的政策。米国のMAGAならぬ「中国を再び偉大にする（MCGA)」化のリスク（Richard Katz）",
       "category": "国際",
       "source": "一般社団法人環境金融研究機構",
       "time": "7/28(火) 15:34",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VR2R0Z2NqRDVNLVY2WC05X0ExaG5CcmEyLTlKd2Y5Ul9uYk43aFJ0aG5jSEpvTjIxeHVkenVucUQyX2da?oc=5"
     },
     {
       "id": "auto-088807f2361b",
-      "rank": 2,
+      "rank": 4,
       "title": "水上太陽光発電プロジェクト：投資家が事故防止策を提案。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "7/28(火) 15:28",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjRLamRYQldZQTg2MmlyeTFWa1hvVk95dGRqQmRhbEgzNWdBMThKS1dFMms3aFdWSTVVX1NlX196Y2tyTlByeUUzanVtUUhzZUFWM1BKWkd4cXBUNW1KOUZobW1lUHV3by1ZVGFvN2FmWkczdnJyYzA3NGRPdGNUVWk2LXZmRGpoQTgwbXN6LXk4MGRZT0pTZEo3bw?oc=5"
     },
     {
       "id": "auto-ec2bc77c5d75",
-      "rank": 3,
+      "rank": 5,
       "title": "【論考】原油危機は再エネの好機！ 戦争呼ぶ石炭火力から、民主的な再エネ移行を行おう｜人民新聞",
       "category": "その他",
       "source": "note",
@@ -57,7 +79,7 @@
     },
     {
       "id": "auto-bca42c1a0400",
-      "rank": 4,
+      "rank": 6,
       "title": "ダム貯水池におけるペロブスカイト等を使用した水上太陽光発電設置の実証事業に着手します",
       "category": "その他",
       "source": "時事ドットコム",
@@ -68,7 +90,7 @@
     },
     {
       "id": "auto-6f2f027e4cf5",
-      "rank": 5,
+      "rank": 7,
       "title": "洋上風力のコスト増、続く逆風＝英社撤退、政府は引き留め策(時事通信)",
       "category": "その他",
       "source": "Yahoo!ファイナンス",
@@ -78,34 +100,12 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1VlY05RcVhneXhmaFhfMW02STJmUmxQSXptRV9pNWpSZUpDQm1BaVVFQ1MwTlhHV0hFbHllSVhkY2tiam9lRHZURWl3clFXZUg3TXRGeHRvT0Y5ZVJ2Q3ZqeHBLN1pvTnBhb2pQeUNUY2tLM3RRVTllVFBGRVZ1WnM2cFozT2M?oc=5"
     },
     {
-      "id": "auto-4aa79e3a6ac6",
-      "rank": 6,
-      "title": "長野市の協議会、脱炭素化推進で企業価値向上へ 本年度の事業計画承認",
-      "category": "その他",
-      "source": "信濃毎日新聞デジタル",
-      "time": "7/28(火) 12:03",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc1pFZmVsUlBHaDNoTHZDVGZISmtMV1QtaTV6TW83RnNEelZRdTQ1d0xNbXVEUEhZQl9YbkF6V3NnenVRVnpaTV9aNEpsRms5UVdfOUtpYmhZblJYZ21kQlc2MHNvV3d1bERHa0s2bUY?oc=5"
-    },
-    {
-      "id": "auto-1c9c0854ef6d",
-      "rank": 7,
-      "title": "テスラ、アリゾナ州の太陽光発電プロジェクトから電力を購入へ 執筆 - Investing.com",
-      "category": "その他",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "time": "7/28(火) 11:49",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByV3lkVmZ5R21CU2RTSnFLbnZUU0pEWkNWbE1HQ2xIcGU4U2VhaTJtSDBiakdlTXAxaExtbk9qX1hIYmI1OXotUGhWM3FsWTRYUGdTQV92d2Y4ejU5MW5uWVF5NTk4ZGc1VURqREZENmg?oc=5"
-    },
-    {
       "id": "auto-e095acd66395",
       "rank": 8,
       "title": "日本の洋上風力産業（後編）欧州の収益化政策と秋田モデルに学ぶ | 地域・分析レポート - 海外ビジネス情報",
       "category": "自治体",
       "source": "jetro.go.jp",
-      "time": "7/28(火) 11:29",
+      "time": "7/28(火) 12:03",
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oamhsd2w1OXhMUzRWSE5ZeThRZy1EbU5KNWV0VnduZ1dnV2ZuTUc0bkhQTG1qYk5SekFwWW0wZHJ5MzBYbnpiSE01SlhEaXh1aHdZT09iZDJPOTVKaHdjQTk4ckwxYWNVQk5KZzBZdFpUSms0?oc=5"
