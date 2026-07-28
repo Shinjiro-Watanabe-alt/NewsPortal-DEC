@@ -8,16 +8,12 @@
     "trend": ""
   },
   {
-    "keyword": "GX-ETS",
-    "trend": ""
-  },
-  {
-    "keyword": "企業戦略",
-    "trend": ""
-  },
-  {
     "keyword": "堤防法",
     "trend": ""
+  },
+  {
+    "keyword": "表示制度",
+    "trend": "NEW"
   },
   {
     "keyword": "SBTi",
@@ -29,6 +25,10 @@
   },
   {
     "keyword": "ペロブスカイト太陽電池",
+    "trend": ""
+  },
+  {
+    "keyword": "CBAM",
     "trend": "NEW"
   }
 ]
