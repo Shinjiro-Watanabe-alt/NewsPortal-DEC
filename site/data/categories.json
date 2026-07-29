@@ -3,7 +3,7 @@
     "slug": "national",
     "icon": "account_balance",
     "label": "国",
-    "count": 29
+    "count": 22
   },
   {
     "slug": "preceding_region",
@@ -21,30 +21,30 @@
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 46
+    "count": 50
   },
   {
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 205
+    "count": 202
   },
   {
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 23
+    "count": 26
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 83
+    "count": 84
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 484
+    "count": 486
   }
 ]
