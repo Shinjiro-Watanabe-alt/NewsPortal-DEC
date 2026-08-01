@@ -11,20 +11,53 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-1821f050915f",
-    "title": "片品村・旧ほたか牧場スキー場跡地に小型木質バイオマス発電所を竣工",
-    "summary": "[日本駐車場開発株式会社] 日本駐車場開発株式会社（本社：大阪市北区、代表取締役社長：巽 一久、以下「NPD」）と、NPDグループで再生可能エネルギー事業を担うスマートグリーンエネルギー株式会社（本社：東京都千代田区、代表取締役社...",
-    "category": "企業",
+    "id": "auto-c714bbb1fb1b",
+    "title": "低濃度水素吸入と脳神経疾患──MiZ 8 年 14 論文・10 研究機関・9 特許の知の系譜｜慶應ほか",
+    "summary": "[MiZ株式会社] MiZ株式会社（神奈川県鎌倉市）は、2018 年の慶應義塾大学との Science 誌提言（Satoh et al., 2018）以来 8 年にわたり、外傷性脳損傷・軽度認知障害・ME/CFS・突発性難聴・ALS・パーキンソン病・統合失調症など...",
+    "category": "技術",
     "source": "PR TIMES",
-    "time": "8/1(土) 18:40",
+    "time": "8/1(土) 22:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000036.000075210.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/75210/36/75210-36-24aa443eef216e394715f27578565f06-429x344.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000082.000047753.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/47753/82/47753-82-92d550b0d3ec040e4d559c945354b648-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-34b137cbc0f1",
+      "id": "auto-85db70dd772c",
       "rank": 1,
+      "title": "即時償却対応の高圧系統用蓄電池を販売ページを開始！～高圧系統用蓄電池の販売委託も可能～",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/1(土) 22:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000183612.html"
+    },
+    {
+      "id": "auto-1311c4e643a0",
+      "rank": 2,
+      "title": "北浜キャピタルパートナーズ、太陽光発電関連工事子会社のサンテックを個人に譲渡",
+      "category": "その他",
+      "source": "ma.kotora.jp",
+      "time": "8/1(土) 11:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IWDROb1g3eTNZWU56OWVNbm96bHBzVUp5QkJBRlZhelk2MTNZckRsMW1ISExBVjhOVVJYRkpYaW1LdldrMzZ5VktyaTFQczNuMkJZdzF1RzE1R0VGcjBB?oc=5"
+    },
+    {
+      "id": "auto-f28308be1910",
+      "rank": 3,
+      "title": "NGK、再エネ導入支援事業「エネロコ」立ち上げ 島根県邑南町が第1号に：ニュース",
+      "category": "その他",
+      "source": "中日BIZナビ",
+      "time": "8/1(土) 10:13",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zOWxlMlhxLUQ1eWk5cFF3T2dPQmhvemVuc2xxd2N6c0diR1k4MkJXN0FTTEc0czd4RWJaVVJfQkdwT2ZWcG1XVHZ5X3FtM2p4ZnBVVW5xTjRoQ0YzNFdyNUU2aw?oc=5"
+    },
+    {
+      "id": "auto-34b137cbc0f1",
+      "rank": 4,
       "title": "【誕生日紹介】万丈目準 - 星川レオの作品研究・紹介室",
       "category": "その他",
       "source": "はてなブックマーク",
@@ -34,81 +67,48 @@
       "source_url": "https://leohoshikawa.hatenablog.com/entry/2026/08/01/060000"
     },
     {
+      "id": "auto-0a5b02f166d4",
+      "rank": 5,
+      "title": "化石燃料やめ再生可能エネルギー 酷暑で気候条約事務局長",
+      "category": "その他",
+      "source": "山陽新聞",
+      "time": "8/1(土) 9:54",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03OTJjaTZGVXI2S2gyTjlPZnM2OXkwamhncFJleWVLc3gyMmZPaEI4aExjMzNZSkpRN1F5VHFXR2Z5TDM5cDFhT0Q1NEZGZG9VRkE?oc=5"
+    },
+    {
+      "id": "auto-181d0f44816f",
+      "rank": 6,
+      "title": "バヒリルはトランスジャカルタバスに水素を使用するよう要請し、プラモノはインフラを準備する",
+      "category": "技術",
+      "source": "VOI.id",
+      "time": "8/1(土) 9:46",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1JSGZOZF9HYW8xNXlxclhBcEN6MXc0Q0MxckxoOXIwU0JqS3R0MExpTnhCZ2JhaVRCNEk1UENVME1GWknSAUJBVV95cUxOZDNieFZWTUVLakJLeHA5dDVzUVI5N3dXbTctQk1YQ2J1S1BrR2RmUWl5MHFMMElwM25JcG9OeThLUnc?oc=5"
+    },
+    {
       "id": "auto-fd2bc94b8fdb",
-      "rank": 2,
+      "rank": 7,
       "title": "柏崎“脱炭素のまち”へ着々、市出資会社が新発電施設 太陽光に大型蓄電池…電力販売先の開拓が課題",
       "category": "その他",
       "source": "47NEWS",
       "time": "8/1(土) 9:10",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtTVFMclp0XzFrQi1lanFzS2s1Nm1GUm4zTDJIUno2UjFLTWpkVlZISEM1U08xcHUyMEFMRFdGYkZkNU0wV2ZuOU9Gaw?oc=5"
     },
     {
       "id": "auto-541f395b9f5e",
-      "rank": 3,
+      "rank": 8,
       "title": "燃料電池用膜電極アセンブリの世界市場（2026年～2032年）、市場規模（3層CCM、5層MEA、7層MEA、その他）・分析レポートを発表",
       "category": "技術",
-      "source": "Newscast.jp",
+      "source": "アットプレス",
       "time": "8/1(土) 9:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wWEE3RjhNQTk2TmNtdnhxd0U1b0ZTaVhZNld2dWxpaWdWT0Zpd1p3dS1NMm9KM3JDZGJsMnZqRUZFQjduX0l1RkpCUWJELWs?oc=5"
-    },
-    {
-      "id": "auto-f5b42c08ea10",
-      "rank": 4,
-      "title": "暗闇での太陽光発電に成功。 カギは「木材」を使ったトリック",
-      "category": "その他",
-      "source": "Gizmodo",
-      "time": "8/1(土) 8:35",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGdIMU1hVGVHUk9DRUlTejJvbkRadVc0T05zOW9mdmdtMG5SN0VLODNTcVdsRVo3WHlGR1ZTV3RRNDNhZTJELUtxUkg1ckE2aVRqWFp5ZjVZUWlWMVpHMERORjVOVGRITEFHUUQ1a2ZIX1RKRHVQeld4aGdwbTV2RXh3amdSTkNNTUU1U1h0SnBITS1Ddi1UdFUzVUw1ZXNB?oc=5"
-    },
-    {
-      "id": "auto-f28308be1910",
-      "rank": 5,
-      "title": "NGK、再エネ導入支援事業「エネロコ」立ち上げ 島根県邑南町が第1号に：ニュース",
-      "category": "その他",
-      "source": "中日BIZナビ",
-      "time": "8/1(土) 8:20",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwaDFweGdEYVpPQzg1Tl9ya3RMMS0zZHZ0QVhGUm9xLWh5cUtIcVlyUk5sVWVIbWI3Z0hFZTRZdnItaGdlR3hiblZnTGVnQ1VidkxHeTd2TURiQU5Ib1M4R3RB?oc=5"
-    },
-    {
-      "id": "auto-43ce70a19775",
-      "rank": 6,
-      "title": "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞",
-      "category": "技術",
-      "source": "ｄメニューニュース",
-      "time": "8/1(土) 8:20",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0NfNElMXzJGdURkNHNFMFhhLTZWbWJUTlV5MTRUeVN4YkZwclZQVDJLMXAwbVNpTzgzdVFUSDNWRV9uMTZQbTRRZDI1Q1FPMUZuSDNNMUhMM0JXS19GM3liOVBDZFpfQURSOU40YTlMSDFMcnhtNHhyQW1rTm80SjRBY1hJbE3SAYcBQVVfeXFMTjNDXzRJTF8yRnVEZDRzRTBYYS02Vm1iVE5VeTE0VHlTeGJGcHJWUFQySzFwMG1TaU84M3VRVEgzVkVfbjE2UG00UWQyNUNRTzFGbkgzTTFITDNCV0tfRjN5YjlQQ2RaX0FEUjlONGE5TEgxTHJ4bTR4ckFta05vNEo0QWNYSWxN?oc=5"
-    },
-    {
-      "id": "auto-986293399ecc",
-      "rank": 7,
-      "title": "環境にやさしい取組みを表彰！ EST普及推進委員会「第16回EST脱炭素交通大賞」",
-      "category": "その他",
-      "source": "news.livedoor.com",
-      "time": "8/1(土) 6:20",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZE9EMzExQ25zOG5HR1VaWTUtQVdjSjY2dUU2blBOdWRaakF5UHRJYzBDTkZIX1A5emhUcTBreXZMdUhjdTRmSnR1VE14dXNkaXNmbnVJMnlnaGg1NXZB?oc=5"
-    },
-    {
-      "id": "auto-2c19a83147a7",
-      "rank": 8,
-      "title": "丸善製薬株式会社 ｜ 総合研究所にPPAによる再エネ発電を導入",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "8/1(土) 5:51",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLVmxNVDZtc1dyTWxraTJCY09yQTRZckVweWF0SndCSFg0VWl4M21GUk82WEJJaTdXYmFoNk1kTjhTZVJzeU5mWUlOS0JmSUtWcnc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RUE1XRUlObzR2NHJCSlNyOWk0VmdXMXVjU1VSVDI0ZEJrNERGeF9DaUFYX1JxalVtVHc4ZC1LM2x2Q0VLeEdkNlFsNzBLamc?oc=5"
     }
   ]
 }
