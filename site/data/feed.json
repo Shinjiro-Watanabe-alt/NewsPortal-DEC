@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-1821f050915f",
+    "title": "片品村・旧ほたか牧場スキー場跡地に小型木質バイオマス発電所を竣工",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "6:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000036.000075210.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/75210/36/75210-36-24aa443eef216e394715f27578565f06-429x344.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-622a8c0bb092",
+    "title": "環境省のブルーカーボン関連補助事業の令和７年度補正・令和８年度地球温暖化対策推進事業費補助金交付決定通知書を受領",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "5:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000288.000123722.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/123722/288/123722-288-36070559a4d4622f2e6a731385b41d66-1216x625.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-c714bbb1fb1b",
     "title": "低濃度水素吸入と脳神経疾患──MiZ 8 年 14 論文・10 研究機関・9 特許の知の系譜｜慶應ほか",
     "category": "技術",
@@ -10,30 +30,110 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/47753/82/47753-82-92d550b0d3ec040e4d559c945354b648-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-6c2de9f94995",
-    "title": "【DMM EV ON】松屋フーズの東京都内の店舗に急速・超急速EV充電器の導入が決定",
-    "category": "企業",
+    "id": "auto-fb0e4023fa83",
+    "title": "【補助金】山口県：脱炭素コンビナート事業を最大5億円補助、設備投資や研究開発を8月28日まで公募",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:07",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yRE5vT1hQdW0xX05UUGlSSmdWTmk2dUhsdHdnSXVjVmJjQ253RVQtZzUzaHNiVlhEYnd0SWRMVDJGUEFCTTFCN0VtdG1DbHN5ZmhJZERnWXN0dlhldzZTS3V6M1p5REVjT3pxaXdyd0d6Zw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9ed5d64cdcd6",
+    "title": "【提携・M&A・新会社】白川村・大垣共立銀行・バイウィル：脱炭素で包括連携、LED導入によるJ-クレジット創出を検討",
+    "category": "その他",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "3:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000005088.000002581.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/2581/5088/2581-5088-c54602bb96498a8acd2583258a673ae5-3900x2048.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "みんなの広報宣伝部",
+    "time": "22:07",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QZDYwTDB4ZWFtc1k0WWYzcFZOQjdtSjhDbzV2dm81U0xmeTJRa1FrUFNPTUVNSjhBWi02WTFGWXVmS29QY2tBWUpMdnhvd1BrX0w4OWxnMDExOVE1R3JuckxvYlZtVzMtbVF6eEtIaTc2UQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-739374559548",
+    "title": "東京・多摩で進む「水素」活用、ＦＣバス導入の背景にあったもう一つの狙い",
+    "category": "技術",
+    "accent": false,
+    "source": "ニュースイッチ by 日刊工業新聞社",
+    "time": "21:05",
+    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RTkRlYmJRWjgyZThJMG1mT2l2bk5oTG1pN1dtdkg5LWtRRnN5eVBaTV9WVThUOVk3UTlMZ094WXFSZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5c3f45b1e725",
+    "title": "トヨタ×ダイムラー×ボルボ、対等出資の真意…EV一色の裏で進む水素トラック連合",
+    "category": "技術",
+    "accent": false,
+    "source": "ビジネスジャーナル",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwZGZQOXN6YXBKS0VHd2pSQzVRZ0xvNWQ5X0FvWmx0M3Y5WXdFZUF3Y1p1WWJTUWNnVFhUT3dRX0JmaTdXYUdRV2p1bThONFo1bDhrVzFjTjZpZEk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6f455fbf335f",
+    "title": "架線なしで走る「水素列車」──インドが描く脱炭素鉄道の新時代",
+    "category": "技術",
+    "accent": true,
+    "source": "TABI LABO",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYzRRUXhsN0pWQVZrUnhjRVJ4MUZQM1F0SDAxcHJyaEZDd2xUc1ZKTWpwSkNVeHZJQWJRODNMYUxqTnFKWkpUdUNNb1NyZzVJdy11bzdyZTVTRmpDbGQxSE5IYklfVzZRNk1xcg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-40a82d63352d",
+    "title": "市町村の脱炭素、切迫感の欠如映す「護送船団」 環境省が全国支援",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BWUZfOV9EZ04weUktenRwZW5tZTltd1lQczRQN3hVMXpjZTBYbl82Y3AyaHV1eDh0Q3hVRXRFV2x5LUlKS0pMZWxWOHBtSTVod19GVEw5b2RRYjFOT1gzLUFOWHAzQVlZcVQ1VQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cbdb66067b94",
+    "title": "画像3 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
+    "category": "その他",
+    "accent": false,
+    "source": "ウォーカープラス",
+    "time": "18:04",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSDhXUTN2M0dZQWdzd3lnSU1wem15Yy03eTl5S1BlcG5DMmdoNUtmREhGQTZuZUZqZG0wWjJTMm1CQTliZ01MNjc1a1B2bUpLNHgxSWVWU2I1aUUwLVBKRjRLSE1ENXhfRG9aRzBR?oc=5",
+    "image": null
   },
   {
     "id": "auto-58a606835fe3",
     "title": "画像4 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ウォーカープラス",
     "time": "18:01",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
     "image": null
   },
   {
+    "id": "auto-cde0b2860f97",
+    "title": "ラメリウスの2026年第4四半期アップデートは、同社の金鉱山事業拡大と脱炭素化のストーリーを再定義するものとなるか（ASX:RMS）？",
+    "category": "その他",
+    "accent": false,
+    "source": "simplywall.st",
+    "time": "17:44",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVENjUkREeXNnNndyUnYtOTVTX3VKcWpFaTZuV3doQVRodkFxd1VYYlhxVXBRRnd0MFo0cnlsNmdWQ0JVQWJPTmw2U1hFNFFRcWhFN2RBQU9YajN4Y2ZTUjc2b2VHdUxLMjY4LUtTWktxUklhYWZPYjFTVFc2cVhtVTJOU0xyc2NJaU1xR215VTR0SE1mdmFWM1lmTGM2Vmh4eFHSAacBQVVfeXFMTkJLYTZMdmEwSDI2LVJhbmVMdWE3SkllbWJWc045cTV0WXhoeEpmdU1RbnhSUlkzZ3IwNS0xZUsxQmRiY0cybEU3T245Q0JDZ0FXV2FZeTBGUzVmT0FYd21mTnliZGtuZ3BLeXdOWDl1Znl6R1FJZDZ3WU4ySTRFNTdqQ3JhaDJfc1lWM3lvclhRYjVKaFh1TU4xMXJrTmF6S0NMbDE4ckE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-577bdbeb7a1a",
+    "title": "広島県「価値創造型脱炭素モデル」のもと、広島県福山庁舎解体で先進的な資源循環を構築",
+    "category": "その他",
+    "accent": false,
+    "source": "山口新聞 電子版",
+    "time": "16:15",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lcGVMMXVHLTNtN0VEcXFwWjRPeEJybHFGUmpuMzI4Y1JnOHZWRFMtVDZWalA4VldjcktiMUF4N3lic21BSHRtbW1FWGlGQlNOa2lWR2FWaHM2aGhYVy02ZGtaVFFZc1pzQUd4cS1FQXg2bEltMjlN?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-7e48ee46bb83",
     "title": "中国の脱炭素型工業団地モデルと、ベトナムにおけるその展望。",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "15:16",
     "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjVvcGtxQlZFZFpzclNNZ2RIaHlCV2lCNXBGd3BzZG1qMTVici00eVNCcTV0MFRuYy1NbVhzVlZpQUhUbzltNzZYQ0liTXZHazhiTGVhRGRTWUpVTk5PTFZ3dV8yREtwZ25tUHU1aHBaSHdFR0taQzY5X0ZTaDhqaTVQb3pxYTBYUENPdjlqeERzNFZUVk5nMHdrUmtJUXRhYkFuX0FpNA?oc=5",
@@ -43,7 +143,7 @@
     "id": "auto-1311c4e643a0",
     "title": "北浜キャピタルパートナーズ、太陽光発電関連工事子会社のサンテックを個人に譲渡",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "コトラ（KOTORA）",
     "time": "11:02",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IWDROb1g3eTNZWU56OWVNbm96bHBzVUp5QkJBRlZhelk2MTNZckRsMW1ISExBVjhOVVJYRkpYaW1LdldrMzZ5VktyaTFQczNuMkJZdzF1RzE1R0VGcjBB?oc=5",
@@ -63,7 +163,7 @@
     "id": "auto-34b137cbc0f1",
     "title": "【誕生日紹介】万丈目準 - 星川レオの作品研究・紹介室",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "はてなブックマーク",
     "time": "9:55",
     "source_url": "https://leohoshikawa.hatenablog.com/entry/2026/08/01/060000",
@@ -73,7 +173,7 @@
     "id": "auto-0a5b02f166d4",
     "title": "化石燃料やめ再生可能エネルギー 酷暑で気候条約事務局長",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "9:54",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03OTJjaTZGVXI2S2gyTjlPZnM2OXkwamhncFJleWVLc3gyMmZPaEI4aExjMzNZSkpRN1F5VHFXR2Z5TDM5cDFhT0Q1NEZGZG9VRkE?oc=5",
@@ -93,8 +193,8 @@
     "id": "auto-fd2bc94b8fdb",
     "title": "柏崎“脱炭素のまち”へ着々、市出資会社が新発電施設 太陽光に大型蓄電池…電力販売先の開拓が課題",
     "category": "その他",
-    "accent": false,
-    "source": "47NEWS",
+    "accent": true,
+    "source": "47news.jp",
     "time": "9:10",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtTVFMclp0XzFrQi1lanFzS2s1Nm1GUm4zTDJIUno2UjFLTWpkVlZISEM1U08xcHUyMEFMRFdGYkZkNU0wV2ZuOU9Gaw?oc=5",
     "image": null
@@ -103,10 +203,10 @@
     "id": "auto-541f395b9f5e",
     "title": "燃料電池用膜電極アセンブリの世界市場（2026年～2032年）、市場規模（3層CCM、5層MEA、7層MEA、その他）・分析レポートを発表",
     "category": "技術",
-    "accent": true,
-    "source": "アットプレス",
+    "accent": false,
+    "source": "Newscast.jp",
     "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RUE1XRUlObzR2NHJCSlNyOWk0VmdXMXVjU1VSVDI0ZEJrNERGeF9DaUFYX1JxalVtVHc4ZC1LM2x2Q0VLeEdkNlFsNzBLamc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1acjdrTXA1a0M3NnpHU1dlYVFmX0hJai1KTXdfYUs4SUY1WE9nbnFmeDQ2WkVleTZ6Q0RNWGxOajJDU3BfRU1oYUp0aVM?oc=5",
     "image": null
   },
   {
@@ -114,46 +214,46 @@
     "title": "暗闇での太陽光発電に成功。 カギは「木材」を使ったトリック",
     "category": "その他",
     "accent": false,
-    "source": "Gizmodo",
+    "source": "gizmodo.jp",
     "time": "8:35",
     "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGdIMU1hVGVHUk9DRUlTejJvbkRadVc0T05zOW9mdmdtMG5SN0VLODNTcVdsRVo3WHlGR1ZTV3RRNDNhZTJELUtxUkg1ckE2aVRqWFp5ZjVZUWlWMVpHMERORjVOVGRITEFHUUQ1a2ZIX1RKRHVQeld4aGdwbTV2RXh3amdSTkNNTUU1U1h0SnBITS1Ddi1UdFUzVUw1ZXNB?oc=5",
     "image": null
   },
   {
-    "id": "auto-43ce70a19775",
-    "title": "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞（福島テレビ）",
+    "id": "auto-cb53696bf440",
+    "title": "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞：ニュース",
     "category": "技術",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "8:22",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fTGNKRk92ZnRmbzEwdEpUYURHRmxURElpNVJtcmh6NTF3NG1zUmliT181bm5Fc050Q2xsUGVnSVd5SENVNzQ1ejI2R2xldGlMREc2Sy1Sd2RBOVF4Sl9ZeGNJbElveENPeG9ZTE5QTjRzTG1JMnV6Tjk5UEVNeGc?oc=5",
+    "accent": true,
+    "source": "FTV 福島テレビ",
+    "time": "8:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nWjQzeGRIcEpHVXMtRGpxV3ZFbS0wNDRuTUVITktPNjQzOEE4RDFKRGVaeGVyZjRRVnl3VVlvYUtIaHR1d1JNQjZoUHVvWExndnpSTTFtUmJxeGx6V29IRXNrWVUwdndJLTI5WkZSWGVvSWtvX2gxcHhR?oc=5",
     "image": null
   },
   {
     "id": "auto-d7815aa688cc",
     "title": "第1段階の100GWの太陽光発電所が承認され、すぐに起工式が開催される",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "VOI.id",
     "time": "7:13",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HWGdORjZfeVNRdU1BZGJ1M1EtblZ0U2d4VXFmSlgzaTFVZXFBel9HZmJMU3ZKeVVEeUZPazlJRmZJRHNCZ3fSAUJBVV95cUxQQmRQWjVLNnRmS2w1eHZTNk1vaXYxeGZyNnl0MlZ5bTdJeU5OcFM1cnpNY1U0dE9ZUkM4OC1laVBreXc?oc=5",
     "image": null
   },
   {
-    "id": "auto-770a6e059f86",
-    "title": "【焦点リポート】常石グループ、水素船開発大詰め 脱炭素へ「究極のクリーン燃料」活用",
-    "category": "技術",
+    "id": "auto-b3e4f6d337a4",
+    "title": "クルマとミライ「ひろがる仲間と共に！脱炭素を目指せ」",
+    "category": "企業",
     "accent": false,
-    "source": "山陽新聞",
-    "time": "7:09",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNEwxVnFkRlUwS1JybmE4WDhQOGw3ZzZYS1k3d0NTZHBYZHVROGRqUld6OVVKSTdKUlFnMzR4YUZ6OUhPYTdnVUx3c251ZUg5Vmc?oc=5",
+    "source": "locipo.jp",
+    "time": "6:37",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMExFZ2dwYWtQVXg0VlhzUFg5Y092OUx2b0lfQUhlaWhrWHJwX3R2SmVDdEVpQ0tzWTlrQWxiSmJ5dzVtY0FuOTNybm9mcGtoSFA4cnZ4eTNlNW8wZEtMNjU3ampoVFdOLXZreENGZDBSbUs2ZXNoVFMyZC1LV2s?oc=5",
     "image": null
   },
   {
     "id": "auto-986293399ecc",
     "title": "環境にやさしい取組みを表彰！ EST普及推進委員会「第16回EST脱炭素交通大賞」 (2026年8月1日掲載)",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ライブドアニュース",
     "time": "6:20",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZRExkU3JNZUpHam9uRnFlUWhwTF9FbDNObUNtOTFTYUt1X0luQ2dYR3RfZlFyaExYa1dsakI3WGh5cEp6NHdrWlA2VTUwSGc0d3BWQkYtX0wtcUJXTmc?oc=5",
@@ -163,20 +263,10 @@
     "id": "auto-a4c937874999",
     "title": "【画像】環境にやさしい取組みを表彰！ EST普及推進委員会「第16回EST脱炭素交通大賞」",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "6:20",
     "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42OFpCaHltaFRWWGg4VTBRX1ZJb09fNW9DeEdqTTdrOWFCM0NoajdiMjZQVnFYWHdPWW1rZVByZWdkZmVBUlVzMVNuVXlzaG9WUG5FRVhlSzFZdk1yS0FFeDZobUtpWHEtU1JnaDNwYzQzUWRGX0xMNjk1REI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2c19a83147a7",
-    "title": "丸善製薬株式会社 ｜ 総合研究所にPPAによる再エネ発電を導入",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "5:51",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLVmxNVDZtc1dyTWxraTJCY09yQTRZckVweWF0SndCSFg0VWl4M21GUk82WEJJaTdXYmFoNk1kTjhTZVJzeU5mWUlOS0JmSUtWcnc?oc=5",
     "image": null
   },
   {
@@ -207,96 +297,6 @@
     "source": "ダイヤモンド・チェーンストアオンライン",
     "time": "5:08",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjQ1R0U1BlQzVvR0VJWDgxTWRpSDhvbVBZendyb1pEam9JYlEyRy15Mm1zRGROTHRtZEJPVGpicVU5Umdwcl9mWkdGcDZBSUw3N0U0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-577bdbeb7a1a",
-    "title": "広島県「価値創造型脱炭素モデル」のもと、広島県福山庁舎解体で先進的な資源循環を構築",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "5:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRFA5MXdnZVFzQXRZMDRuU1FLSEN3U0xMbm9JcnFMQWlNTEZxcjEtUk1MZVAtMzlZRjhUOTVpWFJPZUVGczJmVkhjcXNQYXgzZXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3a90b2b5b4ac",
-    "title": "ハートフレンド、京都市と資源循環・脱炭素化推進に向けた連携協定を締結",
-    "category": "自治体",
-    "accent": true,
-    "source": "ダイヤモンド・チェーンストアオンライン",
-    "time": "4:55",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsNkdka21RLUs0YjVTd2FkVkliYXdYNmpmanJqa0R1UXpOWWZ4NUMyVkQyNUkzQlEtRjl5UWdYSVJUTFppUXJIUGlTVGxuamRGZHBN?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f1144d38a04e",
-    "title": "【実施レポート】鈴鹿8耐に熱中症対策エイドステーションを設置。太陽光発電と蓄電システムを搭載し、100％再生可能エネルギーによる完全オフグリッド運営を実現。 - at-s.com",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "4:55",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fLTM4QXZnRDM2WGcxdGFXbGdpOFJrNDNKSGprTDFrUVNMY29TUEtzc3B2ZFR3YUpsY0hWalBrRjM0SEpnNW1GNmc5S2hNWHRZbjRUU2VpNVVSWmdtRC1iel90OFNyQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-870af635d19c",
-    "title": "コープさっぽろ関連会社、北海道むかわ町で営農型太陽光発電事業を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ダイヤモンド・チェーンストアオンライン",
-    "time": "4:47",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeUdJWnBNYjBXUkV6UUc0QmI2TDJlTkV0WGZwZEpld0ZMLWl5RG9CVzVSbmhfVDVSUHVJaVl0TVJUYzhCSFk2VUo1TzF2Q3VNOHBN?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0600b1259d03",
-    "title": "太陽光発電設備の世界市場（2026年～2032年）、市場規模（独立型太陽光発電、系統連系型太陽光発電、分散型太陽光発電システム）・分析レポートを発表",
-    "category": "国際",
-    "accent": true,
-    "source": "アットプレス",
-    "time": "4:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NcVlEeDQyeVRWSFlWaEh3SVlZOWVhZWR2WUtvY2RKQ0lZTi1sanc3NE5MRG5GNkZ4TWVRSmNGc3h1WThwbXV4eXlRMU00WkU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a946f6af2e99",
-    "title": "政府・戦略産業クラスター計画第１弾 「洋上風力」に秋田など３県",
-    "category": "その他",
-    "accent": false,
-    "source": "47NEWS",
-    "time": "3:50",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iZ1VtaXhBRnlnWUJUNkhKaVV1MjBTam5ZNFBLY0dETldwZEJtTWtueFVDTUpBM0hZUWFId0JiYUtXYmRGdUpqajNpNA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b5229778d19b",
-    "title": "BYD新型の軽EV「RACCO」の発売スタート ー BYD AUTO山形オープン1周年記念8月1日（土）からフェア開催",
-    "category": "その他",
-    "accent": false,
-    "source": "イザ！",
-    "time": "2:56",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93S2dmd1MyQWVRSFZycnY0ZkxXaERpYlJfXzdjYXY2NC0yOU5Tb3NxbENZUTFHTnVLZ2RBRzZwbThVWEFPQUxkc04zQVE4cGJnTy1MOENRbUlQMFBhQVlqTGFINXJQOWVaZEZOTy1JdnFoUzNVZS1hLVJ3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bcc039d60e91",
-    "title": "荷主企業が主体となる新たな脱炭素物流モデルが始動",
-    "category": "その他",
-    "accent": true,
-    "source": "北海道新聞デジタル",
-    "time": "2:23",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3ZCZk5JYS1WMTZoeGR6RU1zdkMxTF9JMDJsQjFqSTRETWJTdTUwTHlEcWVTS2Y1dzkwY2hiZFh2S3BaUmxYc2FMU2VfWmZKTzhQMlhCWHMtaURISzRwVG9lMWhMUXp2MVJ3ZjUwX1A0dTVXUnZZVXVyTTY4a0hOaUtYVnlTN0o3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0853fdb2ca54",
-    "title": "発電の大変さ理解 福島で省エネ実践講座",
-    "category": "技術",
-    "accent": false,
-    "source": "minpo.jp",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pUXFNWjNVNl9PczJZa0w3MlpaeU9jandtYTlOQ3p3dllGTE5QZ203bE83cWlOMzQ5TUJYdVdqQWRwUE9zMVB3X1VxSTJrZ28?oc=5",
     "image": null
   }
 ]
