@@ -5,7 +5,7 @@
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "6:40",
+    "time": "12:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000036.000075210.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/75210/36/75210-36-24aa443eef216e394715f27578565f06-429x344.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -15,19 +15,79 @@
     "category": "企業",
     "accent": true,
     "source": "PR TIMES",
-    "time": "5:10",
+    "time": "11:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000288.000123722.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/123722/288/123722-288-36070559a4d4622f2e6a731385b41d66-1216x625.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-c714bbb1fb1b",
-    "title": "低濃度水素吸入と脳神経疾患──MiZ 8 年 14 論文・10 研究機関・9 特許の知の系譜｜慶應ほか",
-    "category": "技術",
+    "id": "auto-aca9b10bd473",
+    "title": "再生可能エネルギーブームに潜む野生生物保護の課題",
+    "category": "その他",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000082.000047753.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/47753/82/47753-82-92d550b0d3ec040e4d559c945354b648-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "Forbes JAPAN",
+    "time": "1:36",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwOU5PY0Z2SzVFTndCa0FPckswVHdRd245cDFISDJKM1lrOXFWajdVLWhTeGRYeURNay1ZX2hEbkZUWWFFWGVCNDl5N0t2ejdEMk1QQnc3dEtxQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-719fddf4591c",
+    "title": "新穂高ロープウェイ脱炭素化 １００人乗せても運行可能、駅施設も含め移行",
+    "category": "その他",
+    "accent": false,
+    "source": "岐阜新聞デジタル",
+    "time": "0:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsV3ZtVUh1T1o0UTJJcThhS0MyaWV1bk5mUVdVX0haLU1BZVo0VWRybm5xQjRiVUo2NFJNVGNocFF5SC1iR0l4UnVzS1plSFdyMjdYLUQweHZKZy1qcnc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a13a610cef5d",
+    "title": "AIと再生可能エネルギーの幻想──「適応の罠」が示す不都合な現実",
+    "category": "その他",
+    "accent": true,
+    "source": "Forbes JAPAN",
+    "time": "23:43",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHcDU2WkxIQ3cwQkpxNDYxRk41dDJWTmItOTM0VnRUdGdjbnFjd21hMlk3RnZkQ3kzZ2xhWnRBYlhJdWtLRDBCUFZnX2RNc2p5R2dlNkY4eUdHQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fefd7b1fa316",
+    "title": "【脱炭素・SDGs・ESG】高速オフセット：大阪の脱炭素推進組織OZCaFに登録、サステナブル印刷の活動を強化",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:17",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oWmNfdHJ4ZWstZ0RpUTFSZTZmRDVkRjBHWVBvamN3RkVqckotcnVVdGpCSV8xRkV1QVBqdDR6Y1lOQ1ctZGp5Tk4xRlhtUUFrZEVyS25aQzdQNUczR29aTjc3NmJEUDU5aHNpajRteUFGZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c23cb803aa54",
+    "title": "【公募】神戸市：水道施設への太陽光発電導入を調査、契約上限1100万円で事業者を募集",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:17",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6VVI1UUlBMTllNXUzblVQVnB0S09keERMcDYzT1g1SmJGVkIzUU1MYUtoVk5LeklTRWwxTVljcUFEQ2VhOWZ4TE8wYUlGQWpkUDZSQmNPa01tMjRnWmZSUWprMFVCbl95SkVaNjd0aHk3dw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-24a8842cbd6c",
+    "title": "【提携・M&A・新会社】シャープエネルギーソリューション：ベトナム太陽光事業会社を完全子会社化、屋根置きとBESSを強化",
+    "category": "その他",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:17",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUUjdEUUZCc2YxMk5XcVdnSDFkQ0pXR3hUWktVYV9zbEVqVTNGU1otWEJEOHlBTmdsdnRienBySDdLbGxRQnF6UldsRDhmRENhNm0wZXZBNE11ZkZUZFpPN1IwYmdKNXp2WUNXaWdLSWRrUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6b8b5fa1c4e4",
+    "title": "【太陽光発電】NT技研工業：タワー型太陽光システム量産へDPOを計画、優先株式で最大9900万円を調達",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:12",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbENfOEU4eGc5c3ozSE93THQyYXR3Zm56a00tOHE2cEc5UmtINEVXckswQlJ1bWozenl2LVlLZFZhWXVwZ2Z4TjFta3pwY1h4emFHUHNIb1ZWaXZiWU5zRkh1ellma0VjXy01V3JjZXZ4dw?oc=5",
+    "image": null
   },
   {
     "id": "auto-fb0e4023fa83",
@@ -55,33 +115,43 @@
     "category": "技術",
     "accent": false,
     "source": "ニュースイッチ by 日刊工業新聞社",
-    "time": "21:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RTkRlYmJRWjgyZThJMG1mT2l2bk5oTG1pN1dtdkg5LWtRRnN5eVBaTV9WVThUOVk3UTlMZ094WXFSZw?oc=5",
+    "time": "21:31",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52QVpORFl5NldnZUR0YXNfZ0c0ZW1OazhHTE03bzR1N0d1aXZxMHM5NVl0SzdkWUpSQzB0MmN4UE9kSWJWMmY4?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6c8ae50f0de2",
+    "title": "営農型太陽光発電所の野菜 茨城・筑西産、東京都内で販売",
+    "category": "その他",
+    "accent": false,
+    "source": "茨城新聞クロスアイ",
+    "time": "21:03",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Vb1pCcEhsN25RTEE1cjgtNUx4dzZnQ2cxSjU4U3pGd2tNNlRFSUNxbmpPMi1mSHhTX2ZCN2hJZEpyQmRJbGlNQXZGdkhTa3BNbFJwWDE3UzN0VkFaOEdUWFpFRVNtMUhHSUliNW9TY3kwVk0?oc=5",
     "image": null
   },
   {
     "id": "auto-5c3f45b1e725",
     "title": "トヨタ×ダイムラー×ボルボ、対等出資の真意…EV一色の裏で進む水素トラック連合",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ビジネスジャーナル",
     "time": "21:00",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwZGZQOXN6YXBKS0VHd2pSQzVRZ0xvNWQ5X0FvWmx0M3Y5WXdFZUF3Y1p1WWJTUWNnVFhUT3dRX0JmaTdXYUdRV2p1bThONFo1bDhrVzFjTjZpZEk?oc=5",
     "image": null
   },
   {
-    "id": "auto-6f455fbf335f",
-    "title": "架線なしで走る「水素列車」──インドが描く脱炭素鉄道の新時代",
+    "id": "auto-d5168127d184",
+    "title": "「走る発電所」インドに登場。水素燃料電池列車が拓く次世代モビリティ",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "TABI LABO",
     "time": "21:00",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYzRRUXhsN0pWQVZrUnhjRVJ4MUZQM1F0SDAxcHJyaEZDd2xUc1ZKTWpwSkNVeHZJQWJRODNMYUxqTnFKWkpUdUNNb1NyZzVJdy11bzdyZTVTRmpDbGQxSE5IYklfVzZRNk1xcg?oc=5",
     "image": null
   },
   {
-    "id": "auto-40a82d63352d",
-    "title": "市町村の脱炭素、切迫感の欠如映す「護送船団」 環境省が全国支援",
+    "id": "auto-04e0e6e1a1cd",
+    "title": "脱炭素、市町村の優先度は低め？ 切迫感の欠如映す環境省「護送船団」",
     "category": "その他",
     "accent": false,
     "source": "日本経済新聞",
@@ -93,7 +163,7 @@
     "id": "auto-cbdb66067b94",
     "title": "画像3 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ウォーカープラス",
     "time": "18:04",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSDhXUTN2M0dZQWdzd3lnSU1wem15Yy03eTl5S1BlcG5DMmdoNUtmREhGQTZuZUZqZG0wWjJTMm1CQTliZ01MNjc1a1B2bUpLNHgxSWVWU2I1aUUwLVBKRjRLSE1ENXhfRG9aRzBR?oc=5",
@@ -103,7 +173,7 @@
     "id": "auto-58a606835fe3",
     "title": "画像4 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ウォーカープラス",
     "time": "18:01",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
@@ -117,16 +187,6 @@
     "source": "simplywall.st",
     "time": "17:44",
     "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVENjUkREeXNnNndyUnYtOTVTX3VKcWpFaTZuV3doQVRodkFxd1VYYlhxVXBRRnd0MFo0cnlsNmdWQ0JVQWJPTmw2U1hFNFFRcWhFN2RBQU9YajN4Y2ZTUjc2b2VHdUxLMjY4LUtTWktxUklhYWZPYjFTVFc2cVhtVTJOU0xyc2NJaU1xR215VTR0SE1mdmFWM1lmTGM2Vmh4eFHSAacBQVVfeXFMTkJLYTZMdmEwSDI2LVJhbmVMdWE3SkllbWJWc045cTV0WXhoeEpmdU1RbnhSUlkzZ3IwNS0xZUsxQmRiY0cybEU3T245Q0JDZ0FXV2FZeTBGUzVmT0FYd21mTnliZGtuZ3BLeXdOWDl1Znl6R1FJZDZ3WU4ySTRFNTdqQ3JhaDJfc1lWM3lvclhRYjVKaFh1TU4xMXJrTmF6S0NMbDE4ckE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-577bdbeb7a1a",
-    "title": "広島県「価値創造型脱炭素モデル」のもと、広島県福山庁舎解体で先進的な資源循環を構築",
-    "category": "その他",
-    "accent": false,
-    "source": "山口新聞 電子版",
-    "time": "16:15",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lcGVMMXVHLTNtN0VEcXFwWjRPeEJybHFGUmpuMzI4Y1JnOHZWRFMtVDZWalA4VldjcktiMUF4N3lic21BSHRtbW1FWGlGQlNOa2lWR2FWaHM2aGhYVy02ZGtaVFFZc1pzQUd4cS1FQXg2bEltMjlN?oc=5",
     "image": null
   },
   {
@@ -154,7 +214,7 @@
     "title": "NGK、再エネ導入支援事業「エネロコ」立ち上げ 島根県邑南町が第1号に：ニュース",
     "category": "その他",
     "accent": false,
-    "source": "中日BIZナビ",
+    "source": "biz.chunichi.co.jp",
     "time": "10:13",
     "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zOWxlMlhxLUQ1eWk5cFF3T2dPQmhvemVuc2xxd2N6c0diR1k4MkJXN0FTTEc0czd4RWJaVVJfQkdwT2ZWcG1XVHZ5X3FtM2p4ZnBVVW5xTjRoQ0YzNFdyNUU2aw?oc=5",
     "image": null
@@ -194,7 +254,7 @@
     "title": "柏崎“脱炭素のまち”へ着々、市出資会社が新発電施設 太陽光に大型蓄電池…電力販売先の開拓が課題",
     "category": "その他",
     "accent": true,
-    "source": "47news.jp",
+    "source": "47NEWS",
     "time": "9:10",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtTVFMclp0XzFrQi1lanFzS2s1Nm1GUm4zTDJIUno2UjFLTWpkVlZISEM1U08xcHUyMEFMRFdGYkZkNU0wV2ZuOU9Gaw?oc=5",
     "image": null
@@ -206,7 +266,7 @@
     "accent": false,
     "source": "Newscast.jp",
     "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1acjdrTXA1a0M3NnpHU1dlYVFmX0hJai1KTXdfYUs4SUY1WE9nbnFmeDQ2WkVleTZ6Q0RNWGxOajJDU3BfRU1oYUp0aVM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KZXVKSkpPTXpRQ2F6b1A4T3FKQVAybDVpb0xVQUUzMlpoS1BxYVVzOFQ1N1FOU2piMVYtQWpKUUp5WUlGdW1v?oc=5",
     "image": null
   },
   {
@@ -214,7 +274,7 @@
     "title": "暗闇での太陽光発電に成功。 カギは「木材」を使ったトリック",
     "category": "その他",
     "accent": false,
-    "source": "gizmodo.jp",
+    "source": "Gizmodo",
     "time": "8:35",
     "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGdIMU1hVGVHUk9DRUlTejJvbkRadVc0T05zOW9mdmdtMG5SN0VLODNTcVdsRVo3WHlGR1ZTV3RRNDNhZTJELUtxUkg1ckE2aVRqWFp5ZjVZUWlWMVpHMERORjVOVGRITEFHUUQ1a2ZIX1RKRHVQeld4aGdwbTV2RXh3amdSTkNNTUU1U1h0SnBITS1Ddi1UdFUzVUw1ZXNB?oc=5",
     "image": null
@@ -230,73 +290,13 @@
     "image": null
   },
   {
-    "id": "auto-d7815aa688cc",
-    "title": "第1段階の100GWの太陽光発電所が承認され、すぐに起工式が開催される",
+    "id": "auto-b5229778d19b",
+    "title": "BYD新型の軽EV「RACCO」の発売スタート ー BYD AUTO山形オープン1周年記念8月1日（土）からフェア開催",
     "category": "その他",
     "accent": false,
-    "source": "VOI.id",
-    "time": "7:13",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HWGdORjZfeVNRdU1BZGJ1M1EtblZ0U2d4VXFmSlgzaTFVZXFBel9HZmJMU3ZKeVVEeUZPazlJRmZJRHNCZ3fSAUJBVV95cUxQQmRQWjVLNnRmS2w1eHZTNk1vaXYxeGZyNnl0MlZ5bTdJeU5OcFM1cnpNY1U0dE9ZUkM4OC1laVBreXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b3e4f6d337a4",
-    "title": "クルマとミライ「ひろがる仲間と共に！脱炭素を目指せ」",
-    "category": "企業",
-    "accent": false,
-    "source": "locipo.jp",
-    "time": "6:37",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMExFZ2dwYWtQVXg0VlhzUFg5Y092OUx2b0lfQUhlaWhrWHJwX3R2SmVDdEVpQ0tzWTlrQWxiSmJ5dzVtY0FuOTNybm9mcGtoSFA4cnZ4eTNlNW8wZEtMNjU3ampoVFdOLXZreENGZDBSbUs2ZXNoVFMyZC1LV2s?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-986293399ecc",
-    "title": "環境にやさしい取組みを表彰！ EST普及推進委員会「第16回EST脱炭素交通大賞」 (2026年8月1日掲載)",
-    "category": "その他",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "6:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZRExkU3JNZUpHam9uRnFlUWhwTF9FbDNObUNtOTFTYUt1X0luQ2dYR3RfZlFyaExYa1dsakI3WGh5cEp6NHdrWlA2VTUwSGc0d3BWQkYtX0wtcUJXTmc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a4c937874999",
-    "title": "【画像】環境にやさしい取組みを表彰！ EST普及推進委員会「第16回EST脱炭素交通大賞」",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "6:20",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42OFpCaHltaFRWWGg4VTBRX1ZJb09fNW9DeEdqTTdrOWFCM0NoajdiMjZQVnFYWHdPWW1rZVByZWdkZmVBUlVzMVNuVXlzaG9WUG5FRVhlSzFZdk1yS0FFeDZobUtpWHEtU1JnaDNwYzQzUWRGX0xMNjk1REI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e8a85a1a5f8c",
-    "title": "中国 内蒙古の国際空港を初の「脱炭素空港」に認定",
-    "category": "国際",
-    "accent": false,
-    "source": "AFPBB News",
-    "time": "5:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjMzlwMmlIR0hBUzNteG90QUJXT2hydmNZRWMyT2dLS09DUGY3dUtiODZGZDA0UGIwV01FUk5OMzh2N05jbkN1Z0h4WEl0WGxsRVHSAVRBVV95cUxPdFFUZjRTeEdNalk4Rk9NYW1qUFBIV0Z0anFaOHU0LS10VTJfbVJMcjc5c3BXWjM4U01YckJUSmFVQkNadTRJV2RyVl9wTWoyd3lUMFA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2134db5933a1",
-    "title": "【太陽光発電】Looop：MonotaRO物流拠点に531.2kW設置、使用電力の約25％を再エネ化",
-    "category": "その他",
-    "accent": true,
-    "source": "みんなの広報宣伝部",
-    "time": "5:16",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rSlNVWDd5UTlNbWhmT3RXaThpX3ppSkExcXdPeFJnWW8teEFNdHNDMHc4REFWb0N3WGVhNWhPSXB3RTFiRndwODROdEhkQ0NqeHAwdDRhOVAzSjFESnNYN0xBQVBGUFdJc1BZR0hVYlNTQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f5f252bb6435",
-    "title": "ヤマダHD、今期中にヤマダデンキ12店舗へ自家消費型太陽光発電パネルを追加設置",
-    "category": "その他",
-    "accent": false,
-    "source": "ダイヤモンド・チェーンストアオンライン",
-    "time": "5:08",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjQ1R0U1BlQzVvR0VJWDgxTWRpSDhvbVBZendyb1pEam9JYlEyRy15Mm1zRGROTHRtZEJPVGpicVU5Umdwcl9mWkdGcDZBSUw3N0U0?oc=5",
+    "source": "ニコニコニュース",
+    "time": "7:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RajZuT2UteFF1RUZKd0hzVk5EYmpybXdOSTZMd2xLU0hJZ1FIZE5pVjVaUlJVUU9Tc0stUk1BblZtOFJTUWFOeEo0Z0YxczE0dTU1ZEVUeGJqSC1vWU01M2lWRUNHbEhYaXNMWE1MY2hwaG9vQlE?oc=5",
     "image": null
   }
 ]
