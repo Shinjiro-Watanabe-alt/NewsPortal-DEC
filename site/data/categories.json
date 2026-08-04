@@ -33,18 +33,18 @@
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 40
+    "count": 41
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 71
+    "count": 69
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 492
+    "count": 493
   }
 ]

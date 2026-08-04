@@ -1,23 +1,83 @@
 [
   {
-    "id": "auto-4ae543c8f370",
-    "title": "JOGMECが公募した2026年度「衛星データを用いた温室効果ガスの排出源特定および測定に向けた技術検証事業」に参画",
-    "category": "国際",
+    "id": "auto-2b7f77b2b369",
+    "title": "一挙両得。クリーンな水素エネルギーはプラごみリサイクルで作れる",
+    "category": "技術",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "16:15",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000340.000065135.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "source": "Gizmodo",
+    "time": "11:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGNiRzItWU9RLXIwczFQa0h6MGpOa3hGOUJON2tOajdacFliNUxQVktkNUhmS1NXX2dxOTJObEE5d1VZTzhmdFN5cTJBOVhXM3pMUVdiNmIwdEhmQ1U3Sm9zM19TajVfNjR6Um5GczJBS0xXOVpIT1dXU2JiYkxNcFZmMWcybGVFNTF0dGlDdmFnTHlKWk15R1J6UkpwcUQ3dlVRdnR5ekM?oc=5",
+    "image": null
   },
   {
-    "id": "auto-b5f29a0102b8",
-    "title": "日立・商船三井・JAL、沖縄県久米島にて 国内初となるCO2除去技術の実証に向けたMOUを締結",
-    "category": "企業",
+    "id": "auto-17c3267ba344",
+    "title": "埼玉県熊谷市で麦の圃場として国内最大規模の営農型太陽光発電所「リエネソーラーファーム熊谷」が竣工・運転開始",
+    "category": "その他",
     "accent": true,
+    "source": "jiji.com",
+    "time": "10:45",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFcjhmNlR6dHA4UlgtaGU2dElaNmhiXzNhYks4X2RUMDZQM3J3c3RMdGxZOUNINW1ES1haQU52SDZDMVRNU3hZYTJVT1pzb29WUHdOcDAxek1fMGNiZVBLRE9kODFUZGh3NXBv?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-acba67052d8b",
+    "title": "脱炭素・地球温暖化対策本部長 兼 環境・エネルギー常任委員会委員長による要請活動を実施しました",
+    "category": "その他",
+    "accent": false,
+    "source": "nga.gr.jp",
+    "time": "9:41",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenhFbVNiYzcwVTlLN2xmMmV6d1ktVS1LZF9XV3BrS2VXcjREZUl5MzZDTnhSTDlWNks5TGM1ZU1GT0s1S0E0Y3JpcUctUEdQR25JMGt5NWRCanBVbE84dkhqTWV1X1BUV25yQjNOakFfUGFUR3Z4SWd5bVgzeG1ic3VBZlczYTZISlJZ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f512ee7ace74",
+    "title": "太陽光発電パネルを壁面に垂直設置、レールファスナー工法本格販売 AGCら - kankyo-business.jp",
+    "category": "その他",
+    "accent": false,
+    "source": "検索: 洋上風力・太陽光",
+    "time": "9:40",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRDYtRXc2Ym9MSDMtcXByQ2wxQk1iNDVodGhKcGVQNVRUTDNXeFhLY0x2YkltNjVEaWtCWEJRMFM3YmpnckFGb2hZanJ3QVNFZ3ZqV2RhRWlMZVNwVDRBWjA1bS1mT1k4eHpiZGhMV0ZiUFlDbDBuS1Izamc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3feaad9428f9",
+    "title": "岡山設備投資3年連続増加 ２６年度計画、脱炭素化が拡大",
+    "category": "その他",
+    "accent": true,
+    "source": "山陽新聞",
+    "time": "9:37",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxdXo3cFhtV1p6ZC0yX0hJZ1o5NThLM1BMX211Zm1nRHVfQkQ2Q0tBSDI3ZFFHeDh3MDA2dS1IbjBJQ2FCU2tJdDlpWmh6STB5ZFE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7f82026ff0a5",
+    "title": "電気代高騰にどう備える？さいたま市で専門家が解説した「節電の限界」と太陽光の選び方",
+    "category": "暮らし",
+    "accent": false,
+    "source": "ガジェット通信",
+    "time": "9:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IaHhSWFEwRjJmc0lkMHJhdWcwc1Rid1RjREdJdGMwcm9OWFV0NFA1Mk14VEFHY2EwTXdRSmVZTGRmUl9mc2R6MlZtOA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-702de4f55974",
+    "title": "メガソーラー発電事業者向けセミナー「FIT太陽光資産の価値向上」を7月30日に開催",
+    "category": "その他",
+    "accent": false,
     "source": "PR TIMES",
-    "time": "15:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000577.000092744.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/92744/577/92744-577-ed97912ef2a372c8db963659d052a37d-534x385.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "9:16",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NT2FnU3phdzNpYVdGYjVmcGtEMTh5bFdCLUozalJpSWNobHAzOXJNQ2haOU5vOUxUOTFEejNicjNkU0FWS0loYnVpTnNJX1NWUGlocnNnUzlTOTVuNjd3NThjZXpuLTFpZHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f9e9d2743224",
+    "title": "野村不動産投資顧問など、再エネ供給ファンド運用 - logi-today.com",
+    "category": "その他",
+    "accent": true,
+    "source": "検索: 洋上風力・太陽光",
+    "time": "8:47",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0cXdsTzQ2YTEySEJ6REFOQm1YNkgzUDNzdzUyYUE1eXF4X2VfZkV4ZnVqTXR0eUpCNlRJZlhCZFlfc0RySlp6cg?oc=5",
+    "image": null
   },
   {
     "id": "auto-459037febce6",
@@ -30,20 +90,30 @@
     "image": null
   },
   {
-    "id": "auto-2fb2658c0582",
-    "title": "AeroEdge（エアロエッジ）の脱炭素に向けた取り組みが、パートナーであるNeutreeno社とケンブリッジ大学の研究チームの研究論文に掲載",
+    "id": "auto-59f3fae0c5b7",
+    "title": "タイニン省のダウティエン5太陽光発電所の建設が開始された。",
     "category": "その他",
     "accent": false,
-    "source": "時事ドットコム",
-    "time": "8:15",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45TTJkaURwaGpkdEdhY0lybUsxNFRaeXFYUUJmVFBaVWhjTlVtM2JCRzFDbkNPUm9MQmlVdEFXRExzOUhBTHVSNEVoQlZnXzl4aTNOU0oxYWVqVDQyX3ZYVjB1OTFEeHpPS1Jj?oc=5",
+    "source": "Vietnam.vn",
+    "time": "8:21",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0pWeFNnazNPaDFHWHR6M3EwM3kycDBpRDgtNkVhNWM5UjhmQkhHeERQZzBPSWpIR2Q3cDdtTWlWV3NSNWdmQ2l4Wk1PdkduazJuUi1oZWh4WC1veXdiMzE2YlhzVmRtNzhlRnVuc2lUZnluakd0OGZpdXVodUNyNHU3dG5aMUdJTEE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e3bf0afa7b02",
+    "title": "埼玉県熊谷市で営農型太陽光発電所「リエネソーラーファーム熊谷」が運転開始 農地保全と再エネ導入を両立",
+    "category": "その他",
+    "accent": true,
+    "source": "AMP[アンプ]",
+    "time": "8:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yR0FRYXYtTGlxQTQ1b2dYVXRqdmYwRG5SLThyVkVHZVI3M1hkY092MzFGQVA5SEIxYUJfTGYxU2VtZEpTaFpSSjhSN2hNQ1lZQ290eQ?oc=5",
     "image": null
   },
   {
     "id": "auto-d89ecd5c11c0",
     "title": "今治市が伯方最終処分場跡に大規模太陽光発電事業 事業者公募手続き開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "建通新聞",
     "time": "8:00",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVprYmRCYndVbWtyUFBvMlV0cXBWZEliUTAxVk9JRi1MbVV5S2RBLXdzcWl6QzR0aWx6anhNT2xnNE9RVDI3eFAtNDhzTFI3a00yUmRFaDhITnluY0FMa0xoQjNXZWJnckVISTdxZ0M2VFQzNWhxczYxN2EtZDdLRg?oc=5",
@@ -57,16 +127,6 @@
     "source": "ニュースメディアVOIX",
     "time": "7:46",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55aTFZSmF0NUdOMmd3NmxtYUFCcC1kQ1VaZ1Z6ZE1mYWdoY2wyQllGWXZUWlF3XzlsUUFsXzhHTExuRnlhTGdPQVZHdzlCQ3hJNXptdEppUVBINHNXNmRjNXVYdF9XbHg1d0sxVDViNlAtQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cdf089251d79",
-    "title": "一般生活者の約6割が「脱炭素は重要」と回答する一方、商品選択時に重視するのは約4人に1人",
-    "category": "暮らし",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "7:45",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11Wkk1RUJUQ3RpdWVpUkIxY0dUSkRIeU1xbFFkU2FoMUVGZWFUWXV5V1ZSTHZaZzNJbm1VdWxkUy1PaGdNV1lZT2tpM0o3Y1FKMUFTSE44Rkh4NHBJWnJRSDlLRmkxcS0zWmZN?oc=5",
     "image": null
   },
   {
@@ -100,10 +160,20 @@
     "image": null
   },
   {
+    "id": "auto-2fb2658c0582",
+    "title": "AeroEdge（エアロエッジ）の脱炭素に向けた取り組みが、パートナーであるNeutreeno社とケンブリッジ大学の研究チームの研究論文に掲載",
+    "category": "その他",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "7:08",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUFFGOF96QTZWZmY2YTFMTF8tNF84c2FqaEllV3lPMDE3TkIyNXM0VURuZWdEZF8tNnJSNEllZ0pvcXk2VTl1dXNhTl9nYUJLRUlORFdweUp6bDUzTkUzN29ldjBxSzhuZGc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-859d7af1e42d",
     "title": "系統用蓄電所ビジネスの勝ち筋 サンライフコーポレーションが語るHUAWEI採用の理由",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ソーラージャーナル",
     "time": "7:01",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMkpoLUFCQVpOOHhtdWx4cHJjSGc1T1FqcFIxUlBQbWhlSFBZTVIzRmJVdE9RbWpDZkEwWlRvODJSTzFnNWpXZG85a3lzbVU?oc=5",
@@ -123,7 +193,7 @@
     "id": "auto-b6ff0d5715bc",
     "title": "【日本蓄電池株式会社】鳥取県鳥取市にて系統用蓄電施設「NC鳥取市気高町2蓄電所」受電開始",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "高崎前橋経済新聞",
     "time": "6:48",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FOW02TUJ0UFdsN3A3aHFZcEtkZ203OUVVUG5QVXFZTHdhS2FuTEROOFJmVHNrcVhXTFNXemoySEFJaHhZRktqeEFZbG1zcGNlaEY2d0Fn?oc=5",
@@ -133,20 +203,40 @@
     "id": "auto-4431f1a5e006",
     "title": "鉄鋼分野のGX前進へ、公共工事に低炭素鋼材 グリーン水素還元鉄の初試作も - kankyo-business.jp",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "検索: グリーン水素",
     "time": "6:11",
     "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vbHgyRjU1TmIzenhwYnNNT2d3WkV6SzZzZklqT21QZkxZaWNEQWdEWjlOQ1oyb0pOa0tLUXFubEp5aXJwTGZsNUh2c2dheGJFNF9Fb2dZd2N2MUZuRF8taGNScVlscW1fWmlNMFdCcVo1V3pUV1g0ZkhVSE4?oc=5",
     "image": null
   },
   {
+    "id": "auto-65b8f3d269bb",
+    "title": "トリシマのスーパーエコポンプが、省エネ補助金に認定",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "6:08",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQTFSOHZFbkQ3SnJpX0QyX21JNkFDX2o5VGtiaWs4WThHSkRuT3llcFBWOG9EX3NrOGpuV3V0ZzBFeEZiUzY3SVJ2aHpMbGhzUElEMUlHYXpjclpzWVlkYUJENGJITk42aWc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-ac8b8ee6ddca",
     "title": "日本企業脱炭素本気度ウォッチ",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "WWFジャパン",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rVmJLaWhRUHg2SW5WM2JEOU9mdzYwOUc0d29kS1Y5cjlqUm5MV1dSb0UzTjZaWk5uMTFld25nMVNEUUhCUEdMSnd2VGs4LVFDS25kaVBVbTFEMEM1TXFiZg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cdf089251d79",
+    "title": "一般生活者の約6割が「脱炭素は重要」と回答する一方、商品選択時に重視するのは約4人に1人",
+    "category": "暮らし",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "6:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SN1h0UFo3TEJoVlNacDBZdzE5Q19vXzNtd0x3VWliZndzZzMyQlV6YWI5N0Q2cndlLVFCeWlVeWJVcHNYTTZfMjVlcGwzSHlkZ3J0TTFHZmY1RzZLQzFYV1FBVk96X05FYVE?oc=5",
     "image": null
   },
   {
@@ -164,7 +254,7 @@
     "title": "CO2排出ゼロでイチゴを通年栽培 豊田合成が取り組み ：ニュース",
     "category": "企業",
     "accent": true,
-    "source": "biz.chunichi.co.jp",
+    "source": "中日BIZナビ",
     "time": "5:47",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZ1Vaem1YWnJDWEZjNlcyS1E4NjZjbDNBU2trRGp2cUVrMUctOFY3S05ILVQ5M3ZvczFnSFZGdkNib2NvMEg2MGJxMDdjWXVzaUtGYUZVYTlaalFOY08w?oc=5",
     "image": null
@@ -190,20 +280,10 @@
     "image": null
   },
   {
-    "id": "auto-4bbbe1de56e2",
-    "title": "住宅販売・リフォームの営業担当者のための「温暖化防止アドバイザー（住宅部門）養成研修」開催 ~省エネ住宅が家選びのポイントになる時代！~",
-    "category": "暮らし",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "5:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbWYwTjNxM2dBbXNsYUFlQ2xYNFRKaFBqMzJ4Q1JxeHJESV9RTmMxUnVSQ2hIVHcyVm5nN2RranBWVTRycUhCcWhaQnJ2cmp6YWtlNVdfcnFicm14Zkd0WllJS0tMei1GMkE?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-590d416086e4",
     "title": "再エネ電力を“見える熱中症対策”に活用 建設現場・工場に冷却設備やクールゾーンを導入",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "5:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYkdfSXJXaTNKM1FQQUU4VFI5YW1xdXdoU0pYZVg2YlJabjRFMnF5Q005R1BSb194RWZDVUJWQzI0MzNVQ256aVpjVmlxcmljRHFsRjNBaW5CaXBQeVNubmVKYXN0UWM0d0E?oc=5",
@@ -217,86 +297,6 @@
     "source": "Vietnam.vn",
     "time": "4:37",
     "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUmFieHNWQjh2UXIxWTZlVVZZN2hqNHVLdDFHbkNhRVJ4VFhxT25qUTdralBQYnVfdllVMUJhajZNcjRQZmE2Q2ZIUmEzNXlHVlV5YkNLc3FKeURtY2FTS1hzWUVVYmV1cGFoZWFrSUpCT0xnWlVTcDQ3Ylp1N2JFcE9sUklDRmc5S19TLWNuRlZIampKTnZmM3luMGZxdkhEejZjOS02S0tnMnMwejd4T2pRS2YxbVpqWUNnQkJHMFc5Ym9ERkw4VmFHUm5vWE1UY0xHeUtiWDZSd0xrSlhUOVZVc1RaUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c4e897a985aa",
-    "title": "再エネ由来電力をグループ内で創出・活用 東北銀行、オフサイトPPAを導入 - kankyo-business.jp",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "time": "4:22",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uS1RwUHlncERHbzZPZVM4OXNLaXl4blpYTzg2NWpqRXlMdjFsZWY3NXU5ZmZYU3AzMUs3ekJfWGxTWjVnV0xZbDJ4S01DWmM3d0ZRQ1FjNldOVWNSbmQ1NEdHUzhzZE5sbTk0X3A3UkhEZmZpcC10blEwbjE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ef99ed9b9625",
-    "title": "鉄骨造外壁向け太陽光工法を国内初本格販売 ノザワとAGC - kankyo-business.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "4:18",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRDYtRXc2Ym9MSDMtcXByQ2wxQk1iNDVodGhKcGVQNVRUTDNXeFhLY0x2YkltNjVEaWtCWEJRMFM3YmpnckFGb2hZanJ3QVNFZ3ZqV2RhRWlMZVNwVDRBWjA1bS1mT1k4eHpiZGhMV0ZiUFlDbDBuS1Izamc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2328ab0fd97d",
-    "title": "JDSC、都市部向け「フラクタル型太陽光発電」の構築実証を開始～東京都「令和8年度 次世代再生可能エネルギー技術社会実装推進事業」に採択～",
-    "category": "自治体",
-    "accent": false,
-    "source": "RBB TODAY",
-    "time": "4:15",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFNXNoN25icjZiS1ZKM2RMYXFOeFhYWlNnbXRJMEM1YjdnNjFJamhYT0syVEh0RmJ5enlQT1N1V2RJTk1nOERIRnNNeTczdzBGbFE4MGNHMFZxbFBfam5VcmhqQUNnV2lqaUE4T2lQeGFwcG9YVFdEdg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f45336745f91",
-    "title": "廃太陽光発電パネル大量排出、リサイクル制度は機能するか 問われる処理体制 - kankyo-business.jp",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "4:07",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSLXdvemVULS1XUDJHLVNvRktZcUhpcXYzTDg0VzRlaW5YNkVNS0lkXzIybHk3SEVMZmI4U3ZRVW9fSG43TjYtVGwyR1dIT1k1YlpyZko3cTFYWW5iU2k0MnduN3o5dGJuSW96VFk3d2xTUjF4Nmg5UjhJNWlBNzA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-339fc3dd59a7",
-    "title": "【第1回BBAセミナー】蓄電池事業をめぐる制度・市場環境の現在地と展望",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "4:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JYWYxQjdvWW82T1A1d1lMTjQteDFheVVoaFlmOFpORWJ3RU9wRG80VGROV0w0WlVQODYtMnFuZWotNVdoa2otelgwTkl3MEkzMjY4eG51RnpORl9rdm1kSTg5UjFHWkJwdFE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-befd58bd052e",
-    "title": "【8 18(火)18:00〜飯田哲也氏登壇】AIとデータセンターが消費する電力の裏側ーオーストラリアの事例と日本の進むべき再エネ社会への道ー – 国際環境NGOグリーンピース",
-    "category": "その他",
-    "accent": false,
-    "source": "greenpeace.org",
-    "time": "3:32",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ha05vMmhiaUppN2w3N3BuVXR0STRKaThRUGp4NlM0TTNxQ2tiZGtxS19SVVc4OGU3QXVJUzRBY2gyc3cxYjBkWDFJa2NXd09WaDZ6aW5tQWVwdm9FWmhrRWdCMXZBdm5Fbk5NY3IteEhKTjlxZHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d71fb44dd2ea",
-    "title": "電気工事会社がクルマエビ養殖 閉鎖プール利用 本業の強み、太陽光発電で電気代節約（テレ朝NEWS）",
-    "category": "その他",
-    "accent": true,
-    "source": "ｄメニューニュース",
-    "time": "3:27",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmdxRUUwRGF5R0JQUVBLSEphT3d5ZnVLVVlfRm9TUjNPV09FdHBvZkc4MWs0UDVZLTczclJzSk5vWE9aemhMaGtBempqSjVRTGdUd2N6THd5a1pXMEhRb2IwTmFpUmZkLTVkMjlZbzhnYl9RSlVUbW9tNE01NWZ3aFFOQVRpR3JoSU1yLUotcw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-68732168a720",
-    "title": "石川県とのJ-クレジット創出に関する協定締結及び 「カーボン・シナジー・コンソーシアム」との連携について",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "2:54",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxSEpYa2lwVkd0cUF2RlhfQlZmdUlqVXhBMVV4SGhBTTcyNDljM1o0WTZsOXhzM3JtLWZiWlNNaUpBTU4xNWRuRWhldGZHTXQ4T3JqZFNEWHJUaFA3MlVFNmszS1dUdkl2blE?oc=5",
     "image": null
   }
 ]
