@@ -4,19 +4,11 @@
     "trend": ""
   },
   {
-    "keyword": "バイオマス",
-    "trend": ""
-  },
-  {
     "keyword": "GX-ETS",
     "trend": ""
   },
   {
-    "keyword": "LOGI-BIZ",
-    "trend": ""
-  },
-  {
-    "keyword": "SBTi",
+    "keyword": "バイオマス",
     "trend": ""
   },
   {
@@ -28,7 +20,15 @@
     "trend": ""
   },
   {
+    "keyword": "SBTi",
+    "trend": ""
+  },
+  {
     "keyword": "遊水地法",
     "trend": ""
+  },
+  {
+    "keyword": "CCUS",
+    "trend": "NEW"
   }
 ]
