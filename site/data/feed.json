@@ -1,23 +1,33 @@
 [
   {
-    "id": "auto-6d54d9d661c3",
-    "title": "テラチャージ、鹿児島市 公益財団法人かごしま環境未来財団に法人向けEV充電「Terra Charge Biz」を提供開始",
+    "id": "auto-4c5c00195c00",
+    "title": "【DMM EV ON】全国のDMM EV ON充電器の初回充電料金を全額ポイントバック！キャンペーン「はじめてチャージ」を8/7（金）から10/31（土）まで開催",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "19:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000470.000075648.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/75648/470/75648-470-b61125988c17dcbf830046649e43cbdb-1075x650.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000005092.000002581.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/2581/5092/2581-5092-e96a326c0e3a1d250e57f6a4f231623c-1200x630.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-74aeea874e9f",
-    "title": "ジョンソンコントロールズ、従業員と家族に感謝を伝える「2026年ファミリーデー」を開催",
-    "category": "企業",
+    "id": "auto-decba8ab4a8d",
+    "title": "ハウスウェルネスフーズのミニボトル缶製品を低CO2アルミ製品「Kobenable(R) Aluminum」に切替",
+    "category": "その他",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "17:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000152.000007712.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/7712/152/7712-152-1fc11084cdd36167c9127745e26f8753-1720x1145.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "時事ドットコム",
+    "time": "13:10",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11eVVLbFJyNFpfOVY2NUlRbFBMcDg4OU9PRmhHeHktdEtReEFlVmxwNFo5eWIzQzZTOTl6OE45THUyV0JlNmhCakU1dGVkSWVaWmt1azhkcEdNZklpdWY1NldaWjZxVDBPY2xz?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7dc74a471df0",
+    "title": "【日本総研×SMBC】Vポイントで脱炭素の行動変容を可視化！環境配慮商品の購買を促す実証実験がスタート",
+    "category": "その他",
+    "accent": false,
+    "source": "DXマガジン",
+    "time": "11:53",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qdTNqYzNXdTM0UXpsTHI3M1M4cy1BS0tJQWhxNjkyT3VNeUhURWZmdHpjdGFRUkpSdzdCWHBMNTNULTBQZTc1TzFUUXo?oc=5",
+    "image": null
   },
   {
     "id": "auto-da9942bece6e",
@@ -33,17 +43,27 @@
     "id": "auto-0c0a125378a7",
     "title": "「浮体式洋上風力」開発 巨額の初期投資とサプライチェーン整備が課題 - kankyo-business.jp",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "検索: 洋上風力・太陽光",
     "time": "9:36",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yQUlKSXlIMmI1aG1TUEdUcU5mVFJkSlhPdUROWUNGa3VHSWlxMWtvMnBIbTdvNzF6MFpITndVaHhIM1hEb1B2eWJxTG5kekNENmw2UFB5RzlXaUxSTGE4TmVoZjdDeWoydDYyVE5oQWRKZWZKb3MwTWZoNkxlYVU?oc=5",
     "image": null
   },
   {
+    "id": "auto-b2d37ddd55c7",
+    "title": "大成建設、土木・建築からデジタル、脱炭素へ 専門職を磨くキャリア - d-sharing.jp",
+    "category": "その他",
+    "accent": false,
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "time": "9:33",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBueWVHUm5NcDN0bXYxZURtYWF2dFFnb0t2a3hjc3hpamEwQzhNekxSaXlhQk9GNTNqc01KWXlDaUhXaU5HdW1CdkQ1cVY?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-7f8f278a1c70",
     "title": "【バイオマス】イーレックスとサムスンC&Tジャパン、新潟での統合型脱炭素化プロジェクト推進に関する覚書締結 - d-sharing.jp",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "検索: 脱炭素・カーボンニュートラル",
     "time": "9:32",
     "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16dkhLNkxLZFVJdkpuNmZPZ21LSVFNZ2NveHpVa1R3M0RvYk1MZGpVTlFDcFJmLVFoTFhVbjUxZW9uX3hoejBBamRzSDg?oc=5",
@@ -53,7 +73,7 @@
     "id": "auto-e6ccf48289cc",
     "title": "【亜鉛マンガン電池】マクセル、NEDO革新型蓄電池事業に参画 京都大学などと実用化へ - d-sharing.jp",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "検索: 系統用蓄電池",
     "time": "9:28",
     "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwZkNlU1owNFBnZ2hFT19VQ0tBR2c2MXVrTFg4QnM2c1NUNEZGZ2xqT21td0Q4bEtIYURGWUtELUctY0ZSdXFhUWZmdEo?oc=5",
@@ -67,6 +87,16 @@
     "source": "検索: 企業の脱炭素・水素事業",
     "time": "9:27",
     "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Zcm9rTWZ1MGR2U0lFNGdFZnM5SjFNcEduU09VQk9PREptSW0yRXktRFhJcHBWcUZUWlNCTFhQeHY1dU9WMDkwVUx2T1I?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-90f68bad239e",
+    "title": "【非FIT太陽光】ウィンフィールドジャパンと三菱HCキャピタルエナジー、3電力管内で年間5～10MWを共同開発 - d-sharing.jp",
+    "category": "その他",
+    "accent": false,
+    "source": "検索: 洋上風力・太陽光",
+    "time": "9:26",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWmFheGtLcTBqUTR3UTNmSTlMU3J6Q3ZLeTN0UkNVUGVIbm1jaGtwWlVOQlFRV21pVkVuNWY1SFU2aWpIbS14ODZKMTg?oc=5",
     "image": null
   },
   {
@@ -90,6 +120,26 @@
     "image": null
   },
   {
+    "id": "auto-470de51e3d86",
+    "title": "「再エネ電気のバリューチェーンに展開」、ユーラスエナジーの諏訪部社長に聞く - 特集 - メガソーラービジネス plus",
+    "category": "その他",
+    "accent": false,
+    "source": "日経BP",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQ0xoWWNFSFU4MDBLcHFrSG5oTzBWNGh3MXRheVlVcUNNWHBTSGRKLVNEVTVmbXMwbWV2cXdLMloyVkZQQTV3N2c2bG4wMzN6dTkwaTZLUUttLWh6QTZpTGdDRGpmWnpobEs2X19zNFhlcjBmVjN4Mg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c7ce70638c58",
+    "title": "EVエコホーム、耐荷重の低い屋根でも導入できる「薄型軽量太陽光パネルサービス」をリニューアル。ドローンによる非接触洗浄オプションも新たに開始。",
+    "category": "その他",
+    "accent": true,
+    "source": "川崎経済新聞",
+    "time": "8:44",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYTIwdWU3d2NZdFRFajRrSHpjTG1iUGt0a1RYajM5blZRdmNJXzc4VjY4cmRpbkFsZXV2b2hIZTZ3c1NoNkxxNFRWcWpWUTZ1clptUEtR?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-5b178ba8a7e0",
     "title": "フランス沖の浮体式洋上風力パイロットプロジェクトに製品供給",
     "category": "国際",
@@ -103,10 +153,20 @@
     "id": "auto-2c42e3485ed6",
     "title": "【ドイツ】太陽光発電供給量、単月最多を更新 電力構造に変化",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "時事ドットコム",
     "time": "8:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRXk4MXpxbU4wbDhjb204TkgzcENFbEhva0VjZ2FrenpCRDF2bl91V2JaN2o4WWtiQk1fLWpFOTJ1YjRrUFM3ZHlmSmlGellfdmNOeWRENFN0Zzg?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RMEdnZ1JQNFIySkttek04ZUtBUXRCRUVhcjhsSDl3Unpod1NCWWpaTkFkeEdqc0lJeWZIdS1ZeDRiRUlUMVpJdEFaWkx6X3NsVkNhV2FMTFVwRjhiQjFhSTBaWQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-eea2dba5b40e",
+    "title": "豪州連邦政府、カーボンニュートラル認証制度を廃止へ（豪州）",
+    "category": "その他",
+    "accent": true,
+    "source": "独立行政法人 農畜産業振興機構",
+    "time": "8:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VU2Z0QTZ4TmpGMmpsZDFMSnFKVEc3NndLTU9uTFNULTZ3WnRJM2hWN2FPeHFzeExlUldSNktaQU5ZWmROMzZvSjFpQjFYWFZXX29oWlBkdGRiOHN2TVE?oc=5",
     "image": null
   },
   {
@@ -134,7 +194,7 @@
     "title": "長期脱炭素電源オークションの第４回募集に向け パブリックコメント募集開始",
     "category": "その他",
     "accent": true,
-    "source": "一般社団法人 日本原子力産業協会",
+    "source": "jaif.or.jp",
     "time": "7:37",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FMDJRc1k1WkI5UWh4WVRvS2RIVGlsX2ZlX2hpVEcxZGtxcm5ENTQtNTZDRUhJdklNZ3NfVVdxVjJqa2prb1BkU2VFQzc2THFHbjNWcFpsaVQ3eVU?oc=5",
     "image": null
@@ -215,7 +275,7 @@
     "category": "技術",
     "accent": false,
     "source": "株式会社グリーンプロダクション",
-    "time": "6:35",
+    "time": "6:40",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcFJKVFhLSmo2cWFlRkFaX0stRjBlTDFISWhzVzFqVm96WkFlYXJGN3RsRlFudzBCQlhqTGlYTHJBSDcwdWZtdWhrUUJ5SkFkMWFwZXplNA?oc=5",
     "image": null
   },
@@ -230,16 +290,6 @@
     "image": null
   },
   {
-    "id": "auto-a4bd9863ede4",
-    "title": "ジンコソーラー「Tiger Neo 3.0」、世界各地の太陽光発電プロジェクトで採用拡大",
-    "category": "国際",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "6:16",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43aVhoaGozdUg5czYtSGpId09oLUQ0WVA0SUNIRE5Eb1BsMDlBcnZwUXk2VnJLVE9tS0pUTVpYbzF3c3VELWVuNEp6WHlkN0o5b0NfODg0SXdRakJ3cTdGRjhaLU9JMG0tMk5z?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-da9de5592259",
     "title": "ミニボトル缶全12品を「低CO2ミニボトル缶」に切り替え／ハウスウェルネスフーズ",
     "category": "その他",
@@ -247,56 +297,6 @@
     "source": "フードウイークリーWEB",
     "time": "6:15",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OZ1N0VTJFYmlyZ1ltZUIyZWxOV1luYjNEMnlva0M5YWFYOF9vWVhMTl9KZlVCQ25USGZWazBjNDBwRE8tZkJfMTJHSlpycDlVRHNz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b0c0acdc9c2c",
-    "title": "新宿の地下から脱炭素に挑む。55年進化を続ける巨大プラント「新宿地域冷暖房センター」とは？ - tokyo-gas.co.jp",
-    "category": "自治体",
-    "accent": true,
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "time": "6:08",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxdUhNVDlxTml4SDE4NnBBd2ExS1BJZDdlTkF4V1NVeTgtc2lLaHVFeDdFbmNwMnFvWkJkQkRnUE5RTGl2NXVpbF9fbzVUUDR4dHJEeVlzZUlSTkZfVU45M1FibHNtdEhiTFd0QWRR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fc52c76e782f",
-    "title": "京都市「資源循環・脱炭素化の推進等に向けた連携に関する協定」を締結",
-    "category": "自治体",
-    "accent": false,
-    "source": "prtimes.jp",
-    "time": "6:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tTWpIU3p4RlM5dkpZQlhaaGFHeGlXa0JyMzk4NTR3V1loaVduQ2RiTXo0UmpHckE5VDJ4THppeTdHYlQ0Wk9qby1lODVqOG42ckRJTWwxZ2ZzendncG9lamNtQjZjUzZOQlE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c7ce70638c58",
-    "title": "EVエコホーム、耐荷重の低い屋根でも導入できる「薄型軽量太陽光パネルサービス」をリニューアル。ドローンによる非接触洗浄オプションも新たに開始。",
-    "category": "その他",
-    "accent": false,
-    "source": "prtimes.jp",
-    "time": "6:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BTWJnVnRBRndxdDIzc1NudElqRkNiMV9LMlFfNm1HR0ZmREZraTZ1dE9LbGdsZ1lOeHZkSnZzMmZHWlBTRnFmb1hrcFMzYjRsZ2QwTWZHa1Q3NC1CS0VwQmVud2lXVnQ5dEE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-015d2824962f",
-    "title": "オイレス工業[6282]：フランス沖の浮体式洋上風力パイロットプロジェクトに製品供給 2026年8月6日(適時開示) ：日経会社情報DIGITAL",
-    "category": "国際",
-    "accent": true,
-    "source": "日本経済新聞",
-    "time": "6:00",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdDNLMFo1SEEwanpnQ3VXNERsZjNYMWtxMHU3UllKZnE1R0NFQk5EOUdrZEpBZDI0WmtpdjNIcGtFeXhVXzVyRWJ0dE9tTUFDY3R2MkFJOFRFbjF2ZXVBNExvTXNoVXlZMXBSMlBzRmowWXZRWUdNUmhTM2JLUzRBd1JpUXBqZmN5ZkxGSUwyTzhaYWg1SHJLWU9WS0s1MVlqSXM1U0RSelVVS0ZsRWhuWFVoa3pIcWVjYm1XbzgwX3VOdHNqdTYtNTVKT1o?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4088a8e11dbf",
-    "title": "【市長フォト】J−クレジットを活用したカーボンニュートラルに関する連携協定締結式 - city-nakatsu.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "time": "5:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lMTFlNk41dm52d3RsR1V2LTRLMlJ4THI5dlctM3FYSVFrcFFVNUE1bGFGZ0x2TEd4bk9aRTl0ZFpZQ3BOQWI3XzlVYnZrMmxpdmhqNndvems5bDVMbHRvVEQ3cw?oc=5",
     "image": null
   }
 ]
