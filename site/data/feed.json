@@ -1,32 +1,112 @@
 [
   {
+    "id": "auto-50fb4aba7ea8",
+    "title": "～災害から助かった命を守るために～ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
+    "category": "暮らし",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "21:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000164452.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/164452/18/164452-18-013eeb8ed1f5414dc16c79a6a0b6a855-1529x767.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-b709831ede3f",
     "title": "「国の借金」1346兆円、過去最大を更新 6月末時点 - 日本経済新聞",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "はてなブックマーク",
     "time": "18:28",
     "source_url": "https://www.nikkei.com/article/DGXZQOUA104Z70Q6A810C2000000/",
     "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3438036010082026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;fp-x=0.48&amp;fp-y=0.67&amp;h=630&amp;w=1200&amp;s=7524d5f08bde951b68430525453854f6"
   },
   {
-    "id": "auto-3ddeef533b56",
-    "title": "【速報】BYD、新型軽EV「RACCO」発売2週間で累計受注1,000台突破",
-    "category": "企業",
+    "id": "auto-2bcf34972a7d",
+    "title": "TAOKE ENERGYが開発した蓄電所が一次調整力市場での運用を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "12:18",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzeHdvOUVHc3gyVGQ2U1F0Q2twRWxHTkY4cWIwUEFXS0puMEpNallCLVRfcF9tODdoZjl2aER1dExQdWFFVnRPMWpxXzYwQ1kta0c1YXdvZjhubXlwdEd3UkdqMi1sWVVrM1ppLXNOSTJhMHRHcTc0eVZrQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f95166c15e6c",
+    "title": "【JPIセミナー】（株）竹中工務店「脱炭素まちづくりを実現する 建築・都市GXの具体戦略」8月26日(水)開催",
+    "category": "自治体",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "12:15",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vLU9kVW1WbXVLOW5iLXRncGwybEItYjZhSUh2c1U5YmVMRFJ6Rm8zalJQaGVEM3hFOVpDcmtCNmRRWHRZOV9lM0x2MnJBNE9TMWE2cEp0QWpnT2UzbnBLZ3lqVDc2YV8x?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-22b6844d9a34",
+    "title": "脱炭素に向けた次世代のガス「ｅ－メタン」商用化へ！長岡市で実証運転が進む世界最大級の設備を公開",
+    "category": "国際",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "16:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000244.000043078.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/43078/244/43078-244-74c24f4f1637dc0391d12cf6e375d838-1200x900.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "47NEWS",
+    "time": "11:25",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAybVl2enptUVFPOERrYkhia2xrQ1lWSkJyUnJsU2pKemoyVk1EN1JTUWx2UTJIU0JtUEE5anE1dUpDbjdIdHFpZkNGaw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-05cf5a95f3fe",
+    "title": "物流連、GX排出量取引制度の対応策を共有",
+    "category": "その他",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "11:12",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YRk43MDNCLW5rcDk1RzQxRnByaUI2TXJWMHdCSWt2U0JmSERrTXVhUlNTWks2RnluQmI2Q1dYM2xnSmg3dFRocw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bba6285524ba",
+    "title": "小池都知事「議論よりもアクションを」: 政府に再エネ拡大を訴え",
+    "category": "その他",
+    "accent": false,
+    "source": "alterna.co.jp",
+    "time": "10:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Vb3dqaXlBWl81V1ZiVWE2ZXc2N2V4MUFxNU9ROVhJaU9OLURUN0FIUFJFcUpOY2FiMVhZbzhkcGZnSVg2bXdpag?oc=5",
+    "image": null
   },
   {
     "id": "auto-f0e1f5241626",
     "title": "太陽光発電所で電線ケーブルを盗もうとした疑い ベトナム国籍の男2人を再逮捕 愛知県内で同様被害約140件",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "au Webポータル",
     "time": "10:26",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41c1ZSZFlTUnRkZTNlaEgyVWFKMGswWnctSDJuTzlUTWJDOGhiT2JaYWg1SjFjZmQxT1hYc0w0MW5mUXVFeWFCRU5hRHVUaUp2bHlBeGZ5OTdhZnhueFd0UnljaG1OdjZHWkw5UURB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-68f2b5d228cf",
+    "title": "【カーボン・クレジット市場】11日開設 脱炭素へ二酸化炭素排出量を売買 Stub Hub (Py7nanFbhB)",
+    "category": "その他",
+    "accent": false,
+    "source": "Mshale",
+    "time": "10:12",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1udVByUkhucGRKeGxONUFULWhWVDF6THpmc1p3LTg2Ni1RWHFhWHhzOUtZVW5EYTRwZzRMcTVZMEF2SnhIajJsZ044TWZMSHpUS29nZ3VHcVQ1SUk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-de3e2445e572",
+    "title": "水素燃料電池開発からサプライチェーン構築まで。大熊町で未来のエネルギーを切り拓く挑戦 OKUMA TECH・李顕一さん",
+    "category": "技術",
+    "accent": false,
+    "source": "TOKYO FM",
+    "time": "9:49",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5OU1CZ3dCX2VocUZGdkpneTZoRDQtSnBhQTZzUExfZmxidGFXUm5LVURfR3ZCNGlWak1LQzh0b3VGc1ozTkU2bjZ6MGFKTjNK?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2708f18fea29",
+    "title": "「パーソナルクーリングボックス」や水素発電バス 避難所で暑さ対策支援 熊本・宇城市",
+    "category": "技術",
+    "accent": true,
+    "source": "ABEMA",
+    "time": "9:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SNHlXWEU5Wkp5VVlWVndrYWlIR1B6X1E5ck5vOWdvRDdsRExNdlVlTE53TEVkMGl1V2ZycWZFV0NBa1RHX1FkZlQ4LWFrWE9xbG5QOXhPQzRFZW8?oc=5",
     "image": null
   },
   {
@@ -37,16 +117,6 @@
     "source": "note",
     "time": "9:21",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uMjQya3VZczZXdDJodFl6ZG9XTkt2U2JGTUp5X2FnTDZTN2FMSXJ2cmszalJlZUw1Ym5aQUxDUWFZVTl0YW45Z3VEWERwWUNuVDQyanhROA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0ad7499b9ac9",
-    "title": "【調査結果】上半期データを集計！家庭用蓄電池人気メーカーランキング",
-    "category": "暮らし",
-    "accent": true,
-    "source": "時事ドットコム",
-    "time": "9:16",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDWkVtZW9OQWZybDFxd1Q3c1ZudmM1bWxHTHNMOUtqMEc1cFJFZDdtLVd6OTlCdllVVnZJaUY4dUY0OFBlUVZuVXQ3eWQ2a2Q1ZnVUZlVCSl9xZzYteXhLTTlad0tOOVYyeEQ4?oc=5",
     "image": null
   },
   {
@@ -63,7 +133,7 @@
     "id": "auto-85ea237c81fa",
     "title": "産業用浮体式太陽光発電システムの世界市場（2026年～2032年）、市場規模（ポンツーン式浮体式太陽光発電システム、モジュール式浮体式太陽光発電システム、係留式浮体式太陽...",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "アットプレス",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlMlJVME84Y2Jva212aWYya0ZVZEl0NWJBRFhuRlYtdkVLMjRPdDFPVDJmMWVHMU9BQ1FwMWlEa2Rza1lUOEVMbExERlA3VDg?oc=5",
@@ -73,7 +143,7 @@
     "id": "auto-f75819b6fa06",
     "title": "住友商事、英国の洋上風力事業に参画 浮体式へ初の出資",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "日本経済新聞",
     "time": "8:51",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UXo2VjBQY3ZIUXdMVVcyZU1JS19uRWotTUdWU3hPbmxreno5VE9GdlJQQXRjOUJHQ0dFZWFYMVRWanJvd0lnSmV0elN3Z2c4c2kyNzVMd1RYM1BEdTZoR1ZONkxsVHBPa3k2Mg?oc=5",
@@ -93,7 +163,7 @@
     "id": "auto-94d368acd413",
     "title": "電気を購入する時代は終了！？東北銀行が太陽光発電で起こした「エネルギー地産地消」革命",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "DXマガジン",
     "time": "8:30",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtOXgxOUNzMEdkNTdmQ3lsS1R6Sjh3SHRBdDVJa2xTTlB2TV80NkptSFJ6V1JVSmhjTFhabHNCNFV1c3BXM2x1RzBONWdGeU9W?oc=5",
@@ -103,40 +173,30 @@
     "id": "auto-a188527ef0da",
     "title": "住友商、英国沖の浮体式洋上風力発電事業に参画 株式33％取得｜Infoseekニュース",
     "category": "国際",
-    "accent": true,
-    "source": "news.infoseek.co.jp",
+    "accent": false,
+    "source": "Infoseek",
     "time": "8:29",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54dDRMMk1DQjFzWHhvcGdSNjBJWHowNXQxQzd5ak00WlZQeV9IUnZBcnZkYmVWbkdaVnVWOXQwQzEyMzVNUXNEbzh3SFVVVE1wem9sNHdjdHlEaW1wOUVuX0tNMVpaOVAwVklIYXR3?oc=5",
     "image": null
   },
   {
     "id": "auto-13cc77573468",
-    "title": "住友商、英国沖の浮体式洋上風力発電事業に参画 株式33％取得",
+    "title": "住友商、英国沖の浮体式洋上風力発電事業に参画 株式33％取得 (ロイター)",
     "category": "国際",
     "accent": false,
-    "source": "ｄメニューニュース",
+    "source": "Yahoo!ニュース",
     "time": "8:29",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaFRPQVBIdy1mYnU3NV9hZFI1Rl9CQTFHSGhnbTZjcURNc0Z1QmxlN2IyZHZKREx4Y2lnT0YzTFNKdGs1UVV4cWhBSnRzOGJfYmpqY3ZLNFJlOTBHVkt2S0NLMHBSRTBJZFZwTHR0eDhoYVVCT3otbldLSWVFVkJnaHFsUTZDeWfSAYcBQVVfeXFMUGhUT0FQSHctZmJ1NzVfYWRSNUZfQkExR0hoZ202Y3FETXNGdUJsZTdiMmR2SkRMeGNpZ09GM0xTSnRrNVFVeHFoQUp0czhiX2JqamN2SzRSZTkwR1ZLdktDSzBwUkUwSWRWcEx0dHg4aGFVQk96LW5XS0llRVZCZ2hxbFE2Q3ln?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUpLaWlNY1Q3SHl3U1lhZFhMWGtjSWU2WUJHNkJBeUtuckdFNUYxVGpvcXl4NGZpd2hJdjBmVG5nUzc4Wmh5UEJRdF9wLUpKRjY1ZWZISXV4TmZYMHlwLV95bW5QTlBldEhpdEg5SjFiSWM1WFZ3RnE3d2lMR2hjVXJ2Y0lPcnN3TU1Dc0ZR?oc=5",
     "image": null
   },
   {
     "id": "auto-8152ceabb343",
     "title": "世界最大級のクレーン「大きくてすごい」 秋田市で洋上風力学ぶ「臨海学校」",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "47NEWS",
     "time": "8:15",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QdFoydzhWM3Rxc0RfQUFXS0tvWjVNWEVyZXdqb01XUzdzQWRSa0VjY0xZbmcyMUpHb2Q1YWh0QnZER1BtSnF0OU9zWQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-16b696845e23",
-    "title": "プレスリリース：TAOKE ENERGYが開発した蓄電所が一次調整力市場での運用を開始（PR TIMES）",
-    "category": "その他",
-    "accent": true,
-    "source": "毎日新聞",
-    "time": "7:52",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Y01oNVdrTWVlZjJndW1oWjNRcy1QT0FLOWtTUXdFaFdMTGJ5a3lGa0RSMzR4ckp3Z2hjT1FwOFRuSTJkM0VCSzhzM3Y0U3lFY0k3bHktQzFzX1dNZ3hXczVMdlhTQkZL?oc=5",
     "image": null
   },
   {
@@ -184,7 +244,7 @@
     "title": "省人民委員会のグエン・クイン・ティエン副委員長が、2つの風力発電プロジェクトの評価報告書を聞いている。",
     "category": "その他",
     "accent": false,
-    "source": "vietnam.vn",
+    "source": "Vietnam.vn",
     "time": "6:38",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWFXU2R5U0g1aGR2SmxiQ2xFYTdTYXFVRWNXTUt6MkYtLXBkRXFrQVd4c3IyV19OWHo5ZkhIRTl6MlZ4cHQ3V2NKREpGd3JmdE1lY2s5eTI0ck9NSkZlNFFBUVduWUZjRXhpb0hzcGtyS090QTVaeDRxM1cyNjlNQmJ2M3ltb0lNOHMtUm1hTm1USGJGSktyLV90UWh3cS0ycElpUkl0d0U2czRmRUE?oc=5",
     "image": null
@@ -194,36 +254,16 @@
     "title": "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催",
     "category": "その他",
     "accent": true,
-    "source": "イザ！",
+    "source": "PR TIMES",
     "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41blJ0a3pXTnJ2Vk9sODkyc0dBM3RvLVA2bXRXaGJSWHkyOUFobUw4LWUtVlMwcG1GY1pLLU1USDVzWUtQcVVEbDg3OXByNmVoS3hZWmFoMXJLZ2RPZzFMa291UlVLYVBTdzUxOHFLUV9HTmZ0V1I4RmxB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2bcf34972a7d",
-    "title": "TAOKE ENERGYが開発した蓄電所が一次調整力市場での運用を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "6:27",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yOXdtYzlqRzlJc2x6Qm96WkRHWEk0SE02TmJSQkFQa3lGTDJPRW43c1FZXzlQXy0tZ1JlcjNkUGU3dEhmcjQ5eWttVmFwOHRBcGlPTGlTbWloZlNVVlVkWVBZYnYySHVYVHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f95166c15e6c",
-    "title": "【JPIセミナー】（株）竹中工務店「脱炭素まちづくりを実現する 建築・都市GXの具体戦略」8月26日(水)開催",
-    "category": "自治体",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "6:10",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZnNRcUQ3cnBCRzNqT204WFhfZ1BXM2VMdXpQTTl3bEtFS3dyb09YemdhTXU2b2lNeE5VRzBJcXJlOFF1cmlQOGRoZDBKcXhDS2xPQkc3MEd0SkQ0YU15X2RUQnhHbGNwbkE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVEJRUm1HM2ZCdXlxYTAwdjdZclFxTm5qa0FKai1wNkYzLS1OcDV2WUFLUk9yd1p6V0xJb1FaNm5KSGFXQXpYVzRXUE1BeGVhLXNzSl9BZm1lRjlBQ1kzZ1phSkszeFdIOHc?oc=5",
     "image": null
   },
   {
     "id": "auto-5cfbf8e31ee0",
     "title": "石油元売り3社、四半期利益好調。電力市場では再エネ・蓄電池投資を本格化 - d-sharing.jp",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "検索: 系統用蓄電池",
     "time": "6:08",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWFhmcS00SWJvX0swNUt5UHRQaUhHOHlTUVZZMlFjcVE2TE83UkpWUDR4ekp2Tkdhem9IbFk4LUFmYkpHRk14akotcHc3aktfWnFNeWp1OExxUQ?oc=5",
@@ -243,20 +283,10 @@
     "id": "auto-544d4623b095",
     "title": "法廷で取り調べ映像1時間余り再生 元特捜検事「検察庁を敵視するのは反社やん」 太陽光発電会社社長が訴えた国賠訴訟",
     "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "5:17",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DTDBBWlB1ck5HRzBORjJPU0F2T21ESDk5VklYZF9DcjR2SDI2elEyMUJLRkotZXBjWEdSV2Ita3ZmR1I2dGI4dno4Y19pQ1A5UFFSbXAyZ0RnRHlEb19WcG1kb2VmSlBaZmg5aElB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c5ec6f470dbe",
-    "title": "松浦地点におけるCO2分離回収・液化・一時貯蔵・出荷設備の FEED（基本設計）を実施します | プレスリリース | ニュース",
-    "category": "その他",
     "accent": true,
-    "source": "jpower.co.jp",
-    "time": "5:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oZTNUM09EbXFjUTFzdWdldlRrX25idlNWY3hJV0x6WUtSMUttVzNOb0xpSWtwOWZ3UkxURTRNaVNrRmxLcExOSC1NVHpwVWJLWTZCQzZpakc5REpvbFR4MkJOZw?oc=5",
+    "source": "ライブドアニュース",
+    "time": "5:14",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JUE1lb0R5VVBXeTdWTmYtZVF0Y3hkaTVHLXZ4SExZMzVSb0ZTbmR5RnMxTk1kME9Cdlc4TUhFYXRlWWxHR0hKM01CMWhaNVdmSEZjYnpmd2FmdGVRTlE?oc=5",
     "image": null
   },
   {
@@ -267,36 +297,6 @@
     "source": "アットプレス",
     "time": "4:30",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JX1JMa3prNU96WTJSa3NUSktmWDNKTkVzZjlVNWt0SHFsU0swTUJGYnA0NU1Jak9Ed2c3R3RmMEZ5RkZvTUhGeDhjeUVVTUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-58457c947b59",
-    "title": "ニンビン電力会社は、屋上太陽光発電の開発における先駆者であり、省のグリーン成長目標の実現に貢献している。",
-    "category": "その他",
-    "accent": false,
-    "source": "vietnam.vn",
-    "time": "4:16",
-    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkpha1U3SFBBM1ZTejdkNTJyRXdscW9Xbk9CNkl0WHNvcjFJMjV4S0s2SlQ2Q3Q1dkNpZS1JcGNqa21tOFFiRFl2ZW41dUpoLUM5cFZaQUhSdW0wQ1FoWFh5MzhRTUlyWDBzUm10aF9UTjVNSEpwZURwRllJaEQ2RGpxdVd1S3RlajF1NnVaaVJLMjBNLUNpOEVFYlJVNnRFLXpLd2wtWXcyenJ3TVhwYjlzd3hUWHhKdHhzQWVIN0xmQThseG9mamxDY05DeF9EMmw1VWZPclA1c0JRUHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-46444ff6c54e",
-    "title": "小型風力発電装置業界動向：2026年の市場規模は510百万米ドル見込み",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "4:04",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oVEktUU9mdWhwdFFRQlBCUUtlZmFiaEVHY2MwY01zUzZzcGM0aFVkUlUtUUN0R3BrQWVma3A0ejRnbUVKRUZLZktYWHJTVUpiZ0JGa0Jqbl92a1BxbHdJQ2ZPOUZ4X1duMEZOM292b2lSX3E2Wmp5b1Nvdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6b2a1acfba0b",
-    "title": "Zeveroがユナイテッドアローズの温室効果ガス排出量算定を支援、AI活用でScope 3の精度向上へ",
-    "category": "その他",
-    "accent": false,
-    "source": "コマースピック",
-    "time": "3:17",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pSlZpczZFQWxQZG5CTF8wQjFtUXZQUE9rdUdmSU1JRGdQSXdyTHBIdno0R0FYUTNidkFPZ0pDZWhFMHFSQU1GdjU5bnBJal90Y2xva0lhdw?oc=5",
     "image": null
   }
 ]
