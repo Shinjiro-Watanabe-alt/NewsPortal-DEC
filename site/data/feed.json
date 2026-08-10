@@ -1,23 +1,33 @@
 [
   {
-    "id": "auto-50fb4aba7ea8",
-    "title": "～災害から助かった命を守るために～ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
-    "category": "暮らし",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "21:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000164452.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/164452/18/164452-18-013eeb8ed1f5414dc16c79a6a0b6a855-1529x767.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-b709831ede3f",
     "title": "「国の借金」1346兆円、過去最大を更新 6月末時点 - 日本経済新聞",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "はてなブックマーク",
     "time": "18:28",
     "source_url": "https://www.nikkei.com/article/DGXZQOUA104Z70Q6A810C2000000/",
     "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3438036010082026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;fp-x=0.48&amp;fp-y=0.67&amp;h=630&amp;w=1200&amp;s=7524d5f08bde951b68430525453854f6"
+  },
+  {
+    "id": "auto-0ad7499b9ac9",
+    "title": "【調査結果】上半期データを集計！家庭用蓄電池人気メーカーランキング",
+    "category": "暮らし",
+    "accent": true,
+    "source": "ニコニコニュース",
+    "time": "14:21",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SUWUtYVVXNXFJM05QTVNoQXlMZWkwNmtKT21zRUZKOUtJRl92T0JNNVRadDk5V1dpc0pmTURORXlleVJCU2xMeUdOY0ZnLWRZRDBuXzhLWkNHV0lqbzYxc0w2US1acTEzRmxtUmxqS0o5aWxsWWlQSWtXSQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ec67457025f8",
+    "title": "物価高騰対策臨時脱炭素推進家電買換促進事業",
+    "category": "暮らし",
+    "accent": false,
+    "source": "city.tsugaru.aomori.jp",
+    "time": "14:08",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEJPZmhSTE03dmhqQ2NET1hwUWxxb1R0M3ZJOTRDMVFZNWQ1cm9VVGc1Q0QxblNUWVhnTEdKRFhzUTEzdEFZNElNMnV0RUlreHoxbDFRZWJPRUJUcHk0RTNxRUFsMllvbWhqaVZvSHVqaDhuTWxpdndiLU9JZUJFcVVjSVo1ekxYSUlmb1ZB?oc=5",
+    "image": null
   },
   {
     "id": "auto-2bcf34972a7d",
@@ -33,20 +43,40 @@
     "id": "auto-f95166c15e6c",
     "title": "【JPIセミナー】（株）竹中工務店「脱炭素まちづくりを実現する 建築・都市GXの具体戦略」8月26日(水)開催",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "12:15",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vLU9kVW1WbXVLOW5iLXRncGwybEItYjZhSUh2c1U5YmVMRFJ6Rm8zalJQaGVEM3hFOVpDcmtCNmRRWHRZOV9lM0x2MnJBNE9TMWE2cEp0QWpnT2UzbnBLZ3lqVDc2YV8x?oc=5",
     "image": null
   },
   {
+    "id": "auto-f0e1f5241626",
+    "title": "太陽光発電所で電線ケーブルを盗もうとした疑い ベトナム国籍の男2人を再逮捕 愛知県内で同様被害約140件",
+    "category": "その他",
+    "accent": false,
+    "source": "au Webポータル",
+    "time": "12:08",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DX0dWUVNoNEg0X0l4Z0Y5LVhpYUE4Vzk3V1haR0hIY3JnbmhOM2Z0RkpLOWZzWjZ6NkpiM1BJY1F2QkxLMmlaLUdlQTByb21lN2pZdU1vZHNBeVgyUFRCM3hNcFd4VmZhRUdSbkF1SG93aG5IQk9wUQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-22b6844d9a34",
     "title": "脱炭素に向けた次世代のガス「ｅ－メタン」商用化へ！長岡市で実証運転が進む世界最大級の設備を公開",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "47NEWS",
     "time": "11:25",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAybVl2enptUVFPOERrYkhia2xrQ1lWSkJyUnJsU2pKemoyVk1EN1JTUWx2UTJIU0JtUEE5anE1dUpDbjdIdHFpZkNGaw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0a2fb97ce1bd",
+    "title": "脱炭素に向けた次世代のガス「ｅ－メタン」商用化へ！長岡市で実証運転が進む世界最大級の設備を公開 - niigata-nippo.co.jp",
+    "category": "国際",
+    "accent": true,
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "time": "11:15",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAydktURXpJeXhTaXhFS0hoN0RseDNoWmJ1LVpHeGpJT3BnM2FmdThEN2ZJWEdFY3BtZG81c1ZkT09TUjdRYXdZLUFPY3JVM0tMcVdkWE1raWtxWE9SaWc?oc=5",
     "image": null
   },
   {
@@ -70,13 +100,13 @@
     "image": null
   },
   {
-    "id": "auto-f0e1f5241626",
-    "title": "太陽光発電所で電線ケーブルを盗もうとした疑い ベトナム国籍の男2人を再逮捕 愛知県内で同様被害約140件",
-    "category": "その他",
+    "id": "auto-62f57bd02783",
+    "title": "（前編）ENEOS大変革の核心：JX金属分離と「脱炭素シフト」戦略〜巨大エネルギー企業の未来と財務を徹底分析 Tout Le Monde En Parle (LDaclKlDKz)",
+    "category": "企業",
     "accent": true,
-    "source": "au Webポータル",
-    "time": "10:26",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41c1ZSZFlTUnRkZTNlaEgyVWFKMGswWnctSDJuTzlUTWJDOGhiT2JaYWg1SjFjZmQxT1hYc0w0MW5mUXVFeWFCRU5hRHVUaUp2bHlBeGZ5OTdhZnhueFd0UnljaG1OdjZHWkw5UURB?oc=5",
+    "source": "Mshale",
+    "time": "10:31",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qc0FmczhPWkRHSTJ3YjZJLUxZRy1TcDBzSkJ0TzRIXzN6LXBWdHZBRHNkbndLZjF6MVBIRjdERDFWNUlhLWFXd1Q0VS1FSkM5elU3dV9ybURuU3M?oc=5",
     "image": null
   },
   {
@@ -174,7 +204,7 @@
     "title": "住友商、英国沖の浮体式洋上風力発電事業に参画 株式33％取得｜Infoseekニュース",
     "category": "国際",
     "accent": false,
-    "source": "Infoseek",
+    "source": "news.infoseek.co.jp",
     "time": "8:29",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54dDRMMk1DQjFzWHhvcGdSNjBJWHowNXQxQzd5ak00WlZQeV9IUnZBcnZkYmVWbkdaVnVWOXQwQzEyMzVNUXNEbzh3SFVVVE1wem9sNHdjdHlEaW1wOUVuX0tNMVpaOVAwVklIYXR3?oc=5",
     "image": null
@@ -184,7 +214,7 @@
     "title": "住友商、英国沖の浮体式洋上風力発電事業に参画 株式33％取得 (ロイター)",
     "category": "国際",
     "accent": false,
-    "source": "Yahoo!ニュース",
+    "source": "news.yahoo.co.jp",
     "time": "8:29",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUpLaWlNY1Q3SHl3U1lhZFhMWGtjSWU2WUJHNkJBeUtuckdFNUYxVGpvcXl4NGZpd2hJdjBmVG5nUzc4Wmh5UEJRdF9wLUpKRjY1ZWZISXV4TmZYMHlwLV95bW5QTlBldEhpdEg5SjFiSWM1WFZ3RnE3d2lMR2hjVXJ2Y0lPcnN3TU1Dc0ZR?oc=5",
     "image": null
@@ -200,30 +230,40 @@
     "image": null
   },
   {
+    "id": "auto-8d926c530de1",
+    "title": "TAOKE ENERGYが開発した蓄電所が一次調整力市場での運用を開始｜Infoseekニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "news.infoseek.co.jp",
+    "time": "7:45",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMDk1WlVLejZWbk93SjFkY0JmUU9CU3h1UFRVd2M0UFBXX0tOS3Z6TWhzTWJQZTZIaEZGLWJxZkN1WFlBSVN3b0tEaFFOSGFGMUxYUkJEdkxsVEY0cXJMUW1NbDZGdk1EWFU5TF8xRTk3Zw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-c2c732ef00b9",
     "title": "田原市内の太陽光発電所の電線ケーブルを盗もうとした疑い ベトナム国籍の2人を逮捕",
     "category": "その他",
     "accent": false,
-    "source": "Excite エキサイト",
+    "source": "excite.co.jp",
     "time": "7:29",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1POTVyTG5zOXpUNlNmN1pnTGY0VFR1ckxhcDhSSWhIN0U2OWFicGdLOG04VGR5WFZFT0tzUGdiaEVnbmVhTUdPdUN2TGRHeTE4VHczM3VDZ2EyTWVhOU4wU0xVcG9nYnd3SlFWemNwbUlvem8?oc=5",
     "image": null
   },
   {
     "id": "auto-8635181f2d87",
-    "title": "住友商事、英浮体式洋上風力発電会社グウィント・グラス株33.3%取得(Bloomberg)",
+    "title": "住友商事、英浮体式洋上風力発電会社グウィント・グラス株33.3%取得（Bloomberg）",
     "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ファイナンス",
+    "accent": true,
+    "source": "news.yahoo.co.jp",
     "time": "7:12",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemo0TklKSDBKZmNtWU1WOFhFc0V1R29GcHFBX0xjX1NMb1BXUDQyd05ORGYzS0dYX0RtRzU1enFUSEtmc0RNeGpRblpVay1vZEpFai1HTkIzV0QwTFJ5Tk5CUkxCeElVLXZKeHEzc2RBWGF4cnN5TVVQT2k2aDhsVHNQYVF3X28?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04TTVicTc2QXIwVVBMR0FRVzYwb0RIWFRBRVRsaFRWSW1uQ1ctZm1iMUVSNkZrRWpPSERzb3d2LXl0d1QwcVZWZ0NOVmtVN0pidHNLeUxLNnlqYzFLc1U1WHJGNzc1czRDYWsxbTlTcVRLdXRudkduZEFheTJhTkE?oc=5",
     "image": null
   },
   {
     "id": "auto-f8e59daac9c4",
     "title": "「洋上風力」産業集積が始動する…政府、支援策具体化へ",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニュースイッチ by 日刊工業新聞社",
     "time": "7:04",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15M3BnRDFRMTY0T05vZGkzdWV5NThYM0poLWMzQlR1b21CTE9rS3FvSFNGNjJ6THFOa1N3ZW5hMVhsUQ?oc=5",
@@ -237,16 +277,6 @@
     "source": "sumitomocorp.com",
     "time": "6:42",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01UHR6eVZoaU9MSkRXUFJDVWJCOFhwWWJIeE5OYXlYdWp2ZkVCWU1Hekw1R0g5dVRNLWpNZzVRX1hjNmJ6TVFZMDF2TlJsaDlRM05Md25WSDkzYVpvblFqSE9leTRfUGM4MmhsX1EtaXByZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-29b0fb7234cc",
-    "title": "省人民委員会のグエン・クイン・ティエン副委員長が、2つの風力発電プロジェクトの評価報告書を聞いている。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "6:38",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWFXU2R5U0g1aGR2SmxiQ2xFYTdTYXFVRWNXTUt6MkYtLXBkRXFrQVd4c3IyV19OWHo5ZkhIRTl6MlZ4cHQ3V2NKREpGd3JmdE1lY2s5eTI0ck9NSkZlNFFBUVduWUZjRXhpb0hzcGtyS090QTVaeDRxM1cyNjlNQmJ2M3ltb0lNOHMtUm1hTm1USGJGSktyLV90UWh3cS0ycElpUkl0d0U2czRmRUE?oc=5",
     "image": null
   },
   {
@@ -267,36 +297,6 @@
     "source": "検索: 系統用蓄電池",
     "time": "6:08",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWFhmcS00SWJvX0swNUt5UHRQaUhHOHlTUVZZMlFjcVE2TE83UkpWUDR4ekp2Tkdhem9IbFk4LUFmYkpHRk14akotcHc3aktfWnFNeWp1OExxUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2f63a9ad6516",
-    "title": "【JPIセミナー】「Scope2改定を見据えた電力分野の時刻別CO₂排出評価の最新動向」8月25日(火)開催",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSN04yS0M1SmtyMHVYcmFuUTdCVWJ0c3I5ajhsNjM0X1YyckIyMUdsVGhGSXpPOHFQTkpjWnpRNXo5QTBYeDY0S1c5UlhyZ1J3a1BrTmUtZ1pRSlRVTV9jSTVLTmFuODhVMUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-544d4623b095",
-    "title": "法廷で取り調べ映像1時間余り再生 元特捜検事「検察庁を敵視するのは反社やん」 太陽光発電会社社長が訴えた国賠訴訟",
-    "category": "その他",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "5:14",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JUE1lb0R5VVBXeTdWTmYtZVF0Y3hkaTVHLXZ4SExZMzVSb0ZTbmR5RnMxTk1kME9Cdlc4TUhFYXRlWWxHR0hKM01CMWhaNVdmSEZjYnpmd2FmdGVRTlE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-45a77822da85",
-    "title": "水素電動フォークリフトの世界市場（2026年～2032年）、市場規模（",
-    "category": "技術",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "4:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JX1JMa3prNU96WTJSa3NUSktmWDNKTkVzZjlVNWt0SHFsU0swTUJGYnA0NU1Jak9Ed2c3R3RmMEZ5RkZvTUhGeDhjeUVVTUE?oc=5",
     "image": null
   }
 ]
