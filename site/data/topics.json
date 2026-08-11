@@ -16,99 +16,99 @@
     "summary": "[GoodWe Japan株式会社] GoodWe Japan株式会社（本社：東京都中央区、以下「GoodWe」）は、産業用太陽光発電向けパワーコンディショナ「GT・SMTシリーズ」について、TCP/IP及びWi-Fi、Bluetooth、USB等外部通信機能を非搭載とし、通信イ…",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "8/11(火) 9:45",
+    "time": "8/11(火) 16:10",
     "comments": 0,
     "source_url": "https://prtimes.jp/main/html/rd/p/000000019.000167163.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/167163/19/167163-19-0572b8755cb2353c8d5f9afd77f98564-1043x537.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-ceb52166133c",
+      "id": "auto-ed8de37be944",
       "rank": 1,
+      "title": "中国鉄鋼業、脱炭素化を加速",
+      "category": "国際",
+      "source": "AFPBB News",
+      "time": "8/11(火) 6:50",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMXFzYW1NaFhtR292TjRLVjBfMlN5X3pxUEVNcXlTTkw5QW5pVlAyUzRjd3pPZGp3ZmRWLVBudkQwQXlwWnYzLWdDRDBra3E0cFHSAVRBVV95cUxQR2hISjljQVloUEpDX2had1JYMXYya1QzYngtdERUaUVUaW5jWUlhS0FsQV9FZXB4dzRzVzBnZ1h4VG92aGlTMkJDQzRjRXBocFlBY2Q?oc=5"
+    },
+    {
+      "id": "auto-1fd17b00b6f7",
+      "rank": 2,
+      "title": "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準",
+      "category": "技術",
+      "source": "BigGo ファイナンス",
+      "time": "8/11(火) 5:55",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oejRhNWpadFNxWU01QU41RUd0UDRVQ2VpTWp0YzVtdUxFZF9qS1kzRmJGOHkzU0w5aXI2VVUxOXlGaE1zZ29lUXNkTEVwR29HOXl3NmJoelFmdVozenZrYzZZX1d3SUw5YjI0N01fT0UzQ2dv?oc=5"
+    },
+    {
+      "id": "auto-abff41c58624",
+      "rank": 3,
+      "title": "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。",
+      "category": "暮らし",
+      "source": "vietnam.vn",
+      "time": "8/11(火) 5:54",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONE5tQWpreVBCYVVZVl9abVY1T3doUG8zekl4NmZxNGt1UWEwdkxSZ2lGX0owY1diVWZQSWJoMFVmMVRhU2wtQVh6MEJwdEhyc2tYME1Ud2tldzU2YWk1bEkxMTBySDhHaTY3UVYwZ1B3UC0xMF9Pc2p1ODBvVjN6WlB5Nm1SMEtaTWFaUmFOclB3dHg3WS1nLVlZRFp6TC1SbE0xc1RqMXc?oc=5"
+    },
+    {
+      "id": "auto-447f79b01764",
+      "rank": 4,
+      "title": "Shinsung E、金堤工場で高出力太陽光モジュールを量産",
+      "category": "その他",
+      "source": "digitaltoday.co.kr",
+      "time": "8/11(火) 5:25",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWZJcWx6dkQxY1o5OE51emtvS3F2eDNEelBrZ2NRUGxHZGQzTnJnby1IUHJaZWlEUjVQYnpXRzV1QVZhSXBWZWFvaXVyUTVjeEk2LWNKVm8yQ19nVDk5M3F4bGlRNU8wZXNJNFllLVh5Ql9wVzFOUmtwZmdOVjVETDFZOHZHX0ZUZm5mdUlPZEZhWEhVN2pXY3RmYTZZakZSUERwWUJRUFBkVTVqU0JyS1Y5QkxZbXAxZ3A0LXFJVDNidTYx?oc=5"
+    },
+    {
+      "id": "auto-0e09d4d170ee",
+      "rank": 5,
+      "title": "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ",
+      "category": "その他",
+      "source": "Forbes JAPAN",
+      "time": "8/11(火) 5:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNHZWLW1pQ2VyME1uNUdpTVZEbzhyVzczaTY1X2syUV8zUjRmLS16cUloZjFYb08tZ3BEelV5OUptWi1sY2J4eTRXV3hteU9nUVhuVUZTaWRWZw?oc=5"
+    },
+    {
+      "id": "auto-eb7f9ffb863b",
+      "rank": 6,
+      "title": "Viettelの太陽光発電量は24.8%増加した。",
+      "category": "その他",
+      "source": "vietnam.vn",
+      "time": "8/11(火) 5:14",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WSmxLWVpneDc1U2tsajBvRjZlTkJ2UjdlTVFxOUVVYnpWclJudndkd19qdEdxUGdjaERrMFR6WlN1N1pvM05CcGdZQk9ZeWI3cG5WLUlNLTRSTWVta0VKSFM1Q0JxaDVkakZ1R2V0XzZLbWdKUmNhRndKUQ?oc=5"
+    },
+    {
+      "id": "auto-ceb52166133c",
+      "rank": 7,
       "title": "日食はポルトガルの太陽光発電生産量を45%減少させる可能性がある",
       "category": "その他",
-      "source": "Laodong.vn",
+      "source": "ja.laodong.vn",
       "time": "8/11(火) 3:47",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm9IMG9kLXpNMFB6Q0k3bktGOFVqd2RweGtHYkFZUWduUzlWY2pqWmFnbkpVWk5Ba2NCenl4ZVZneUxCYXRXWExjWm5JbVBLZXFZcVJ1TUVmdUU4T1MyY3Y2N0l0OWtrUGZsbUxzWEprMURVTjVrbVZTcHI3RzROZXdvcFg4cG1VQUV2b2lTYTN6NEVvZnJ3ZUpuVnJ5ZHBCanVHa1I0dEZ2V01HUTU2aGFR?oc=5"
     },
     {
       "id": "auto-170dd093c572",
-      "rank": 2,
+      "rank": 8,
       "title": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？",
       "category": "国際",
       "source": "エネフロ",
       "time": "8/11(火) 3:05",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HM3BDc2pyclpheTRYYUZPQk12Qm13NzRZdnRKVHhuQWtkZVdJakZoZTRUZEJxTDNZblpNT1cwdlEzMFcycHRIQWlta3FfUQ?oc=5"
-    },
-    {
-      "id": "auto-071653e809e5",
-      "rank": 3,
-      "title": "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ ：地域ニュース",
-      "category": "技術",
-      "source": "読売新聞",
-      "time": "8/11(火) 2:05",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wOXcwUmtvdzMtU0tZMElnQzN0WnRRVUNsanpvbnJuRk9uTE1pLV8wOTUyTERwY1ZLdEM3cFZtS1c1Mk1SS0FSZGdXN1lTcXRsTnpubUtVQ1hqMGUyNXBzU3hydUpyYUlzVGZDRjI4aWo?oc=5"
-    },
-    {
-      "id": "auto-f6726b1da71d",
-      "rank": 4,
-      "title": "進む汚染 2060年に世界のプラスチック廃棄量は12億トンに バイオプラスチックが資源循環と脱炭素を支える重要な選択肢",
-      "category": "国際",
-      "source": "TBS NEWS DIG",
-      "time": "8/11(火) 2:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSVh6UHRKM0ZtNjR6ekVFWU5JX093UVV5WUE0ZzFXS20yalpLdktJY1ZvX1o1M25vVHE3U1JYWEg4ZFpjdnVNUWJnS1dHSjdrX19QazVnV3dRekNNYTZr?oc=5"
-    },
-    {
-      "id": "auto-5561e969358e",
-      "rank": 5,
-      "title": "【福島県浪江町】国内自治体初!! 水素燃料電池自転車のレンタサイクル運用実証開始します 企業リリース",
-      "category": "技術",
-      "source": "日刊工業新聞",
-      "time": "8/11(火) 1:28",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fc3Q5YUJhR29kd2NLdGxXYUlKUDFhNVBkM2Q5bjcwUXBSb0dibkM1eHZNdXlMRHhHTko5VjhLSTF4MTlBcDR0OUgtMTNrTzFSaFE0ZmMyTGw?oc=5"
-    },
-    {
-      "id": "auto-ffacdf5229cf",
-      "rank": 6,
-      "title": "脱炭素・資源循環・生物多様性。株式会社日比谷花壇が描く花き産業の未来",
-      "category": "その他",
-      "source": "coki.jp",
-      "time": "8/11(火) 0:08",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tenVQWFFES1NaelV1N2dTcEF6UUhGd1ZvUVgxOWtqVE8tYV9LVENwSXJhMC16b0xVbUpOMy02UlNWY19udkVuTlZ6am5LTjJu?oc=5"
-    },
-    {
-      "id": "auto-e7b5b8bdfc28",
-      "rank": 7,
-      "title": "掛川市で太陽光発電資材会社の倉庫から出火",
-      "category": "その他",
-      "source": "静岡新聞DIGITAL",
-      "time": "8/11(火) 0:01",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzbHNRQWlNMXhvNXRBWEF1cTA1eHhWTGZsVExNWXA5MWdGNmFWOUh2LU9nSFA4TzJodlo0empkcV9MMldlLTFIR0xmRGgwdw?oc=5"
-    },
-    {
-      "id": "auto-4b202a6f917e",
-      "rank": 8,
-      "title": "【太陽光発電完全版】メリットデメリットを全て解説します！【総集編】 Rklb (fEIsnhh4Hs)",
-      "category": "その他",
-      "source": "Mshale",
-      "time": "8/10(月) 23:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fbkxfSW1KZHdCU2UySUdZXzlMU0Vmb2pmTmFxVkRRYnhoOElxUmVWTTgzdS1HVm02RlAtMTNVWkVDM0dZQzRJUXpvbC1CcWtIUHR3STV5NG9XSjQ?oc=5"
     }
   ]
 }
