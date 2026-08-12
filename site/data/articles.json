@@ -1,18 +1,285 @@
 {
+  "auto-6765ea1ca8ba": {
+    "id": "auto-6765ea1ca8ba",
+    "category": "技術",
+    "title": "オムロンが低圧太陽光向けパワコンの新製品 大電流タイプのパネルに対応",
+    "source": "ITmedia スマートジャパン",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/12/news075.html",
+    "time": "8/12(水) 14:00",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "オムロン ソーシアルソリューションズは、低圧産業用太陽光発電システム向けパワーコンディショナーの新製品を同年9月下旬から販売する。",
+    "body": [
+      "オムロン ソーシアルソリューションズは、低圧産業用太陽光発電システム向けパワーコンディショナーの新製品を同年9月下旬から販売する。"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/12/l_rk_260812_oss.jpg"
+  },
+  "auto-e1d9e0272295": {
+    "id": "auto-e1d9e0272295",
+    "category": "国際",
+    "title": "再生可能エネ拡大のドイツ、日食の影響で電力価格が一時急騰",
+    "source": "はてなブックマーク",
+    "source_url": "https://www.afpbb.com/articles/-/3648120",
+    "time": "8/12(水) 13:04",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "日食（資料写真、2024年4月8日撮影）。（c）Brandon Bell/GETTY IMAGES NORTH AMERICA/AFP 【8月12日 AFP】ドイツでは12日に起きる日食の影響で、電力価格が一時的に急騰する見通しであることが11日、市場データで明らかになった。ドイ…",
+    "body": [
+      "日食（資料写真、2024年4月8日撮影）。（c）Brandon Bell/GETTY IMAGES NORTH AMERICA/AFP 【8月12日 AFP】ドイツでは12日に起きる日食の影響で、電力価格が一時的に急騰する見通しであることが11日、市場データで明らかになった。ドイツでの太陽光発電への依存度の高さが浮き彫りとなった形だ。 欧州電力取引所（EPEX S..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://afpbb.ismcdn.jp/mwimgs/5/5/1000x/img_55e5cc6ac42725f4c3cd7846aa236c9529871.jpg"
+  },
+  "auto-e4cee39fc3f8": {
+    "id": "auto-e4cee39fc3f8",
+    "category": "その他",
+    "title": "えねこが贈る「にゃんにゃんキャンペーン」で蓄電池の10年延長保証が特別価格の22,222円に",
+    "source": "ニュースメディアVOIX",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53SzZlUXBUUWc0SzVGQVUyQTRLbWJhcEpHZkZKUTZ3WURYVlFqT1E4U1RWYmlVMjZzbTR2cEdRRFk1U1V5Mzd3?oc=5",
+    "time": "8/12(水) 7:44",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "えねこが贈る「にゃんにゃんキャンペーン」で蓄電池の10年延長保証が特別価格の22,222円に&nbsp;&nbsp;ニュースメディアVOIX",
+    "body": [
+      "えねこが贈る「にゃんにゃんキャンペーン」で蓄電池の10年延長保証が特別価格の22,222円に&nbsp;&nbsp;ニュースメディアVOIX"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-9cd27059bc85": {
+    "id": "auto-9cd27059bc85",
+    "category": "技術",
+    "title": "【JPIセミナー】「川崎重工業(株)における分散型電源としての大型水素ガスエンジン開発の最新動向と今後の展開」8月28日(金)開催",
+    "source": "PR TIMES",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3WVVkWmphZ1ZkR3prMHlCX3Vfcm5OQlZzRFlMMU4tLWdGZDRKU1I3LXFOTWJoZnNvRDB3OEota3lxUUliV0tIck1QaVVBNmpkNUtoVmNGR1dOMmZmM3RnbkZWY2hOalJOTXc?oc=5",
+    "time": "8/12(水) 7:30",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "【JPIセミナー】「川崎重工業(株)における分散型電源としての大型水素ガスエンジン開発の最新動向と今後の展開」8月28日(金)開催&nbsp;&nbsp;PR TIMES",
+    "body": [
+      "【JPIセミナー】「川崎重工業(株)における分散型電源としての大型水素ガスエンジン開発の最新動向と今後の展開」8月28日(金)開催&nbsp;&nbsp;PR TIMES"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-4df6f51d7d41": {
+    "id": "auto-4df6f51d7d41",
+    "category": "技術",
+    "title": "中国の水素生産能力、年間5100万トンを突破",
+    "source": "Record China",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FVkRGZ0tNZE5XVkN5eWtXa2R4UXhZa3JoYkQ2blFzT29CWVNKeXpNdDE5YVhRbktuYWpLZGp3bmg1SHFkeWsxNXZJV1N1QUowVlM1MzE1NC1HRU9qVmpLUWFKamlKUQ?oc=5",
+    "time": "8/12(水) 7:30",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "中国の水素生産能力、年間5100万トンを突破&nbsp;&nbsp;Record China",
+    "body": [
+      "中国の水素生産能力、年間5100万トンを突破&nbsp;&nbsp;Record China"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-23067d309ea6": {
+    "id": "auto-23067d309ea6",
+    "category": "暮らし",
+    "title": "日本の住宅用蓄電池市場規模、成長率、動向および予測：太陽光発電の自家消費、VPP統合、家庭のエネルギーレジリエンス",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xcklhLVpCYUUtY1RKMVZJbW50ak5RN2h2SHRWdF9rQnM0aGxLZkJKdVZXUk80U3VHVWUxaGJoSFJLYlo4U2JHZHVyTlc4ZGZvV290MWpGOFB6SE4zN1hUX3Fjelh0V3RyclZNaWJwbzc4SEREVHIwQjVwMA?oc=5",
+    "time": "8/12(水) 7:03",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "太陽光"
+    ],
+    "summary": "日本の住宅用蓄電池市場規模、成長率、動向および予測：太陽光発電の自家消費、VPP統合、家庭のエネルギーレジリエンス&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "日本の住宅用蓄電池市場規模、成長率、動向および予測：太陽光発電の自家消費、VPP統合、家庭のエネルギーレジリエンス&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-adddee6bd128": {
+    "id": "auto-adddee6bd128",
+    "category": "その他",
+    "title": "【JPIセミナー】国土交通省「国土交通GXの推進に向けた具体施策と今後の方向性」8月27日(木)開催",
+    "source": "イザ！",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vemRqN1pnSDgya3BCTnkwTmJoWVNRa2tLMnpwRjdVLUZ6S1VuUkhBQzFzU2tKTGh1STBmbEI3ZGNSQlNoOUxrRERjc1FwMGNRN0R3RGFMZXBpcTVJbDBOV3ZZY01LYkZUdmdidkpEYjhWNTBnSW1zTzRR?oc=5",
+    "time": "8/12(水) 7:00",
+    "comments": 0,
+    "tags": [
+      "GX"
+    ],
+    "summary": "【JPIセミナー】国土交通省「国土交通GXの推進に向けた具体施策と今後の方向性」8月27日(木)開催&nbsp;&nbsp;イザ！",
+    "body": [
+      "【JPIセミナー】国土交通省「国土交通GXの推進に向けた具体施策と今後の方向性」8月27日(木)開催&nbsp;&nbsp;イザ！"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-f44d8d4893bb": {
     "id": "auto-f44d8d4893bb",
     "category": "その他",
     "title": "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進",
-    "source": "時事ドットコム",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2ZtakMzdHlSZm5Ld0x6UjdMZ1B1V3dELXgtV09vUzhYMlVET25XS2tuQU5TbG1qMjFTZmROekRXNXBMSm5qUXd6ZDhROXlwUkFnLTh1bzBqQlBDLVNVbEFFMjdzeEZ4Tkww?oc=5",
-    "time": "8/12(水) 4:15",
+    "source": "天神経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IckN3Szh0c2ZMdnBTVm54SnpiOGhlQ2cwQkQ3LUJ2NkQwSGM4OWRHdlBhUklOLVNGLW0yTW94U1hTQVp4ekRJb1hOVGVzQ010UFdF?oc=5",
+    "time": "8/12(水) 6:02",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進&nbsp;&nbsp;時事ドットコム",
+    "summary": "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進&nbsp;&nbsp;天神経済新聞",
     "body": [
-      "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進&nbsp;&nbsp;時事ドットコム"
+      "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進&nbsp;&nbsp;天神経済新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-71fea66b9d96": {
+    "id": "auto-71fea66b9d96",
+    "category": "その他",
+    "title": "クラダシ、埼玉滑川蓄電所を着工し2026年10月の受電開始へ",
+    "source": "ニュースメディアVOIX",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NNkt6QW53bUZ6cGZ6UWlOd1FLa1ZZdl9tT1QtempHd1h2a3JmMU9Gblhsb2lkTDMwSHktWVpEcHV3MkFFcmV0RTMxdTZQWmQ1RWlr?oc=5",
+    "time": "8/12(水) 6:02",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "クラダシ、埼玉滑川蓄電所を着工し2026年10月の受電開始へ&nbsp;&nbsp;ニュースメディアVOIX",
+    "body": [
+      "クラダシ、埼玉滑川蓄電所を着工し2026年10月の受電開始へ&nbsp;&nbsp;ニュースメディアVOIX"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-30dbfbc5d351": {
+    "id": "auto-30dbfbc5d351",
+    "category": "その他",
+    "title": "クラダシ、埼玉県比企郡における「埼玉滑川蓄電所」を着工",
+    "source": "PR TIMES",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmQWVZWUdIeURVbVloM01RaGNQV3N3bzQ0VHlpMm96aEtoN0xvd3pTcDVEWjd0bzVWYUdvOVItcVB5d0VxQnZJNFFLaTlQYlZoSWFSRmNuZWdXcXJMNHJGQ3hNakkzRnUzTGc?oc=5",
+    "time": "8/12(水) 6:00",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "クラダシ、埼玉県比企郡における「埼玉滑川蓄電所」を着工&nbsp;&nbsp;PR TIMES",
+    "body": [
+      "クラダシ、埼玉県比企郡における「埼玉滑川蓄電所」を着工&nbsp;&nbsp;PR TIMES"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-9dc8e7ec5891": {
+    "id": "auto-9dc8e7ec5891",
+    "category": "その他",
+    "title": "中広核新能源、7月発電量が前年比5.5%減 風力とガスが業績の重しに",
+    "source": "BigGo ファイナンス",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RemJsV2VNVzJ0QzE3bkF5TGhNX19vWFNHN3dxd0tMVG9MbnpqbGFxdjJxU3ZPU1RvOWJjc05DYXFTa1AyT01SOWQ1SFRHN3laTVhXUm9SVk5Qdm9ETFI2V0d1cGFVUV94eTBrMlE0clR0Q1li?oc=5",
+    "time": "8/12(水) 5:25",
+    "comments": 0,
+    "tags": [
+      "風力"
+    ],
+    "summary": "中広核新能源、7月発電量が前年比5.5%減 風力とガスが業績の重しに&nbsp;&nbsp;BigGo ファイナンス",
+    "body": [
+      "中広核新能源、7月発電量が前年比5.5%減 風力とガスが業績の重しに&nbsp;&nbsp;BigGo ファイナンス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-f4a8b5272d12": {
+    "id": "auto-f4a8b5272d12",
+    "category": "その他",
+    "title": "太陽光発電所の保守管理自動化「Nobest IoT」でプレAラウンド1.3億円を調達",
+    "source": "BRIDGE（ブリッジ）",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLRzQzLUhkSm5XRGR2Y0pybWowdzl1SWdFeTRKMW9MbUU5Y25uS0NjRTBpX1I2VF93ajNlWjhOc29ET1JiUTZtbVA2Ympqbk00Vkw3cHoyaEdrVVFXNFRqTGYydFY?oc=5",
+    "time": "8/12(水) 5:10",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "太陽光発電所の保守管理自動化「Nobest IoT」でプレAラウンド1.3億円を調達&nbsp;&nbsp;BRIDGE（ブリッジ）",
+    "body": [
+      "太陽光発電所の保守管理自動化「Nobest IoT」でプレAラウンド1.3億円を調達&nbsp;&nbsp;BRIDGE（ブリッジ）"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-8d8e199a3712": {
+    "id": "auto-8d8e199a3712",
+    "category": "その他",
+    "title": "【特別企画】『お陽さまテックのえねこ』、蓄電池の10年延長保証が“22,222円”になる「にゃんにゃんキャンペーン」を数量限定で開始",
+    "source": "イザ！",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GUG5TRFZjMVlLQXRvcDlTempTdHVqYzc1aGpja1I3VWhRQWxqaFJIcW81emtWSmxadGNCeHpfU0NsbHI5bHdwYnZjLUl1b2pYT2tVdUJCRjlsU0E0eTM4TlotWU1KR1FPZVNVMkRFZW1mUy1hTVE1TENn?oc=5",
+    "time": "8/12(水) 5:06",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "【特別企画】『お陽さまテックのえねこ』、蓄電池の10年延長保証が“22,222円”になる「にゃんにゃんキャンペーン」を数量限定で開始&nbsp;&nbsp;イザ！",
+    "body": [
+      "【特別企画】『お陽さまテックのえねこ』、蓄電池の10年延長保証が“22,222円”になる「にゃんにゃんキャンペーン」を数量限定で開始&nbsp;&nbsp;イザ！"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-79005ca34f8d": {
+    "id": "auto-79005ca34f8d",
+    "category": "その他",
+    "title": "オムロンが低圧太陽光向けパワコンの新製品 大電流タイプのパネルに対応：太陽光 - スマートジャパン",
+    "source": "ITmedia",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yNU1mUDFZTFZWSlRyZ0dVNnktYW5OdmQ1cjVaM08xMGdFUTdfV0pWSklyTXVGWDlzdW1QbHJFWkIyVmdOczZ4bWExVkFZZjQ0ZTRVOVBmd1pQYnNpdHdUZ09acUNDTjQ4M1NvSlhLbGRLYnJN?oc=5",
+    "time": "8/12(水) 5:00",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "オムロンが低圧太陽光向けパワコンの新製品 大電流タイプのパネルに対応：太陽光 - スマートジャパン&nbsp;&nbsp;ITmedia",
+    "body": [
+      "オムロンが低圧太陽光向けパワコンの新製品 大電流タイプのパネルに対応：太陽光 - スマートジャパン&nbsp;&nbsp;ITmedia"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-903484e11ed0": {
+    "id": "auto-903484e11ed0",
+    "category": "その他",
+    "title": "スターシーズ、系統用からデータセンター向け蓄電池を自社開発",
+    "source": "ニュースメディアVOIX",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44QWstOG56bDF0Y3NldzZLVmJEd0pHYWNCREZ2dmQtWl9abXFHaE4xUVJibER5RHliMS1xSXc3bjdGSGVnN2ZyN3hraXVvQzR2UC1z?oc=5",
+    "time": "8/12(水) 4:02",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "スターシーズ、系統用からデータセンター向け蓄電池を自社開発&nbsp;&nbsp;ニュースメディアVOIX",
+    "body": [
+      "スターシーズ、系統用からデータセンター向け蓄電池を自社開発&nbsp;&nbsp;ニュースメディアVOIX"
     ],
     "related": [],
     "collected": true,
@@ -37,6 +304,25 @@
     "collected": true,
     "image": null
   },
+  "auto-c4940b3fe27f": {
+    "id": "auto-c4940b3fe27f",
+    "category": "その他",
+    "title": "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想",
+    "source": "東洋経済オンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVTkI4bkxhZW1VMkRma2phSEltSmRpNk1NNW1xNWxQUDRhRk5kcUJ1bE5Ic240R2k4QVBfRm9SNkhmbl9JVENyQ3QtYThtaW9qYWxJMFQ4bnVTanBHQ2c?oc=5",
+    "time": "8/12(水) 3:30",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想&nbsp;&nbsp;東洋経済オンライン",
+    "body": [
+      "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想&nbsp;&nbsp;東洋経済オンライン"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-741a92506198": {
     "id": "auto-741a92506198",
     "category": "その他",
@@ -56,6 +342,25 @@
     "collected": true,
     "image": null
   },
+  "auto-2a236b6c7368": {
+    "id": "auto-2a236b6c7368",
+    "category": "技術",
+    "title": "日本の水素化触媒市場調査の発展、傾向、需要、成長分析および予測2026―2035年",
+    "source": "アットプレス",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PZmVkdXVXT0VCWktWell3V29MNlhpMkgtWU5GX05jOXBMdUM2TkNPZlZ5b1hJMklyOE9JcUdCZ0xBeTMwTTVWZGNzUGFtR2c?oc=5",
+    "time": "8/12(水) 2:01",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "日本の水素化触媒市場調査の発展、傾向、需要、成長分析および予測2026―2035年&nbsp;&nbsp;アットプレス",
+    "body": [
+      "日本の水素化触媒市場調査の発展、傾向、需要、成長分析および予測2026―2035年&nbsp;&nbsp;アットプレス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-9b3815f43639": {
     "id": "auto-9b3815f43639",
     "category": "その他",
@@ -70,6 +375,25 @@
     "summary": "住商、英で浮体式洋上風力発電事業に参画&nbsp;&nbsp;Economic Media Bulletin Limited (EMB)",
     "body": [
       "住商、英で浮体式洋上風力発電事業に参画&nbsp;&nbsp;Economic Media Bulletin Limited (EMB)"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-0d4006146c32": {
+    "id": "auto-0d4006146c32",
+    "category": "国際",
+    "title": "世界の物流を支える船も脱炭素化へ。実用化が進むゼロエミッション船の現在地",
+    "source": "日本財団",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFelBGaFREcEk4WEdJTENFbExuc1NMLVowWm1xQXJxTm9iek82Z2ZNc3NVcjRlWEt5ZXVpUFRQUi1NUERJSGFEeGZ3ZXlaOTREYUM3X01Vdkx4OXlXaE54eWpydUJ1VFNqZG9felNEY0VTRkNzOWc?oc=5",
+    "time": "8/12(水) 1:12",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "世界の物流を支える船も脱炭素化へ。実用化が進むゼロエミッション船の現在地&nbsp;&nbsp;日本財団",
+    "body": [
+      "世界の物流を支える船も脱炭素化へ。実用化が進むゼロエミッション船の現在地&nbsp;&nbsp;日本財団"
     ],
     "related": [],
     "collected": true,
@@ -108,25 +432,6 @@
     "summary": "CNPlus、Doosan Enerbilityから10MW洋上風力設置工事を受注…47億ウォン（約5億円）規模&nbsp;&nbsp;BigGo ファイナンス",
     "body": [
       "CNPlus、Doosan Enerbilityから10MW洋上風力設置工事を受注…47億ウォン（約5億円）規模&nbsp;&nbsp;BigGo ファイナンス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0d4006146c32": {
-    "id": "auto-0d4006146c32",
-    "category": "国際",
-    "title": "世界の物流を支える船も脱炭素化へ。実用化が進むゼロエミッション船の現在地",
-    "source": "日本財団",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFelBGaFREcEk4WEdJTENFbExuc1NMLVowWm1xQXJxTm9iek82Z2ZNc3NVcjRlWEt5ZXVpUFRQUi1NUERJSGFEeGZ3ZXlaOTREYUM3X01Vdkx4OXlXaE54eWpydUJ1VFNqZG9felNEY0VTRkNzOWc?oc=5",
-    "time": "8/12(水) 1:04",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "世界の物流を支える船も脱炭素化へ。実用化が進むゼロエミッション船の現在地&nbsp;&nbsp;日本財団",
-    "body": [
-      "世界の物流を支える船も脱炭素化へ。実用化が進むゼロエミッション船の現在地&nbsp;&nbsp;日本財団"
     ],
     "related": [],
     "collected": true,
@@ -185,6 +490,25 @@
     "summary": "水素製造用イリジウム系触媒の世界市場（2026年～2032年）、市場規模（高イリジウム型、低イリジウム型）・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
     "body": [
       "水素製造用イリジウム系触媒の世界市場（2026年～2032年）、市場規模（高イリジウム型、低イリジウム型）・分析レポートを発表&nbsp;&nbsp;Newscast.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-f764edac2389": {
+    "id": "auto-f764edac2389",
+    "category": "技術",
+    "title": "バッテリーで飛ぶドローンは30分で落ちる。 この限界を水素で越えるという会社がイスラエルの初の防衛産業ユニコーンになった。",
+    "source": "매일경제",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51QU9VdmNISmtKNnZ6MzN5T2luT0ZBRVpNYnFvNUxITE5pR3hsUmFGV1JZdFBPTjc5RERJNlFOTU94cTlzaTItcmY4d1lRWXA2Vk1xME9R?oc=5",
+    "time": "8/12(水) 0:58",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "バッテリーで飛ぶドローンは30分で落ちる。 この限界を水素で越えるという会社がイスラエルの初の防衛産業ユニコーンになった。&nbsp;&nbsp;매일경제",
+    "body": [
+      "バッテリーで飛ぶドローンは30分で落ちる。 この限界を水素で越えるという会社がイスラエルの初の防衛産業ユニコーンになった。&nbsp;&nbsp;매일경제"
     ],
     "related": [],
     "collected": true,
@@ -282,25 +606,6 @@
     "summary": "深海風力発電用ジャケットの世界市場（2026年～2032年）、市場規模（高強度鋼材、普通鋼材、その他）・分析レポートを発表&nbsp;&nbsp;アットプレス",
     "body": [
       "深海風力発電用ジャケットの世界市場（2026年～2032年）、市場規模（高強度鋼材、普通鋼材、その他）・分析レポートを発表&nbsp;&nbsp;アットプレス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-127d9573d77f": {
-    "id": "auto-127d9573d77f",
-    "category": "技術",
-    "title": "三菱電機、CO2を回収・再利用する技術の平時の削減効果と災害時のレジリエンス向上を定量評価",
-    "source": "LIGARE（リガーレ）",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUTVsak52S3hwd194YW05RjVpZ0ZEWnNsT1Q0S0ZwVzQzcFdfbWhQZnEyaXNIbWoyNU9zMFRsd0JSNFVSRlhsSTc3bExjMWhCUWFybQ?oc=5",
-    "time": "8/11(火) 23:33",
-    "comments": 0,
-    "tags": [
-      "CO2"
-    ],
-    "summary": "三菱電機、CO2を回収・再利用する技術の平時の削減効果と災害時のレジリエンス向上を定量評価&nbsp;&nbsp;LIGARE（リガーレ）",
-    "body": [
-      "三菱電機、CO2を回収・再利用する技術の平時の削減効果と災害時のレジリエンス向上を定量評価&nbsp;&nbsp;LIGARE（リガーレ）"
     ],
     "related": [],
     "collected": true,
@@ -421,6 +726,45 @@
     "collected": true,
     "image": null
   },
+  "auto-73868c2fafce": {
+    "id": "auto-73868c2fafce",
+    "category": "技術",
+    "title": "【次世代エネルギー株】水素・アンモニアに隠されたテンバガー本命！ Car Insurance (7nY4AxJgc8)",
+    "source": "Mshale",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWkZ3Yl8xRW9maUhYaklxOXJSRUVnQ05ST0g4Y0VEVzV4aG8zR0NicHdBT2NFeXV3cGpQRW9GdHN6bU9wdlZLOThSNUVyTXVGQU90eDYzei1YWW8?oc=5",
+    "time": "8/11(火) 21:27",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "アンモニア"
+    ],
+    "summary": "【次世代エネルギー株】水素・アンモニアに隠されたテンバガー本命！ Car Insurance (7nY4AxJgc8)&nbsp;&nbsp;Mshale",
+    "body": [
+      "【次世代エネルギー株】水素・アンモニアに隠されたテンバガー本命！ Car Insurance (7nY4AxJgc8)&nbsp;&nbsp;Mshale"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-a3a7e657785a": {
+    "id": "auto-a3a7e657785a",
+    "category": "その他",
+    "title": "太陽光発電、メガソーラーの真実を話します。エコのつもりで始めた結果…地球に最悪の事態が起こります【ひろゆき 切り抜き】 Manish Pandey (5qGP1zfHdy)",
+    "source": "Mshale",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzNXI3ODBGVlhhQU9lY08ySXRwelFGbzlMVkxXZV9uN0M2dmRURkxrM2lfaVZqejRlUHhFdm5IRExtWmYxM2FueXpxWGFqS0htdHM2RWN0MDI2QXc?oc=5",
+    "time": "8/11(火) 21:07",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "太陽光発電、メガソーラーの真実を話します。エコのつもりで始めた結果…地球に最悪の事態が起こります【ひろゆき 切り抜き】 Manish Pandey (5qGP1zfHdy)&nbsp;&nbsp;Mshale",
+    "body": [
+      "太陽光発電、メガソーラーの真実を話します。エコのつもりで始めた結果…地球に最悪の事態が起こります【ひろゆき 切り抜き】 Manish Pandey (5qGP1zfHdy)&nbsp;&nbsp;Mshale"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-5d781a924789": {
     "id": "auto-5d781a924789",
     "category": "その他",
@@ -440,25 +784,6 @@
     "collected": true,
     "image": null
   },
-  "auto-c4940b3fe27f": {
-    "id": "auto-c4940b3fe27f",
-    "category": "その他",
-    "title": "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想",
-    "source": "東洋経済オンライン",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90dHg4X0dXck9UUVBxdFBDSFdBd0ZiZXNrV3hfV1NoYkFUcEFkYmxrUEJQX1BaandPbWgtTnAzWWY5ekFqTkR0SkdLRUFWRnA5NFNvRmpxVQ?oc=5",
-    "time": "8/11(火) 21:00",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想&nbsp;&nbsp;東洋経済オンライン",
-    "body": [
-      "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想&nbsp;&nbsp;東洋経済オンライン"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-bf5015d7ffec": {
     "id": "auto-bf5015d7ffec",
     "category": "その他",
@@ -473,6 +798,64 @@
     "summary": "どうなる洋上風力、逆風からの巻き返し策は まとめ読み&nbsp;&nbsp;日本経済新聞",
     "body": [
       "どうなる洋上風力、逆風からの巻き返し策は まとめ読み&nbsp;&nbsp;日本経済新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-6c5cb9b3c91a": {
+    "id": "auto-6c5cb9b3c91a",
+    "category": "その他",
+    "title": "主要製造７拠点の再エネ化を完了、製造工程の脱炭素化を加速",
+    "source": "asahi.com",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNOVJTWDJxeVVuMDY4UC04R0gwMHlobGpYN3NYR3czdWg4NnlLMnc1Xzg4NzNWQkptXzJmUXlWeVRSZkNGcHd4Z3JCaW4xVlpuNkhENmZhSEptVUk?oc=5",
+    "time": "8/11(火) 19:20",
+    "comments": 0,
+    "tags": [
+      "再エネ",
+      "脱炭素"
+    ],
+    "summary": "主要製造７拠点の再エネ化を完了、製造工程の脱炭素化を加速&nbsp;&nbsp;asahi.com",
+    "body": [
+      "主要製造７拠点の再エネ化を完了、製造工程の脱炭素化を加速&nbsp;&nbsp;asahi.com"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-2798dbb7510c": {
+    "id": "auto-2798dbb7510c",
+    "category": "国際",
+    "title": "Arctech、中央アジアで太陽光発電事業を拡大 キルギスとカザフスタンで425MWの新規受注を獲得",
+    "source": "BigGo ファイナンス",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04Wk52XzBhMm1LOTZMeEFUYjkxWFQyb2pjWlg3RmZoWnZJbGtBNXRiZS03QXZJeG5wdFJySFZDQTR0ZGROV2I1dW9Cd1ZyNHZJQUJpUFhIbk9hNjlrai04TzBGZTN0eVpSLU1mbXg1NGlCOURf?oc=5",
+    "time": "8/11(火) 18:23",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "Arctech、中央アジアで太陽光発電事業を拡大 キルギスとカザフスタンで425MWの新規受注を獲得&nbsp;&nbsp;BigGo ファイナンス",
+    "body": [
+      "Arctech、中央アジアで太陽光発電事業を拡大 キルギスとカザフスタンで425MWの新規受注を獲得&nbsp;&nbsp;BigGo ファイナンス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ac8610b002c9": {
+    "id": "auto-ac8610b002c9",
+    "category": "その他",
+    "title": "ソンラ州立総合病院において、直接電力購入契約（DPPA）方式に基づく屋上太陽光発電システムの調査結果と投資計画を作成している。",
+    "source": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUkJwUmJsS3NrRXZKcW5yOGRDMC14WVlWMFFWOGFtWkp0Z1NZRHdXTE9zMDJwdkxKTDVuZHpXNUFONFRqdHlsWk1rbGYyclppTG9RT0cwZnNIdks1X0dvYjVXRjdrUjhiNk5MUDlFVEFZZmFwalNNOFRNRHMtbkw2Rzh4ZW9GdTJxcVRJYWlIQUZENnZfVEhEU1FYZDlJZXZ4RlpmQWRWUGRTVWhGN2JtQ1RaVzJhY1J6aUY1SnlWVGV0SVZkeENieEl5NkhJZF8tc3hxVkhlQnM5NXN4S0NTMnBTZTBKT2o2YzBIcUVRNFVheEJ4SmxBQVBkNEVONC1PcG00bWh1dDlqb3c?oc=5",
+    "time": "8/11(火) 15:44",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "ソンラ州立総合病院において、直接電力購入契約（DPPA）方式に基づく屋上太陽光発電システムの調査結果と投資計画を作成している。&nbsp;&nbsp;Vietnam.vn",
+    "body": [
+      "ソンラ州立総合病院において、直接電力購入契約（DPPA）方式に基づく屋上太陽光発電システムの調査結果と投資計画を作成している。&nbsp;&nbsp;Vietnam.vn"
     ],
     "related": [],
     "collected": true,
@@ -530,6 +913,25 @@
     "summary": "バクニン省は屋上太陽光発電の普及を推進している。&nbsp;&nbsp;Vietnam.vn",
     "body": [
       "バクニン省は屋上太陽光発電の普及を推進している。&nbsp;&nbsp;Vietnam.vn"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-6c086b355e74": {
+    "id": "auto-6c086b355e74",
+    "category": "国際",
+    "title": "風力タービンピッチシステム市場規模1490百万米ドル予測：世界の産業現状、競合分析、成長動向2026｜QYResearch",
+    "source": "note",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UV2E1UnNSY0VVZFBvOUlPMlo0RWswQmM2YU1WRWxWWmRwc1Z3bHdVX3NTY2FpVS1oc2ZiTG80NmJldU05ZkN1aHY4RTVEMTViN3I5VVVvOA?oc=5",
+    "time": "8/11(火) 14:30",
+    "comments": 0,
+    "tags": [
+      "風力"
+    ],
+    "summary": "風力タービンピッチシステム市場規模1490百万米ドル予測：世界の産業現状、競合分析、成長動向2026｜QYResearch&nbsp;&nbsp;note",
+    "body": [
+      "風力タービンピッチシステム市場規模1490百万米ドル予測：世界の産業現状、競合分析、成長動向2026｜QYResearch&nbsp;&nbsp;note"
     ],
     "related": [],
     "collected": true,
@@ -633,6 +1035,25 @@
     "collected": true,
     "image": null
   },
+  "auto-024d2ae66b90": {
+    "id": "auto-024d2ae66b90",
+    "category": "その他",
+    "title": "地熱プローブ市場規模レポート2026：710百万米ドル到達予測、年平均成長率4.2%で拡大｜QYResearch",
+    "source": "note",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XVE83OWlfWTFVQWE1bUVTczFSNzV0Y2RwcFVTQVZxMEJqSEhISWd5VFZCUU0wa1pTM2dtVFZRajB3cTZYVkRjZGlrX1BMc01UUjFPTk5lbw?oc=5",
+    "time": "8/11(火) 13:00",
+    "comments": 0,
+    "tags": [
+      "地熱"
+    ],
+    "summary": "地熱プローブ市場規模レポート2026：710百万米ドル到達予測、年平均成長率4.2%で拡大｜QYResearch&nbsp;&nbsp;note",
+    "body": [
+      "地熱プローブ市場規模レポート2026：710百万米ドル到達予測、年平均成長率4.2%で拡大｜QYResearch&nbsp;&nbsp;note"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-a90929be1995": {
     "id": "auto-a90929be1995",
     "category": "技術",
@@ -729,39 +1150,20 @@
     "collected": true,
     "image": null
   },
-  "auto-5bceb2b39b78": {
-    "id": "auto-5bceb2b39b78",
+  "auto-55273eeaf5bc": {
+    "id": "auto-55273eeaf5bc",
     "category": "その他",
-    "title": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント - hokkaido-np.co.jp",
-    "source": "検索: 脱炭素・カーボンニュートラル",
+    "title": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント",
+    "source": "北海道新聞デジタル",
     "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkl1M0pGTGhJbmkzYndLYkdJQzRwVnZDOHl3aTB0RjRoWXFBME5LaTh4b2xTRV9mOXV0cG5ubWo4V3lIQkU3RFU1NXVSN2JJcHliNzc2dHY5SDlzU2lLZDlaTGpIalV2dzNhSi1XWFNfQUtlVXlDZkZNQnItaGhENTZodmlJX2JM?oc=5",
     "time": "8/11(火) 9:25",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;hokkaido-np.co.jp",
+    "summary": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;北海道新聞デジタル",
     "body": [
-      "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;hokkaido-np.co.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ca0f560bf296": {
-    "id": "auto-ca0f560bf296",
-    "category": "その他",
-    "title": "カインホア省は、再生可能エネルギー産業とサービスの中心地となるという目標を実現しつつある。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHE2d25Wa09qSXRqUE15NlF0cjRsU3NjRjhPdDg2cHRmNGJ4M3lGQjhrMWdGV2ZhbHExa3FhWnJ2MVlic0RSNjhmVEo3LWRYUk96Y1VONU9sbzVzbExlUExmbE9JMDhMZ090QndocHlSdDlpRVR6LVV3LXdGaWZrQ05QZ25XVm5LRkx0eVN4YzJvSGlDeEkwNzN5TENvSkRROHJEMFBn?oc=5",
-    "time": "8/11(火) 8:44",
-    "comments": 0,
-    "tags": [
-      "再生可能エネルギー"
-    ],
-    "summary": "カインホア省は、再生可能エネルギー産業とサービスの中心地となるという目標を実現しつつある。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "カインホア省は、再生可能エネルギー産業とサービスの中心地となるという目標を実現しつつある。&nbsp;&nbsp;Vietnam.vn"
+      "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;北海道新聞デジタル"
     ],
     "related": [],
     "collected": true,
@@ -845,64 +1247,6 @@
     "collected": true,
     "image": null
   },
-  "auto-d52fa52e67b1": {
-    "id": "auto-d52fa52e67b1",
-    "category": "国際",
-    "title": "風力タービンピッチシステムの世界市場規模：年平均成長率7.1%予測、最新トレンドと需要変化2026-2032",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWlVEa2dzYmwzOEswQWp6R1pIVFo2c0VpMTdCRS1oSXpxYjlqdGpfQ3dZbG9UdHZTYUxfX2M3dVB3c29lOWJfVDhLWExHSGc?oc=5",
-    "time": "8/11(火) 7:38",
-    "comments": 0,
-    "tags": [
-      "風力"
-    ],
-    "summary": "風力タービンピッチシステムの世界市場規模：年平均成長率7.1%予測、最新トレンドと需要変化2026-2032&nbsp;&nbsp;Newscast.jp",
-    "body": [
-      "風力タービンピッチシステムの世界市場規模：年平均成長率7.1%予測、最新トレンドと需要変化2026-2032&nbsp;&nbsp;Newscast.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-4fbdab9bbaf0": {
-    "id": "auto-4fbdab9bbaf0",
-    "category": "国際",
-    "title": "韓国政府、太陽光のセットバック距離200m・風力1500mの上限導入へ、有望適地の大幅拡大に期待",
-    "source": "BigGo ファイナンス",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRjdzRHN5WFItRDI2N0JNa1Z6YXJYWGwtNGxUVFp4V2dQa0MtSmlIOWViZ3pJc0JHSTVnYk1fR0oxaXlFTWUxWXNwWHM4aDVLVDY1UW9GLVoxR24zRVd1S0lXRzM5ZnJlR20wMjlOa3pTQkt6?oc=5",
-    "time": "8/11(火) 7:26",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "風力"
-    ],
-    "summary": "韓国政府、太陽光のセットバック距離200m・風力1500mの上限導入へ、有望適地の大幅拡大に期待&nbsp;&nbsp;BigGo ファイナンス",
-    "body": [
-      "韓国政府、太陽光のセットバック距離200m・風力1500mの上限導入へ、有望適地の大幅拡大に期待&nbsp;&nbsp;BigGo ファイナンス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-abdbc2bf41fc": {
-    "id": "auto-abdbc2bf41fc",
-    "category": "その他",
-    "title": "地熱プローブ市場分析レポート2026-2032：シェア、成長率、業界動向を解説",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndjJ1V3c3aDAyZFAtMzNhOUxIRmlmQnQ3QXFHVEVWQ2RrcVlYX1M1X2UzaGdtMTdqdldqaGVBVlI0SEpRTDBqWHo0SmN6ejA?oc=5",
-    "time": "8/11(火) 6:54",
-    "comments": 0,
-    "tags": [
-      "地熱"
-    ],
-    "summary": "地熱プローブ市場分析レポート2026-2032：シェア、成長率、業界動向を解説&nbsp;&nbsp;Newscast.jp",
-    "body": [
-      "地熱プローブ市場分析レポート2026-2032：シェア、成長率、業界動向を解説&nbsp;&nbsp;Newscast.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-ed8de37be944": {
     "id": "auto-ed8de37be944",
     "category": "国際",
@@ -922,153 +1266,20 @@
     "collected": true,
     "image": null
   },
-  "auto-4eac9eaef3fe": {
-    "id": "auto-4eac9eaef3fe",
-    "category": "その他",
-    "title": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」",
-    "source": "山陽新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tRU84ZkJURF9TYWZZc2dpVUJSb0h4aGREdmpqYzNEcHJpOXNvUkhRY21MLWxJTVdwaDZRUHlnNGVzUTZFdnI1VjdIam1oUDQ1aHc?oc=5",
-    "time": "8/11(火) 6:36",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」&nbsp;&nbsp;山陽新聞",
-    "body": [
-      "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」&nbsp;&nbsp;山陽新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-9a5557467e53": {
-    "id": "auto-9a5557467e53",
-    "category": "技術",
-    "title": "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ（読売新聞オンライン）",
-    "source": "Yahoo!ニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WnBLd1UwLXZSQmxIWDY1RmxGZTYwUGVMTWFYelFTTVNQRVZqdUVRWGFMQ3pkZDdZblpScU90TjhOV0dEbWdPaVUtcVpNV09Dek1xVWNEV0FvaEtydlRIcFdHRUJjdHotTVBoOFJlM2tzc2NtNEVjZjBKcWR1Skk?oc=5",
-    "time": "8/11(火) 6:25",
-    "comments": 0,
-    "tags": [
-      "燃料電池"
-    ],
-    "summary": "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-    "body": [
-      "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-1fd17b00b6f7": {
-    "id": "auto-1fd17b00b6f7",
-    "category": "技術",
-    "title": "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準",
-    "source": "BigGo ファイナンス",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oejRhNWpadFNxWU01QU41RUd0UDRVQ2VpTWp0YzVtdUxFZF9qS1kzRmJGOHkzU0w5aXI2VVUxOXlGaE1zZ29lUXNkTEVwR29HOXl3NmJoelFmdVozenZrYzZZX1d3SUw5YjI0N01fT0UzQ2dv?oc=5",
-    "time": "8/11(火) 5:55",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準&nbsp;&nbsp;BigGo ファイナンス",
-    "body": [
-      "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準&nbsp;&nbsp;BigGo ファイナンス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-abff41c58624": {
-    "id": "auto-abff41c58624",
-    "category": "暮らし",
-    "title": "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONE5tQWpreVBCYVVZVl9abVY1T3doUG8zekl4NmZxNGt1UWEwdkxSZ2lGX0owY1diVWZQSWJoMFVmMVRhU2wtQVh6MEJwdEhyc2tYME1Ud2tldzU2YWk1bEkxMTBySDhHaTY3UVYwZ1B3UC0xMF9Pc2p1ODBvVjN6WlB5Nm1SMEtaTWFaUmFOclB3dHg3WS1nLVlZRFp6TC1SbE0xc1RqMXc?oc=5",
-    "time": "8/11(火) 5:54",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-447f79b01764": {
-    "id": "auto-447f79b01764",
-    "category": "その他",
-    "title": "Shinsung E、金堤工場で高出力太陽光モジュールを量産",
-    "source": "디지털투데이",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWZJcWx6dkQxY1o5OE51emtvS3F2eDNEelBrZ2NRUGxHZGQzTnJnby1IUHJaZWlEUjVQYnpXRzV1QVZhSXBWZWFvaXVyUTVjeEk2LWNKVm8yQ19nVDk5M3F4bGlRNU8wZXNJNFllLVh5Ql9wVzFOUmtwZmdOVjVETDFZOHZHX0ZUZm5mdUlPZEZhWEhVN2pXY3RmYTZZakZSUERwWUJRUFBkVTVqU0JyS1Y5QkxZbXAxZ3A0LXFJVDNidTYx?oc=5",
-    "time": "8/11(火) 5:25",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "Shinsung E、金堤工場で高出力太陽光モジュールを量産&nbsp;&nbsp;디지털투데이",
-    "body": [
-      "Shinsung E、金堤工場で高出力太陽光モジュールを量産&nbsp;&nbsp;디지털투데이"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0e09d4d170ee": {
-    "id": "auto-0e09d4d170ee",
-    "category": "その他",
-    "title": "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ",
-    "source": "Forbes JAPAN",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNHZWLW1pQ2VyME1uNUdpTVZEbzhyVzczaTY1X2syUV8zUjRmLS16cUloZjFYb08tZ3BEelV5OUptWi1sY2J4eTRXV3hteU9nUVhuVUZTaWRWZw?oc=5",
-    "time": "8/11(火) 5:15",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ&nbsp;&nbsp;Forbes JAPAN",
-    "body": [
-      "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ&nbsp;&nbsp;Forbes JAPAN"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-eb7f9ffb863b": {
-    "id": "auto-eb7f9ffb863b",
-    "category": "その他",
-    "title": "Viettelの太陽光発電量は24.8%増加した。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WSmxLWVpneDc1U2tsajBvRjZlTkJ2UjdlTVFxOUVVYnpWclJudndkd19qdEdxUGdjaERrMFR6WlN1N1pvM05CcGdZQk9ZeWI3cG5WLUlNLTRSTWVta0VKSFM1Q0JxaDVkakZ1R2V0XzZLbWdKUmNhRndKUQ?oc=5",
-    "time": "8/11(火) 5:14",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "Viettelの太陽光発電量は24.8%増加した。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "Viettelの太陽光発電量は24.8%増加した。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-fe49f868c38e": {
-    "id": "auto-fe49f868c38e",
+  "auto-170dd093c572": {
+    "id": "auto-170dd093c572",
     "category": "国際",
-    "title": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？ - ene-fro.com",
-    "source": "検索: グリーン水素",
+    "title": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？",
+    "source": "エネフロ",
     "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HM3BDc2pyclpheTRYYUZPQk12Qm13NzRZdnRKVHhuQWtkZVdJakZoZTRUZEJxTDNZblpNT1cwdlEzMFcycHRIQWlta3FfUQ?oc=5",
     "time": "8/11(火) 3:04",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;ene-fro.com",
+    "summary": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;エネフロ",
     "body": [
-      "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;ene-fro.com"
+      "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;エネフロ"
     ],
     "related": [],
     "collected": true,
@@ -1273,7 +1484,7 @@
     "id": "auto-b409128ede3d",
     "category": "その他",
     "title": "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催",
-    "source": "ライブドアニュース",
+    "source": "news.livedoor.com",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZ2tMSmlyV0JTSWxxZ052SGJOUUNvUThwV1pRZXM1S3dfQ3FIVm5sWU5qenZONlBqa0JMQXJDR241dGJ5bHFCaklPQ0xUUEdQSVhndm8xcUV1VzZINEN3LUhR?oc=5",
     "time": "8/10(月) 6:30",
     "comments": 0,
@@ -1281,9 +1492,9 @@
       "再エネ",
       "蓄電池"
     ],
-    "summary": "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催&nbsp;&nbsp;ライブドアニュース",
+    "summary": "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催&nbsp;&nbsp;news.livedoor.com",
     "body": [
-      "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催&nbsp;&nbsp;ライブドアニュース"
+      "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催&nbsp;&nbsp;news.livedoor.com"
     ],
     "related": [],
     "collected": true,
@@ -1312,16 +1523,16 @@
     "id": "auto-7d0e8b5fedee",
     "category": "技術",
     "title": "NTTドコモ、基地局に燃料電池、非常用電源に活用 - ニュース - メガソーラービジネス plus",
-    "source": "project.nikkeibp.co.jp",
+    "source": "日経BP",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RRE9ndWdBSXlDZjJYVDd0VFU4TktpQTYydDR2ZExlYmxpQWIydmRoZkUwYm1YT2NuZjJKekJsOV95ajlQVmtMUC12SF91Z2xDUFZObE1sWi0yUjloNnFERjlwNjdrY1JhdEV2THZ6SVVucWg5?oc=5",
     "time": "8/10(月) 5:07",
     "comments": 0,
     "tags": [
       "燃料電池"
     ],
-    "summary": "NTTドコモ、基地局に燃料電池、非常用電源に活用 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;project.nikkeibp.co.jp",
+    "summary": "NTTドコモ、基地局に燃料電池、非常用電源に活用 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
     "body": [
-      "NTTドコモ、基地局に燃料電池、非常用電源に活用 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;project.nikkeibp.co.jp"
+      "NTTドコモ、基地局に燃料電池、非常用電源に活用 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;日経BP"
     ],
     "related": [],
     "collected": true,
@@ -1362,26 +1573,6 @@
     "summary": "大分県中津市、山国川流域森林組合、大分銀行、バイウィルが「J-クレジットを活用したカーボンニュートラルに関する連携協定」を締結&nbsp;&nbsp;PR TIMES",
     "body": [
       "大分県中津市、山国川流域森林組合、大分銀行、バイウィルが「J-クレジットを活用したカーボンニュートラルに関する連携協定」を締結&nbsp;&nbsp;PR TIMES"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-73c2f35b0e4d": {
-    "id": "auto-73c2f35b0e4d",
-    "category": "その他",
-    "title": "【日本蓄電池株式会社】長野県長野市にて系統用蓄電施設 「NC長野市上ケ屋蓄電所」蓄電池設置開始",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJcXNzdVdvR1MxNG9IbDNjSE5ILWc3SkFnR0h1ZXhiLXBBWUdHc2hxMU95THhLOEtiRldtMDBZZWtXQndRbEFqaWpDazZFUzhwU1U3ZHRWYTYtc2Rpek4tZ3RoNFNQYUZsRVE?oc=5",
-    "time": "8/10(月) 1:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池",
-      "蓄電"
-    ],
-    "summary": "【日本蓄電池株式会社】長野県長野市にて系統用蓄電施設 「NC長野市上ケ屋蓄電所」蓄電池設置開始&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "【日本蓄電池株式会社】長野県長野市にて系統用蓄電施設 「NC長野市上ケ屋蓄電所」蓄電池設置開始&nbsp;&nbsp;PR TIMES"
     ],
     "related": [],
     "collected": true,
@@ -1582,6 +1773,25 @@
     "collected": true,
     "image": null
   },
+  "auto-cb9ba21a974e": {
+    "id": "auto-cb9ba21a974e",
+    "category": "技術",
+    "title": "トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始",
+    "source": "au Webポータル",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZE54N1c1TTkxcHdGTUgzNDVwYU1rbVFMRnAxTGplTFVJYnM1S29EOUZMUllPT0pRZzRtc1dualZTN0k4Y3gzbWJDakp6TkVHa0pNZThuRjJjWkhCb0FudFdhLUZCNUs3WXJiUUxn?oc=5",
+    "time": "8/9(日) 12:19",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始&nbsp;&nbsp;au Webポータル",
+    "body": [
+      "トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始&nbsp;&nbsp;au Webポータル"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-90690fe265fe": {
     "id": "auto-90690fe265fe",
     "category": "その他",
@@ -1596,63 +1806,6 @@
     "summary": "物流連・CN情報交換会 排出量取引制度を解説 | ロジスティクス | ニュース&nbsp;&nbsp;daily-cargo.com",
     "body": [
       "物流連・CN情報交換会 排出量取引制度を解説 | ロジスティクス | ニュース&nbsp;&nbsp;daily-cargo.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-cb9ba21a974e": {
-    "id": "auto-cb9ba21a974e",
-    "category": "技術",
-    "title": "トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始 (2026年8月9日掲載)",
-    "source": "ライブドアニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdE5IUnIwS1BwS2otejE1N1JwODhIYVFnbzFJbVhjOU05TnpfOEdqcmhtWkdCSWtNQUx1TVVYSC1zWU1vYmVQdE51d1ZBOHFqam1pX1lYeXVGMWo5M0E?oc=5",
-    "time": "8/9(日) 7:08",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始 (2026年8月9日掲載)&nbsp;&nbsp;ライブドアニュース",
-    "body": [
-      "トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始 (2026年8月9日掲載)&nbsp;&nbsp;ライブドアニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ae9ae5633aaf": {
-    "id": "auto-ae9ae5633aaf",
-    "category": "技術",
-    "title": "【画像】トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始",
-    "source": "ライブドアニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJYjVSX0FwOG1VWjBDUjJKbzAzdkRVX181MzFhbkdrbUc0V1Q1NDBMRFpRRmNNSTVJeDdkSUloWXZDODdyMGVvYjZPaTVYcXRuWVh6ZGJmcHhYd1NXeWgwdExFbUNQUW9pbE5fUkxTLXUzcHZWYnY5cUJhSlE?oc=5",
-    "time": "8/9(日) 7:08",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "【画像】トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始&nbsp;&nbsp;ライブドアニュース",
-    "body": [
-      "【画像】トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始&nbsp;&nbsp;ライブドアニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-560471cd4172": {
-    "id": "auto-560471cd4172",
-    "category": "技術",
-    "title": "グローバル水素ガス市場のトップ25企業",
-    "source": "Spherical Insights",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWC1fNlhhajBiQWxPRXRabGEyb1h6eThORmdzXzFjNi05akp3S2liejlXZ1l5RFFyYUY5WVlwdG1KQ1ZueUdqRG5ELWM5cUlwZTVVdm9uN3dSSHJlQzl5SlBJZnJRX1ZjVEtacVpJT2c3dHNyUHhLSDNkOFVqVDV0YjhoNG5RQ3BIejZZXzFNWlJqbm1SMXBPdURHV1o5TWZTYU5LM1ZCdmI1TzJ3Ykg3U0s3N3FfS3MybkpCRmR4SUcxMWRTVzFfakV1WFFYZw?oc=5",
-    "time": "8/9(日) 5:16",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "グローバル水素ガス市場のトップ25企業&nbsp;&nbsp;Spherical Insights",
-    "body": [
-      "グローバル水素ガス市場のトップ25企業&nbsp;&nbsp;Spherical Insights"
     ],
     "related": [],
     "collected": true,
@@ -2601,25 +2754,6 @@
     "related": [],
     "collected": true,
     "image": null
-  },
-  "auto-1c8ef9c2e8e1": {
-    "id": "auto-1c8ef9c2e8e1",
-    "category": "技術",
-    "title": "パネルリサイクル法に太陽光業界はどう向き合うか？ JPEAが描く今後の展望",
-    "source": "ITmedia スマートジャパン",
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/09/news020.html",
-    "time": "7/9(木) 7:00",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "使用済み太陽光パネルの再資源化を促す「太陽光パネルリサイクル法」が公布された。太陽光発電協会（JPEA）は、これを好機と捉え、法制化に先行して整えてきた自主ルールを土台に、業界挙げての取り組みを本格化させる。",
-    "body": [
-      "使用済み太陽光パネルの再資源化を促す「太陽光パネルリサイクル法」が公布された。太陽光発電協会（JPEA）は、これを好機と捉え、法制化に先行して整えてきた自主ルールを土台に、業界挙げての取り組みを本格化させる。"
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2607/09/cover_news020.jpg"
   },
   "auto-991dd83ab577": {
     "id": "auto-991dd83ab577",
@@ -4108,6 +4242,350 @@
     "collected": true,
     "image": null
   },
+  "auto-127d9573d77f": {
+    "id": "auto-127d9573d77f",
+    "category": "技術",
+    "title": "三菱電機、CO2を回収・再利用する技術の平時の削減効果と災害時のレジリエンス向上を定量評価",
+    "source": "LIGARE（リガーレ）",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUTVsak52S3hwd194YW05RjVpZ0ZEWnNsT1Q0S0ZwVzQzcFdfbWhQZnEyaXNIbWoyNU9zMFRsd0JSNFVSRlhsSTc3bExjMWhCUWFybQ?oc=5",
+    "time": "8/11(火) 23:33",
+    "comments": 0,
+    "tags": [
+      "CO2"
+    ],
+    "summary": "三菱電機、CO2を回収・再利用する技術の平時の削減効果と災害時のレジリエンス向上を定量評価&nbsp;&nbsp;LIGARE（リガーレ）",
+    "body": [
+      "三菱電機、CO2を回収・再利用する技術の平時の削減効果と災害時のレジリエンス向上を定量評価&nbsp;&nbsp;LIGARE（リガーレ）"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-5bceb2b39b78": {
+    "id": "auto-5bceb2b39b78",
+    "category": "その他",
+    "title": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント - hokkaido-np.co.jp",
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkl1M0pGTGhJbmkzYndLYkdJQzRwVnZDOHl3aTB0RjRoWXFBME5LaTh4b2xTRV9mOXV0cG5ubWo4V3lIQkU3RFU1NXVSN2JJcHliNzc2dHY5SDlzU2lLZDlaTGpIalV2dzNhSi1XWFNfQUtlVXlDZkZNQnItaGhENTZodmlJX2JM?oc=5",
+    "time": "8/11(火) 9:25",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;hokkaido-np.co.jp",
+    "body": [
+      "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;hokkaido-np.co.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ca0f560bf296": {
+    "id": "auto-ca0f560bf296",
+    "category": "その他",
+    "title": "カインホア省は、再生可能エネルギー産業とサービスの中心地となるという目標を実現しつつある。",
+    "source": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHE2d25Wa09qSXRqUE15NlF0cjRsU3NjRjhPdDg2cHRmNGJ4M3lGQjhrMWdGV2ZhbHExa3FhWnJ2MVlic0RSNjhmVEo3LWRYUk96Y1VONU9sbzVzbExlUExmbE9JMDhMZ090QndocHlSdDlpRVR6LVV3LXdGaWZrQ05QZ25XVm5LRkx0eVN4YzJvSGlDeEkwNzN5TENvSkRROHJEMFBn?oc=5",
+    "time": "8/11(火) 8:44",
+    "comments": 0,
+    "tags": [
+      "再生可能エネルギー"
+    ],
+    "summary": "カインホア省は、再生可能エネルギー産業とサービスの中心地となるという目標を実現しつつある。&nbsp;&nbsp;Vietnam.vn",
+    "body": [
+      "カインホア省は、再生可能エネルギー産業とサービスの中心地となるという目標を実現しつつある。&nbsp;&nbsp;Vietnam.vn"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-d52fa52e67b1": {
+    "id": "auto-d52fa52e67b1",
+    "category": "国際",
+    "title": "風力タービンピッチシステムの世界市場規模：年平均成長率7.1%予測、最新トレンドと需要変化2026-2032",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWlVEa2dzYmwzOEswQWp6R1pIVFo2c0VpMTdCRS1oSXpxYjlqdGpfQ3dZbG9UdHZTYUxfX2M3dVB3c29lOWJfVDhLWExHSGc?oc=5",
+    "time": "8/11(火) 7:38",
+    "comments": 0,
+    "tags": [
+      "風力"
+    ],
+    "summary": "風力タービンピッチシステムの世界市場規模：年平均成長率7.1%予測、最新トレンドと需要変化2026-2032&nbsp;&nbsp;Newscast.jp",
+    "body": [
+      "風力タービンピッチシステムの世界市場規模：年平均成長率7.1%予測、最新トレンドと需要変化2026-2032&nbsp;&nbsp;Newscast.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-4fbdab9bbaf0": {
+    "id": "auto-4fbdab9bbaf0",
+    "category": "国際",
+    "title": "韓国政府、太陽光のセットバック距離200m・風力1500mの上限導入へ、有望適地の大幅拡大に期待",
+    "source": "BigGo ファイナンス",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRjdzRHN5WFItRDI2N0JNa1Z6YXJYWGwtNGxUVFp4V2dQa0MtSmlIOWViZ3pJc0JHSTVnYk1fR0oxaXlFTWUxWXNwWHM4aDVLVDY1UW9GLVoxR24zRVd1S0lXRzM5ZnJlR20wMjlOa3pTQkt6?oc=5",
+    "time": "8/11(火) 7:26",
+    "comments": 0,
+    "tags": [
+      "太陽光",
+      "風力"
+    ],
+    "summary": "韓国政府、太陽光のセットバック距離200m・風力1500mの上限導入へ、有望適地の大幅拡大に期待&nbsp;&nbsp;BigGo ファイナンス",
+    "body": [
+      "韓国政府、太陽光のセットバック距離200m・風力1500mの上限導入へ、有望適地の大幅拡大に期待&nbsp;&nbsp;BigGo ファイナンス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-abdbc2bf41fc": {
+    "id": "auto-abdbc2bf41fc",
+    "category": "その他",
+    "title": "地熱プローブ市場分析レポート2026-2032：シェア、成長率、業界動向を解説",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndjJ1V3c3aDAyZFAtMzNhOUxIRmlmQnQ3QXFHVEVWQ2RrcVlYX1M1X2UzaGdtMTdqdldqaGVBVlI0SEpRTDBqWHo0SmN6ejA?oc=5",
+    "time": "8/11(火) 6:54",
+    "comments": 0,
+    "tags": [
+      "地熱"
+    ],
+    "summary": "地熱プローブ市場分析レポート2026-2032：シェア、成長率、業界動向を解説&nbsp;&nbsp;Newscast.jp",
+    "body": [
+      "地熱プローブ市場分析レポート2026-2032：シェア、成長率、業界動向を解説&nbsp;&nbsp;Newscast.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-4eac9eaef3fe": {
+    "id": "auto-4eac9eaef3fe",
+    "category": "その他",
+    "title": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」",
+    "source": "山陽新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tRU84ZkJURF9TYWZZc2dpVUJSb0h4aGREdmpqYzNEcHJpOXNvUkhRY21MLWxJTVdwaDZRUHlnNGVzUTZFdnI1VjdIam1oUDQ1aHc?oc=5",
+    "time": "8/11(火) 6:36",
+    "comments": 0,
+    "tags": [
+      "再エネ"
+    ],
+    "summary": "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」&nbsp;&nbsp;山陽新聞",
+    "body": [
+      "福島原発後の再エネ描く映画公開 地元テレビ製作「かげる針路」&nbsp;&nbsp;山陽新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-9a5557467e53": {
+    "id": "auto-9a5557467e53",
+    "category": "技術",
+    "title": "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ（読売新聞オンライン）",
+    "source": "Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WnBLd1UwLXZSQmxIWDY1RmxGZTYwUGVMTWFYelFTTVNQRVZqdUVRWGFMQ3pkZDdZblpScU90TjhOV0dEbWdPaVUtcVpNV09Dek1xVWNEV0FvaEtydlRIcFdHRUJjdHotTVBoOFJlM2tzc2NtNEVjZjBKcWR1Skk?oc=5",
+    "time": "8/11(火) 6:25",
+    "comments": 0,
+    "tags": [
+      "燃料電池"
+    ],
+    "summary": "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+    "body": [
+      "アジア・アジアパラ大会の公式車両 トヨタの燃料電池車など…聖火リレーで先導へ（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-1fd17b00b6f7": {
+    "id": "auto-1fd17b00b6f7",
+    "category": "技術",
+    "title": "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準",
+    "source": "BigGo ファイナンス",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oejRhNWpadFNxWU01QU41RUd0UDRVQ2VpTWp0YzVtdUxFZF9qS1kzRmJGOHkzU0w5aXI2VVUxOXlGaE1zZ29lUXNkTEVwR29HOXl3NmJoelFmdVozenZrYzZZX1d3SUw5YjI0N01fT0UzQ2dv?oc=5",
+    "time": "8/11(火) 5:55",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準&nbsp;&nbsp;BigGo ファイナンス",
+    "body": [
+      "HD Hyundai Oilbank、水素エンジン専用潤滑油を初の商用供給開始…グローバル市場を照準&nbsp;&nbsp;BigGo ファイナンス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-abff41c58624": {
+    "id": "auto-abff41c58624",
+    "category": "暮らし",
+    "title": "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。",
+    "source": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONE5tQWpreVBCYVVZVl9abVY1T3doUG8zekl4NmZxNGt1UWEwdkxSZ2lGX0owY1diVWZQSWJoMFVmMVRhU2wtQVh6MEJwdEhyc2tYME1Ud2tldzU2YWk1bEkxMTBySDhHaTY3UVYwZ1B3UC0xMF9Pc2p1ODBvVjN6WlB5Nm1SMEtaTWFaUmFOclB3dHg3WS1nLVlZRFp6TC1SbE0xc1RqMXc?oc=5",
+    "time": "8/11(火) 5:54",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。&nbsp;&nbsp;Vietnam.vn",
+    "body": [
+      "バクニン省は、各家庭が屋上太陽光発電システムを設置することを支援する政策を実施している。&nbsp;&nbsp;Vietnam.vn"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-447f79b01764": {
+    "id": "auto-447f79b01764",
+    "category": "その他",
+    "title": "Shinsung E、金堤工場で高出力太陽光モジュールを量産",
+    "source": "디지털투데이",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWZJcWx6dkQxY1o5OE51emtvS3F2eDNEelBrZ2NRUGxHZGQzTnJnby1IUHJaZWlEUjVQYnpXRzV1QVZhSXBWZWFvaXVyUTVjeEk2LWNKVm8yQ19nVDk5M3F4bGlRNU8wZXNJNFllLVh5Ql9wVzFOUmtwZmdOVjVETDFZOHZHX0ZUZm5mdUlPZEZhWEhVN2pXY3RmYTZZakZSUERwWUJRUFBkVTVqU0JyS1Y5QkxZbXAxZ3A0LXFJVDNidTYx?oc=5",
+    "time": "8/11(火) 5:25",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "Shinsung E、金堤工場で高出力太陽光モジュールを量産&nbsp;&nbsp;디지털투데이",
+    "body": [
+      "Shinsung E、金堤工場で高出力太陽光モジュールを量産&nbsp;&nbsp;디지털투데이"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-0e09d4d170ee": {
+    "id": "auto-0e09d4d170ee",
+    "category": "その他",
+    "title": "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ",
+    "source": "Forbes JAPAN",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNHZWLW1pQ2VyME1uNUdpTVZEbzhyVzczaTY1X2syUV8zUjRmLS16cUloZjFYb08tZ3BEelV5OUptWi1sY2J4eTRXV3hteU9nUVhuVUZTaWRWZw?oc=5",
+    "time": "8/11(火) 5:15",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ&nbsp;&nbsp;Forbes JAPAN",
+    "body": [
+      "エネルギーは企業戦略！ 「脱炭素」のさらに先へ、AI競争を牛耳るのは電源ポートフォリオだ&nbsp;&nbsp;Forbes JAPAN"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-eb7f9ffb863b": {
+    "id": "auto-eb7f9ffb863b",
+    "category": "その他",
+    "title": "Viettelの太陽光発電量は24.8%増加した。",
+    "source": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WSmxLWVpneDc1U2tsajBvRjZlTkJ2UjdlTVFxOUVVYnpWclJudndkd19qdEdxUGdjaERrMFR6WlN1N1pvM05CcGdZQk9ZeWI3cG5WLUlNLTRSTWVta0VKSFM1Q0JxaDVkakZ1R2V0XzZLbWdKUmNhRndKUQ?oc=5",
+    "time": "8/11(火) 5:14",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "Viettelの太陽光発電量は24.8%増加した。&nbsp;&nbsp;Vietnam.vn",
+    "body": [
+      "Viettelの太陽光発電量は24.8%増加した。&nbsp;&nbsp;Vietnam.vn"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-fe49f868c38e": {
+    "id": "auto-fe49f868c38e",
+    "category": "国際",
+    "title": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？ - ene-fro.com",
+    "source": "検索: グリーン水素",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HM3BDc2pyclpheTRYYUZPQk12Qm13NzRZdnRKVHhuQWtkZVdJakZoZTRUZEJxTDNZblpNT1cwdlEzMFcycHRIQWlta3FfUQ?oc=5",
+    "time": "8/11(火) 3:04",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;ene-fro.com",
+    "body": [
+      "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;ene-fro.com"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-73c2f35b0e4d": {
+    "id": "auto-73c2f35b0e4d",
+    "category": "その他",
+    "title": "【日本蓄電池株式会社】長野県長野市にて系統用蓄電施設 「NC長野市上ケ屋蓄電所」蓄電池設置開始",
+    "source": "PR TIMES",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJcXNzdVdvR1MxNG9IbDNjSE5ILWc3SkFnR0h1ZXhiLXBBWUdHc2hxMU95THhLOEtiRldtMDBZZWtXQndRbEFqaWpDazZFUzhwU1U3ZHRWYTYtc2Rpek4tZ3RoNFNQYUZsRVE?oc=5",
+    "time": "8/10(月) 1:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "【日本蓄電池株式会社】長野県長野市にて系統用蓄電施設 「NC長野市上ケ屋蓄電所」蓄電池設置開始&nbsp;&nbsp;PR TIMES",
+    "body": [
+      "【日本蓄電池株式会社】長野県長野市にて系統用蓄電施設 「NC長野市上ケ屋蓄電所」蓄電池設置開始&nbsp;&nbsp;PR TIMES"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ae9ae5633aaf": {
+    "id": "auto-ae9ae5633aaf",
+    "category": "技術",
+    "title": "【画像】トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始",
+    "source": "ライブドアニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJYjVSX0FwOG1VWjBDUjJKbzAzdkRVX181MzFhbkdrbUc0V1Q1NDBMRFpRRmNNSTVJeDdkSUloWXZDODdyMGVvYjZPaTVYcXRuWVh6ZGJmcHhYd1NXeWgwdExFbUNQUW9pbE5fUkxTLXUzcHZWYnY5cUJhSlE?oc=5",
+    "time": "8/9(日) 7:08",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "【画像】トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始&nbsp;&nbsp;ライブドアニュース",
+    "body": [
+      "【画像】トヨタの「水素ＨＶ」車の公道実証、全国唯一「地産地消」の水素活用できる徳島県で開始&nbsp;&nbsp;ライブドアニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-560471cd4172": {
+    "id": "auto-560471cd4172",
+    "category": "技術",
+    "title": "グローバル水素ガス市場のトップ25企業",
+    "source": "Spherical Insights",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWC1fNlhhajBiQWxPRXRabGEyb1h6eThORmdzXzFjNi05akp3S2liejlXZ1l5RFFyYUY5WVlwdG1KQ1ZueUdqRG5ELWM5cUlwZTVVdm9uN3dSSHJlQzl5SlBJZnJRX1ZjVEtacVpJT2c3dHNyUHhLSDNkOFVqVDV0YjhoNG5RQ3BIejZZXzFNWlJqbm1SMXBPdURHV1o5TWZTYU5LM1ZCdmI1TzJ3Ykg3U0s3N3FfS3MybkpCRmR4SUcxMWRTVzFfakV1WFFYZw?oc=5",
+    "time": "8/9(日) 5:16",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "グローバル水素ガス市場のトップ25企業&nbsp;&nbsp;Spherical Insights",
+    "body": [
+      "グローバル水素ガス市場のトップ25企業&nbsp;&nbsp;Spherical Insights"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-1c8ef9c2e8e1": {
+    "id": "auto-1c8ef9c2e8e1",
+    "category": "技術",
+    "title": "パネルリサイクル法に太陽光業界はどう向き合うか？ JPEAが描く今後の展望",
+    "source": "ITmedia スマートジャパン",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2607/09/news020.html",
+    "time": "7/9(木) 7:00",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "使用済み太陽光パネルの再資源化を促す「太陽光パネルリサイクル法」が公布された。太陽光発電協会（JPEA）は、これを好機と捉え、法制化に先行して整えてきた自主ルールを土台に、業界挙げての取り組みを本格化させる。",
+    "body": [
+      "使用済み太陽光パネルの再資源化を促す「太陽光パネルリサイクル法」が公布された。太陽光発電協会（JPEA）は、これを好機と捉え、法制化に先行して整えてきた自主ルールを土台に、業界挙げての取り組みを本格化させる。"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2607/09/cover_news020.jpg"
+  },
   "auto-0af5913f8e32": {
     "id": "auto-0af5913f8e32",
     "category": "暮らし",
@@ -4184,25 +4662,6 @@
     "collected": true,
     "image": null
   },
-  "auto-55273eeaf5bc": {
-    "id": "auto-55273eeaf5bc",
-    "category": "その他",
-    "title": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント",
-    "source": "北海道新聞デジタル",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkl1M0pGTGhJbmkzYndLYkdJQzRwVnZDOHl3aTB0RjRoWXFBME5LaTh4b2xTRV9mOXV0cG5ubWo4V3lIQkU3RFU1NXVSN2JJcHliNzc2dHY5SDlzU2lLZDlaTGpIalV2dzNhSi1XWFNfQUtlVXlDZkZNQnItaGhENTZodmlJX2JM?oc=5",
-    "time": "8/11(火) 9:25",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;北海道新聞デジタル",
-    "body": [
-      "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント&nbsp;&nbsp;北海道新聞デジタル"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-c966e5bc7216": {
     "id": "auto-c966e5bc7216",
     "category": "その他",
@@ -4255,25 +4714,6 @@
     "summary": "日食はポルトガルの太陽光発電生産量を45%減少させる可能性がある&nbsp;&nbsp;Laodong.vn",
     "body": [
       "日食はポルトガルの太陽光発電生産量を45%減少させる可能性がある&nbsp;&nbsp;Laodong.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-170dd093c572": {
-    "id": "auto-170dd093c572",
-    "category": "国際",
-    "title": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？",
-    "source": "エネフロ",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HM3BDc2pyclpheTRYYUZPQk12Qm13NzRZdnRKVHhuQWtkZVdJakZoZTRUZEJxTDNZblpNT1cwdlEzMFcycHRIQWlta3FfUQ?oc=5",
-    "time": "8/11(火) 3:04",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;エネフロ",
-    "body": [
-      "Vol.67 世界シェア8割の中国太陽光パネル各社、赤字転落の衝撃 日本への影響は？&nbsp;&nbsp;エネフロ"
     ],
     "related": [],
     "collected": true,
@@ -4335,25 +4775,6 @@
     "related": [],
     "collected": true,
     "image": "https://prcdn.freetls.fastly.net/release_image/167163/19/167163-19-0572b8755cb2353c8d5f9afd77f98564-1043x537.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  "auto-024d2ae66b90": {
-    "id": "auto-024d2ae66b90",
-    "category": "その他",
-    "title": "地熱プローブ市場規模レポート2026：710百万米ドル到達予測、年平均成長率4.2%で拡大｜QYResearch",
-    "source": "note",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XVE83OWlfWTFVQWE1bUVTczFSNzV0Y2RwcFVTQVZxMEJqSEhISWd5VFZCUU0wa1pTM2dtVFZRajB3cTZYVkRjZGlrX1BMc01UUjFPTk5lbw?oc=5",
-    "time": "8/11(火) 13:00",
-    "comments": 0,
-    "tags": [
-      "地熱"
-    ],
-    "summary": "地熱プローブ市場規模レポート2026：710百万米ドル到達予測、年平均成長率4.2%で拡大｜QYResearch&nbsp;&nbsp;note",
-    "body": [
-      "地熱プローブ市場規模レポート2026：710百万米ドル到達予測、年平均成長率4.2%で拡大｜QYResearch&nbsp;&nbsp;note"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
   },
   "auto-a8f92165aeb7": {
     "id": "auto-a8f92165aeb7",
@@ -4542,26 +4963,6 @@
     "summary": "掛川市で太陽光発電資材会社の倉庫から出火&nbsp;&nbsp;静岡新聞DIGITAL",
     "body": [
       "掛川市で太陽光発電資材会社の倉庫から出火&nbsp;&nbsp;静岡新聞DIGITAL"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-73868c2fafce": {
-    "id": "auto-73868c2fafce",
-    "category": "技術",
-    "title": "【次世代エネルギー株】水素・アンモニアに隠されたテンバガー本命！ Car Insurance (7nY4AxJgc8)",
-    "source": "Mshale",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWkZ3Yl8xRW9maUhYaklxOXJSRUVnQ05ST0g4Y0VEVzV4aG8zR0NicHdBT2NFeXV3cGpQRW9GdHN6bU9wdlZLOThSNUVyTXVGQU90eDYzei1YWW8?oc=5",
-    "time": "8/10(月) 23:41",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "アンモニア"
-    ],
-    "summary": "【次世代エネルギー株】水素・アンモニアに隠されたテンバガー本命！ Car Insurance (7nY4AxJgc8)&nbsp;&nbsp;Mshale",
-    "body": [
-      "【次世代エネルギー株】水素・アンモニアに隠されたテンバガー本命！ Car Insurance (7nY4AxJgc8)&nbsp;&nbsp;Mshale"
     ],
     "related": [],
     "collected": true,
@@ -6345,25 +6746,6 @@
     "summary": "水中ドローン点検技術を洋上風力・海洋インフラへ展開。NETIS登録の知見を活かし省力化・安全性向上を支援。ジュンテクノサービス&nbsp;&nbsp;digital-construction.jp",
     "body": [
       "水中ドローン点検技術を洋上風力・海洋インフラへ展開。NETIS登録の知見を活かし省力化・安全性向上を支援。ジュンテクノサービス&nbsp;&nbsp;digital-construction.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a3a7e657785a": {
-    "id": "auto-a3a7e657785a",
-    "category": "その他",
-    "title": "太陽光発電、メガソーラーの真実を話します。エコのつもりで始めた結果…地球に最悪の事態が起こります【ひろゆき 切り抜き】 Manish Pandey (5qGP1zfHdy)",
-    "source": "Mshale",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzNXI3ODBGVlhhQU9lY08ySXRwelFGbzlMVkxXZV9uN0M2dmRURkxrM2lfaVZqejRlUHhFdm5IRExtWmYxM2FueXpxWGFqS0htdHM2RWN0MDI2QXc?oc=5",
-    "time": "8/10(月) 0:54",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "太陽光発電、メガソーラーの真実を話します。エコのつもりで始めた結果…地球に最悪の事態が起こります【ひろゆき 切り抜き】 Manish Pandey (5qGP1zfHdy)&nbsp;&nbsp;Mshale",
-    "body": [
-      "太陽光発電、メガソーラーの真実を話します。エコのつもりで始めた結果…地球に最悪の事態が起こります【ひろゆき 切り抜き】 Manish Pandey (5qGP1zfHdy)&nbsp;&nbsp;Mshale"
     ],
     "related": [],
     "collected": true,
@@ -14301,26 +14683,6 @@
     "collected": true,
     "image": null
   },
-  "auto-6c5cb9b3c91a": {
-    "id": "auto-6c5cb9b3c91a",
-    "category": "その他",
-    "title": "主要製造７拠点の再エネ化を完了、製造工程の脱炭素化を加速",
-    "source": "朝日新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNOVJTWDJxeVVuMDY4UC04R0gwMHlobGpYN3NYR3czdWg4NnlLMnc1Xzg4NzNWQkptXzJmUXlWeVRSZkNGcHd4Z3JCaW4xVlpuNkhENmZhSEptVUk?oc=5",
-    "time": "8/6(木) 21:06",
-    "comments": 0,
-    "tags": [
-      "再エネ",
-      "脱炭素"
-    ],
-    "summary": "主要製造７拠点の再エネ化を完了、製造工程の脱炭素化を加速&nbsp;&nbsp;朝日新聞",
-    "body": [
-      "主要製造７拠点の再エネ化を完了、製造工程の脱炭素化を加速&nbsp;&nbsp;朝日新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-7cd91fbcdd58": {
     "id": "auto-7cd91fbcdd58",
     "category": "その他",
@@ -18839,369 +19201,6 @@
     "summary": "三菱重工業、決算受け株価7%高 脱炭素・AIで続く発電需要&nbsp;&nbsp;日本経済新聞",
     "body": [
       "三菱重工業、決算受け株価7%高 脱炭素・AIで続く発電需要&nbsp;&nbsp;日本経済新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-9630fb3dff12": {
-    "id": "auto-9630fb3dff12",
-    "category": "技術",
-    "title": "MAN、燃料電池トラック3台で路上試験開始",
-    "source": "LOGISTICS TODAY",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ieHEzSnNoOTktWmJQWUx1cHdRb2FJTG1TSTVTYkpUdmFlR0dXWmpXRGp0TzdJaEdSeUVsVW9ldi1kWkNDWDJjRQ?oc=5",
-    "time": "8/4(火) 19:20",
-    "comments": 0,
-    "tags": [
-      "燃料電池"
-    ],
-    "summary": "MAN、燃料電池トラック3台で路上試験開始&nbsp;&nbsp;LOGISTICS TODAY",
-    "body": [
-      "MAN、燃料電池トラック3台で路上試験開始&nbsp;&nbsp;LOGISTICS TODAY"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-239839f39542": {
-    "id": "auto-239839f39542",
-    "category": "国際",
-    "title": "牧草地で太陽光発電、環境に優しいエネルギー開発 中国西蔵自治区",
-    "source": "プラメポータル",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZEM2bUwxYW5MY0swOXJORWxjY1dQSTRXZlJWWnRvVDRBaTJmWlNHY19pTnBfai1la3Fzalhjc1FhVHhrWVdzazJkdnB3OFBsVUhidzVrcHNOdTI1cmxHZ2pub3Fuc3JPQWNVT3BmbVQwOV9UYjZST1BZdVlnREk?oc=5",
-    "time": "8/4(火) 19:10",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "牧草地で太陽光発電、環境に優しいエネルギー開発 中国西蔵自治区&nbsp;&nbsp;プラメポータル",
-    "body": [
-      "牧草地で太陽光発電、環境に優しいエネルギー開発 中国西蔵自治区&nbsp;&nbsp;プラメポータル"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-70e5213615e3": {
-    "id": "auto-70e5213615e3",
-    "category": "その他",
-    "title": "AeroEdge（エアロエッジ）の脱炭素に向けた取り組みが、パートナーであるNeutreeno社とケンブリッジ大学の研",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10SUx6Vl9TYzBOYS1ZQ2VnT3lhUHNHSVRva2VYcW1oSE0zMUlKa3JqekhUdVQ4UWpmbzVMaHUwcTZCZkUtZXhfaFVmb0RfSE5Ydk9SbVZNdk1oQnNWMlQxZEdkcmR2NHZHRzQ4U1FhNA?oc=5",
-    "time": "8/4(火) 18:48",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "AeroEdge（エアロエッジ）の脱炭素に向けた取り組みが、パートナーであるNeutreeno社とケンブリッジ大学の研&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "AeroEdge（エアロエッジ）の脱炭素に向けた取り組みが、パートナーであるNeutreeno社とケンブリッジ大学の研&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-65b8f3d269bb": {
-    "id": "auto-65b8f3d269bb",
-    "category": "その他",
-    "title": "トリシマのスーパーエコポンプが、省エネ補助金に認定",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80UE4yWTR4VmNtWnJXMUhiYTlGVzFrbDlEbGx5eEhZa3FvTE1GMHV0c2NQRmxDU2Z0cHVWNzUtazFoeVJWTlgyWjBXd2szVnlJUHRQOXI5MzJiOXNpODFGNjROZVVaSWJ4dmhWTEgySWYwdF9WN2c?oc=5",
-    "time": "8/4(火) 17:48",
-    "comments": 0,
-    "tags": [
-      "省エネ"
-    ],
-    "summary": "トリシマのスーパーエコポンプが、省エネ補助金に認定&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "トリシマのスーパーエコポンプが、省エネ補助金に認定&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-b791a966b6aa": {
-    "id": "auto-b791a966b6aa",
-    "category": "その他",
-    "title": "ニクショール・ダンは、PNRRの資金を保護するために脱炭素法の再検討を求めると警告しています。",
-    "source": "Informat.ro",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTZZeFFJV21MVWNUTnUtdnpoQkh1ZWdGeXJoay0wS2pueGZWNTVTYy1EREI5c292UFRTQXYtZnkxVWo2QjBmNjRkSGZQejlsSVZQYThzRHNNMUJDbHl4X1dTUUNDdW5QOUN0dkNJcnI3ajB0aG5xeXd5RW5ZR3RXeUJiQmlHZXhyNXlqRHJHTGVfTjNQdll3MTJTMHNheUlBTmpz?oc=5",
-    "time": "8/4(火) 17:44",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "ニクショール・ダンは、PNRRの資金を保護するために脱炭素法の再検討を求めると警告しています。&nbsp;&nbsp;Informat.ro",
-    "body": [
-      "ニクショール・ダンは、PNRRの資金を保護するために脱炭素法の再検討を求めると警告しています。&nbsp;&nbsp;Informat.ro"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-cdf089251d79": {
-    "id": "auto-cdf089251d79",
-    "category": "暮らし",
-    "title": "一般生活者の約6割が「脱炭素は重要」と回答する一方、商品選択時に重視するのは約4人に1人",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWkhYcXg0NmtEM0NXYi1BbTdFenZPX0pQUWZlYXhsLWFQZWF5NGVlbEQ2UkhxVGZuX2l2UU9BV1VhcW9nczdXMmlMczY3ZVBFcVFYb19OZXJwaGJzX0lKS3EwOUUxcks1a3B2RGlqWUladGhTVnc?oc=5",
-    "time": "8/4(火) 17:18",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "一般生活者の約6割が「脱炭素は重要」と回答する一方、商品選択時に重視するのは約4人に1人&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "一般生活者の約6割が「脱炭素は重要」と回答する一方、商品選択時に重視するのは約4人に1人&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-f21154d567c0": {
-    "id": "auto-f21154d567c0",
-    "category": "暮らし",
-    "title": "宮城県などが推進する家庭用廃食用油の回収・SAF等への再資源化事業に参画 仙台市内のマンション11物件・約2,800戸",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMWVIdTF1UTdrUndjak91ZTZaZ3ozWkh6WjZ0c2tqU3JGcHczYXBwUTNxOXZpSXdjMzg1MHRKbDM5YzBreEdjS2R4N0tMSk9oVXlyemhoa0IxLVExY3J6S3RTc2h2R0plbU1hWW04UQ?oc=5",
-    "time": "8/4(火) 17:00",
-    "comments": 0,
-    "tags": [
-      "SAF"
-    ],
-    "summary": "宮城県などが推進する家庭用廃食用油の回収・SAF等への再資源化事業に参画 仙台市内のマンション11物件・約2,800戸&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "宮城県などが推進する家庭用廃食用油の回収・SAF等への再資源化事業に参画 仙台市内のマンション11物件・約2,800戸&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-cea05fafc349": {
-    "id": "auto-cea05fafc349",
-    "category": "企業",
-    "title": "【脱炭素・SDGs・ESG】東京電力リニューアブルパワー・パナソニック：水力発電の長期PPAを締結、年間CO2約2000トン削減へ - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-    "source": "検索: 企業の脱炭素・水素事業",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GUTVaakE5czFYWG9wdm44RHlILWJuOWZZLVpRWjkxYm1zb0Rya0YyQzJOV2FLeU5zRXpHSGlWOUlXVm5nUnliendSVDlPVUpRSjI2N2ZiR2t2M1dma1NBOFM3UlZnZ1ZFc2JkNThlZ1I5UQ?oc=5",
-    "time": "8/3(月) 22:32",
-    "comments": 0,
-    "tags": [
-      "脱炭素",
-      "CO2"
-    ],
-    "summary": "【脱炭素・SDGs・ESG】東京電力リニューアブルパワー・パナソニック：水力発電の長期PPAを締結、年間CO2約2000トン削減へ&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-    "body": [
-      "【脱炭素・SDGs・ESG】東京電力リニューアブルパワー・パナソニック：水力発電の長期PPAを締結、年間CO2約2000トン削減へ&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-2c67a743adba": {
-    "id": "auto-2c67a743adba",
-    "category": "企業",
-    "title": "【太陽光発電】イオン：国内イオンモール159拠点で実質再エネ100％、グループ全体の再エネ比率は68％に - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-    "source": "検索: 企業の脱炭素・水素事業",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DckdUWk55ZllldmZvRURIZ3pmVHdsMkFXcXJxbkR4S3AtbFJsb1ZmWVEyUEFWdXRKa0JOdE0xcEM5MTkzc1FiZDd0VzJJQXZkRDlBYmxqSVZ2aTVXOFFlZlRxQ2JwNmJFNjFCN3pZWXpCZw?oc=5",
-    "time": "8/3(月) 22:27",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "再エネ"
-    ],
-    "summary": "【太陽光発電】イオン：国内イオンモール159拠点で実質再エネ100％、グループ全体の再エネ比率は68％に&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-    "body": [
-      "【太陽光発電】イオン：国内イオンモール159拠点で実質再エネ100％、グループ全体の再エネ比率は68％に&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-410406fcccd4": {
-    "id": "auto-410406fcccd4",
-    "category": "その他",
-    "title": "デジタルグリッド、開始1年7カ月で蓄電池取扱量150MW超え",
-    "source": "ニュースメディアVOIX",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YVjhhb1pYaWExbmRlX3pCM3l4SjFGUnVDWU1uZEE1WGJhS2lIT19aWEdGbHoxVUlQSUZjSnJfdTItRXFvcWlQR2ZqNlhCa0pwejFj?oc=5",
-    "time": "8/2(日) 23:31",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "デジタルグリッド、開始1年7カ月で蓄電池取扱量150MW超え&nbsp;&nbsp;ニュースメディアVOIX",
-    "body": [
-      "デジタルグリッド、開始1年7カ月で蓄電池取扱量150MW超え&nbsp;&nbsp;ニュースメディアVOIX"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-d8c2c758e623": {
-    "id": "auto-d8c2c758e623",
-    "category": "暮らし",
-    "title": "Earth hacks、コクヨグループのカウネットでBtoB通販サービス初となる「デカボスコア」を導入",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000147.000122970.html",
-    "time": "8/5(水) 23:10",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "[Earth hacks株式会社] 生活者の声をもとに、脱炭素関連商品・サービスや事業の開発を目指す生活者共創型プラットフォームを展開するEarth hacks株式会社（本社：東京都渋谷区、代表取締役社長CEO：関根澄人、以下「Earth hacks」）は...",
-    "body": [
-      "[Earth hacks株式会社] 生活者の声をもとに、脱炭素関連商品・サービスや事業の開発を目指す生活者共創型プラットフォームを展開するEarth hacks株式会社（本社：東京都渋谷区、代表取締役社長CEO：関根澄人、以下「Earth hacks」）は..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/122970/147/122970-147-6d7f175a4d585fdd45ad191cb96a7eeb-1920x1005.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  "auto-bd0395879969": {
-    "id": "auto-bd0395879969",
-    "category": "企業",
-    "title": "NEDO「革新型蓄電池技術開発・高度解析」事業において、研究開発テーマ「亜鉛マンガン電池の技術開発」の委託先として参画",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000256.000075608.html",
-    "time": "8/5(水) 23:10",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "[マクセル株式会社] マクセル株式会社(取締役社長：中村 啓次／以下、マクセル)は、2026年7月に採択を公表された、国立研究開発法人新エネルギー・産業技術総合開発機構(以下、NEDO)が推進する「革新型蓄電池技術開発・高度解析」...",
-    "body": [
-      "[マクセル株式会社] マクセル株式会社(取締役社長：中村 啓次／以下、マクセル)は、2026年7月に採択を公表された、国立研究開発法人新エネルギー・産業技術総合開発機構(以下、NEDO)が推進する「革新型蓄電池技術開発・高度解析」..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
-  },
-  "auto-a0ab8513be7e": {
-    "id": "auto-a0ab8513be7e",
-    "category": "技術",
-    "title": "ベトナム、水素エネルギー産業の構築へ 活用可能性と課題 - viet-kabu.com",
-    "source": "検索: 水素・燃料電池",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04cGVBbEdXQkR4Y3FfSEllSEVVbTVxLWdJUGhTQ0doUmdRYVBfVFd2T1VHeUZhU1FtMHU3dy0zVFZuQ0Z5dmFxUkFQZEE1UU5MbVU0d0VwWHRfMkxLalMyTEV3VE84eDlE?oc=5",
-    "time": "8/4(火) 19:49",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "ベトナム、水素エネルギー産業の構築へ 活用可能性と課題&nbsp;&nbsp;viet-kabu.com",
-    "body": [
-      "ベトナム、水素エネルギー産業の構築へ 活用可能性と課題&nbsp;&nbsp;viet-kabu.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-b30357b06d91": {
-    "id": "auto-b30357b06d91",
-    "category": "その他",
-    "title": "タイニン省で、総工費約7兆8000億ベトナムドンの太陽光発電プロジェクトの建設が開始された。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmdCa1ZOMGtXZ0ptSWdfT29NRzVmZndZZzh2TzN6WkRKOUxxTG5NY191TXZRWlBBdnJSZFdLUTRuZGdmb1F4Wk5pS3RCUWwwVV9zZUh0QlpjSjBKN2I2R1RPX2hRV2ZHVGx0QWFfUHFVRVdYeG9uR29xamF4d0hNcktBZE41Q296NUE2TlluSQ?oc=5",
-    "time": "8/4(火) 16:20",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "タイニン省で、総工費約7兆8000億ベトナムドンの太陽光発電プロジェクトの建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "タイニン省で、総工費約7兆8000億ベトナムドンの太陽光発電プロジェクトの建設が開始された。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a7b7465ff630": {
-    "id": "auto-a7b7465ff630",
-    "category": "暮らし",
-    "title": "住宅販売・リフォームの営業担当者のための「温暖化防止アドバイザー（住宅部門）養成研修」開催 ~省エネ住宅が家選びのポイ",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wU0c1RDVaRjNLV0R6OTZBWnp6RWx4SWtyeVRzU1JBQkJ3Q2dtdVJpSV9kcmhCWU00QWNQempST29jMURyNzNVRW8ySTY2MzRjdW83THBXNkg3ZlI3dDV2d3NNRE56NS16Z0U4QVlwdDZpWTVhdmc?oc=5",
-    "time": "8/4(火) 16:18",
-    "comments": 0,
-    "tags": [
-      "省エネ"
-    ],
-    "summary": "住宅販売・リフォームの営業担当者のための「温暖化防止アドバイザー（住宅部門）養成研修」開催 ~省エネ住宅が家選びのポイ&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "住宅販売・リフォームの営業担当者のための「温暖化防止アドバイザー（住宅部門）養成研修」開催 ~省エネ住宅が家選びのポイ&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-760db4f42fd4": {
-    "id": "auto-760db4f42fd4",
-    "category": "国際",
-    "title": "米国、太陽光発電と半導体分野で中国に対抗するため、ポリシリコンの最低価格設定や関税の導入を検討",
-    "source": "TradingView",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vUjdyakFaLXFsUUVlbHYzQTlvd19mczgxSjZiTVlRd0dUanFISG1QQmlheGJqb3NER01xdEdqZHZQYWItdmxpbk1ySG9lR253cnhJOWdpUmtpd0tZUGk3MWQxT1ltSExPM3FWSGwwQTh6YlJoRUlRVA?oc=5",
-    "time": "8/4(火) 16:05",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "米国、太陽光発電と半導体分野で中国に対抗するため、ポリシリコンの最低価格設定や関税の導入を検討&nbsp;&nbsp;TradingView",
-    "body": [
-      "米国、太陽光発電と半導体分野で中国に対抗するため、ポリシリコンの最低価格設定や関税の導入を検討&nbsp;&nbsp;TradingView"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a6fd585eed35": {
-    "id": "auto-a6fd585eed35",
-    "category": "国際",
-    "title": "【画像】牧草地で太陽光発電、環境に優しいエネルギー開発 中国西蔵自治区 1/10",
-    "source": "news.livedoor.com",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvc203bDBUTENQVF9vUnhNbElPNmpBQV9yOWowemJBZlA1b2NaNmowM3VVZ2kzMUQteWpfRTF1cElIS05reHNjS1VaSFZhVFpxdkp5bGRTVVVuVVhELXhtS3l1V1ZtSnNsWEpicjZvcTI4MUhwd1NObVpqUF8?oc=5",
-    "time": "8/4(火) 15:32",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "【画像】牧草地で太陽光発電、環境に優しいエネルギー開発 中国西蔵自治区 1/10&nbsp;&nbsp;news.livedoor.com",
-    "body": [
-      "【画像】牧草地で太陽光発電、環境に優しいエネルギー開発 中国西蔵自治区 1/10&nbsp;&nbsp;news.livedoor.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ed3dce3540df": {
-    "id": "auto-ed3dce3540df",
-    "category": "その他",
-    "title": "東急不動産、埼玉・東松山で水稲栽培と発電を両立する営農型太陽光発電所を稼働",
-    "source": "AMP[アンプ]",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZOVBYNXFsTzNiRGdWVXAxYnROZndKUFR2My1YM2ZlTHRiWUlaT2h0djd3a3B6UFVTUzRsU0dWZkRvd1FnU2ctWnVHVUZhTFV1VFo5LVNsMA?oc=5",
-    "time": "8/4(火) 15:31",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "東急不動産、埼玉・東松山で水稲栽培と発電を両立する営農型太陽光発電所を稼働&nbsp;&nbsp;AMP[アンプ]",
-    "body": [
-      "東急不動産、埼玉・東松山で水稲栽培と発電を両立する営農型太陽光発電所を稼働&nbsp;&nbsp;AMP[アンプ]"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-fbdba3977412": {
-    "id": "auto-fbdba3977412",
-    "category": "その他",
-    "title": "旭化成ホームズ、建設現場や工場に再エネ電力で動く冷却設備を導入 熱中症対策を強化",
-    "source": "AMP[アンプ]",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGbmphZlJfSGtPRUhYeG44eUI2dktMdmw2NzVlWEtLclJhQ1Y4UzltV25RTE54LVc2aUFncVl4aktsMW4yUENFcXVtRjRMdTRFLWIwNGd0SThhOUVCc0Rz?oc=5",
-    "time": "8/4(火) 14:55",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "旭化成ホームズ、建設現場や工場に再エネ電力で動く冷却設備を導入 熱中症対策を強化&nbsp;&nbsp;AMP[アンプ]",
-    "body": [
-      "旭化成ホームズ、建設現場や工場に再エネ電力で動く冷却設備を導入 熱中症対策を強化&nbsp;&nbsp;AMP[アンプ]"
     ],
     "related": [],
     "collected": true,
