@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-6765ea1ca8ba",
-    "title": "オムロンが低圧太陽光向けパワコンの新製品 大電流タイプのパネルに対応",
-    "summary": "オムロン ソーシアルソリューションズは、低圧産業用太陽光発電システム向けパワーコンディショナーの新製品を同年9月下旬から販売する。",
-    "category": "技術",
-    "source": "ITmedia スマートジャパン",
-    "time": "8/12(水) 14:00",
+    "id": "auto-418bd3205c13",
+    "title": "森林資源の循環利用へ連携開始 豊中市と益田市が自治体間協定を締結",
+    "summary": "[豊中市] 豊中市は、森林環境の保全と脱炭素化の推進を目的に、島根県益田市と「森林環境保全に関する自治体間連携協定」を締結します。本協定に基づき、「植える→育てる→使う→植える」の循環を活用した森林整備・保全に...",
+    "category": "自治体",
+    "source": "PR TIMES",
+    "time": "8/12(水) 15:15",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/12/news075.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/12/l_rk_260812_oss.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000001029.000078420.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/78420/1029/78420-1029-d3e798444a915c12e9c4b7f5415fefb1-3272x2454.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-e1d9e0272295",
+      "id": "auto-6765ea1ca8ba",
       "rank": 1,
+      "title": "オムロンが低圧太陽光向けパワコンの新製品 大電流タイプのパネルに対応",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "8/12(水) 14:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/12/news075.html"
+    },
+    {
+      "id": "auto-e1d9e0272295",
+      "rank": 2,
       "title": "再生可能エネ拡大のドイツ、日食の影響で電力価格が一時急騰",
       "category": "国際",
       "source": "はてなブックマーク",
       "time": "8/12(水) 13:04",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://www.afpbb.com/articles/-/3648120"
     },
     {
-      "id": "auto-e4cee39fc3f8",
-      "rank": 2,
-      "title": "えねこが贈る「にゃんにゃんキャンペーン」で蓄電池の10年延長保証が特別価格の22,222円に",
-      "category": "その他",
-      "source": "ニュースメディアVOIX",
-      "time": "8/12(水) 7:44",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53SzZlUXBUUWc0SzVGQVUyQTRLbWJhcEpHZkZKUTZ3WURYVlFqT1E4U1RWYmlVMjZzbTR2cEdRRFk1U1V5Mzd3?oc=5"
-    },
-    {
-      "id": "auto-9cd27059bc85",
+      "id": "auto-c4daa7dfb57d",
       "rank": 3,
-      "title": "【JPIセミナー】「川崎重工業(株)における分散型電源としての大型水素ガスエンジン開発の最新動向と今後の展開」8月28日(金)開催",
-      "category": "技術",
-      "source": "PR TIMES",
-      "time": "8/12(水) 7:30",
+      "title": "再生可能エネルギー分野における協力は、ASEANの未来を担う。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "8/12(水) 9:23",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3WVVkWmphZ1ZkR3prMHlCX3Vfcm5OQlZzRFlMMU4tLWdGZDRKU1I3LXFOTWJoZnNvRDB3OEota3lxUUliV0tIck1QaVVBNmpkNUtoVmNGR1dOMmZmM3RnbkZWY2hOalJOTXc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UdF9Ddzg1NWV6RWYzN2FfSi1NWkFkd2YwR2N1aTNORF9ZSzFTTGRNUGV2aDloRkMyZGVUYXp5Yk1oSkE0ZU0yLUN0WGp5TjFMNE5OalVqMUNUdWxRV0g2Z256OUUzOTBVWnhWRV96OVp2c2ctYjYxQ1ZXZw?oc=5"
     },
     {
-      "id": "auto-4df6f51d7d41",
+      "id": "auto-0f2370a7f66a",
       "rank": 4,
-      "title": "中国の水素生産能力、年間5100万トンを突破",
+      "title": "水素プロセス用センサーの世界市場（2026年～2032年）、市場規模（ガスセンサー、圧力センサー、温度センサー、流量センサー、レベルセンサー、その他）・分析レポートを発表",
       "category": "技術",
-      "source": "Record China",
-      "time": "8/12(水) 7:30",
+      "source": "アットプレス",
+      "time": "8/12(水) 9:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FVkRGZ0tNZE5XVkN5eWtXa2R4UXhZa3JoYkQ2blFzT29CWVNKeXpNdDE5YVhRbktuYWpLZGp3bmg1SHFkeWsxNXZJV1N1QUowVlM1MzE1NC1HRU9qVmpLUWFKamlKUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMTEhBOWZOOWR3MDlyS2hXRXZfc3hIY0JZYnE3Y0xWTHdVaXpsVHZZNUVNaE9IYnE1am01SkJUbkpKWVFoekdRR2poa1E3MUk?oc=5"
     },
     {
-      "id": "auto-23067d309ea6",
+      "id": "auto-a366cf6484a2",
       "rank": 5,
-      "title": "日本の住宅用蓄電池市場規模、成長率、動向および予測：太陽光発電の自家消費、VPP統合、家庭のエネルギーレジリエンス",
-      "category": "暮らし",
+      "title": "【特別企画】『お陽さまテックのえねこ』、蓄電池の10年延長保証が“22,222円”になる「にゃんにゃんキャンペーン」を",
+      "category": "その他",
       "source": "ニコニコニュース",
-      "time": "8/12(水) 7:03",
+      "time": "8/12(水) 8:48",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xcklhLVpCYUUtY1RKMVZJbW50ak5RN2h2SHRWdF9rQnM0aGxLZkJKdVZXUk80U3VHVWUxaGJoSFJLYlo4U2JHZHVyTlc4ZGZvV290MWpGOFB6SE4zN1hUX3Fjelh0V3RyclZNaWJwbzc4SEREVHIwQjVwMA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51QXlMR183U0JFZHNLaVRnZ3VBQ3dNT0Z2WjJXYUs1cEhrTmNHUUVZRkJLdTh1akpwM2dqVTVjMXVpa1dxM1ZXbUNkbUhEcjJ3ZE1SdnF5UjZvRGpFdW5pWVBiYUJGRkUzSjBxbVpTR0lYb2ZnTFNfSlFrQQ?oc=5"
     },
     {
-      "id": "auto-adddee6bd128",
+      "id": "auto-b8830e5d5e50",
       "rank": 6,
-      "title": "【JPIセミナー】国土交通省「国土交通GXの推進に向けた具体施策と今後の方向性」8月27日(木)開催",
-      "category": "その他",
-      "source": "イザ！",
-      "time": "8/12(水) 7:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vemRqN1pnSDgya3BCTnkwTmJoWVNRa2tLMnpwRjdVLUZ6S1VuUkhBQzFzU2tKTGh1STBmbEI3ZGNSQlNoOUxrRERjc1FwMGNRN0R3RGFMZXBpcTVJbDBOV3ZZY01LYkZUdmdidkpEYjhWNTBnSW1zTzRR?oc=5"
-    },
-    {
-      "id": "auto-f44d8d4893bb",
-      "rank": 7,
-      "title": "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進",
-      "category": "その他",
-      "source": "天神経済新聞",
-      "time": "8/12(水) 6:02",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IckN3Szh0c2ZMdnBTVm54SnpiOGhlQ2cwQkQ3LUJ2NkQwSGM4OWRHdlBhUklOLVNGLW0yTW94U1hTQVp4ekRJb1hOVGVzQ010UFdF?oc=5"
-    },
-    {
-      "id": "auto-71fea66b9d96",
-      "rank": 8,
-      "title": "クラダシ、埼玉滑川蓄電所を着工し2026年10月の受電開始へ",
+      "title": "クラダシ、国内2カ所に系統用蓄電池を設置し8月から運用開始",
       "category": "その他",
       "source": "ニュースメディアVOIX",
-      "time": "8/12(水) 6:02",
+      "time": "8/12(水) 8:35",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NNkt6QW53bUZ6cGZ6UWlOd1FLa1ZZdl9tT1QtempHd1h2a3JmMU9Gblhsb2lkTDMwSHktWVpEcHV3MkFFcmV0RTMxdTZQWmQ1RWlr?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRncxbzZqcTNSVGtvRlp3OEFXc19ianR3V3hacjJwQUxOLUJNZG9zM1FQMklRcUxjUzhWRWVIa29HZkRteFplUGdhQmV0ZkNCNGRB?oc=5"
+    },
+    {
+      "id": "auto-890c146f1cbe",
+      "rank": 7,
+      "title": "「もっと水素で出来ることを知りたい」 液体を電気分解した水素が燃料のロケットを飛ばす 次世代エネルギーの実験教室 甲府市",
+      "category": "技術",
+      "source": "au Webポータル",
+      "time": "8/12(水) 8:26",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dmcyTllpQm9QNUdhNEVVQ3k1bnJUa3pIb21XanVfRllBTTdmVklaVkJoeE82N1ZBZVZqNnBaVFZpYXp3dUVrRHhWZ0wxSXJPc3hKRzNqMl93amszemxOSVRKc2Q1djFTcjlRWklB?oc=5"
+    },
+    {
+      "id": "auto-819a4b67674f",
+      "rank": 8,
+      "title": "Hydrogen Generation Market （水素製造市場）傾向、需要、成長分析、および2026－2035年の予測",
+      "category": "技術",
+      "source": "ニコニコニュース",
+      "time": "8/12(水) 8:18",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tMnlodDd4X2lUSnU3cmhSNFczY3JoRXdFWW8yU3NUcnB0SHI4ckVXb19BZThMWV9QcnFlYUJlcmk3cGtpakM5YTR1OVhnM2lmNzBUakw3cFFhbFRvUFd2RFhJZkVTaFZhbmUwSEVSVlRvOFBhWEJMRFBDMA?oc=5"
     }
   ]
 }
