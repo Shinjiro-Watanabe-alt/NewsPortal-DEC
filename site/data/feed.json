@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-0af5913f8e32",
+    "title": "【Earth hacks×BitStar】『デカデカ！デカボー』YouTubeチャンネル登録者数10万人突破！",
+    "category": "暮らし",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000149.000122970.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/122970/149/122970-149-cf9d8c37ef149e4ea9fdb2d1001415ad-1200x800.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-55cc01a1ef58",
     "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】福島系統用蓄電所担保ローンファンドID1140』を公開",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "21:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000887.000013809.html",
@@ -13,17 +23,27 @@
     "id": "auto-2f0a8f38fc3c",
     "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】栃木系統用蓄電池ローンファンドID1103』を公開",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "21:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000886.000013809.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/13809/886/13809-886-3c7179010952c2fc4c0e85222f1dd0fb-520x340.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-e230ef68e8a0",
+    "title": "世界のLNGおよび水素関連の取引が、ベイカー・ヒューズ（BKR）への投資判断を変える可能性がある",
+    "category": "技術",
+    "accent": false,
+    "source": "simplywall.st",
+    "time": "13:19",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXg4ME43SVNIX3NzQV9tVms3c0JZeTJaOXFPNHNzVF9oM25PX0UzU3JiMDd6VU00M2k5ZGRxN2wwQW1YR2FLWHpJMHNqY3hNbm9XaFpDS1AyYnR6WU9XSkhLYTJST2dWZjBuM2h2SUh6VFZ4QTFlbUdvZnl4RGp0LV9DOENGNlV1S2oyaVR6bFnSAZYBQVVfeXFMTUlWMjNncnFIVVN3WnNUdC04UFhfWm9Rck8xNjlqekVuNENmMTNRbTJLcFdYSERTUmJGRUpWcjVUSkdseGIydjc4VVpPNXpMc25PWE8zWi15S3F5SkdCaGN2QzFRNlJuTWI5ak0tVXdNaVp6Zm9pN1ZsWWllVlhfeEZvb09MQ3lXQjZXWnNiWU05bkpxdkV3?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-49c8e6969f90",
     "title": "2027年省エネ基準達成率100%のルームエアコン3機種を74,800円から発売",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "13:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000039.000124056.html",
@@ -43,7 +63,7 @@
     "id": "auto-fd8dad5b0622",
     "title": "カマウ省は、風力発電と太陽光発電と連携して電力網インフラを整備している。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "12:04",
     "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTZDMXFnUXF3VjYtbERKZ0FUNDBoRTRWSEVEdDB4d3JSd04xc2NxZkFuRU1MemoyRkNtbjdSYTJjSy1veGdjY2FWVk5iWl91YkZzYmRETV95aE1COUZobGZySTVPMVJTQ19YNzhYYXJjTVBmcnVOVDVCWlhDbHdkMElKMko1VDJXQXBCWUZtSGowYUlCNEstWXN5ZGw?oc=5",
@@ -53,7 +73,7 @@
     "id": "auto-b97faff6fbcd",
     "title": "浮体式洋上風力に初参画…住友商事、株式33.3％取得",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニュースイッチ by 日刊工業新聞社",
     "time": "10:27",
     "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UaThFcDlKVk1rd0hsN000TkxsOWdMSGlrbzRGc21hYUpLZlJ6Q0MyWGR4bVJHcjRKN0FodG12QnZ1ZXVMTVI4?oc=5",
@@ -64,8 +84,8 @@
     "title": "青森ねぶた、水素で照らす 愛三工業の発電機搭載 「ガス臭なく静か」好評：ニュース",
     "category": "技術",
     "accent": false,
-    "source": "中日BIZナビ",
-    "time": "10:04",
+    "source": "biz.chunichi.co.jp",
+    "time": "10:17",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYUNmd19vcE9pa2otbHdsV3hsNTI4LURqeFZlVmprZG1UcVJzbmpGaTRsS1dVcUN1aDlUYWptMi1oanhwUGIzWS1aRnRQeWt1c2ZsblZyQnowVnhfZTFN?oc=5",
     "image": null
   },
@@ -73,7 +93,7 @@
     "id": "auto-393aaaff4f88",
     "title": "中国の再エネ発電、1～6月は全体の約4割に 風力・太陽光は電力消費の1/4を供給",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "36Kr Japan",
     "time": "9:33",
     "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE90ckY3eUJ3bXlMeDVLZ0dnWHcyc1lPSmtJUm8wYU9Rb2RCSVV5Xy05b1ZsMEd6NmtOclhJ?oc=5",
@@ -83,7 +103,7 @@
     "id": "auto-890d996f9cab",
     "title": "SeAH Steel Holdings、2Q営業損失508億ウォン…洋上風力の引当金で赤字転換",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "BigGo ファイナンス",
     "time": "9:07",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbEdRR2ZkMXJtSXpNbVpWN2Z2bkFpcXluN1F0cTZwdXd6dG5GTGJYQUIxZ2U2dnQyZGd5WGVMeC1GeWlCYVo1UmdsZ0hsQ0lHNnB6b0h5dlpoVlpVdFR1Rm1Ya2pTc28xaldMNkkwZm9FcFpo?oc=5",
@@ -97,26 +117,6 @@
     "source": "note.com",
     "time": "8:47",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82eWktbG9vTlFpZ2JNMm5qdnBvNEVBRnhlSmJISGpLaXBhMXhYbFlmemxPQzdkYzF5LVZNMWtRVjktM0RuVWNXSVhBNURzR0VUSGRpSzJQYw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-388fac4fe641",
-    "title": "愛知県阿久比町とゼロカーボンシティに関する包括的連携協定を締結 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
-    "category": "自治体",
-    "accent": true,
-    "source": "南日本新聞",
-    "time": "7:56",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQWJDVU12Y2JNTVpES0tLd25mRkE0OEl5V2c5M1Y1WDhSY3R6TzVVc0gtcUw1MVFfMzFOZzUyZ2hRMVhVUTVLb3NxQklodFVFbUpoODFaNGNQb1Z0REFnTE1WMDgxRW5VelBLY3JkOWRsRmVrXzI0WmNuTjNyRTZXbg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0e90e6992aac",
-    "title": "画像3 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "7:37",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GVDVXN0ZPSjhYMzhQSlZlTEUyTWNBQ1FTc0F3RlVaTjAwcUtwV3RybVozRGtUb2ExaW1mQlJjVHUzdE13RHVSc1ZxbnE5elpCTm4zWENOdWdpalZYNC04aDg4cjN3Zk8yeEVmaXl3?oc=5",
     "image": null
   },
   {
@@ -140,30 +140,10 @@
     "image": null
   },
   {
-    "id": "auto-e0a9a8e9a893",
-    "title": "画像9 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "7:08",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYzZCQXZhMDI4bUptRDB0X29zUG54clYtY1g5VXp0b1NNNERQNHI1dXVRMHFFbUM0eW1NOXliSXB6cU1PQWlMQnNvM1FMcFJDMVdkczVhdE5CZVdiS21xQU9odWVkQlF5TUdRYkpn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8ce4c9d044ae",
-    "title": "【大阪会場】日経ビジネスイノベーションフォーラム「再エネ主力電源化への道筋を探る～太陽光発電・蓄電池市場の最新動向と選択肢～」",
-    "category": "その他",
-    "accent": false,
-    "source": "日経イベント＆セミナー",
-    "time": "7:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EVzlpczdjZGdCX2NqaDdSUVZFVWZyTTNpVU1xNUFnYTd5RGV2Yy01ZVpuTVpFZnFLOUJqVGdYWUktdnRZMHZNR05R?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-df7038a9b57f",
     "title": "クアンニン省は、改訂版電力開発計画VIIIに8つの太陽光発電プロジェクトを追加することを提案している。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "6:44",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUxIZlNjZHhZcUhKT0R0eWl0TGFxeW1XYnhlUFdaVnV4TDgxeXZJenFiemlXM1QyVG1LYl93Uk82VFdLSTdxM2s0OTBXZG9JSVB4UjN3T2owVklMNld2cWdqbFo3U01LaTc2SXJnN3h2bF9vYzB1RER1V3JlamNiQ1JGV29TNUZmNDc5cTBORW9mckZhNk5pVDRkdl9iZ0Y2MUZsOGZaVUFJX2gzZnc?oc=5",
@@ -183,7 +163,7 @@
     "id": "auto-83e9da57af17",
     "title": "事業用向け太陽光発電設備の共同調達支援事業",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "city.kakogawa.lg.jp",
     "time": "6:14",
     "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDNpa0lKN282VXczQjJ4aVdSZmw3aEhSRXBiQm1ITy1oMjMxRWFycGljQ3NMWWI2MU1FazJsVWRObjVNMVZLRG9XLWJFZHdfOVZ6Y3JIMkFjdWhqbWh5dzU2U3NDa3RyMW50ZjkzRUtPNF9TNEZjT1EwaWphbFZsQ01DQVR4NG1zTy1HOU13dC01Rjd1ZW5fMUlrdw?oc=5",
@@ -193,7 +173,7 @@
     "id": "auto-b99855de6210",
     "title": "シンソンENGが韓国グリーンデータと「設備·データ融合基盤エネルギー事業協力に関する業務協約(MOU)」を締結したと14日明らかにした。今回の協約はシンソンENGが保有した太陽光発電·クリーンルーム",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "매일경제",
     "time": "6:01",
     "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsQWI4U0tzcFAtOTBDaFBPa0FvNnZHQk5vcmlDTy1yTDU3Q0RLTThoR0ZYODNJWUJBbDI0Mm5veWFQYVVmakNXSVpQclZoQQ?oc=5",
@@ -213,20 +193,10 @@
     "id": "auto-b4649914e3d7",
     "title": "百十四銀行と高松市 中小企業向け脱炭素経営セミナー開催 参加者募集",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "5:49",
     "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWTdBbHpGakFkdlk4WjJKc1hzTlVyZnkwY3IycW9GX2FuVUdBcTBocFZSLTIzLUpiRUtHRTItSUp6UkRWMHJjaEE1U0g1dTY0U2V6NnJpRFM5c3NxOWduNzI1RkwxMF9HQll6eFgyRDNaZTJIRk93Ng?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ba70379bcbc2",
-    "title": "画像4 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
-    "category": "その他",
-    "accent": true,
-    "source": "ウォーカープラス",
-    "time": "5:26",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHNGo2SXZVQVNQd2RXRFpwcUJJQkJ1cm5EY2pTLUI2REFEa1FZM2JnVElFUml5UkxtUWRGMkR3RHRDT3Fmam9uNFkzWW9tNExyN3BxVllfcjdGZFp5eHRCTTc3ZDY2OVVFb1pyUU1R?oc=5",
     "image": null
   },
   {
@@ -297,6 +267,36 @@
     "source": "Excite エキサイト",
     "time": "3:39",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXQld3OWJxenRvWi01VHpkLTlSOGx1R1dyZVBwSEZfZXZLM1Bfdjl0dTBRZXJiSDlRSkJJbkozRkhMdU9LYmRmNUJFeFNxU2VCV1pPejBPLUtQUFlTNnFtT0QyTWxJLXFsV0NHWmJ3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a2e9efe568dc",
+    "title": "県内外で相次ぐ銅線窃盗 高知の太陽光発電所で30本窃盗 男2人起訴【愛媛】（2026年8月13日掲載）｜南海放送NEWS NNN",
+    "category": "その他",
+    "accent": false,
+    "source": "日テレNEWS NNN",
+    "time": "3:37",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3l5N1FBTWxYSk1pcktUY3ltMlh6eWtXVTFDSmZaN19odDVTMVpJZTdNcFEwdGdYc19GU1lXU3BvVEVqemlFbFUzekxQQkhld1pSRzZnTGJGWEtfRmxfcE51dFBwX2pjRUhtWlBaWXpUMW1Uc1VJOWlINENWOG1sSnpvUG5JMG8?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b6913633a79b",
+    "title": "浜松貿易、世界最大級のボランタリーカーボンクレジット市場へ直接参入",
+    "category": "国際",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "3:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxeWs2RmNQdmtzUTdRWHlzS3BKVTItUnNsaGdYbWFLOVpxMDlmOFViYnBrRWt3N3BjSDhOYnBCV3FuVzU3YlJvZTJ0Z09jX3ZxWThlcUZDREhrVGNzY1ljYlRZdlpDTW5xMXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4b8c1c5b10a4",
+    "title": "小型空冷式水素燃料電池の世界市場（2026年～2032年）、市場規模（開放空冷、密閉空冷）・分析レポートを発表",
+    "category": "技術",
+    "accent": false,
+    "source": "アットプレス",
+    "time": "3:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kT1l1THRsMXZYcUc2YTYycmNCaktnZktxRTNDSU5pQVp1ci1zT1ZKWWtUamF5bGEwTjNJS2hPUmlqOUpHUE5FVUlSOXlqZzg?oc=5",
     "image": null
   }
 ]

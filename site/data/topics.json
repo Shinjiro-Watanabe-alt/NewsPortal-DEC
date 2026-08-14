@@ -11,31 +11,53 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-55cc01a1ef58",
-    "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】福島系統用蓄電所担保ローンファンドID1140』を公開",
-    "summary": "[SAMURAI証券株式会社] 個人投資家の皆様にさまざまな投資機会を提供するオルタナティブ投資プラットフォーム「オルタナバンク」を運営するSAMURAI 証券株式会社（本社：東京都港区、代表取締役社長：山口 慶一）は、新商品『【3ヶ月毎...",
-    "category": "企業",
+    "id": "auto-0af5913f8e32",
+    "title": "【Earth hacks×BitStar】『デカデカ！デカボー』YouTubeチャンネル登録者数10万人突破！",
+    "summary": "[Earth hacks株式会社] 生活者の声をもとに、脱炭素関連商品・サービスや事業の開発を目指す生活者共創型プラットフォームを展開するEarth hacks株式会社（本社：東京都渋谷区、代表取締役社長CEO：関根澄人、以下「Earth hacks」）は...",
+    "category": "暮らし",
     "source": "PR TIMES",
-    "time": "8/14(金) 21:40",
+    "time": "8/14(金) 23:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000887.000013809.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/13809/887/13809-887-fb91c99cc739df8a37221ef61e722568-520x340.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000149.000122970.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/122970/149/122970-149-cf9d8c37ef149e4ea9fdb2d1001415ad-1200x800.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-2f0a8f38fc3c",
+      "id": "auto-55cc01a1ef58",
       "rank": 1,
+      "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】福島系統用蓄電所担保ローンファンドID1140』を公開",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/14(金) 21:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000887.000013809.html"
+    },
+    {
+      "id": "auto-2f0a8f38fc3c",
+      "rank": 2,
       "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『【3ヶ月毎分配】栃木系統用蓄電池ローンファンドID1103』を公開",
       "category": "企業",
       "source": "PR TIMES",
       "time": "8/14(金) 21:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000886.000013809.html"
     },
     {
+      "id": "auto-e230ef68e8a0",
+      "rank": 3,
+      "title": "世界のLNGおよび水素関連の取引が、ベイカー・ヒューズ（BKR）への投資判断を変える可能性がある",
+      "category": "技術",
+      "source": "simplywall.st",
+      "time": "8/14(金) 13:19",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXg4ME43SVNIX3NzQV9tVms3c0JZeTJaOXFPNHNzVF9oM25PX0UzU3JiMDd6VU00M2k5ZGRxN2wwQW1YR2FLWHpJMHNqY3hNbm9XaFpDS1AyYnR6WU9XSkhLYTJST2dWZjBuM2h2SUh6VFZ4QTFlbUdvZnl4RGp0LV9DOENGNlV1S2oyaVR6bFnSAZYBQVVfeXFMTUlWMjNncnFIVVN3WnNUdC04UFhfWm9Rck8xNjlqekVuNENmMTNRbTJLcFdYSERTUmJGRUpWcjVUSkdseGIydjc4VVpPNXpMc25PWE8zWi15S3F5SkdCaGN2QzFRNlJuTWI5ak0tVXdNaVp6Zm9pN1ZsWWllVlhfeEZvb09MQ3lXQjZXWnNiWU05bkpxdkV3?oc=5"
+    },
+    {
       "id": "auto-49c8e6969f90",
-      "rank": 2,
+      "rank": 4,
       "title": "2027年省エネ基準達成率100%のルームエアコン3機種を74,800円から発売",
       "category": "企業",
       "source": "PR TIMES",
@@ -46,29 +68,29 @@
     },
     {
       "id": "auto-80063a3be454",
-      "rank": 3,
+      "rank": 5,
       "title": "中国の水素エネルギー産業における劇的な変化。",
       "category": "技術",
       "source": "Vietnam.vn",
       "time": "8/14(金) 12:07",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnlxYmxXUXZ3bnd1WjVuM0NId1FUYko1bnRWOXRtVjM2V2RWNzlWR1lZYlFpZzZsbXNlWDR0WDFYcWtSOTdjTmFRQ0o1TnZPdC15UFdoSGhyZmVPdzZRZXowT1ZwbFlDNzl4Zzhla19aeWFPUHUybmZDcVRwbWxQdGxtZVp1cmg3RGFR?oc=5"
     },
     {
       "id": "auto-fd8dad5b0622",
-      "rank": 4,
+      "rank": 6,
       "title": "カマウ省は、風力発電と太陽光発電と連携して電力網インフラを整備している。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "8/14(金) 12:04",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTZDMXFnUXF3VjYtbERKZ0FUNDBoRTRWSEVEdDB4d3JSd04xc2NxZkFuRU1MemoyRkNtbjdSYTJjSy1veGdjY2FWVk5iWl91YkZzYmRETV95aE1COUZobGZySTVPMVJTQ19YNzhYYXJjTVBmcnVOVDVCWlhDbHdkMElKMko1VDJXQXBCWUZtSGowYUlCNEstWXN5ZGw?oc=5"
     },
     {
       "id": "auto-b97faff6fbcd",
-      "rank": 5,
+      "rank": 7,
       "title": "浮体式洋上風力に初参画…住友商事、株式33.3％取得",
       "category": "その他",
       "source": "ニュースイッチ by 日刊工業新聞社",
@@ -79,36 +101,14 @@
     },
     {
       "id": "auto-32df7a0cb4bc",
-      "rank": 6,
+      "rank": 8,
       "title": "青森ねぶた、水素で照らす 愛三工業の発電機搭載 「ガス臭なく静か」好評：ニュース",
       "category": "技術",
-      "source": "中日BIZナビ",
-      "time": "8/14(金) 10:04",
+      "source": "biz.chunichi.co.jp",
+      "time": "8/14(金) 10:17",
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYUNmd19vcE9pa2otbHdsV3hsNTI4LURqeFZlVmprZG1UcVJzbmpGaTRsS1dVcUN1aDlUYWptMi1oanhwUGIzWS1aRnRQeWt1c2ZsblZyQnowVnhfZTFN?oc=5"
-    },
-    {
-      "id": "auto-393aaaff4f88",
-      "rank": 7,
-      "title": "中国の再エネ発電、1～6月は全体の約4割に 風力・太陽光は電力消費の1/4を供給",
-      "category": "国際",
-      "source": "36Kr Japan",
-      "time": "8/14(金) 9:33",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE90ckY3eUJ3bXlMeDVLZ0dnWHcyc1lPSmtJUm8wYU9Rb2RCSVV5Xy05b1ZsMEd6NmtOclhJ?oc=5"
-    },
-    {
-      "id": "auto-890d996f9cab",
-      "rank": 8,
-      "title": "SeAH Steel Holdings、2Q営業損失508億ウォン…洋上風力の引当金で赤字転換",
-      "category": "その他",
-      "source": "BigGo ファイナンス",
-      "time": "8/14(金) 9:07",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbEdRR2ZkMXJtSXpNbVpWN2Z2bkFpcXluN1F0cTZwdXd6dG5GTGJYQUIxZ2U2dnQyZGd5WGVMeC1GeWlCYVo1UmdsZ0hsQ0lHNnB6b0h5dlpoVlpVdFR1Rm1Ya2pTc28xaldMNkkwZm9FcFpo?oc=5"
     }
   ]
 }
