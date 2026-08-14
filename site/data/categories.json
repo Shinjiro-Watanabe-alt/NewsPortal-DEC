@@ -39,12 +39,12 @@
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 101
+    "count": 102
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 457
+    "count": 456
   }
 ]
