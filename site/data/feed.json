@@ -1,19 +1,9 @@
 [
   {
-    "id": "auto-3f28973402e5",
-    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL83号 福島松川系統連携蓄電池シリーズ１. 完売』",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "18:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000152.000136212.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/136212/152/136212-152-d044d1c8799ad09025f4867e0d20b4a1-800x570.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-0af5913f8e32",
     "title": "【Earth hacks×BitStar】『デカデカ！デカボー』YouTubeチャンネル登録者数10万人突破！",
     "category": "暮らし",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "17:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000149.000122970.html",
@@ -23,11 +13,41 @@
     "id": "auto-79382fc95db0",
     "title": "系統用蓄電所事業、適時開示（４月30日）記載の系統用蓄電所事業開始引渡予定日について、約7週間前倒しで第2号施設が稼働段階へ ― その後、公表していた引渡予定日をさらに1週間前倒しして検収を完了",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "15:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000185790.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/185790/8/185790-8-6b89ceda41ac340922fd4a3e8a020383-741x977.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-aab60b268c1e",
+    "title": "インドネシアはエネルギー自給率を高めるために太陽光発電を推進している。",
+    "category": "国際",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "12:29",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGNmU3AyRk9UN25QUXYyOFNEcTVqM3dyWFB3bk9uUHlWUTV5NE9OaHdkR3NHSHRnYWtDbG1EYkFlY2p2SDFNc2ZCNGRCTTJVaG9yMjNOQUpFSjhhWW1iQkZWalFuT3I3cmVTSHAwX21hZXFaanl5TTZoWG0wUktMU0l4bmFIVVJ0QzQxXw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-634ca86e4f72",
+    "title": "世界の石炭使用は25年に過去最大に、半分以上は中国 ─ 国家の生き残りに大打撃になる「脱炭素」の撤回を",
+    "category": "国際",
+    "accent": false,
+    "source": "The Liberty Web",
+    "time": "11:29",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zcjlHeW9ZTnNUa25tQTdRMEFoQ0t3UTV0WFp6X0NGMHNFWktOcnZqQm1BVVhuang3bkpfYmFXdTB5cE9vZTdtRzRFQTFEXzYwNi1UQdIBVEFVX3lxTE0zcjlHeW9ZTnNUa25tQTdRMEFoQ0t3UTV0WFp6X0NGMHNFWktOcnZqQm1BVVhuang3bkpfYmFXdTB5cE9vZTdtRzRFQTFEXzYwNi1UQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-19f11cfa8409",
+    "title": "【奈良市】電気代高騰対策！災害への備えにも！太陽光発電設備の設置を支援しています！【市長会見】（令和8年8月10日発表）",
+    "category": "その他",
+    "accent": true,
+    "source": "奈良新聞",
+    "time": "11:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EQWwwOE9JYTA5c3lfbUpLRzAzY3M1aEUtUkVKREQ4cjJlWktoS3p2LVgyUk1SVkdpUXZpRUFnT3hfZHd1c1FNLWl6SjdYUEdtajFyZWR5RUtZcVpMbmxtSjVQUQ?oc=5",
+    "image": null
   },
   {
     "id": "auto-0819525ca809",
@@ -43,7 +63,7 @@
     "id": "auto-664ab0f6926a",
     "title": "木星のオーロラ上空で水素イオンが脱出速度を突破、探査機ジュノーが現地観測",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "財経新聞",
     "time": "7:06",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQ3NmcXpuX3NCbE1rdzFDQi16QmM5bUR6dFdTTWhKZ1RkZWVmWE5OSFZmS2wta0tneXdLMW1qZTZFS09IZ0tZeVF6T2lvUUpDWkRlZmdrQVVVNEJDSzdIcUNVNWpENU930gFoQVVfeXFMT2lDc2Zxem5fc0JsTWt3MUNCLXpCYzltRHp0V1NNaEpnVGRlZWZYTk5IVmZLbC1rS2d5d0sxbWplNkVLT0hnS1l5UXpPaW9RSkNaRGVmZ2tBVVU0QkNLN0hxQ1U1akQ1T3c?oc=5",
@@ -53,7 +73,7 @@
     "id": "auto-22150df10bf1",
     "title": "クラダシ、埼玉県比企郡における「埼玉滑川蓄電所」を着工 企業リリース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日刊工業新聞",
     "time": "5:52",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Kc3Zyd2V5dXZOQkI2WXZ5THJJTXNtbW53cjRUT1ZrM1ZCSnB0dW4tOFBzVVR0dENHRXBsZS1SVm9Yb3VuZGFtMXA1eU1VTnpPRDQ0Ry1nc1Q?oc=5",
@@ -70,13 +90,23 @@
     "image": null
   },
   {
+    "id": "auto-04ff9806171d",
+    "title": "「蓄電池開発プロジェクト」を発足、蓄電池システムの自社開発へ 企業リリース",
+    "category": "その他",
+    "accent": false,
+    "source": "日刊工業新聞",
+    "time": "4:29",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCTHRMWmltaUlGT3VtUUhva0NJaG1HWFBXWmllTWN1M2pqRnB2cWJBc3IyaTVlaXZnQ0R3QkVacy1QNU83WXhHNWhTX2JPbHJUVnEzZHhhT28?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-55c00a3db26c",
     "title": "ひろゆき氏、洋上風力発電の支援強化に苦言「税金で無理矢理続けるインパール作戦」神谷宗幣氏に同調",
     "category": "その他",
     "accent": true,
     "source": "ｄメニューニュース",
-    "time": "3:05",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQXl3TTlRb0ZoS2h3eDlhMmJFMGhXalV1RUhLMnpoSEZkdVRjdmttV0pnNFVjTklKNENKLUNSeHZzZVFJT2N0TVczSVBkSHZnei14NTZkRUU3UVJnYkZRSERmaFVQbjBnR3hNVGw1V2lfTFVHcHNPV0RmeWtVUkFrdQ?oc=5",
+    "time": "3:17",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVVzTVlvUWVIMFI3dlFnRFluNVhrcmxaWHdEY0lnVW1PS3FQRlpVbFVBdkxMTDJaNHhPaWwydGlZMy1DdDllT3A0RndIQTVnUm54dzZLVDhpTU1TQlZXYmQ3M2h4enF3VVZRelBPUWpwRnFoeDR5TzZvZWpZaE9TYVhjdHFDUQ?oc=5",
     "image": null
   },
   {
@@ -204,7 +234,7 @@
     "title": "画像 | アップル本社｢Apple Park｣は巨大な環境装置だった､土も風も駐車場も設計で変えた脱炭素の発想",
     "category": "その他",
     "accent": false,
-    "source": "東洋経済オンライン",
+    "source": "toyokeizai.net",
     "time": "23:01",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90dHg4X0dXck9UUVBxdFBDSFdBd0ZiZXNrV3hfV1NoYkFUcEFkYmxrUEJQX1BaandPbWgtTnAzWWY5ekFqTkR0SkdLRUFWRnA5NFNvRmpxVQ?oc=5",
     "image": null
@@ -267,36 +297,6 @@
     "source": "ロイター",
     "time": "22:39",
     "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPd0s4eWJHbU5EM2NwdEhvaDhpUWxkajJlUkhyeHZVc0gxcDNYalN4QjZYMEpkTk0tUnllSXN6Q3V4QXNudEMya1BzM0xmODVtUEx6aGtfUWhOeDZGNGdNLVpyY0tBUU53TzI1OXpVcDVvbVBlZFYxZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4f52f2d438fd",
-    "title": "【脱炭素・SDGs・ESG】大阪ガス・JR東日本：バイオマス発電の環境価値を年間5.3億kWh供給、CO2排出量約22万トン削減へ",
-    "category": "その他",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "22:36",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYakJjRVRoNzJtRERTTjhTalJibDZBVkFDTUZJN1FjR05GMUU5NmpPaXJESEZldFhxMVhlSnNYX2xJOVV3bHVOb2h1andvVkZCNGt3dXlYMGRMRkVpTl82RmRzS1FzTGt4UnpPSjVRZ0JYUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9bb2938df661",
-    "title": "浜松貿易、ボランタリーカーボンクレジット市場への直接参入で脱炭素化を加速する新たな取り組み",
-    "category": "その他",
-    "accent": true,
-    "source": "ニュースメディアVOIX",
-    "time": "21:02",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjS2RydWZ3Z0RUUEQ2bmtSTUVzUl96bEVFZkRZWG9PSTFQSFFYeWd6Z2toTmZ0N2YwMEhwc0UyV3RlN3pwRzdwV3ZDX3FieEhZR0pESEJOUmxKaW52cGx4bnNuNWZNMXB6YVFiV1Rob1MtM0x3MFdZQ2VLYnFZQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a93bc6e060a9",
-    "title": "画像17 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "20:21",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNzlPQnhmc3NJUHJNZFN2WnRzcm9yMW53TkQxYXh0MzJBVzVrVkRMMjlEakxkYVgtWlJvTDl5aGNzNnVzMThFTFN0bWw5T1hvb05RdGlJeUpnQWpRNGJiTGVSRExSa3F4UFVJb3FB?oc=5",
     "image": null
   }
 ]
