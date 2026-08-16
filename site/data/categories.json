@@ -15,7 +15,7 @@
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体",
-    "count": 57
+    "count": 55
   },
   {
     "slug": "business",
@@ -27,24 +27,24 @@
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 204
+    "count": 203
   },
   {
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 39
+    "count": 40
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 102
+    "count": 103
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 465
+    "count": 466
   }
 ]
