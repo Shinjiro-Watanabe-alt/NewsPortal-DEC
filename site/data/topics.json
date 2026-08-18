@@ -11,31 +11,42 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-7f7f91097d9a",
-    "title": "関西の優良企業特集「選ばれる企業-関西100-」に守口のビーワンを選出。「大浴場にフタをする」独自の発想で省エネ・コスト削減を支える「ほっとシート」と、現場に寄り添う誠実な経営の全貌",
-    "summary": "[株式会社ラフリエ] ■ 関西の優良企業を厳選する「選ばれる企業-関西100-」とは「選ばれる企業-関西100-」（運営：株式会社ラフリエ）は、関西経済の発展に寄与し、永続的な成長を遂げる100の...",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "8/18(火) 12:15",
+    "id": "auto-a9d37af3e37e",
+    "title": "系統電力と混ざっても判断可能、日立が系統用蓄電池向けの再エネ価値可視化システム",
+    "summary": "日立製作所（日立）とエネウィルは2026年8月5日、系統蓄電所に蓄えられた再生可能エネルギー由来の電力が持つグリーン価値の証明と、それを用いた売電事業で協業を開始したと発表した。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "8/18(火) 7:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000045.000059862.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/59862/45/59862-45-e9afafbfd0a941f799bed03928b44a3b-2048x1365.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/18/news042.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/18/l_rk_260817_hitachi.png"
   },
   "headlines": [
     {
-      "id": "auto-a9d37af3e37e",
+      "id": "auto-ef7c8778dac7",
       "rank": 1,
-      "title": "系統電力と混ざっても判断可能、日立が系統用蓄電池向けの再エネ価値可視化システム",
-      "category": "技術",
-      "source": "ITmedia スマートジャパン",
-      "time": "8/18(火) 7:00",
+      "title": "風力発電を活用したオフサイトコーポレートPPAをニチレイグループの東北14拠点に導入",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "8/18(火) 6:46",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55VzctYWhKVGR0TW9mX0dWUlNCWFFHSGJnYlZkeEdnTmtEMkZFeGZfRGhVckNYS1lDeGJMTXJpS0JveTVBNTBmcGRSekNvdXlsbXI3ZlBfZmVaZnNZdnBrUFJEUjFJdzVqa3c?oc=5"
+    },
+    {
+      "id": "auto-bab5d9e74615",
+      "rank": 2,
+      "title": "再エネ用地の机上調査を10分から1分へ。系統用蓄電池・太陽光開発事業者向け「Ene Compass（エネコンパス）」提供開始",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "8/18(火) 6:30",
       "tag": "",
       "pr": false,
-      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/18/news042.html"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oMm5nT2VQZVEyUXRWVENzQ0xpWGlJbWZGcDFqQmZ2b0gxbzNkV0hoOWdvM3Z4SWFOUjFZUlRKRURMZnJVZWJ4VmF6VjJxUkl2S2hrZThaUlBaZTBTMHh4d2VDbXZMSDEzX0d3amRIZVFaS19jUm5nN25WTQ?oc=5"
     },
     {
       "id": "auto-adf26f12d7bb",
-      "rank": 2,
+      "rank": 3,
       "title": "追尾式太陽光の下で稲を栽培 野村不動産が埼玉でソーラーシェアリング実証",
       "category": "技術",
       "source": "ITmedia スマートジャパン",
@@ -45,70 +56,59 @@
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/18/news040.html"
     },
     {
-      "id": "auto-651e060cf59e",
-      "rank": 3,
-      "title": "【日本蓄電池株式会社】福島県伊達郡にて系統用蓄電施設「NC伊達郡川俣町蓄電所」需給調整市場への運用開始",
-      "category": "その他",
-      "source": "Excite エキサイト",
-      "time": "8/18(火) 3:15",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtZU9JMThQSi1oVGNBaXJDTHhBdmxYQmljT2pfUzViMnlHZW03Ry1YUE9SMWJhcXVvMTRsZ2NnNzF4S1Y4NHQ0eVd3aVFnUjdYeXluWFBFalNDTzNHNUpzck9paWJfNUVEMDB4RG5rWFB1U2Y0?oc=5"
-    },
-    {
-      "id": "auto-8e8ab43c234b",
+      "id": "auto-df54b44ee1b9",
       "rank": 4,
-      "title": "Vol.70 水素で焼く焼肉はジューシーか 世界初の水素式無煙ロースター誕生",
-      "category": "技術",
-      "source": "エネフロ",
-      "time": "8/18(火) 3:02",
+      "title": "世界56か国・地域の経済成長と脱炭素化の「進展過程」を解明 - kyushu-u.ac.jp",
+      "category": "自治体",
+      "source": "検索: 脱炭素・カーボンニュートラル",
+      "time": "8/18(火) 6:20",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16TXRkWjhQTVNHUVhueUlZWUZaLS1obUtSTFFSeGhMblBaZzVLWXpibGp2ZktQYnBLaml4N0FKeXZMVVlYdXlwWDZEVUpvQQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82S1Y3VmtrNk9VUnM1TWhJdzFrcDJUa3JpOXBkazN1ZWZTZU9xUFFGYmhyZmg3Q2ZXTk9Fekx2WEZtTTIyZm9lbzBXbG9nLXpwYVFUUV80OVItbDNyTEs4?oc=5"
     },
     {
-      "id": "auto-85562a664d4a",
+      "id": "auto-eec15c5b35e0",
       "rank": 5,
-      "title": "温室効果ガスの算定ルールが大きく変わる「非化石証書を買えば済む時代は終わった」（オルタナ）",
+      "title": "CATL、2025年のコア事業におけるカーボンニュートラル目標を達成し、2035年のバリューチェーン目標に向けた道筋を提示",
       "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "8/18(火) 3:01",
+      "source": "共同通信PRワイヤー",
+      "time": "8/18(火) 6:18",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNllRbEFlZzJGS2JpZW1TUHMwdVBVcUFfalJjcXNmcWItZU1pV3dLLTVzdDg1OE8wTEZEanJHWEQzRWg0YTg0N2tRd1FMdm9tbFRyYmZFY0phbVZGWlpwcXdUUHV3YzRhOWF2VFJlS04zRXdkeFoycTVfTXVEcXM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yOVVLNlpwZ0pNNGU4Uk11bzRDX0dMcnJHcXN0bFIxOTAyU3Q1ZEctQ2pVQnZSemkzZG5NOUpBdkYxN1BTYVJRTUpXbGcxRVM0U2Z4Z0dWWVRJODA?oc=5"
     },
     {
-      "id": "auto-91548fd281f6",
+      "id": "auto-14cd2afa4992",
       "rank": 6,
-      "title": "2035年に向けた深海域での再生可能エネルギー投資の加速に伴い、浮体式洋上風力発電市場は飛躍的な成長を遂げようとしている。",
-      "category": "その他",
-      "source": "アットプレス",
-      "time": "8/18(火) 3:01",
+      "title": "水素化マグネシウムで水素サプライチェーンを北海道に構築へ、NEDO事業に採択…千代田化工建設ら8社",
+      "category": "技術",
+      "source": "レスポンス（Response.jp）",
+      "time": "8/18(火) 6:15",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlcjh0eDRoRzhqb0x6Y2xNRkJ1ZEYyMzRMbU1IMXNDcGVSOFp6UnlDT3N5dmV6c1REWm15UjN4TXJlbFZaSHhYc1d2QXNUVzg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpd19UanNmT0N3VG8zalYybEZmMHEyLUgxM1VCS1NMM0I0QldtbGdqOUpmX1ItZjBsOUNpdTZ0U3Zrcks2UUdNOGhuUmM2NEtxb196aHR1R09fSEVqTS0w?oc=5"
     },
     {
-      "id": "auto-6f0a283f3962",
+      "id": "auto-533628b5d2c5",
       "rank": 7,
-      "title": "【海外】CATL：中核事業20工場でカーボンニュートラル達成、2035年に全バリューチェーンへ拡大",
+      "title": "先進エネルギー貯蔵システム市場：技術別、設置形態別、蓄電時間別、定格出力別、用途別、エンドユーザー別―2026年～2032年の世界市場予測",
       "category": "国際",
-      "source": "みんなの広報宣伝部",
-      "time": "8/18(火) 2:53",
+      "source": "アットプレス",
+      "time": "8/18(火) 6:06",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zRnJLem1YbW44cGhGOHh1ZXJMdXpKSG9iQzZPWGEyZTFZWVh6aFdWWVJKWE40cm9fRFQ1NDVHVkRyR2xSWk9CRlcxYmpMWkFNelB0UWFfR2t3QlhPbzZoLVZsMkY5SU9oUGtCMGRsZGh5QQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbV94dmFzSHJxWUdTSTNrcnBlSm5lbWFuNlpYdGMydGJUMUdkc2pfTk1KN21iQ2xyT0I0aVFkQ2d5M09pYkhtMEwwSnd2UHc?oc=5"
     },
     {
-      "id": "auto-0707076546cc",
+      "id": "auto-36b3a8e88821",
       "rank": 8,
-      "title": "X-ELIO、14MWの船木太陽光発電所をSun Trinityに譲渡し再生可能エネルギー事業を拡大",
-      "category": "その他",
-      "source": "ニュースメディアVOIX",
-      "time": "8/18(火) 2:44",
+      "title": "トヨタ、ダイムラー・ボルボの水素燃料電池合弁会社に参画…現代自追撃が本格化",
+      "category": "技術",
+      "source": "finance.biggo.jp",
+      "time": "8/18(火) 6:06",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuVzBiQWpCN3RSbl82TEZIRTdGSUVxMDF6TkpTSk5DSmd2cGdoQ1p4ZGdQcFpkNFZybGVPMUg0MVk1aUVOdEs4?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RSFY3cFBmUlVVWi1hTmNsR1F5aXJjUGsxSTdFZVVnMzZzS01CZjNfUEIwbENtOHR0aHNJZi1FRW1Dd0p1QWhscG5TaFNQcTBxMzBGMmd4QTNoMFRpRHo0M3RGMUE0VmsxaUFFVDdvbTlIZ254?oc=5"
     }
   ]
 }
