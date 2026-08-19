@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-5af3b6a9bcd1",
-    "title": "「再エネ設備材の資源循環アップサイクル事業」実装の報告",
-    "summary": "[ベステラ株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/19686/29/19686-29-763c11cea244ba3c207500eb3002f29a-1595x853.png?width=536&am…",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "8/20(木) 1:10",
+    "id": "auto-cf4c96f11bd5",
+    "title": "CO2を資源化するCCUの定量評価を可能に 三菱電機と東京大学が技術開発",
+    "summary": "三菱電機は2026年8月4日、東京大学と共同で、CO2を回収して資源として再利用するCCU（二酸化炭素回収利用）の経済的価値を、平時のCO2削減効果と災害時のレジリエンス向上の両面から定量評価できる技術を開発したと発表した。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "8/20(木) 6:30",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000029.000019686.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/19686/29/19686-29-763c11cea244ba3c207500eb3002f29a-1595x853.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/20/news035.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/20/l_rk_260819_ccu1.jpg"
   },
   "headlines": [
     {
-      "id": "auto-d6a0afc3834d",
+      "id": "auto-5292710a5523",
       "rank": 1,
-      "title": "アサヒテクノリサーチ、カーボンニュートラルの\"見落とされがちな環境リスク\"に着目し、CO2回収装置で生成が懸念される「ニトロソアミン類」の分析サービスをさらに強化",
-      "category": "企業",
+      "title": "廃校から全国の自治体を支える新拠点へ。TREASURYと八幡浜市が包括連携協定を締結、旧愛宕中学校を活用し、雇用創出・ふるさと納税支援・自治体DX・データセンター・蓄電池・地域防災・地方創生を本格推進",
+      "category": "自治体",
       "source": "PR TIMES",
-      "time": "8/20(木) 1:10",
+      "time": "8/20(木) 5:40",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000171238.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000094.000091755.html"
     },
     {
-      "id": "auto-41a6d49d4513",
+      "id": "auto-561163a08b61",
       "rank": 2,
-      "title": "群馬県片品村における脱炭素エネルギー確保及び地域特性の活用に向けた連携協定を締結",
-      "category": "自治体",
-      "source": "ニコニコニュース",
-      "time": "8/19(水) 18:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZNldmSHFwbG1uTk04ZlVJbTN2MWVpTmx5M0xsckpXMERBNUhHXzYwQms2cmU4Q3FmSHJsaXZMS0dBZEpxS3Y2UmpYZldaUnd5SF9YLXZiZDJqbUpiQTNtbGZEVi1sSng3MTBTaG1mRTJHc3FBanRrdnJhUQ?oc=5"
-    },
-    {
-      "id": "auto-2c4c44c72e01",
-      "rank": 3,
-      "title": "(地域の風) 洋上風力「再開」への渇望",
-      "category": "自治体",
-      "source": "日本経済新聞",
-      "time": "8/19(水) 17:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ibG9zRW8taVlobGt4eG41bEtxRG1aYkRZTkUyNUNNb0ZNZnl1am9YX3hjVzFZM0otbGQ2RExwZUEwM1AxMmM2SVhoMWRMaGZEc0xnZ0JSUC1qcmpyMWxJZ2lpNGxseWRFM3Z3Tw?oc=5"
-    },
-    {
-      "id": "auto-5fda32f5b368",
-      "rank": 4,
-      "title": "【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催",
+      "title": "全国の系統用蓄電池「権利付き用地」を一箇所で比較できるポータルサイト「GRiD DATA」を公開",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "8/19(水) 16:45",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000258.000087068.html"
-    },
-    {
-      "id": "auto-683e0e8f06ab",
-      "rank": 5,
-      "title": "【日本蓄電池株式会社】熊本県玉名市にて系統用蓄電施設「NC玉名市青野蓄電所」需給調整市場への参入",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "8/19(水) 16:15",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uc2RPUk9xSTNWWWg4d3o5MWtOTU9pTV9KZ3BZemlEbkluUUx2WFhVbERmQkF2UENILXdzUHVIYWFMYUhkdTVLZVV6RHJQVVFJMENFcFU0OG9nTWUyUkxxTHpmNkZSMGhx?oc=5"
-    },
-    {
-      "id": "auto-32df7a0cb4bc",
-      "rank": 6,
-      "title": "青森ねぶた、水素で照らす 愛三工業の発電機搭載 「ガス臭なく静か」好評：ニュース",
-      "category": "技術",
-      "source": "中日BIZナビ",
-      "time": "8/19(水) 15:59",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYUNmd19vcE9pa2otbHdsV3hsNTI4LURqeFZlVmprZG1UcVJzbmpGaTRsS1dVcUN1aDlUYWptMi1oanhwUGIzWS1aRnRQeWt1c2ZsblZyQnowVnhfZTFN?oc=5"
-    },
-    {
-      "id": "auto-e74f256eae38",
-      "rank": 7,
-      "title": "GEITは、Hoa Sen Groupと共同で、10件目となる屋上太陽光発電プロジェクトの建設を開始した。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "8/19(水) 15:24",
+      "time": "8/20(木) 5:10",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd01SNU5rVUxDZ2o2WTdkZ0UzZktPMVJuWHFVVHVSc00wRWpqMGN6SDNHWklvei1xNG5ZVGtRWHN3NmNNN0ZQZFJTU1d1ZExGVjdxMWttbmpsWVF4MUNyZ3JvMzlWZTloRE94aGo5VmZZTzRaR3NIdTQ0WUtiRkxCNlNubFNjaG44Y21DeTVUSDVXSEdkNGwyWWlHSXdlUQ?oc=5"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000174382.html"
     },
     {
-      "id": "auto-7d3176d0fdf7",
-      "rank": 8,
-      "title": "【9/9～9/11】アスエネ、幕張メッセで開催される「脱炭素経営EXPO 秋」に出展",
-      "category": "その他",
-      "source": "RBB TODAY",
-      "time": "8/19(水) 13:10",
-      "tag": "",
+      "id": "auto-c078b28e1c70",
+      "rank": 3,
+      "title": "次世代地熱発電スタートアップ、東京都協定事業『SCALE Program』採択10社に選出",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/20(木) 5:10",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tS2l2SzJSdE1CaUs5N056ZHRiRGlrSnJhNUo1a2hGV3JsYVkwSjNEUW02NmUyYjVnNUJPVUJCNi1PcHJUYWhoNTV1S3JzODJOcU5QYkl3TFVHaWFrVm1zc3RIQXVKa25qUmZSZnhjOVNHMEtzLW11Qw?oc=5"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000014.000162716.html"
+    },
+    {
+      "id": "auto-5dbc7ec468f5",
+      "rank": 4,
+      "title": "沖電工・高砂熱学、沖縄でグリーン水素／エネ地産地消へ共同実証 –",
+      "category": "技術",
+      "source": "電気新聞ウェブサイト",
+      "time": "8/19(水) 21:03",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IZnpfanRRWk5rX1d0bnFjd3FrVXhmUGdWTk5YemVyM250ZDU4VGVSUy1Gd2pKUmVhVl9jSUFsdjRCbzZWRVNaTVIwaHpLNjBWUVIzUVF0NA?oc=5"
+    },
+    {
+      "id": "auto-f5f87f2e8627",
+      "rank": 5,
+      "title": "清水港日の出地域 エネ供給、脱炭素 高校生 プロジェクト現場見学 コンテスト向け研究テーマ考案へ－静岡",
+      "category": "自治体",
+      "source": "静岡新聞DIGITAL",
+      "time": "8/19(水) 21:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pMVQ1Vm4wX0NrZGhmeGlsV2R6Ql9hQURqd2NWVTJBS3lIcDFDYTJDeVdnenNrVlptbHVKLUZZaG1fMWhscXNHOEhYaEpoUQ?oc=5"
+    },
+    {
+      "id": "auto-6a015fd11bcd",
+      "rank": 6,
+      "title": "FCEVで世界一の販売台数 「ヒョンデ・ネッソ」にみる水素の可能性と普及へのカギ",
+      "category": "技術",
+      "source": "webCG",
+      "time": "8/19(水) 21:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zbzFDVG1zVlhQTW9PblBERlVXT1pGNXNMRUR6U1ppUDV5NWtJNm8zSnMyT3B6UTUtUFdGUGx6TTQtLXlVVnRUU3pxT2E2YkXSAVJBVV95cUxPV2hKb2tRa2xaVGRQOW1tNFdRLV9CcmRXTU5pdHRlVXRaTllsMHRkMDJ0WER5T3A3aG5IYXVlV1g5S1l3Y1U3TU5URUhnWjVSX3J3?oc=5"
+    },
+    {
+      "id": "auto-50f7c574b20a",
+      "rank": 7,
+      "title": "神奈川県の太陽光発電補助、９月７日から後期分受け付け 申請はネットのみ",
+      "category": "その他",
+      "source": "カナロコ",
+      "time": "8/19(水) 20:40",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oam9wdXZxdXlfUnoyV014ZXlRT1NlN1JLc1VBSEJuX1lBR3NhTHdLdGktdUZ1TUFvejVJdmJROW5YQzV3Q211bjBuSW5mQnpsMXI4RUdaUlVQV3VEZ0I0b2thc1ZKTWUtUENKVA?oc=5"
+    },
+    {
+      "id": "auto-b28285e199f3",
+      "rank": 8,
+      "title": "第５期の修了式開く 豊田市の脱炭素スクール",
+      "category": "その他",
+      "source": "中部経済新聞",
+      "time": "8/19(水) 20:17",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5USkg4UjRkZFUtZG5VMXViLUhLbWRnZFVmMUl6RE96YjBmSmFtekwxY0pQT2lSUEtRSXZZZE43OUNpYjg4NXBSTWszdHppbTl5VWtTMU9TOXBiSFFwb1gxOTZRcHRNS3VPX2VDTmJCOFRqanM?oc=5"
     }
   ]
 }
