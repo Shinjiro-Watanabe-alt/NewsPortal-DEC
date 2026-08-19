@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-5fda32f5b368",
-    "title": "【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催",
-    "summary": "[株式会社ゼロボード] ソコテック・サーティフィケーション・ジャパン株式会社（以下、ソコテック）と株式会社ゼロボード（以下、ゼロボード）は、共催による無料オンラインセミナー「安心してSSBJ開示を迎えるために―GHGデータ管理と...",
-    "category": "企業",
+    "id": "auto-41a6d49d4513",
+    "title": "群馬県片品村における脱炭素エネルギー確保及び地域特性の活用に向けた連携協定を締結",
+    "summary": "[しろくま電力株式会社] 弊社は、群馬県利根郡片品村（村長：梅澤志洋、以下「片品村」）と、2026年8月19日、「片品村における脱炭素エネルギー確保及び地域特性の活用に向けた連携協定」を締結しました。 片品村は、2050年までに二...",
+    "category": "自治体",
     "source": "PR TIMES",
-    "time": "8/19(水) 16:45",
+    "time": "8/19(水) 18:15",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000258.000087068.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/87068/258/87068-258-021d0b6f5e78e8873ccf4d0d95b9539e-1780x1186.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000171.000055631.html",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-a48baad64572",
+      "id": "auto-5fda32f5b368",
       "rank": 1,
-      "title": "｢私のものではない｣ 車にケーブル切る器具を隠し持っていた疑い カンボジア国籍の男を逮捕 太陽光発電施設などで盗難相次ぐ 愛知で初摘発",
+      "title": "【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/19(水) 16:45",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000258.000087068.html"
+    },
+    {
+      "id": "auto-a6a39c2cc2e7",
+      "rank": 2,
+      "title": "アサヒテクノリサーチ、カーボンニュートラルの\"見落とされがちな環境リスク\"に着目し、CO2回収装置で生成が懸念される",
       "category": "その他",
-      "source": "locipo.jp",
-      "time": "8/19(水) 9:44",
+      "source": "ニコニコニュース",
+      "time": "8/19(水) 12:45",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nQVF0MHBmUVBHM090eXNZZzVfVVVDR18zMUtUQ0dNbUxDcE1PYjhYR3VYNUlkWmdWWEx6ZnZsYTNwMTdVNklFSkREOEFzY3RwaTA0TXlnZ0V2YW1vZGR5UmJrTEcyRnE1RzdXRlhScw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tRDVGTm4tTExCVkhkcUJOYnNrWFV5TEhQQVJ5QURTTmN1TE1JWTJidlFqTU1YekZydm9yN2lTUENkS1pXd2hqd1VjTVZDUUtSbmpWNjZMb3pnb2hsUmhKdG5CMWNpYmpHdERod0VvcnAxb19xYmRTemcycw?oc=5"
+    },
+    {
+      "id": "auto-b447e11ebbed",
+      "rank": 3,
+      "title": "国内初の成果！県産グリーン水素で「還元鉄」試作に成功 CO2排出削減に期待 山梨",
+      "category": "技術",
+      "source": "article.auone.jp",
+      "time": "8/19(水) 11:35",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tcnZsaEF2cVVhcUFSRkprR083WGJUUHZfTy1lV3p6emFwTDJndGhCVTFDNVdNVDNHVFYtRlVNcGpfTGJ4YURScE5LNVg2MmNoQXZKRHhTMnNzTm9SSnZyMUxuTXY5N3dNMUVDaC1R?oc=5"
+    },
+    {
+      "id": "auto-a48baad64572",
+      "rank": 4,
+      "title": "｢私のものではない｣ 車にケーブル切る器具を隠し持っていた疑い カンボジア国籍の男を逮捕 太陽光発電施設などで盗難相次ぐ 愛知で初摘発 (2026年8月19日掲載)",
+      "category": "その他",
+      "source": "ライブドアニュース",
+      "time": "8/19(水) 11:06",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aHhmcDlGTjRFR2M5RGg2dFI3b3g3OEFndTZ6MFh4Rkg2UElweFc5RFVQc1NJVFktQUZSV3pFdlcxX1pFbVltYXZPb3czWmtZUWlTQnp0NU55QmNMZVE?oc=5"
+    },
+    {
+      "id": "auto-107bf9de6a00",
+      "rank": 5,
+      "title": "建設ＤＸから脱炭素まで 大阪で最新技術展",
+      "category": "その他",
+      "source": "47NEWS",
+      "time": "8/19(水) 10:16",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mT3Jnb0Q4NXNVZUZDaks1ZU0yOHRkY0poeC1SZHZ6d0RCWk1aSXczQ0hvZ29WWDJRLVJwcGxoRTRvaXluTkJxZ3VFMA?oc=5"
+    },
+    {
+      "id": "auto-44b3df3b3c51",
+      "rank": 6,
+      "title": "エネルギーショックが東南アジアにおける屋上太陽光発電の普及を促進している。",
+      "category": "国際",
+      "source": "Vietnam.vn",
+      "time": "8/19(水) 10:06",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnBwanBibG8wa0N6eG1iOF85eWRhZW01ZTlNeTFVTmdmdklZYjZSVU0tbndDYmp6WG1GUTNGUVBWcWdDbHdFNm5uS0E3bFJDVzZXQ3RjX1JDTWNfRkNTZEpWVTMwMEdMMGUyY0JpdFNpNnpoZjlzbndnWlVjWjRwS0hfelVRZXJkU2dkdEpFbUM?oc=5"
+    },
+    {
+      "id": "auto-b509bb9380f2",
+      "rank": 7,
+      "title": "「私のものではない」 車にケーブル切る器具を隠し持っていた疑い カンボジア国籍の男を逮捕 太陽光発電施設などで盗難相次ぐ 愛知で初摘発（CBCテレビ）",
+      "category": "その他",
+      "source": "Yahoo!ニュース",
+      "time": "8/19(水) 9:37",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IcXNwMmY2YjlSelNNdUFkZDE3Y21NTHktR3YwMXhwLW00ZWlBVlh1d194NnAwQ1pBZl9jX0NBaHc4R1dIZmVEdVJfdXZVR2VTM211TTZNV3RMb0g0ZV9IZnltcU01dXJtWFZyVHBmRXYwZjhlbFBLWmE3a1JWc3c?oc=5"
     },
     {
       "id": "auto-79d4b48de717",
-      "rank": 2,
+      "rank": 8,
       "title": "｢私のものではない｣ 車にケーブル切る器具を隠し持っていた疑い カンボジア国籍の男を逮捕 太陽光発電施設などで盗難相次ぐ 愛知で初摘発 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
       "category": "その他",
       "source": "TBS NEWS DIG",
       "time": "8/19(水) 9:36",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTUxLZVV6VWEyakwtdHp2MTRXMnBFMUZtZVpZZ2IwOF80aFpyWTBzMVN6Q09Ya3lORjVUcVNYLWtGUzFVcHRDQzBSTHVVNlNKcVBBZlozdkR5Zw?oc=5"
-    },
-    {
-      "id": "auto-367e2f7675c8",
-      "rank": 3,
-      "title": "秋田市の洋上風力発電事業の現場を視察するUAEのシハブ・アルファヒーム駐日大使（右端）＝19日午後 - 日本最大級DC誘致へ面会 UAEが投資関心、秋田 - 写真・画像(1/1)",
-      "category": "その他",
-      "source": "西日本新聞me",
-      "time": "8/19(水) 9:33",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMUGEwOUZydlRHd1hkb25kaHdHNWFxb2xKMkQ2VDg2ZWNXUS1PV0RMN2o3cVFXN1FJVlRlLW5WRnc3bzhrMlB4YkpsZVhNNFd0MEc4Z2JNcw?oc=5"
-    },
-    {
-      "id": "auto-41a6d49d4513",
-      "rank": 4,
-      "title": "群馬県片品村における脱炭素エネルギー確保及び地域特性の活用に向けた連携協定を締結",
-      "category": "自治体",
-      "source": "jiji.com",
-      "time": "8/19(水) 9:16",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZWFfMlVUYmtoQUVyeUhQcllXcFdKMmVXSG1iTnZoVlE1MnRUTDFwaVlXUldXS1FPMnpOY04zdFptSjc3cWR5NFVZNERtQWJGYVJfTnBNZ2VhcWVKNVpmWXdmX3NzWVAtNUVj?oc=5"
-    },
-    {
-      "id": "auto-dac17176b1ca",
-      "rank": 5,
-      "title": "ダナン市は2026年から2030年にかけて、再生可能エネルギーの開発を加速させる予定だ。",
-      "category": "その他",
-      "source": "vietnam.vn",
-      "time": "8/19(水) 9:01",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHpDMnZjbTJweGFfS0h1dTAzbl9nVXNpVHNtR1JVY3hUdHZacVdVWlRBaF9qWG5JTEVZMjA1blZWa3Fmdjd3SUgtT25tN3NZaWk3Tl93WVhJSjVUcVZNUTdYclUwS2s1cTRESEVIN2NKOWxxS3hJUFZWT2s1Wmx2eERoaHl3U0JWem5vaG9HeENzQ1VNdUtz?oc=5"
-    },
-    {
-      "id": "auto-e1b2c6505f1f",
-      "rank": 6,
-      "title": "株式会社永輝商事、再エネ導入から運用まで一貫支援する「再生可能エネルギー・ワンストップソリューション事業」を本格始動",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "8/19(水) 9:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000007.000059631.html"
-    },
-    {
-      "id": "auto-7f3a08c15f19",
-      "rank": 7,
-      "title": "日本のグリーン水素市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年",
-      "category": "技術",
-      "source": "ニコニコニュース",
-      "time": "8/19(水) 8:03",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxRGwtVC15dTRjS0I1dkVZSFRDME0tRkk0bWdSUWJtdl9ZV2lEQlNmZzBxMTRvSExISG9BWThzR1l2Uk03MVN4NEZDSnVTcTRZS21iT0FqaUpVdXlnQ1RZNTIxdlN6dTkwQXR0TlNqamVnbmljUTF6TEtjdw?oc=5"
-    },
-    {
-      "id": "auto-683e0e8f06ab",
-      "rank": 8,
-      "title": "【日本蓄電池株式会社】熊本県玉名市にて系統用蓄電施設「NC玉名市青野蓄電所」需給調整市場への参入",
-      "category": "その他",
-      "source": "jiji.com",
-      "time": "8/19(水) 7:45",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDSGIxdXRBaTdGWjBBdkM4bVJBMjJVOHd0SzlfMTRPZXlFdjR6TEtIWk9sQnhxVGkzMVo0VnpjaXJHUndpS1NjaDJRT1FQbHFWT0lscy1DbXZRM3J3YWcyMHNjMzhmZktDcFRJ?oc=5"
     }
   ]
 }
