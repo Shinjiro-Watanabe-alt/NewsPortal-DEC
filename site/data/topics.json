@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-cf4c96f11bd5",
-    "title": "CO2を資源化するCCUの定量評価を可能に 三菱電機と東京大学が技術開発",
-    "summary": "三菱電機は2026年8月4日、東京大学と共同で、CO2を回収して資源として再利用するCCU（二酸化炭素回収利用）の経済的価値を、平時のCO2削減効果と災害時のレジリエンス向上の両面から定量評価できる技術を開発したと発表した。",
-    "category": "技術",
-    "source": "ITmedia スマートジャパン",
-    "time": "8/20(木) 6:30",
+    "id": "auto-41e21f47f8f5",
+    "title": "需給調整市場での運用容量が100MW超に",
+    "summary": "[デジタルグリッド] デジタルグリッド株式会社（本社：東京都港区、代表取締役社長CEO：豊田祐介、以下「当社」）は、需給調整市場における系統用蓄電池アグリゲーション（運用受託）の容量が、2026年8月18日に100MWを突破したこと...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "8/20(木) 10:40",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/20/news035.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/20/l_rk_260819_ccu1.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000058.000045726.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/45726/58/45726-58-77e634a68bf984695602e0bcc20517cf-1246x665.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-5292710a5523",
+      "id": "auto-356e317ea53f",
       "rank": 1,
-      "title": "廃校から全国の自治体を支える新拠点へ。TREASURYと八幡浜市が包括連携協定を締結、旧愛宕中学校を活用し、雇用創出・ふるさと納税支援・自治体DX・データセンター・蓄電池・地域防災・地方創生を本格推進",
-      "category": "自治体",
-      "source": "PR TIMES",
-      "time": "8/20(木) 5:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000094.000091755.html"
-    },
-    {
-      "id": "auto-561163a08b61",
-      "rank": 2,
-      "title": "全国の系統用蓄電池「権利付き用地」を一箇所で比較できるポータルサイト「GRiD DATA」を公開",
+      "title": "日常は「充電の手間を減らす」次世代E-Bike、災害時は「移動する60W出力電源」へ。HelioX、太陽光で走り・給電する「Solar E-Bike」プロトタイプを発表、本格展開へ",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "8/20(木) 5:10",
+      "time": "8/20(木) 10:15",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000174382.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000152367.html"
     },
     {
       "id": "auto-c078b28e1c70",
-      "rank": 3,
+      "rank": 2,
       "title": "次世代地熱発電スタートアップ、東京都協定事業『SCALE Program』採択10社に選出",
       "category": "企業",
       "source": "PR TIMES",
       "time": "8/20(木) 5:10",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000014.000162716.html"
     },
     {
-      "id": "auto-5dbc7ec468f5",
+      "id": "auto-4d3ae6d2ae44",
+      "rank": 3,
+      "title": "[インフォパック] 洋上風力発電の動向2026：世界と日本における現状 | 報告書・提言",
+      "category": "国際",
+      "source": "自然エネルギー財団",
+      "time": "8/20(木) 1:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84YzFTX2ZTZmtuSWRVU20zcWVlTE5FdVE0Q0hrTGZIN0hvbHhlc3N2T1ZVUUZJdzdnRlhpR3ZsUmRwVjRuUDlVeWhHYjIzT2t1TjRkWmt6TUdvMy1vWThfSVBoTDBLVnNCekhjNw?oc=5"
+    },
+    {
+      "id": "auto-eda8eb170444",
       "rank": 4,
-      "title": "沖電工・高砂熱学、沖縄でグリーン水素／エネ地産地消へ共同実証 –",
-      "category": "技術",
-      "source": "電気新聞ウェブサイト",
-      "time": "8/19(水) 21:03",
+      "title": "【ベトナムの最新脱炭素動向を解説】Green Carbon、三菱UFJリサーチ＆コンサルティング、三菱UFJ信託銀行が登壇 ｜ カーボンクレジット・JCMオンラインセミナーを8月31日（月）無料開催",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "8/20(木) 1:03",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IZnpfanRRWk5rX1d0bnFjd3FrVXhmUGdWTk5YemVyM250ZDU4VGVSUy1Gd2pKUmVhVl9jSUFsdjRCbzZWRVNaTVIwaHpLNjBWUVIzUVF0NA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UDBGclFZRmg3YjQtS0dxLXQtYUlkeWZJanBSTmVTX215UVZOUWM5anpXZUJMRlRYRkQ1UWNtZElnTDIwLXNFX3pkejdvODEyaDMzMFF2TVhpY1N1a2tmckQ5aHJjXzhYZmc?oc=5"
     },
     {
-      "id": "auto-f5f87f2e8627",
+      "id": "auto-db9336142357",
       "rank": 5,
-      "title": "清水港日の出地域 エネ供給、脱炭素 高校生 プロジェクト現場見学 コンテスト向け研究テーマ考案へ－静岡",
-      "category": "自治体",
-      "source": "静岡新聞DIGITAL",
-      "time": "8/19(水) 21:00",
+      "title": "Sustech、JTB商事と宿泊施設向け脱炭素パッケージの提供を開始",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "8/20(木) 1:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pMVQ1Vm4wX0NrZGhmeGlsV2R6Ql9hQURqd2NWVTJBS3lIcDFDYTJDeVdnenNrVlptbHVKLUZZaG1fMWhscXNHOEhYaEpoUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ZUM4a0hoU1NpNlhXN0lJVkdyZWlIZTRZUWx3YXhTbFhfaW4wS0tzY3hxd3VjRUU0TUx4LXFlWGFIMGVHdENrN3FqRklBTFUtbEZRV29NZ2lzWWxRWW40ZUowVWRYMFNVN0E?oc=5"
     },
     {
-      "id": "auto-6a015fd11bcd",
+      "id": "auto-866d6fa24817",
       "rank": 6,
-      "title": "FCEVで世界一の販売台数 「ヒョンデ・ネッソ」にみる水素の可能性と普及へのカギ",
-      "category": "技術",
-      "source": "webCG",
-      "time": "8/19(水) 21:00",
+      "title": "令和8年度 長崎市版GX推進事業を受託",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "8/20(木) 1:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zbzFDVG1zVlhQTW9PblBERlVXT1pGNXNMRUR6U1ppUDV5NWtJNm8zSnMyT3B6UTUtUFdGUGx6TTQtLXlVVnRUU3pxT2E2YkXSAVJBVV95cUxPV2hKb2tRa2xaVGRQOW1tNFdRLV9CcmRXTU5pdHRlVXRaTllsMHRkMDJ0WER5T3A3aG5IYXVlV1g5S1l3Y1U3TU5URUhnWjVSX3J3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04WHFGQ3otSDJnM2xjNXM5dU1oQndoa05FZ25SeFpXSkprbXBQbEFjRU14b0pPMGNvWkRUUXJkV3VFc0NoN1VhM3hJNERuTlhKcHV2QnZONi15WU91bWVBRVFSb3JzOXBWS2c?oc=5"
     },
     {
-      "id": "auto-50f7c574b20a",
+      "id": "auto-1bdd0eeb4d55",
       "rank": 7,
-      "title": "神奈川県の太陽光発電補助、９月７日から後期分受け付け 申請はネットのみ",
+      "title": "小規模事業者でもできる脱炭素への挑戦！二口製紐が「中小企業版SBT」認定を取得GHG排出量42％削減へ",
       "category": "その他",
-      "source": "カナロコ",
-      "time": "8/19(水) 20:40",
+      "source": "PR TIMES",
+      "time": "8/20(木) 1:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oam9wdXZxdXlfUnoyV014ZXlRT1NlN1JLc1VBSEJuX1lBR3NhTHdLdGktdUZ1TUFvejVJdmJROW5YQzV3Q211bjBuSW5mQnpsMXI4RUdaUlVQV3VEZ0I0b2thc1ZKTWUtUENKVA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEaGJ3aFJDc0lQU0Q5SmV3WjdmRHMtdXo0cFhzYUk4STdtc3FfLU1CZ3ltZC02bnI1Q1Y4d0JkX1ZOVF81RklhOTJ4TUJET01MeVZqbi04dy1BbXczcmx2MDFkZ2pOUEpwU0E?oc=5"
     },
     {
-      "id": "auto-b28285e199f3",
+      "id": "auto-172790246b41",
       "rank": 8,
-      "title": "第５期の修了式開く 豊田市の脱炭素スクール",
-      "category": "その他",
-      "source": "中部経済新聞",
-      "time": "8/19(水) 20:17",
+      "title": "自動車で音速を突破した世界唯一の人物が水素自動車の底力を証明し、もう一つの世界新記録を更新した。",
+      "category": "技術",
+      "source": "매일경제",
+      "time": "8/20(木) 0:55",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5USkg4UjRkZFUtZG5VMXViLUhLbWRnZFVmMUl6RE96YjBmSmFtekwxY0pQT2lSUEtRSXZZZE43OUNpYjg4NXBSTWszdHppbTl5VWtTMU9TOXBiSFFwb1gxOTZRcHRNS3VPX2VDTmJCOFRqanM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56amNFS1NyWEtqbGNHaE1nZjB3cGhQRXdQRm9sTTZVcWU4ZlJnTFdvWDVMMlRSMnl0ODQ5ZHRuNS1vUldYQ3hkQjcyOWFLbXM?oc=5"
     }
   ]
 }
