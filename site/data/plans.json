@@ -1,0 +1,113 @@
+[
+  {
+    "categorySlug": "energy_policy",
+    "categoryLabel": "エネルギー政策",
+    "icon": "bolt",
+    "plans": [
+      {
+        "id": "basic-energy-plan-7th",
+        "name": "第7次エネルギー基本計画",
+        "decidedYm": "2025年2月",
+        "period": "2040年度のエネルギー需給を見据えた計画（おおむね3年ごとに見直し）",
+        "summary": "エネルギー政策基本法に基づく政府の基本計画。S+3E（安全性・安定供給・経済効率性・環境適合）を前提に、2040年度に再生可能エネルギー比率40〜50%を目指すなど、中長期のエネルギー需給の方針を示す。",
+        "department": "資源エネルギー庁（経済産業省）",
+        "pdfUrl": "https://www.enecho.meti.go.jp/category/others/basic_plan/",
+        "sourceUrl": ""
+      },
+      {
+        "id": "hydrogen-basic-strategy",
+        "name": "水素基本戦略",
+        "decidedYm": "2023年6月",
+        "period": "2040年を見据えた目標（水素導入量1,200万トン等）",
+        "summary": "再生可能エネルギー・水素等関係閣僚会議が策定。脱炭素・エネルギー供給の安定・経済成長の同時実現に向け、水素・アンモニア等の導入拡大の方針を示す（2017年の初版を6年ぶりに改定）。",
+        "department": "資源エネルギー庁（経済産業省）",
+        "pdfUrl": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/20230606_2.pdf",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  {
+    "categorySlug": "climate_change",
+    "categoryLabel": "地球温暖化対策",
+    "icon": "thermostat",
+    "plans": [
+      {
+        "id": "global-warming-countermeasures-plan",
+        "name": "地球温暖化対策計画",
+        "decidedYm": "2025年2月",
+        "period": "2035年度・2040年度の削減目標（NDC）を掲げる政府の総合計画",
+        "summary": "地球温暖化対策推進法に基づく政府の総合計画。2035年度60%減・2040年度73%減（2013年度比）の新たな削減目標（NDC）を掲げ、脱炭素社会実現に向けた施策の全体像を示す。",
+        "department": "環境省",
+        "pdfUrl": "https://www.env.go.jp/earth/ondanka/keikaku/250218.html",
+        "sourceUrl": ""
+      },
+      {
+        "id": "climate-change-adaptation-plan",
+        "name": "気候変動適応計画",
+        "decidedYm": "2021年10月",
+        "period": "気候変動適応法に基づく計画（2023年5月に一部変更）",
+        "summary": "気候変動適応法に基づく政府の計画。農業・水環境・自然生態系・防災・健康など幅広い分野で、気候変動の影響に備える適応策の基本的方向性とKPIを示す。",
+        "department": "環境省",
+        "pdfUrl": "https://www.env.go.jp/earth/earth/tekiou/page_00004.html",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  {
+    "categorySlug": "gx_industry",
+    "categoryLabel": "GX・産業政策",
+    "icon": "factory",
+    "plans": [
+      {
+        "id": "gx2040-vision",
+        "name": "GX2040ビジョン（脱炭素成長型経済構造移行推進戦略）",
+        "decidedYm": "2025年2月",
+        "period": "2040年を見据えた長期方針",
+        "summary": "GX推進戦略を改訂した長期方針。GX産業構造・産業立地の展望や成長志向型カーボンプライシング構想など、脱炭素と産業競争力強化を両立する政策の全体像を示す。",
+        "department": "経済産業省（内閣官房GX実行推進室）",
+        "pdfUrl": "https://www.meti.go.jp/press/2024/02/20250218004/20250218004.html",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  {
+    "categorySlug": "energy_conservation",
+    "categoryLabel": "省エネルギー",
+    "icon": "energy_savings_leaf",
+    "plans": []
+  },
+  {
+    "categorySlug": "renewable_energy",
+    "categoryLabel": "再生可能エネルギー",
+    "icon": "solar_power",
+    "plans": [
+      {
+        "id": "wide-area-grid-master-plan",
+        "name": "広域系統長期方針（広域連系系統のマスタープラン）",
+        "decidedYm": "2023年3月",
+        "period": "2050年カーボンニュートラルを見据えた長期展望",
+        "summary": "電力広域的運営推進機関（OCCTO）が策定。再生可能エネルギーの大量導入に対応するため、全国大の広域連系系統の将来像と整備の方向性を示す。",
+        "department": "電力広域的運営推進機関（OCCTO）",
+        "pdfUrl": "https://www.occto.or.jp/gyomusyokai/no5.html",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  {
+    "categorySlug": "regional_decarbonization",
+    "categoryLabel": "地域脱炭素",
+    "icon": "location_city",
+    "plans": [
+      {
+        "id": "regional-decarbonization-roadmap",
+        "name": "地域脱炭素ロードマップ",
+        "decidedYm": "2021年6月",
+        "period": "2030年度までの取組を中心に集中実施",
+        "summary": "国・地方脱炭素実現会議が策定。地域課題の解決や地域活性化を同時実現する「地域脱炭素」の実現に向け、2030年度までに重点的に実施する取組・施策の道筋を示す。",
+        "department": "内閣官房（国・地方脱炭素実現会議）／環境省",
+        "pdfUrl": "https://www.cas.go.jp/jp/seisaku/datsutanso/pdf/20210609_chiiki_roadmap.pdf",
+        "sourceUrl": "https://policies.env.go.jp/policy/roadmap/chiiki-datsutanso/"
+      }
+    ]
+  }
+]

@@ -1,5 +1,5 @@
 /* dashboard.html — data dashboard: KPI strip + hand-rolled SVG charts, no chart library. */
-/* dashboard.html / glossary.html はニュース検索の対象が無いため検索窓を非表示にする(タブ切替は維持)。 */
+/* dashboard.html / glossary.html / plans.html はニュース検索の対象が無いため検索窓を非表示にする(タブ切替は維持)。 */
 .masthead .search-field,
 .masthead .search-sugg{display:none;}
 

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>関連計画 — 脱炭素ニュースポータル</title>
+<meta name="description" content="脱炭素・再エネ・省エネに関する国の計画を政策テーマ別に一覧できるページ。計画名称・策定年月・計画期間・趣旨・所管部署・計画PDFへのリンクを掲載します。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Shippori+Mincho:wght@500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,400,0,0&display=swap" rel="stylesheet">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/dashboard.css">
+<link rel="stylesheet" href="assets/css/plans.css">
+</head>
+<body>
+<a class="skip-link" href="#main">本文へスキップ</a>
+
+<div data-include="partials/utility.html"></div>
+<div data-include="partials/masthead.html"></div>
+
+<main class="main" id="main">
+  <div class="wrap dash-wrap">
+    <nav class="crumb" aria-label="breadcrumb">
+      <a href="index.html">ホーム</a>
+      <span class="material-symbols-outlined">chevron_right</span>
+      <span>関連計画</span>
+    </nav>
+    <div class="dash-head">
+      <h1>関連計画</h1>
+    </div>
+    <p class="dash-disclaimer">脱炭素・再エネ・省エネに関する国の計画を政策テーマ別にまとめています。内容は各府省庁の公表資料に基づき手動で更新しており、自動収集の対象外です。</p>
+
+    <div id="plansRoot"></div>
+  </div>
+</main>
+
+<div data-include="partials/footer.html"></div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/include.js"></script>
+<script src="assets/js/settings.js"></script>
+<script src="assets/js/chrome.js"></script>
+<script src="assets/js/plans.js"></script>
+</body>
+</html>
