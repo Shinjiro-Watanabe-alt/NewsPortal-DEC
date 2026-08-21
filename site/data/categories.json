@@ -21,7 +21,7 @@
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 52
+    "count": 49
   },
   {
     "slug": "tech",
@@ -39,12 +39,12 @@
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 88
+    "count": 89
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 501
+    "count": 503
   }
 ]
