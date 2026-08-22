@@ -5,25 +5,45 @@
     "category": "自治体",
     "accent": false,
     "source": "PR TIMES",
-    "time": "19:10",
+    "time": "1:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000081547.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/81547/43/81547-43-7a62f071ababa81d79720b69af9ae8ba-842x595.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-e1b2c6505f1f",
+    "title": "株式会社永輝商事、再エネ導入から運用まで一貫支援する「再生可能エネルギー・ワンストップソリューション事業」を本格始動",
+    "category": "その他",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "18:10",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ldjNlYmxhUjAyY0UwVzJ4R0U1M0V2c0FGTE9VZ1kxQjhVdmdqdDhuc19LTWY4M0ZKU1BmWEJycmdfYy12YnVEQUV4Sk5vN3ktbVkteDRJRjZaaXo3bkh3dHFIMUNGR0Z3cXY0eFZSQXVndw?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/59631/7/59631-7-063a3f39fd8a50364cd681311e74521a-1441x1080.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-09664f0177ad",
     "title": "屋上太陽光発電の開発を加速させる。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "14:09",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MUGhxRmtrSEZaSmdhX092UHFsZFQzdkctd0dqbDBqTWk5R1ZmeEFuZzNnMTQ2ajduc19tMWV3UXdsV3ljdlZkZWl4M0l2ZzBlallpTUFxcnI1Q0NuTjdxR3I4VVNHc3EwNlN5Q1B1Mmk2UHhqNEE?oc=5",
     "image": null
   },
   {
+    "id": "auto-367e2f7675c8",
+    "title": "秋田市の洋上風力発電事業の現場を視察するUAEのシハブ・アルファヒーム駐日大使（右端）＝19日午後 - 日本最大級DC誘致へ面会 UAEが投資関心、秋田 - 写真・画像(1/1)",
+    "category": "その他",
+    "accent": false,
+    "source": "西日本新聞me",
+    "time": "14:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMUGEwOUZydlRHd1hkb25kaHdHNWFxb2xKMkQ2VDg2ZWNXUS1PV0RMN2o3cVFXN1FJVlRlLW5WRnc3bzhrMlB4YkpsZVhNNFd0MEc4Z2JNcw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-7d3176d0fdf7",
     "title": "【9/9～9/11】アスエネ、幕張メッセで開催される「脱炭素経営EXPO 秋」に出展",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "12:10",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJQUJHTW1Fb2JLc25RdnJzNkV3eXA3ZGVKY01IelRuX3NvQlM0bFFxbzRoVXEwZGdwLTdIN18xalJoaTVoOUc2VkNqZ1ZyT1JBZEI1QnljWHdzb0lvTGdpeTAzVzNlQU9oREYwZkVVY0hEd0xx?oc=5",
@@ -43,7 +63,7 @@
     "id": "auto-dd0b30831f82",
     "title": "1億1400万ドン以上が、80個の太陽光発電ランプで3.2kmの田舎道を照らす",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Laodong.vn",
     "time": "10:33",
     "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeThMdUdUTERjakktUWVnRkZrRE5Yc05NUF9sMG9ZNVlDY1ZySEE5ODNUcFpZenpMOTJhSTM3anhpTDBDNVBIMEhPUGhrWkY3VnJXeG45NGxIMFlIMXpYa1NZbGNfRHprNk1RQWJPenZDTVdXdTk1azZzNEdIWi04T0U3cTVDdS1uUGJRWlJVVE91MXNCcGZidFJGbHhvQUlBY3dta01naXZycjJfa0RVM0h1eUpqODR2Z1dCbVhhSHNHektMUE80Sg?oc=5",
@@ -53,7 +73,7 @@
     "id": "auto-a508ca68207c",
     "title": "脱炭素社会実現目指して 自動車販売会社が水素を学ぶワークショップ開催",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ｄメニューニュース",
     "time": "9:05",
     "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNG1kOWtkSE5UaXFQcmVZZG5iUEdyUERleE94dnB1ZmpEbGp5aDg5TDFidnAxa1QwRGJ2NjJKSmpJM2ZjNUFLMUdzLVZvbXV0cG5ZYTI0S1k2Ul9DaExDRjJhanRNVHdfNG9TQWRHcDPSAXZBVV95cUxORTQtdmVscy1HeF9SWHRRb2hQR0o4SE9zRkdfX1V4eWF4MmRSUl8xNGxkaWg3OW9mRlB4ZGdxRnhKdTd0eThGSm5lZHpONnF2YTVQMTJudXZwRHZ0eEJZRDhHLUwxRFhZcXYtcnhTMlB4WGUtNkxR?oc=5",
@@ -70,16 +90,6 @@
     "image": null
   },
   {
-    "id": "auto-3b6d34eed20e",
-    "title": "点描／液化水素昇圧ポンプ開発推進 荏原が高圧・高効率化",
-    "category": "技術",
-    "accent": true,
-    "source": "日刊工業新聞",
-    "time": "9:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4N0d4aWFNaVpkdzhnRTJBNjVaNUpOYkRIcVJMRDlIVzVidFhvLVNGeWdqTENmWTExZUVoc0l5T0FxLWlDd2VvME1UVWY4RmlIUmRqVzhMNmY?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-d3e05e7e297a",
     "title": "低圧系統用蓄電池向け用地の全国募集を開始｜約40平方メートル 程度の土地を有効活用",
     "category": "その他",
@@ -88,16 +98,6 @@
     "time": "8:41",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzcmJCT1VPdUc0S0JfZm5hNTdBVTJ0dUdreTFIdlh2cGQ1VEU1bFNiU28wZklkaEYtTkpIcGU3YTJCXzZLNDlHeWhEUThQX0l4WEE?oc=5",
     "image": "https://prcdn.freetls.fastly.net/release_image/68968/23/68968-23-80e13e508f2af73ca0fd865885585549-2649x1567.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-ae549988b15a",
-    "title": "倉敷化工社長に西井郁也氏昇格 マツダ出身、脱炭素化などに対応",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "8:38",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iZldjWkRRZGtsQTZnQThKWVYydUFIbmNwZkVMQmdTUmpYVjV2RXBVdXZUSkV4QzNRbW1kNV9wdmtZNUZkc2dualRpaE1iQ2Z4Q1E?oc=5",
-    "image": null
   },
   {
     "id": "auto-d63b45e72fff",
@@ -170,6 +170,16 @@
     "image": null
   },
   {
+    "id": "auto-ca659e0954fe",
+    "title": "カーボンニュートラルへ電動車が急成長、日系自動車メーカーが描く電動車戦略",
+    "category": "暮らし",
+    "accent": false,
+    "source": "LIMO | くらしとお金の経済メディア",
+    "time": "4:49",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnZDNJYmVMakc0d3VWRHRSYXJUOVJ3dFZ2akQ3YUJIRUhXNWYtWXJxV3hybG81OXBlNGRodEhmSC1zRHFtNFo0VGFjektORWhkTUgtd3hR?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-f9daf1485439",
     "title": "JR九州、九州新幹線に太陽光由来の電力を導入 オフサイトPPAで2027年8月から",
     "category": "その他",
@@ -177,6 +187,16 @@
     "source": "TRAICY（トライシー）",
     "time": "3:38",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15TThBa1hTbl80cXh4LU8zOEQ2c08tZWJQNmtWMEdCYzV6RnhPSnVpZEZWMldxdjA5Y1lHaGxOMTRTWVNtNUxIc29SMHJ2U3dhRDU3cTBrNA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-57866c4c92a7",
+    "title": "福島・広野町とフェイガー、脱炭素農業でブランド化",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊工業新聞",
+    "time": "1:53",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXOFJkSWpIeTlYU1Y0NWU2MDVvQmRYZU0xMjhLOWxWUVVidzM2eU1HVjdXczc3ejFkdFpYUk5mRU5CbjBEbE41Y1ZxdjV2R2wxbG1IYXJfU3I?oc=5",
     "image": null
   },
   {
@@ -193,7 +213,7 @@
     "id": "auto-30410cf0aee6",
     "title": "「ついにヤラれました」 太陽光発電所で異常事態 実は“あるある被害”…銅線盗難、泣き寝入りの背景とは",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ENCOUNT",
     "time": "1:00",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1ZzFpODhVbklReUQyaFhOVTRIU2xvUVlfdDNSTU9GSThTWEJVUWtCcUJFcGYwdGdvS2llUTQtSU9fZ3hzMmQxOTIyMmNnRzFReU1Z?oc=5",
@@ -203,7 +223,7 @@
     "id": "auto-798bf330c4a0",
     "title": "水素化フルオロシリコーンオイルの世界市場（2026年～2032年）、市場規模（側鎖ヒドリド型フルオロシリコーンオイル、末端ヒドリド型フルオロシリコーンオイル）・分析レポートを発表",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Newscast.jp",
     "time": "1:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtbE5MSERueXJRd3docGxiNXJBZFo5bjhueWEweGd3TldoSExSdEY5cmNXNFYxbUIxVWU3T3pWRjBvV2loc0MzeENxOGg1dnM?oc=5",
@@ -223,7 +243,7 @@
     "id": "auto-1127afe16fd3",
     "title": "【公募】九電みらいエナジー：2027年度向け再エネ電力を卸オークション、地熱・水力から年間約3億kWhを販売",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "23:01",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyOE8tYndERng2MVZsUzBzeFFRelgzdUhLckFkSzA5SUk5S3dkczBQZ3NyWTZSZ2s4MXByZzNkVUp2cUxlYXJaV2Y2bE5ZUS10bkUtdzRlVmVuQUxBQmtWd2x6WS03b01hSU8xekRQd1BtZw?oc=5",
@@ -233,7 +253,7 @@
     "id": "auto-e73d70dd1564",
     "title": "CO2排出量削減で横浜市と連携 那須塩原市に地域活性化資金を還元 [栃木県]",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "朝日新聞",
     "time": "23:00",
     "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUnR4LUpTcVZ5RDlsemQ4UHR6eEo5RE1IVzNNNThGMDA5bkJyVEFjUmpGTnJkVlhReHgydV9ZXzQtdGRSdDhKRnZQS3BaVmQzd05aWmhCS1ZVcktOSTI3VW5rS0g2bHc?oc=5",
@@ -253,7 +273,7 @@
     "id": "auto-767939dc2186",
     "title": "【公募】環境省：公共交通の脱炭素化事業で二次公募、鉄道の省エネ設備導入などを支援",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "みんなの広報宣伝部",
     "time": "22:56",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGR1Bwd1daRVJFTlZQS20xSDJsR2M3WklrZllSRjJ5TWNoblU5OUZXMjZIU3B3cktzSUhySHpsQy1CUlR0Y1o3V1FSZkI3OVJsS1BvUkJBR1NXbS01aTJwTGFYU29kTkdJZHZJSW5PQkxydw?oc=5",
@@ -263,7 +283,7 @@
     "id": "auto-8c53d932bcd6",
     "title": "【太陽光発電】アップソーラージャパン：廃番パネル代替の「旧サイズパネル」展示、FIT初期設備の更新需要に対応",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "22:56",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJdUx2dF9oVlBDMm5KeS02Z1RtQUlJeW9NZkQ0cFJlMzF0RjJlazhHTEpqZ0doVDkzVUNacHYyWUVUVGpHSTNEbFRmZk03WVltVmppdldRWTZUT21UR3M2azdLLTVXVnVrUDJLTFZsLWp1QQ?oc=5",
@@ -277,26 +297,6 @@
     "source": "Межа. Новини України.",
     "time": "22:28",
     "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWTJHNWxPQTZJOWRoTXpmbDh3Uy11b25hWkRkTlZIQ19EZEhOTkRiTElLMFAyZDgwaXl1VlFYd3VoMHZwSXZzeDRaOUxEdG1vd3VMRWpfWDNRYkhFTUVEdGlIdlVsQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d604313051d7",
-    "title": "「営農型太陽光発電」岐路に＝規制強化に反発も【時事通信速報】",
-    "category": "その他",
-    "accent": true,
-    "source": "日本食糧新聞・電子版",
-    "time": "22:27",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zRVlZVWFYNmdyek5nZ0Z0WF9JWGg3VElpZTllMlhIeXRyUTk5dTdmLVkzZjJOZXJ1eW9DWkJISnJSRDJ3SkdJUGlrN01aeXJpVDQw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4355ef39e41b",
-    "title": "【蓄電関連】第一実業：太陽光と蓄電池を直流接続する「DCリンク」、AC方式比で生涯売電収入10％超増を見込む",
-    "category": "その他",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "22:06",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ESEwxZ0dmT1lqWmNoV3pIX05xU19aR2xWeENmOUhVSWxMdl85aDBWaFREN2d6VHZjM1NWXzQwR1JTUDRsVW93a3dvTllONmljU1NuaUNZN1NHamtIRGluMEFoTkx5dW9ieHVyaFgwQWQydw?oc=5",
     "image": null
   }
 ]
