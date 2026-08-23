@@ -1,14 +1,6 @@
 [
   {
     "month": "08",
-    "day": "27",
-    "title": "【JPIセミナー】国土交通省「国土交通GXの推進に向けた具体施策と今後の方向性」8月27日(木)開催",
-    "place": "",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JVXdpYmt1X3luQjBFOTBIUmJhNThmNUxSZ2E1VkQ4TU15NGtocGVLUWRjWkR1Yl9RRXExUnp4dWg0ZFVMUklTWEFoVGh0dGlna2MyWU0zam5yTmFxR3hqQlpuZVQzQXhh?oc=5"
-  },
-  {
-    "month": "08",
     "day": "31",
     "title": "【JPIセミナー】（株）東急パワーサプライ「家庭用蓄電池を起点とした分散型エネルギー事業モデル」8月31日(月)開催",
     "place": "",
@@ -62,5 +54,13 @@
     "place": "",
     "source": "PR TIMES",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000020.000167163.html"
+  },
+  {
+    "month": "09",
+    "day": "30",
+    "title": "「VPP・系統用蓄電池事業の市場環境と今後の展望」と題して、ENEOS Power（株） VPP事業部 VPP事業企画グループ 教来石 祥雄氏によるセミナーを2026年9月30日(水)に開催!!",
+    "place": "",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000004583.000032407.html"
   }
 ]
