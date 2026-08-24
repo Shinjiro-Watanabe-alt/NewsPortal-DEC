@@ -1,5 +1,85 @@
 [
   {
+    "id": "auto-b9462f0497ed",
+    "title": "富士テクニカルコーポレーション、事業を展開する宮城県川崎町にて教育支援と地域イベント協賛を実施",
+    "category": "自治体",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000081547.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/81547/43/81547-43-7a62f071ababa81d79720b69af9ae8ba-842x595.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-dfa3a54fe373",
+    "title": "大容量11.5kWhクラウド蓄電池システム「Eeeストレージ」の新製品を発売",
+    "category": "暮らし",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "23:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000001587.000012900.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/12900/1587/12900-1587-a3b4eafe1928e4ba596b6cd6bdd53ce4-1283x500.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-3a99f722eee2",
+    "title": "蓄電池投資は何年で回収？試算例は利回り22.5％・回収4.4年、「ニッパチシミュレーター」を公開！",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "23:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000183612.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/183612/10/183612-10-ac23cd9cc6f89bfe9103b0efcd900f1f-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-40bee2585c58",
+    "title": "トヨタＮＺ、水素車「ミライ」のレンタル開始",
+    "category": "技術",
+    "accent": false,
+    "source": "nna.jp",
+    "time": "15:32",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2tPSTJwb1FNX1lLNFVjczVwSXAydTV0Uk1iRzhKWEt1NjhKTlRtTWMyZHktVUQ2VW44VnNWbHlyRGdVNHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ff127164f60a",
+    "title": "京大など、水素の低コスト化へ世界初の実験装置 –",
+    "category": "技術",
+    "accent": true,
+    "source": "電気新聞ウェブサイト",
+    "time": "15:13",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIdFVma001cE05eWNfWnFtYWxYWUl3V0RjN1pmYzNVeUNtcHEya3otR1JuQm9ZZUJWa29QcmczTFAyeHcwTkN0OU5LbkYtbjgtejh6a0c0RQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-dfb28daf7ea5",
+    "title": "企業は省エネルギーソリューションを通じて、生産工程の環境負荷を低減させている。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "14:43",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlp3UWdZblhwSHdPeEo1aUpKVDVCajlDUjJQeHQzNUNRdDgwaGYwNWpKN2ZoTk16NFdTbktzVG1VRW9IbWpOLXhTQldPY2pIR0xzMnBvOUlnZ3Qxdzg1T241bFVscHNiMXY4dDR3aXA2dFBiV0EtWUpvVDRHRkZjd0pVOGVjNHF5elJGN1A5LVFSclBOX2J5dlFBazU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-295978b44184",
+    "title": "ハノイ市は、住民が屋上太陽光発電システムを設置する際に、1世帯あたり最大600万ベトナムドンの補助金を提供する案を提示している。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "14:07",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFVpWjZYRkJzVmpYWllyRGhmVUJrRkhyLWhLdkVDRDR4RDdJMDBWY3lZLWVsOTRpRnlsS08xNlBneENSdFNBbTNPZlNMX3FYYlo2WUNXc01wTGJGOS1JTDQ5V3N0UnlrXy1JTjNTa0lQTk4weTgxRXd0QnRxdmtmbElBSHZQbVNWWTJtTERnNmVfLW1MeU9mOFZGeHVwbGJuTGxWOVBBVm9xUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-92a28f308ab9",
+    "title": "ハノイ市は、蓄電池付き屋上太陽光発電システムの設置に対し、1世帯あたり600万ベトナムドンの補助金を提供する計画だ。",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "14:05",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWpxS2djUXh3T1Q3Sm9YYlJNSE9EdWRrQUJjTWJoZG04YUZiNFd1SHdWQWc2QmRYLXZGNWtzNEZfYXc5SlRJSW1nS21NeWxYcXM0OUZPOG5aOHBPVHhTaVp4NXpiMjVlUGZNOGNmeWRmdVd2aVR0dUh3cl95LVRvbXhKemtoMUY2M2ZoeXkwM1JiZTVEeFhFOGJ3Z0JLa282THlnV1hzZVA?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-9fe59c651318",
     "title": "江蘇省、太陽光発電設備容量が中国で初めて1億kWを突破",
     "category": "国際",
@@ -10,20 +90,20 @@
     "image": null
   },
   {
-    "id": "auto-ee643a73ec30",
-    "title": "県のインド訪問団 ウッタル・プラデーシュ州と基本合意締結 水素や観光など6分野 知事は訪問に手応え 進出企業支援へ100億円規模の融資枠を創設へ 山梨県",
+    "id": "auto-10df49371d06",
+    "title": "県のインド訪問団 ウッタル・プラデーシュ州と基本合意締結 水素や観光など6分野 知事は訪問に手応え 進出企業支援へ100億円規模の融資枠を創設へ 山梨県 | 山梨のニュース | ＵＴＹテレビ山梨 (2ページ)",
     "category": "技術",
-    "accent": true,
-    "source": "ｄメニューニュース",
+    "accent": false,
+    "source": "TBS NEWS DIG",
     "time": "11:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWU81TklaUGpHSXg0aWFWbWxiTkxsdHllbTV6RUpVUXJ0NWxWM1hPR1RSdnJlQjFDRUNQdXBmYkIzcWN5NmVRYkV5cExyT1k1SGlHVnZLTDNEdUQ1RXd5MmM3SUhPV3IwYnNXcGRRV1ROYVQ0dm5RUlF0UmhVZ2M4RHVn0gF0QVVfeXFMT2Fva2pacS1vOWwtbHJZOVNrb0M2Y09tNzI1SHdYeldiYm8tSnpPMjlodXZYMWx6c0FXU0ZsWjRBTXZjZU9ObmVOdlJPRFlvLTYyTmkxbUxGd2h4aENuSlh4RlEteGR4T2lTeFpmRHZ1SzhaaTE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BU19kZU9zeGZkUEpVLXlqN2g4R0xMbHQ0aUxidkxBUk4yQ09UcDFGRzlhY3pGaUhwXzVuUFVndmxvbV9NZXpHSEJvVjRRd3lvUDVkNF9TU2FHdjVuV3M4Z0pMdw?oc=5",
     "image": null
   },
   {
     "id": "auto-4d6557217c7a",
     "title": "洋上工事開始前の漁業影響調査結果を報告 透明性もって進める 男鹿市・潟上市・秋田市沖の洋上風力発電（秋田テレビ）",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ニュース",
     "time": "11:28",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzeGtDRDdBV0N5V2taWjdPaEE3X1NaN3BIRUpYRHFCemRLQWh2SFpmNnRBUkU0SUp2TGtQbThaMGdHOGdCRF9PbWFlMEtfSTVNcWJJUXNUYzF0Qk16Q05NdU1FQU44bkhLMUFGZjR0QUlSUnhlU0h6Y081VTQ4WlU?oc=5",
@@ -43,7 +123,7 @@
     "id": "auto-288be5f00037",
     "title": "人々が太陽光パネルを設置し、余剰電力を低価格で販売しているが、ベトナム電力公社（EVN）はこのことについてどう考えているのだろうか？",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "10:55",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnFWcmVhYS00OHNSTjV5Z1hhS2lHQTgxYWlQSjQtRnplZXRVTmZBZlY4dEk5SjR0WXNwdHJpMk9OSUhyTXlIeUo1SUkybkF4RUpVUDBoOWwyMVZFVFNWY0dEUEp2eGd6UkRPVV9lWEl1SllyZlJnd0FKaUJXU1lqVXNBNlFnVnZhVG1acEx3?oc=5",
@@ -53,7 +133,7 @@
     "id": "auto-ae57de7c9546",
     "title": "男鹿・潟上・秋田市沖の洋上風力 風車建設前の漁獲調査など報告",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "10:49",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRmViazMtUUFiVTQyRnFUOGc1bk02dEZ5UWVnUjd3bVc0QjVxWG9qLU5Na1pHMkVMWnpGcWpxR2t4aTdTODhTT0x0MU5hWjFkS0tYQkhVZ2xidnJhVXpVT0NLOHlhZjdFQlVXNy1R?oc=5",
@@ -70,16 +150,6 @@
     "image": null
   },
   {
-    "id": "auto-40bee2585c58",
-    "title": "トヨタＮＺ、水素車「ミライ」のレンタル開始",
-    "category": "技術",
-    "accent": true,
-    "source": "nna.jp",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2tPSTJwb1FNX1lLNFVjczVwSXAydTV0Uk1iRzhKWEt1NjhKTlRtTWMyZHktVUQ2VW44VnNWbHlyRGdVNHc?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-5d475512ee78",
     "title": "JR九州、新幹線運転に8000kW太陽光発電活用 オフサイトPPA初導入 - kankyo-business.jp",
     "category": "その他",
@@ -93,20 +163,10 @@
     "id": "auto-a7ab29a1e0dc",
     "title": "水素燃料電池式フォークリフトの世界市場（2026年～2032年）、市場規模（",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "アットプレス",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LSkRHQTJac010QVdrOVRkY2dRVHE5YUM0VFg2WndJMlNvZ2FZTlg4dXV3YThTWk5iUkNQbnVkZTJCaVBuZkJoMVhhYUZuNlE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d1dc78fa6d2c",
-    "title": "「気候変動対応に求められる需要側GXとエネルギー利用の転換」と題して、SOMPOインスティチュート・プラス（株） 尾形",
-    "category": "技術",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "8:48",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bGVCb19NUGctLXE0Y2hPbG1qcHBQUFY1ZFluYkhzR1F3S2NEcnJtR0FyemtDTGFjTXpBVE1XYUx6UmMxX3dnblVzb2xyNGZJQjNSWldBQjRxYlhha0tVZlZBRHkwWV9w?oc=5",
     "image": null
   },
   {
@@ -166,7 +226,7 @@
     "accent": true,
     "source": "検索: グリーン水素",
     "time": "8:25",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2RmVKd1U2VF9vWFFPamtnWkoyZDEtTVR0LUFJa3dXeTFMa2liMVNOTVg1U2tmUUxTTm51ZFZmSS1CTmlQOEFGMmllaFJyUVdRdjJVRlVfUTJ1blBOckM0?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zb3NFd3VzR3NwdDdTSFVxWWlWREVBTW1kWkxKVXpGbUN5bE9ueXhBYUN3VUM4YndmWmltQ1M5OEpNcjdhaWhwU3lWaXNwd0tlaERhYVZwTFFJNEhPWTdpRw?oc=5",
     "image": null
   },
   {
@@ -190,10 +250,20 @@
     "image": null
   },
   {
+    "id": "auto-4de40045e135",
+    "title": "パナソニックHD、不発続いた「電力線通信」に脚光 欧州で需要拡大 - 日本経済新聞",
+    "category": "国際",
+    "accent": true,
+    "source": "はてなブックマーク",
+    "time": "8:07",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUF1604K0W6A810C2000000/",
+    "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3482373020082026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=9628126a3be827ea9d8bdaa2e6f2999b"
+  },
+  {
     "id": "auto-5f2eb5c11d42",
     "title": "今年もフィンランドが熱い！ラリーも水素もますます盛況",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "トヨタイムズ",
     "time": "8:03",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSDFoRUx4WlVpZjh4S2tBbkZDS2R0UXlpQW5xTGhqbW1zUXZOcU13Q2N1R2dfNWdsWlBVNkM2RnR3bFpfQUdTd0Q2NzVYYTZLVnc?oc=5",
@@ -213,7 +283,7 @@
     "id": "auto-b0cfb5ab1554",
     "title": "車両統合型太陽光発電（VIPV）の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン、薄膜）・分析レポートを発表",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "アットプレス",
     "time": "8:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MbkRuemZNOHJxQmxPNTFHdUprTjVac0o2S1hNT2JiNmFCc2hjV1A2bVRSbTM3dnNSUFpDeFJISDVLTmZBcnZTcGhabzFlaTg?oc=5",
@@ -223,80 +293,10 @@
     "id": "auto-8b423ae27bd4",
     "title": "脱炭素社会目指しスマホアプリ開発 岐阜・飛騨の中学生有志と市が連携：ニュース",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "中日BIZナビ",
     "time": "7:52",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV21ESk1zM3I5R1JYdXh4RHZUSEZ3OXVrVkE4UHBLdWdmVFhnb3g2bVRmUllhZm45cmVaekxNYkZDREE0Y3NqZklCMnZlUExKQW9ITjRKcE5tSVdTV3hr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f3a48c8e2b55",
-    "title": "東洋建設、海底電力ケーブル埋設システムで国内初のAiPを取得。高出力ウォータージェット式で洋上風力の埋設工事を効率化 - digital-construction.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "7:13",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRWhpOWM1S2N1RTF6Vm5jd3FoYld4RDZiMm1mR0gzNWpFNUJJdk10Mk9ScnU0S1dVMWM1b0lCYmZYakRxeUhKSG14eGJLb2hfZ3g0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3df7325fd5ff",
-    "title": "EY新日本とあずさ、日本版排出量取引のデータ確認機関に",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ia05QS2lhV1B5WkJycHlkczJYbk5jeUl5QXlNcGZjTXBidmgySVRNd2w4MmZGNTFSN1NNWUNGOW5vWEFUMElpdUFaLVFDX3I1UUlteGt5S0Z0OWdYdFFPNFJuVDRvR29HZkNIMQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-85b427f676c9",
-    "title": "脱炭素経営EXPOにCO2排出量算定システム「炭削くん」を出展いたします！ - 写真・画像(1/1)",
-    "category": "その他",
-    "accent": true,
-    "source": "西日本新聞me",
-    "time": "6:50",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2Q0xWenppWHRfYUc0dG9ZdUtWZ21ZS3ZSTzlNVnE4aGFiRkVjT2VISVNoY1VBdHlJWW9qazB1LWVhZExBZnpFLWlkZVdaNGhMXzJVWWJBZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-723276cb2527",
-    "title": "テスラが太陽光屋根タイル「ソーラールーフ」の販売を終了",
-    "category": "その他",
-    "accent": false,
-    "source": "au Webポータル",
-    "time": "6:42",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rWHV3TmVNME83SWVFQ3RDTmM1ZFc4cGtaclJCQVNYRlBJRUc0QllwN0VLT1VZQUtvWjdUcHhhVUNlWHcyQjJFSGNHSFMzTGN4V285azNlMDRNVWlKeWhXS25KS0NhcmY3YkI3YzBn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ecda464964ea",
-    "title": "大型蓄電システム「Mega Power 2700A」 の累計生産台数が500台に到達",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "6:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5MVZfMjJNcFVZdzJGT2h5RWhub3hURFpWbElYVWQzM0F3VVFtVlZCTWxrYnhySTRpTkNUMG51R2h4eTROd1BYNkRHN1c0eFc5VWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-284d24a683ee",
-    "title": "脱炭素経営EXPOにCO2排出量算定システム「炭削くん」を出展いたします！",
-    "category": "その他",
-    "accent": true,
-    "source": "Excite エキサイト",
-    "time": "6:15",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XOFREeURZby1GeGdZVEM5VDBTRTRRQjJzSWtuMXRUTlBzZzg5NU5sZDUwLTdVc0s3Qnk5ZW5ZdTlWM1NBTmpMWjJCVXh5R0pSbk5ENTNQLXBoaUJsc1R3WFJ3bHJ2N0hBTGNkR3E4ZzVsdGV1?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bc7c61713670",
-    "title": "2050年の天気予報の脱炭素版を見せてもらおうか",
-    "category": "その他",
-    "accent": false,
-    "source": "キヤノングローバル戦略研究所",
-    "time": "6:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ObVNoQm9mQmNIUDhCV1kzd2daRHFMUUlCMTVOc19YLVdOMDFiaFM3U19POUotbE5yaXNHbWh0aGp1SmdxeU5CdmF6dk5sQ053bDVJdVdrZGNsUQ?oc=5",
     "image": null
   }
 ]
