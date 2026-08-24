@@ -29,7 +29,7 @@
       "category": "暮らし",
       "source": "PR TIMES",
       "time": "8/24(月) 23:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000001587.000012900.html"
     },
@@ -40,13 +40,46 @@
       "category": "企業",
       "source": "PR TIMES",
       "time": "8/24(月) 23:10",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000183612.html"
     },
     {
-      "id": "auto-40bee2585c58",
+      "id": "auto-676c5fd2374f",
       "rank": 3,
+      "title": "デジタルグリッド 岡山で太陽光発電ゴルフ場跡地活用",
+      "category": "暮らし",
+      "source": "住宅新報",
+      "time": "8/24(月) 17:07",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VLXU2OVNJV3VyTlBsMUU0Zjd2X2FUNXJqUFFyUFA5WS1uYlNzMWJFT3RudGIxVVhmS3Q2b1I3UEU0Mkd0emR5VmsxTHB2Zld2TFE?oc=5"
+    },
+    {
+      "id": "auto-d059b056ab25",
+      "rank": 4,
+      "title": "エンライコンサルティング 再エネ用地の探索を支援",
+      "category": "暮らし",
+      "source": "住宅新報",
+      "time": "8/24(月) 17:07",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoLW0wdDNRU243eFB0ajBDb0x3bFJLX0JHTmpoN0lYNXJvSDNYMzVpd2RpaGpYVXVsSHB4X0FLcHVVMjFueUtQREttbVpjb0xncVE?oc=5"
+    },
+    {
+      "id": "auto-1002e3c77b5e",
+      "rank": 5,
+      "title": "ハノイ市は、太陽光発電システムを設置する世帯に対し、最大600万ベトナムドンの補助金を提供する計画だ。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "8/24(月) 16:58",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGdwdm81OGo0VXRaQUwyQjdWYzV4cVlyN2VxbFlCRVVHa2hFd1N6Vmc3OXZWOWNEWXhITUtzMlV6WEN5WDUxczVpNENucGEyLXA2ekFiSi0wOFVJSTBwcmloM2gyRlppV3gzQk5LRXpCWEVieGNYdzlWX2lRcFA5MjA3bFo0TWs1RG5fS1VNUFQxTEdHY1duTF9hY1dJT3RtbGpF?oc=5"
+    },
+    {
+      "id": "auto-40bee2585c58",
+      "rank": 6,
       "title": "トヨタＮＺ、水素車「ミライ」のレンタル開始",
       "category": "技術",
       "source": "nna.jp",
@@ -57,7 +90,7 @@
     },
     {
       "id": "auto-ff127164f60a",
-      "rank": 4,
+      "rank": 7,
       "title": "京大など、水素の低コスト化へ世界初の実験装置 –",
       "category": "技術",
       "source": "電気新聞ウェブサイト",
@@ -68,47 +101,14 @@
     },
     {
       "id": "auto-dfb28daf7ea5",
-      "rank": 5,
+      "rank": 8,
       "title": "企業は省エネルギーソリューションを通じて、生産工程の環境負荷を低減させている。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "8/24(月) 14:43",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlp3UWdZblhwSHdPeEo1aUpKVDVCajlDUjJQeHQzNUNRdDgwaGYwNWpKN2ZoTk16NFdTbktzVG1VRW9IbWpOLXhTQldPY2pIR0xzMnBvOUlnZ3Qxdzg1T241bFVscHNiMXY4dDR3aXA2dFBiV0EtWUpvVDRHRkZjd0pVOGVjNHF5elJGN1A5LVFSclBOX2J5dlFBazU?oc=5"
-    },
-    {
-      "id": "auto-295978b44184",
-      "rank": 6,
-      "title": "ハノイ市は、住民が屋上太陽光発電システムを設置する際に、1世帯あたり最大600万ベトナムドンの補助金を提供する案を提示している。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "8/24(月) 14:07",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFVpWjZYRkJzVmpYWllyRGhmVUJrRkhyLWhLdkVDRDR4RDdJMDBWY3lZLWVsOTRpRnlsS08xNlBneENSdFNBbTNPZlNMX3FYYlo2WUNXc01wTGJGOS1JTDQ5V3N0UnlrXy1JTjNTa0lQTk4weTgxRXd0QnRxdmtmbElBSHZQbVNWWTJtTERnNmVfLW1MeU9mOFZGeHVwbGJuTGxWOVBBVm9xUQ?oc=5"
-    },
-    {
-      "id": "auto-92a28f308ab9",
-      "rank": 7,
-      "title": "ハノイ市は、蓄電池付き屋上太陽光発電システムの設置に対し、1世帯あたり600万ベトナムドンの補助金を提供する計画だ。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "8/24(月) 14:05",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWpxS2djUXh3T1Q3Sm9YYlJNSE9EdWRrQUJjTWJoZG04YUZiNFd1SHdWQWc2QmRYLXZGNWtzNEZfYXc5SlRJSW1nS21NeWxYcXM0OUZPOG5aOHBPVHhTaVp4NXpiMjVlUGZNOGNmeWRmdVd2aVR0dUh3cl95LVRvbXhKemtoMUY2M2ZoeXkwM1JiZTVEeFhFOGJ3Z0JLa282THlnV1hzZVA?oc=5"
-    },
-    {
-      "id": "auto-9fe59c651318",
-      "rank": 8,
-      "title": "江蘇省、太陽光発電設備容量が中国で初めて1億kWを突破",
-      "category": "国際",
-      "source": "ライブドアニュース",
-      "time": "8/24(月) 11:30",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5RnVsWWx3NE9Lc1NnVzJIRzlnLW9jTU93OTZqbmtvNWxvSC1HZ0pEU2FSeF85TTZBMERZTVZpeFJoc2VIM1ZsS3haTWVHcVV6M3JwT0RtS1JzZHhtc1RZ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlp3UWdZblhwSHdPeEo1aUpKVDVCajlDUjJQeHQzNUNRdDgwaGYwNWpKN2ZoTk16NFdTbktzVG1VRW9IbWpOLXhTQldPY2pIR0xzMnBvOUlnZ3Qxdzg1T241bFVscHNiMXY4dDR3aXA2dFBiV0EtWUpvVDRHRkZjd0pVOGVjNHF5elJGN1A5LVFSclBOX2J5dlFBazU?oc=5"
     }
   ]
 }
