@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-981608656ba9",
-    "title": "省エネ法ベンチマーク制度、電力供給業など複数業種の目標値を見直しへ",
-    "summary": "改正省エネ法において、一部業種に一定水準のエネルギー消費効率の改善を求める「ベンチマーク制度」。政府は足元の目標達成状況などを踏まえ、電力供給業など複数の業種について目標値を見直す方針だ。",
-    "category": "技術",
-    "source": "ITmedia スマートジャパン",
-    "time": "8/25(火) 7:00",
+    "id": "auto-03f017e02e42",
+    "title": "革新的技術 汚泥から電力とCO2を同時回収 ／ ライノフラックス株式会社との共同検証を開始",
+    "summary": "[水ing株式会社] 水ing株式会社（社長：安田真規、本社：東京都港区）は、ライノフラックス株式会社（以下「ライノフラックス」）と共同で下水処理場やし尿処理場、産業排水処理施設などから発生する汚泥・固形残渣を対象とした電...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "8/25(火) 12:40",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/25/news037.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/25/cover_news037.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000137.000134915.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/134915/137/134915-137-ae3d3b2537e75bbed7e8d2ae750bb713-666x444.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-b9462f0497ed",
+      "id": "auto-de74e6a70fde",
       "rank": 1,
-      "title": "富士テクニカルコーポレーション、事業を展開する宮城県川崎町にて教育支援と地域イベント協賛を実施",
+      "title": "ライノフラックス、水ingと下水汚泥からの高効率発電・高純度CO2回収に向けた実証を開始",
       "category": "自治体",
       "source": "PR TIMES",
-      "time": "8/25(火) 6:40",
-      "tag": "",
+      "time": "8/25(火) 12:40",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000081547.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000151345.html"
     },
     {
-      "id": "auto-b39ddff42d00",
+      "id": "auto-981608656ba9",
       "rank": 2,
-      "title": "富士山初、7合目「日の出館」に太陽光充電ステーションを無償提供。遭難リスク軽減と環境保全に貢献",
+      "title": "省エネ法ベンチマーク制度、電力供給業など複数業種の目標値を見直しへ",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "8/25(火) 7:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/25/news037.html"
+    },
+    {
+      "id": "auto-178607280da9",
+      "rank": 3,
+      "title": "ハノイ市は、屋上太陽光発電システムを設置する世帯に対し、最大600万ベトナムドンの補助金を提供する計画だ。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "8/25(火) 3:52",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOG5OM1c5NDNPTjF3VXZBOE90M2NrM0VwZXV0c1JMdWpiZVJ3QlhkVHA0M1F4MTJOY3F0OWNYVkhIdkQwV3gzejRVb2ZVVzVyT0hLNmxjemhEYnhNZ3dSU1ZhWU5DZkZ4ZUIzWWEzYjU4czY4MFZoMWI4RTA2eExfbXY0MmlUNDlxeVN5Z1IxNy00bGlXb1N6MlQ2MnZhUXM?oc=5"
+    },
+    {
+      "id": "auto-0cbd21cf1dfd",
+      "rank": 4,
+      "title": "カントー市には、屋上太陽光発電システムを設置した顧客が4,145人以上いる。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "8/25(火) 3:28",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlZLcUtZOVpDOFZ5QnZ3RVNKaTV0SGMzOExEMG1WeU1uYWVVRDhkZE9ZQWd0RDBvQU1wODNUdWV6WkVrTXpGZDVJSGt1M1VlalplcW4zZ0RRVmdHOE4zQnMzTW5BUzZMa2VhNXZNZFcyQmpIREN4QzNfTjJpcmFPdHFZWkVaOWk0R2g5d2FFV0Y?oc=5"
+    },
+    {
+      "id": "auto-f8a6a0210723",
+      "rank": 5,
+      "title": "プラボはバリ島で100 GWpの太陽光発電所を立ち上げる",
+      "category": "その他",
+      "source": "VOI.ID",
+      "time": "8/25(火) 3:26",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxYnpibVRaRS1tQWViQXc1azZWNlVna0FNZVFWbmRVbENGM2FvdGNKUG41SVlNZ0R6UlZwTUJGbzQxODFTeXfSAUJBVV95cUxPZFk4TEtxN0l0eWpsc1lUNkpMUXA2NnRRaGZfWVhRRERkcExaN1VnYkxfR042YWNVSGRuOWhZWDNoMlE?oc=5"
+    },
+    {
+      "id": "auto-be2440a3317e",
+      "rank": 6,
+      "title": "水素エネルギー分野の研究開発を加速する世界初のマルチモーダル専用ビームライン（SPring-8-II／BL34XU）建設プロジェクトを始動します",
+      "category": "技術",
+      "source": "京都大学",
+      "time": "8/25(火) 3:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYZmtKaURZdHlLQkt5azNHclY4dWFIN3l2UWVMckRWNWpXRktoSXgxU3Freno5WkhxQ2t3d1p5Rldzd2FHUm1GT3VlMWhSRHJVT0NtaWZ2VQ?oc=5"
+    },
+    {
+      "id": "auto-863072054130",
+      "rank": 7,
+      "title": "菊水株式会社、系統用蓄電池事業へ本格参入",
       "category": "その他",
       "source": "ニコニコニュース",
-      "time": "8/25(火) 1:45",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wVzRsZ0ZpVFhtWHVIbFlPSVZGMjd0dmlqYVRnc2R2Mk81TXdoYlA1QlUwNzZxQi1QRXRqOU9hR3BjUFl5VUhWOWRSZVBoSmIteDduLUdtWm54amVKVWlpYWxhWWw0cXlMSlJYUTBnUmNwb0dHRXo0V1RiUQ?oc=5"
-    },
-    {
-      "id": "auto-303da39cea4a",
-      "rank": 3,
-      "title": "【日本蓄電池株式会社】岐阜県揖斐郡にて系統用蓄電施設「NC池田町八幡蓄電所」蓄電池設置開始",
-      "category": "その他",
-      "source": "PR TIMES",
-      "time": "8/25(火) 1:00",
+      "time": "8/25(火) 3:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSFlHX3VTS2dULU10UXlfZjIwOU5MMWd5dF9HT01iZzBrbDdJcXAwWU56TDNoZmotamk0QncxcFZBbGZqZU5YNHp2MVhMUmpFamVEXzRESVVldW9XcVhZTU01ekVXbGJNcUE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0T2YyajZuZ1JDRGtlOUtYZU5kS0xPZ01JNHZJYjdQN1lNR2gtektnYWwxemVPWWJKVDFma2oxUkZtVjVfb21rNVB6Wkk2RDhwcGh3SGlIWkpka3JtN29qX3VtRnhuMXlyQ2dMdnF5TXVMWWZLaVNBTVktaw?oc=5"
     },
     {
-      "id": "auto-b61dbcc0e9dd",
-      "rank": 4,
-      "title": "ABB日本ベーレー、世界初の商用規模液化水素基地に制御システムを供給",
-      "category": "技術",
-      "source": "共同通信PRワイヤー",
-      "time": "8/25(火) 1:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IOHFVTzhONzE3VDhkMVhHc2NlekRadTdqZjE0VUktY05LWkhYcHJ2ZWRnQ0wzSGx3UFBHU3pPZGQ4XzB6TkVqTGdGd0RJWlB2MWVYd3F0Mm15NTg?oc=5"
-    },
-    {
-      "id": "auto-919d5f406ff6",
-      "rank": 5,
-      "title": "和のまち太子 ゼロカーボンシティ宣言 - town.hyogo-taishi.lg.jp",
-      "category": "自治体",
-      "source": "検索: 地域・自治体の脱炭素",
-      "time": "8/25(火) 0:49",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZwZlVhcEF5UUxYZ2p4THFNTlhFRHpzLUZqcXdKUlJjakJ1aW9tblloX0E1ZUs2NW54ZjY1RFNrMEYxb3VUYTdaRGgwR3R2cElDLVlEdWU4bER4X1hEZXRZWEFhM0RRU0FtaEZxaEEyNmRNeTRmTEtHQmxrRDJCRVNreERNQ056QWpQNmtuWlJveFY3?oc=5"
-    },
-    {
-      "id": "auto-2a37487e9e96",
-      "rank": 6,
-      "title": "講談社 主催COURRiER JAPON GX EXPO2026登壇のお知らせ",
-      "category": "その他",
-      "source": "Infoseek",
-      "time": "8/25(火) 0:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jZlE2amQ0c0xrSHhRSkp5SVM0LWhzcjFRTkhGY3RXTTA1WkhZZGhhRHpHdXFEZjRzVFdWelNQS0NiZmNBeGxDeVNiUHEzbm8yVDRZSXFhV0IwUjhELW9CcTlBbkx1c3hrYWVlTkxRRnNDZw?oc=5"
-    },
-    {
-      "id": "auto-15cdaa08b950",
-      "rank": 7,
-      "title": "天然水素は21世紀のゴールドラッシュ？／AIに「創造性の壁」",
-      "category": "技術",
-      "source": "ASCII.jp",
-      "time": "8/25(火) 0:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTGIzN2RVLUVTYXU3bVUzMEVmVV90UlZPZGhPWWVYMTFuR3dhckRCNjdOZDJIUmVWY0M0UXh4SGM4SDFvSGtHM3VucTB6dHhwWmlaag?oc=5"
-    },
-    {
-      "id": "auto-368179ffab90",
+      "id": "auto-1f0e4e5e8b0a",
       "rank": 8,
-      "title": "業務スーパー創業者が太陽光発電所で羊を放牧する理由 地域も自然も活かすソーラーグレージングとは",
-      "category": "自治体",
-      "source": "ハフポスト",
-      "time": "8/24(月) 23:49",
-      "tag": "NEW",
+      "title": "【国内初*】「リユース太陽光発電」によるカーボンクレジット創出プロジェクト始動 (2026年8月24日掲載)",
+      "category": "その他",
+      "source": "ライブドアニュース",
+      "time": "8/25(火) 2:23",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83c0FFVlpUNW5Gb3g4ZE10b1luMndDS0FUWHdVc1N2NGp0a0NMYTBiY0I1MjQtTHl1TlVNRzYzQU9IanVyQjR2TXQtRm5CcTc1aHY2cVVJQVZ1dzctLUYzUTFBWVVvNFZIMlFYeXo0aGdSSXpOS3FyOA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQnUxd21NbmJxd2tPVUJBNExCTWJuRWFYM3BDYVlzWng3SDRTRklLSGVoOXlTMERoWE9qeVZZN1lnZ0NBdHY3RFQxRmc0MXZTbE9ybTV1YnVJR253OVFoT3Zn?oc=5"
     }
   ]
 }

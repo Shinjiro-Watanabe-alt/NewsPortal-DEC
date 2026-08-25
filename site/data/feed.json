@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-03f017e02e42",
+    "title": "革新的技術 汚泥から電力とCO2を同時回収 ／ ライノフラックス株式会社との共同検証を開始",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "12:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000137.000134915.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/134915/137/134915-137-ae3d3b2537e75bbed7e8d2ae750bb713-666x444.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-de74e6a70fde",
+    "title": "ライノフラックス、水ingと下水汚泥からの高効率発電・高純度CO2回収に向けた実証を開始",
+    "category": "自治体",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "12:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000151345.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/151345/5/151345-5-1e2848fe02a3541a736138345ea7a7ab-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-981608656ba9",
     "title": "省エネ法ベンチマーク制度、電力供給業など複数業種の目標値を見直しへ",
     "category": "技術",
@@ -10,53 +30,153 @@
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/25/cover_news037.jpg"
   },
   {
-    "id": "auto-b9462f0497ed",
-    "title": "富士テクニカルコーポレーション、事業を展開する宮城県川崎町にて教育支援と地域イベント協賛を実施",
-    "category": "自治体",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "6:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000081547.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/81547/43/81547-43-7a62f071ababa81d79720b69af9ae8ba-842x595.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-b39ddff42d00",
-    "title": "富士山初、7合目「日の出館」に太陽光充電ステーションを無償提供。遭難リスク軽減と環境保全に貢献",
+    "id": "auto-178607280da9",
+    "title": "ハノイ市は、屋上太陽光発電システムを設置する世帯に対し、最大600万ベトナムドンの補助金を提供する計画だ。",
     "category": "その他",
     "accent": false,
+    "source": "Vietnam.vn",
+    "time": "3:52",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOG5OM1c5NDNPTjF3VXZBOE90M2NrM0VwZXV0c1JMdWpiZVJ3QlhkVHA0M1F4MTJOY3F0OWNYVkhIdkQwV3gzejRVb2ZVVzVyT0hLNmxjemhEYnhNZ3dSU1ZhWU5DZkZ4ZUIzWWEzYjU4czY4MFZoMWI4RTA2eExfbXY0MmlUNDlxeVN5Z1IxNy00bGlXb1N6MlQ2MnZhUXM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0cbd21cf1dfd",
+    "title": "カントー市には、屋上太陽光発電システムを設置した顧客が4,145人以上いる。",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "3:28",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlZLcUtZOVpDOFZ5QnZ3RVNKaTV0SGMzOExEMG1WeU1uYWVVRDhkZE9ZQWd0RDBvQU1wODNUdWV6WkVrTXpGZDVJSGt1M1VlalplcW4zZ0RRVmdHOE4zQnMzTW5BUzZMa2VhNXZNZFcyQmpIREN4QzNfTjJpcmFPdHFZWkVaOWk0R2g5d2FFV0Y?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f8a6a0210723",
+    "title": "プラボはバリ島で100 GWpの太陽光発電所を立ち上げる",
+    "category": "その他",
+    "accent": false,
+    "source": "VOI.ID",
+    "time": "3:26",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxYnpibVRaRS1tQWViQXc1azZWNlVna0FNZVFWbmRVbENGM2FvdGNKUG41SVlNZ0R6UlZwTUJGbzQxODFTeXfSAUJBVV95cUxPZFk4TEtxN0l0eWpsc1lUNkpMUXA2NnRRaGZfWVhRRERkcExaN1VnYkxfR042YWNVSGRuOWhZWDNoMlE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-be2440a3317e",
+    "title": "水素エネルギー分野の研究開発を加速する世界初のマルチモーダル専用ビームライン（SPring-8-II／BL34XU）建設プロジェクトを始動します",
+    "category": "技術",
+    "accent": false,
+    "source": "京都大学",
+    "time": "3:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYZmtKaURZdHlLQkt5azNHclY4dWFIN3l2UWVMckRWNWpXRktoSXgxU3Freno5WkhxQ2t3d1p5Rldzd2FHUm1GT3VlMWhSRHJVT0NtaWZ2VQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-863072054130",
+    "title": "菊水株式会社、系統用蓄電池事業へ本格参入",
+    "category": "その他",
+    "accent": true,
     "source": "ニコニコニュース",
-    "time": "1:45",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wVzRsZ0ZpVFhtWHVIbFlPSVZGMjd0dmlqYVRnc2R2Mk81TXdoYlA1QlUwNzZxQi1QRXRqOU9hR3BjUFl5VUhWOWRSZVBoSmIteDduLUdtWm54amVKVWlpYWxhWWw0cXlMSlJYUTBnUmNwb0dHRXo0V1RiUQ?oc=5",
+    "time": "3:00",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0T2YyajZuZ1JDRGtlOUtYZU5kS0xPZ01JNHZJYjdQN1lNR2gtektnYWwxemVPWWJKVDFma2oxUkZtVjVfb21rNVB6Wkk2RDhwcGh3SGlIWkpka3JtN29qX3VtRnhuMXlyQ2dMdnF5TXVMWWZLaVNBTVktaw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1f0e4e5e8b0a",
+    "title": "【国内初*】「リユース太陽光発電」によるカーボンクレジット創出プロジェクト始動 (2026年8月24日掲載)",
+    "category": "その他",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "2:23",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQnUxd21NbmJxd2tPVUJBNExCTWJuRWFYM3BDYVlzWng3SDRTRklLSGVoOXlTMERoWE9qeVZZN1lnZ0NBdHY3RFQxRmc0MXZTbE9ybTV1YnVJR253OVFoT3Zn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-877db6773fc4",
+    "title": "ＳＣＳＫと三井住友ファイナンス＆リース、中堅・中小企業のGX実行支援に向けた協業を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "2:05",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oNWVBUHFVWjNsWmZiNXItOWhBb0s2U3dQMGpVOHNFeG11Q1lOQ3dHZDNmLVk0VjQtNjlpMkliWUhFY3dfZjBwa2JoT3NoWFhEeVc4Z2FHTVByb0tMNVhLcXZHLUljcGJfbWc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-28fb3684557c",
+    "title": "日本エネルギー管理ソフトウェア市場、2035年に93億430万米ドルへ、CAGR 12.43％で拡大、企業の省エネ・脱炭素化を支援",
+    "category": "その他",
+    "accent": true,
+    "source": "アットプレス",
+    "time": "2:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wY2VaMms5Zk5Xa05udnQyRWIwRE8tQWlvOVhaLVBkdlNKN0FIUW5DMUk3TzdDamdCSHZhR0lqSWVaNWV4X2NPZDUtZlhFZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0275d23022f1",
+    "title": "長野県と八十二長野銀、脱炭素へセミナー開催 企業の担当者ら参加：ニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "1:59",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UTFVKejdjUlBYeWFmSGoySzNBS0M1cl8xVDJFOTZGWTFNWW5hLWZYLXlNNlZ2dHk1UzU1VnBucVV1ampZbVNtYkdrelBNMy1DeGdybG1GdkxTRXJ4ODdv?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f88b651f5af9",
+    "title": "【プレスリリース】海山林友とバイウィルの共同プロジェクト、森林クレジット創出が正式認証。カーボンニュートラルへ前進",
+    "category": "その他",
+    "accent": false,
+    "source": "bywill.co.jp",
+    "time": "1:05",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHSU81R2JaWG1OY1J0S1o4TXFMQlFHZDYyTmFlVUY0S0Rkem5jQUg3bFpieUttOEpTSWFBZk1nYkdQOG1USjNuRUNQVFNhdlB6U2c?oc=5",
     "image": null
   },
   {
     "id": "auto-303da39cea4a",
     "title": "【日本蓄電池株式会社】岐阜県揖斐郡にて系統用蓄電施設「NC池田町八幡蓄電所」蓄電池設置開始",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "1:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSFlHX3VTS2dULU10UXlfZjIwOU5MMWd5dF9HT01iZzBrbDdJcXAwWU56TDNoZmotamk0QncxcFZBbGZqZU5YNHp2MVhMUmpFamVEXzRESVVldW9XcVhZTU01ekVXbGJNcUE?oc=5",
     "image": null
   },
   {
-    "id": "auto-b61dbcc0e9dd",
-    "title": "ABB日本ベーレー、世界初の商用規模液化水素基地に制御システムを供給",
-    "category": "技術",
-    "accent": true,
-    "source": "共同通信PRワイヤー",
+    "id": "auto-70f718ab9b21",
+    "title": "【9月18日開催】ICVCMボードメンバーが語る「高品質カーボンクレジット」の世界基準とは",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
     "time": "1:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IOHFVTzhONzE3VDhkMVhHc2NlekRadTdqZjE0VUktY05LWkhYcHJ2ZWRnQ0wzSGx3UFBHU3pPZGQ4XzB6TkVqTGdGd0RJWlB2MWVYd3F0Mm15NTg?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrT0RONERMeE8waTRDSGNmZWc3UVdSSjcwWVhwR0VEV0tqSHJ3X1NYbUs2MzUwNlpBRGdJelY0b1h2akhUZk9ER0JwMS1CUlNMT3hzUjZDeHN2N2JlUFZkaUVram9Kd0szbGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b61dbcc0e9dd",
+    "title": "ABB日本ベーレー、世界初の商用規模液化水素基地に制御システムを供給 (2026年8月25日掲載)",
+    "category": "技術",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "1:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUdGpjU0xYWlZPMjM5WHFIUnJrWU5kcVZySGtCaEViMUIwY1NTT2NtejdBejNRb293T01rVVphS2c1WUtqMmYtMnZIendBMEZPb2Z1Q0I2eXdrSllGcWN6dFVR?oc=5",
     "image": null
   },
   {
     "id": "auto-919d5f406ff6",
     "title": "和のまち太子 ゼロカーボンシティ宣言 - town.hyogo-taishi.lg.jp",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "検索: 地域・自治体の脱炭素",
     "time": "0:49",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZwZlVhcEF5UUxYZ2p4THFNTlhFRHpzLUZqcXdKUlJjakJ1aW9tblloX0E1ZUs2NW54ZjY1RFNrMEYxb3VUYTdaRGgwR3R2cElDLVlEdWU4bER4X1hEZXRZWEFhM0RRU0FtaEZxaEEyNmRNeTRmTEtHQmxrRDJCRVNreERNQ056QWpQNmtuWlJveFY3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e3d56b1219da",
+    "title": "家庭用蓄電池の電力を市場へ供出、エネマネサービス開始へ",
+    "category": "暮らし",
+    "accent": false,
+    "source": "新建ハウジング",
+    "time": "0:15",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJejNfM0YxNlNveTV6eFJ2Qmo3enItMGtqcDlHRXBLRV9kbFpIbkV1TDJMcHRtVlJodUlDTmhFMG9OUkdWckdoZ0J6aXNGMWUwY1E?oc=5",
     "image": null
   },
   {
@@ -177,126 +297,6 @@
     "source": "みんなの広報宣伝部",
     "time": "22:22",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yNUhWRm9BRURpaGNBZEdWeVJFWVMzbWgzR3BPZTRicW52bHNuclNlU1dxb1VRUmg2VTZWTkp6eWJjSnJmRlhtck95Y25abnpTeGc4cHIyTnloTXhIOE9oU1VuSzBtTlhFYmJCNmRFRDFnZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-beb8244c7b02",
-    "title": "シャープ蓄電池、太陽光発電の自家消費率74%にアップ 狭くても置ける",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "22:14",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DREg5Vm81NEdxXzd6eTZZMDM4ZS1ROHk5UVdZR1c0eV9Uc0t6OHRBdzgweHY4UWdoTWVEN1VTWVpCbUU2X3BWRXdzNjU2c0M5Y0tSNjRMbnZZc3FDbWVuQndDck9UTG9jVmstbDBqY0kwU1dEdWRkeA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6bce3deec3c1",
-    "title": "韓国ネクセンタイヤ、再生可能エネルギーで工場稼働へ…梁山工場に直接PPA導入",
-    "category": "国際",
-    "accent": true,
-    "source": "AFPBB News",
-    "time": "22:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCQ2pvQklBQXJWX1NMc1h4dFhKNEVpcE9EZXVrWlFCTW4xSTZLeXc4Q1hqVlFTRFBscHg4RGlIYTYtMFM0WS1tX0hPd3FXRGNBZjYtZdIBVEFVX3lxTFBCQ2pvQklBQXJWX1NMc1h4dFhKNEVpcE9EZXVrWlFCTW4xSTZLeXc4Q1hqVlFTRFBscHg4RGlIYTYtMFM0WS1tX0hPd3FXRGNBZjYtZQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-72e4b4e9cb89",
-    "title": "農地転用の判断基準は太陽光パネル下の「収穫量チェック」だけでは不十分",
-    "category": "その他",
-    "accent": false,
-    "source": "日経BP",
-    "time": "22:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93Tlc0MDNSWHBoZFkyTEd6eVd3NVV4dmNPRHZCby1Qa3RtRHZ3M09KeDZhNzJmZ3A4eDJ3dmpKRktlLU90Y2MwcThaa21PQWNaajJoaGxBVkZZTHM5c1BSNGdteHFGVmdlMEFRaGRzS1dEWHdfbGFUQklB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8b1c83227e12",
-    "title": "上場来高値のパナソニックも…データセンターから再エネまで”インフラ化”する「電池」関連銘柄4社の実名",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "22:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NUEdQcFgxUFYyNkp4MzNDTnQxamlLLUd4aER4VTgyV0xxUFRzeXdpZ3dTSldzbnk4aS1wUlM2ckVGRmdqODRGMHFtbE9TVW9wcGxPQTdod1hoalpFaV9n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-40bee2585c58",
-    "title": "トヨタＮＺ、水素車「ミライ」のレンタル開始",
-    "category": "技術",
-    "accent": true,
-    "source": "nna.jp",
-    "time": "21:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2tPSTJwb1FNX1lLNFVjczVwSXAydTV0Uk1iRzhKWEt1NjhKTlRtTWMyZHktVUQ2VW44VnNWbHlyRGdVNHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-43309bad3837",
-    "title": "【顔】こうふグリーンラボ水素アンバサダーを務める「とびｃｈａｎ．」さん",
-    "category": "技術",
-    "accent": false,
-    "source": "sannichi.co.jp",
-    "time": "21:30",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16cTc2dG1OWWpoejVZTXg4YWxrZlNPdVU2R1lNbVljMGMzX2ZBQzVfYjZNSDRaVHQzS3NyWEduRWZhSm9OVFBid2ljaTREd0pGTVBQUlRQT0c3VFFhU1pSeXpDR3UtT0xCZFVZRGZqT29jbzZs?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2f453e3f8372",
-    "title": "海の上の63ビル64棟分、韓国最大の洋上風力が年内完工へ",
-    "category": "国際",
-    "accent": false,
-    "source": "BigGo ファイナンス",
-    "time": "20:55",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5teHNhOE44TDh2Qll2bGJlbHc3RjdwOWhNREpNMExvSVJLS3BOZ2hfTTFxSF9XX2V5aGhrYzR1elh1NUdKT0ZEUVJ2ZWxzeTBFQmlLQlY3bkthMlFEQXlvSXpqc3l2M0xKbzN5cENRZXRkQnY4?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-31aa2df82d1a",
-    "title": "東洋エンジなど、洋上風力の水中点検無人化 工程表提案",
-    "category": "その他",
-    "accent": true,
-    "source": "日刊工業新聞",
-    "time": "20:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XX0dLc0Jsdkt1REZtVHk1VDJNb3pManhsUXlBdjRBXzk0Z1hyQnhlVndXdTdzVWdlbEVScWcxM19YOEM0WkVsbEhhOEtPQmg5d2dQTFNnb2U?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f63895eb53c2",
-    "title": "脱炭素技術触れ 環境意識高める 京都、親子連れら体験 京滋ニュース",
-    "category": "その他",
-    "accent": false,
-    "source": "福井新聞社",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVUHBiSEhWZmpqT05UM01aYXFWQjJKUmVsc0d6LWI5WFBlTXNjeXZ2RlhLa3JUeVllSzJnY0FKYUxlX2JXOTl5RG9DZGRPZjZkekFva2RYSENKWVJZTmc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cc2176459dea",
-    "title": "常温･常圧で水素輸送 東大など実証成功､液体に吸蔵合金",
-    "category": "技術",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjhQNm5CTk5QWVVNZkdaX2ZPSGlScEk3cXQ1djN4NmRndmtBTzYtMERjYTJ3U0JFQjNFSHdBRmlKeU9XRVZmb2J6c1o3S0E5cHNtSTJSVHNwNU5tNFZBNU5jOVR4NkdwcU82UjJ0dXdwTWVWUHZr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e9e03230cd71",
-    "title": "液化水素を鉄道コンテナ輸送 川崎重工､揺れ抑え安全に",
-    "category": "技術",
-    "accent": true,
-    "source": "日本経済新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZDBXTFVpdWd2N042eE5jb2FvYlI1X0hERUhwUXM5SzVUTm5UaURPTjNic3VOVm5JTzFYUWp3MklleDZHRWE5Q1FieWhobUdWTjRmcjVFLU9ZN05aQmFfWXRDaUhhWU1VdjZJRzFWcllCNHluR2xJ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-22f0249d4e4f",
-    "title": "秋田沖の洋上風力発電事業 沖合工事前の海中の状況報告",
-    "category": "その他",
-    "accent": false,
-    "source": "河北新報オンライン",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3WmxDUmF4M0QzWnZob0w1N1pMaWlsN3pJcVZ3Tk1iSkI4eTRPQXNUc0o5V3BZa2M4X19MMG0tRlRfdXg4dm9talk2MW16QXlFczhpX3Q3ek55cFBhTU9Vag?oc=5",
     "image": null
   }
 ]
