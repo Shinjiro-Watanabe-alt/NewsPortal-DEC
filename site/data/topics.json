@@ -11,20 +11,31 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-3a99f722eee2",
-    "title": "蓄電池投資は何年で回収？試算例は利回り22.5％・回収4.4年、「ニッパチシミュレーター」を公開！",
-    "summary": "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/10/183612-10-ac23cd9cc6f89bfe9103b0efcd900f1f-1536x1024.png?wi…",
-    "category": "企業",
+    "id": "auto-78d2d21ce589",
+    "title": "欧州の国際展示会に当社のCO2回収・利用および除去技術を出展",
+    "summary": "[三菱電機株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/120285/437/120285-437-b07772ed2115dcac30474e5034073400-1500x717.jpg?width=536…",
+    "category": "国際",
     "source": "PR TIMES",
-    "time": "8/26(水) 0:40",
+    "time": "8/26(水) 1:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000183612.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/183612/10/183612-10-ac23cd9cc6f89bfe9103b0efcd900f1f-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000437.000120285.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/120285/437/120285-437-b07772ed2115dcac30474e5034073400-1500x717.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-5dd267690e20",
+      "id": "auto-3a99f722eee2",
       "rank": 1,
+      "title": "蓄電池投資は何年で回収？試算例は利回り22.5％・回収4.4年、「ニッパチシミュレーター」を公開！",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/26(水) 0:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000183612.html"
+    },
+    {
+      "id": "auto-5dd267690e20",
+      "rank": 2,
       "title": "Scope3の「算定疲れ」を終わらせる、カーボンインセット実践ガイドを公開",
       "category": "企業",
       "source": "PR TIMES",
@@ -35,7 +46,7 @@
     },
     {
       "id": "auto-fa4f44a7b9f2",
-      "rank": 2,
+      "rank": 3,
       "title": "ハイアール、省エネ・清潔・品質にこだわった温水洗浄便座の2タイプを発売",
       "category": "暮らし",
       "source": "PR TIMES",
@@ -45,70 +56,59 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000241.000020472.html"
     },
     {
-      "id": "auto-aaf3890da6c5",
-      "rank": 3,
-      "title": "【9月2日調印式】水田のメタン削減が農家の収入に繋がる | Green Carbon・瀬戸内市・岡山村田製作所、農業J-クレジットの\"地産地消\"モデルで連携協定を締結へ",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "8/26(水) 0:15",
+      "id": "auto-ecda464964ea",
+      "rank": 4,
+      "title": "大型蓄電システム「Mega Power 2700A」 の累計生産台数が500台に到達",
+      "category": "その他",
+      "source": "山陽新聞",
+      "time": "8/25(火) 17:02",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5MVZfMjJNcFVZdzJGT2h5RWhub3hURFpWbElYVWQzM0F3VVFtVlZCTWxrYnhySTRpTkNUMG51R2h4eTROd1BYNkRHN1c0eFc5VWc?oc=5"
+    },
+    {
+      "id": "auto-37b492fa0674",
+      "rank": 5,
+      "title": "12.6GWの太陽光発電所がまだ稼働中、バヒリル・ビドルは燃料輸入を減らす",
+      "category": "その他",
+      "source": "VOI.ID",
+      "time": "8/25(火) 16:45",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000300.000117956.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1nU0R3bGlQT0F6SkdlOFJ5ZWJIUThURW43TkQzckNPOFdHQ3FrTFdDU19HUzN6OTI3Q2ZuUXBuUHNDbGPSAUJBVV95cUxNY1RMel9CUmdqVnFrcUUyWU91YjNXaFVNXzVvdHlPbzM2RmxGZTA3VlBqZ0pKX25QUmFnQ0xlb0NVZ0E?oc=5"
+    },
+    {
+      "id": "auto-b92359874b5b",
+      "rank": 6,
+      "title": "電気のない村が100ギガワットの太陽光発電のターゲット、政府は村ごとに1メガワットを準備",
+      "category": "その他",
+      "source": "VOI.ID",
+      "time": "8/25(火) 16:07",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RWEstYm9RWVBFOFo3cWNPbktSQVV2aTNTUFZQLVVEV0tnaXNRUjJjU3phTFBLVUxHcmtyYTVmbTJfOWV0V2fSAUJBVV95cUxQTlQyZF91T3NnQm9EV3FKX25ZSXhoOUVnQnkya2owczlEX19FTDN5eld6eUVIMTJOSzVmZGlzWXA1NWc?oc=5"
+    },
+    {
+      "id": "auto-f4e8ac9687c1",
+      "rank": 7,
+      "title": "国境警備ルートを照らすための太陽光発電式街灯の設置に、25億ベトナムドン以上が費やされた。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "8/25(火) 15:48",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU8tT3pGemFMNXl6RnVvc2VRcm5YZFc5ZEZ3N1NhY010dGp1S3QwMkRzel9odjFCMGpBVV9XekVZWUFHOFpfMGtHM1U3bDh1SmJxNHpSdm9sNm5uQnVYaHNjUFFfOGVTc25DaTZaR3p0SUZRTWFzTUZfU0hCaThaNFFCQm1vY1dRX0hIdml4WTRhTUtPQnE5WUFjRDNtTTZpUVpXMG8wMA?oc=5"
     },
     {
       "id": "auto-c5576b62f21f",
-      "rank": 4,
+      "rank": 8,
       "title": "プラボウォ大統領がギリマヌク太陽光発電所サイトに向かう瞬間、グミメケプンコミュニティの温かい歓迎を受ける",
       "category": "その他",
       "source": "VOI.ID",
-      "time": "8/25(火) 15:06",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE90UGxfRmhMU3ZnRERwOFowZGRoLVJ6YmtZX3B4dWpoNnNCOXZaeDZGMDM3MFkxMDR4R0d2b3RMaFl6RmPSAUJBVV95cUxOVnFESERQNFZuQUFBVDQzX0ZGV1lyRTNuWF9od3c3cTg3QUN1TVVCTzJiWVZCQm9wT0VkdmctTEJNN0E?oc=5"
-    },
-    {
-      "id": "auto-c95ce7d0f657",
-      "rank": 5,
-      "title": "北海道開発予算8000億円超要求へ 27年度概算 脱炭素やデジタル関連重点",
-      "category": "その他",
-      "source": "北海道新聞デジタル",
-      "time": "8/25(火) 15:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ocXdyUDAzNUFVVmV3TzZkVThFLU8wMS1tVnFZaHNDTlNWUDhZd3ZNTlItZy13WTRHVU1CaEtlMmg0aEFiZFYtamNKQVVITlFLcVJOQllOUW5DQQ?oc=5"
-    },
-    {
-      "id": "auto-eb9b02e3c2eb",
-      "rank": 6,
-      "title": "バリ島はまだPLTDを使用しており、BahlilはPLTS 1.000 MWを目標に6億リットルの太陽光を節約",
-      "category": "その他",
-      "source": "VOI.ID",
-      "time": "8/25(火) 14:19",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4RURJUkd5SGlZd1JfSEZ3MllrVnliTEJuY2g2bkc3eDJia1ZYR1VTaWJlMk5WNy1Fc01KOTUtdDRYZGxXLVHSAUJBVV95cUxOMXFGTlZ4RlBLM1RWZHU1ajdGZXJ2dkRxSElnck1TWktKTVI3blowYTBQdWw3eHEybC1lbFM4SmE5M1E?oc=5"
-    },
-    {
-      "id": "auto-c00f4a451d8d",
-      "rank": 7,
-      "title": "民間は100ギガワットの太陽光発電所を建設したがらない、政府は中継器を準備して引き継ぐ",
-      "category": "その他",
-      "source": "VOI.ID",
-      "time": "8/25(火) 13:42",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wNkJVQmdXT0VJYzlyZ0c0SDU3MUdMOWNGT21TbGM1TFdTMzdycElNajBZZnVET0Y1RXZXN0JHRThGLXdsQmfSAUJBVV95cUxNMTA4bkY4V2gxU1NRMUhOZzlTUVJoTzRacW1NSXhXUU9FckIxNTZqSDB6bGJEVl9ZSDJhSjhEY21iYlE?oc=5"
-    },
-    {
-      "id": "auto-d6263f1c7659",
-      "rank": 8,
-      "title": "100 GWの太陽光発電は1.140兆ルピアを必要とし、バヒリルは552万人の雇用を創出できると主張",
-      "category": "その他",
-      "source": "VOI.ID",
-      "time": "8/25(火) 13:00",
+      "time": "8/25(火) 15:07",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5WOXRkWWtPdkQ1RmdXSGUzRS1RNGtqRUlvU3VpZ21nQnlzN0dsdkotQjFzNnppb1RHeUxtT212eWJhalHSAUJBVV95cUxQRi1YT1lINkpxZ1Nhdk56d3pBVXh2MWdvSTY1ZURqQUNxWi11Yko5dm9VWVo0R1VLSExnaHM5ZnVNMnc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WcURIRFA0Vm5BQUFUNDNfRkZXWXJFM25YX2h3dzdxODdBQ3VNVUJPMmJZVkJCb3BPRWR2Zy1MQk03QdIBQkFVX3lxTE5WcURIRFA0Vm5BQUFUNDNfRkZXWXJFM25YX2h3dzdxODdBQ3VNVUJPMmJZVkJCb3BPRWR2Zy1MQk03QQ?oc=5"
     }
   ]
 }
