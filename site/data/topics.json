@@ -11,53 +11,20 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-73911f41e2a5",
-    "title": "当社が導入する海底電力ケーブル埋設システムが国内初のAiPを取得",
-    "summary": "[東洋建設株式会社] 東洋建設株式会社（本社：東京都千代田区、代表取締役社長執行役員：中村龍由、以下「当社」）は、洋上風力発電施設におけるケーブル埋設工事に導入する「高出力ウォータージェット式電力ケーブル埋設システム...",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "8/26(水) 12:40",
+    "id": "auto-1824c5e8b413",
+    "title": "フィルム型ペロブスカイト太陽光をPPAモデルで導入 国内初の事例に",
+    "summary": "西部ガステクノソリューションが北九州市および北九州パワーと共同で、PPAモデルを活用してフィルム型ペロブスカイト太陽電池を中学校に導入する。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "8/26(水) 8:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000102.000127007.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/127007/102/127007-102-da47f348dedf9f10acd59b6808f2db28-3035x2287.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/26/news039.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/26/cover_news039.jpg"
   },
   "headlines": [
     {
-      "id": "auto-63209f3e5763",
-      "rank": 1,
-      "title": "未通行時のトンネル照明制御でLED従来運用比約80％の省エネを実現、「僅少交通量トンネル照明制御システム」が第17回アジアライティングカンファレンス「イノベーションプロダクト賞」を受賞",
-      "category": "国際",
-      "source": "PR TIMES",
-      "time": "8/26(水) 12:15",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000133.000097099.html"
-    },
-    {
-      "id": "auto-660f5ed50f50",
-      "rank": 2,
-      "title": "【災害支援】千葉県豪雨に伴うEV急速充電器「FLASH」の無料開放を8月28日に終了",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "8/26(水) 12:15",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000088.000092280.html"
-    },
-    {
-      "id": "auto-1824c5e8b413",
-      "rank": 3,
-      "title": "フィルム型ペロブスカイト太陽光をPPAモデルで導入 国内初の事例に",
-      "category": "技術",
-      "source": "ITmedia スマートジャパン",
-      "time": "8/26(水) 8:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/26/news039.html"
-    },
-    {
       "id": "auto-36553ea2ad85",
-      "rank": 4,
+      "rank": 1,
       "title": "シャープが住宅用蓄電池の大容量モデルを発表 太陽光パネルの新製品も",
       "category": "暮らし",
       "source": "ITmedia スマートジャパン",
@@ -67,48 +34,81 @@
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/26/news034.html"
     },
     {
-      "id": "auto-f6d07a98e66c",
-      "rank": 5,
-      "title": "【温泉街で初導入】ブレイズの四輪電動ミニカー『EVクラシック』が札幌市「定山渓回遊モビリティ実証事業」に採用",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "8/26(水) 5:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000668.000046750.html"
-    },
-    {
-      "id": "auto-be8b27bc97da",
-      "rank": 6,
-      "title": "政府、代替パイプライン支援 ホルムズ迂回で調達 エネ需給計画 - 日本経済新聞",
-      "category": "国際",
-      "source": "はてなブックマーク",
-      "time": "8/26(水) 4:30",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://www.nikkei.com/article/DGKKZO98384840W6A820C2MM8000/"
-    },
-    {
-      "id": "auto-22e9a86ebcfa",
-      "rank": 7,
-      "title": "青森県も協力 つがる市の脱炭素電源活用型産業団地の整備2029年度までに完成 宮下青森県知事（青森放送）",
-      "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "8/26(水) 3:44",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOFkxVlNfT2xxd2ltOUNURnEwVHAzLWVTQTNkVWlBek43b2dTWFFoT0Z0NnZiOVlaajFyajU2d01QTjRvb0pqQ3RHeVFkQjI3SWlDVV9tQXVCUUFoY0laMmZfbng1YU8xWDRmRWFMelZZOVNRMEFYNlM0b0R6Zmc?oc=5"
-    },
-    {
-      "id": "auto-694e1ea4d93c",
-      "rank": 8,
-      "title": "川重、川崎市の臨海部に水素製造設備 29年春に完成・日量18 トン生産 -",
+      "id": "auto-6129b1d19cd2",
+      "rank": 2,
+      "title": "中国の水素年産能力、5100万トン超に",
       "category": "技術",
-      "source": "神戸経済ニュース",
-      "time": "8/26(水) 3:43",
+      "source": "AFPBB News",
+      "time": "8/26(水) 6:52",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzX0pGWHpjY2hTWFZGWXE1NWhFV2pmR3BlVUo0MWp3MGxiY0trS0JXYnpldVF6b2RJQWp3dTRzRHNaNWZOci1sZ0dldnk2cG5NVzJtazJoN2lOR1Rj?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ydG5HY25NY0JfSnROM0Z2b2FDb1NTYzZaMnM5UFFqNGl2MDZhRk9vYkQ3WmJBaVdTU0JSRTd0QUR2WFFmSXI0Tkp4M2N6UHVUZnfSAVRBVV95cUxONWE3c0FxMS1IN1l0VDUzLV9YYk9kc0wwMlhlb3BMZGNHY1pweVB4aWhRVkhnbkxSVDJJem9fdW1ZNFpaTmxzb1J0R0wydU5uc0lVS24?oc=5"
+    },
+    {
+      "id": "auto-beceeb3a4036",
+      "rank": 3,
+      "title": "小型水素ステーション、安価で移動可能 石川県、富山市の商社と協力し金沢市で実証開始",
+      "category": "技術",
+      "source": "中日新聞Web",
+      "time": "8/26(水) 6:46",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5czlmQmdqaFYtRGtTLVZoZVdkUno4bVJCQ0pPY3VXekZuVFZtazBOWkRVeng2amNqS0hDSGxheTVrZ2c3UHZIVHNoX2pwUkhvclV4VA?oc=5"
+    },
+    {
+      "id": "auto-7962da9059a9",
+      "rank": 4,
+      "title": "フート省は、政府機関の屋上太陽光発電設備の開発に770億ベトナムドン以上を投資する計画だ。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "8/26(水) 6:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZm9CTFhvLTE1VEg4eURjT3FxVDdfUGxuTHh3WDd6dUwxeHpUd2lDdmQwY0NoMlg1dG14ZFJWTjBRWFNMU1BfUjFZTmlmTzhWdkVyZlk3TVVkNjFaTVJfUEgyMDF5aTFjaWZZMU5SeUhtUDE1cEJjQktyNzlDNGRrcENrZ19zQTJsXzZITnktRDNNcDdpbmVvQ0ZEZ1hRUUk3bGZBLVRNWWM1SGFC?oc=5"
+    },
+    {
+      "id": "auto-18c3915ec1c7",
+      "rank": 5,
+      "title": "国内初、洋上風力発電向け基礎「モノパイル」国産初品が完成",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "8/26(水) 6:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGdi0yX19UV0VESURJLUNTaFJwYmt1MVFUdDhaaVJERmRDRlVBbVBmRGtobVd6UTFRcHBKbHVqQ2hZZFNjUVRsR3RNYk52OTdEb3laUnpvQmwzLWRQSTRhWTZVVHEwTWh6UGc?oc=5"
+    },
+    {
+      "id": "auto-36cb143d4501",
+      "rank": 6,
+      "title": "東京都、普及初期の次世代再エネ発電技術を公募 実証後の初期需要創出を支援 - kankyo-business.jp",
+      "category": "その他",
+      "source": "検索: 再生可能エネルギー",
+      "time": "8/26(水) 6:22",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fY3FjYUNVR0JOOEVMSWhqWkZsN1JoVGxUbUVpWnhuZlZMVnAyZDVCcmQxa0VpckdMYkVMZWFKTXRHWF9SNHZHY1hSWE0wcWx3czE4TVFQWUVTZWRoMGhoaExmVnRpNmRpMENrRlZBb1ZwQ2ZvQmxMeUdwYjU?oc=5"
+    },
+    {
+      "id": "auto-3ba1ae69c1d9",
+      "rank": 7,
+      "title": "環境省が従来型太陽光パネル補助廃止へ 今後は次世代「ペロブスカイト太陽電池」導入支援に重点",
+      "category": "その他",
+      "source": "au Webポータル",
+      "time": "8/26(水) 5:21",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NVXNzc2QzNlNDYnZQZm9xWDVFaVJSSkN1RXRkREJfdTFzcHJPeW1MMkxMc2N2cmVZOURwM1VjeU9MbWRPSXpHTTU4Y1dWVVdRb0dSb1lPZmFINGxvc1oyU3RSdno5SnFlYUlWdjRn?oc=5"
+    },
+    {
+      "id": "auto-f294f2d8ec17",
+      "rank": 8,
+      "title": "登別市向け太陽光発電設備導入事業を受注",
+      "category": "その他",
+      "source": "Digital PR Platform",
+      "time": "8/26(水) 5:09",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5WZDcxVmlKUTJMOUZPM2F0enhMbmJ2MjgxRlFwS0otUWRmNkdWbGVUSG5CaW93blBCcW5Bbk9MNWg4Tkk?oc=5"
     }
   ]
 }
