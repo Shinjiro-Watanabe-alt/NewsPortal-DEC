@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-1824c5e8b413",
-    "title": "フィルム型ペロブスカイト太陽光をPPAモデルで導入 国内初の事例に",
-    "summary": "西部ガステクノソリューションが北九州市および北九州パワーと共同で、PPAモデルを活用してフィルム型ペロブスカイト太陽電池を中学校に導入する。",
-    "category": "技術",
-    "source": "ITmedia スマートジャパン",
-    "time": "8/26(水) 8:00",
+    "id": "auto-73911f41e2a5",
+    "title": "当社が導入する海底電力ケーブル埋設システムが国内初のAiPを取得",
+    "summary": "[東洋建設株式会社] 東洋建設株式会社（本社：東京都千代田区、代表取締役社長執行役員：中村龍由、以下「当社」）は、洋上風力発電施設におけるケーブル埋設工事に導入する「高出力ウォータージェット式電力ケーブル埋設システム...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "8/26(水) 12:40",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/26/news039.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/26/cover_news039.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000102.000127007.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/127007/102/127007-102-da47f348dedf9f10acd59b6808f2db28-3035x2287.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-36553ea2ad85",
+      "id": "auto-63209f3e5763",
       "rank": 1,
+      "title": "未通行時のトンネル照明制御でLED従来運用比約80％の省エネを実現、「僅少交通量トンネル照明制御システム」が第17回アジアライティングカンファレンス「イノベーションプロダクト賞」を受賞",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "8/26(水) 12:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000133.000097099.html"
+    },
+    {
+      "id": "auto-660f5ed50f50",
+      "rank": 2,
+      "title": "【災害支援】千葉県豪雨に伴うEV急速充電器「FLASH」の無料開放を8月28日に終了",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/26(水) 12:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000088.000092280.html"
+    },
+    {
+      "id": "auto-1824c5e8b413",
+      "rank": 3,
+      "title": "フィルム型ペロブスカイト太陽光をPPAモデルで導入 国内初の事例に",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "8/26(水) 8:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/26/news039.html"
+    },
+    {
+      "id": "auto-36553ea2ad85",
+      "rank": 4,
       "title": "シャープが住宅用蓄電池の大容量モデルを発表 太陽光パネルの新製品も",
       "category": "暮らし",
       "source": "ITmedia スマートジャパン",
       "time": "8/26(水) 7:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/26/news034.html"
     },
     {
+      "id": "auto-f6d07a98e66c",
+      "rank": 5,
+      "title": "【温泉街で初導入】ブレイズの四輪電動ミニカー『EVクラシック』が札幌市「定山渓回遊モビリティ実証事業」に採用",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "8/26(水) 5:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000668.000046750.html"
+    },
+    {
       "id": "auto-be8b27bc97da",
-      "rank": 2,
+      "rank": 6,
       "title": "政府、代替パイプライン支援 ホルムズ迂回で調達 エネ需給計画 - 日本経済新聞",
       "category": "国際",
       "source": "はてなブックマーク",
       "time": "8/26(水) 4:30",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://www.nikkei.com/article/DGKKZO98384840W6A820C2MM8000/"
     },
     {
-      "id": "auto-71f384d81e3a",
-      "rank": 3,
-      "title": "洋上風力でJFEエンジが部品初製造 三菱商事撤退1年、国産65%へ始動",
-      "category": "その他",
-      "source": "日本経済新聞",
-      "time": "8/26(水) 2:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fOUM5M0xSWTVndlFzWlY5aUhvQ29KckNzclJxOHdIbFA3MDZ4bm52clNqWHN0bXV3cWVBWDU0bWdyU2V0WUh2MUhDZGxaVVdob0hseDg1cGJVcnNMWjhBQUEydFEyZ3g1cEs4Nw?oc=5"
-    },
-    {
-      "id": "auto-dc746a8b3c84",
-      "rank": 4,
-      "title": "営農型太陽光発電の制度改正案へ意見提出",
-      "category": "その他",
-      "source": "WWFジャパン",
-      "time": "8/26(水) 1:19",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tdHNIbmlvMjR0S1BSMGtnVGtGaEhleTJOU0RNbUFiVHVSc2xGZlhqUmtYb1BQVnJEWmUwX29KXzFKa1BKMmliUHdObXM1Njk2NnBjeXo5dWgxTi1rcHZ0TA?oc=5"
-    },
-    {
-      "id": "auto-2818a4d22f5b",
-      "rank": 5,
-      "title": "大型商用車用燃料電池システムの世界市場（2026年～2032年）、市場規模（出力：100 kW～200 kW、出力：201 kW～300 kW、出力：300 kW以上）・分析レポートを発表",
-      "category": "技術",
-      "source": "アットプレス",
-      "time": "8/26(水) 1:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWXRfVl9ieHNTVXNXR1pqYXpuZjM4N2VVYmREXy1lWHFvTEdqTHFoajB4aXJKaHF6TFdHTHAycGJ2b1NmeHgzTGJ4c29VRjg?oc=5"
-    },
-    {
-      "id": "auto-32110dedf325",
-      "rank": 6,
-      "title": "脱炭素先行地域で、国内初となる「民間主導」のマイクログリッドを実装へ",
-      "category": "その他",
-      "source": "Infoseek",
-      "time": "8/26(水) 0:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPVGlJcnI4M3hmRjJsLV85S1RWc3l4Q3EwalFZVjFuUk5kVjBXOEJpdkZQRElIRVhNSEpydEFmSWtZMmtlM2ZIbTJfSW5FclJycGlpWkl5NVBLOGRiSG1od3Z1MUd4VGZKaTJiMVp1Q29xdw?oc=5"
-    },
-    {
-      "id": "auto-e62aa26b72c1",
+      "id": "auto-22e9a86ebcfa",
       "rank": 7,
-      "title": "ホルムズ迂回、代替パイプラインの建設支援へ 政府のエネルギー新需給計画 - 日本経済新聞",
-      "category": "国際",
-      "source": "はてなブックマーク",
-      "time": "8/26(水) 0:28",
+      "title": "青森県も協力 つがる市の脱炭素電源活用型産業団地の整備2029年度までに完成 宮下青森県知事（青森放送）",
+      "category": "その他",
+      "source": "Yahoo!ニュース",
+      "time": "8/26(水) 3:44",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://www.nikkei.com/article/DGXZQOUA252SQ0V20C26A8000000/"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOFkxVlNfT2xxd2ltOUNURnEwVHAzLWVTQTNkVWlBek43b2dTWFFoT0Z0NnZiOVlaajFyajU2d01QTjRvb0pqQ3RHeVFkQjI3SWlDVV9tQXVCUUFoY0laMmZfbng1YU8xWDRmRWFMelZZOVNRMEFYNlM0b0R6Zmc?oc=5"
     },
     {
-      "id": "auto-3d117a18911b",
+      "id": "auto-694e1ea4d93c",
       "rank": 8,
-      "title": "放射冷却塗料「Radi-Cool」×太陽光発電×スポットクーラーの三位一体戦略",
-      "category": "その他",
-      "source": "PR TIMES",
-      "time": "8/26(水) 0:13",
+      "title": "川重、川崎市の臨海部に水素製造設備 29年春に完成・日量18 トン生産 -",
+      "category": "技術",
+      "source": "神戸経済ニュース",
+      "time": "8/26(水) 3:43",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZXBPeS1uSjZVZjBoc19oZExWVFlnNXpCR0ZmZWJsRWdZSnlkVk94M0czeWozZXI0SFZ2S1IzbUx3ZE5ZdVdfYXVZN3VGTnFOT2hrSmJUMGlPWUtNN0tIYW53UGdtMUU2N2c?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzX0pGWHpjY2hTWFZGWXE1NWhFV2pmR3BlVUo0MWp3MGxiY0trS0JXYnpldVF6b2RJQWp3dTRzRHNaNWZOci1sZ0dldnk2cG5NVzJtazJoN2lOR1Rj?oc=5"
     }
   ]
 }
