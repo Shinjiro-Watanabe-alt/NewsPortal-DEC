@@ -1,43 +1,13 @@
 [
   {
-    "id": "auto-9eb95d79c9e0",
-    "title": "株式会社多摩川エナジーが取得する系統用蓄電所の引渡し完了・運転開始に関するお知らせ",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000009336.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/9336/18/9336-18-31dfa3138c4e9e565f87a05358f7cab4-2152x705.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-0fd3ea7bf947",
-    "title": "有報のサステナビリティ開示、初稿ドラフトを2営業日で。SSBJ基準対応の「OFFSEL Compass」提供開始",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "4:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000079.000057960.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/57960/79/57960-79-3c4a3e8e593d2a7e56c33d5da679b62b-2400x1320.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-60d570397439",
     "title": "C-Turtle(R)、東証プライム市場上場企業150社超・金融機関50行超へ導入・活用が拡大",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "3:10",
+    "time": "9:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000219.000016308.html",
     "image": "https://prtimes.jp/common/pc_v4/og.png"
-  },
-  {
-    "id": "auto-380cdba1b35b",
-    "title": "GBP、蓄電池用PCS・EMSで「JC-STAR★1」適合ラベルを取得",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "3:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000177.000110590.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/110590/177/110590-177-c3c718d239262c78e8fed4e51b986199-2000x900.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-0f83e8400b1a",
@@ -45,7 +15,7 @@
     "category": "企業",
     "accent": true,
     "source": "PR TIMES",
-    "time": "3:10",
+    "time": "9:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000044.000081547.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/81547/44/81547-44-e794f9120dc08121c04cf083f0884317-227x170.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -55,8 +25,98 @@
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "3:10",
+    "time": "9:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000028.000071131.html",
+    "image": null
+  },
+  {
+    "id": "auto-e004ba87e35e",
+    "title": "リアルテックグローバルファンド2号、次世代固体酸化物形燃料電池技術で データセンター・産業向け電源を革新するTeragen Energyに出資",
+    "category": "技術",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "7:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000036405.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/36405/183/36405-183-213a30c760b5a4bf77c7cf5ba905e25f-2000x1050.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-d183466f1067",
+    "title": "経済効果は約7000億円と試算！洋上風力発電稼働に向け津軽港で拠点整備工事着工 つがる市・鯵ヶ沢町沖",
+    "category": "その他",
+    "accent": true,
+    "source": "TVer",
+    "time": "23:53",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14VWUwRzlGWGFyLUFLOUpGQnU1ZXp4MG1BNFcydHJXZW9DZ1pFVDduT3BvY2FtMm5TOGY0RjgtbklwemdlbTV6TnpoYw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6625af446b8a",
+    "title": "津軽港 洋上風力の拠点に／鯵ケ沢で着工式典｜青森県,行政・政治｜青森ニュース｜Web東奥",
+    "category": "その他",
+    "accent": false,
+    "source": "東奥日報社",
+    "time": "23:44",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41UUpuMkdxOGdqRDZ0TjZQa2RobGVCT2Jibk1OTzctWEJVY1JCZTd5UDgyTHV3djNZQWtaamRDbDdKTXFtbC02aDh2TlJ4cGRWcW5HYm9rajU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e9e96d6a9b81",
+    "title": "【脱炭素・SDGs・ESG】石坂産業・入間市：循環経済で包括連携、使用済み太陽光パネルの再資源化など推進",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "23:01",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01d1VmWHNpbTF6SDFzQTJlczZQazRxM0J1WE5SWTBjRFM5N2JITDh6alZPbWNZQmQtbDFYaVAxSjdCYmEwdlViX192YTdxUW56TndZTW8zUnZjTk5mWkRqU1QzOE92S25hdUhyTXpwVjJEQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b5f8c17b4096",
+    "title": "【脱炭素・SDGs・ESG】東洋大学・LIXIL：新校舎に100％再生アルミ採用、教育施設で「PremiAL R100」初導入",
+    "category": "その他",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:06",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Gcm9mUzFDWFNDQl9QUHg0RlZjV3FlQ2JRRnYtSTlyWWFvd25Jck9LZFpVMG1PVGFLRmJVZ0NWYWZ2SUFib2puVEo2WTltUjlrcklYaWZJMjdpNkdKbTVWR3J6ZGZWWi11cW5yc1d2VGVJQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e19b50e10838",
+    "title": "【蓄電関連】リミックスポイント：低圧太陽光で初のFIP転換、約2.1MWhの蓄電設備設置を完了",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:06",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FR0pPQ0NCbG95UXNQbHFIVGVyUzJBN3NvekdFQ3NsckIyLVZWQWx3aFZGU2RVTmNaTklkWmx2MVVrTG5XMEhRT2FZcjBzZHZBVTRWajVYZG9VY2U3a1BXMVZMUWRNS28wZlRnaXZwMlEtZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9af2fccaeb09",
+    "title": "【近畿地区協議会】日本青年会議所「全国一斉カーボンニュートラルアクション」 9月3日、兵庫・大阪・京都・奈良で記念植樹、和歌山では県木を寄贈",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "22:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vd1g2U3RWYXB1RWZkcWRMM1VUbHQ2TXlka1BUeXhGazRvXzhMZ3JheGlVYUxYV2JwQTRyc2lQLTJTcEdvZjJ2TU1IZURMbHRBXzJXejBHUHJNSXBvc2pYNXZzb2plcW1rc3c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-861deedd2e77",
+    "title": "｢脱炭素社会｣実現の切り札？九十九里沖のCO2回収貯留めぐり賛否両論…環境への影響､莫大なコストの実態とは",
+    "category": "企業",
+    "accent": true,
+    "source": "東洋経済オンライン",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSk44Sng3aEQ1Tlk1QWU4bF9IcDRFQ2VGRnNOR3J3MkVaSnIxZWxxZ3JJUHY5ZGVyTkxoMmZEVVhIMVdjTHJQVEktWXdIUG1lTVgwQVlaU0tCSms?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cbce1c9bc8c5",
+    "title": "国交省、脱炭素化ＣＴに 名古屋港など認定",
+    "category": "その他",
+    "accent": false,
+    "source": "カーゴニュースオンライン",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzUExjczhBOW1Sb1ljams5b0JmY0cyZll4NzI5c3Y2UmNjLV9pdUhVV21RTFc4VGJPWHhNNHdyX0FWWm5mYWFxMHRYNjVXWkoyb2JNUFhJV2Vya2FvcnhR?oc=5",
     "image": null
   },
   {
@@ -86,7 +146,7 @@
     "accent": false,
     "source": "日本経済新聞",
     "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUFqV3dUamhiS09DUG1lWTJFQXU2NkpQUkJFdWxzMnVJUTBhc0NHLUFOZDhhckFFX2UwTFpodWZsV2gxd1RNdWVLTmxXOHdOVXI0S1BKZDA4a0xXSXJCdjVLOV9hR0FCNHRwNlZSbTFPcEMxanFRSG9FZUlmRUU0aF85Zm9aNFU?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTlhT1hTYldLNXc4czlJTUNaS2FHMW8zbk5Wemdua19lNFdXTlNZQUozelRXSDJrQlZLWFVVeEhhVnBRaVI3SDFZdG5rZU9VX0phYW5MYnBaZkZsbGJRR2tMRmkySjVBMVJKN1lpM1ZLdHFMOFB1R2FWOUQ4ZUI2MENKQ0VHeTNISnpTSXNKa0tpdUZnY2dQZUZRQW5CR2xITUZhcW43SVFQMXNB?oc=5",
     "image": null
   },
   {
@@ -96,7 +156,7 @@
     "accent": false,
     "source": "日本経済新聞",
     "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGM3c3l2NElLZl83bU5KS3hqVTNieDkwd1lOV3UxemVIejNLN2V1NnF1d19lVVpraEtadW0wMXJ1WU1rUU9URWpsb2hJQmJjVHZxOVhqSEthbW54RUtFOTdXS0E5Mjg5YndMS3JUa1JQa2dBUXJ1RmNfQ0RWejBUUTFxTFFvVm5GQjZwT3kxOE1USGZCZG5NX1VtVEs?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tM0VSb2tOeDVUaXJySGF3MlRlM1MxRHRfMm5Ka0h4WlRtc3hRWF9nT2hSMFNQV21YSW9QNVlLY0JWUE1QMmpjaDQxenRJUzRYdG5aeTUwR2lxdEcxZnpJZnJjWm5FVjBOQ3FlTmdCOEZCTWZKd2I4?oc=5",
     "image": null
   },
   {
@@ -110,33 +170,33 @@
     "image": null
   },
   {
+    "id": "auto-7c2c36518f8a",
+    "title": "【脱炭素経営を応援】「ちゅうぎんＧＸボード預金」の再度取扱い開始",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "19:58",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tMmZiZl8xdnMwREtMTUQ4SVRnU0tfTmFwQ3FGZ2s0Qjl4a2ZoTm9jV3ktbm5FYUd6Q1I5MTd0YWMxZ3gxM2MxLS1pZzBsbmU0THc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-647651d11aa1",
+    "title": "国交省・27年度予算概算要求 総額は44％増の8.77兆円 脱炭素や不動産IDで新規事業",
+    "category": "暮らし",
+    "accent": false,
+    "source": "住宅新報",
+    "time": "17:46",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNHBVSGpvTk5Fc3lNX3VOMkRQZzZWMkRLRk5tYUVlMVZKZVVnTkdJOEQ3R0pmMlJseTNQTzZxTk9YUGJCeEV6NnRzZXMtSkxGYmc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-b4695a8f3075",
     "title": "ミン・スアン電力会社（トゥエンクアン電力会社）は、持続可能な未来のためのグリーンエネルギーソリューションである屋上太陽光発電の開発において、お客様をサポ​​ートします。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "15:04",
     "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ2hla2pBVi1wYnJESWQ5TFBNTXdaS0JlbEZIRzJ5djJ5cTFKRGJLcVQzbTItYVZ1NVA3T1hxeUR3N01sZVoyQmszWlQ1S1NkcjJuV1U3a21kRkJ4dVE1bFk5MzE4X21pZkppMk4wQzc0Z1hLTjc5ekVaZVpPVUtIaHhON0lCeS1QRHdoaUtPUGQ1LWxWUnFQUFVwS1llYm5lNWlNUzFsUUFia0VZQ3U3Y0lqWllHRDJpN200NTZrU0tNY25qZW51WnB3eEtKdXZVdXpuYjJ6V25YVk0tZzVxSV9ZaGtoeG41T0QzRjZzR0djeHZwWmc2S1loVnpQdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-078299f16dc2",
-    "title": "海運分野で脱炭素を推進、ブラジルと覚書",
-    "category": "その他",
-    "accent": false,
-    "source": "nna.jp",
-    "time": "15:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oMVhFekJpaUp6RHNkeTJxREtkU3NsY2RiRzlFb0REY1BQZWVPeFRjZU1YMzlQWElMYkR6V21NVGt2a2Q5UWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6625af446b8a",
-    "title": "津軽港 洋上風力の拠点に／鯵ケ沢で着工式典｜青森県,行政・政治｜青森ニュース｜Web東奥",
-    "category": "その他",
-    "accent": true,
-    "source": "東奥日報社",
-    "time": "14:12",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41UUpuMkdxOGdqRDZ0TjZQa2RobGVCT2Jibk1OTzctWEJVY1JCZTd5UDgyTHV3djNZQWtaamRDbDdKTXFtbC02aDh2TlJ4cGRWcW5HYm9rajU?oc=5",
     "image": null
   },
   {
@@ -230,73 +290,13 @@
     "image": null
   },
   {
-    "id": "auto-0428a19ecc22",
-    "title": "洋上風力発電の運用拠点 津軽港の着工式典",
-    "category": "その他",
+    "id": "auto-017f8f707097",
+    "title": "セミナー・イベント：「令和8年度 中国地域再エネ連絡協議会 開催」 - J-Net21[中小企業ビジネス支援サイト]",
+    "category": "自治体",
     "accent": false,
-    "source": "Excite エキサイト",
-    "time": "11:24",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNXJNVHdGTmh1cmlrQXRVbkJWeDdKVU5YV1FrTm5jSGdvdWxQMHpoWWxRSjM5VFlkWFhHeDQ5dkNKTWFIeXdhU1h1SWJKendVNUNjOHR5RzR2NWM2SUM0MVpaSDVrdlpFcXdwWEFn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4fd71c45d88b",
-    "title": "「脱炭素経営パワーアップ実践ワークショップ」を開催します",
-    "category": "その他",
-    "accent": false,
-    "source": "city.akashi.lg.jp",
-    "time": "11:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NU2FBUUZPV2FMb2FROHRLVHQ3OGhUQUhQMTZVMzRWblF3dzBKZjEtdXZ3dGdSTVpNMm1uWlZPRWx4NUk0YW12NGxhNjdKOTFoSFROR3g1WHlaZ0FQcnBLeW1YWWR6NXFfWlE5NGJ6RHNac1hwT1pjMVRB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1ce1b25d64a6",
-    "title": "北酸、移動式の水素充塡機を開発 金沢市内に導入",
-    "category": "技術",
-    "accent": true,
-    "source": "日本経済新聞",
-    "time": "10:49",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PVk9zdkQ3emNJRnNOY2ROYi1ZbmFYVEFtcHF5RUM0RXgzWThXLURjMXUtMGdiNHVZWUt0Z2FXa3NsbUhqQW5BeG5EeGI1VjRRekNHSXN0Vk9UOFJBdWZSSzRWcktMd1BrV2M4Tg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d183466f1067",
-    "title": "経済効果は約7000億円と試算！洋上風力発電稼働に向け津軽港で拠点整備工事着工 つがる市・鯵ヶ沢町沖（青森放送）",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "10:34",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42YjhzMU9YRWtnZ2JEYXV4YVR4NGFod2hNRnNybzU3dUE5OHFQaW1GZjhkcHNuM1RxeElFdWU3RnhvUloxREUwMVk5MXE0am1qZnhZSDlPSUVxQ2JyZTJaTlFpdXFjNEttYTZtdEo3OF9na2NmaVNYR3NBcjBFelU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a890b944bd82",
-    "title": "【インタビュー】AI、脱炭素、防衛で争奪戦の重要鉱物～世界シェア3割の中南米を取り込むには…",
-    "category": "国際",
-    "accent": false,
-    "source": "au Webポータル",
-    "time": "10:32",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WbE9vU0xuMl83UjFtQVFJRXA3X2xvSHVIc3hSUWc4emxBbDhIbVd3X1hqMUVmUGZlZ1lBQlk4WGxGc3E2aF9pZG1tb3BuSDdLYkNHMjIxRjdQT19HMmEyWXozOHZEZ1ZxcU1hbFpDNmtIU3lIWk9HQw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-97ccc0f262f4",
-    "title": "商工省は、屋根に太陽光発電を設置する際に10日前に通知する必要がある理由を述べました。",
-    "category": "その他",
-    "accent": true,
-    "source": "ja.laodong.vn",
-    "time": "9:33",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDFFc0NGRWRzVE5kSjVGWTc3Y1hjdjNrQjNVamJobldnRnRXOFd1bnNQazhmRlNLa3RuX0pVdTQ1RElXeEUxZUVVVlh1dEJPd1dQTFlDNjdTcEJobHpqa19IazlSM2xyZ1dtc0dyUGk3MUFkTi0zNmpieTRYeUYwb0ZkQTZJZlZWLXJZaGx5bFl4VG0tTVZGZzhlbzFKdExadU92cEpESVZWdHp2R3RqamNKUDRpbHg2dlZwRHhkaUdzZzktZW44?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fa835def0000",
-    "title": "「太陽光発電マーケット2026 ～市場レビュー・ビジネスモデル・将来見通し～」発行のお知らせ",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BdzhUcUh6dHlqTDdUWldyWUx0N2lXdnp4OHJZdDRTU05uWW9nRDdSSXhSdWQ4LXdhcFVESm5kYnphSE53UXN4aGp4dGhYcUhVRWZkSVhTY1hEUG5pc2JQR01QVkhmeHIw?oc=5",
+    "source": "検索: 再生可能エネルギー",
+    "time": "11:26",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSQ2habGVtLTl1c3BjS1c1UzNuU0xEU0VFMnIwa1ZOM3h0TXB1MXBTSHpLT2RKSjAyQi03TTZ3UC1mZTJfZTJDMlZ5Vm81SGdvVDFuMHdjRHJFNHk2?oc=5",
     "image": null
   }
 ]
