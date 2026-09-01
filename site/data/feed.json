@@ -1,25 +1,5 @@
 [
   {
-    "id": "auto-6f14a0521708",
-    "title": "驚きのコーヒー体験を！コク・苦味・酸味だけでは語れない、特別な味わいが楽しめる『UCC GOLD SPECIAL PREMIUM』ブランドに、“水素焙煎コーヒー”が登場",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "22:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000298.000074056.html",
-    "image": null
-  },
-  {
-    "id": "auto-9caeebd7bd74",
-    "title": "免許を持たない若年層や女性にも人気の配達アルバイトに！次世代モビリティの本格導入で脱炭素と採用難解決を両立する「銀のさら」のSDGs",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "22:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000256.000020379.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/20379/256/20379-256-eff1f5dacfc75d4e62a7ebc3d34099da-640x497.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-836f9ed01310",
     "title": "猪瀬直樹のEV推しとデマについて｜山本一郎（やまもといちろう）",
     "category": "自治体",
@@ -28,6 +8,26 @@
     "time": "21:08",
     "source_url": "https://note.com/kirik/n/n410f75fa8ca9",
     "image": "https://assets.st-note.com/production/uploads/images/309223436/rectangle_large_type_2_855b05dd3351b854c1595db612c5e935.png?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "auto-7a616cc53fbb",
+    "title": "大阪メトロ、路線バスEV化見直しへ 万博期間中にトラブル続出 | 毎日新聞",
+    "category": "その他",
+    "accent": true,
+    "source": "はてなブックマーク",
+    "time": "18:47",
+    "source_url": "https://mainichi.jp/articles/20260901/k00/00m/040/218000c",
+    "image": "https://cdn.mainichi.jp/vol1/2026/09/01/20260901k0000m040221000p/0c10.jpg?1"
+  },
+  {
+    "id": "auto-3e17fa3603f8",
+    "title": "グリーンアライアンス、大阪府内施設へ太陽光発電設備を提供する「グリーンギフト」の令和8年度公募を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "rbbtoday.com",
+    "time": "17:40",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YRWh5VE1vbVAzYTAwMnhzaVdBU2pSTFBwMTlOaEM1ODhIY0RGV2hFb3U3ZUhOeFFVVG5YOHdaRnF1QUFMUHRfOExZT2FVME9aUzZWUm00bFFuRHpYUHlLeWdfVUlWdm9tazlRZXJ3NGxjTmN5T3cxcg?oc=5",
+    "image": null
   },
   {
     "id": "auto-e40c2f2e7104",
@@ -40,43 +40,43 @@
     "image": "https://cdn.mainichi.jp/vol1/2026/09/01/20260901k0000m310183000p/0c10.jpg?1"
   },
   {
+    "id": "auto-2d1b24b2f518",
+    "title": "【防災の日】停電時、太陽光発電はなぜ止まる？復旧作業の安全を守り、暮らしを支える「自立運転」をアメコミ風デザインで啓発",
+    "category": "その他",
+    "accent": true,
+    "source": "rbbtoday.com",
+    "time": "16:40",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00NE1uZWdqYU5va2pfalNJWWhQc2FsR05KbW9tbHVmQU1sRlZNd2YyR2preXNWUXFWX3QxOVlFNE9yQ1AxR1BDREowaTZvT0ZrTl9rVGF4d1RqTzJ6Z2J2cFhzSnNIUklqS242dXNTYjhUTzk1d1BfQw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-58a606835fe3",
+    "title": "画像4 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
+    "category": "その他",
+    "accent": false,
+    "source": "walkerplus.com",
+    "time": "15:30",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-062cfa46a56c",
     "title": "2027年新基準「GX ZEH-M」を見据えた低層集合住宅向けにNTTスマイルエナジーが「低圧一括受電オプション」を提供開始",
     "category": "暮らし",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "13:48",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91LXFpNWdSNk82SGlpTVQ2Vm5ibEs2WjQ3d1Q2TVRtOEg4NzMzNEVaZHcyTTZEOG1xa3RFVmFGd3p6N0lDeTBQOFF2cE8wdkg0TnRjaUg2LVFKZWdLUzgtdXFHU09Ka1JNMVVFdVd1dElIY3VSZUR6cnJkbw?oc=5",
     "image": null
   },
   {
-    "id": "auto-0e0f7d4b6889",
-    "title": "ハンファジャパン、既築住宅向け太陽光発電配置シミュレーションツール「PVMap」の提供を開始",
-    "category": "暮らし",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "13:45",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91Ymo2UnctbXU3b2NCSUhjc0hDTl9MQlk1cDNfMVRkWE04WTVoOXEzRDV6TDQzVTRJaFV3b1l6c2pZemlkSjVmeXFxUHQ0NjU1Y2ZrOTRadTgzWG84cV9yQlJzOXNtR19Fa3Fz?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-dfc5a3c582f6",
-    "title": "太陽光発電の設備容量が石炭火力を超え中国最大の「電源」に (2026年9月1日掲載)",
+    "title": "太陽光発電の設備容量が石炭火力を超え中国最大の「電源」に",
     "category": "国際",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "12:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwanlrbGJDUzdaX0hUZWQtWHhWNjlMWVNHcGxWNDNGc3psNGVORDBPS09DZ2YtaHFsdm1yVmNORFdTVXFMZTI1RVVpU24wQWZKWFVnQTVXcG5fWWZqdVE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-310c13b601ab",
-    "title": "「ちゅうぎんカーボンクレジットクラブ」で太陽光発電由来Ｊ-クレジット９１３ｔ-ＣＯ２を初認証 ～お客さまのＣＯ２削減を",
-    "category": "その他",
     "accent": true,
-    "source": "ニコニコニュース",
-    "time": "12:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QWdqSVphNDdiWmtENmJwYUxGX1ZRWm1NV29VYmV2QlowbXV5S0tWZHNSeUtvTlFGU2h0a3ZEb3ZlMGVrNkE2NnBoQnpkbDNwT21vbVJQWDdvemlxbm84eF83aGdVWFNi?oc=5",
+    "source": "Excite エキサイト",
+    "time": "12:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IeHBCUWlnOHVKOXdNdV9ZQWNxa0xBWGVOS25IQ3dwZ1V4RS0zSUxCNHJ0V3BBOVRhb09vcHRZLVJtdUh5UmVsUzlIZE9tNDAwM1pKcWR0X0MzRE9zT0RpeTFfbTdDbkU?oc=5",
     "image": null
   },
   {
@@ -100,11 +100,11 @@
     "image": null
   },
   {
-    "id": "auto-d78be84b4626",
-    "title": "「地域防災への協力」が条件、省エネ設備導入補助金 磐田市が新制度創設へ 物価高騰対策予算に防災の視点「全国でも珍しい」 - news.at-s.com",
+    "id": "auto-83247e1143f6",
+    "title": "「地域防災への協力」が条件、省エネ設備導入補助金 磐田市が新制度創設へ 物価高騰対策予算に防災の視点「全国でも珍しい」",
     "category": "自治体",
     "accent": true,
-    "source": "検索: 再生可能エネルギー",
+    "source": "静岡新聞DIGITAL",
     "time": "10:59",
     "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSTmlxbFJ6V3ZmWEtNbXRaY19QU05iMDU0LWNJbjViTk5sQXFWNWdQSDZXS3VkN0JpMElUb2NJYzZEWWVYUG1IQ2lJb2JZZw?oc=5",
     "image": null
@@ -120,10 +120,20 @@
     "image": null
   },
   {
+    "id": "auto-0e0f7d4b6889",
+    "title": "ハンファジャパン、既築住宅向け太陽光発電配置シミュレーションツール「PVMap」の提供を開始",
+    "category": "暮らし",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "10:30",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qVXh6OE16U1BPSk1CaWV3M1VEVlpIRnh0Vk5MWEQ3eUJYb09PejRPQmhSS2h3d3VmTTUyb2tvbXNRYTdDblBQa2hxamkyeG9mTjBuSnJHTE9kaGRCRkc5VUlkVFlUSHZiWU1RM0UxOGhVcWY0VkE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-abc5ae62a515",
     "title": "【PRAGMATA】プラグマタ(PS5版) 難易度Lunatic 太陽光発電所攻略！ ネタバレ注意 Tennis Rome 2026 (6KYfIO6srY)",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Mshale",
     "time": "10:22",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sX1pqbXJOY2ZlenAxT0hsXzdKR0ctVVhWV0k5bzJxZTlZVi0xTmxBa0h3YjBUOHBQRDU5bW10cmlmNTFldFR3RU9RZ2g0bjNRaXFjTmcxOV9fd0U?oc=5",
@@ -133,7 +143,7 @@
     "id": "auto-96b3f0e713e8",
     "title": "イーレックス、系統用蓄電池のアグリゲーションサービス開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "9:21",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oNnBKR2YwMVFmWUFIMUIxV1J6cGNETXlCbDVBdHZ5Zjk3aTRobVFPVnJ0WHFrWUtZTGh1SWh1eGJVN2RKRDRGenhObDNnZkJhTlc1c1BiOFZ2ZlJRZl8xaGZsbmw3dUx2Y3haUEVTLUdnVzlWZnRWV0RkSQ?oc=5",
@@ -153,8 +163,8 @@
     "id": "auto-c2b27de3d76d",
     "title": "日本の水素サプライチェーン市場調査レポート – 世界市場規模、シェア、傾向の見通し、2026-2035年",
     "category": "技術",
-    "accent": false,
-    "source": "ドリームニュース",
+    "accent": true,
+    "source": "dreamnews.jp",
     "time": "8:30",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxU3I1RG1McC1qTG1FU2NRcy1NQU9qVWlOY2VRVnJhVmZyT1ZRNjI1c3c5MFVjSTEwX0JnM2hXWWxTZVJGTV9UZHRDZGhBbXdzR1hN?oc=5",
     "image": null
@@ -163,7 +173,7 @@
     "id": "auto-d27d97f3ba6b",
     "title": "中国：太陽光発電容量が初めて石炭火力発電容量を上回った。",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "8:28",
     "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPelZFRHBfQlNLVG1vT1FRX2xDTlVPRFE5d1Bza2pKMVE0M1ZfR1lManl5VEtvNXZuYWFCOXFJWV9SSEtLN3NpYmtJcGljVGZOTDQ3Nk94Y3ZmN1RlS0RKZ2RZdWZWdXFvTi1EY3pXcGVmdjB6X1FacFpGbzZQU0F2bEV3LWlVam8zRHdn?oc=5",
@@ -183,7 +193,7 @@
     "id": "auto-9f589d897a02",
     "title": "「国家の生命線」エネルギー需給を強靱化「パワーGX」が描く新たなエネルギー政策 | お知らせ | ニュース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "jimin.jp",
     "time": "7:15",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDaGJkX3dsUlFtVFVuNW9vNXl4YWhPS05CcjRORThKSzNEV3A2bEN0RmhESmNsRW9SUk43Zy1oUE55MTJDY1l3cUR4X1JBWS1fa3Q0YmJmekM1NWd6emc?oc=5",
@@ -193,8 +203,8 @@
     "id": "auto-627016e9feae",
     "title": "中国の太陽光発電、144年ぶりに石炭火力を抜き最大電源に",
     "category": "国際",
-    "accent": true,
-    "source": "BigGo ファイナンス",
+    "accent": false,
+    "source": "finance.biggo.jp",
     "time": "7:06",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyMm1fQ1REVHpoRTV4VXE4YVg0Zkxqc0lWZGdzcHRmT2Q2TFhqaHU1d245aU9zYmViaG51ejlQYTNRYlJIdE55NkROakdVbXB5S2pvS0dXaFBMdV9oUzVFb0paSFN4Q0F6c0FXU3dmV05aUGpo?oc=5",
     "image": null
@@ -213,7 +223,7 @@
     "id": "auto-5463de802aac",
     "title": "中国銀行が太陽光発電由来の913t-CO₂を初認証し地域の脱炭素化に貢献する取り組み",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "ニュースメディアVOIX",
     "time": "6:58",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xOXJqNENxWDJqTTR2Um5jOUdNdVdIVTdMVXl5N3J3S1hGZmhjRFVnMDVONG16SU54Rk0tSmp6ZGRncldpd25oYUN4emJ3Nm00eE9INUN6alhTOTdZQ2dabjRlbVI1YVVyMDRNZ1pEekQ1bkk3d0ZlMV8tcw?oc=5",
@@ -223,20 +233,10 @@
     "id": "auto-a1c63f82a329",
     "title": "（3）NGK 変えられるか「保守的な社風」 脱炭素「DAC」次の事業に【中部企業研究・森村グループ編】：ニュース",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "中日BIZナビ",
     "time": "6:50",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xU3VGeWplbDJFd1hDcjcxVW55VFJsc25XZ3JYSzYwN0RsUlNidVJ3NllZVnBJYldHQW5NT3dCV1djeDlYdTZwMlhxZHVud01FSl85RDcwUUhvcUprV29EZFU0UjQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a5b13fac3fa0",
-    "title": "「望ましい営農型太陽光発電」とは 制度見直し控え、シンポジウム開催 - kankyo-business.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "6:33",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uS0wxVVBxUUpLeEdWNFNxU2wwS3pqNFhvczFOWVFqRHFLMllEN3JDWlRUd185RnI3U09rZTZ6LVJCdXp5SGpfZU1TLVBMQWpVbzJzX2NnZ1QzaGdXTUEzN2d6RkFBTEF2NE1tT3BqWEtvMG8tZXhVZzNaSDg?oc=5",
     "image": null
   },
   {
@@ -256,7 +256,17 @@
     "accent": true,
     "source": "ニコニコニュース",
     "time": "6:15",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTWlNfdkxrZmNvaml6RnlIdDFzd2VydVgyM3NvQWZzTGtyY3pNYmpyRmtEUFVhR0VUZ0hyVlhHV1JoQ0FTb0JGUVpscWswZ2ZWU3NNZlQxS0NyVjVoQW1WM0tTMThDdXd3ZUFKRGFhbkZvX2R5MVFMZ2Zydw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SjNuUmVkUUY4RjhWX1RmRUpGRXpiUkUzSEdzblVhazZseFJ2RkpKMnEtTi1VOGlBRWxZRzhCa0pVajdlOWwtbmM0clJmai1ja2wtaFRuNnZ1cVJoenZPeDRrRXI1VEE3ZVQzUHVIMHowLUgtc1E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2f7af90ad3aa",
+    "title": "ニューライト、水素噴射で貨物船の燃料消費を24％削減",
+    "category": "技術",
+    "accent": false,
+    "source": "Межа. Новини України.",
+    "time": "6:14",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xblJkZGE1VXVMMGM4VmsteWZYVjBuQlRtYTRid3BOLUxzNy16Vnc4U2tqcUlWT3R1cTZnUWlKTS05SFRtQmV1VHJxT1NEYzNjTFdTRDE0SnJMckllX1pGcG9hU3djVDhvUjhRa1Z3?oc=5",
     "image": null
   },
   {
@@ -264,7 +274,7 @@
     "title": "炭化水素市場：種類別、供給源別、資源種別、バリューチェーン段階別、最終用途産業別―2026年～2032年の世界市場予測",
     "category": "技術",
     "accent": false,
-    "source": "newscast.jp",
+    "source": "Newscast.jp",
     "time": "6:07",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UHlQT3RWdk5XamY5dGZWYXExVVdBTWNWc3V3YVBDWGFaMkNxQzJLUFVmRFE1UENhc0wwbzg4Y0NpQjJONXVBY29rRmlZNms?oc=5",
     "image": null
@@ -273,30 +283,20 @@
     "id": "auto-11a223365047",
     "title": "世界のメタノール水素製造装置市場動向、年平均成長率6.1%で拡大継続2026-2032",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrWTJSLVVBNEJjTjRfOVF6dEp2bFltcmRwdENjUDBXYWxVM19VQTYyT21kRmQ4RDFQckQzMnpibkFRZlluUWpRckZZZ21sei1vOUhKQkJXdnNWVTBnWm9ZRVF0UV9UbVNXWXc?oc=5",
     "image": null
   },
   {
-    "id": "auto-3e17fa3603f8",
-    "title": "グリーンアライアンス、大阪府内施設へ太陽光発電設備を提供する「グリーンギフト」の令和8年度公募を開始",
+    "id": "auto-1fa609cec30d",
+    "title": "自給自足の一歩先へ。消費電力より多く発電できる太陽光発電カーをBMWと学生たちが共同開発",
     "category": "その他",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "5:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxckZ3YnZVOE5ZUWpfdmtFVWJOUU1ReFRsZG9QdE1oRXlra1puSGNyZDFHUkc0b2l5b1lSMkdDRm9hdi1KQlBlT1JsZmtjSGhSNm1pYm9adUx4T0J6dVZJdkg0dEVvOGVuRHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-47e88e93822d",
-    "title": "高松市、パナ包括協定 地域活性化・脱炭素を推進",
-    "category": "自治体",
     "accent": false,
-    "source": "日刊工業新聞",
-    "time": "5:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mS052SVloZUxJOXhKMzg4bGVkdGctYVl6Z0swSUpuV196SUxYR2JxOU4ybm9JZWRRTGZlWjBUMFZFb0pycGdJMS0xR3ZYeHVyNWg2M3J1MjI?oc=5",
+    "source": "Gizmodo",
+    "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81SjJrRWlJU1B1bGVhMGZ1Z2ZaR0g4ZTcyRHJIVWlyd3FydHZJVVlSSzJncGx1bGczM3VIbi02aFlaeXhZX3ExRXY1ZjVGVU04anFFQU8zOGk2Zw?oc=5",
     "image": null
   }
 ]
