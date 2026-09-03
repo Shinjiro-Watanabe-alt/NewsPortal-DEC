@@ -12,15 +12,11 @@
     "trend": ""
   },
   {
-    "keyword": "GX-ETS",
-    "trend": ""
-  },
-  {
     "keyword": "SAF",
     "trend": ""
   },
   {
-    "keyword": "CCUS",
+    "keyword": "GX-ETS",
     "trend": ""
   },
   {
@@ -29,6 +25,10 @@
   },
   {
     "keyword": "ペロブスカイト太陽電池",
-    "trend": "NEW"
+    "trend": ""
+  },
+  {
+    "keyword": "CCUS",
+    "trend": ""
   }
 ]
