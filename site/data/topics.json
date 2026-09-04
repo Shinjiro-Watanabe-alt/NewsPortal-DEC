@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-c4972fe82655",
-    "title": "アスエネ、経済産業省 中部経済産業局の「令和8年度省エネルギー促進広報事業」を受託",
-    "summary": "[アスエネ株式会社] アスエネ株式会社（本社：東京都港区、Founder 代表取締役CEO：西和田浩平、以下「当社」）は、経済産業省 中部経済産業局が実施する「令和8年度省エネルギー促進広報事業（中小企業の強みに繋がる省エネ連携支援...",
-    "category": "企業",
+    "id": "auto-ccb661472254",
+    "title": "酸素吸入火災事故が示唆する高濃度水素吸入器の人体内爆発リスク｜予防原則に基づく低濃度化への転換を提言",
+    "summary": "[MiZ株式会社] MiZ株式会社（神奈川県鎌倉市）は、「可燃物・酸素・着火源」という燃焼の三要件に基づき、在宅酸素吸入機と高濃度水素吸入器の火災・爆発リスクを比較しました。 在宅酸素吸入機では、酸素自体は燃えるガスでは...",
+    "category": "技術",
     "source": "PR TIMES",
-    "time": "9/4(金) 14:40",
+    "time": "9/5(土) 0:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000748.000058538.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/58538/748/58538-748-2217e0c9d07e126a88e1a02497a1272c-2500x1333.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000093.000047753.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/47753/93/47753-93-638e4c1ce984b54acf670fcbe812ae9e-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-ffb15ee3102f",
+      "id": "auto-103800c4ae04",
       "rank": 1,
+      "title": "「発電する」から「使い切る」へ 自家消費時代に求められる太陽光モジュールとは？",
+      "category": "暮らし",
+      "source": "PR TIMES",
+      "time": "9/5(土) 0:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000038.000155406.html"
+    },
+    {
+      "id": "auto-dbec45c5db88",
+      "rank": 2,
+      "title": "【再エネ安定化】サステナブルホールディングス、ENERGY事業の主軸を「系統用蓄電池」へ移行｜用地開発から市場参入支援",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "9/4(金) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kLTFYam5MVjhNdTRyUXJpWERVbDg5Zi1EODhPNUk5VGhZTkVfRjdfZW1kc1RTcWhncXQ3YUZMM0dSZDVEOWtGcFJQMmRQM29BN3lwa1NLeE1RZTVpa1lmOEFDM2xCZG1U?oc=5"
+    },
+    {
+      "id": "auto-9b5256f1b30a",
+      "rank": 3,
+      "title": "【11/10東京開催】『低圧系統用蓄電池』ビジネスの全貌 〜事業者が今知るべき最新トレンドと収益モデル",
+      "category": "その他",
+      "source": "solarjournal.jp",
+      "time": "9/4(金) 13:12",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10NEE1RjZ3NV9GY29RR3dCRGg3UktKNkhZbEZKc3lva3Fhc2gzZlBBeEtMMVFtSnpoQXhJb25JZlNvVTd0NHpGMFAwcUs?oc=5"
+    },
+    {
+      "id": "auto-69a2b6c2cf2e",
+      "rank": 4,
+      "title": "太陽光発電、巨額赤字180億元で一斉転換：AI計算力への給電が新エネルギー産業チェーンの新たな主戦場に",
+      "category": "その他",
+      "source": "BigGo ファイナンス",
+      "time": "9/4(金) 12:25",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NZ0pQWUZ2dHJRT0dsaVNLVGxCTkxScUlzMHY0akpIcFA2WFd5RFhWLVJsZDFmRm9oUEk4eF9FdFI4VmVQZm1rbC1zS0FGSkdGdFREUDRXdkZOSFFGbzVadnotNUE2aVA0SGRRQ1hxTTdpU1Fa?oc=5"
+    },
+    {
+      "id": "auto-ffb15ee3102f",
+      "rank": 5,
       "title": "ジャパンブランディング、「系統用蓄電池」ウェビナーを9月中旬開催――GUS Technology日本総代理店が語る、再エネ時代の事業参入の勘所",
       "category": "その他",
       "source": "PR TIMES",
       "time": "9/4(金) 11:19",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cDhzODRpMmNGRjJ2RmxEWW9sRk13d1EzbThudlNoRjVEdXFTdzNBbThzNjFUSjduc1UybDdwU3pCb2Y3ZW1fLWRSQndvb3FFcTRpZWFZOWZ0dE9nS0FoYTdDQzE4dU5KakE?oc=5"
     },
     {
       "id": "auto-0de751323245",
-      "rank": 2,
+      "rank": 6,
       "title": "ジャパンブランディング、「系統用蓄電池と家庭用蓄電池の違い」ウェビナーを9月中旬開催――GUS Technology日本総代理店が語る、電力インフラ事業の本質",
       "category": "暮らし",
       "source": "PR TIMES",
       "time": "9/4(金) 11:16",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92U1BNNXhoOVNzbnlpZE5wOTh3dGp0Q2lFdjVpOFRDdk9TN3doaGVJNllFaUczYmdvV0RycnF5UTJiNE00N1VzVjBZSWNtc1VTOXVHWFFaOGdpRmotRDl0SzJIX0xNVGpqQkE?oc=5"
     },
     {
-      "id": "auto-8830e931c193",
-      "rank": 3,
-      "title": "【山口】「GX先進県やまぐち」を目指して！山口県が今年度末に新戦略策定へ",
+      "id": "auto-6fe006d3f80a",
+      "rank": 7,
+      "title": "なぜパナソニック エナジーは地熱電力を選んだのか 導入企業インタビューを九電みらいエナジーが公開",
       "category": "その他",
-      "source": "news.infoseek.co.jp",
-      "time": "9/4(金) 10:33",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ySHc1Z29jMmM2QUNQb1BlR0NzRnlZaTJhcU9ROWlzU01WdUNHaGpkckl6RGd3ckRXRDVtWHBMdjNCbWJDN0VtbDMzZF9HNXUxWEZ5bHg1T0FxRUNmSW1xSUVIRk1QbnZ1NVQ1d2tB0gFuQVVfeXFMTXJIdzVnb2MyYzZBQ1BvUGVHQ3NGeVlpMmFxT1E5aXNTTVZ1Q0doamRySXpEZ3dyRFdENW1YcEx2M0JtYkM3RW1sMzNkX0c1dTFYRnlseDVPQXFFQ2ZJbXFJRUhGTVBudnU1VDV3a0E?oc=5"
-    },
-    {
-      "id": "auto-537b099bd331",
-      "rank": 4,
-      "title": "10円玉も10.54円分の価値に？価格上昇受け狙われる『銅』何度も銅線盗まれた太陽光発電所オーナー「こんなはずじゃ…」",
-      "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "9/4(金) 9:54",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XcmloTUxRVHdQUDFTRUd6blFpbGZzYTVqcTlldm1MbVNkWFYzTFA1anJ4c3R6TGNTWnhsRGNwWGpscWY2ZFBSYXdjUmY1TVhGNml3YTd1NU5WajFWenotMm12ZThxQVJNcVlZbGo0aERRSWZXdDE3STZDSlN2QU0?oc=5"
-    },
-    {
-      "id": "auto-02fcd684982c",
-      "rank": 5,
-      "title": "三菱総合研究所と日立、特別高圧帯の系統用蓄電池事業者向けに電力トレーディング高度化支援のサービス提供における協業開始",
-      "category": "その他",
-      "source": "朝日新聞",
-      "time": "9/4(金) 9:49",
+      "source": "Infoseek",
+      "time": "9/4(金) 11:15",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ka0J0cFJlQTN0QkFkdFN2ZG9QOGlERHB2Nzl5UG9UcHQwMnpzX1REbENHbHlXUFJRU1pnWnpmaFdrS2RQYmJvQ01hWmRNUEhCUjJMb2U3c1lmQ0E?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44M0JaZ09fY0M1akRQb09uX2hmWjNsdUdhU1llT0otVFBUX3p2dkpyM0p4ck9SRW93M01IMm12cGtKSnY3anhGRTdhaTFQTG83WElNajI5SXpPbTg0UzY1dEt6NzNFVG9Zc3BZRVU4TnhiQQ?oc=5"
     },
     {
-      "id": "auto-20b459093a7d",
-      "rank": 6,
-      "title": "フロンティアホールディングス、太陽光発電システム販売・施工のクリアを子会社化",
-      "category": "その他",
-      "source": "コトラ（KOTORA）",
-      "time": "9/4(金) 9:46",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uS0hMUW5UWUJQZWswXzZMWDlJVGhoYmhTd2FDTlgxcTVCWmpVZzYwNkdNTU5SdnoyNm81UXhYZXlsaWkyQ2Fpb0ZhWmpVSUF2eGFidHRZZGtjOGM2VFgw?oc=5"
-    },
-    {
-      "id": "auto-49e47360b804",
-      "rank": 7,
-      "title": "フロンティアホールディングス＜5525＞、太陽光発電システム販売・施工のクリアを子会社化",
-      "category": "その他",
-      "source": "ｄメニューニュース",
-      "time": "9/4(金) 9:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUVfWjlSdjA1aWtWZHpuTldqM2MxR2lObzYyNEFYdzNDWUJVN0tPSEZEVXdvNlJpUUtmendKWHc5bkpEcXVkX3lDZm54VksyUHI5UFR5OEQ3OXNDUkI2ZnBDQmpWRXZTdU5aUkdnQWNDdU9BYm1RUWliZFRaQ2tIY2w4Snp6SmvSAYcBQVVfeXFMUFlFX1o5UnYwNWlrVmR6bk5XajNjMUdpTm82MjRBWHczQ1lCVTdLT0hGRFV3bzZSaVFLZnp3Slh3OW5KRHF1ZF95Q2ZueFZLMlByOVBUeThENzlzQ1JCNmZwQ0JqVkV2U3VOWlJHZ0FjQ3VPQWJtUVFpYmRUWkNrSGNsOEp6ekpr?oc=5"
-    },
-    {
-      "id": "auto-0814ae040c64",
+      "id": "auto-634954f5d6d3",
       "rank": 8,
-      "title": "グローバル固体水素貯蔵装置市場情報レポート：主要企業、シェア、業界トレンドを掲載｜QYResearch",
-      "category": "技術",
-      "source": "note",
-      "time": "9/4(金) 9:30",
-      "tag": "NEW",
+      "title": "そらべあ基金、太陽光発電設備を3園に無償寄贈…11/16まで募集",
+      "category": "その他",
+      "source": "au Webポータル",
+      "time": "9/4(金) 10:39",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yQTREMDNhbGRuczBreVhkclA1QW1uVlFJSEE3UC1qR3k2LXJXaFM0Ymd4UGpoakcyc2lRTlNQZjhzOFIwYnBwVnEzb3ByM1lvaEgxSGN3OA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85MTJGZExvdG53N3dLT1lFVzMtYU1QX1NsRGNzc2htTFBDRFpnWUgzbl81bU5MLWlrbFlfb3Etbkx5akhXWl9VSjlXYnM0T0xPYk9uQjRrWDhEVzgtbk5YdlM2dlhKZTYtTDl4b3BB?oc=5"
     }
   ]
 }
