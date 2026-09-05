@@ -15,13 +15,13 @@
     "slug": "municipal",
     "icon": "location_city",
     "label": "自治体",
-    "count": 60
+    "count": 62
   },
   {
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 40
+    "count": 41
   },
   {
     "slug": "tech",
@@ -45,6 +45,6 @@
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 511
+    "count": 508
   }
 ]
