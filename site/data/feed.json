@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-827843ce8084",
+    "title": "系統混雑・再エネ出力制御量の見通し、2031年度の予測値が公表",
+    "category": "技術",
+    "accent": false,
+    "source": "ITmedia スマートジャパン",
+    "time": "7:00",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/09/news044.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2609/09/cover_news044.jpg"
+  },
+  {
     "id": "auto-bc938faf3e4d",
     "title": "NTT-ATとEVG、高屈折率樹脂と「SmartNIL」プロセスによるAR光学デバイスへの適用可能性を実証",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "5:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000388.000023654.html",
@@ -13,21 +23,61 @@
     "id": "auto-8fb2dde72021",
     "title": "Earth hacks、東京大学アメリカンフットボール部WARRIORSと業務提携",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "5:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000154.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/154/122970-154-fb699383f4c2abb4d39c0d68eeb4ffbf-3712x2475.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-f593e54ecc48",
-    "title": "TESSグループ、2026年６月期GHG排出量についてのご報告",
-    "category": "企業",
+    "id": "auto-331badf82f6a",
+    "title": "【太陽光発電】ハンファジャパン：既築住宅向け配置シミュレーション「PVMap」開始、商談時にパネル配置と発電量を可視化",
+    "category": "暮らし",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000171.000143072.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/143072/171/143072-171-94cf87cc4bfc558ed08e5b616c55ddd9-940x362.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "みんなの広報宣伝部",
+    "time": "22:38",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wbmdxQ1dlOEVUZzdYNkxHTGpYZzFjUUlWQzVucTJ5M0s0Q2hGZzFuVWtvUnZlcGtNQ1JrTURzY3E5MjBXMV9nMVh4WWhGM0ljTW02OGktekNlMjdNRHpuMDNyUWtBWGVuMl90SkVTY2dOQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bccda3713fa4",
+    "title": "【公募】そらべあ基金：幼稚園など3園に5kW太陽光を無償寄贈、11月16日まで「そらべあスマイルプロジェクト」を募集",
+    "category": "その他",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:38",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaXVsOVRvOFF6b1drdVhEY3ZPQjJrTDl0MHZ6WmV6SHc5MHlFaE1IajZ6cFpsMm15RWd1amdEVmdhS3NudTRfNXpCZm9DOHF4UW1sOFdaUlZhZDA5RUNwZXNRNHUxZ0hvWjR5V1ZKXzFFdw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ea9dab885259",
+    "title": "【太陽光発電】大塚ホールディングス：双日とのSPCでバーチャルPPA、年間51GWhの追加性ある再エネを新規創出",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:32",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsWHZLbXpNV2NWZGV6ODhMX0ptWXFHdHMycHNhamtCM1FkVzJFUFRfY2hxQnF1RnBnaE9YYVlkTFVXMFliT0tmN01yYndlV0RyYWlSUlRiRzQ5Q09hbERTUWxxblU0UkFmNkFxQlA3ejRqUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9f79833b2cfe",
+    "title": "【太陽光発電】愛三工業・中部電力ミライズ：太陽光3発電所でバーチャルPPA、年723万kWhの環境価値を約7年間調達",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:32",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTWlVQnNGT1NuNVNVWW9DWDJaOEE2NktJUzA5aVpJZnlaQm5GLTNvQ2htTmtoLWhvdVlMZUgwVkJxVjY4WUNxWV9Jc1lHN25semZ6YWxCNWVNN2FRd2Nzd00ybW5ETGNHc3hMemVRNmRaUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-17a8591b0282",
+    "title": "【国際】2026年上半期の再エネ投資額、3275億ドルで前期比横ばい。2027年以降回復予想。BNEF | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
+    "category": "国際",
+    "accent": true,
+    "source": "Sustainable Japan",
+    "time": "22:20",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXQxY2YtOVJjMmQ2azhBdC12YlBYOFo3WTNVVzRuNThUbXdzc1l6dnVWOG11TWZYc0xtUDZXUTVKV2dLMEtWLW13d3dscU00Y1pPRGhpZVQ3UUdiYjQ4U0x3cmZPY2hQMTcwcENERDJ3ck5rc0c3VjdjZWNNWlBaVG9rRTU0d9IBhgFBVV95cUxNTXQxY2YtOVJjMmQ2azhBdC12YlBYOFo3WTNVVzRuNThUbXdzc1l6dnVWOG11TWZYc0xtUDZXUTVKV2dLMEtWLW13d3dscU00Y1pPRGhpZVQ3UUdiYjQ4U0x3cmZPY2hQMTcwcENERDJ3ck5rc0c3VjdjZWNNWlBaVG9rRTU0dw?oc=5",
+    "image": null
   },
   {
     "id": "auto-bfc0b16bcb24",
@@ -37,6 +87,16 @@
     "source": "電気新聞ウェブサイト",
     "time": "21:03",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRjFuYnU4QUg1ZHd0YWdlb1pfQjJiVW9IWUc5b0t6MVFob1NPNFpSUmNTWEozVFhOd3dQa3ZEUm9ZUU82bC0wdFBNbFNTTmZrbi1YQk9NVQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-58a606835fe3",
+    "title": "画像4 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
+    "category": "その他",
+    "accent": false,
+    "source": "ウォーカープラス",
+    "time": "21:01",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
     "image": null
   },
   {
@@ -94,7 +154,7 @@
     "title": "JFEテクノリサーチ、「オートモーティブ ワールド秋 2026 EV・HV・FCV技術展」に出展",
     "category": "技術",
     "accent": false,
-    "source": "news.nicovideo.jp",
+    "source": "ニコニコニュース",
     "time": "17:48",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93TDBsRHgtU1o2Vy02YVBTTHAzVTBjYjgxNWgwSjJaVzloOWxaVXRiU3BVRDFnc2V5bHFpZjhqNzBnTVN0a2F4ZmNTcVg3dzNwRWt4SHBnaVM2X0lmbVhfNlJWSlhrMXJM?oc=5",
     "image": null
@@ -124,7 +184,7 @@
     "title": "デジタルグリッド初の低圧系統用蓄電所が受電開始",
     "category": "その他",
     "accent": false,
-    "source": "news.nicovideo.jp",
+    "source": "ニコニコニュース",
     "time": "16:48",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5peGNZczBGSE0zZ0czOWVQajN4bEFYQVk0eFdPdWc3aVNET0VFdDJzZUFhVUtqTEV5V3NybzhPaGRjSDlYOEYyUnQyR0JPdkxDdTRQTWYzd1V5Vm0xVk1ybVB4aVFVUDNs?oc=5",
     "image": null
@@ -134,9 +194,9 @@
     "title": "Green AI、「360度カメラ×AI」で工場の省エネ施策を自動抽出する新サービス「360度AI現場診断」を提供開始（特許出願中）",
     "category": "その他",
     "accent": true,
-    "source": "news.nicovideo.jp",
+    "source": "ニコニコニュース",
     "time": "16:45",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ec2Fjd242czlwWUYtbWdXRHNOMW1VT3Joc3FyRnYtV2VockFYRko2bTdqRjRNSEhVajI4Z3hUY2VkZ3J0MVFTN2VtSnlFSHk1XzkwMDhKLWwzU1lKRzB0LThzWjhuYU1wV19zZDh5Wkc5cTEyVWFiRUhfZw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1neXctc3JDXzdhN1RuMkRGaXdoRDV3ODdlM05CQXAwbkF3UVZKOWN4aUNoY1VRcmY4eWl4UFU1SGxhcG5IMGJ2blliNHZ5SjhMY2lScy1MX09nYy1qdC1qb2dNYWp1alJ2SFQxY0thM2ZReG5KVkE?oc=5",
     "image": "https://prcdn.freetls.fastly.net/release_image/131956/42/131956-42-828ef8e7ea3e489014e1341ea064b94a-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
@@ -237,66 +297,6 @@
     "source": "中日BIZナビ",
     "time": "10:52",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BeENlZ1lPZGM1dkk3VzhmbHFfNzlETGV0ZWliQVBCd3c0bGlYVDJrOVBVR2pRSl9rYlZLRXlLLVI3OFhaR2lpRzJOeDBNeVNHLWFOR09MMlk2NW9meVotMklsSHU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-68e309049d38",
-    "title": "政府が巨額投資を進める次世代エネルギーとは？核融合発電・浮体式洋上風力・CCUSなど、“未来のエネルギー”最前線が幕張",
-    "category": "技術",
-    "accent": false,
-    "source": "news.nicovideo.jp",
-    "time": "10:45",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMZlk3QWlxOE1fZG9RZ3RDN01fU3JKNEZoNVpwb3kyR2hlMlBKTHRQZmU2RXpEdl9UbUFDcjRrRnZfSThSZmVTYkVXZlN1eS03aGxzTHBabWZEYTBKNS02NFo0UU1KdXNMWVFCcnNR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c01909b62b54",
-    "title": "Enerparc AG破産手続き：太陽光発電開発企業が安定化を模索 - ニュースと統計",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "10:43",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRTEtQk1JcG50azdraFJZdkRBcV9zNG1tSEg3dEhqZW1SQkFNcEljbW1ZdmtmQTFzYmFvWXNhVWNFaDdabldraWNJZzhURXV1SlFOcWV4OFJvaEduelNibE1mVUhUTUJFR2NrUk43bUxBN2JYZ1g3Wm9xRFVtMzlHeU00SlBZc3huSkE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-083a038a150e",
-    "title": "重量物輸送の世界大手マンムートが日本法人 洋上風力や原発に意欲",
-    "category": "国際",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "10:42",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UcklrUngwTFBvR01EUU4tNndteDRqYzFGa0Z2amdCQlBVdmx4ZE80Ny1QcG1FYzc1MUJjSFFPdXFyQlY2RnlRbHJmZU1YeG1aMTNlWGNrMzRBM05UOEtfLTZHS1pOWHJWdzdIbw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7f4d22039181",
-    "title": "ナムドン村の警察は、地元住民のために15基の太陽光発電式街灯を設置するのに協力した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "10:30",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcktob2hRNElRZ1BYX25LbEp6UktVZG9GZEJ5czg2WFg0eU94QnlqSmVWSXpDS242Vmx0Z25TOHNvamNLNEJqX3RoOFVxbkM0a2ptVVZlTHFIc1BfdkoyQ0ZRUEVDOV8ySi00SlVSelNINEdfRmxMZ0huTlNleHhGdVFjdF9ZdFZ1NVBfVVRONW9GXzc3YUFENHVfQ2pnSmNvMUtSYlh4R3pWamhRVDh3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-dc27236cd8c3",
-    "title": "なぜ再生可能エネルギーへの投資がザライ省に殺到しているのか？",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "10:20",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWREeE1PRldtUDBSeXhYcDRFdkFBb01ITk1HeFJSVmw1VTYxeWRCT3gxMmN2WFdSYzhaYjVIeHo0TVRtT09aNXM3c21zX2cwbThzNlVuN1JQcW9FVk5VM1FaSWhuVVVFLUQ4eEZzR1A4cm1ZSmZacGEyWThERW83Qzhrbko?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9d32a04da240",
-    "title": "京葉臨海コンビナートへの約1兆円GX投資計画 水素生産、廃プラ原料化など - kankyo-business.jp",
-    "category": "技術",
-    "accent": false,
-    "source": "検索: 水素・燃料電池",
-    "time": "9:58",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hQVlPR0dSUEJJMWI4UUpfNWdrcVlfekNzdndmTWd3NzRxczhQaFh2R1Z0VllUdDhNRllaRHloUkdVa3JvSWM4OGNPOExINi1KYWIxWkkwczlGUmN5ejRIcnZTSTJFZ185eFdWeFhmdVd4dEhvQmtCejhPaDU?oc=5",
     "image": null
   }
 ]

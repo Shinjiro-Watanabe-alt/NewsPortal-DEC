@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-bc938faf3e4d",
-    "title": "NTT-ATとEVG、高屈折率樹脂と「SmartNIL」プロセスによるAR光学デバイスへの適用可能性を実証",
-    "summary": "[NTTアドバンステクノロジ株式会社] NTTアドバンステクノロジ株式会社（以下：NTT-AT、本社：東京都新宿区、代表取締役社長：伊東 匡）とナノインプリントリソグラフィ（NIL）装置の世界的リーディングメーカーであるEV Group（以下：EVG、本社：オ...",
-    "category": "国際",
-    "source": "PR TIMES",
-    "time": "9/9(水) 5:10",
+    "id": "auto-827843ce8084",
+    "title": "系統混雑・再エネ出力制御量の見通し、2031年度の予測値が公表",
+    "summary": "電力広域的運営推進機関の「広域系統整備委員会」の第103回会合では、2031年度の系統混雑や再エネ電源の出力制御量の見通しが公表された。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "9/9(水) 7:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000388.000023654.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/23654/388/23654-388-7fa661e9acfc13d4619241be13c8d96a-2236x895.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/09/news044.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2609/09/cover_news044.jpg"
   },
   "headlines": [
     {
-      "id": "auto-8fb2dde72021",
+      "id": "auto-bc938faf3e4d",
       "rank": 1,
+      "title": "NTT-ATとEVG、高屈折率樹脂と「SmartNIL」プロセスによるAR光学デバイスへの適用可能性を実証",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "9/9(水) 5:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000388.000023654.html"
+    },
+    {
+      "id": "auto-8fb2dde72021",
+      "rank": 2,
       "title": "Earth hacks、東京大学アメリカンフットボール部WARRIORSと業務提携",
       "category": "国際",
       "source": "PR TIMES",
       "time": "9/9(水) 5:10",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000154.000122970.html"
     },
     {
-      "id": "auto-f593e54ecc48",
-      "rank": 2,
-      "title": "TESSグループ、2026年６月期GHG排出量についてのご報告",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "9/9(水) 4:10",
+      "id": "auto-331badf82f6a",
+      "rank": 3,
+      "title": "【太陽光発電】ハンファジャパン：既築住宅向け配置シミュレーション「PVMap」開始、商談時にパネル配置と発電量を可視化",
+      "category": "暮らし",
+      "source": "みんなの広報宣伝部",
+      "time": "9/8(火) 22:38",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000171.000143072.html"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wbmdxQ1dlOEVUZzdYNkxHTGpYZzFjUUlWQzVucTJ5M0s0Q2hGZzFuVWtvUnZlcGtNQ1JrTURzY3E5MjBXMV9nMVh4WWhGM0ljTW02OGktekNlMjdNRHpuMDNyUWtBWGVuMl90SkVTY2dOQQ?oc=5"
+    },
+    {
+      "id": "auto-bccda3713fa4",
+      "rank": 4,
+      "title": "【公募】そらべあ基金：幼稚園など3園に5kW太陽光を無償寄贈、11月16日まで「そらべあスマイルプロジェクト」を募集",
+      "category": "その他",
+      "source": "みんなの広報宣伝部",
+      "time": "9/8(火) 22:38",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaXVsOVRvOFF6b1drdVhEY3ZPQjJrTDl0MHZ6WmV6SHc5MHlFaE1IajZ6cFpsMm15RWd1amdEVmdhS3NudTRfNXpCZm9DOHF4UW1sOFdaUlZhZDA5RUNwZXNRNHUxZ0hvWjR5V1ZKXzFFdw?oc=5"
+    },
+    {
+      "id": "auto-ea9dab885259",
+      "rank": 5,
+      "title": "【太陽光発電】大塚ホールディングス：双日とのSPCでバーチャルPPA、年間51GWhの追加性ある再エネを新規創出",
+      "category": "その他",
+      "source": "みんなの広報宣伝部",
+      "time": "9/8(火) 22:32",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsWHZLbXpNV2NWZGV6ODhMX0ptWXFHdHMycHNhamtCM1FkVzJFUFRfY2hxQnF1RnBnaE9YYVlkTFVXMFliT0tmN01yYndlV0RyYWlSUlRiRzQ5Q09hbERTUWxxblU0UkFmNkFxQlA3ejRqUQ?oc=5"
+    },
+    {
+      "id": "auto-9f79833b2cfe",
+      "rank": 6,
+      "title": "【太陽光発電】愛三工業・中部電力ミライズ：太陽光3発電所でバーチャルPPA、年723万kWhの環境価値を約7年間調達",
+      "category": "その他",
+      "source": "みんなの広報宣伝部",
+      "time": "9/8(火) 22:32",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTWlVQnNGT1NuNVNVWW9DWDJaOEE2NktJUzA5aVpJZnlaQm5GLTNvQ2htTmtoLWhvdVlMZUgwVkJxVjY4WUNxWV9Jc1lHN25semZ6YWxCNWVNN2FRd2Nzd00ybW5ETGNHc3hMemVRNmRaUQ?oc=5"
+    },
+    {
+      "id": "auto-17a8591b0282",
+      "rank": 7,
+      "title": "【国際】2026年上半期の再エネ投資額、3275億ドルで前期比横ばい。2027年以降回復予想。BNEF | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
+      "category": "国際",
+      "source": "Sustainable Japan",
+      "time": "9/8(火) 22:20",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXQxY2YtOVJjMmQ2azhBdC12YlBYOFo3WTNVVzRuNThUbXdzc1l6dnVWOG11TWZYc0xtUDZXUTVKV2dLMEtWLW13d3dscU00Y1pPRGhpZVQ3UUdiYjQ4U0x3cmZPY2hQMTcwcENERDJ3ck5rc0c3VjdjZWNNWlBaVG9rRTU0d9IBhgFBVV95cUxNTXQxY2YtOVJjMmQ2azhBdC12YlBYOFo3WTNVVzRuNThUbXdzc1l6dnVWOG11TWZYc0xtUDZXUTVKV2dLMEtWLW13d3dscU00Y1pPRGhpZVQ3UUdiYjQ4U0x3cmZPY2hQMTcwcENERDJ3ck5rc0c3VjdjZWNNWlBaVG9rRTU0dw?oc=5"
     },
     {
       "id": "auto-bfc0b16bcb24",
-      "rank": 3,
+      "rank": 8,
       "title": "ＳＣＯＰＥ／洋上風力の公募制度見直し、遂行力・地域共生に重点 –",
       "category": "自治体",
       "source": "電気新聞ウェブサイト",
       "time": "9/8(火) 21:03",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRjFuYnU4QUg1ZHd0YWdlb1pfQjJiVW9IWUc5b0t6MVFob1NPNFpSUmNTWEozVFhOd3dQa3ZEUm9ZUU82bC0wdFBNbFNTTmZrbi1YQk9NVQ?oc=5"
-    },
-    {
-      "id": "auto-a879a1c5bcc4",
-      "rank": 4,
-      "title": "ＳＳＫ、脱炭素火力プロの法務・制度対応セミナー",
-      "category": "企業",
-      "source": "化学工業日報 電子版",
-      "time": "9/8(火) 20:04",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KLXlYZE1EWmFBWjV0OGtvdmg0dGFpcklzWkFtLVM3Uk5TTEJXQ0JqUGs2UEhIMGFodUtzeGNlUzNaQzNNZ195TGs0anc2amdER1pv?oc=5"
-    },
-    {
-      "id": "auto-182d18457d8e",
-      "rank": 5,
-      "title": "大型商船向け水素燃料エンジンの陸上運転試験に成功",
-      "category": "技術",
-      "source": "化学工業日報 電子版",
-      "time": "9/8(火) 20:03",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzNjV2dGJJc2FuQ3NUV2NwTGdXSVhWbXJiYjZmQnBpd3BYejFNMC1HVEtOeFVrNmNaQnRnTUozTTB3dEhNTS1QaURLTXlCMzFtcl9j?oc=5"
-    },
-    {
-      "id": "auto-68874fb110ea",
-      "rank": 6,
-      "title": "マクセル、宮城事業所で自家消費型太陽光発電を稼働",
-      "category": "その他",
-      "source": "化学工業日報 電子版",
-      "time": "9/8(火) 20:03",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IdC0yLUFrdmhtVHBraW51U3oxOEo1U0sxdV9fdHkyVVJHOXg2VnlSajFEbjV1dW9odFVaZS04dlI2NDhiMldUUUE2S0VJNjFBNEdr?oc=5"
-    },
-    {
-      "id": "auto-34300a07b6ab",
-      "rank": 7,
-      "title": "大型船水素エンジン､CO2排出95%減 ジャパンエンジン",
-      "category": "技術",
-      "source": "日本経済新聞",
-      "time": "9/8(火) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKaW5TeG1BTWtaX1kxVFgxS3lIZWlBYm5VMWcteDBRUm8xckJRcHg1OWhKbDhXcjBselpFS2RxckVMaklyYUxEWWFIUUkydnRIT1JRRldhRGlyVUhtRm9ZVTNDM3hVd0xPVDZ6S2hSZW9WYl9NSTZV?oc=5"
-    },
-    {
-      "id": "auto-c9fcd9e53e09",
-      "rank": 8,
-      "title": "パナEW、可搬型燃料電池を開発 即納・施工性向上",
-      "category": "技術",
-      "source": "日刊工業新聞",
-      "time": "9/8(火) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00cWtnTUphNkw0Um4wM21RRjhPbHFReXhDTDBYYW9UWENvTzY2Qm5HWnNZakt3MEVYSEdOVVpnTXVPT25QSDhQMkkyV0gxU3ViVWxyMldESnU?oc=5"
     }
   ]
 }
