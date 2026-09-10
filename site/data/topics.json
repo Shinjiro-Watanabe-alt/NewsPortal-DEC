@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-2d9be4e5a4dd",
-    "title": "アスエネ、日比谷音楽祭2026のCO2排出量を事後算定",
-    "summary": "[アスエネ株式会社] アスエネ株式会社（本社：東京都港区、Founder 代表取締役CEO：西和田 浩平、以下「当社」）は、日比谷音楽祭初の環境パートナーとして、2026年5月30日（土）、31日（日）に開催された同音楽祭2026のCO2排出量を...",
-    "category": "企業",
+    "id": "auto-e77ffb819b3a",
+    "title": "災害時、断水中でも漏水箇所を早く見つけるために――大型水素式探索ガス造成機「HT-300」の開発を開始",
+    "summary": "[ワイハウ] 大規模災害によって水道管が損傷すると、漏水箇所の特定と修繕に時間を要し、断水が長期化することがあります。現在主流の音聴式による漏水調査は、配管内に水を通して水圧をかける必要があるため、断水により配...",
+    "category": "技術",
     "source": "PR TIMES",
-    "time": "9/10(木) 12:15",
+    "time": "9/10(木) 18:15",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000752.000058538.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/58538/752/58538-752-1028002a3351597c02be317ca4c46dac-1200x640.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000591.000001924.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/1924/591/1924-591-97c91e1aca453f04fb2eef8ef259470c-1200x630.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-d4851ec874b5",
+      "id": "auto-ddb5882d0d2a",
       "rank": 1,
-      "title": "世界初の大型商船向け水素エンジンが完成、温室効果ガスを95％削減",
+      "title": "八千代ソリューションズ、持続可能なサービス提供に向け、MENTENAのAWS利用に伴うCO2排出量を算定し、森林由来J-クレジットを調達",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "9/10(木) 15:45",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000077.000161767.html"
+    },
+    {
+      "id": "auto-e4af53406431",
+      "rank": 2,
+      "title": "ホーチミン市は、屋上太陽光発電に関する新たな規制を実施するためのガイドラインを発表した。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "9/10(木) 10:51",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejlTakJkS3prRlZZVldlM2NiUVZvbGNReGhMSmYxSEZfSTIyVEgzR2UwV2U1QmV5bjQ2VzNJUXJtam1wNTcwT080dUpkSVJGbWJTcGpaeDVGRHlvc2QtOGNsOE1nVVMxY1JMQV9CN2FGcFZ5TTBaX2lGaUlJc2g2bVlEbFo3aVg5TDZvcEthUk41Nm0z?oc=5"
+    },
+    {
+      "id": "auto-119c6be6aa4d",
+      "rank": 3,
+      "title": "再生可能エネルギー拠点の開発：国際的な事例を考察する。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "9/10(木) 10:43",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDdEQkV3d0hwMzNNbU1rcHY3bXduZDNOYW5tNk9FV1JoX3hxM0ZLR3FVQThQUVhSMDRhYnJqaUluaUJFSFpZb29RNXhNd3ZCWmp0Y0FtT0x0M0U3QTBtMzRtQ2tkWl84UDJJR1F0Q3VncjBJc0VlOXNZX2JVUmdfVWtkRzRtcExJYy11cm9xNHFQYTNrX2c?oc=5"
+    },
+    {
+      "id": "auto-16bed6c9751d",
+      "rank": 4,
+      "title": "水素活用へ需要創出を 経産省が国際会議",
       "category": "技術",
-      "source": "ITmedia スマートジャパン",
-      "time": "9/10(木) 7:00",
+      "source": "秋田魁新報電子版",
+      "time": "9/10(木) 10:17",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xenBhNE9sWWk3N3dKeU5UNzVGX1FCYUMyZ3ZxaHVLZGVxb1UwSFdaU1djLW1VUUpDeGdZa2xmNkh2N2VoSURrcllNcnI3X25LTldsODZIMlVkZ1VwcXRRUlN3?oc=5"
+    },
+    {
+      "id": "auto-d5cbf682495c",
+      "rank": 5,
+      "title": "串間でつくる電気を、串間の暮らしへ。串間ナチュラルホースパワー、地域脱炭素モデルの普及を推進",
+      "category": "自治体",
+      "source": "ひなた宮崎経済新聞",
+      "time": "9/10(木) 9:41",
       "tag": "",
       "pr": false,
-      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/10/news043.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5S2sxanZndkoyMnJxdnZ4eTBQckdFSXRnMXptb2dSWEplWUlhNDVXdHYzRHZ4RUxJbndfTDNQdXRoRThwdTBYalBSSzA1S2hFYjhHNWZn?oc=5"
     },
     {
-      "id": "auto-7f5fdbc25956",
-      "rank": 2,
-      "title": "三菱化工機、川崎重工業から大型の水素製造装置を受注",
-      "category": "技術",
-      "source": "ニュースメディアVOIX",
-      "time": "9/10(木) 4:32",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00bWg5bHFrVW9mUVJkeXVmRjFlTXczeXE4TWJidlFoc0w0YjdyRlVTS1R3dm44OUEwWkQ5RWJ1MFBLQzNKZkhZb1otSFRBT2FiTl8w?oc=5"
-    },
-    {
-      "id": "auto-4728d6c866bc",
-      "rank": 3,
-      "title": "化工機がプラスに転じる、川重から水素製造装置を受注",
-      "category": "技術",
-      "source": "株探",
-      "time": "9/10(木) 4:26",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12UXFNWEhqMXh4QW9NaVNKX3hYbVQyWHFORFFsNDRzNmdMYkpia3VyQnVYZDRlRlBwcDRwMnA5YUlWWWFjQkNfU2N3Z01sYVlzZFRkQWhER1p1MUt1aHA2Sg?oc=5"
-    },
-    {
-      "id": "auto-5ac07b847fb1",
-      "rank": 4,
-      "title": "三和ホールディングス---性能試験センターに太陽光発電設備を導入",
-      "category": "その他",
-      "source": "株探",
-      "time": "9/10(木) 4:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1dHNOZjJmb08wSDNkdW5EYVVNeXpjcjN2emlmaWpzUGlSb1duQWM1Q1piOFN0aUtnMFRRcTFKNkk4SkN0dWVPeUNkZDhQeEpCdWhTM1BaOUpFQlQ3cnFHSQ?oc=5"
-    },
-    {
-      "id": "auto-d27aaef84c46",
-      "rank": 5,
-      "title": "三和ホールディングス---性能試験センターに太陽光発電設備を導入 執筆： Fisco - Investing.com",
-      "category": "その他",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "time": "9/10(木) 4:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SelpDMVFtaWtpWUF6Z1JqQzIxZ3hCOFVyNmx3dmtUb2ExZjNXTEhwaWZfOHluZHlBdEF5VHZ5WFJGS2xnX19ZNHNqTkxJYnZXSTBFWkpZM2JBQWtqckR3UWZkNFIzWjIxTUZ6ZlA2NVg?oc=5"
-    },
-    {
-      "id": "auto-a60e7934588f",
+      "id": "auto-c37f943f1d97",
       "rank": 6,
-      "title": "三菱化工機、川崎重工業から水素製造装置を受注",
-      "category": "技術",
-      "source": "PR TIMES",
-      "time": "9/10(木) 4:06",
-      "tag": "NEW",
+      "title": "太陽光発電量をＡＩで予測 売電を省力、最適化 ビーズスタイル",
+      "category": "その他",
+      "source": "山陽新聞",
+      "time": "9/10(木) 9:29",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Dd09vRUN0VnpWNG96MlQ2SG54WnpfUXB6WWg2VTRmc0w2ZHJELV9EV0xJQVkyWGh4eE5VajBBNVJ6R0N1SmRyUTBqTlJXU2piRVFfZ3NvMHM5UUJUWlNzV2FQV0Q3ZGVJS3c?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TMzBlVWxNeFozV0liNXRVS3MzUHY2T0RvV0RzZlhuRW94bFloUW45eHNJSTQ0Yy1uNGJvNzF5V2tnWEh4Zk9pTWZIZEpNWjhsTzc4M3VsRWVlRnpwak9fbUdEWE5mRDR0U2xoMA?oc=5"
     },
     {
-      "id": "auto-eee3ad6c399f",
+      "id": "auto-d3ee41968f78",
       "rank": 7,
-      "title": "持続可能な未来に貢献する人材と機会を繋ぐマッチングプラットフォーム「GXキャリア」を開始",
+      "title": "屋根置き太陽光発電の設置・使用者にとって有利な多くの新しい規制",
       "category": "その他",
-      "source": "news.nicovideo.jp",
-      "time": "9/10(木) 3:30",
+      "source": "ja.laodong.vn",
+      "time": "9/10(木) 9:22",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80M1YyR2lGZnVCcmFLTGFwVnJZcmkzZ0lHQ3FySV9GalRrWDUxdko3UGQxQnV4Z3RPdVV0YWNjcWJhVTJFYWVIZkpBQVVxdC03YXpfTDlzWk5UOWU1b2ZZX2xmTWlyMjVkSUZkMDJrNDJFWk55VlVqcS1Zbw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczdfOF9HZVA0VXROcVQ5a0lFOThOdnl2cDVXZmFQeVhoOElOYnlzYnktS3AzVEk1ZDMtQ2FqS0tVUVZocU5YX1BDQjdIOTQ4cXQzOVl1VzFaUTI0YW5LTGlIc0d5Q1EtWkdVYmVGWXRfanE3OFZTcS0yZ216OGJIY3ozN3FZbEdnVXA5Rm54MlU3T2pTZDhhQ3JUNTZ5UTNrWWZ4SHQ0NmRLM0FDSmVTMHpGWUw4WnJHZ2FVb0VKUnhCNFBQODR1RW53?oc=5"
     },
     {
-      "id": "auto-daffc9268d0a",
+      "id": "auto-6bec158cbcf6",
       "rank": 8,
-      "title": "レポートオーシャン株式会社プレスリリース : データセンター電力市場は2035年371億9000万米ドルへ、CAGR5.6％｜AIデータセンターの電力需要増加と脱炭素電源・高効率化が成長を牽引",
+      "title": "北海道更別村、北洋銀行、ステラーグリーンがカーボンニュートラルによる持続的な社会の実現に向けた連携協定を締結",
       "category": "その他",
-      "source": "excite.co.jp",
-      "time": "9/10(木) 3:30",
+      "source": "jiji.com",
+      "time": "9/10(木) 9:15",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5haXNhRjdNSUlmOFJEaHpXODZCNjNaaXd6ZXN5eVA4dUZXVTNhbkZyajZFZExWZWZ5U0hld0ZTSXNENV9hQWp5S2pSLW9rSl9NNWJDTENDenU2STAyX3czSnBMTG45c0FGZ0E?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Xa0hyWDdMZENxdkxRT3FFREdFeDloaHhvM3BieWZrdUNEdW1iNGM3WXBDZVV4LXRwSFJmVW9YQkk4emxxSHJ1N0NPdV8wTUxhcC1VcXQ1MTJhSXBNYjAtakgyTTcwUXdwUGNv?oc=5"
     }
   ]
 }
