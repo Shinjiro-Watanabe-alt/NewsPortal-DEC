@@ -1,13 +1,73 @@
 [
   {
-    "id": "auto-14a90a5e3dee",
-    "title": "スマートエナジー代表取締役 大串卓矢が「日経ビジネスイノベーションフォーラム」に登壇",
-    "category": "自治体",
+    "id": "auto-6661ecea822e",
+    "title": "【実証実験パートナー募集】デジタル技術による焼却ごみに混入した「プラスチックごみ」の識別・定量化",
+    "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "1:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000042.000006241.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/6241/42/6241-42-25f91b8db7c0d2474402a250665afde7-3900x1468.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "5:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000146.000099300.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/99300/146/99300-146-fdca63b78600592926a58c5c869dd2ae-735x488.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-71deb0c972f1",
+    "title": "【ネット通販・宅配調査】「送料無料」には敏感、配送時のCO2には無関心？",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "5:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000034.000167534.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/167534/34/167534-34-54591b44085bf149a8fb7a00061fd79a-1920x1080.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-c55426848ea4",
+    "title": "美容室発の水素ケアを、もっと日常へ。",
+    "category": "技術",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000082103.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/82103/11/82103-11-b3b0d316d8e4cef345eb97ae4a747f88-1567x1045.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-959ecd0c8147",
+    "title": "ＪＦＥエンジ、洋上風力発電へ国産初のモノパイル初出荷 岡山の製作先から",
+    "category": "その他",
+    "accent": false,
+    "source": "カナロコ",
+    "time": "20:50",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFVGQxaDlpenFRNW9kWUNTY1FBT1JTUDJXa1Bpalh1d2huaGQtT1dvMWlUX0VNR0I1b0w5cGI4WW42V1RqdFhQLXNhOGcxMDd0elhFTDlyYnJSeG9vdFhtR3g3ejFZR1Ru?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7694f4d0bd3e",
+    "title": "人工光合成、30年代にも家庭・産業へ 光でつくる水素とギ酸",
+    "category": "技術",
+    "accent": true,
+    "source": "日経クロステック",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jS0NNVTBjOVBtU2tKV1FsanpzY2NYOUN6ZFJpMUdBbGRrTEpJRm5YZDRac2pTVUpkYkpLRmlxMGJvQkxPV2taN3Aybk55WlJzZ1RxQlFLMmxjTU5HYjdJT0YyZ04zazRlanNkdA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0db133cd20e2",
+    "title": "太陽光発電に蓄電池をセット導入すると、費用回収まで何年かかるのか",
+    "category": "その他",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "17:24",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1reGYxMDNJbEE0N2RoeW1EVmI0VlNpUVRfbGctMmJ0eE95VWYxRG9sUVJNYkJlaEJmUEZmTzFCbVRZVnVjdFJYdkozNjZYZE43bzBoMmRjcUJIb0FaNC00?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bf551bc2318c",
+    "title": "Sonnedix、チリの再生可能エネルギー1GWと蓄電池117MW向けに13億米ドルのリファイナンスを完了 - ニュースと統計",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "16:13",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmJVUkNEN2ZZVGgwT25NUm9nZUgxRGZFM0UxbzJUNFZ4R1RCNDVRWlFBcjBFOVRWbzZNTWw0aHFOaW1POHE1c3JUdGE2LWFXYVhiOE9iYzhDWWUtaFRWX0pfdWMwNkZhX1REVjBsYUNfMUxMQ3RaTDMyOThGTXdBZHJDX19GTHAyRXJGYTdCZFJpNlFMdEM0dXBvRHIyQVNYY2RXekNwQ1o?oc=5",
+    "image": null
   },
   {
     "id": "auto-da48371b917b",
@@ -70,20 +130,10 @@
     "image": null
   },
   {
-    "id": "auto-16bed6c9751d",
-    "title": "水素活用へ需要創出を 経産省が国際会議",
-    "category": "技術",
-    "accent": true,
-    "source": "au Webポータル",
-    "time": "11:40",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JeTFqcmNRdWRZc2U3VVFZRWlPQnNUYXZzb1BZRHpZb2RoMXlqYzJYT3Q2bkFRX216UnBCNXlGcUhDVnRwVE1BMGR1UTliYU1OVERNTXlBejhSdS00NGItbXR6NVg0em9HWnF2Z2x0OEtTUmlXTUlUbw?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-e4af53406431",
     "title": "ホーチミン市は、屋上太陽光発電に関する新たな規制を実施するためのガイドラインを発表した。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "10:51",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejlTakJkS3prRlZZVldlM2NiUVZvbGNReGhMSmYxSEZfSTIyVEgzR2UwV2U1QmV5bjQ2VzNJUXJtam1wNTcwT080dUpkSVJGbWJTcGpaeDVGRHlvc2QtOGNsOE1nVVMxY1JMQV9CN2FGcFZ5TTBaX2lGaUlJc2g2bVlEbFo3aVg5TDZvcEthUk41Nm0z?oc=5",
@@ -97,6 +147,16 @@
     "source": "Vietnam.vn",
     "time": "10:43",
     "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDdEQkV3d0hwMzNNbU1rcHY3bXduZDNOYW5tNk9FV1JoX3hxM0ZLR3FVQThQUVhSMDRhYnJqaUluaUJFSFpZb29RNXhNd3ZCWmp0Y0FtT0x0M0U3QTBtMzRtQ2tkWl84UDJJR1F0Q3VncjBJc0VlOXNZX2JVUmdfVWtkRzRtcExJYy11cm9xNHFQYTNrX2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-16bed6c9751d",
+    "title": "水素活用へ需要創出を 経産省が国際会議",
+    "category": "技術",
+    "accent": false,
+    "source": "山形新聞",
+    "time": "10:17",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXpYVzRlenRPTDlIalpxZEttZlJJVEtRVm9IYkN6YUxXak1yMDd2aVRYSWpNSHlMQzNfUmdKU3dMajRmd2hPRjMxaFhjREVoa190OU5YQkY3a3BJNE9JWUNxRHZyXzJvTzNNc3FobWlMUml2UUx3ZVJfLXdIN2VKUDVkUllkYXJGMWNmcQ?oc=5",
     "image": null
   },
   {
@@ -124,7 +184,7 @@
     "title": "太陽光発電量をＡＩで予測 売電を省力、最適化 ビーズスタイル",
     "category": "その他",
     "accent": false,
-    "source": "sanyonews.jp",
+    "source": "山陽新聞",
     "time": "9:29",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TMzBlVWxNeFozV0liNXRVS3MzUHY2T0RvV0RzZlhuRW94bFloUW45eHNJSTQ0Yy1uNGJvNzF5V2tnWEh4Zk9pTWZIZEpNWjhsTzc4M3VsRWVlRnpwak9fbUdEWE5mRDR0U2xoMA?oc=5",
     "image": null
@@ -137,16 +197,6 @@
     "source": "Laodong.vn",
     "time": "9:22",
     "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczdfOF9HZVA0VXROcVQ5a0lFOThOdnl2cDVXZmFQeVhoOElOYnlzYnktS3AzVEk1ZDMtQ2FqS0tVUVZocU5YX1BDQjdIOTQ4cXQzOVl1VzFaUTI0YW5LTGlIc0d5Q1EtWkdVYmVGWXRfanE3OFZTcS0yZ216OGJIY3ozN3FZbEdnVXA5Rm54MlU3T2pTZDhhQ3JUNTZ5UTNrWWZ4SHQ0NmRLM0FDSmVTMHpGWUw4WnJHZ2FVb0VKUnhCNFBQODR1RW53?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6bec158cbcf6",
-    "title": "北海道更別村、北洋銀行、ステラーグリーンがカーボンニュートラルによる持続的な社会の実現に向けた連携協定を締結",
-    "category": "その他",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "9:15",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Xa0hyWDdMZENxdkxRT3FFREdFeDloaHhvM3BieWZrdUNEdW1iNGM3WXBDZVV4LXRwSFJmVW9YQkk4emxxSHJ1N0NPdV8wTUxhcC1VcXQ1MTJhSXBNYjAtakgyTTcwUXdwUGNv?oc=5",
     "image": null
   },
   {
@@ -163,8 +213,8 @@
     "id": "auto-55a67aed5713",
     "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL82号 愛知瀬戸 系統用蓄電池プロジェクト 完売』",
     "category": "その他",
-    "accent": true,
-    "source": "prtimes.jp",
+    "accent": false,
+    "source": "PR TIMES",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1teWZnS190anhaNnVmRW9RcEc2YzJWWXBMdlAxTlV2dVNCWFRoV3Z5WWZXbDM5TFRvOUNSQ3NWT3h3R3lURDVZMlhaLWxObUF3QW5lbXVBTlNhRWNyT3Qyb2tGZ3prS3p5a3c?oc=5",
     "image": null
@@ -173,7 +223,7 @@
     "id": "auto-17948e3852a3",
     "title": "水素燃料電池市場は2031年末に131億ドルに規模へ（BCC Research予測）",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ドリームニュース",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZUpOVGlFZ0RBRDY2dW5tVzJ0OVFRUFpmN0dLeEl0MFJlQThnUVZMX1Fvdkt2SUdQTk15bWZ4d0k2eU84UXRUM0N2dnVtNFFCNWpZ?oc=5",
@@ -187,6 +237,16 @@
     "source": "Vietnam.vn",
     "time": "8:47",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lRXhqSXlldndhOUlFcWRGRHFCazk2RHdlcERTeEE1cENxV2lad1FzSXVPUUxweVFpaGc4Q2I0YzZvV0xUQS0zM29OQlFHdFZyVEVvanFscWd0Y0hjU1B6LUZEcUt3bTRmWnNqVmd3dGRfbm5GcVM5WnJfMkFURU0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-182e513ab9c1",
+    "title": "北海道石狩市蓄電所が完成し、商業運転を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "8:45",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05d3AtaVJ4TkxuaUt6OVdiTHQ4eTJwLWVkR2gxMmxTMDV2ZTRkU29vYXVQR2E1Si1QOGZOVWpNNERXSlVzWjYxcThvcEFqbWlTOFgyOW9nTFFseWtRYzBhck42UlhwSjlYZ25iajR2SjN5SDFm?oc=5",
     "image": null
   },
   {
@@ -220,83 +280,23 @@
     "image": null
   },
   {
+    "id": "auto-6bec158cbcf6",
+    "title": "北海道更別村、北洋銀行、ステラーグリーンがカーボンニュートラルによる持続的な社会の実現に向けた連携協定を締結",
+    "category": "その他",
+    "accent": true,
+    "source": "Infoseek",
+    "time": "8:00",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cFpSM053M2NTeWphcGZoVmxfSldpeGpxbFJ2VWR5d2tLcnhGbVdmMWNSNWtkRHNfbGVWNEJEbk5zVWNOVzJtNERNc01MajhrZncxS1Q2VFg2ejlZUkx0cHdOY0R6LTlfY3lNek9KeWFSdw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-3f670fa636ec",
     "title": "【画像】太陽光発電に蓄電池をセット導入すると、費用回収まで何年かかるのか 1/2",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "7:54",
     "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VYlVFaVkwTzBwRVZPc3pTSmxRa0JWRllMbnN6bFVBb1pETFlHYk1MS282VDFXUE9fa1c0c0s4SG1YbktMbEp2aVpqY2NpQ1BlakpjNnM3UXpfMTFjZGUxMklqMk9UUElqdEZuVWhJakRKVFI1ak41bUF5Z2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fca0c9c09913",
-    "title": "日本製鉄のGXスチール、北九州市が河川改修に採用 公共工事の脱炭素化へ - kankyo-business.jp",
-    "category": "企業",
-    "accent": false,
-    "source": "検索: 企業の脱炭素・水素事業",
-    "time": "7:40",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CMTkwOHFlWTRrS2ZhbDhsSkpYWHVtSjZOMnBmbXBsOVhGR1VGdW90X3RKSlZWanV4bmh6eWpyZVpCa0VfQ0RtbzdvUTNyNC1QU0dud3FOTjRFRWZKYUhDU0hiN2RoZWR4b1NKM0pTb1RHWjFzU1FfZW5kdVg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c36aa372237c",
-    "title": "世界初のウインドチャレンジャー搭載LNG船を命名 ～Chevron向け新造船へ2基搭載、海運の脱炭素化を加速～",
-    "category": "国際",
-    "accent": false,
-    "source": "mol.co.jp",
-    "time": "7:34",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RUWFuWHNTOG9IS0wyWWlUY2d0bDZfby1IbzlFRWl6WnE1bzVyNFJjNE9UM2EtQlBvWWQ4MHVkY0JBV240d0VDd2FHd1gzaTNFT0E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-98a6a1e63f9b",
-    "title": "カ・マウ氏は、海洋経済と再生可能エネルギーの発展のための法的枠組みの改善を提案している。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "7:16",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1JvdDVCa1Vkc3ZkT3B4akx0dWdYOEJNRTV6SGdiWTJ6MTZva1JPNTA4eDNsTVVuemZwZFlVYlRSRml4TUhSLU8xWlM2ekdfYXJXbWF3NDBxbzJyZGg1VzFMZERFbzBRcVhsNkdmbEpSSm80ZmktbFpVaHV3T2lDWkQzTTZRYkw5WEpCWktOT1NqU0pXQ0pyZVQ2WWJLN2JyR2owQ1AyR29Qa29PM2liUld3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a70bc88fd428",
-    "title": "大型車で水素燃料実証…トヨタ、商用車大手スカニアと連携",
-    "category": "技術",
-    "accent": false,
-    "source": "newswitch.jp",
-    "time": "7:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2U080OVM3VTFIMjlaa25veURMc1FGTF9zNm5DTk1WWkhkby1jTVJoSzVXZDl3R2RBZkJMUDMyRGx5Zw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d4851ec874b5",
-    "title": "世界初の大型商船向け水素エンジンが完成、温室効果ガスを95％削減",
-    "category": "技術",
-    "accent": false,
-    "source": "ITmedia スマートジャパン",
-    "time": "7:00",
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/10/news043.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2609/10/cover_news043.jpg"
-  },
-  {
-    "id": "auto-182e513ab9c1",
-    "title": "北海道石狩市蓄電所が完成し、商業運転を開始",
-    "category": "その他",
-    "accent": true,
-    "source": "イザ！",
-    "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11VXRLUFdlTU1SR2VxNGhNVTNGU1lDeTFDQUtfUS0xRENDZldJckc3QnROdzd2d2YxblAySUVDT2R1RmpMX2huQlR4cEt1T0Z3NmZWWFRKVzlPMDVQdDFVQVFWd3o0OFpyM0p0NkxRbURQOUQ5aWp4OFNn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-927f5ad86e22",
-    "title": "芙蓉総合リース[8424]：北海道石狩市蓄電所が完成し、商業運転を開始 ～2050年カーボンニュートラルの実現に向けて～ 2026年9月10日(適時開示) ：日経会社情報DIGITAL",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM09sRU9PMjZJSklqNjFSeXR0TTQ0cXNWaUEzSFkzemJSN2FVcS1sREVYOWpSc0RyQm9vXzdEcTBfQU1fbFMzWEVsLVpxM1g5MWhjcXlab1JQMUdaSkY5ZGZjWmhEYU44bWVvNEFpekx5eEFzM0NDaFA5S0t4OTRicFR2eFRLYlMtMGNrWTI4TkpkX2M3QnVXVG1JMlE2VlFzQ3lqSVA5aXRZMDVKNVB2NFBBQ28xZ1NwbmlZNm5ZbS16V0NqX0NkN0ZJbkY?oc=5",
     "image": null
   }
 ]
