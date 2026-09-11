@@ -1,43 +1,103 @@
 [
   {
-    "id": "auto-ea0a38aa6530",
-    "title": "日本蓄電開発機構、埼玉県深谷市に「山河蓄電所」を開設 ― 着工から約4ヶ月で受電、国内5拠点目",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "0:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000173175.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/173175/10/173175-10-e63d3934b2321c7bc26a77cd3a9cbe4c-1504x704.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-42766af01e9e",
-    "title": "【新発売】100℃加熱×超音波冷却で“清潔な温ミスト”を。LAViNOから寝室に寄り添う新発想のハイブリッド加湿器「スチームノクターン」が9月1日より発売",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "0:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000084858.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/84858/43/84858-43-2235df8fe373b4a53539093d32b02cec-3000x2001.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-fb240dc6289b",
-    "title": "【新サービス】『お陽さまテックのえねこ』、東京都内の戸建住宅向け「停電時電力シミュレーションレポート」の提供を開始",
-    "category": "暮らし",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "0:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000049.000179001.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/179001/49/179001-49-f71bfa3a666250da0858993aa76f15d4-1198x674.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-d06c2175fc47",
     "title": "低濃度水素の多臓器保護 6 論文｜腎・肺・腸管・骨軟骨・新生児脳の虚血再灌流障害を横断軽減 MiZ・大阪大・京大・北里大ほか",
     "category": "技術",
     "accent": false,
     "source": "PR TIMES",
-    "time": "23:40",
+    "time": "5:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000094.000047753.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/47753/94/47753-94-7b4c316fad5922106ac75b51e52ad5d8-1280x720.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-63907f9c88d0",
+    "title": "24時間稼働する住宅設備の「隠れ電気代」を節約。業界No.1省エネ浄化槽「水創り王UX」で30年間に約22万円以上のコスト削減を実現",
+    "category": "暮らし",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "5:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000121.000031345.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/31345/121/31345-121-48ce0484a8dd21bea2d85dc22d8c50fe-1500x1000.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-c55426848ea4",
+    "title": "美容室発の水素ケアを、もっと日常へ。",
+    "category": "技術",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "4:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000082103.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/82103/11/82103-11-b3b0d316d8e4cef345eb97ae4a747f88-1567x1045.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-3173175345dd",
+    "title": "新製品 家庭用蓄電池 Powerwall 3からOptimusまで、SMART GRID EXPO【秋】2026 に展示",
+    "category": "暮らし",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "4:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000025.000043349.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/43349/25/43349-25-f148f90f7d03a6770396fc318d579736-3900x2925.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-6acffd298012",
+    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL86号 宮城栗原 系統連携蓄電池シリーズ１. 完売』",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "3:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000160.000136212.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/136212/160/136212-160-673a95d22d8d1447f5f69cf1175f7ae5-800x570.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-c301fd9cbdc2",
+    "title": "大手損害保険会社が太陽光発電の設備を幼稚園に寄贈 今回の設備の寄贈は青森県内では初めて 南部町（ＡＴＶ青森テレビ）",
+    "category": "その他",
+    "accent": false,
+    "source": "Yahoo!ニュース",
+    "time": "20:59",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbGg0b0VDVjNBX0xOYS1jZVlGZF80b0ZqSmx6czUzWVlFUW5WZXNCckE3dlR1R3ZXY0lqcmhIc2djUkdkaVJoWE5QM3haT1hmbXZjTTZGRFBGclVfWnk3aWxkNkQ5bWdsOUgxR1h5RkhWbDR5S1ZjTWRXVUFrcFk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5a06cbfe7cfc",
+    "title": "脱炭素人材を育成へ 自販連愛知県支部が研修会",
+    "category": "その他",
+    "accent": false,
+    "source": "中部経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sRXE5Nll5VTRkQXB4Y2JkdmJxNW1RRXlJU2lYQ0dxN0hwUTZJN3NNd2I4LXZNX3paYnJfWGxoRkxPVURxR0FxZjlBOU1YZmN6UE54bE83T1lZM2FycWdJWlFYMVFqRXNNcldLVV9uYVZaTlU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-603796a8050f",
+    "title": "秋田：ＧＸ戦略地域２類型認定 「ＤＣ集積」「脱炭素電源」 企業誘致に期待 ：地域ニュース",
+    "category": "自治体",
+    "accent": true,
+    "source": "読売新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CYk5nMkJyM1pyZzFPM3g0SjJCci1Qd1lfRFJOU0dVaXJVbVp1cy1EVHp3TmFvTjBvYTBzaUVITFJxQUJNQjl3NERPWTBWN21ERk5kRU1GMkNHVUNReGg2amhjU0xMQmtPTnpLSzhydWQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ea76f8a8a1ec",
+    "title": "人気アーティスト 出演続々 トマコマイ・ミライ・フェスト きょう開幕 脱炭素 楽しく学ぶ体験も",
+    "category": "その他",
+    "accent": false,
+    "source": "北海道新聞デジタル",
+    "time": "19:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqMDNfalB4eHV1M2p1em5yWWl3NDFPMkxHTXZQbURMSEgxRnNnNm1xNFZsYkRPU1lvM210Tk12WVZXOTZjeDVYT05VZi1QVUNlaVM1XzBqRTg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d1046091b024",
+    "title": "来春開校 江差の洋上風力人材育成施設 受講生 年間500人規模に 町、経済効果を期待",
+    "category": "その他",
+    "accent": false,
+    "source": "北海道新聞デジタル",
+    "time": "19:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42enEzYjBYUHlQOU1Gc2J6R3FWbTQ2NFZJaW9uVDVBNUdfNGNGSS01VmU2TVY2WHZQaWtoZDRvQlJFY3hBbEwzN01KZTMyaHRKUmEycTk1Y3pwZw?oc=5",
+    "image": null
   },
   {
     "id": "auto-bc413943498e",
@@ -54,7 +114,7 @@
     "title": "太陽光モジュール用クランプ市場、2035年までの成長予測：世界のPV導入がけん引 - ニュースと統計",
     "category": "国際",
     "accent": false,
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "time": "14:46",
     "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOME9naXBoNVRHaTB1VEoxcWZBakFkYWZIaXBqR1gtLS1CalJZMWJPaXBNcDl3LUNyUEptcVlCOTdTU3lTRTdZZlFJT2FWcEFmOXB3WmVtbHNnbUVzZFpxc3Nhc3N6SGhieVlCSEZNNFlERXl3c3R2c0lyX210LWwzLXZ2SXpjaUM1ZzVma2NJbXZWOTNNRExvT1BWSldiV1RRQ2JQTVRZaVZ3bjRucGFtVTh6Y0VOdw?oc=5",
     "image": null
@@ -80,6 +140,16 @@
     "image": null
   },
   {
+    "id": "auto-ff9c35f5aa05",
+    "title": "「GX戦略地域」にむつ小川原（六ケ所村）と金矢（六戸町）",
+    "category": "自治体",
+    "accent": false,
+    "source": "ｄメニューニュース",
+    "time": "14:10",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmh1MDBLSTZ4cGg0ZUk2dTIwMlE4NTV1QkpVNWt4UXBnUzZuTEozRDRHSU1zZkIwTWJ1by13am9iUzc3ZlNxa2JKSDdISS02WFRyTXhqNDJIVXVyakVaa0twbXJ0NVk0bWpSQUprWE1Yc1RVU25jMVdFN1MwZnpNadIBgAFBVV95cUxOQmh1MDBLSTZ4cGg0ZUk2dTIwMlE4NTV1QkpVNWt4UXBnUzZuTEozRDRHSU1zZkIwTWJ1by13am9iUzc3ZlNxa2JKSDdISS02WFRyTXhqNDJIVXVyakVaa0twbXJ0NVk0bWpSQUprWE1Yc1RVU25jMVdFN1MwZnpNaQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-ec34702b72ba",
     "title": "世界のクリーン水素への投資額は1300億ドルを超える。",
     "category": "技術",
@@ -90,21 +160,11 @@
     "image": null
   },
   {
-    "id": "auto-352140eadd7e",
-    "title": "【JPIセミナー】「宇宙太陽光発電の実用化に向けた国内外最新研究開発動向と残された課題及びビームフォーミング技術の最前",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "13:30",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RaFJYeW1pNy1XOGdhalBGUzNQYjEyeUFRTks1WXhlUDE3OXltNVJsYXJaNnJwaGRJSy1tSDRweVh4VHhOMk5kVnN1RWtxVENaUFVwRDYtalhiU0h4d3FfODhJdjluYXR3ZXhLYnlGdzJEX0h6OFljTVU4Yw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f122935d1420",
-    "title": "国内初※「水素エンジンハイブリッド車」公道での実証に参加｜モアナコースト - classy-online.jp",
+    "id": "auto-e1db854b5abb",
+    "title": "国内初※「水素エンジンハイブリッド車」公道での実証に参加｜モアナコースト",
     "category": "技術",
     "accent": true,
-    "source": "検索: 企業の脱炭素・水素事業",
+    "source": "CLASSY.[クラッシィ]",
     "time": "13:28",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xUlFsNDg4eVdXZDB6ZzlkMTVsN2NuUW9XR2lKS1RnS2ZVd3hadnh0X3ZHakJsakhOQmY3N0pjVHMyX28tNUdmVV96ejBxN0RqM0hVRHlaMA?oc=5",
     "image": null
@@ -120,23 +180,23 @@
     "image": null
   },
   {
-    "id": "auto-5598699f6bf6",
-    "title": "薩摩川内市が「GX戦略地域」認定 脱炭素の戦略拠点へ…350メガワット級ＡＩデータセンター計画に国が支援",
+    "id": "auto-45ab70a61c27",
+    "title": "【写真】薩摩川内市が「GX戦略地域」認定 脱炭素の戦略拠点へ…350メガワット級ＡＩデータセンター計画に国が支援",
     "category": "自治体",
     "accent": false,
     "source": "南日本新聞",
     "time": "12:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCMEx4cVBkd1NXVWwtNDZ5NnRkeHlodXEyUXBQVW43TXh5MnpPeDA5MjUxOGpxcVlPRU9XWlFsSkM3dE0tYkVlMTBqb0U1dmc5aXEtbENMWQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWU9wSDdCOE5Uay12aTctbWR6bElZN2UxdTROMlRaZlhwTDRnYlBreUp6dFVJVEp5Z3B3aUJJcERLZUFZU0NBbEx1UU5VSEZua2NZdGln?oc=5",
     "image": null
   },
   {
-    "id": "auto-45ab70a61c27",
-    "title": "【写真】薩摩川内市が「GX戦略地域」認定 脱炭素の戦略拠点へ…350メガワット級ＡＩデータセンター計画に国が支援",
+    "id": "auto-a48fdde0618c",
+    "title": "薩摩川内市がGX地域に 脱炭素の戦略拠点へ…350メガワット級ＡＩデータセンター計画を国が支援",
     "category": "自治体",
     "accent": true,
     "source": "南日本新聞",
     "time": "12:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWU9wSDdCOE5Uay12aTctbWR6bElZN2UxdTROMlRaZlhwTDRnYlBreUp6dFVJVEp5Z3B3aUJJcERLZUFZU0NBbEx1UU5VSEZua2NZdGln?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCMEx4cVBkd1NXVWwtNDZ5NnRkeHlodXEyUXBQVW43TXh5MnpPeDA5MjUxOGpxcVlPRU9XWlFsSkM3dE0tYkVlMTBqb0U1dmc5aXEtbENMWQ?oc=5",
     "image": null
   },
   {
@@ -150,20 +210,40 @@
     "image": null
   },
   {
+    "id": "auto-5a0e8a991d7d",
+    "title": "江差の洋上風力人材育成施設 受講生500人規模見通し 地元は経済効果期待",
+    "category": "その他",
+    "accent": false,
+    "source": "北海道新聞デジタル",
+    "time": "11:47",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVo1WG9BZjVubkJ1MUlNZ3BGOTJ0V3BISzZVVTl4NVo2U0JxODd2N1M4eEU0VGJ4YlBLaTB1WE5saVh0TTVFQ2NSVFV1aU5STVd0a2EtRnJfcXhjTWFNT080Zk5pazJNRUxuSkowSmRCbm1CR3FYWlRtZFZjYmt0aGo5eWszblFEVE1qbXBfV2QwUG1LdGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-283a2a047609",
+    "title": "国内初の水素発電所 2035年の運転開始を目指した事業計画 青森・六ヶ所村",
+    "category": "技術",
+    "accent": true,
+    "source": "ｄメニューニュース",
+    "time": "11:39",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTEN5MlcyaDBTU3YtcW1Bak9WM3JXWXpKY2E1bWs1NjhBRlpBbHRlaFBqaVNIbmhFeUxFd3dOb1I4ZnF1Ym9sUGF1QXRDNkFzS1lydHo1czJhVlNhbnBhbXNvSzhzM21taGJldUppUWUxQlA1Y3dmdEtac3ZDTWlRZNIBgAFBVV95cUxOTEN5MlcyaDBTU3YtcW1Bak9WM3JXWXpKY2E1bWs1NjhBRlpBbHRlaFBqaVNIbmhFeUxFd3dOb1I4ZnF1Ym9sUGF1QXRDNkFzS1lydHo1czJhVlNhbnBhbXNvSzhzM21taGJldUppUWUxQlA1Y3dmdEtac3ZDTWlRZA?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-ce4b4a2f9766",
     "title": "江差の北電洋上風力人材育成施設 受講生年500人規模に 町が見通し",
     "category": "その他",
     "accent": false,
     "source": "ｄメニューニュース",
     "time": "11:34",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFFxaVhmdnZNT2RLNUliT3ozaVZpb1RTT0F3SmtMeC1hUkVSc0ctZU1CTnlPSTBMdTZXbnFSZ2w1d0gzeVhnbEYwdDVYc0ZvREx0YjlieDUtU2U3Rjk0NjdsTm80QTlaZjJCc19qSUtzYlI5TGlZMkFDYXFqUk9teTJn0gGCAUFVX3lxTE5wUXFpWGZ2dk1PZEs1SWJPejNpVmlvVFNPQXdKa0x4LWFSRVJzRy1lTUJOeU9JMEx1NlducVJnbDV3SDN5WGdsRjB0NVhzRm9ETHRiOWJ4NS1TZTdGOTQ2N2xObzRBOVpmMkJzX2pJS3NiUjlMaVkyQUNhcWpST215Mmc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uVEFzRWtZci1kcXNzOGJDdjB0V1pCQUlPQnZVSlgxRHdWVFlTNzFwSXA0QjJZYWFHOHZtVlA4eWQxREphRzlDSmo4RTRqamt5eDN5RDA4bFhJTE5pSVBKRXdaY2NoY0lPb1NqdTdLRkltYkxuTTE0elJIZVHSAYIBQVVfeXFMTnBRcWlYZnZ2TU9kSzVJYk96M2lWaW9UU09Bd0prTHgtYVJFUnNHLWVNQk55T0kwTHU2V25xUmdsNXdIM3lYZ2xGMHQ1WHNGb0RMdGI5Yng1LVNlN0Y5NDY3bE5vNEE5WmYyQnNfaklLc2JSOUxpWTJBQ2FxalJPbXkyZw?oc=5",
     "image": null
   },
   {
     "id": "auto-2669efed1656",
     "title": "HIOKI、上田第二工場で太陽光発電設備の稼働を開始 持続可能社会に貢献",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "電波新聞デジタル",
     "time": "11:07",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BS1VDWDlWeElQNlpUalFTdWpOZzlnZ25GNllkTldpVWtaOG10eDZDVnJHYTN0NFN3SW04cFk0R0lQcHVHdFdBdGVaYjNYLVVRWlE?oc=5",
@@ -173,7 +253,7 @@
     "id": "auto-cb4c5915b4c5",
     "title": "北海道電力、すかいらーくHD向け再エネ供給開始 北広島に太陽光発電",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日本経済新聞",
     "time": "11:04",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiTUs5UElFaHJheG5mcDkxNWx0VlNBV25vUnRlcFpfU3lOeG9Kell6emRCUF93REVuOENDal9taDEtQ1JQUEFhdVRQR1VvdFJ5MmFwVl9veHdxRjQtc1hsVmIzN3RFSG1DUE5oOQ?oc=5",
@@ -184,7 +264,7 @@
     "title": "バッテリー用断熱ブランケット市場、系統規模蓄電の安全義務化で加速へ 2035年に向け予測は上振れ",
     "category": "その他",
     "accent": false,
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "time": "11:01",
     "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXVNaW12ZVo4NzVlZllsTHhmNUFwUG5RNzY0SVBiWktyd2c2VFk1am1lU0JFa3JHdVZSd0lwWFZ2SDMxSXhQSGZnSGNCeER2aHlENE96dGZuYTBDdENzQ2RkaGptSlJBZkZvSUNXY1lBX0EweGx4UzZoYVJ6OGxhNjlZZXdWbXZrTV9hQldVRG9OMDlPWFF0T1FuaXRqWUZzOEJmMlZmTlFBZjJ5VGhSVV9OSU1ITDRwV2pTMF9Ya2h5OFJHOVk0YUNnRVB5Y3IyN2FURlFpd1NPekgweDFhU0R6Y0xac1lkaWptcFlLd1VtY1NvRjlSWEZVUkM?oc=5",
     "image": null
@@ -193,7 +273,7 @@
     "id": "auto-3f6e8d2a1622",
     "title": "ジクシス辻本伊久治社長インタビュー―調達多様化、脱炭素を推進―LP需要創出にも注力",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ガスエネルギー新聞",
     "time": "11:00",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByc2VON1FYS29EZ0VZSlc2d0lpUmJvZWR1ZFFTakthb1FnTVVySFdJQ3J0aF9xVTNJYWxVdjZUZnh6ZkN5RXc0YXZmV29VSjNkcUp3S19zWUUwZw?oc=5",
@@ -203,100 +283,20 @@
     "id": "auto-f8c4a093ce17",
     "title": "安全保障上の重要性確認 水素閣僚会議で認識共有",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ガスエネルギー新聞",
     "time": "11:00",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tR0ljUEk3M05EOXlDRk9EeDdIQzR3d1ppYi1ldmU1ZGt5NF9NcHh0MVNaRUNYRDVkWTVTTFpGdTVCZEoyb1NudEpCM0U1MThQNzZF?oc=5",
     "image": null
   },
   {
-    "id": "auto-bfc0b16bcb24",
-    "title": "ＳＣＯＰＥ／洋上風力の公募制度見直し、遂行力・地域共生に重点 –",
-    "category": "自治体",
+    "id": "auto-6f0f5e3ca065",
+    "title": "JA、欧州各地で太陽光発電と蓄電を組み合わせた統合ソリューションを紹介すべく巡回",
+    "category": "国際",
     "accent": false,
-    "source": "電気新聞ウェブサイト",
-    "time": "10:48",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRjFuYnU4QUg1ZHd0YWdlb1pfQjJiVW9IWUc5b0t6MVFob1NPNFpSUmNTWEozVFhOd3dQa3ZEUm9ZUU82bC0wdFBNbFNTTmZrbi1YQk9NVQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e4b556eac776",
-    "title": "加見商事、3温度帯物流の脱炭素へ太陽光導入 - logi-today.com",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "time": "10:42",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzWVVUdUVzZE9tYlRHSHVRdjZsckNtWVM2bGN3S3NiWGRMc01LVGhMdzQ4NGxNdm1fWmM3T0J1dDJiS05Nb0ZaeQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3c1843a84226",
-    "title": "洋上風力発電機の基礎部分 “モノパイル” 笠岡市の工場から初出荷 オール国産で作る再生可能エネルギーの礎に【岡山】",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "10:08",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xWEVWTDdXR2ZDQ2pFeV82ME92Vkg4Z0VuQ0J3UUtsSUJ1MmJVb0NXdExHeW9uY09SSzdVcXNEd0V4OWVNaC1KaUpLRjl4WGQ1TVA0WkNVOG1kY09rOHdJ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4ea0d6fce093",
-    "title": "十六銀行、脱炭素の新ローンを契約 削減量に応じて金利引き下げ",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "10:04",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrczJWTjJYcXlINmxyX1Q3dThKNXNBQTNVZU9lZUdoVmZUR1JONlNKcmpOVEdKTVowWDROdlV5SmVWdGFONW1vY0VYZ01jSE1LMWk2dVRMNW5RR0NUY3NTWWFTcjkwXzlpUVRkMg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a0ab00cad3ff",
-    "title": "脱炭素型産業の集積を目指す「GX戦略地域」香川県の2市1町を認定（2026年9月11日掲載）｜RNC NEWS NNN",
-    "category": "自治体",
-    "accent": true,
-    "source": "日テレNEWS NNN",
-    "time": "9:55",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGNJR3g4Q2M4bTY4cU1XQUF5NmM4eExZRlpFVUdxdENpdk1DV1JxdDZGZzNpTVEzWHk1bVFhZjY5RGpvYzdYNE5zSmxjWjd0LWdUaFptdXQ5NFd6X1JiazliaTFWZHRqS3d0N2tvVC0xVThIMFdZX0Y0UWVyQm5UVG9XeEhJUWM?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-28ec6e0b37f0",
-    "title": "ウクライナ議会が再生可能エネルギー法案を採択、地域共同体の参加を拡大",
-    "category": "自治体",
-    "accent": false,
-    "source": "mezha.net",
-    "time": "9:38",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZNnFfa3JDX3ZXQTR5ZzdpLWlURF9XWURheG8zYWpzUElDT00tM0NFdkdqUm5ESXYxQ3RjOVBCMGE1dVFaakJENTZ4UFRIdnUtWGNfcWM3QndKYVJDSURkUnowWnJFNnBJ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ba9eb636ad25",
-    "title": "燃料電池試験装置の競争環境分析：シェア、市場拡大要因、年平均成長率26.1%見通し｜QYResearch",
-    "category": "技術",
-    "accent": false,
-    "source": "note",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81aVpoQ2VLNUsxX3NrLTczUWExcUwtQUpmd3JQM3dFMDNZNVdqOXViVjNtZlRGQ3FweFJaVXpfVjJjQ2ZycVB5Z1NKSldfbzdYR2p6Sm5mMA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6d740be1414d",
-    "title": "芙蓉総合リース---北海道石狩市蓄電所が完成、商業運転を開始 提供 Fisco - Investing.com",
-    "category": "その他",
-    "accent": true,
-    "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-    "time": "9:15",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdU1zYlEtRkVlX3FlbVZWN24za2l5NHl0NmRpZGtEblRaaTJybVN2THkxM0ktNHlxNTRULXpWUkFGNTcyODR4TF9QTG0tcFY0ZmttcVBCaTUwNXlkRDlHOUFoUk9peEZIbjFzVzliRzJEdlRlOUdtRTE5eGdnSi03Zg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7586691b7de5",
-    "title": "芙蓉総合リース—北海道石狩市蓄電所が完成、商業運転を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "まぐまぐ",
-    "time": "9:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tRDlZSllSREdqcENrTmFuODZvOXJabEhVX05USnRVMUotNldSZHFPazllc01SQ1ZqSzg4M2VTbEtvMlZQZ1VmVUZDWFFXWkhEb0HSAVJBVV95cUxObUQ5WUpZUkRHanBDa05hbjg2bzlyWmxIVV9OVEp0VTFKLTZXUmRxT2s5ZXNNUkNWaks4ODNlU2xLbzJWUGdVZlVGQ1hRV1pIRG9B?oc=5",
+    "source": "北海道新聞デジタル",
+    "time": "10:58",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1JkYjZUS0piUlpBWXpwU21OZ2x5SV82aWtoT1ZBb1o5QThBYTQ1NjZaY2h0TjR0SGtWT0dnLVBXUDdGSW9wd0hScFhxNElWVXg2TlF2R0xUdVhybU9lMGxyblJCWUc0dTJEM0E3RmNHUmN1ZTdOVjYwYUhqMGxVQzFYcjJtb1R5?oc=5",
     "image": null
   }
 ]
