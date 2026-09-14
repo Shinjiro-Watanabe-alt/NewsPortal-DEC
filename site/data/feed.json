@@ -1,23 +1,63 @@
 [
   {
+    "id": "auto-72cf7b804a96",
+    "title": "社会人向けGX人材育成プログラム「GXプロフェッショナル＋Rプログラム」開講",
+    "category": "自治体",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000022771.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/22771/35/22771-35-af84808caa3b67ade77b3e2a051c53f7-1280x720.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-6b24839edf46",
     "title": "電力市場価格に連動した蓄電池の自動充放電制御技術に関する特許を取得",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "0:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000230.000033609.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/33609/230/33609-230-ebef427bf7414ddfe2a63fa1af2a8eba-840x150.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-c55426848ea4",
-    "title": "美容室発の水素ケアを、もっと日常へ。",
-    "category": "技術",
+    "id": "auto-a9be5eab4974",
+    "title": "【導入事例】JCOM株式会社｜再生可能エネルギー調達・TCFD/TNFD情報開示（GXコンシェルジュ）",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "18:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xTm95OXdQLTBHb05QVlhmMFpqamJxczVvbTFfajd0em5SX2JubGJtUDQ1NDFLM2FYNzQ2TGJxc0IzRWNXMVV1SEUwX284WTRBU1lzc1RTTVFZeHNoOVByeDRwS2dERk9vdzZkdTBKMm9rNUxTQnc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e67d34eb05c8",
+    "title": "系統用蓄電池の心臓部、「リチウムイオン電池」の仕組みとコスト構造とは――部品はわずか3つ、性能とコストを左右する材料の",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "18:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wXzVnb2Vta2JMNm1LbWNCRHEwOXNhZXdETVVDSmw1Y1QyMG0yMVhtX3YwTzVMRG9SN0hHcUQxRlMxWEgtbld2SU4zb1ZhYmZ6SGhNTTROLTZlWEMyWG4xQm4xZkZUUzg5NWk4WFE5WnZWbi1YZXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-26cdd02b3320",
+    "title": "グラファイト強化接地コンパウンド市場2035年予測：再生可能エネルギー統合がCAGR7～9％を牽引",
+    "category": "その他",
     "accent": true,
-    "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000082103.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/82103/11/82103-11-b3b0d316d8e4cef345eb97ae4a747f88-1567x1045.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "IndexBox",
+    "time": "16:36",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDgzT3piclBxZFNlZ1djeUowQ19rNEN3UFhNbzFyMFJhbWtBMThOaXl4ZE9CWUtGcUdEVkY4dVhOMl9TTVE0dDNNY0FvenUxWjNxV1U2SW5MdUFIaW5iSkt1eU1DSTJNYVJLQ0tXVDZ2bDZzd0tzR1FXbGtWS1VTeno4MmxtbTZsTk1MTk1MQ2xUbUVRMWtfMWVGRmJtczV2SXJEblB5Y3NjT3J3MndjcW1aNHR0bkh1UmFFNHFGakZHTENIOFdrTXRfTlEtQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8b35ebbce752",
+    "title": "リヤド・セメント、サマナ・エナジーと25年間の太陽光発電契約を締結、デジタルトランスフォーメーション案件も - ニュースと統計",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "15:51",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlE3akdJOE1qQVNtM2tNaDljYmd1TER1ZHp3VkJDS3ZTcFlxcU9WU1U3eDVTczhER1ZkY2djeTQwWjNXc3pGYlJmZU5RRVlVd3J0OTlueGZXMmMxX0Q3MldKSmpsWmZGeTdQcGdEWmxqTXJ4WUczbFU3TmxvTWI4a0FuUFFPc0JQTFl0X3VHekdTVGQyZl9IeW1OTVBOXzBhT0dmdXd1Vl9XQXRfU0k0NzJjRlFyN3RSMWhJOGNoazNlSm9VdTFfTWRzdUtPWGRNVnc?oc=5",
+    "image": null
   },
   {
     "id": "auto-29fa4170aac8",
@@ -27,6 +67,16 @@
     "source": "検索: 洋上風力・太陽光",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWDBnaDJNb0FaWHU4cUtaZ2JqRHRCaVM0TmwzdGVPOUZuNlhZMXR0RUpFR3hXcTk2YjA1RjYzYnJ0Znd4X3NSd2dZNG1ab1ZPWFh6VEhrbDhMZVd0T2w2NQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f83ecf8851b3",
+    "title": "米国の太陽光発電価格はガロン当たり6.23ドルの記録を打ち立て、世界的な石油価格は上昇を続けている",
+    "category": "国際",
+    "accent": true,
+    "source": "VOI.ID",
+    "time": "14:54",
+    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPUUR5anl1N0Q3YjZiQmhXQzVhQUt1ZHJOeFBLLXpiWXpYdFJtaEVCTFJJRl9SNGJuQkMxTzlnUWlFQdIBQkFVX3lxTFBPUUR5anl1N0Q3YjZiQmhXQzVhQUt1ZHJOeFBLLXpiWXpYdFJtaEVCTFJJRl9SNGJuQkMxTzlnUWlFQQ?oc=5",
     "image": null
   },
   {
@@ -43,40 +93,20 @@
     "id": "auto-408a38008b26",
     "title": "のぞみエナジー、大分県臼杵市における196MWh規模の蓄電池プロジェクトファイナンシャル・クローズを達成",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "14:18",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yWGlpSU5ldmU0RGNxT0U0NGxnbkk5SUtHNWRDSFlKa2t4b3dXTlRJOTk0S25OWG15MFNjUFNsT0xVWkdsb1RoQkVKalA4NjlZREtDNjlveXk1OE9ndV94d3VPQ0h4dnBjQk5ndEdOZXdaUVBCbHBPcUZrbw?oc=5",
     "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   {
-    "id": "auto-068f3f526bbd",
-    "title": "トヨタ 水素ファクトリープレジデント 山形光正氏、「ハイラックスFCEV」でのダカール挑戦の意義を語る",
-    "category": "技術",
-    "accent": false,
-    "source": "car.watch.impress.co.jp",
-    "time": "12:56",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wamduWHMtaUN4Mk50R2JNUG1jT3M3bXRrb3o2S0t4VzlLbk1adFVoOVZJaW14akNlTmptWDdldkRSSnB6TW80R0hBYldDbXQwcGNQVVlRaXZWbHBsZUhIX0plb0NTbE41Y3JWVkxfNXJqSGNFcmZxTnVmZXJjUQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-0eae695c23db",
     "title": "進む人材育成「洋上風力発電作業員の実践的な訓練に」洋上風力アクセス船起工式《長崎》",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日テレNEWS NNN",
     "time": "11:40",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlZ5SHdMMi1uUU1fWklBanY3TGczX0Z2NWRKWmpsamhxQ2Vud01ZcHpVNkxlQkNIcFhnaEszVkp6QVhObG12ckt5VnpvWlJuYlFibVh3LWtGVDJBQkc3UWtrd1diaGkyVXlWZ3lEUDg2UGxvaDhTS2hCR2lsb1RISlNpWHNJb28?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-510c11b8262c",
-    "title": "系統用蓄電池の心臓部、「リチウムイオン電池」の仕組みとコスト構造とは――部品はわずか3つ、性能とコストを左右する材料の本質を解説 ウェビナーを開催 - tv-tokyo.co.jp",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 再生可能エネルギー",
-    "time": "11:28",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Yb0xCeF8wYTFvblotVjZHMldkbldVbF8zSVV3MzNDb2lGU202R1l3TFhLenJVaHliOGVUSl9rRTc4bG5oazBmWEotZlJWVTl0Rmd3OVBmY1RJeWhUZ1dVeEk4TWlLRWRTcjNBdTd3?oc=5",
     "image": null
   },
   {
@@ -110,6 +140,16 @@
     "image": null
   },
   {
+    "id": "auto-068f3f526bbd",
+    "title": "トヨタ 水素ファクトリープレジデント 山形光正氏、「ハイラックスFCEV」でのダカール挑戦の意義を語る",
+    "category": "技術",
+    "accent": false,
+    "source": "Car Watch",
+    "time": "11:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaTdicWxhY2lJVEoyMVctTlVGYU9NZmtHMzJvanUyQ0VSNUFQMVRMLUZGaW9VQjBPZGFkZDdGOWZyVl9oR3M2akw3a3JQVHhJV3A5Y01aS2RBejFReFhSZ0M4UmY?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-27de6025d36e",
     "title": "Vroon Offshore Services、ScottishPowerとの契約で洋上風力分野初の長期ERRV用船契約を獲得",
     "category": "その他",
@@ -123,7 +163,7 @@
     "id": "auto-2e8e8f579461",
     "title": "洋上風力発電事業の再公募めぐり 鈴木知事「『早期に必ず実施する』との発言を得た」先月面会の赤澤経済産業大臣の発言明らかに 事業完遂へ引き続き国に強く働きかける方針を示す 秋田 (2026年9月14日掲載)",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ライブドアニュース",
     "time": "10:59",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6NlF0bTZGUlo2czZzbEppdjktQi1yejBBcW9yYk1XbFh1dHA4WURlOWhCbDFsZnF3RTFoS2JGcndnNk5PdV9aeG9Ya1F3aEY1eFlOeEJPSkc0Q29fOXc?oc=5",
@@ -133,7 +173,7 @@
     "id": "auto-a8bae311f532",
     "title": "トランプ政権が洋上風力計画を中止、RWEに12億ドルを支払いガス事業へ転換",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Межа. Новини України.",
     "time": "10:55",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zY0FDNUZuamx5enZBZHZsdDROUkl0S0FPVHBmZ3JIOERzclU3dk0yMFlNQmhPZ01veDlOT2NtLUhscExFQU4wNnl4aVhYSUJncWowVXk2alVEa1RZYnFaZnYza0s2UThCNWJhb0Rn?oc=5",
@@ -150,11 +190,11 @@
     "image": null
   },
   {
-    "id": "auto-0e514e0bc968",
-    "title": "横河電機、川崎重工から液化水素運搬船・水素燃料船向け制御システムを受注 脱炭素化を後押し - dempa-digital.com",
+    "id": "auto-9a9f34116978",
+    "title": "横河電機、川崎重工から液化水素運搬船・水素燃料船向け制御システムを受注 脱炭素化を後押し",
     "category": "技術",
-    "accent": false,
-    "source": "検索: 水素・燃料電池",
+    "accent": true,
+    "source": "電波新聞デジタル",
     "time": "10:44",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WWFByRGw4QkQ3VENDQmRrNHRJX212aDdvVkd5M3F3dzZMYUFpamJteVZWUHFwT0JvUXBVQ1cwai1ZV196bkxCYlRsazBRT2ttOUE?oc=5",
     "image": null
@@ -163,7 +203,7 @@
     "id": "auto-591a86628db0",
     "title": "トヨタ、ピックアップトラック「ハイラックス」水素燃料電池車を２８年に市場投入…欧州などで販売",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ｄメニューニュース",
     "time": "10:36",
     "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenlPcG1FNnNaZEVKWTNuRXZ0NE9CcTdGRXNWbzdWUjVvOGdHLWNmeDY2ZUdOMWg4aUlUZVhIVXFrbTRJbi0yQkxNSkEtYVBGTVk5T0RnaDkxbFdaVmhwR3Z0VHVyeEFGcTB0cTZKX1RZbXJjMUtKUF81YkVTQnJuQnFJUHBmRUk5OElPbdIBjAFBVV95cUxOenlPcG1FNnNaZEVKWTNuRXZ0NE9CcTdGRXNWbzdWUjVvOGdHLWNmeDY2ZUdOMWg4aUlUZVhIVXFrbTRJbi0yQkxNSkEtYVBGTVk5T0RnaDkxbFdaVmhwR3Z0VHVyeEFGcTB0cTZKX1RZbXJjMUtKUF81YkVTQnJuQnFJUHBmRUk5OElPbQ?oc=5",
@@ -183,7 +223,7 @@
     "id": "auto-1870f5eeffa2",
     "title": "洋上風力作業員を運ぶ船「CTV」が佐世保で起工 長崎県内初建造で2027年秋に訓練開始へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "TBS NEWS DIG",
     "time": "10:22",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcnhXQ0JrTklVVUVxTGZtd0ZUS1pnam5JeHA3Y1dnZS11YXBNel82SlNxdGNfdVp2SnBJYjJfRHBxUWxFMlBOb2xfcWxQSFp4a0QyRFFENXkxZw?oc=5",
@@ -193,20 +233,10 @@
     "id": "auto-a7edb6521725",
     "title": "氷見市の太陽光発電所から盗まれた銅線1.1トンを118万円で譲り受けたか 中国籍男女2人を逮捕 富山",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "TBS NEWS DIG",
     "time": "10:20",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80UVdubGdvWkI2VG01Y3BOQ1JnaEt6Y2tsbmI2MW5TQ2Flb05QbE5reWo4eXFNZDU0SHpZV3AtczFFc1dEVW45NTVRR3k5WmJjUHEtNTZ6dHM3a1didU45VUpUVDI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a9be5eab4974",
-    "title": "【導入事例】JCOM株式会社｜再生可能エネルギー調達・TCFD/TNFD情報開示（GXコンシェルジュ）",
-    "category": "その他",
-    "accent": false,
-    "source": "news.infoseek.co.jp",
-    "time": "10:15",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpdG5Xc29Qai10bTV3ZFR2RlJ1b2FITEVTSFVGYjFGdFlhZWpMUEYxaVgwRzNYYlZkMk83QzZuOVJ0WHRXUnFoQXlpOWZkUXpEeFUtR2RBVDM4bFNlcW8wWERneW80MXZYTEE5R0tVSmstZw?oc=5",
     "image": null
   },
   {
@@ -224,7 +254,7 @@
     "title": "ジャパン フォーカス：熊本県の食品表示規制猶予、キリンの脱炭素化コスト、ROKU〈六〉の夏物語",
     "category": "その他",
     "accent": true,
-    "source": "FoodNavigator.com",
+    "source": "foodnavigator.com",
     "time": "10:12",
     "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjlET1VvaXdGbkxXQndCZk1sMVMwTVh6eDdUVl9TRnd0UGJXVVYwdWhLQmd1SW0wQmU4Yzcycjk5eGRuRjRaejZuYkJTREhsU010OVgwZlhnVlllSjNhMlRSWDVkU01aNmZsdGQzd0RURk9LV1BmaGNmOUtBQThlUy13?oc=5",
     "image": null
@@ -264,39 +294,9 @@
     "title": "系統用蓄電池の心臓部、「リチウムイオン電池」の仕組みとコスト構造とは――部品はわずか3つ、性能とコストを左右する材料の本質を解説 ウェビナーを開催",
     "category": "その他",
     "accent": false,
-    "source": "prtimes.jp",
+    "source": "PR TIMES",
     "time": "9:36",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eHYxLWJYa0czWjhDRHRndUNwTldYX2xIdlh0cjlhRnEtcFFMY3paYW5oVXVQN19ycHR6UlFiRnJuaHRkTHdOU3YyczMxeGNYWTI0TGExaGNIOUZLMTdQNW5tNzFTVWVONWc?oc=5",
     "image": null
-  },
-  {
-    "id": "auto-eb5c9ff5108d",
-    "title": "なぜ今「系統用蓄電池」が注目されているのか――制度・市場・再エネ拡大が生んだ新しい電力インフラ ウェビナーを開催",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "9:28",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zcHRoSkhDdFl1eXdhNW15UnV5Vm5GS2xLYjlybFpWbDdDSERyeXRmRl9VNjRsR2NwRnEyRENwdU5SYjVhckRfUFJ0WE1QQlF4ZjdRRUlJR0Z6OUNjbW9oZUh3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-24daf3a716dd",
-    "title": "トヨタ、燃料電池車「ハイラックスFCEV」でダカールラリーに挑戦することを発表 市販版は2028年の市場投入を予定",
-    "category": "技術",
-    "accent": true,
-    "source": "car.watch.impress.co.jp",
-    "time": "9:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRU52enBadmhwMEFZeDI3cF9ZOHV1YlpSX3QxV1NEalc1b0dqam9pVi1zRDNKYU44clVhT1F2VnVvR1lKaTMzelN4TEN1OW5CUTRURWJCbkhMLS0xR1JaZld0enA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ba46b5c8d85d",
-    "title": "サバがマグロを生む - 翡翠輝子の招福日記",
-    "category": "技術",
-    "accent": false,
-    "source": "はてなブックマーク",
-    "time": "9:11",
-    "source_url": "https://bob0524.hatenablog.com/entry/2026/09/14/082437",
-    "image": "https://cdn.image.st-hatena.com/image/scale/a8bdc6ee168c8f7b43319d3827f99a0f9cf41dd8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbob0524%2F20260912%2F20260912191501.jpg"
   }
 ]
