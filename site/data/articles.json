@@ -1,23 +1,4 @@
 {
-  "auto-72cf7b804a96": {
-    "id": "auto-72cf7b804a96",
-    "category": "自治体",
-    "title": "社会人向けGX人材育成プログラム「GXプロフェッショナル＋Rプログラム」開講",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000022771.html",
-    "time": "9/14(月) 15:40",
-    "comments": 0,
-    "tags": [
-      "GX"
-    ],
-    "summary": "[立命館大学] 立命館大学（所在地：京都市中京区、学長：仲谷善雄）は、文部科学省が実施する「産学連携リ・スキリング・エコシステム構築事業」に2年連続で採択されました。これを受け、2026年9月15日より「GXプロフェッシ...",
-    "body": [
-      "[立命館大学] 立命館大学（所在地：京都市中京区、学長：仲谷善雄）は、文部科学省が実施する「産学連携リ・スキリング・エコシステム構築事業」に2年連続で採択されました。これを受け、2026年9月15日より「GXプロフェッシ..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/22771/35/22771-35-af84808caa3b67ade77b3e2a051c53f7-1280x720.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
   "auto-2b76459a5e0d": {
     "id": "auto-2b76459a5e0d",
     "category": "企業",
@@ -56,26 +37,64 @@
     "collected": true,
     "image": "https://prcdn.freetls.fastly.net/release_image/79445/767/79445-767-a8577de7f496ebbc4918ccbc72c9e124-205x153.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
-  "auto-408a38008b26": {
-    "id": "auto-408a38008b26",
-    "category": "企業",
-    "title": "のぞみエナジー、大分県臼杵市における196MWh規模の蓄電池プロジェクトファイナンシャル・クローズを達成",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000190411.html",
-    "time": "9/14(月) 15:40",
+  "auto-002ee3bf752b": {
+    "id": "auto-002ee3bf752b",
+    "category": "国際",
+    "title": "送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は",
+    "source": "はてなブックマーク",
+    "source_url": "https://www.technologyreview.jp/s/390500/can-the-us-battery-market-untangle-from-china/",
+    "time": "9/14(月) 11:27",
     "comments": 0,
     "tags": [
       "蓄電池",
-      "太陽光",
-      "風力"
+      "蓄電"
     ],
-    "summary": "[のぞみエナジー株式会社] - のぞみエナジーは、50MW/196MWh規模の蓄電池エネルギー貯蔵システムプロジェクトのファイナンシャル・クローズを達成- 2027年までに太陽光、陸上風力、蓄電池を合わせた1.1GWのポートフォリオを目指すのぞ...",
+    "summary": "トランプ政権は8月下旬、国家非常事態を宣言する大統領令で、中国製バッテリーを送電網規模の蓄電システムに使うことを事実上禁じた。だが現在、こうした施設のほとんどは中国製セルを使っている。国内生産が需要を満たすのは2030年代後半になる可能性もある。 by Casey Crownha…",
     "body": [
-      "[のぞみエナジー株式会社] - のぞみエナジーは、50MW/196MWh規模の蓄電池エネルギー貯蔵システムプロジェクトのファイナンシャル・クローズを達成- 2027年までに太陽光、陸上風力、蓄電池を合わせた1.1GWのポートフォリオを目指すのぞ..."
+      "トランプ政権は8月下旬、国家非常事態を宣言する大統領令で、中国製バッテリーを送電網規模の蓄電システムに使うことを事実上禁じた。だが現在、こうした施設のほとんどは中国製セルを使っている。国内生産が需要を満たすのは2030年代後半になる可能性もある。 by Casey Crownhart2026.09.14 2 この記事の3つのポイント ..."
     ],
     "related": [],
     "collected": true,
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "image": null
+  },
+  "auto-eb5c9ff5108d": {
+    "id": "auto-eb5c9ff5108d",
+    "category": "その他",
+    "title": "なぜ今「系統用蓄電池」が注目されているのか――制度・市場・再エネ拡大が生んだ新しい電力インフラ ウェビナーを開催",
+    "source": "prtimes.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJTkp0VWJ2bWRWWWJNTmZxSkNXTWZXRkJMT0JxZWhINE45WDJQWXFWaU53TEF4c3VBNmozazgyOVhEc1lNRnJESDFfaFBORDBmcEhaZzcyZHpMc1ZoczZjTFVWM0RpYkVVUFE?oc=5",
+    "time": "9/14(月) 9:28",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "再エネ"
+    ],
+    "summary": "なぜ今「系統用蓄電池」が注目されているのか――制度・市場・再エネ拡大が生んだ新しい電力インフラ ウェビナーを開催&nbsp;&nbsp;prtimes.jp",
+    "body": [
+      "なぜ今「系統用蓄電池」が注目されているのか――制度・市場・再エネ拡大が生んだ新しい電力インフラ ウェビナーを開催&nbsp;&nbsp;prtimes.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-24daf3a716dd": {
+    "id": "auto-24daf3a716dd",
+    "category": "技術",
+    "title": "トヨタ、燃料電池車「ハイラックスFCEV」でダカールラリーに挑戦することを発表 市販版は2028年の市場投入を予定（Car Watch）",
+    "source": "news.yahoo.co.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdmVHZFAybmxOT1RfdWFFaHNCQUhHNVkwTnZIMl80WEZRSTQxMDRPQlIyeWJMczdoUlU3N0J0Z0hNWnhJZnV4eEVWbXdhZXhBbThQSmNKZTBuYjBqYkROWldha0M2OGhNSzBCeTBtYTFvaHJnT1hYMXJGbWpqZ0U?oc=5",
+    "time": "9/14(月) 9:19",
+    "comments": 0,
+    "tags": [
+      "燃料電池"
+    ],
+    "summary": "トヨタ、燃料電池車「ハイラックスFCEV」でダカールラリーに挑戦することを発表 市販版は2028年の市場投入を予定（Car Watch）&nbsp;&nbsp;news.yahoo.co.jp",
+    "body": [
+      "トヨタ、燃料電池車「ハイラックスFCEV」でダカールラリーに挑戦することを発表 市販版は2028年の市場投入を予定（Car Watch）&nbsp;&nbsp;news.yahoo.co.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
   },
   "auto-ba46b5c8d85d": {
     "id": "auto-ba46b5c8d85d",
@@ -97,6 +116,200 @@
     "collected": true,
     "image": "https://cdn.image.st-hatena.com/image/scale/a8bdc6ee168c8f7b43319d3827f99a0f9cf41dd8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbob0524%2F20260912%2F20260912191501.jpg"
   },
+  "auto-2e8e8f579461": {
+    "id": "auto-2e8e8f579461",
+    "category": "その他",
+    "title": "洋上風力発電事業の再公募めぐり 鈴木知事「『早期に必ず実施する』との発言を得た」先月面会の赤澤経済産業大臣の発言明らかに 事業完遂へ引き続き国に強く働きかける方針を示す 秋田",
+    "source": "news.ntv.co.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWVvOUh2cUQ5Y0pnYnBSei13WXhob2d4cWRqRTJ2MHE3TDBITXM2Z01DcURZZndXRmJyX1RtcHBGOEl2WnFEYXFYa0ZTT2E4MHVTMnpqOV93MFAyY2MtdkVRX3I5WldpQ1EyZDhrb3lKTHFIbTVvMlc1aTk5emVpX3c3dG5vWlk?oc=5",
+    "time": "9/14(月) 9:03",
+    "comments": 0,
+    "tags": [
+      "洋上風力"
+    ],
+    "summary": "洋上風力発電事業の再公募めぐり 鈴木知事「『早期に必ず実施する』との発言を得た」先月面会の赤澤経済産業大臣の発言明らかに 事業完遂へ引き続き国に強く働きかける方針を示す 秋田&nbsp;&nbsp;news.ntv.co.jp",
+    "body": [
+      "洋上風力発電事業の再公募めぐり 鈴木知事「『早期に必ず実施する』との発言を得た」先月面会の赤澤経済産業大臣の発言明らかに 事業完遂へ引き続き国に強く働きかける方針を示す 秋田&nbsp;&nbsp;news.ntv.co.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-3a2852982584": {
+    "id": "auto-3a2852982584",
+    "category": "暮らし",
+    "title": "調査レポート：子育て世帯における「脱炭素住宅・モビリティ商材」実態調査2026（太陽光発電・蓄電池・EV住宅・EV）（株式会社コズレ）",
+    "source": "Excite エキサイト",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSDNLSHdlWXpVek00NkEySFVUdldBUW1ZeTBndlBtcU4yR3prUUIwMzY2Mzk1LUJBWVRaaGdfbVlHS25JeE51VG5sN0I3MDUxa1BlN2hnUXpKYmtCa05jSGJvMF9rUjR0Wmc?oc=5",
+    "time": "9/14(月) 9:00",
+    "comments": 0,
+    "tags": [
+      "脱炭素",
+      "太陽光",
+      "蓄電池",
+      "EV"
+    ],
+    "summary": "調査レポート：子育て世帯における「脱炭素住宅・モビリティ商材」実態調査2026（太陽光発電・蓄電池・EV住宅・EV）（株式会社コズレ）&nbsp;&nbsp;Excite エキサイト",
+    "body": [
+      "調査レポート：子育て世帯における「脱炭素住宅・モビリティ商材」実態調査2026（太陽光発電・蓄電池・EV住宅・EV）（株式会社コズレ）&nbsp;&nbsp;Excite エキサイト"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-e6b0cfe11d0e": {
+    "id": "auto-e6b0cfe11d0e",
+    "category": "その他",
+    "title": "太陽光パネル等補助金の受付を再開します！～電気代とCO2の削減、始めませんか？～",
+    "source": "イザ！",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRGgtMEZuOWxET3BqQTVMR3VTMDM2azZCMGpoMXh6S29XbE9rLUhncnY4U1pUSmNMLTI2a1R1d25OZ0FKYnFILVp0b0lPVGhRN3VsU3ZncXFCektaYWdMRFg2VVdSVTJxLUc4TVAwSm5mek1WUzRuWmVB?oc=5",
+    "time": "9/14(月) 8:37",
+    "comments": 0,
+    "tags": [
+      "太陽光",
+      "CO2"
+    ],
+    "summary": "太陽光パネル等補助金の受付を再開します！～電気代とCO2の削減、始めませんか？～&nbsp;&nbsp;イザ！",
+    "body": [
+      "太陽光パネル等補助金の受付を再開します！～電気代とCO2の削減、始めませんか？～&nbsp;&nbsp;イザ！"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-9810cd14f2c2": {
+    "id": "auto-9810cd14f2c2",
+    "category": "国際",
+    "title": "洋上風力タービン市場 - 世界予測、2026年～2032年",
+    "source": "アットプレス",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TVFBKdHRUNTRNTFpzOHc0WmRQdTZHNEF6ckE5RlM0OE9UXzcteHdHUVY2Q1JiOVdjQUpQajJpT2YySTYyS3k5eXpZanFfUQ?oc=5",
+    "time": "9/14(月) 8:18",
+    "comments": 0,
+    "tags": [
+      "洋上風力"
+    ],
+    "summary": "洋上風力タービン市場 - 世界予測、2026年～2032年&nbsp;&nbsp;アットプレス",
+    "body": [
+      "洋上風力タービン市場 - 世界予測、2026年～2032年&nbsp;&nbsp;アットプレス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-43994c7ced70": {
+    "id": "auto-43994c7ced70",
+    "category": "その他",
+    "title": "環境省／自然冷媒機器の導入に補助金、冷凍冷蔵の脱フロン・脱炭素化へ",
+    "source": "物流ニュースのLNEWS",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVDRTOUh3WTFZQ3l1UDE2a25HbmhoTWdmVVVRc2NvWV95M1VhbzQ2NUVodF9sNTFLQ3lfX1FrWVVzUUZGbDk2MHAtU201Z2hsUXJVcw?oc=5",
+    "time": "9/14(月) 7:54",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "環境省／自然冷媒機器の導入に補助金、冷凍冷蔵の脱フロン・脱炭素化へ&nbsp;&nbsp;物流ニュースのLNEWS",
+    "body": [
+      "環境省／自然冷媒機器の導入に補助金、冷凍冷蔵の脱フロン・脱炭素化へ&nbsp;&nbsp;物流ニュースのLNEWS"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-53583bc74947": {
+    "id": "auto-53583bc74947",
+    "category": "国際",
+    "title": "豊田織機、再生炭素材製プロペラを開発 世界初技術で脱炭素貢献",
+    "source": "日本経済新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKeFgxLXk0Slc4aWM0cl9WSGFadEZJN3ZDenlTWXRNTl9kSlA5eGpiRTdCSl9MYWl6MS1jUjNhLThlX0NnSGlIQWVLelI1RjgwbG5TSWVGN1BOX0o4SUlUa2ZpNmctUG5KZFc1RA?oc=5",
+    "time": "9/14(月) 7:52",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "豊田織機、再生炭素材製プロペラを開発 世界初技術で脱炭素貢献&nbsp;&nbsp;日本経済新聞",
+    "body": [
+      "豊田織機、再生炭素材製プロペラを開発 世界初技術で脱炭素貢献&nbsp;&nbsp;日本経済新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-7cfd9dbcd98f": {
+    "id": "auto-7cfd9dbcd98f",
+    "category": "その他",
+    "title": "名古屋商工会議所主催のグリーンテックマッチング2026でカーボンニュートラル実現を目指すイノベーション",
+    "source": "ニュースメディアVOIX",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HSDBMdmQtVERQRmhYbVY1OW90c3RyWi1acjZhWWdtSVFSUWp3YWdUY1ZvRWZZZDAtdXdYT2FDMWloMS1iaXdaT0ptdHdEMXRlS2tFMDFkRFZrRW53R1ZKRWhPSXV6LUU?oc=5",
+    "time": "9/14(月) 7:43",
+    "comments": 0,
+    "tags": [
+      "カーボン"
+    ],
+    "summary": "名古屋商工会議所主催のグリーンテックマッチング2026でカーボンニュートラル実現を目指すイノベーション&nbsp;&nbsp;ニュースメディアVOIX",
+    "body": [
+      "名古屋商工会議所主催のグリーンテックマッチング2026でカーボンニュートラル実現を目指すイノベーション&nbsp;&nbsp;ニュースメディアVOIX"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-69fddf5e6607": {
+    "id": "auto-69fddf5e6607",
+    "category": "その他",
+    "title": "銅線売却時に偽名、ベトナム籍の男を４度目逮捕 容疑で６県警、三重の太陽光発電施設から窃取",
+    "source": "福井新聞社",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oWF9BVWlIc0hwWWVuZ0dMcEdaLVJySlR4WTlLVUlOQy1UUHNhRXlQUDllSG94MDhYU3QwMV9zTktIaXdHLU9LNEM5RU5uNVYtVlJLQ0JNVXUtSnluemlOSkpOTEI?oc=5",
+    "time": "9/14(月) 7:07",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "銅線売却時に偽名、ベトナム籍の男を４度目逮捕 容疑で６県警、三重の太陽光発電施設から窃取&nbsp;&nbsp;福井新聞社",
+    "body": [
+      "銅線売却時に偽名、ベトナム籍の男を４度目逮捕 容疑で６県警、三重の太陽光発電施設から窃取&nbsp;&nbsp;福井新聞社"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-f92a94000e9a": {
+    "id": "auto-f92a94000e9a",
+    "category": "技術",
+    "title": "「グリーン水素モビリティ市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5OFRFUjhRS1NzeDEwVU91WnNtUHB6aDRheWlEWlpyS2hPblhiMXZrSzllWWtqdXNtUTltSUpHbTRpanZXQUg4WllTRzg5ZzlnTGR1ZWozWVE0ZDBwVnRSbEdWekxqMmN5?oc=5",
+    "time": "9/14(月) 7:03",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "「グリーン水素モビリティ市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "「グリーン水素モビリティ市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-408a38008b26": {
+    "id": "auto-408a38008b26",
+    "category": "その他",
+    "title": "のぞみエナジー、大分県臼杵市における196MWh規模の蓄電池プロジェクトファイナンシャル・クローズを達成",
+    "source": "Excite エキサイト",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIWTV3YXJSRnNTbXQwZVRIemd3NmdqdW90RHp3WWQzME9YbmtndXNuRV9ISk9Tb2JGNVU0NVIwanprTzV3OWZxb0pUQnBIUzRFcFBLdjJHd2cxSzNzWXdkTmE1RWpUMzFtejZmM3Z6ZEpJZTQ?oc=5",
+    "time": "9/14(月) 6:45",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "のぞみエナジー、大分県臼杵市における196MWh規模の蓄電池プロジェクトファイナンシャル・クローズを達成&nbsp;&nbsp;Excite エキサイト",
+    "body": [
+      "のぞみエナジー、大分県臼杵市における196MWh規模の蓄電池プロジェクトファイナンシャル・クローズを達成&nbsp;&nbsp;Excite エキサイト"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
   "auto-ace0abe7b109": {
     "id": "auto-ace0abe7b109",
     "category": "その他",
@@ -111,6 +324,25 @@
     "summary": "長崎の沖新船舶工業、洋上風力発電の作業員輸送船を建造開始&nbsp;&nbsp;日本経済新聞",
     "body": [
       "長崎の沖新船舶工業、洋上風力発電の作業員輸送船を建造開始&nbsp;&nbsp;日本経済新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-1bc94b54334b": {
+    "id": "auto-1bc94b54334b",
+    "category": "その他",
+    "title": "脱炭素チャレンジ2026参加者募集",
+    "source": "city.seki.lg.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nN2FMaDR1cVZaeF85Q05jUmRGZ3JuM21kWE1Rc21BY1ZrM095T1I2TGZxc0cyZzItUndwSUx3dXdybEFuNlFnR09CNlV2NnJoS1JQbFdR?oc=5",
+    "time": "9/14(月) 6:33",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "脱炭素チャレンジ2026参加者募集&nbsp;&nbsp;city.seki.lg.jp",
+    "body": [
+      "脱炭素チャレンジ2026参加者募集&nbsp;&nbsp;city.seki.lg.jp"
     ],
     "related": [],
     "collected": true,
@@ -158,16 +390,16 @@
     "id": "auto-602789c01acd",
     "category": "その他",
     "title": "東京メトロと松坂屋上野店、「エコフ キャンペーン」を9月16日より実施 衣料品の回収を通じた脱炭素化への取り組みを推進",
-    "source": "ampmedia.jp",
+    "source": "AMP[アンプ]",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IYkxGT2lBcGZUSjRqS2dwVWNBZlRKb3h1dEFLa213elNOT3ExcmlrTXZxeVV6YkdOQzFCMHM5azZGMFFaQl9LWGlNWnhSeFg4SGFxRmhxRnNiQVRq?oc=5",
     "time": "9/14(月) 6:06",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "東京メトロと松坂屋上野店、「エコフ キャンペーン」を9月16日より実施 衣料品の回収を通じた脱炭素化への取り組みを推進&nbsp;&nbsp;ampmedia.jp",
+    "summary": "東京メトロと松坂屋上野店、「エコフ キャンペーン」を9月16日より実施 衣料品の回収を通じた脱炭素化への取り組みを推進&nbsp;&nbsp;AMP[アンプ]",
     "body": [
-      "東京メトロと松坂屋上野店、「エコフ キャンペーン」を9月16日より実施 衣料品の回収を通じた脱炭素化への取り組みを推進&nbsp;&nbsp;ampmedia.jp"
+      "東京メトロと松坂屋上野店、「エコフ キャンペーン」を9月16日より実施 衣料品の回収を通じた脱炭素化への取り組みを推進&nbsp;&nbsp;AMP[アンプ]"
     ],
     "related": [],
     "collected": true,
@@ -192,77 +424,39 @@
     "collected": true,
     "image": null
   },
-  "auto-0d1ff5167b33": {
-    "id": "auto-0d1ff5167b33",
+  "auto-c7e0618282cf": {
+    "id": "auto-c7e0618282cf",
     "category": "その他",
-    "title": "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛",
-    "source": "みんなの広報宣伝部",
+    "title": "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "source": "検索: 洋上風力・太陽光",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSGpCRm5oa0tmOEVFcDY5blZmU092a0xtMTJybEhPT0tGMkFfZUYxNWl5dlA5aWpBZ0JLNXZWZEd6aHZVZFVLRmN3dTFXOUhkTHQ0VGVVRTFoSVlIb1RnMk03YlhnN3VXTXl4d3lUeUgxdw?oc=5",
     "time": "9/14(月) 5:44",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛&nbsp;&nbsp;みんなの広報宣伝部",
+    "summary": "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
     "body": [
-      "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛&nbsp;&nbsp;みんなの広報宣伝部"
+      "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
     ],
     "related": [],
     "collected": true,
     "image": null
   },
-  "auto-f0f7fc8bd6a8": {
-    "id": "auto-f0f7fc8bd6a8",
-    "category": "その他",
-    "title": "高電圧機器市場は2035年に402億9,000万米ドル規模へ｜CAGR 3.43％、再生可能エネルギー連系と送配電網強化が成長を加速",
-    "source": "Excite エキサイト",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFY3lZZ1ZkeHpZOHVPRHB3TE5lQnkzRFRTV2N1X2EtVVg0Yllxa0dybDdYNEhuSGpnd3FsS05zRUhSN3VnNlVlMEg5VGIxdFdrby1yRUFzNTY0bkxraHZRS2RsWXQ5eGdodWc?oc=5",
-    "time": "9/14(月) 5:30",
-    "comments": 0,
-    "tags": [
-      "再生可能エネルギー"
-    ],
-    "summary": "高電圧機器市場は2035年に402億9,000万米ドル規模へ｜CAGR 3.43％、再生可能エネルギー連系と送配電網強化が成長を加速&nbsp;&nbsp;Excite エキサイト",
-    "body": [
-      "高電圧機器市場は2035年に402億9,000万米ドル規模へ｜CAGR 3.43％、再生可能エネルギー連系と送配電網強化が成長を加速&nbsp;&nbsp;Excite エキサイト"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-7e3f1bac9a91": {
-    "id": "auto-7e3f1bac9a91",
+  "auto-a82b5093f06a": {
+    "id": "auto-a82b5093f06a",
     "category": "自治体",
-    "title": "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論",
-    "source": "みんなの広報宣伝部",
+    "title": "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "source": "検索: 洋上風力・太陽光",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54WFFNT21HSHJTMXRxd2lqY3h1MU5nWDIxQThoSU5JMWhldWpOZjRaTTVkWF9yTC1fMlJzWkY1cGwtLVJsQXQ3V3RKTVRLMU5PemlhY2tXNVVWODU0aHpkVXMwSmxSemlOc3ZhLUFzckpnNUk?oc=5",
     "time": "9/14(月) 5:24",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論&nbsp;&nbsp;みんなの広報宣伝部",
+    "summary": "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
     "body": [
-      "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論&nbsp;&nbsp;みんなの広報宣伝部"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a47958100470": {
-    "id": "auto-a47958100470",
-    "category": "その他",
-    "title": "ブルーインパルス、愛知上空飛行で国産SAF使用",
-    "source": "航空新聞社",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56RG82ek5kTHJZVVRUb1dCLVFPcF9Da1RDMUpSNno0Qjk5bXhkUl9ULTdHeDRRSzRBb2p1X3BIV3ZHYjUtNjhrbg?oc=5",
-    "time": "9/14(月) 5:18",
-    "comments": 0,
-    "tags": [
-      "SAF"
-    ],
-    "summary": "ブルーインパルス、愛知上空飛行で国産SAF使用&nbsp;&nbsp;航空新聞社",
-    "body": [
-      "ブルーインパルス、愛知上空飛行で国産SAF使用&nbsp;&nbsp;航空新聞社"
+      "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
     ],
     "related": [],
     "collected": true,
@@ -325,39 +519,20 @@
     "collected": true,
     "image": null
   },
-  "auto-169e7c75f92b": {
-    "id": "auto-169e7c75f92b",
+  "auto-7cdd0581add8": {
+    "id": "auto-7cdd0581add8",
     "category": "その他",
-    "title": "ONE、サプライチェーン強靱化と脱炭素を議論 - logi-today.com",
-    "source": "検索: 脱炭素・カーボンニュートラル",
+    "title": "ONE、サプライチェーン強靱化と脱炭素を議論",
+    "source": "LOGISTICS TODAY",
     "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BRXRNOUtydFlOc01YYlB3SUtZd0FsYVNoMTR0Q2RSang1bW5ScjdIQVBNVElTNS13WWRCbEJBdUdtdkFuTndOdg?oc=5",
     "time": "9/14(月) 4:06",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "ONE、サプライチェーン強靱化と脱炭素を議論&nbsp;&nbsp;logi-today.com",
+    "summary": "ONE、サプライチェーン強靱化と脱炭素を議論&nbsp;&nbsp;LOGISTICS TODAY",
     "body": [
-      "ONE、サプライチェーン強靱化と脱炭素を議論&nbsp;&nbsp;logi-today.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-7f9cb955f990": {
-    "id": "auto-7f9cb955f990",
-    "category": "技術",
-    "title": "「遠心式水素圧縮機市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHhCMmdhX2RHdl9lWmU5S0pTNEo5ZDJ2VVBsVldYMF9iZEhqQzEtMVplYTlUUVBWeTk5Ul9odnRERkk3RDVLNGZtUGpEbU4tM1c1ZmRGdmFadTk4MVJSZnBSYzFvaW1u?oc=5",
-    "time": "9/14(月) 4:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "「遠心式水素圧縮機市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "「遠心式水素圧縮機市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内&nbsp;&nbsp;ニコニコニュース"
+      "ONE、サプライチェーン強靱化と脱炭素を議論&nbsp;&nbsp;LOGISTICS TODAY"
     ],
     "related": [],
     "collected": true,
@@ -401,20 +576,39 @@
     "collected": true,
     "image": null
   },
+  "auto-7f9cb955f990": {
+    "id": "auto-7f9cb955f990",
+    "category": "技術",
+    "title": "「遠心式水素圧縮機市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内",
+    "source": "ドリームニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrU0Y3TEpidUhvYXA5VnlzRWRneUNwd0JPRTg5aGRLNHIyM1JERmltWTRjQnhWZHdsUS00M2xJU3hpeHdqSUxMRExYM0VMNjU5aUVj?oc=5",
+    "time": "9/14(月) 3:30",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "「遠心式水素圧縮機市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内&nbsp;&nbsp;ドリームニュース",
+    "body": [
+      "「遠心式水素圧縮機市場の規模、シェア、成長分析 : 2026-2034年までの予測」の市場調査レポート出版・販売開始のご案内&nbsp;&nbsp;ドリームニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-1f09a95d75ce": {
     "id": "auto-1f09a95d75ce",
     "category": "その他",
     "title": "洋上風力アクセス船起工式「作業員を輸送するための専用船」訓練環境を整備《長崎》",
-    "source": "ｄメニューニュース",
+    "source": "topics.smt.docomo.ne.jp",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZS1kWTdkeFdNUS1GNm9aMHZrSUJvNDF6NWtnTUU5TzJhSlNEY2xYN2pBMERNSE1JcGxEZEFMUlFKd1FSRnRsbjRsRm8xWlBzenVRYzl1MjBKV2o0MU1qY2pkTjV5Q3I5Z3RHbEI1LVh3RDhkVXl0a1dVY1hnajR3TtIBgAFBVV95cUxOZS1kWTdkeFdNUS1GNm9aMHZrSUJvNDF6NWtnTUU5TzJhSlNEY2xYN2pBMERNSE1JcGxEZEFMUlFKd1FSRnRsbjRsRm8xWlBzenVRYzl1MjBKV2o0MU1qY2pkTjV5Q3I5Z3RHbEI1LVh3RDhkVXl0a1dVY1hnajR3Tg?oc=5",
     "time": "9/14(月) 3:06",
     "comments": 0,
     "tags": [
       "洋上風力"
     ],
-    "summary": "洋上風力アクセス船起工式「作業員を輸送するための専用船」訓練環境を整備《長崎》&nbsp;&nbsp;ｄメニューニュース",
+    "summary": "洋上風力アクセス船起工式「作業員を輸送するための専用船」訓練環境を整備《長崎》&nbsp;&nbsp;topics.smt.docomo.ne.jp",
     "body": [
-      "洋上風力アクセス船起工式「作業員を輸送するための専用船」訓練環境を整備《長崎》&nbsp;&nbsp;ｄメニューニュース"
+      "洋上風力アクセス船起工式「作業員を輸送するための専用船」訓練環境を整備《長崎》&nbsp;&nbsp;topics.smt.docomo.ne.jp"
     ],
     "related": [],
     "collected": true,
@@ -443,16 +637,16 @@
     "id": "auto-2ac441d7a83e",
     "category": "国際",
     "title": "韓国勢が欧州ヒートポンプ市場を攻略…猛暑と脱炭素政策で需要拡大",
-    "source": "afpbb.com",
+    "source": "AFPBB News",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hWGtsb2tqSXBLcW1XSmMxR3pRRTB0QXZaX1hnVVdvS2xOZ2FaOUpRN202YVl5eUJieDhDUTNhSWFJQWk3eGpaNXRXRndVdjlsRjlUSVh4SU04VmRtUW1MdndWYkRjeFpBVE5kNjRFbmQtZ9IBVEFVX3lxTE9xVlJzSl9EN09FOFV4NUpUQUdDZXNFcC00SEhBQ0x4dWVYMVN2QTVTS1pWNDdVeWtrSVlxWFExWFhSUS1JSHlvU3VNZ1pSZXQ5V0RseA?oc=5",
     "time": "9/14(月) 2:45",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "韓国勢が欧州ヒートポンプ市場を攻略…猛暑と脱炭素政策で需要拡大&nbsp;&nbsp;afpbb.com",
+    "summary": "韓国勢が欧州ヒートポンプ市場を攻略…猛暑と脱炭素政策で需要拡大&nbsp;&nbsp;AFPBB News",
     "body": [
-      "韓国勢が欧州ヒートポンプ市場を攻略…猛暑と脱炭素政策で需要拡大&nbsp;&nbsp;afpbb.com"
+      "韓国勢が欧州ヒートポンプ市場を攻略…猛暑と脱炭素政策で需要拡大&nbsp;&nbsp;AFPBB News"
     ],
     "related": [],
     "collected": true,
@@ -497,6 +691,25 @@
     "collected": true,
     "image": null
   },
+  "auto-0ca2c8db0ad9": {
+    "id": "auto-0ca2c8db0ad9",
+    "category": "その他",
+    "title": "完全オフグリッドでEV充電を可能にするソーラーカーポート、第1号を福島県に導入",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oN0ZwWHB6MmhvSnpITE5uNTA1Y3hZTVlEeHBveXBrLU4tNTY2WlhnVUtVb3VGWHpxZWszNlNaV2U0X293VElQZUxSeUZ3M2d6bmh1cTBLQkw3aHowR3dMMjNGc1FQRlc5?oc=5",
+    "time": "9/14(月) 2:30",
+    "comments": 0,
+    "tags": [
+      "EV"
+    ],
+    "summary": "完全オフグリッドでEV充電を可能にするソーラーカーポート、第1号を福島県に導入&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "完全オフグリッドでEV充電を可能にするソーラーカーポート、第1号を福島県に導入&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-4f189502fa8f": {
     "id": "auto-4f189502fa8f",
     "category": "その他",
@@ -511,25 +724,6 @@
     "summary": "「ASEANのカーボンプライシング最新動向と日本企業をチャンスへ導く 視点転換」と題して、株式会社三菱総合研究所&nbsp;&nbsp;ニコニコニュース",
     "body": [
       "「ASEANのカーボンプライシング最新動向と日本企業をチャンスへ導く 視点転換」と題して、株式会社三菱総合研究所&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-6606d611189c": {
-    "id": "auto-6606d611189c",
-    "category": "その他",
-    "title": "安藤ハザマ第1号の系統用蓄電所が運転開始",
-    "source": "CNET Japan",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DV2JHWkdLbTRTWnpIRHhpVlNZR2w4eDhHc2Z4Z29Tc0w1LVdHbXJMRU5tYTNReUFmZXczRGF1TnFjaHNtN2tnQmFUOUR4MVQwVHc?oc=5",
-    "time": "9/14(月) 2:15",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "安藤ハザマ第1号の系統用蓄電所が運転開始&nbsp;&nbsp;CNET Japan",
-    "body": [
-      "安藤ハザマ第1号の系統用蓄電所が運転開始&nbsp;&nbsp;CNET Japan"
     ],
     "related": [],
     "collected": true,
@@ -554,20 +748,20 @@
     "collected": true,
     "image": null
   },
-  "auto-7837076c7f64": {
-    "id": "auto-7837076c7f64",
+  "auto-30d03a6cb22e": {
+    "id": "auto-30d03a6cb22e",
     "category": "その他",
-    "title": "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント",
-    "source": "千葉テレビ放送株式会社",
+    "title": "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント - chiba-tv.com",
+    "source": "検索: 洋上風力・太陽光",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zS3hiQWNZeTVudlV6NXJ5b09pM1ZHY2QyWFZwUTNiaDJTcmhsend3YXNyczJaT2FaVVQwRlFzMU4yNHhzVl9IeldOSjkzZE9FS3J1V0k1SzVfTU80enY0?oc=5",
     "time": "9/14(月) 2:11",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント&nbsp;&nbsp;千葉テレビ放送株式会社",
+    "summary": "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント&nbsp;&nbsp;chiba-tv.com",
     "body": [
-      "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント&nbsp;&nbsp;千葉テレビ放送株式会社"
+      "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント&nbsp;&nbsp;chiba-tv.com"
     ],
     "related": [],
     "collected": true,
@@ -577,16 +771,16 @@
     "id": "auto-74cdd8313df5",
     "category": "技術",
     "title": "【横河電機】世界最大となる液化水素運搬船および水素燃料船向け制御システムを川崎重工業から受注",
-    "source": "PR TIMES",
+    "source": "prtimes.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TYjhiR01XMU55NEtfMjZhRkRrdktydkp5WkY2bUxJdjdOMjlTSV9yRXVCSlQwa2g3VDM5Z0plQzhaVTRKUE5oWk1INzNKd0JKVjNYUTBTMldkV0stOVZIaXRXYlZpWFdtM3c?oc=5",
     "time": "9/14(月) 2:10",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "【横河電機】世界最大となる液化水素運搬船および水素燃料船向け制御システムを川崎重工業から受注&nbsp;&nbsp;PR TIMES",
+    "summary": "【横河電機】世界最大となる液化水素運搬船および水素燃料船向け制御システムを川崎重工業から受注&nbsp;&nbsp;prtimes.jp",
     "body": [
-      "【横河電機】世界最大となる液化水素運搬船および水素燃料船向け制御システムを川崎重工業から受注&nbsp;&nbsp;PR TIMES"
+      "【横河電機】世界最大となる液化水素運搬船および水素燃料船向け制御システムを川崎重工業から受注&nbsp;&nbsp;prtimes.jp"
     ],
     "related": [],
     "collected": true,
@@ -596,16 +790,16 @@
     "id": "auto-a10bcd0e44da",
     "category": "その他",
     "title": "Sustechがアグリゲーターを担う、安藤ハザマ第1号の系統用蓄電所が本格運転開始",
-    "source": "PR TIMES",
+    "source": "prtimes.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeXg0OFFkRXhrUm5raWlLdDNhYzBrOXZLUjRnVURNZ01BTkotVmlWckliR1lvd3MxaHc2b3o3Zkl3VjdocDhHbzdCRkxhY25yUF8tRU1aTVhrUFo2WVNoTmNBaXRVRm1TYUE?oc=5",
     "time": "9/14(月) 2:00",
     "comments": 0,
     "tags": [
       "蓄電"
     ],
-    "summary": "Sustechがアグリゲーターを担う、安藤ハザマ第1号の系統用蓄電所が本格運転開始&nbsp;&nbsp;PR TIMES",
+    "summary": "Sustechがアグリゲーターを担う、安藤ハザマ第1号の系統用蓄電所が本格運転開始&nbsp;&nbsp;prtimes.jp",
     "body": [
-      "Sustechがアグリゲーターを担う、安藤ハザマ第1号の系統用蓄電所が本格運転開始&nbsp;&nbsp;PR TIMES"
+      "Sustechがアグリゲーターを担う、安藤ハザマ第1号の系統用蓄電所が本格運転開始&nbsp;&nbsp;prtimes.jp"
     ],
     "related": [],
     "collected": true,
@@ -615,16 +809,16 @@
     "id": "auto-70ff56ba5e0a",
     "category": "その他",
     "title": "【10/29】大企業×中小企業で実現する、カーボンニュートラルに向けたイノベーション「グリーンテックマッチング2026」",
-    "source": "PR TIMES",
+    "source": "prtimes.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5teUhoSXhJWEk5UmdPb1J4eTU0ZllNQUtYR2VKS3VrZXpyNkVOUmlNLUFvQXgwZHhzbHd5SVlCTmpPSnZuZlZScUJCYjJlOW9mTTJKeWliZFNkX2JMTUp4cFBKUjNQcjl0X0E?oc=5",
     "time": "9/14(月) 2:00",
     "comments": 0,
     "tags": [
       "カーボン"
     ],
-    "summary": "【10/29】大企業×中小企業で実現する、カーボンニュートラルに向けたイノベーション「グリーンテックマッチング2026」&nbsp;&nbsp;PR TIMES",
+    "summary": "【10/29】大企業×中小企業で実現する、カーボンニュートラルに向けたイノベーション「グリーンテックマッチング2026」&nbsp;&nbsp;prtimes.jp",
     "body": [
-      "【10/29】大企業×中小企業で実現する、カーボンニュートラルに向けたイノベーション「グリーンテックマッチング2026」&nbsp;&nbsp;PR TIMES"
+      "【10/29】大企業×中小企業で実現する、カーボンニュートラルに向けたイノベーション「グリーンテックマッチング2026」&nbsp;&nbsp;prtimes.jp"
     ],
     "related": [],
     "collected": true,
@@ -649,39 +843,39 @@
     "collected": true,
     "image": null
   },
+  "auto-7837076c7f64": {
+    "id": "auto-7837076c7f64",
+    "category": "その他",
+    "title": "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント",
+    "source": "Housing Tribune Online",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tV0VDT29YVi1aQ1VmVFRYYWpsME1WNlg5NjQ5aHB4Q3lYbjRlYmkzUUxZOUQ0UEpqNUdxRDJFcTNGVkVJTmhWM3RrVV9iZjZ0eXJNZHFB?oc=5",
+    "time": "9/14(月) 1:48",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント&nbsp;&nbsp;Housing Tribune Online",
+    "body": [
+      "AQ Groupが秋キャンペーンと新商品「AQ Grand-SORA」を発表 大容量の太陽光発電プレゼント&nbsp;&nbsp;Housing Tribune Online"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-d8f3154f4133": {
     "id": "auto-d8f3154f4133",
     "category": "自治体",
     "title": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す",
-    "source": "47NEWS",
+    "source": "47news.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95d0RIa0lBRmhvengtdUZMSkYycVFwV1FMajd1LXVzME0xXzJzOVpqMi10NHZlejV1VEcwZXVwbUFEejY0dW84Ym9aRQ?oc=5",
     "time": "9/14(月) 1:40",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;47NEWS",
+    "summary": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;47news.jp",
     "body": [
-      "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;47NEWS"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-2fc90028dc89": {
-    "id": "auto-2fc90028dc89",
-    "category": "自治体",
-    "title": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す - niigata-nippo.co.jp",
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6dkh0ampzMHByMEVnRlRkLW0tcmVVWmdqemNDNjM3M0VsSFNFTkl1ejBrem95OUFlVUVEaHRLU0xSb1BtTF9aR0pEZkJ3VDNjcDdRWms1d1IxSGl5Qmc?oc=5",
-    "time": "9/14(月) 1:30",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;niigata-nippo.co.jp",
-    "body": [
-      "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;niigata-nippo.co.jp"
+      "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;47news.jp"
     ],
     "related": [],
     "collected": true,
@@ -692,7 +886,7 @@
     "category": "その他",
     "title": "ポスコグループ4社がK-GX脱炭素ビジョン提示 - CHOSUNBIZ",
     "source": "Chosunbiz",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFcwNlE0aHNRZF9xTkVreWtudFAyQzRwS2xMeEtfSk5naTRBWTJ2dkV3U1ZlMHh0Y243cXB2Uk9TRXdVNDZackdRTWVnU2ttc3pzMnc2MGpJS3NMOWdsdzRHc3VvNm5lRmNRMURyaXZuemNZQ25OcGpPVzN3S3ExVkJqQ0s1OVN5Yks3dWpXSHEyZm8tbFHSAZYBQVVfeXFMTmhXMDZRNGhzUWRfcU5Fa3lrbnRQMkM0cEtsTHhLX0pOZ2k0QVkydnZFd1NWZTB4dGNuN3FwdlJPU0V3VTQ2WnJHUU1lZ1NrbXN6czJ3NjBqSUtzTDlnbHc0R3N1bzZuZUZjUTFEcml2bnpjWUNuTnBqT1czd0txMVZCakNLNTlTeWJLN3VqV0hxMmZvLWxR?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV3d0bVVHVmFsblhoM3FlT05SdmxielRyVml4d21kY2gwSTAyY0pwWTJYaDVrQkFGU2NxVUhRdFJEN3RPcmJhQkladElUaWhBaWJkVlFtM1dZYXZKRFA5bjRLa1k2T1lJcXVubExEVWZzQWo3WXNIdTJjeVNJNEZUX0ln0gGWAUFVX3lxTE5oVzA2UTRoc1FkX3FORWt5a250UDJDNHBLbEx4S19KTmdpNEFZMnZ2RXdTVmUweHRjbjdxcHZST1NFd1U0NlpyR1FNZWdTa21zenMydzYwaklLc0w5Z2x3NEdzdW82bmVGY1ExRHJpdm56Y1lDbk5wak9XM3dLcTFWQmpDSzU5U3liSzd1aldIcTJmby1sUQ?oc=5",
     "time": "9/14(月) 1:17",
     "comments": 0,
     "tags": [
@@ -711,35 +905,16 @@
     "id": "auto-62c4f4bf7aed",
     "category": "技術",
     "title": "電気や燃料電池など次世代車の救援に対応 ＪＡＦ関東本部隊員が実車で研修",
-    "source": "kanaloco.jp",
+    "source": "カナロコ",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IYnVhcVB1RjZCYm4wOUNBZlBmQ3Q3NzlyLU9XbDl4ZWJ1ZHl6WGpsRmhDV09FelRjRzM4NDQ0U0Mwd3BCNndVa21HelNzNjkwalhjTG5TcnJ5Z1RXY1dnV09DVTg5cXJ2?oc=5",
     "time": "9/14(月) 1:10",
     "comments": 0,
     "tags": [
       "燃料電池"
     ],
-    "summary": "電気や燃料電池など次世代車の救援に対応 ＪＡＦ関東本部隊員が実車で研修&nbsp;&nbsp;kanaloco.jp",
+    "summary": "電気や燃料電池など次世代車の救援に対応 ＪＡＦ関東本部隊員が実車で研修&nbsp;&nbsp;カナロコ",
     "body": [
-      "電気や燃料電池など次世代車の救援に対応 ＪＡＦ関東本部隊員が実車で研修&nbsp;&nbsp;kanaloco.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0ca2c8db0ad9": {
-    "id": "auto-0ca2c8db0ad9",
-    "category": "その他",
-    "title": "完全オフグリッドでEV充電を可能にするソーラーカーポート、第1号を福島県に導入",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IeHNpOEFiVUVZU1dfWDEyWDFwRTdEZ1M1b0p4MkdraWdTdGNkaWhMeFY4NzdYYXdFN1VKWVFhLTY1dkF4UUN0RzQtZHMzRVJUWUJoVWhlNTdSODlkbmwybFRhQlU3emMxX1E?oc=5",
-    "time": "9/14(月) 1:00",
-    "comments": 0,
-    "tags": [
-      "EV"
-    ],
-    "summary": "完全オフグリッドでEV充電を可能にするソーラーカーポート、第1号を福島県に導入&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "完全オフグリッドでEV充電を可能にするソーラーカーポート、第1号を福島県に導入&nbsp;&nbsp;PR TIMES"
+      "電気や燃料電池など次世代車の救援に対応 ＪＡＦ関東本部隊員が実車で研修&nbsp;&nbsp;カナロコ"
     ],
     "related": [],
     "collected": true,
@@ -749,7 +924,7 @@
     "id": "auto-218834e0369a",
     "category": "その他",
     "title": "【日本蓄電池株式会社】山形県鶴岡市にて系統用蓄電施設「NC鶴岡市湯田川蓄電所」需給調整市場への参入",
-    "source": "PR TIMES",
+    "source": "prtimes.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3anoyUExNRUZuVFBpR2d6X0FSMUEwMkx2TnB6Nmh5ZW51ZUd6ZHZ0cFAzYnB0TnphWm50bmllbVZvX3hwSFZVV29NMGRDXzBHRVd5WG52cG5LcG5OWm1udzdNV1p4Tk9kbGc?oc=5",
     "time": "9/14(月) 1:00",
     "comments": 0,
@@ -757,28 +932,49 @@
       "蓄電池",
       "蓄電"
     ],
-    "summary": "【日本蓄電池株式会社】山形県鶴岡市にて系統用蓄電施設「NC鶴岡市湯田川蓄電所」需給調整市場への参入&nbsp;&nbsp;PR TIMES",
+    "summary": "【日本蓄電池株式会社】山形県鶴岡市にて系統用蓄電施設「NC鶴岡市湯田川蓄電所」需給調整市場への参入&nbsp;&nbsp;prtimes.jp",
     "body": [
-      "【日本蓄電池株式会社】山形県鶴岡市にて系統用蓄電施設「NC鶴岡市湯田川蓄電所」需給調整市場への参入&nbsp;&nbsp;PR TIMES"
+      "【日本蓄電池株式会社】山形県鶴岡市にて系統用蓄電施設「NC鶴岡市湯田川蓄電所」需給調整市場への参入&nbsp;&nbsp;prtimes.jp"
     ],
     "related": [],
     "collected": true,
     "image": null
   },
-  "auto-f2ac4c51135f": {
-    "id": "auto-f2ac4c51135f",
+  "auto-fd96abb8d276": {
+    "id": "auto-fd96abb8d276",
     "category": "技術",
-    "title": "「水素大動脈構想」を実現する動きが加速する 水素バリューチェーン推進協議会（JH2A）が福島県で地域準備会を開催",
+    "title": "新型「BMW X5」シリーズをワールドプレミア「パワートレインは水素燃料電池を含む5種を展開」【動画】",
     "source": "Motor Fan",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2pQbk9fSXhJY3paMm9CeVM4bTNGVlBCTndhcVVpOWl3OFBQTU1GZi1UckcxT21NTG5JTzZabjVjOVpvTHBpaGViR3JobVJWWXpudURPVWJaNmlOUDhHaDlDZVZLdVFkTkN0X0tCT2gydXhsZHJJUnFjSVJvTVlqS0gyWVc?oc=5",
-    "time": "9/14(月) 0:37",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMDZMOVZzNnJkOGIyNTRrbGpzUmxaRG9GdHVtbDIwRm56elJIa0VNVXdrTWhqTEhXdkw0RXN6STJFRFZTR29QQUQwUFFTVlZKcDFRRHlBdU85RTQ?oc=5",
+    "time": "9/14(月) 0:41",
     "comments": 0,
     "tags": [
-      "水素"
+      "水素",
+      "燃料電池"
     ],
-    "summary": "「水素大動脈構想」を実現する動きが加速する 水素バリューチェーン推進協議会（JH2A）が福島県で地域準備会を開催&nbsp;&nbsp;Motor Fan",
+    "summary": "新型「BMW X5」シリーズをワールドプレミア「パワートレインは水素燃料電池を含む5種を展開」【動画】&nbsp;&nbsp;Motor Fan",
     "body": [
-      "「水素大動脈構想」を実現する動きが加速する 水素バリューチェーン推進協議会（JH2A）が福島県で地域準備会を開催&nbsp;&nbsp;Motor Fan"
+      "新型「BMW X5」シリーズをワールドプレミア「パワートレインは水素燃料電池を含む5種を展開」【動画】&nbsp;&nbsp;Motor Fan"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-515f4d17bb21": {
+    "id": "auto-515f4d17bb21",
+    "category": "自治体",
+    "title": "浪江町、経産省の「GX戦略地域」認定 脱炭素電源で産業団地",
+    "source": "au Webポータル",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlbDRMZDlXM0JtdjFKc3FYSTBLc253eHA0Z3dQWHpRRU90THhjMnJPdzloRGdaMG5WQThRMWFNVG9DUlVVNVJhcmo3aVJJS3EyUHRPU240aWFlM2NPamM2YVVHMlM5dlZ6eWRaUjdR?oc=5",
+    "time": "9/14(月) 0:35",
+    "comments": 0,
+    "tags": [
+      "GX",
+      "脱炭素"
+    ],
+    "summary": "浪江町、経産省の「GX戦略地域」認定 脱炭素電源で産業団地&nbsp;&nbsp;au Webポータル",
+    "body": [
+      "浪江町、経産省の「GX戦略地域」認定 脱炭素電源で産業団地&nbsp;&nbsp;au Webポータル"
     ],
     "related": [],
     "collected": true,
@@ -788,16 +984,16 @@
     "id": "auto-41d3fbb7a710",
     "category": "その他",
     "title": "超低硫黄燃料油（VLSFO）市場は2035年1,604.5億米ドルへ｜CAGR 5.70％、IMO規制と海運脱炭素化が成長を後押し",
-    "source": "Newscast.jp",
+    "source": "newscast.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZFhfWTAxYWFUMWpPck1qTWdfeS02dC16bEo3cll2OHg0dzU5TFFoczN0MjNob0VlSUFFYjZmbUZRdDRZVnN2SUJiRjYxQTQ?oc=5",
     "time": "9/14(月) 0:30",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "超低硫黄燃料油（VLSFO）市場は2035年1,604.5億米ドルへ｜CAGR 5.70％、IMO規制と海運脱炭素化が成長を後押し&nbsp;&nbsp;Newscast.jp",
+    "summary": "超低硫黄燃料油（VLSFO）市場は2035年1,604.5億米ドルへ｜CAGR 5.70％、IMO規制と海運脱炭素化が成長を後押し&nbsp;&nbsp;newscast.jp",
     "body": [
-      "超低硫黄燃料油（VLSFO）市場は2035年1,604.5億米ドルへ｜CAGR 5.70％、IMO規制と海運脱炭素化が成長を後押し&nbsp;&nbsp;Newscast.jp"
+      "超低硫黄燃料油（VLSFO）市場は2035年1,604.5億米ドルへ｜CAGR 5.70％、IMO規制と海運脱炭素化が成長を後押し&nbsp;&nbsp;newscast.jp"
     ],
     "related": [],
     "collected": true,
@@ -807,16 +1003,16 @@
     "id": "auto-679bc6316dd2",
     "category": "その他",
     "title": "脱炭素「関心ない」が増加 「関心ある」は高水準も減退傾向に 静岡県内主要企業アンケート",
-    "source": "47NEWS",
+    "source": "47news.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pTjk0R3kzWUhsOTUyWm9hZjVmNXlaa0I5WlhENE9OenhYUHJjdXZvN214MnRMYkgxS1pYQnRzSVNhdzFaY1N5QzF4SQ?oc=5",
     "time": "9/14(月) 0:28",
     "comments": 0,
     "tags": [
       "脱炭素"
     ],
-    "summary": "脱炭素「関心ない」が増加 「関心ある」は高水準も減退傾向に 静岡県内主要企業アンケート&nbsp;&nbsp;47NEWS",
+    "summary": "脱炭素「関心ない」が増加 「関心ある」は高水準も減退傾向に 静岡県内主要企業アンケート&nbsp;&nbsp;47news.jp",
     "body": [
-      "脱炭素「関心ない」が増加 「関心ある」は高水準も減退傾向に 静岡県内主要企業アンケート&nbsp;&nbsp;47NEWS"
+      "脱炭素「関心ない」が増加 「関心ある」は高水準も減退傾向に 静岡県内主要企業アンケート&nbsp;&nbsp;47news.jp"
     ],
     "related": [],
     "collected": true,
@@ -936,6 +1132,44 @@
     "collected": true,
     "image": null
   },
+  "auto-7e71419e0298": {
+    "id": "auto-7e71419e0298",
+    "category": "国",
+    "title": "令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）の一次公募結果について",
+    "source": "環境省",
+    "source_url": "https://www.env.go.jp/press/press_05505.html",
+    "time": "9/14(月) 0:00",
+    "comments": 0,
+    "tags": [
+      "再エネ"
+    ],
+    "summary": "令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）の一次公募結果について",
+    "body": [
+      "令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）の一次公募結果について"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://www.env.go.jp/content/000078974.jpg"
+  },
+  "auto-f2005381959c": {
+    "id": "auto-f2005381959c",
+    "category": "国",
+    "title": "令和８年度「コールドチェーンを支える冷凍冷蔵機器の脱フロン・脱炭素化推進事業」の秋公募を開始します",
+    "source": "環境省",
+    "source_url": "https://www.env.go.jp/press/press_05583.html",
+    "time": "9/14(月) 0:00",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "令和８年度「コールドチェーンを支える冷凍冷蔵機器の脱フロン・脱炭素化推進事業」の秋公募を開始します",
+    "body": [
+      "令和８年度「コールドチェーンを支える冷凍冷蔵機器の脱フロン・脱炭素化推進事業」の秋公募を開始します"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://www.env.go.jp/content/000078974.jpg"
+  },
   "auto-a44aa4616496": {
     "id": "auto-a44aa4616496",
     "category": "その他",
@@ -951,25 +1185,6 @@
     "summary": "日本GXグループ、温室効果ガス排出量算定ツールをオープンソースで公開&nbsp;&nbsp;ZDNET Japan",
     "body": [
       "日本GXグループ、温室効果ガス排出量算定ツールをオープンソースで公開&nbsp;&nbsp;ZDNET Japan"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-89af34927768": {
-    "id": "auto-89af34927768",
-    "category": "その他",
-    "title": "JALグループの農園に「PowerX Cube」 夏いちごの収穫とカーボンゼロ農業を支える",
-    "source": "sanyonews.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtS2RaczI0TWFmZXE4amNJS09ZWmZSM2Y3bEd3NURVX0VOQWhkQ3lJU3dBXzgzWXZRNnhhc2Z2alNKY2lBT0JuWkxIZV9PeW5IaVE?oc=5",
-    "time": "9/13(日) 23:33",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "JALグループの農園に「PowerX Cube」 夏いちごの収穫とカーボンゼロ農業を支える&nbsp;&nbsp;sanyonews.jp",
-    "body": [
-      "JALグループの農園に「PowerX Cube」 夏いちごの収穫とカーボンゼロ農業を支える&nbsp;&nbsp;sanyonews.jp"
     ],
     "related": [],
     "collected": true,
@@ -1014,26 +1229,6 @@
     "collected": true,
     "image": null
   },
-  "auto-515f4d17bb21": {
-    "id": "auto-515f4d17bb21",
-    "category": "自治体",
-    "title": "浪江町、経産省の「GX戦略地域」認定 脱炭素電源で産業団地",
-    "source": "47NEWS",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zSkM4c0FkMnUtTzBtY1ZnVXoyc0Nsc3hwczV0TURGN1RYZzFpMmhDOUNkT3EwNUJEZzV4OGhwR0tYRGlybVZnZHdmZw?oc=5",
-    "time": "9/13(日) 23:25",
-    "comments": 0,
-    "tags": [
-      "GX",
-      "脱炭素"
-    ],
-    "summary": "浪江町、経産省の「GX戦略地域」認定 脱炭素電源で産業団地&nbsp;&nbsp;47NEWS",
-    "body": [
-      "浪江町、経産省の「GX戦略地域」認定 脱炭素電源で産業団地&nbsp;&nbsp;47NEWS"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-cbdb66067b94": {
     "id": "auto-cbdb66067b94",
     "category": "その他",
@@ -1058,7 +1253,7 @@
     "category": "国際",
     "title": "【日本】みずほ銀行や三井物産、中堅・中小の再エネ導入加速でe-dashと連携協定 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
     "source": "Sustainable Japan",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Xa3MxVG04bkUzZG8zazlnUXZhNVozbUJmTS1hNlNMdHc5N3FoVjkwUGs2SzdxTTVWb05VZGIyNlB1R0dqYm90QVdnNE93VUZweEdXM3A0eU1XYjhYLXBJcXlqRDZJUHfSAWdBVV95cUxPV2tzMVRtOG5FM2RvM2s5Z1F2YTVaM21CZk0tYTZTTHR3OTdxaFY5MFBrNks3cU01Vm9OVWRiMjZQdUdHamJvdEFXZzRPd1VGcHhHVzNwNHlNV2I4WC1wSXF5akQ2SVB3?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRWhqbjQ3cGZXX3pyQlJDYXdieS1uaTJJZ09BMWhLZXNqUDZlaWQ2Wkp5YnNuRjNzVjNSZmcwYlQ4elpPT28xZ1F6SnRKdHhoWVI3ZGF4TllhaW1WVXpRMmhR0gFnQVVfeXFMT1drczFUbThuRTNkbzNrOWdRdmE1WjNtQmZNLWE2U0x0dzk3cWhWOTBQazZLN3FNNVZvTlVkYjI2UHVHR2pib3RBV2c0T3dVRnB4R1czcDR5TVdiOFgtcElxeWpENklQdw?oc=5",
     "time": "9/13(日) 22:38",
     "comments": 0,
     "tags": [
@@ -1072,30 +1267,11 @@
     "collected": true,
     "image": null
   },
-  "auto-cae417d224e5": {
-    "id": "auto-cae417d224e5",
-    "category": "国際",
-    "title": "韓国・新安沖に高さ227mの風力発電機10基… 2031年までに900MW団地へ拡張",
-    "source": "BigGo ファイナンス",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BQ0dOSU5qZUdvRmxValNkdkdqQURWYkNKSS1Vd0l3elI2amRpTFFNckdCYVU3dnBHcmdINXhwQ0h6REpZdTVScWpzS1l6OHlPakhTa1NnV09SZTFUdXkyMy1xZlNVWjZSS0Zra0JveHhteVYy?oc=5",
-    "time": "9/13(日) 22:25",
-    "comments": 0,
-    "tags": [
-      "風力"
-    ],
-    "summary": "韓国・新安沖に高さ227mの風力発電機10基… 2031年までに900MW団地へ拡張&nbsp;&nbsp;BigGo ファイナンス",
-    "body": [
-      "韓国・新安沖に高さ227mの風力発電機10基… 2031年までに900MW団地へ拡張&nbsp;&nbsp;BigGo ファイナンス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-565c815b8837": {
-    "id": "auto-565c815b8837",
+  "auto-0d18b45d05a5": {
+    "id": "auto-0d18b45d05a5",
     "category": "その他",
-    "title": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介",
-    "source": "みんなの広報宣伝部",
+    "title": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "source": "検索: 脱炭素・カーボンニュートラル",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNGhOeDY2Q3RaTTBtT1gtSmppZ2s0V241YTdjV014OW01VUdrXy1ueVJSR2FRZVBBMU1obHJmbU1iUU5zRk55MkhNNXp4dy1URnBKT3c2VmNMay1Cdnd3WThhZ3RUMElzcjQ3aW1SOG5xQQ?oc=5",
     "time": "9/13(日) 22:23",
     "comments": 0,
@@ -1103,9 +1279,9 @@
       "カーボン",
       "太陽光"
     ],
-    "summary": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;みんなの広報宣伝部",
+    "summary": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
     "body": [
-      "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;みんなの広報宣伝部"
+      "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
     ],
     "related": [],
     "collected": true,
@@ -1115,16 +1291,16 @@
     "id": "auto-af16f71607b1",
     "category": "その他",
     "title": "工業団地アマタ、水上太陽光発電を導入へ",
-    "source": "nikkantb.com",
+    "source": "日刊タイビジネス",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5abks0VWVXNkc0anZJMi00Y1NIQklxZVVzOGU3TXdsQ3FLX0tCazAwV2h3YWsyakVFR29QbndxVk40Q19tOVJXTUVpb291b2NVNm00?oc=5",
     "time": "9/13(日) 22:16",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "工業団地アマタ、水上太陽光発電を導入へ&nbsp;&nbsp;nikkantb.com",
+    "summary": "工業団地アマタ、水上太陽光発電を導入へ&nbsp;&nbsp;日刊タイビジネス",
     "body": [
-      "工業団地アマタ、水上太陽光発電を導入へ&nbsp;&nbsp;nikkantb.com"
+      "工業団地アマタ、水上太陽光発電を導入へ&nbsp;&nbsp;日刊タイビジネス"
     ],
     "related": [],
     "collected": true,
@@ -1246,25 +1422,6 @@
     "collected": true,
     "image": null
   },
-  "auto-117601a93642": {
-    "id": "auto-117601a93642",
-    "category": "自治体",
-    "title": "整備中の福井県営産業団地、国の「GX戦略地域」認定 半導体関連産業など視野：ニュース",
-    "source": "中日BIZナビ",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tTWFNaEVSQWJaMlFRY0QxNlJNWFpqQm5zRUpRbU02dTY2MDM2d2J0SDlha0xTTlZ5RThSSVdoSEdwLXhjVWc4ZVRFRjVXcm1OaEotdlZ4N3NNTE5QejRn?oc=5",
-    "time": "9/13(日) 19:00",
-    "comments": 0,
-    "tags": [
-      "GX"
-    ],
-    "summary": "整備中の福井県営産業団地、国の「GX戦略地域」認定 半導体関連産業など視野：ニュース&nbsp;&nbsp;中日BIZナビ",
-    "body": [
-      "整備中の福井県営産業団地、国の「GX戦略地域」認定 半導体関連産業など視野：ニュース&nbsp;&nbsp;中日BIZナビ"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-a90929be1995": {
     "id": "auto-a90929be1995",
     "category": "技術",
@@ -1289,16 +1446,16 @@
     "id": "auto-46da1715cbc1",
     "category": "その他",
     "title": "避雷器用ハウジング市場、2035年までの成長予測：送配電網の近代化と再生可能エネルギー導入が牽引 - ニュースと統計",
-    "source": "IndexBox",
+    "source": "indexbox.io",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVdxdWVVckdiT0R4eXp5bnZEcDUtdHVjZ1BubjJRNVhDN3RJbUo0Tno0RjNoQzZFODE5cjNLX3lESHFDVFFiVjZkWTdIV0dkd1lYQmdONkhNNG1FVVdBcmtOM2RROFVQYUdGeFJ2TDkwODVpVDZFQlZxQVU4Y3RDTnlSR1B6cllPTnEtcVV2eFp2WEFKbEdrSzN2RmpTSXExWFIxVkt5b3YzTEV4TnJDTHJIVzNFNC1zTlp5akFWNlo?oc=5",
     "time": "9/13(日) 13:06",
     "comments": 0,
     "tags": [
       "再生可能エネルギー"
     ],
-    "summary": "避雷器用ハウジング市場、2035年までの成長予測：送配電網の近代化と再生可能エネルギー導入が牽引 - ニュースと統計&nbsp;&nbsp;IndexBox",
+    "summary": "避雷器用ハウジング市場、2035年までの成長予測：送配電網の近代化と再生可能エネルギー導入が牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io",
     "body": [
-      "避雷器用ハウジング市場、2035年までの成長予測：送配電網の近代化と再生可能エネルギー導入が牽引 - ニュースと統計&nbsp;&nbsp;IndexBox"
+      "避雷器用ハウジング市場、2035年までの成長予測：送配電網の近代化と再生可能エネルギー導入が牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io"
     ],
     "related": [],
     "collected": true,
@@ -1323,20 +1480,20 @@
     "collected": true,
     "image": null
   },
-  "auto-dfc4d5b13932": {
-    "id": "auto-dfc4d5b13932",
+  "auto-0e866bc694d9": {
+    "id": "auto-0e866bc694d9",
     "category": "暮らし",
-    "title": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始 - netventure-news.com",
-    "source": "検索: 系統用蓄電池",
+    "title": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始",
+    "source": "ネットベンチャーニュース",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLY25zOUFzTlZCRDZMR285M3hmZTNtSmFDWU5rRzVreEo2OElZVmh5LWZOLThoU0RXOHdYWUhmeUh3dkxoajN2UmpsUUxiU0g4M1h2Nks0NEkyZWRWc202ZlZR?oc=5",
     "time": "9/13(日) 12:00",
     "comments": 0,
     "tags": [
       "再エネ"
     ],
-    "summary": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;netventure-news.com",
+    "summary": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;ネットベンチャーニュース",
     "body": [
-      "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;netventure-news.com"
+      "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;ネットベンチャーニュース"
     ],
     "related": [],
     "collected": true,
@@ -1422,7 +1579,7 @@
     "id": "auto-961b954c089f",
     "category": "技術",
     "title": "UAEとモンゴルの覚書、再生可能エネルギーとグリーン水素の連携を強化 - ニュースと統計",
-    "source": "IndexBox",
+    "source": "indexbox.io",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUt5UnkySXBST2hfLS10Y3ZtcUJRdmhRamVBMVF2YnZXWFBXVU1QbFphMk9UaURVcV9KUGZrZUNIT1Vsbnc4SGV4MHNMSTBQUjRGXzVnZlVnQTZWXzM2cUhVNks0cGl1U1NfcmF2eGJuUW9NZEdUQVFSUjNwVE5BWjVSa2NLZmhmRGJuTkJBTzR6aTNvTV8wTElhV2dpaTAxdklaRHJhaVRNYl9DQnc?oc=5",
     "time": "9/13(日) 10:03",
     "comments": 0,
@@ -1430,28 +1587,9 @@
       "再生可能エネルギー",
       "水素"
     ],
-    "summary": "UAEとモンゴルの覚書、再生可能エネルギーとグリーン水素の連携を強化 - ニュースと統計&nbsp;&nbsp;IndexBox",
+    "summary": "UAEとモンゴルの覚書、再生可能エネルギーとグリーン水素の連携を強化 - ニュースと統計&nbsp;&nbsp;indexbox.io",
     "body": [
-      "UAEとモンゴルの覚書、再生可能エネルギーとグリーン水素の連携を強化 - ニュースと統計&nbsp;&nbsp;IndexBox"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-26d32e940a47": {
-    "id": "auto-26d32e940a47",
-    "category": "自治体",
-    "title": "GX戦略地域に青森県の六戸町と六ヶ所村の産業団地が認定 国と県一体での企業誘致に期待高まる",
-    "source": "TBS NEWS DIG",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaDBDVUdQa0dkZExrUC1QU01ja1Fod2dZVGtQSGVxMUM3X2lmckFmclVjNzN3QnBfTmtyMHpWejFMNHN3cW5kZHRyR3JYU0ZjS1R4OV9ENVFfZw?oc=5",
-    "time": "9/13(日) 9:00",
-    "comments": 0,
-    "tags": [
-      "GX"
-    ],
-    "summary": "GX戦略地域に青森県の六戸町と六ヶ所村の産業団地が認定 国と県一体での企業誘致に期待高まる&nbsp;&nbsp;TBS NEWS DIG",
-    "body": [
-      "GX戦略地域に青森県の六戸町と六ヶ所村の産業団地が認定 国と県一体での企業誘致に期待高まる&nbsp;&nbsp;TBS NEWS DIG"
+      "UAEとモンゴルの覚書、再生可能エネルギーとグリーン水素の連携を強化 - ニュースと統計&nbsp;&nbsp;indexbox.io"
     ],
     "related": [],
     "collected": true,
@@ -1480,16 +1618,16 @@
     "id": "auto-e11a26c1d461",
     "category": "技術",
     "title": "水素社会の実現に意欲 トヨタ自動車副社長の中嶋裕樹氏、根本通商社長の根本克頼氏に聞く",
-    "source": "47NEWS",
+    "source": "47news.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fZWFJcGNLMWVTZWZJNllJWS0xaGxwN3REUmtuUkFhY3BzQWJLY2NSOEtKWEczY0JxRDhVdUNWMGVXbzFzZS00bDhySQ?oc=5",
     "time": "9/13(日) 1:30",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "水素社会の実現に意欲 トヨタ自動車副社長の中嶋裕樹氏、根本通商社長の根本克頼氏に聞く&nbsp;&nbsp;47NEWS",
+    "summary": "水素社会の実現に意欲 トヨタ自動車副社長の中嶋裕樹氏、根本通商社長の根本克頼氏に聞く&nbsp;&nbsp;47news.jp",
     "body": [
-      "水素社会の実現に意欲 トヨタ自動車副社長の中嶋裕樹氏、根本通商社長の根本克頼氏に聞く&nbsp;&nbsp;47NEWS"
+      "水素社会の実現に意欲 トヨタ自動車副社長の中嶋裕樹氏、根本通商社長の根本克頼氏に聞く&nbsp;&nbsp;47news.jp"
     ],
     "related": [],
     "collected": true,
@@ -1709,7 +1847,7 @@
     "id": "auto-a733c977756f",
     "category": "技術",
     "title": "統合型ヒドロアミノアルコールの世界市場（2026年～2032年）、市場規模（グリーンアンモニア、グリーン水素、グリーンアルコール）・分析レポートを発表",
-    "source": "Newscast.jp",
+    "source": "newscast.jp",
     "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQSlRoZWdzcVd0Zk1pcnRtak8xRmFSanhxYll4WjVLTnQxOFVkdEJzUWtHLWhLOEZBcXVQOE1fc0ZpN0R3OGF3?oc=5",
     "time": "9/12(土) 0:00",
     "comments": 0,
@@ -1717,9 +1855,9 @@
       "アンモニア",
       "水素"
     ],
-    "summary": "統合型ヒドロアミノアルコールの世界市場（2026年～2032年）、市場規模（グリーンアンモニア、グリーン水素、グリーンアルコール）・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
+    "summary": "統合型ヒドロアミノアルコールの世界市場（2026年～2032年）、市場規模（グリーンアンモニア、グリーン水素、グリーンアルコール）・分析レポートを発表&nbsp;&nbsp;newscast.jp",
     "body": [
-      "統合型ヒドロアミノアルコールの世界市場（2026年～2032年）、市場規模（グリーンアンモニア、グリーン水素、グリーンアルコール）・分析レポートを発表&nbsp;&nbsp;Newscast.jp"
+      "統合型ヒドロアミノアルコールの世界市場（2026年～2032年）、市場規模（グリーンアンモニア、グリーン水素、グリーンアルコール）・分析レポートを発表&nbsp;&nbsp;newscast.jp"
     ],
     "related": [],
     "collected": true,
@@ -1729,16 +1867,16 @@
     "id": "auto-3e426666de8f",
     "category": "その他",
     "title": "再エネ100宣言 RE Action協議会 エネルギー自立経営トレンドを公表 停電しない会社をどうつくる？ 再エネが中小企業のBCPを変える",
-    "source": "ｄメニューニュース",
+    "source": "topics.smt.docomo.ne.jp",
     "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjY5bDlZaTJKSHZGbnhNN0d2SFo2dTVsVk12MENfdWZieWUzTmlSU2M3T2F6QjJaT2tpLVEwSHRJS05ST2lHYmxHYUtxeEJaZ3UwVU53SXhSNV9PRDgyT0F6UlJ6UkpnektTTUxsRVhjR0pTQmlqaHNjVTFVaEF1Wng1UdIBgwFBVV95cUxPNjY5bDlZaTJKSHZGbnhNN0d2SFo2dTVsVk12MENfdWZieWUzTmlSU2M3T2F6QjJaT2tpLVEwSHRJS05ST2lHYmxHYUtxeEJaZ3UwVU53SXhSNV9PRDgyT0F6UlJ6UkpnektTTUxsRVhjR0pTQmlqaHNjVTFVaEF1Wng1UQ?oc=5",
     "time": "9/11(金) 23:09",
     "comments": 0,
     "tags": [
       "再エネ"
     ],
-    "summary": "再エネ100宣言 RE Action協議会 エネルギー自立経営トレンドを公表 停電しない会社をどうつくる？ 再エネが中小企業のBCPを変える&nbsp;&nbsp;ｄメニューニュース",
+    "summary": "再エネ100宣言 RE Action協議会 エネルギー自立経営トレンドを公表 停電しない会社をどうつくる？ 再エネが中小企業のBCPを変える&nbsp;&nbsp;topics.smt.docomo.ne.jp",
     "body": [
-      "再エネ100宣言 RE Action協議会 エネルギー自立経営トレンドを公表 停電しない会社をどうつくる？ 再エネが中小企業のBCPを変える&nbsp;&nbsp;ｄメニューニュース"
+      "再エネ100宣言 RE Action協議会 エネルギー自立経営トレンドを公表 停電しない会社をどうつくる？ 再エネが中小企業のBCPを変える&nbsp;&nbsp;topics.smt.docomo.ne.jp"
     ],
     "related": [],
     "collected": true,
@@ -1874,44 +2012,6 @@
     "summary": "「水素先進地・福島」着々と、古民家への給電やＦＣＶトラックの導入拡大…トヨタなど普及取り組み&nbsp;&nbsp;au Webポータル",
     "body": [
       "「水素先進地・福島」着々と、古民家への給電やＦＣＶトラックの導入拡大…トヨタなど普及取り組み&nbsp;&nbsp;au Webポータル"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-16c06dd0525b": {
-    "id": "auto-16c06dd0525b",
-    "category": "技術",
-    "title": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026 1枚目の写真・画像",
-    "source": "レスポンス（Response.jp）",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5POTBlVklhY2lxM1h0dG9KaUk4YnBjeUJaSGRGV1VKUG9ic01qTHdFXzRpVDI0SFlxalZSOUNBYVlPOTF3RFp2UzdVRk9rREd2cnNkVW9rLTdnVUp4RWU5WnhaMlo0V3ZvdWJzZw?oc=5",
-    "time": "9/11(金) 9:20",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026 1枚目の写真・画像&nbsp;&nbsp;レスポンス（Response.jp）",
-    "body": [
-      "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026 1枚目の写真・画像&nbsp;&nbsp;レスポンス（Response.jp）"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-fc8cc5d7b51d": {
-    "id": "auto-fc8cc5d7b51d",
-    "category": "技術",
-    "title": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026（レスポンス） | 自動車情報・ニュース",
-    "source": "carview!",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzdtUDFlOU9BVTgxdnB4VHdjLWhIUS1EX0hHSWxnTXVlVEw4V1RLM3pJVmFfRHZvclp4cUI4UXUzb0F4eW1tRzVMZDh5UHZaVUZBQUltUmwzNE9GUkJxVmJlX3ZhRW9qb3NlNldJczVCMVBoOUZEU2R2bExNWGw0OWc3Ynl1eF9U?oc=5",
-    "time": "9/11(金) 8:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026（レスポンス） | 自動車情報・ニュース&nbsp;&nbsp;carview!",
-    "body": [
-      "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026（レスポンス） | 自動車情報・ニュース&nbsp;&nbsp;carview!"
     ],
     "related": [],
     "collected": true,
@@ -2782,25 +2882,6 @@
     "collected": true,
     "image": "https://www.env.go.jp/content/000078974.jpg"
   },
-  "auto-7e71419e0298": {
-    "id": "auto-7e71419e0298",
-    "category": "国",
-    "title": "令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）の一次公募結果について",
-    "source": "環境省",
-    "source_url": "https://www.env.go.jp/press/press_05505.html",
-    "time": "8/25(火) 0:00",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）の一次公募結果について",
-    "body": [
-      "令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）の一次公募結果について"
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://www.env.go.jp/content/000078974.jpg"
-  },
   "auto-4de40045e135": {
     "id": "auto-4de40045e135",
     "category": "国際",
@@ -3619,25 +3700,6 @@
     "related": [],
     "collected": true,
     "image": "https://ascii.jp/img/2026/07/17/4502015/l/8832dad424e20cd3.jpg"
-  },
-  "auto-3abbfad63698": {
-    "id": "auto-3abbfad63698",
-    "category": "技術",
-    "title": "Pv Bess Ev 充電システム市場分析と予測 2032",
-    "source": "はてなブックマーク",
-    "source_url": "https://www.wiseguyreports.com/ja/reports/pv-bess-ev-charging-systems-market",
-    "time": "7/15(水) 15:47",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "グローバルPV Bess Ev充電システム市場調査レポート電池タイプ別（鉛酸、リチウムイオン、ニッケル水素）、定格電力別（25kW未満、25～50kW、50kW以上）、充電モード別（DC充電、AC充電、ワイヤレス充電）、アプリケーション別（住宅、商業、産業）および地域別（北米、ヨ…",
-    "body": [
-      "グローバルPV Bess Ev充電システム市場調査レポート電池タイプ別（鉛酸、リチウムイオン、ニッケル水素）、定格電力別（25kW未満、25～50kW、50kW以上）、充電モード別（DC充電、AC充電、ワイヤレス充電）、アプリケーション別（住宅、商業、産業）および地域別（北米、ヨーロッパ、南米、アジア）太平洋、中東、アフリ..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://www.wiseguyreports.com/images/01.webp"
   },
   "auto-401a7628f88c": {
     "id": "auto-401a7628f88c",
@@ -4855,6 +4917,349 @@
     "collected": true,
     "image": null
   },
+  "auto-72cf7b804a96": {
+    "id": "auto-72cf7b804a96",
+    "category": "自治体",
+    "title": "社会人向けGX人材育成プログラム「GXプロフェッショナル＋Rプログラム」開講",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000022771.html",
+    "time": "9/14(月) 15:40",
+    "comments": 0,
+    "tags": [
+      "GX"
+    ],
+    "summary": "[立命館大学] 立命館大学（所在地：京都市中京区、学長：仲谷善雄）は、文部科学省が実施する「産学連携リ・スキリング・エコシステム構築事業」に2年連続で採択されました。これを受け、2026年9月15日より「GXプロフェッシ...",
+    "body": [
+      "[立命館大学] 立命館大学（所在地：京都市中京区、学長：仲谷善雄）は、文部科学省が実施する「産学連携リ・スキリング・エコシステム構築事業」に2年連続で採択されました。これを受け、2026年9月15日より「GXプロフェッシ..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/22771/35/22771-35-af84808caa3b67ade77b3e2a051c53f7-1280x720.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-0d1ff5167b33": {
+    "id": "auto-0d1ff5167b33",
+    "category": "その他",
+    "title": "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛",
+    "source": "みんなの広報宣伝部",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSGpCRm5oa0tmOEVFcDY5blZmU092a0xtMTJybEhPT0tGMkFfZUYxNWl5dlA5aWpBZ0JLNXZWZEd6aHZVZFVLRmN3dTFXOUhkTHQ0VGVVRTFoSVlIb1RnMk03YlhnN3VXTXl4d3lUeUgxdw?oc=5",
+    "time": "9/14(月) 5:44",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛&nbsp;&nbsp;みんなの広報宣伝部",
+    "body": [
+      "【太陽光発電】yh：発電所のケーブル盗難対策「鉄壁」を開始、24時間監視と即時通報で資産防衛&nbsp;&nbsp;みんなの広報宣伝部"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-f0f7fc8bd6a8": {
+    "id": "auto-f0f7fc8bd6a8",
+    "category": "その他",
+    "title": "高電圧機器市場は2035年に402億9,000万米ドル規模へ｜CAGR 3.43％、再生可能エネルギー連系と送配電網強化が成長を加速",
+    "source": "Excite エキサイト",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFY3lZZ1ZkeHpZOHVPRHB3TE5lQnkzRFRTV2N1X2EtVVg0Yllxa0dybDdYNEhuSGpnd3FsS05zRUhSN3VnNlVlMEg5VGIxdFdrby1yRUFzNTY0bkxraHZRS2RsWXQ5eGdodWc?oc=5",
+    "time": "9/14(月) 5:30",
+    "comments": 0,
+    "tags": [
+      "再生可能エネルギー"
+    ],
+    "summary": "高電圧機器市場は2035年に402億9,000万米ドル規模へ｜CAGR 3.43％、再生可能エネルギー連系と送配電網強化が成長を加速&nbsp;&nbsp;Excite エキサイト",
+    "body": [
+      "高電圧機器市場は2035年に402億9,000万米ドル規模へ｜CAGR 3.43％、再生可能エネルギー連系と送配電網強化が成長を加速&nbsp;&nbsp;Excite エキサイト"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-7e3f1bac9a91": {
+    "id": "auto-7e3f1bac9a91",
+    "category": "自治体",
+    "title": "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論",
+    "source": "みんなの広報宣伝部",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54WFFNT21HSHJTMXRxd2lqY3h1MU5nWDIxQThoSU5JMWhldWpOZjRaTTVkWF9yTC1fMlJzWkY1cGwtLVJsQXQ3V3RKTVRLMU5PemlhY2tXNVVWODU0aHpkVXMwSmxSemlOc3ZhLUFzckpnNUk?oc=5",
+    "time": "9/14(月) 5:24",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論&nbsp;&nbsp;みんなの広報宣伝部",
+    "body": [
+      "【太陽光発電】プラチナ構想ネットワーク：営農型太陽光を地域主導の社会実装へ、制度改正を機に農業・エネルギーの一体化を議論&nbsp;&nbsp;みんなの広報宣伝部"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-a47958100470": {
+    "id": "auto-a47958100470",
+    "category": "その他",
+    "title": "ブルーインパルス、愛知上空飛行で国産SAF使用",
+    "source": "航空新聞社",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56RG82ek5kTHJZVVRUb1dCLVFPcF9Da1RDMUpSNno0Qjk5bXhkUl9ULTdHeDRRSzRBb2p1X3BIV3ZHYjUtNjhrbg?oc=5",
+    "time": "9/14(月) 5:18",
+    "comments": 0,
+    "tags": [
+      "SAF"
+    ],
+    "summary": "ブルーインパルス、愛知上空飛行で国産SAF使用&nbsp;&nbsp;航空新聞社",
+    "body": [
+      "ブルーインパルス、愛知上空飛行で国産SAF使用&nbsp;&nbsp;航空新聞社"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-169e7c75f92b": {
+    "id": "auto-169e7c75f92b",
+    "category": "その他",
+    "title": "ONE、サプライチェーン強靱化と脱炭素を議論 - logi-today.com",
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BRXRNOUtydFlOc01YYlB3SUtZd0FsYVNoMTR0Q2RSang1bW5ScjdIQVBNVElTNS13WWRCbEJBdUdtdkFuTndOdg?oc=5",
+    "time": "9/14(月) 4:06",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "ONE、サプライチェーン強靱化と脱炭素を議論&nbsp;&nbsp;logi-today.com",
+    "body": [
+      "ONE、サプライチェーン強靱化と脱炭素を議論&nbsp;&nbsp;logi-today.com"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-6606d611189c": {
+    "id": "auto-6606d611189c",
+    "category": "その他",
+    "title": "安藤ハザマ第1号の系統用蓄電所が運転開始",
+    "source": "CNET Japan",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DV2JHWkdLbTRTWnpIRHhpVlNZR2w4eDhHc2Z4Z29Tc0w1LVdHbXJMRU5tYTNReUFmZXczRGF1TnFjaHNtN2tnQmFUOUR4MVQwVHc?oc=5",
+    "time": "9/14(月) 2:15",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "安藤ハザマ第1号の系統用蓄電所が運転開始&nbsp;&nbsp;CNET Japan",
+    "body": [
+      "安藤ハザマ第1号の系統用蓄電所が運転開始&nbsp;&nbsp;CNET Japan"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-2fc90028dc89": {
+    "id": "auto-2fc90028dc89",
+    "category": "自治体",
+    "title": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す - niigata-nippo.co.jp",
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6dkh0ampzMHByMEVnRlRkLW0tcmVVWmdqemNDNjM3M0VsSFNFTkl1ejBrem95OUFlVUVEaHRLU0xSb1BtTF9aR0pEZkJ3VDNjcDdRWms1d1IxSGl5Qmc?oc=5",
+    "time": "9/14(月) 1:30",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;niigata-nippo.co.jp",
+    "body": [
+      "国の「ＧＸ戦略地域」第1弾に聖籠町、小千谷市、柏崎市が認定 脱炭素加速へ「クラスター」形成目指す&nbsp;&nbsp;niigata-nippo.co.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-f2ac4c51135f": {
+    "id": "auto-f2ac4c51135f",
+    "category": "技術",
+    "title": "「水素大動脈構想」を実現する動きが加速する 水素バリューチェーン推進協議会（JH2A）が福島県で地域準備会を開催",
+    "source": "Motor Fan",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2pQbk9fSXhJY3paMm9CeVM4bTNGVlBCTndhcVVpOWl3OFBQTU1GZi1UckcxT21NTG5JTzZabjVjOVpvTHBpaGViR3JobVJWWXpudURPVWJaNmlOUDhHaDlDZVZLdVFkTkN0X0tCT2gydXhsZHJJUnFjSVJvTVlqS0gyWVc?oc=5",
+    "time": "9/14(月) 0:37",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "「水素大動脈構想」を実現する動きが加速する 水素バリューチェーン推進協議会（JH2A）が福島県で地域準備会を開催&nbsp;&nbsp;Motor Fan",
+    "body": [
+      "「水素大動脈構想」を実現する動きが加速する 水素バリューチェーン推進協議会（JH2A）が福島県で地域準備会を開催&nbsp;&nbsp;Motor Fan"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-89af34927768": {
+    "id": "auto-89af34927768",
+    "category": "その他",
+    "title": "JALグループの農園に「PowerX Cube」 夏いちごの収穫とカーボンゼロ農業を支える",
+    "source": "sanyonews.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtS2RaczI0TWFmZXE4amNJS09ZWmZSM2Y3bEd3NURVX0VOQWhkQ3lJU3dBXzgzWXZRNnhhc2Z2alNKY2lBT0JuWkxIZV9PeW5IaVE?oc=5",
+    "time": "9/13(日) 23:33",
+    "comments": 0,
+    "tags": [
+      "カーボン"
+    ],
+    "summary": "JALグループの農園に「PowerX Cube」 夏いちごの収穫とカーボンゼロ農業を支える&nbsp;&nbsp;sanyonews.jp",
+    "body": [
+      "JALグループの農園に「PowerX Cube」 夏いちごの収穫とカーボンゼロ農業を支える&nbsp;&nbsp;sanyonews.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-cae417d224e5": {
+    "id": "auto-cae417d224e5",
+    "category": "国際",
+    "title": "韓国・新安沖に高さ227mの風力発電機10基… 2031年までに900MW団地へ拡張",
+    "source": "BigGo ファイナンス",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BQ0dOSU5qZUdvRmxValNkdkdqQURWYkNKSS1Vd0l3elI2amRpTFFNckdCYVU3dnBHcmdINXhwQ0h6REpZdTVScWpzS1l6OHlPakhTa1NnV09SZTFUdXkyMy1xZlNVWjZSS0Zra0JveHhteVYy?oc=5",
+    "time": "9/13(日) 22:25",
+    "comments": 0,
+    "tags": [
+      "風力"
+    ],
+    "summary": "韓国・新安沖に高さ227mの風力発電機10基… 2031年までに900MW団地へ拡張&nbsp;&nbsp;BigGo ファイナンス",
+    "body": [
+      "韓国・新安沖に高さ227mの風力発電機10基… 2031年までに900MW団地へ拡張&nbsp;&nbsp;BigGo ファイナンス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-565c815b8837": {
+    "id": "auto-565c815b8837",
+    "category": "その他",
+    "title": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介",
+    "source": "みんなの広報宣伝部",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNGhOeDY2Q3RaTTBtT1gtSmppZ2s0V241YTdjV014OW01VUdrXy1ueVJSR2FRZVBBMU1obHJmbU1iUU5zRk55MkhNNXp4dy1URnBKT3c2VmNMay1Cdnd3WThhZ3RUMElzcjQ3aW1SOG5xQQ?oc=5",
+    "time": "9/13(日) 22:23",
+    "comments": 0,
+    "tags": [
+      "カーボン",
+      "太陽光"
+    ],
+    "summary": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;みんなの広報宣伝部",
+    "body": [
+      "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;みんなの広報宣伝部"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-117601a93642": {
+    "id": "auto-117601a93642",
+    "category": "自治体",
+    "title": "整備中の福井県営産業団地、国の「GX戦略地域」認定 半導体関連産業など視野：ニュース",
+    "source": "中日BIZナビ",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tTWFNaEVSQWJaMlFRY0QxNlJNWFpqQm5zRUpRbU02dTY2MDM2d2J0SDlha0xTTlZ5RThSSVdoSEdwLXhjVWc4ZVRFRjVXcm1OaEotdlZ4N3NNTE5QejRn?oc=5",
+    "time": "9/13(日) 19:00",
+    "comments": 0,
+    "tags": [
+      "GX"
+    ],
+    "summary": "整備中の福井県営産業団地、国の「GX戦略地域」認定 半導体関連産業など視野：ニュース&nbsp;&nbsp;中日BIZナビ",
+    "body": [
+      "整備中の福井県営産業団地、国の「GX戦略地域」認定 半導体関連産業など視野：ニュース&nbsp;&nbsp;中日BIZナビ"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-dfc4d5b13932": {
+    "id": "auto-dfc4d5b13932",
+    "category": "暮らし",
+    "title": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始 - netventure-news.com",
+    "source": "検索: 系統用蓄電池",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLY25zOUFzTlZCRDZMR285M3hmZTNtSmFDWU5rRzVreEo2OElZVmh5LWZOLThoU0RXOHdYWUhmeUh3dkxoajN2UmpsUUxiU0g4M1h2Nks0NEkyZWRWc202ZlZR?oc=5",
+    "time": "9/13(日) 12:00",
+    "comments": 0,
+    "tags": [
+      "再エネ"
+    ],
+    "summary": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;netventure-news.com",
+    "body": [
+      "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;netventure-news.com"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-26d32e940a47": {
+    "id": "auto-26d32e940a47",
+    "category": "自治体",
+    "title": "GX戦略地域に青森県の六戸町と六ヶ所村の産業団地が認定 国と県一体での企業誘致に期待高まる",
+    "source": "TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaDBDVUdQa0dkZExrUC1QU01ja1Fod2dZVGtQSGVxMUM3X2lmckFmclVjNzN3QnBfTmtyMHpWejFMNHN3cW5kZHRyR3JYU0ZjS1R4OV9ENVFfZw?oc=5",
+    "time": "9/13(日) 9:00",
+    "comments": 0,
+    "tags": [
+      "GX"
+    ],
+    "summary": "GX戦略地域に青森県の六戸町と六ヶ所村の産業団地が認定 国と県一体での企業誘致に期待高まる&nbsp;&nbsp;TBS NEWS DIG",
+    "body": [
+      "GX戦略地域に青森県の六戸町と六ヶ所村の産業団地が認定 国と県一体での企業誘致に期待高まる&nbsp;&nbsp;TBS NEWS DIG"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-16c06dd0525b": {
+    "id": "auto-16c06dd0525b",
+    "category": "技術",
+    "title": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026 1枚目の写真・画像",
+    "source": "レスポンス（Response.jp）",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5POTBlVklhY2lxM1h0dG9KaUk4YnBjeUJaSGRGV1VKUG9ic01qTHdFXzRpVDI0SFlxalZSOUNBYVlPOTF3RFp2UzdVRk9rREd2cnNkVW9rLTdnVUp4RWU5WnhaMlo0V3ZvdWJzZw?oc=5",
+    "time": "9/11(金) 9:20",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026 1枚目の写真・画像&nbsp;&nbsp;レスポンス（Response.jp）",
+    "body": [
+      "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026 1枚目の写真・画像&nbsp;&nbsp;レスポンス（Response.jp）"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-fc8cc5d7b51d": {
+    "id": "auto-fc8cc5d7b51d",
+    "category": "技術",
+    "title": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026（レスポンス） | 自動車情報・ニュース",
+    "source": "carview!",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzdtUDFlOU9BVTgxdnB4VHdjLWhIUS1EX0hHSWxnTXVlVEw4V1RLM3pJVmFfRHZvclp4cUI4UXUzb0F4eW1tRzVMZDh5UHZaVUZBQUltUmwzNE9GUkJxVmJlX3ZhRW9qb3NlNldJczVCMVBoOUZEU2R2bExNWGw0OWc3Ynl1eF9U?oc=5",
+    "time": "9/11(金) 8:00",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026（レスポンス） | 自動車情報・ニュース&nbsp;&nbsp;carview!",
+    "body": [
+      "ボッシュ、電動・水素・AI安全システムを次世代トラックに搭載へ…IAA Transportation 2026（レスポンス） | 自動車情報・ニュース&nbsp;&nbsp;carview!"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-3abbfad63698": {
+    "id": "auto-3abbfad63698",
+    "category": "技術",
+    "title": "Pv Bess Ev 充電システム市場分析と予測 2032",
+    "source": "はてなブックマーク",
+    "source_url": "https://www.wiseguyreports.com/ja/reports/pv-bess-ev-charging-systems-market",
+    "time": "7/15(水) 15:47",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "グローバルPV Bess Ev充電システム市場調査レポート電池タイプ別（鉛酸、リチウムイオン、ニッケル水素）、定格電力別（25kW未満、25～50kW、50kW以上）、充電モード別（DC充電、AC充電、ワイヤレス充電）、アプリケーション別（住宅、商業、産業）および地域別（北米、ヨ…",
+    "body": [
+      "グローバルPV Bess Ev充電システム市場調査レポート電池タイプ別（鉛酸、リチウムイオン、ニッケル水素）、定格電力別（25kW未満、25～50kW、50kW以上）、充電モード別（DC充電、AC充電、ワイヤレス充電）、アプリケーション別（住宅、商業、産業）および地域別（北米、ヨーロッパ、南米、アジア）太平洋、中東、アフリ..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://www.wiseguyreports.com/images/01.webp"
+  },
   "auto-0ec142d93439": {
     "id": "auto-0ec142d93439",
     "category": "企業",
@@ -5060,25 +5465,6 @@
     "summary": "航空分野での水素の進歩は続く：これがこの燃料を搭載した次の飛行機となる&nbsp;&nbsp;Driving ECO",
     "body": [
       "航空分野での水素の進歩は続く：これがこの燃料を搭載した次の飛行機となる&nbsp;&nbsp;Driving ECO"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0e866bc694d9": {
-    "id": "auto-0e866bc694d9",
-    "category": "暮らし",
-    "title": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始",
-    "source": "ネットベンチャーニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLY25zOUFzTlZCRDZMR285M3hmZTNtSmFDWU5rRzVreEo2OElZVmh5LWZOLThoU0RXOHdYWUhmeUh3dkxoajN2UmpsUUxiU0g4M1h2Nks0NEkyZWRWc202ZlZR?oc=5",
-    "time": "9/13(日) 12:00",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;ネットベンチャーニュース",
-    "body": [
-      "家庭用再エネ事業のえねこ、独自AI基盤を構築開始&nbsp;&nbsp;ネットベンチャーニュース"
     ],
     "related": [],
     "collected": true,
@@ -5447,26 +5833,6 @@
     "collected": true,
     "image": null
   },
-  "auto-0d18b45d05a5": {
-    "id": "auto-0d18b45d05a5",
-    "category": "その他",
-    "title": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-    "source": "検索: 洋上風力・太陽光",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNGhOeDY2Q3RaTTBtT1gtSmppZ2s0V241YTdjV014OW01VUdrXy1ueVJSR2FRZVBBMU1obHJmbU1iUU5zRk55MkhNNXp4dy1URnBKT3c2VmNMay1Cdnd3WThhZ3RUMElzcjQ3aW1SOG5xQQ?oc=5",
-    "time": "9/13(日) 22:23",
-    "comments": 0,
-    "tags": [
-      "カーボン",
-      "太陽光"
-    ],
-    "summary": "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-    "body": [
-      "【案内】東京都：中小企業のカーボンクレジット創出を支援、第2回セミナーで太陽光・空調など6プロジェクト紹介&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-12dc0b0ba2d9": {
     "id": "auto-12dc0b0ba2d9",
     "category": "国際",
@@ -5501,25 +5867,6 @@
     "summary": "住友電工、高出力型の大型蓄電池開発。蓄電所建設コスト低減に寄与（鉄鋼新聞）&nbsp;&nbsp;Yahoo!ニュース",
     "body": [
       "住友電工、高出力型の大型蓄電池開発。蓄電所建設コスト低減に寄与（鉄鋼新聞）&nbsp;&nbsp;Yahoo!ニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-002ee3bf752b": {
-    "id": "auto-002ee3bf752b",
-    "category": "国際",
-    "title": "送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は",
-    "source": "ASCII.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81a1pPQk5iQnBJMXR6c3I1ZzRpZ3JxT0dFVzFqZTIxOGc2Vll0YTljTC01MWVuajdtbEtpOUdkMUNNbjlVS0dmNFJzd0dDb0h5ODZaMg?oc=5",
-    "time": "9/13(日) 20:49",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は&nbsp;&nbsp;ASCII.jp",
-    "body": [
-      "送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は&nbsp;&nbsp;ASCII.jp"
     ],
     "related": [],
     "collected": true,
@@ -18857,349 +19204,6 @@
     "summary": "[独自レポートVol.51]太陽光・蓄電池の導入検討、半数以上が「初期費用」で断念。後押しの鍵は「補助金案内」と「経済効果シミュレーション」&nbsp;&nbsp;rbbtoday.com",
     "body": [
       "[独自レポートVol.51]太陽光・蓄電池の導入検討、半数以上が「初期費用」で断念。後押しの鍵は「補助金案内」と「経済効果シミュレーション」&nbsp;&nbsp;rbbtoday.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-27a048df3870": {
-    "id": "auto-27a048df3870",
-    "category": "その他",
-    "title": "Carbon EX、「exroad」を5プランに刷新、J-クレジット・非化石証書の2030年までの将来価格予測を提供",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrcWRBcXZoUzBpdXBtdXNlNzQyMEFBdjJTT252UEU3Sk5acl9jQlNqeHJVU1pwNUVWdkRUNlFybTltb0k5OEtBOTVBOC1JLWdhbE5WeUpNeEZwTng4U3BIclZwUkp3QUlSb2ZiLVpDWWNzdWxKb3FITnBSOA?oc=5",
-    "time": "9/7(月) 2:18",
-    "comments": 0,
-    "tags": [
-      "J-クレジット"
-    ],
-    "summary": "Carbon EX、「exroad」を5プランに刷新、J-クレジット・非化石証書の2030年までの将来価格予測を提供&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "Carbon EX、「exroad」を5プランに刷新、J-クレジット・非化石証書の2030年までの将来価格予測を提供&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-2383257c72ff": {
-    "id": "auto-2383257c72ff",
-    "category": "技術",
-    "title": "国連気候変動枠組条約第31回締約国会議(COP31) 環境省主催「ジャパン・パビリオン」へ出展 ～廃棄物を水素・一酸化炭素へ変える世界でも希少な革新技術を紹介 - jfe-eng.co.jp",
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43RDNyRTV0TDZaWXFaUUhxNWJFVHVacGNwTTA1TGNieEZhMzNHZkktR2pwZjNHa1ZqMzdKX04yQTlxbC1TSUFxNWlkbHl0ZHY4ai1CRXdhRFpzTnRKTFE?oc=5",
-    "time": "9/7(月) 2:04",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "国連気候変動枠組条約第31回締約国会議(COP31) 環境省主催「ジャパン・パビリオン」へ出展 ～廃棄物を水素・一酸化炭素へ変える世界でも希少な革新技術を紹介&nbsp;&nbsp;jfe-eng.co.jp",
-    "body": [
-      "国連気候変動枠組条約第31回締約国会議(COP31) 環境省主催「ジャパン・パビリオン」へ出展 ～廃棄物を水素・一酸化炭素へ変える世界でも希少な革新技術を紹介&nbsp;&nbsp;jfe-eng.co.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-629007112278": {
-    "id": "auto-629007112278",
-    "category": "その他",
-    "title": "洋上風力発電 促進へ供給網の構築を",
-    "source": "カナロコ",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhbXVrR2ZKZnpXRTlXdlRIZVc0VkR0aUY1OG1xNUktWVhhb2N4T19JUldnMWdZUU1xajc0elZfcjZfbFNuOERzWmFoYUtxN3Q5bGlLRkFvbUdrbUt2QXJWRXJVWU8yQ3VNN2xFS3NYWFZONnRzcXgzSkMwSGI?oc=5",
-    "time": "9/7(月) 0:00",
-    "comments": 0,
-    "tags": [
-      "洋上風力"
-    ],
-    "summary": "洋上風力発電 促進へ供給網の構築を&nbsp;&nbsp;カナロコ",
-    "body": [
-      "洋上風力発電 促進へ供給網の構築を&nbsp;&nbsp;カナロコ"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-677b90596f6d": {
-    "id": "auto-677b90596f6d",
-    "category": "その他",
-    "title": "【提携・M&A・新会社】FPS：ケネディクス傘下入りで再エネ事業を強化、電力小売とアグリゲーションの運用基盤を融合",
-    "source": "みんなの広報宣伝部",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wUTFqazVGT3JFcmhLak82ZjIwY2l0MC15RnhZVnF1TGIyajQ3Tm1wamdDcXRlNmV2cjU0aFRXZXNUTVVQLS1VRGpLbm9BU3FicVEzNHlMTzFvMDNmajZhSldMWG00NEFrbVdjcUYxVUpDQQ?oc=5",
-    "time": "9/6(日) 23:02",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "【提携・M&A・新会社】FPS：ケネディクス傘下入りで再エネ事業を強化、電力小売とアグリゲーションの運用基盤を融合&nbsp;&nbsp;みんなの広報宣伝部",
-    "body": [
-      "【提携・M&A・新会社】FPS：ケネディクス傘下入りで再エネ事業を強化、電力小売とアグリゲーションの運用基盤を融合&nbsp;&nbsp;みんなの広報宣伝部"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-4a5b955124cd": {
-    "id": "auto-4a5b955124cd",
-    "category": "その他",
-    "title": "【学会】日本太陽エネルギー学会：太陽光パネル「大量廃棄時代」に備え、リサイクルの現状と課題を議論―水平循環から制度設計まで34講演",
-    "source": "みんなの広報宣伝部",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcXQ2ODljNUhETm1aZEVqQS0wYW9pUHFITkhoUkxkS1FrVF9QekR1UEl2SWxWaV9BYkU0N3lsMDhpbnZ6WjBSSWVSeEtqSW4wMnpPNVJQNTdPd0g0U3FxTnpvQUVPSFA3LVIwSlAzWTByak0?oc=5",
-    "time": "9/6(日) 22:07",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "【学会】日本太陽エネルギー学会：太陽光パネル「大量廃棄時代」に備え、リサイクルの現状と課題を議論―水平循環から制度設計まで34講演&nbsp;&nbsp;みんなの広報宣伝部",
-    "body": [
-      "【学会】日本太陽エネルギー学会：太陽光パネル「大量廃棄時代」に備え、リサイクルの現状と課題を議論―水平循環から制度設計まで34講演&nbsp;&nbsp;みんなの広報宣伝部"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-957f6e2da5d6": {
-    "id": "auto-957f6e2da5d6",
-    "category": "その他",
-    "title": "再生可能エネルギーを推進していたテック大手 なぜ従来型電源への投資に転じたのか",
-    "source": "epochtimes.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yRTlzS2hySFotdGN4eG5PYmhrOFhjNUkzRkhmbWstemZ6NVVMSS1mcGNTczRObURVMThEcWlhVGVxcFRWWVVuVGtGMkhIUTNOWC1GVXZyTnNYV1HSAVtBVV95cUxPckU5c0tockhaLXRjeHhuT2JoazhYYzVJM0ZIZm1rLXpmejVVTEktZnBjU3M0Tm1EVTE4RHFpYVRlcXBUVllVblRrRjJISFEzTlgtRlV2ck5zWFdR?oc=5",
-    "time": "9/6(日) 11:12",
-    "comments": 0,
-    "tags": [
-      "再生可能エネルギー"
-    ],
-    "summary": "再生可能エネルギーを推進していたテック大手 なぜ従来型電源への投資に転じたのか&nbsp;&nbsp;epochtimes.jp",
-    "body": [
-      "再生可能エネルギーを推進していたテック大手 なぜ従来型電源への投資に転じたのか&nbsp;&nbsp;epochtimes.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-003c1f8b9f52": {
-    "id": "auto-003c1f8b9f52",
-    "category": "技術",
-    "title": "国産水素、付加価値で弾み／山梨・米倉山で実証進む –",
-    "source": "電気新聞ウェブサイト",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Wam5xWHRoR2lzcEk4dzZZZjA2WEFxUE5CaFZkTndyUFcxQVNueFpITG1XV1EzZTlkeFk4dTZwalB3elk0a2ZxaFNzQ3I2SmxTcFE1TWwzOA?oc=5",
-    "time": "9/6(日) 10:39",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "国産水素、付加価値で弾み／山梨・米倉山で実証進む –&nbsp;&nbsp;電気新聞ウェブサイト",
-    "body": [
-      "国産水素、付加価値で弾み／山梨・米倉山で実証進む –&nbsp;&nbsp;電気新聞ウェブサイト"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-1d615071b83d": {
-    "id": "auto-1d615071b83d",
-    "category": "その他",
-    "title": "系統用蓄電池設備の安全設計情報を公開―蓄電池製品「Raptor」の安全設計、EMS2台構成によるバックアップ体制と各機器の製品保証",
-    "source": "Infoseek",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xT1VER3M4cmNybXlxSFB5eEEzd1pwQWF3S2xYX2NTdjhqcERmNk51UXcxbUo5X0NaSFlSQUdyVkJiX1FxdDhQdXpRb3JyTV8zbFdZeVBtTHM0bk5hMGI5WllrTmxzaW1EWExyaVFIb2VzZw?oc=5",
-    "time": "9/4(金) 10:10",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "系統用蓄電池設備の安全設計情報を公開―蓄電池製品「Raptor」の安全設計、EMS2台構成によるバックアップ体制と各機器の製品保証&nbsp;&nbsp;Infoseek",
-    "body": [
-      "系統用蓄電池設備の安全設計情報を公開―蓄電池製品「Raptor」の安全設計、EMS2台構成によるバックアップ体制と各機器の製品保証&nbsp;&nbsp;Infoseek"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-e48fe353eb35": {
-    "id": "auto-e48fe353eb35",
-    "category": "技術",
-    "title": "「水素エネルギー」の社会実装に向けた準備会が福島で開催。東北から九州まで水素トラックを走らせる「水素大動脈」構想とは？",
-    "source": "月刊自家用車WEB",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tdjZUY3Nlb0dJR3BOUmdjbUZtUzNJSFMxTnJHSFdscEdOektRXzBYaEFzbkpqMk1rRGwtMGs4Mjk2bjFNMEV4S09VVmN3enQ1cmtGZW45SnFxcUJYOVZLMHFn?oc=5",
-    "time": "9/4(金) 9:49",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "「水素エネルギー」の社会実装に向けた準備会が福島で開催。東北から九州まで水素トラックを走らせる「水素大動脈」構想とは？&nbsp;&nbsp;月刊自家用車WEB",
-    "body": [
-      "「水素エネルギー」の社会実装に向けた準備会が福島で開催。東北から九州まで水素トラックを走らせる「水素大動脈」構想とは？&nbsp;&nbsp;月刊自家用車WEB"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-02fcd684982c": {
-    "id": "auto-02fcd684982c",
-    "category": "その他",
-    "title": "三菱総合研究所と日立、特別高圧帯の系統用蓄電池事業者向けに電力トレーディング高度化支援のサービス提供における協業開始",
-    "source": "朝日新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ka0J0cFJlQTN0QkFkdFN2ZG9QOGlERHB2Nzl5UG9UcHQwMnpzX1REbENHbHlXUFJRU1pnWnpmaFdrS2RQYmJvQ01hWmRNUEhCUjJMb2U3c1lmQ0E?oc=5",
-    "time": "9/4(金) 9:49",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "三菱総合研究所と日立、特別高圧帯の系統用蓄電池事業者向けに電力トレーディング高度化支援のサービス提供における協業開始&nbsp;&nbsp;朝日新聞",
-    "body": [
-      "三菱総合研究所と日立、特別高圧帯の系統用蓄電池事業者向けに電力トレーディング高度化支援のサービス提供における協業開始&nbsp;&nbsp;朝日新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-c3058305e1be": {
-    "id": "auto-c3058305e1be",
-    "category": "技術",
-    "title": "水素大型トラック市場分析レポート：2026年398.92百万米ドル規模、成長率28.91%推移｜QYResearch",
-    "source": "note",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtczhrcGhGVkp6MmVzZVpsbFB1QXVVV0phcmw0ellzcUlFM3g2QWVzVzF5blBnVkxvNFlzdngtVUp4QW1KeTRQTk1DX2tkbVBaVUFpUXduaw?oc=5",
-    "time": "9/4(金) 8:19",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "水素大型トラック市場分析レポート：2026年398.92百万米ドル規模、成長率28.91%推移｜QYResearch&nbsp;&nbsp;note",
-    "body": [
-      "水素大型トラック市場分析レポート：2026年398.92百万米ドル規模、成長率28.91%推移｜QYResearch&nbsp;&nbsp;note"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-d8fa6b20b6ed": {
-    "id": "auto-d8fa6b20b6ed",
-    "category": "技術",
-    "title": "シーエムシー・リサーチ、水素物流ハブのDC設計分析",
-    "source": "LOGISTICS TODAY",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRYUlpLXZzT3pIZWZwWVpOOVVsTlpoNjYzeEkxTTlCTXBSSk9raDBiTlM3U2tkUmtCOGtlQzNFZGJEa3lMNndjYg?oc=5",
-    "time": "9/4(金) 7:03",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "シーエムシー・リサーチ、水素物流ハブのDC設計分析&nbsp;&nbsp;LOGISTICS TODAY",
-    "body": [
-      "シーエムシー・リサーチ、水素物流ハブのDC設計分析&nbsp;&nbsp;LOGISTICS TODAY"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-e898e28f2d81": {
-    "id": "auto-e898e28f2d81",
-    "category": "その他",
-    "title": "【JPIセミナー】「カーボンプライシング政策の制度・市場環境を踏まえた排出権価格・Ｊ－クレジット市場の見通しと企業対応」9月29日(火)開催",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBheF9ZTy1tR2dSVTYtMThxSzJsT1RNVGNnSkNUYzdiT0JHSVRYRjZvdExoUjNRR3JBZU16TUNUdksyN3FiTG9FbFhobE1meHBuaHdzYWlRQkNVNUNUaGNEa0JsQ1VNeERsVFE?oc=5",
-    "time": "9/4(金) 6:50",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "【JPIセミナー】「カーボンプライシング政策の制度・市場環境を踏まえた排出権価格・Ｊ－クレジット市場の見通しと企業対応」9月29日(火)開催&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "【JPIセミナー】「カーボンプライシング政策の制度・市場環境を踏まえた排出権価格・Ｊ－クレジット市場の見通しと企業対応」9月29日(火)開催&nbsp;&nbsp;PR TIMES"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-b4c9a132a9f3": {
-    "id": "auto-b4c9a132a9f3",
-    "category": "自治体",
-    "title": "今後のFIT/FIP制度で支援する太陽光発電の類型、地域社会との共生を条件に",
-    "source": "ITmedia スマートジャパン",
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2608/06/news034.html",
-    "time": "8/6(木) 7:00",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "再エネ"
-    ],
-    "summary": "資源エネルギー庁の「再エネ主力電源化小委員会」の第3回会合で、今後のFIT/FIP制度で支援を重点化する類型の選定基準について検討が行われた。「1.今後の導入ポテンシャル」「2.地域との共生」「3.FIT/FIP制度の特性」などの観点から、支援重点化の対象とすべき類型を定める方針…",
-    "body": [
-      "資源エネルギー庁の「再エネ主力電源化小委員会」の第3回会合で、今後のFIT/FIP制度で支援を重点化する類型の選定基準について検討が行われた。「1.今後の導入ポテンシャル」「2.地域との共生」「3.FIT/FIP制度の特性」などの観点から、支援重点化の対象とすべき類型を定める方針だ。"
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2608/06/cover_news034.jpg"
-  },
-  "auto-136990c48bcd": {
-    "id": "auto-136990c48bcd",
-    "category": "その他",
-    "title": "スーダンの紛争による停電が住民を太陽光発電へと駆り立てるが、高コストが多くの人の利用を阻んでいる",
-    "source": "arabnews.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04M3laSVhuOVUxeGsyTjVSdUhoZW53OUpTMXlFd3NfMmRMY1FlVXpKdVJEdmVpdEo4VHNnRzBkS09rWTZ3X1A4dFdZaUNnYnRoclhHS25SNDAxazE0WWxYMVZRRDNiWkxhb280?oc=5",
-    "time": "9/6(日) 22:40",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "スーダンの紛争による停電が住民を太陽光発電へと駆り立てるが、高コストが多くの人の利用を阻んでいる&nbsp;&nbsp;arabnews.jp",
-    "body": [
-      "スーダンの紛争による停電が住民を太陽光発電へと駆り立てるが、高コストが多くの人の利用を阻んでいる&nbsp;&nbsp;arabnews.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ff48e5584f81": {
-    "id": "auto-ff48e5584f81",
-    "category": "その他",
-    "title": "デジタルグリッド、１年から再エネ供給／価格変動リスクを抑制 –",
-    "source": "denkishimbun.com",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95TGJEQXJGMDE3YWxPbnJKNDVqbTI4SnZrQWdNVC1KazBnWklHTjBIM2c1djJhSmZoV2txNUk3ZXJuZUVJbHFOQzhQZkdfay1xYi1WT1ktaw?oc=5",
-    "time": "9/6(日) 21:01",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "デジタルグリッド、１年から再エネ供給／価格変動リスクを抑制 –&nbsp;&nbsp;denkishimbun.com",
-    "body": [
-      "デジタルグリッド、１年から再エネ供給／価格変動リスクを抑制 –&nbsp;&nbsp;denkishimbun.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0fc814fcf3cb": {
-    "id": "auto-0fc814fcf3cb",
-    "category": "その他",
-    "title": "漆黒のマクタン島で明暗を分けた「6万円からのソーラー蓄電」 暗闇のキッチンと不夜城の誕生日会",
-    "source": "Infoseek",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ra2djMDNWV19ydG1fWkIxRzVOWUJTVDNlaDIyRlVYRDJGZWxiNE9DdWRndWpCMEwteGtwMkQ0LXlXMHNHOWxVYWpySXJMVHBFTDc0bVpwOFNiOTltREZUcFJrc1U4UXVHNS1kRXFn0gFuQVVfeXFMTVFrZ2MwM1ZXX3J0bV9aQjFHNU5ZQlNUM2VoMjJGVVhEMkZlbGI0T0N1ZGd1akIwTC14a3AyRDQteVcwc0c5bFVhanJJckxUcEVMNzRtWnA4U2I5OW1ERlRwUmtzVThRdUc1LWRFcWc?oc=5",
-    "time": "9/6(日) 3:00",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "漆黒のマクタン島で明暗を分けた「6万円からのソーラー蓄電」 暗闇のキッチンと不夜城の誕生日会&nbsp;&nbsp;Infoseek",
-    "body": [
-      "漆黒のマクタン島で明暗を分けた「6万円からのソーラー蓄電」 暗闇のキッチンと不夜城の誕生日会&nbsp;&nbsp;Infoseek"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-d2458f9a8c37": {
-    "id": "auto-d2458f9a8c37",
-    "category": "国際",
-    "title": "韓国は、AIとカーボンニュートラルな議会を目指している。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFRmUG1HZEFXRnBpTzN0bjlid0U3a1dzN2VqYko2Sng2MDBySzB5cVJwUG5yd3hSeHcyOWFPOFdTZnZlTXpTU3NCMHJWTmJITldXRXNjaUtHZUdsTHBmT2pjWlZkZEZwTVdwNk9pdVBfaW9XRkFLQmxnTnRYYk5peTFwS2ZQUQ?oc=5",
-    "time": "9/6(日) 2:25",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "韓国は、AIとカーボンニュートラルな議会を目指している。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "韓国は、AIとカーボンニュートラルな議会を目指している。&nbsp;&nbsp;Vietnam.vn"
     ],
     "related": [],
     "collected": true,
