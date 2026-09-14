@@ -11,31 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-9ae607bcbdfb",
-    "title": "国の「ＧＸ戦略地域」に福岡県（北九州市・直方市・鞍手町）が正式に認定されました～データセンターを活用したさらなる産業振興・発展を目指して～",
-    "summary": "[福岡県] 国は昨年８月に、脱炭素電源が豊富な地域へデータセンターの分散立地を促し、デジタルインフラの強靭化、ＧＸ推進と地域産業のＤＸの推進、新たな産業クラスターの形成を目指す「ＧＸ戦略地域」制度を創設しまし...",
-    "category": "自治体",
+    "id": "auto-6b24839edf46",
+    "title": "電力市場価格に連動した蓄電池の自動充放電制御技術に関する特許を取得",
+    "summary": "[株式会社リミックスポイント] 株式会社リミックスポイント（証券コード：3825、本社：東京都港区、代表取締役社長 CEO：高橋由彦、以下「当社」）は、一般社団法人日本卸電力取引所（以下「JEPX」）の電力市場価格に基づき蓄電池の充放電を...",
+    "category": "企業",
     "source": "PR TIMES",
-    "time": "9/14(月) 17:15",
+    "time": "9/15(火) 0:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000060.000186122.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/186122/60/186122-60-e054c9a41ddde49aadb8b295de660b36-1376x768.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000230.000033609.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/33609/230/33609-230-ebef427bf7414ddfe2a63fa1af2a8eba-840x150.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-0eae695c23db",
+      "id": "auto-c55426848ea4",
       "rank": 1,
+      "title": "美容室発の水素ケアを、もっと日常へ。",
+      "category": "技術",
+      "source": "PR TIMES",
+      "time": "9/14(月) 23:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000082103.html"
+    },
+    {
+      "id": "auto-29fa4170aac8",
+      "rank": 2,
+      "title": "「太陽光発電の世界市場の展望 2026-2030」SolarPower Europe発表｜土肥宏吉 - mbp-japan.com",
+      "category": "国際",
+      "source": "検索: 洋上風力・太陽光",
+      "time": "9/14(月) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWDBnaDJNb0FaWHU4cUtaZ2JqRHRCaVM0TmwzdGVPOUZuNlhZMXR0RUpFR3hXcTk2YjA1RjYzYnJ0Znd4X3NSd2dZNG1ab1ZPWFh6VEhrbDhMZVd0T2w2NQ?oc=5"
+    },
+    {
+      "id": "auto-9b8aa4cefe28",
+      "rank": 3,
+      "title": "ドイツ・UAEエネルギー契約：RWE、Masdar、ADNOCが30億ユーロの洋上風力とLNG供給を視野 - ニュースと統計",
+      "category": "国際",
+      "source": "IndexBox",
+      "time": "9/14(月) 14:21",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMU04cHNCRnB4MVl2WG9UWThBTlFSNWFVQUN1MFNCTmdIRnhEeWtWSE5NaDZGMzFnQmFwTGRFY0ZhUWwzTGRpTmpfdXZ6TXZfakR3VTB4TVZFWFk0X3dHMXR3Z0FBQWdDRWpFMllyUWJLdVI2ZFhPeWJFdm1RdkJsSHE5dFFxbUJhLUVjRnlXWlZPd2wxbVltcVFKamhQSGJRb3hoMHdKX2JPemM?oc=5"
+    },
+    {
+      "id": "auto-408a38008b26",
+      "rank": 4,
+      "title": "のぞみエナジー、大分県臼杵市における196MWh規模の蓄電池プロジェクトファイナンシャル・クローズを達成",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "9/14(月) 14:18",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yWGlpSU5ldmU0RGNxT0U0NGxnbkk5SUtHNWRDSFlKa2t4b3dXTlRJOTk0S25OWG15MFNjUFNsT0xVWkdsb1RoQkVKalA4NjlZREtDNjlveXk1OE9ndV94d3VPQ0h4dnBjQk5ndEdOZXdaUVBCbHBPcUZrbw?oc=5"
+    },
+    {
+      "id": "auto-068f3f526bbd",
+      "rank": 5,
+      "title": "トヨタ 水素ファクトリープレジデント 山形光正氏、「ハイラックスFCEV」でのダカール挑戦の意義を語る",
+      "category": "技術",
+      "source": "car.watch.impress.co.jp",
+      "time": "9/14(月) 12:56",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wamduWHMtaUN4Mk50R2JNUG1jT3M3bXRrb3o2S0t4VzlLbk1adFVoOVZJaW14akNlTmptWDdldkRSSnB6TW80R0hBYldDbXQwcGNQVVlRaXZWbHBsZUhIX0plb0NTbE41Y3JWVkxfNXJqSGNFcmZxTnVmZXJjUQ?oc=5"
+    },
+    {
+      "id": "auto-0eae695c23db",
+      "rank": 6,
       "title": "進む人材育成「洋上風力発電作業員の実践的な訓練に」洋上風力アクセス船起工式《長崎》",
       "category": "その他",
       "source": "日テレNEWS NNN",
       "time": "9/14(月) 11:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlZ5SHdMMi1uUU1fWklBanY3TGczX0Z2NWRKWmpsamhxQ2Vud01ZcHpVNkxlQkNIcFhnaEszVkp6QVhObG12ckt5VnpvWlJuYlFibVh3LWtGVDJBQkc3UWtrd1diaGkyVXlWZ3lEUDg2UGxvaDhTS2hCR2lsb1RISlNpWHNJb28?oc=5"
     },
     {
+      "id": "auto-510c11b8262c",
+      "rank": 7,
+      "title": "系統用蓄電池の心臓部、「リチウムイオン電池」の仕組みとコスト構造とは――部品はわずか3つ、性能とコストを左右する材料の本質を解説 ウェビナーを開催 - tv-tokyo.co.jp",
+      "category": "その他",
+      "source": "検索: 再生可能エネルギー",
+      "time": "9/14(月) 11:28",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Yb0xCeF8wYTFvblotVjZHMldkbldVbF8zSVV3MzNDb2lGU202R1l3TFhLenJVaHliOGVUSl9rRTc4bG5oazBmWEotZlJWVTl0Rmd3OVBmY1RJeWhUZ1dVeEk4TWlLRWRTcjNBdTd3?oc=5"
+    },
+    {
       "id": "auto-002ee3bf752b",
-      "rank": 2,
+      "rank": 8,
       "title": "送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は",
       "category": "国際",
       "source": "はてなブックマーク",
@@ -43,72 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://www.technologyreview.jp/s/390500/can-the-us-battery-market-untangle-from-china/"
-    },
-    {
-      "id": "auto-3e426666de8f",
-      "rank": 3,
-      "title": "再エネ100宣言 RE Action協議会 エネルギー自立経営トレンドを公表 停電しない会社をどうつくる？ 再エネが中小企業のBCPを変える",
-      "category": "その他",
-      "source": "ｄメニューニュース",
-      "time": "9/14(月) 11:07",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bE8wSWJxX1RCdjd0cTdPakRKWklnYmRKUmlaNGg4UDd0SldRdlRrdHlIZ0FuZTZSX0lpQ3FXUnJEZXg5QzNxV3lQc21taHVCSmtEaks3VzhoTjd6NzFOd01qUFZFQXhCUk14SXVMUjXSAXBBVV95cUxPNWxPMElicV9UQnY3dHE3T2pESlpJZ2JkSlJpWjRoOFA3dEpXUXZUa3R5SGdBbmU2Ul9JaUNxV1JyRGV4OUMzcVd5UHNtbWh1QkprRGpLN1c4aE43ejcxTndNalBWRUF4QlJNeEl1TFI1?oc=5"
-    },
-    {
-      "id": "auto-ed9c63aa9177",
-      "rank": 4,
-      "title": "ヴィンロン省は風力発電の開発を推進しており、地域有数の生産拠点となることを目指している。",
-      "category": "自治体",
-      "source": "Vietnam.vn",
-      "time": "9/14(月) 11:02",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEZFcUZ0dkl0a0lhSHhndnlqZ2dQajk2UDRNeEFIWVpuUE1UZWUxYWc4Yk5UTzN3bjNka2Z5ZWdJd1B1YkJxcFROQnB1OEMzTi1sSURpRUJXaEZPclNjU0dVc29xTXVVZENpMG12dUlEb085MGxaYThnUG9ja185MkxpSkFLMFlFSHJtMGk2UDB4am1IaXA5YWNPZzdWajhaREtxV0xNZmJSa0RqYnl1MVFlVUc2T3diTGw4MkdVRWxBbndBV0hfOVp3?oc=5"
-    },
-    {
-      "id": "auto-068f3f526bbd",
-      "rank": 5,
-      "title": "トヨタ 水素ファクトリープレジデント 山形光正氏、「ハイラックスFCEV」でのダカール挑戦の意義を語る",
-      "category": "技術",
-      "source": "Car Watch",
-      "time": "9/14(月) 11:01",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaTdicWxhY2lJVEoyMVctTlVGYU9NZmtHMzJvanUyQ0VSNUFQMVRMLUZGaW9VQjBPZGFkZDdGOWZyVl9oR3M2akw3a3JQVHhJV3A5Y01aS2RBejFReFhSZ0M4UmY?oc=5"
-    },
-    {
-      "id": "auto-27de6025d36e",
-      "rank": 6,
-      "title": "Vroon Offshore Services、ScottishPowerとの契約で洋上風力分野初の長期ERRV用船契約を獲得",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "9/14(月) 11:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzNUamFJUWxYUkltb2h5Z2FNRlVac1ByNjltNTZ1dVNCVlJnTzgteGdaM0ZVTjljeGQwamFzcG1jeWU4dlZfc0xiQ0FLeFZITkhQVjN5WWo5U0poS0IxTTZCQ3Y3YnJ3Mm1hZUdWeW1GNG5xbFBZTzB0WEQtR0JZQ2tLWXdHX0NQNlI1SzNzQmtTaDlZTW5hemZHN2dVVEcxY2hORnNQZVVKa3lTSnFEVXhXYjdtQl9vRmlncWNEUGZvZHRRTm5WSXFuU1U4WVU?oc=5"
-    },
-    {
-      "id": "auto-2e8e8f579461",
-      "rank": 7,
-      "title": "洋上風力発電事業の再公募めぐり 鈴木知事「『早期に必ず実施する』との発言を得た」先月面会の赤澤経済産業大臣の発言明らかに 事業完遂へ引き続き国に強く働きかける方針を示す 秋田 (2026年9月14日掲載)",
-      "category": "その他",
-      "source": "news.livedoor.com",
-      "time": "9/14(月) 10:59",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6NlF0bTZGUlo2czZzbEppdjktQi1yejBBcW9yYk1XbFh1dHA4WURlOWhCbDFsZnF3RTFoS2JGcndnNk5PdV9aeG9Ya1F3aEY1eFlOeEJPSkc0Q29fOXc?oc=5"
-    },
-    {
-      "id": "auto-a8bae311f532",
-      "rank": 8,
-      "title": "トランプ政権が洋上風力計画を中止、RWEに12億ドルを支払いガス事業へ転換",
-      "category": "その他",
-      "source": "Межа. Новини України.",
-      "time": "9/14(月) 10:55",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zY0FDNUZuamx5enZBZHZsdDROUkl0S0FPVHBmZ3JIOERzclU3dk0yMFlNQmhPZ01veDlOT2NtLUhscExFQU4wNnl4aVhYSUJncWowVXk2alVEa1RZYnFaZnYza0s2UThCNWJhb0Rn?oc=5"
     }
   ]
 }
