@@ -11,53 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-1e9ac4dacf12",
-    "title": "マニエスグループ、系統用蓄電池事業に参入 群馬県太田市で約2MW／8MWhの蓄電所が運転開始",
-    "summary": "[マニエスグループ株式会社] マニエスグループ株式会社（以下、「当社」）は、当社グループが投資・運営する「群馬県太田市西長岡町蓄電所」（定格出力約2MW／定格容量約8MWh）が、2026年8月に運転を開始したことをお知らせいたします。本...",
+    "id": "auto-60f0cfa22b2b",
+    "title": "事業由来のCO2排出ゼロを2027年に実現へ 組合員が取り組むリユース・リサイクルとフードマイレージ運動の月次成果を公開",
+    "summary": "[一般社団法人グリーンコープ共同体] 西日本を中心に16の生協で構成されている一般社団法人グリーンコープ共同体（本部：福岡市博多区、代表理事：日高 容子、以下グリーンコープ）は、2027年までに事業活動に伴うCO2排出を実質ゼロ（※）にする目標を...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "9/16(水) 3:10",
+    "time": "9/16(水) 5:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000113578.html",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000300.000123722.html",
     "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-d3cd996f6f77",
+      "id": "auto-35a89b78d72f",
       "rank": 1,
-      "title": "GEベルノバ、ユーラスエナジーの冷水峠プロジェクトに29.4MWの風力発電設備を供給",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "9/16(水) 2:10",
+      "title": "トヨタなど8社、欧州でトラックなど水素モビリティの導入加速へ連携 - LOGI-BIZ online",
+      "category": "技術",
+      "source": "検索: 企業の脱炭素・水素事業",
+      "time": "9/15(火) 21:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000159435.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZRzRsT2RPOE52amZ5cUJvSHR0dkdsSlNaeGxMdHBSY0NrUGc1SVNVbE9NRUZRM0RoV3pqNC1iZEM2SDE4M1RqLUEtbw?oc=5"
     },
     {
-      "id": "auto-c43968cf1649",
+      "id": "auto-49e134d62ffa",
       "rank": 2,
-      "title": "令和8年度地熱発電の資源量調査事業費助成金交付事業の採択結果について（第2回公募及び第3回公募）",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "9/16(水) 0:40",
+      "title": "神戸製鋼・機械事業部門／水素運搬船向け圧縮機を初受注／川崎重工建造の世界最大型に搭載",
+      "category": "技術",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "time": "9/15(火) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80RkNpMVhOSEdCSlIyTEJsZWg2MEVtT3JzNjRCZDJHbElLVlNCWjZ0aGhxUVNuYkw5YThXV1ZhUnphVHlZay0wdDJLbnNWV2Q3VzhyZFRlN1pHWE1aOXc?oc=5"
+    },
+    {
+      "id": "auto-c2882d97c2df",
+      "rank": 3,
+      "title": "JFEエンジなど､フィリピンで再エネ参入 太陽光や蓄電池",
+      "category": "その他",
+      "source": "日本経済新聞",
+      "time": "9/15(火) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0SENjWE50RWVzUmhhTFNPZG1PdFdqME5DRjVWQkJZSDUwQTNFejdUWW5ibkpDZE1kYnJTaFhscVBzU3pjbmdMbW15cGJBN1MwWDY0U1l3MGFLSTIzZEFoNVd5MEtsa1N0eWxrTjFfOFN3SmRiQmR3?oc=5"
+    },
+    {
+      "id": "auto-5b1baf17f5f2",
+      "rank": 4,
+      "title": "トヨタ、欧で水素普及推進 業界の枠超え連携強化",
+      "category": "技術",
+      "source": "日刊工業新聞",
+      "time": "9/15(火) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZMXBES05SMkdJa21XMVd4TGNUSVpXU196VjBhSXY1TE5GM1pTRGZCV1hvSlQxQTVQcVVUWk4zNGY3dFVEY0xPbUltVFhXbW42SVpienFoMXI?oc=5"
+    },
+    {
+      "id": "auto-1e9ac4dacf12",
+      "rank": 5,
+      "title": "マニエスグループ、系統用蓄電池事業に参入 群馬県太田市で約2MW／8MWhの蓄電所が運転開始",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "9/15(火) 19:00",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000891.000012624.html"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kb1hVckkwUzY4SU5keEhYS3JTcHpWdFIxMHQ1ck1nRGhaeU53N1VRRUZvMVNCVXJRZVBPWDAxX0YyeHdBU3JWb2E4RWt6RTdRNkRsOXU3Yi00YnFkYTNCeTVhd1UyT1JydGpEaFc4RnFwTldSZEJrY0NTUQ?oc=5"
     },
     {
       "id": "auto-0adeab3af32a",
-      "rank": 3,
+      "rank": 6,
       "title": "【参加無料】 エネルギーコスト削減につながる！専門家による無料診断付き、中小企業向け「脱炭素スクール」開講します！",
       "category": "その他",
-      "source": "Infoseek",
-      "time": "9/15(火) 17:10",
+      "source": "ニコニコニュース",
+      "time": "9/15(火) 17:30",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtOVp2OWp5MEkzNF82SHQyMXlsMzl6LXA5Sm9aUFZjaWJLNno2ZXYzMG05VkZ3U2JYSE1CdVR4ZnpCU0Z0dDVOTUxUY1J1TExabVlnamRIMlhTci01RVRIN3FxLUNQeU16TmhBWFpwOHhoUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CeENNbWRjQ29rWVBNQ2hUeDI3bjRhakUzUzAxYTdsTDhJcG16UmMxSkw3S0F5WG9GajVraHVNUVZSNGlPOE5aWFlnRzg0TkQ3ZnhNLQ?oc=5"
+    },
+    {
+      "id": "auto-be83c9835f8d",
+      "rank": 7,
+      "title": "【フィリピン】日系サステック、脱炭素事業でビバントと提携［公益］",
+      "category": "その他",
+      "source": "千葉テレビ放送株式会社",
+      "time": "9/15(火) 17:01",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91ckM0RU5RX1NDZzNpaDFDbXVhd2M3S0drYzQyV3ZKUXNmaHd4MjVzaGVPWEZCa3JNSmMxX3BNNXZQc2haNnJmV0V4Sl9DTE1PN0pPS2lQRWhJeklVTU5N?oc=5"
     },
     {
       "id": "auto-ebb3caf523cd",
-      "rank": 4,
+      "rank": 8,
       "title": "衣料品製造業界、脱炭素に66億ドルの投資必要",
       "category": "技術",
       "source": "nna.jp",
@@ -65,50 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tZ0pJcldSaUtaREhOYUlYb2VZaE5uRkZ4LWg1YmRpMENRZzJ5b0dNQTRDQ0ZPazlLQ2FmakVTSFh4UVI1cmc?oc=5"
-    },
-    {
-      "id": "auto-c027d3e3b416",
-      "rank": 5,
-      "title": "副首相：屋上太陽光発電と直接的な電力取引メカニズムを推進する。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/15(火) 14:27",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkZMMmZUbDUxTXJkOGlBQ2kwTm5DdnFFUlBDRjVxZ29fUGpJSG13U3JOM2paMGpFY0pKT091YjJfLXNsVGtfUnFYQmZzRUNGRU1JMkljOGNiMmZaa0Q4YnBGWFpuWndoSHRGLXZDU1hobFdscm92R0h2UU5qS1JTczdlaGRoOVU2RkpMMmJIbVhNeU0zNk9mRmkyaXY2dHB2eVdtVmtIOVRSZw?oc=5"
-    },
-    {
-      "id": "auto-a695fde1e1ec",
-      "rank": 6,
-      "title": "洋上風力、官民タッグで採算性向上へ追い風 建設費支援や国産供給網整備の動き加速",
-      "category": "その他",
-      "source": "産経ニュース",
-      "time": "9/15(火) 12:32",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KbVl3eFBVT0F0YzJfV25SQTdlZlhoWUpydHFKN1VUUlVzdEQzVUN0aTBFcUN6amljcTRJTm1VaEhJd28yc0pCcHhHVUZRX1RYNEdCNG41cVJtVVpfWWNSbk9pX0RkRXU1VUZqMVYyQUt2NEd5UUE?oc=5"
-    },
-    {
-      "id": "auto-3615c661b564",
-      "rank": 7,
-      "title": "風力を電気に変える、風力発電機の基幹部品のナセル（Vestas Wind Systems A／S提供）",
-      "category": "その他",
-      "source": "産経ニュース",
-      "time": "9/15(火) 12:32",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGdxd0J4OEdPN2tHX0xnX1BYTXkybnlRekZhOG44ZVRhNUJCQjZQMUVPNFJoaE1zeTFib3BzQWR5R0FfSFkyQ1BfV014QktvRV96V2NnY2dvUnlYLWtnMnBOcjdzV21zcTR2MW1iRUZLWFJqRUtHX3p6aWljNWhaM3lhbENqelhLVXc2c3lIRXdZcEtkdzFFV3NwUzJ4b1VIMEE?oc=5"
-    },
-    {
-      "id": "auto-195e9e3ea323",
-      "rank": 8,
-      "title": "ホンロク太陽光発電所プロジェクトの投資方針の承認。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/15(火) 11:33",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZE54S0s5TzdqLVhuTndFcUoxcThnaS1xTXdlZkppRURwYWpPOUJOdEZtRWh2TDJCNmpZaVJtZjJIcl9ET2dxSERucS16OS1CVkU5NEo1c2J6U05CX3lISnlxa2hMalVXSUZ5LUJkdWs4Z2NVVGRNOHpFQ2UtMEdibVdELWM4d2pVRVF4T2RxM1NQZkdfWlE?oc=5"
     }
   ]
 }
