@@ -1,32 +1,52 @@
 [
   {
-    "id": "auto-765b2baec00a",
-    "title": "北海道におけるリニューアブルディーゼル配送拠点の開設および伊藤組土建での利用開始について",
+    "id": "auto-1e9ac4dacf12",
+    "title": "マニエスグループ、系統用蓄電池事業に参入 群馬県太田市で約2MW／8MWhの蓄電所が運転開始",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "23:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000079.000052192.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/52192/79/52192-79-36eacb896e15fda2d48394abae6c6cce-2048x1536.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "3:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000113578.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-d3cd996f6f77",
+    "title": "GEベルノバ、ユーラスエナジーの冷水峠プロジェクトに29.4MWの風力発電設備を供給",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "2:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000159435.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/159435/6/159435-6-d4e51cd9e11f06446d188011f7e13272-1920x1080.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-c43968cf1649",
+    "title": "令和8年度地熱発電の資源量調査事業費助成金交付事業の採択結果について（第2回公募及び第3回公募）",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000891.000012624.html",
+    "image": null
+  },
+  {
+    "id": "auto-0adeab3af32a",
+    "title": "【参加無料】 エネルギーコスト削減につながる！専門家による無料診断付き、中小企業向け「脱炭素スクール」開講します！",
+    "category": "その他",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "17:10",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtOVp2OWp5MEkzNF82SHQyMXlsMzl6LXA5Sm9aUFZjaWJLNno2ZXYzMG05VkZ3U2JYSE1CdVR4ZnpCU0Z0dDVOTUxUY1J1TExabVlnamRIMlhTci01RVRIN3FxLUNQeU16TmhBWFpwOHhoUQ?oc=5",
+    "image": null
   },
   {
     "id": "auto-ebb3caf523cd",
     "title": "衣料品製造業界、脱炭素に66億ドルの投資必要",
-    "category": "その他",
+    "category": "技術",
     "accent": true,
     "source": "nna.jp",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tZ0pJcldSaUtaREhOYUlYb2VZaE5uRkZ4LWg1YmRpMENRZzJ5b0dNQTRDQ0ZPazlLQ2FmakVTSFh4UVI1cmc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-802bb20615af",
-    "title": "グリーン水素拠点、内陸州にも拡大余地",
-    "category": "技術",
-    "accent": false,
-    "source": "nna.jp",
-    "time": "15:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fRUtRQ0tJbWFZSWdiUmJSbjFuWC1mUXlKclFfQ3dRREFVTk5oQ0tDcHRKOFZaUXA1UkkyZEZtZXVqMG1KYkE?oc=5",
     "image": null
   },
   {
@@ -43,10 +63,20 @@
     "id": "auto-a695fde1e1ec",
     "title": "洋上風力、官民タッグで採算性向上へ追い風 建設費支援や国産供給網整備の動き加速",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "産経ニュース",
     "time": "12:32",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KbVl3eFBVT0F0YzJfV25SQTdlZlhoWUpydHFKN1VUUlVzdEQzVUN0aTBFcUN6amljcTRJTm1VaEhJd28yc0pCcHhHVUZRX1RYNEdCNG41cVJtVVpfWWNSbk9pX0RkRXU1VUZqMVYyQUt2NEd5UUE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3615c661b564",
+    "title": "風力を電気に変える、風力発電機の基幹部品のナセル（Vestas Wind Systems A／S提供）",
+    "category": "その他",
+    "accent": true,
+    "source": "産経ニュース",
+    "time": "12:32",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGdxd0J4OEdPN2tHX0xnX1BYTXkybnlRekZhOG44ZVRhNUJCQjZQMUVPNFJoaE1zeTFib3BzQWR5R0FfSFkyQ1BfV014QktvRV96V2NnY2dvUnlYLWtnMnBOcjdzV21zcTR2MW1iRUZLWFJqRUtHX3p6aWljNWhaM3lhbENqelhLVXc2c3lIRXdZcEtkdzFFV3NwUzJ4b1VIMEE?oc=5",
     "image": null
   },
   {
@@ -71,12 +101,12 @@
   },
   {
     "id": "auto-ba5f282e963a",
-    "title": "トヨタ「ハイラックス 水素燃料モデル」欧州で発表 2028年から生産（くるまのニュース）",
+    "title": "トヨタ「ハイラックス 水素燃料モデル」欧州で発表 2028年から生産 (くるまのニュース)",
     "category": "技術",
     "accent": true,
     "source": "Yahoo!ニュース",
     "time": "11:10",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEJ1VHNmNVo4Z05DaFEyc2IzOUFfeWxkRWRScVJIeU02UEpYX2RZVHltZms4dk93eGpTM19tLXZaU1YwdE8zMngxbkZtREJfQmRQTFI2dWpaaTg5SC1Ob1lxSllMNThTZlFqeThFa1RaZzRCWUFIZGRxUkMzMFB6bmxHYlB6LXhyWTBMWWtB?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzBTZG44a3Vnd1VBTXM0SzZMT2laenNoNGx6WW03YlBWOWVOa21vTGV1XzBrTTl5X0YzWERGaGZNYjlXRzBTaGZVYVVRRkxMQWMxRUJvWFZPZlpHaHZHX3ZaTzNRWG5YMWZ4ZGRTZEVNU0tURWRUV1puN3hGbS1XTzc5SVQ4WXdtZk5LbzJR?oc=5",
     "image": null
   },
   {
@@ -100,10 +130,20 @@
     "image": null
   },
   {
+    "id": "auto-be8c0e1154c3",
+    "title": "先進的なエネルギー技術を学ぶカーボンニュートラル講座 10月いわき市で開催（ふくしまNEWS -KFBデジタル-）",
+    "category": "その他",
+    "accent": true,
+    "source": "Yahoo!ニュース",
+    "time": "10:47",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdVpWcFVNSmVQR0s5WnB6WUpYeDE4VXQ1NVVKMHFqN0xHR2o4bXUzd0R5RXJZX05YaFJ1aFlaU192cllac0tSRzdCRnlMMFZLd3pqVXRXcnFQNURfR0g4THRyLTAtUWZNTDRobzVpMHJTVDBGVGJwUWpIcHo2Z0U?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-3e0371971953",
     "title": "北海道電力、すかいらーく向け太陽光発電所が稼働 - 道内14店舗に供給",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "10:44",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lX3J2NkJMeGFjSkJFekdGVE5GdUthUGt6eXNlWEdTMmxVRUJoRVh3cEZwVW9UVm9TQmh4TGpXQWVNbWo0Q2dCNzV6TkxXOGFEUWo4Zkx2X1EzdFpxTlBr?oc=5",
@@ -123,7 +163,7 @@
     "id": "auto-8f355e55ed95",
     "title": "トヨタ、水素燃料電池トラック普及に向け欧州７社と連携強化…中嶋裕樹副社長「水素社会実現を加速させる」",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ライブドアニュース",
     "time": "10:29",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12U2JlQWpHNDZ5MWR4NHZQU2xtT3l5NkVVQW9HdExSZHVWRUJQYWhVTDliMnYzblkxdjI4Sml5Wk1CaUZ2dzNXclI1SnFOUUxObDctUkhxbk5EU29yRnc?oc=5",
@@ -133,48 +173,38 @@
     "id": "auto-5f73b737b11d",
     "title": "中国・閩東電力が5連騰後に釈明：算電協同は未実施、洋上風力発電プロジェクトも未着工",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "BigGo ファイナンス",
     "time": "10:25",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DbHc2YkM4OS1EaFdYcnFXbDJicXJSMlJFcGREOHNqN2dPSFZaMEtJUzZYdjZ1VzBXeGR0RW9lUjhGa29oOWFjaUV2a3RGRlBOMXFqMWlFMENZeGlKaHRUbHlMNXFaUk9PYWc5cFBETmJmVFhO?oc=5",
     "image": null
   },
   {
-    "id": "auto-a08b89b4b06a",
-    "title": "ペトロリメックス社は、温室効果ガス排出量削減のための解決策に関する技術ワークショップを開催する。",
+    "id": "auto-e6696d07be91",
+    "title": "系統用蓄電池を読み解く鍵、「kW」と「kWh」の違いとは――同じ蓄電池でも中身はまったく別物。出力と容量、2つの数字の見方を紐解くウェビナーを開催",
     "category": "その他",
     "accent": false,
-    "source": "Vietnam.vn",
-    "time": "10:14",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2FwY3JwdmI2aFBhaHViQWdHd000azRBRFZiUVJXYkV0bEp3bVhCWENlWjJWckNadWhMbTlsWWxnNGdTeXZVMXhTZ0otSVVvenFINk5SYlVsOXBZM1JUa1ducEhoaUpRaGxRdjltcGMzcWJwMEV1UkdkWVhZU2lHT0lzOGVPNzlZTFpNN0JYNjUyNVNqM0hlSWFCQ3RMblBLSHJQYmRR?oc=5",
+    "source": "PR TIMES",
+    "time": "10:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wb21ZZkM2Y0dBVkladDVhYnpES2tGOHdWcE5hMFlHUHZUWDBMR3BpTmQ0OGpQelJ0d2g1dlhqdXlWV0dyY2R5ZkNjM21uS2MyTklUS2RDemtaWHVKLXY5UW9Oa3U4N2RyYUE?oc=5",
     "image": null
   },
   {
     "id": "auto-3aecd485d1a5",
     "title": "カーボンニュートラルな企画展へ 約３６０万円分の削減量を群馬県に寄付",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "9:56",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NaGNRcVFPT1I5eDQ2bFFucUFBenc1R2FZWkFBbXIxMllYWUt2amY5TzhmMFY1MHN2dWVQU1RiRlkwdk9MVFlKT2I3NHo4RWlhbUQ3UGhpTWVfRWJnYzNoOWZ1UG5rTmVUMEpKay1n?oc=5",
     "image": null
   },
   {
-    "id": "auto-be8c0e1154c3",
-    "title": "先進的なエネルギー技術を学ぶカーボンニュートラル講座 10月いわき市で開催",
-    "category": "その他",
-    "accent": true,
-    "source": "kfb.co.jp",
-    "time": "9:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVlRtQlFDakZHOFNxallMajVTcThIdjdhYzJsNVM1LXJOWXN2d2pkY2R3TWt0aUFsdFRjTTQxbXZ1bHhjWlg5dkZ6V19mWTRJVFI1Zktn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c1e34363214a",
-    "title": "トヨタ、ダイムラートラックやボルボ、ボッシュらとともに欧州の水素モビリティ拡大に向け協業拡大を宣言 中嶋裕樹副社長があいさつ - chiba-tv.com",
+    "id": "auto-869ec347b686",
+    "title": "トヨタ、ダイムラートラックやボルボ、ボッシュらとともに欧州の水素モビリティ拡大に向け協業拡大を宣言 中嶋裕樹副社長があいさつ",
     "category": "技術",
     "accent": false,
-    "source": "検索: 企業の脱炭素・水素事業",
+    "source": "千葉テレビ放送株式会社",
     "time": "9:47",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DU2dLbkZ0dUZQU19hWXJJdGkwaHh1N0gtUmkwZy1Hc2dlRGFJekR0QkZBbjBWeC1LRVpzaTNKd1JlemhEXzRMYUZwcWVmZno1MXV6X0s4cHlCanlkeTlv?oc=5",
     "image": null
@@ -210,20 +240,10 @@
     "image": null
   },
   {
-    "id": "auto-869ec347b686",
-    "title": "トヨタ、ダイムラートラックやボルボ、ボッシュらとともに欧州の水素モビリティ拡大に向け協業拡大を宣言 中嶋裕樹副社長があいさつ",
-    "category": "技術",
-    "accent": false,
-    "source": "Car Watch",
-    "time": "9:26",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pdVplYndQc0tEMDBSV1JNbUNaYnI5SDh4T2tNZUlCamhrdVR6cVFzYTJNUHYwT0dVNExPNEhFY0dQOW9lbmxYN19hZTduTzF1d1MyajFvZEE4SHB0Y2dCWFNWb1I?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-89d82b72f2b4",
     "title": "水素燃料電池の限界▼東京で完全無人タクシー▼中国のロボット技術のリアル/政府債務残高2300兆円超 ゲスト高口康太さん▼米長期金利5%突破 26/9/15(火)辛坊治郎ズームそこまで言うか!公式配信",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "YouTube",
     "time": "9:14",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oSmc2WlFTalAxV2x0b0EyZVk0RkU2YjdhNl9wSGcydEpjSGN0bVQ1WkI0bDdVV1ZoRk9TUHY1SG5aZw?oc=5",
@@ -233,7 +253,7 @@
     "id": "auto-0cfbe5d3a9ff",
     "title": "未来のために、今できることを考えてみませんか？～横浜DeNAベイスターズの協力のもと、ゼロカーボンアクションポスターを作成～",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "9:14",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ga1FST0NyUHAyckRBMHcyOGFQNm5qTWRSNkVFQzh4WXZtYlBWT1kwaXktOWZzbGZxcy1PbnlxaVc4UjZ0OTZIRE5RVzZfTzNsSkZaaVpNRFRpeE04OXYtank4LU0tU2NHOFE?oc=5",
@@ -253,7 +273,7 @@
     "id": "auto-14733bfdf6f9",
     "title": "トヨタ、ダイムラーやボッシュと水素ステーション整備で連携",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "日本経済新聞",
     "time": "9:02",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EQVFCS21HeWtUTXpuU2d2M2pzTnZCbGkwMTdFN0lDWWxjVVdwQXZPaEtRZWRJVHBaUGZETXhBRVduM3RDOFJQWS1QUjI1RUktQTRzLVJ4VlVPVF8zalI0SXZxN3U5NWFoTk1rbA?oc=5",
@@ -263,7 +283,7 @@
     "id": "auto-92eb60553512",
     "title": "ダイヘン、系統用蓄電池システムの生産能力4倍に 参入相次ぎ需要増",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日本経済新聞",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Mc3lTWEwwMk9hZWhhZEh3YVdPYkp5MERMYm5IOHNSdHBJODJtVnBGczlyMi1yQl9rQWM5Mnd0N1pPQ1pNLUxrZnI0ZjQ0cTNEcHZ5TFE5b2I1c2pzWVdSTWxpOHloOWpwWUtvNg?oc=5",
@@ -277,26 +297,6 @@
     "source": "metro.tokyo.lg.jp",
     "time": "8:12",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1td0ladEV3X0dzLWY0Qm5zQkM0SVV2T2xDbERtR2htSnd5aER0N2gxWEZXbWdabTNuSjNNWTg0R2hIalVUdWM0RUFIcmU5TFNmVVR5eUUwS2ZfSUw4aUtRb3EyeEdaZjZRY253SXNYV0lOSlRX?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-feedb840f83b",
-    "title": "水素エンジンハイブリッド車、トヨタが国内初の公道実証へ…徳島・鳴門のホテルが送迎業務で参画",
-    "category": "技術",
-    "accent": true,
-    "source": "レスポンス（Response.jp）",
-    "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qYjUxUGxuQWJXdURoSVJ1bFpTemJCWlJ4YVBFT2hvRnFXcnZMY3RhM3BYZTZTT2tEVEJOYW9RZm5wc3ltUVhLOHBFYk9CUExaNjk3MlZHOFRJTmFvT3hF?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d78180b82751",
-    "title": "水素エンジンハイブリッド車、トヨタが国内初の公道実証へ…徳島・鳴門のホテルが送迎業務で参画 1枚目の写真・画像",
-    "category": "技術",
-    "accent": false,
-    "source": "レスポンス（Response.jp）",
-    "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XcGFuekRPV1V4eVROdEhLS1lreTdqSF9FZWxESWJHTGpYel9ZeHJsTVR1ZXRzbzU2bV9teUJkUnNGSUFnMHgxMmI4czRHbGdQbnZBcE1JU2FncjJfeEFlUGZCaUtKcTZMVUZ4NlBnYw?oc=5",
     "image": null
   }
 ]
