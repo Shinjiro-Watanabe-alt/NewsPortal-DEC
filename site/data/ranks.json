@@ -8,15 +8,7 @@
     "trend": ""
   },
   {
-    "keyword": "CCUS",
-    "trend": ""
-  },
-  {
     "keyword": "データセンター計画",
-    "trend": ""
-  },
-  {
-    "keyword": "経営戦略",
     "trend": ""
   },
   {
@@ -24,11 +16,19 @@
     "trend": ""
   },
   {
+    "keyword": "CCUS",
+    "trend": ""
+  },
+  {
     "keyword": "GX-ETS",
-    "trend": "NEW"
+    "trend": ""
   },
   {
     "keyword": "バイオマス",
     "trend": ""
+  },
+  {
+    "keyword": "戦略地域制度",
+    "trend": "NEW"
   }
 ]
