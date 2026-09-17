@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-b4d4189787d5",
-    "title": "SAF製造工程で併産されるナフサの活用の開始について",
-    "summary": "[COSMO] コスモ石油株式会社（代表取締役社長：西 克司、以下「コスモ石油」）、丸善石油化学株式会社（代表取締役社長：舟橋 克之、以下「丸善石油化学」）、宇部丸善ポリエチレン株式会社（代表：勝田 正彦、以下「宇部...",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "9/17(木) 15:40",
+    "id": "auto-4adef9ef7d6d",
+    "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM",
+    "summary": "住友電気工業（住友電工）は2026年9月14日、最大100拠点の系統用蓄電所のマルチユース運用と一元管理が可能なエネルギーマネジメントシステムを開発したと発表した。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "9/17(木) 13:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000333.000098598.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/98598/333/98598-333-e7f286ffd75ca81b7918b8a1a8d288b3-1499x1123.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news076.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2609/17/cover_news076.jpg"
   },
   "headlines": [
     {
-      "id": "auto-6756f57b98e5",
+      "id": "auto-fc07e9d33d88",
       "rank": 1,
-      "title": "10月27日(火) AndTech「AIデータセンターの電力需要拡大とインフラ・系統連系の最新動向～電力確保・蓄電、国内外の系統接続からUPS・給電設備まで～」WEBセミナーを開講予定",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "9/17(木) 15:15",
+      "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
+      "category": "国際",
+      "source": "ニコニコニュース",
+      "time": "9/17(木) 9:21",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000001808.000080053.html"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzblcxNVFTckVuUS14c2JjZlpjYUpBbnFhcnFwZGFqMnA1ZVk4eml6blozZlhtNzVpa05yZXQtc2lqMm5oalBGYWFidm1qNXA4RzlVcmZhblFFUnE4LUlEblhWWXB6V2xWUUMyVXJkTkdwZm1Vckw0VDdLUQ?oc=5"
     },
     {
-      "id": "auto-4adef9ef7d6d",
+      "id": "auto-e63cc8f8a031",
       "rank": 2,
-      "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM",
-      "category": "技術",
-      "source": "ITmedia スマートジャパン",
-      "time": "9/17(木) 13:00",
+      "title": "系統用蓄電池と揚水発電、日本の「巨大な電池」はどちらが上なのか――数字で比較するウェビナーを開催",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "9/17(木) 9:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news076.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5S1hsc25nQTRqa184SzRDdEVNcy0xdXFWSUFlNFBBaXk1aTFyVG1WUjZXa1pYQ3VSUjE5bVd4QUdQSkxRS1BEUE1kVWJNWW9WdU15Nm9jSEtmSGEwTUZPbUVtRnVPVlVka3c?oc=5"
     },
     {
-      "id": "auto-f0333dafb7cd",
+      "id": "auto-9567ea2732f3",
       "rank": 3,
-      "title": "Hitachi Vantara、SBTiにより認定された温室効果ガス削減目標を掲げ、2040年度までのネットゼロをめざす",
-      "category": "国際",
-      "source": "PR TIMES",
-      "time": "9/17(木) 11:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000034.000149528.html"
-    },
-    {
-      "id": "auto-e24fee797d3b",
-      "rank": 4,
-      "title": "再エネ拡大に伴う新たな課題「電力系統の慣性低下」の課題解決へエナリスと北海道大学、配電系統におけるGFMインバータの系統安定化効果寄与度評価手法に関する共同研究を開始",
-      "category": "その他",
-      "source": "PR TIMES",
-      "time": "9/17(木) 6:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjblNsX3lzRUhDX21xUVJpVzRfbnloN0YxVS1JT2pDVkZfcmZKdjl6Sy1QbnRqVGxqY3VYaGU3TTk3UFM0SVcxSzJWcndhV0dmZFFaQi1IMjU5YzN1WlI4alF3Q0Q3LUR3QXc?oc=5"
-    },
-    {
-      "id": "auto-61f98554be46",
-      "rank": 5,
-      "title": "【オンラインセミナー】脱炭素経営の次の課題、「算定後の削減」をどう進めるか ～Scope3の一次データ活用とサプライヤー連携によるGX推進を解説～",
-      "category": "その他",
-      "source": "ドリームニュース",
-      "time": "9/17(木) 6:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNXFILW53VzBDR3pWWEdZa3RvOWNtdW1rRXNDTHNCTWxWblBsZHpVOUpZeFVTQ3AtVXlRaEpFOGNrRG5ySERHTjlHd2R2ekc4S1pB?oc=5"
-    },
-    {
-      "id": "auto-20c8a2613d95",
-      "rank": 6,
-      "title": "Piramal Pharma Solutions、英国モーペス拠点に太陽光発電所を新設し、持続可能性への取り組みを推進",
-      "category": "国際",
-      "source": "時事ドットコム",
-      "time": "9/17(木) 5:39",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYUJ3NHNaczBxbGdhQWVlSlFUd3BsaWphTXZiV2llV3JjdklYWlpMN1Rfd2lpVkxVUXRNUEt6bXhpeUMtWmljTEcyYURuQXBzVXVYMGVITTdKRVd1?oc=5"
-    },
-    {
-      "id": "auto-a3f5596f6511",
-      "rank": 7,
-      "title": "風力発電タワー市場調査レポート：タイプ（メインギアボックス、ヨーギアボックス、その他）、用途（洋上風力、陸上風力）、設置タイプ（新規、交換）、容量 ― 2026～2036年の市場予測",
-      "category": "その他",
-      "source": "ドリームニュース",
-      "time": "9/17(木) 5:30",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56QWJyTmYtWnVnb1gyLWE2WVNmb2NUejIzRXdSbF9kOE9JQTc2Z3JLN1FQeGw3b1pNSXpyR3VBSnVTaUVHejg0NDFkNl9XTkpOck93?oc=5"
-    },
-    {
-      "id": "auto-a24bf9a2e445",
-      "rank": 8,
-      "title": "韓国：水素自動車が長距離輸送競争に復帰。",
+      "title": "水素で描く「駆けぬける歓び」。航続750kmを誇るBMW初量産FCEV「iX5ハイドロジェン」、次期X5に向け最終テストへ",
       "category": "技術",
-      "source": "vietnam.vn",
-      "time": "9/17(木) 5:08",
+      "source": "LE VOLANT WEB",
+      "time": "9/17(木) 9:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVi1aMzI4T2xDWUZSUGRMTHRJMDJiUXhBZG9GLXVsRmJSZ1pIelBfZkk2WFVObmJveHk0RDdaTF9oeVNBbngwXzNCempnM3lkWVNUTmN5Z004UWNWcUdvaWtTalpZM212Z1oxY1d5T3JfZjNfSGJsMGZxUFg4SGNKQzJuRzA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVHZtVEF6QkdmQ3pRUENKMFJrMk1OVnZSd2RQbklIb29uMjJaM2VmZFk5bXdrVlJ3VHhlUEs4UmtOUk8zdjFLRXhXT3NZRmc?oc=5"
+    },
+    {
+      "id": "auto-cb2e597aeb7b",
+      "rank": 4,
+      "title": "水素燃料電池を搭載した新型トヨタ・ハイラックスは、400km以上の航続距離を実現する予定だ。",
+      "category": "技術",
+      "source": "Vietnam.vn",
+      "time": "9/17(木) 8:54",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN29IeGxtcUxlM3pGaGtIZXJKR0tmMjNqRmFoVjZ3YWtlckxBSEFtN1k5TkZSUFlPU042azFpWHBSQWVvMng5SWdFcDFmZWpuaEFRTVg5el9RWWRaLWJ6N29zZjhCbjViZ0hKYWRZTndQYzVrbnhWREZGRmhHRTJxMllWbS01ZllBUDd6Rm9NNDVCQkhUVWcxZl9Gc2x2Zy1k?oc=5"
+    },
+    {
+      "id": "auto-10aad105ce6b",
+      "rank": 5,
+      "title": "展示会出展のお知らせ】「PV EXPO［関西］-太陽光発電展」に出展決定",
+      "category": "その他",
+      "source": "RBB TODAY",
+      "time": "9/17(木) 8:46",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IVzlFU3R2aVZQOTdBMG44d21jUVY5d3BocXQ4WnBmREd6QXVrSlFHZEtJMEs4TG02bEotYzlxN2VLR2dWU1lWeVRkbWFNMDcyQ19nRzZpbVctbHlpVW9ReTA3UWF0bl9OQzl3M0pnaWdxMW9UdE8yRg?oc=5"
+    },
+    {
+      "id": "auto-4a41eb41a8c9",
+      "rank": 6,
+      "title": "ジャストプランニング、子会社の太陽光発電事業を東急不動産に譲渡",
+      "category": "その他",
+      "source": "コトラ（KOTORA）",
+      "time": "9/17(木) 8:36",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3dXFySmszX0NXWlhoek9ER09FTUJ3V1pEaEhuZTJSLVdnVTZyRmJnZ1V0VDhyMERiSF90Mlp1Wlk1d1FzaUZrcTc3bWVJTnRDSnE4Zlg5cE95d3RQamZR?oc=5"
+    },
+    {
+      "id": "auto-e3efe5433fc0",
+      "rank": 7,
+      "title": "北海道遠軽町とステラーグリーンが森林資源活用によるカーボンニュートラル実現に向けた連携協定を締結",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "9/17(木) 8:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYllZVzE2ZXNqMHRBUlhvWk43TTRzTEh1YzFZZE9VUGJrbkhjZEJ0VUFxTVQ1OXEyQWRaNHNDR09OMDhDUkVBMDRHUm1BcllycG50ZDZNOEFUODE5QkVRMDZoTUFhX3k3cWc?oc=5"
+    },
+    {
+      "id": "auto-429567d7f49f",
+      "rank": 8,
+      "title": "新型ハイラックスFCの2028年の発売を予告！ さらに2027年世界一過酷なダカールラリーに参戦！ トヨタは水素に超本気!!",
+      "category": "技術",
+      "source": "bestcarweb.jp",
+      "time": "9/17(木) 8:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90T0hON3poaU1mRkNaclMtQzFoTzFtLV9DcHgxV3ZwLV9oSl9pRU1hMkJheC01ZTJKakF4SkplcEtPR0puTVhtS3k1Sl8?oc=5"
     }
   ]
 }
