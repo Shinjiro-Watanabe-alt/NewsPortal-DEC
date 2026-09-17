@@ -1,23 +1,63 @@
 [
   {
-    "id": "auto-6756f57b98e5",
-    "title": "10月27日(火) AndTech「AIデータセンターの電力需要拡大とインフラ・系統連系の最新動向～電力確保・蓄電、国内外の系統接続からUPS・給電設備まで～」WEBセミナーを開講予定",
-    "category": "企業",
+    "id": "auto-f0333dafb7cd",
+    "title": "Hitachi Vantara、SBTiにより認定された温室効果ガス削減目標を掲げ、2040年度までのネットゼロをめざす",
+    "category": "国際",
     "accent": false,
     "source": "PR TIMES",
-    "time": "15:15",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000001808.000080053.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/80053/1808/80053-1808-dc14c044fd90f02686b5d7da463e9cd9-1920x1005.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "0:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000034.000149528.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/149528/34/149528-34-de7b030f562ed568ac24e91bc83ea903-504x325.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-fc07e9d33d88",
+    "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
+    "category": "国際",
+    "accent": true,
+    "source": "時事ドットコム",
+    "time": "14:15",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vTzB2UWlmdnJ3VmFzSnJoaWxialhJczg5bkVubmZkdlprSFlReDk3RldfeVJrRzhKX1BsV1RRcnRYTk96bTF4VmZmLVRWc2llenhySWRCSzhBRVFpUkFiWnhGYXBNYmxRNXVJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bad513e1467f",
+    "title": "佐賀市（九州エリア）で２MW／４.６MWhの系統用蓄電所の建設工事着手、クローバー・テクノロジーズがEPCを担当",
+    "category": "その他",
+    "accent": false,
+    "source": "rbbtoday.com",
+    "time": "13:10",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56SWF3NjJwOGRValdwelE2TWxKdDRVVnZVcXFkUTBjdXJrV3R0REV3SzhpeDVMY25pTVBqa3oyZ2RTRGhrNE9VNGZaQ1EtOHdyM1JFdW9OSkF2M1Z3WG5rdDFnS01oaGlaZ3B6MG9DNGt6RWktSHhubg?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/134284/8/134284-8-e6fa1d9dd156f586ae2646ca425d7ecc-672x216.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-4adef9ef7d6d",
     "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ITmedia スマートジャパン",
     "time": "13:00",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news076.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2609/17/cover_news076.jpg"
+  },
+  {
+    "id": "auto-37ba0f3d124b",
+    "title": "南アフリカ初の洋上風力発電所計画、技術情報不足で環境評価が停止 | ウクライナニュース - #Mezha",
+    "category": "その他",
+    "accent": true,
+    "source": "Межа. Новини України.",
+    "time": "12:41",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjWVNUaFU2M3pVSTBRck9ubEZxT0VOWWp3cnNfMlQ0Y1JsQ2VjSkZLUGVKU0JGdE1hQTBabnpYQk5QN2IzVjZ4YnlYdTlxcWI0M1ZNdTlzNmdDNTMwTVJHNU1DdmZiU2FL?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3a205ebbfe08",
+    "title": "スペインのモエベが10億ユーロ超のグリーン水素施設の建設を始める | ウクライナニュース - #Mezha",
+    "category": "技術",
+    "accent": false,
+    "source": "Межа. Новини України.",
+    "time": "12:39",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xTEgzWTA5Wk1PSnFxV2NVS0JiMVZnN2lLMkk0dlJQbmc3Q3JwNGJGLWI1Q2NiYk5obGxackliNmhDX281ZExEUDJLaTk3NFRPVVpjMTlnZkh1MERFdnV5N1hQcVdMS3Ut?oc=5",
+    "image": null
   },
   {
     "id": "auto-58d449cc882b",
@@ -30,6 +70,16 @@
     "image": null
   },
   {
+    "id": "auto-41a22344b7bc",
+    "title": "GX（グリーントランスフォーメーション）テーマに田布施町の高校生がプラスチックのリサイクル学ぶ",
+    "category": "その他",
+    "accent": true,
+    "source": "Infoseek",
+    "time": "10:26",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5leXpHaUxJVWZKeXpHMkZqanlwRXNJTUt3Z2Q2cUZFbzU3aGE1UUlkSWVjZ2F4SThRbVB0VlJXelVXYjJJQkk1MThNdHVhNU1OQjRuZmU0b0s1UmtuRzZFT2hRMkkxeVUxTUJOaVF30gFuQVVfeXFMTmV5ekdpTElVZkp5ekcyRmpqeXBFc0lNS3dnZDZxRkVvNTdoYTVRSWRJZWNnYXhJOFFtUHRWUld6VVdiMklCSTUxOE10dWE1TU5CNG5mZTRvSzVSa25HNkVPaFEySTF5VTFNQk5pUXc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-fdfe827710d2",
     "title": "五つの広域都市連合で水素エネルギー総合利用モデル事業を実施―中国",
     "category": "技術",
@@ -37,6 +87,16 @@
     "source": "Record China",
     "time": "10:20",
     "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFczllMGoyYkFUNnZiamhCTEE4RVVRNWNNSmQ0UkZSVXltRGQ1RXdhek1yZkJsUlJ5dXVEdkM4TVdYREQwbU1jMi1PVlJKbUFzUDIwSTZHQ200R3NfMWQxZlFkdlpYZTg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a4d45e228063",
+    "title": "トヨタ、欧州「商用車連合」で水素普及を 燃料電池部品の現地生産構想も：ニュース",
+    "category": "技術",
+    "accent": false,
+    "source": "biz.chunichi.co.jp",
+    "time": "10:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55RGhpNVlQS3NuMlBHeUhuekt6QWNHb1A4LUFQTy0wZFBZY1lzWVhOcXdXUG0yV2ZNMHN2ZlZxOWlpRnJqTmdnSkpYa2JpeF9KOTQxYmJsdmJsbDVGYmVn?oc=5",
     "image": null
   },
   {
@@ -70,20 +130,10 @@
     "image": null
   },
   {
-    "id": "auto-fc07e9d33d88",
-    "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
-    "category": "国際",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "9:21",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzblcxNVFTckVuUS14c2JjZlpjYUpBbnFhcnFwZGFqMnA1ZVk4eml6blozZlhtNzVpa05yZXQtc2lqMm5oalBGYWFidm1qNXA4RzlVcmZhblFFUnE4LUlEblhWWXB6V2xWUUMyVXJkTkdwZm1Vckw0VDdLUQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-e3efe5433fc0",
     "title": "北海道遠軽町とステラーグリーンが森林資源活用によるカーボンニュートラル実現に向けた連携協定を締結",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "時事ドットコム",
     "time": "9:16",
     "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POFdwaEZ6cWFyZ0tWVVlLekVkLVJSaVNmMXJmeUNra0E4TzlRQXdjVnNqODVrNmgxd0Fwa0MwR19pREViMjc5YmdKSDZGQjQtSTNMQmZLeUhDbkFtTk9qUS1lcTYwU2pDYkZV?oc=5",
@@ -103,7 +153,7 @@
     "id": "auto-c73565cb152b",
     "title": "系統用蓄電池と揚水発電、日本の「巨大な電池」はどちらが上なのか――数字で比較するウェビナーを開催｜Infoseekニュース",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Infoseek",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zTmlrZ0pESk5QRmdQLWY0UHoxSTVaZ2w3dzk4WTdtakNLWlp6Y01FTnpyVGowNzNQSmRsZkd0ZjNWRndMZ0dXVTNoeXNCemg3OWdLZ2NGNnhfbllUY0hOeXJ0d1VtSWJLWE90bTJwU2xKZw?oc=5",
@@ -113,7 +163,7 @@
     "id": "auto-cb2e597aeb7b",
     "title": "水素燃料電池を搭載した新型トヨタ・ハイラックスは、400km以上の航続距離を実現する予定だ。",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "8:54",
     "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN29IeGxtcUxlM3pGaGtIZXJKR0tmMjNqRmFoVjZ3YWtlckxBSEFtN1k5TkZSUFlPU042azFpWHBSQWVvMng5SWdFcDFmZWpuaEFRTVg5el9RWWRaLWJ6N29zZjhCbjViZ0hKYWRZTndQYzVrbnhWREZGRmhHRTJxMllWbS01ZllBUDd6Rm9NNDVCQkhUVWcxZl9Gc2x2Zy1k?oc=5",
@@ -127,6 +177,16 @@
     "source": "コトラ（KOTORA）",
     "time": "8:36",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3dXFySmszX0NXWlhoek9ER09FTUJ3V1pEaEhuZTJSLVdnVTZyRmJnZ1V0VDhyMERiSF90Mlp1Wlk1d1FzaUZrcTc3bWVJTnRDSnE4Zlg5cE95d3RQamZR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-82a5fd68219d",
+    "title": "ENEOS、持続可能な船舶燃料「SMF」の環境価値販売を開始 - 海上貨物輸送による温室効果ガス排出削減を支援",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "8:15",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PUXhxNVR4X0Nsbl9kUHlrVUxydERtUU1TS0lHd3pxd1RycVR6U3RhOWkxX09JSDYyTEpXa2tRSWhWbHp4WXlVSXpOQml1cHotOTZDQ004VjdiZ0ZzYlQ2Mzd4Z0hjVWdNSmRhNF84ZV91TzBSSWRCa0poQQ?oc=5",
     "image": null
   },
   {
@@ -180,13 +240,13 @@
     "image": null
   },
   {
-    "id": "auto-ee03555d6f67",
-    "title": "Piramal Pharma Solutions、英国モーペス拠点に太陽光発電所を新設し、持続可能性への取り組みを推進｜Infoseekニュース",
+    "id": "auto-4db3b271df35",
+    "title": "株式会社東京リーガルマインド ／LEC、「GX検定 ベーシック対応 GX入門講座」の 提携販売を開始 - pr-free.jp",
     "category": "国際",
     "accent": false,
-    "source": "Infoseek",
-    "time": "7:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pNWJhbmtXU3V2dEhPb3gyMUQ3bVBRZGdHVV9wN3FycHNha1ludHhjRW02NGZtX1llYkJVR2k1b1ppUlZRM040SHhjUURkM25KcUNuLVRsUGJvV1c0UkY5cnZGcnNfV0U?oc=5",
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "time": "7:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tVG44T2Y5UzBaOXJhcFJlYVc3Y3hrYk5laklkeWxNVE1MT2FWTW51MC1LcjRqQVVCR1UyWFN5cFlFRlJmc0E?oc=5",
     "image": null
   },
   {
@@ -196,7 +256,7 @@
     "accent": true,
     "source": "ニコニコニュース",
     "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05emU0R2h2d25IQzdlODlWS19vQjdQbDF6NUwwTjFGeFBIVWx6YjVQYUZpdzF1RXNGRmJZSFJoRUdOOTBvZWdXbllGZEZvbUVBOTlPV2RpcElvT09idmhEUXh5emhaTVJrMkxDQ2NvZGQzcFpZbGc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rMzFuUUd2WFNsM3RmeWVRSmZ3aHFvb3ZVNE1VNUg3dUZqT1ZrOG5nVDhtekVONXZRbk95SkFHRGhtUTRfQUhoXzlBUlFyV1I5RVRscUtrb2VUOFBSYXRiZFJPYk4wa2tL?oc=5",
     "image": null
   },
   {
@@ -237,66 +297,6 @@
     "source": "TBS NEWS DIG",
     "time": "6:37",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYzgtT3VfbmU1UkkxZWhpX1JENE1oXzZFWkE5QWFMSm5aaFhOdmdqSnowTWVDTnI3cF83Q2Y4UHhLdlRwZnFDdWlNQmtJZlFTUTVvV2p4TGFrakp2?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e996942096ce",
-    "title": "蓄電池は何年もつのか――「寿命13年」と「運用20年」のギャップを読み解くウェビナーを開催 - tv-tokyo.co.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 再生可能エネルギー",
-    "time": "6:32",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ma25ZLVBHNmhIYURva2JjWmp0cWVTQW1zcF9XTkZEOS1uZUZiTEFPRWN4dzN3U2hMR1pXWlJMTHMwZm1USmlZT000LXpHd2I5Rl9tVmstWk5JQmtoejlYSnNoVmdmMy1ZeVJjZ3d3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e9365d62f059",
-    "title": "環境省の27年度新規事業 脱炭素や地域資源活用など 概算要求より 住宅、商用車電動化も | 産業別動向記事 | プレミアム",
-    "category": "自治体",
-    "accent": true,
-    "source": "nikkinonline.com",
-    "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiOWNfSUJQS012SEJBWlFtc3RHNG1EZUR6ekUtNm5aMWFjWlY0S2YyY0czTVg2Rmowc3ViV1B3V3hiUXg5QlRPa0tjTGFBN1ZKQTRJYnNXUGVwRXN0dkVVTG0yTnI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bad513e1467f",
-    "title": "佐賀市（九州エリア）で２MW／４.６MWhの系統用蓄電所の建設工事着手、クローバー・テクノロジーズがEPCを担当",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zc0tsdEExdUdOWWdBejNPM2NMY3VRMkZQTDFZZkVmeHdOdUZFR1lDTWJLNk8yUG9obGVqc205cEhZUUEyZjY1UloxYVJoVUFVRE9fR1dRdkxtSWEwSTBHTjF2cTdIMmV1dHNtVUZVZW1HSUk?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/134284/8/134284-8-e6fa1d9dd156f586ae2646ca425d7ecc-672x216.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-63913cf6b3c0",
-    "title": "脱炭素が成長投資のワケがない",
-    "category": "その他",
-    "accent": false,
-    "source": "キヤノングローバル戦略研究所",
-    "time": "6:23",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51S0hLN2VydjJmZ1h6SkRWN19feHkzRkRYR0xEMDVocm9KRlVIY3IyUG43SzI3T210RTFrV2xNWDF1enc5S2ZXNXRTSHAybmNtUzZWQXpUMF8xZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2ea6b99c4309",
-    "title": "物流施設などの遊休屋根を再エネ供給拠点に転換 4社連携で2028年3月までに10MW超の太陽光発電設備開発へ",
-    "category": "その他",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "6:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4eW1YbUR1XzgwdHVpZWxPNi1fUkllUDdzOS04QTVEc25JdHNQSl9QR0dWMDhLSHg0WUJaTHg0ckdaMmc3VDJjV0NOdmNXSW5YVXpsVXk5OS1NN1lfSDgtNl95SVdrbWYw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5bedee16cd8e",
-    "title": "中国の水素「実証から産業化へ」...韓国も生産・都市エコシステムを拡大",
-    "category": "技術",
-    "accent": false,
-    "source": "매일경제",
-    "time": "6:14",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TX2Q3MF9zZEVRb0Rpd0k3UWJMQXVNV1VLcm9wS0tkWjJjWUVyNXRWY2dwYTlSNmg4Q1hQOGlsWmFueHRyQTBnSFQyelNULWdVcUFn?oc=5",
     "image": null
   }
 ]
