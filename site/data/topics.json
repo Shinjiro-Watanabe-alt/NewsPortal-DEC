@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-4adef9ef7d6d",
-    "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM",
-    "summary": "住友電気工業（住友電工）は2026年9月14日、最大100拠点の系統用蓄電所のマルチユース運用と一元管理が可能なエネルギーマネジメントシステムを開発したと発表した。",
-    "category": "技術",
-    "source": "ITmedia スマートジャパン",
-    "time": "9/17(木) 13:00",
+    "id": "auto-6756f57b98e5",
+    "title": "10月27日(火) AndTech「AIデータセンターの電力需要拡大とインフラ・系統連系の最新動向～電力確保・蓄電、国内外の系統接続からUPS・給電設備まで～」WEBセミナーを開講予定",
+    "summary": "[AndTech] [画像1: https://prcdn.freetls.fastly.net/release_image/80053/1808/80053-1808-dc14c044fd90f02686b5d7da463e9cd9-1920x1005.jpg?width=53…",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "9/17(木) 15:15",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news076.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2609/17/cover_news076.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000001808.000080053.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/80053/1808/80053-1808-dc14c044fd90f02686b5d7da463e9cd9-1920x1005.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-fc07e9d33d88",
+      "id": "auto-4adef9ef7d6d",
       "rank": 1,
+      "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "9/17(木) 13:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2609/17/news076.html"
+    },
+    {
+      "id": "auto-58d449cc882b",
+      "rank": 2,
+      "title": "ZelestraとSalzgitter Flachstahl、ドイツ最大の太陽光・蓄電池ハイブリッドPPAを締結 - ニュースと統計",
+      "category": "国際",
+      "source": "IndexBox",
+      "time": "9/17(木) 11:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeE93Z0J3VUhrWW9VYWVmR0tYamE1bFVtakx3MHNoUW1OczI4RXhVZFhFNm9kSFh6UUh0YllZXzJnM3FiZnEtYTgwOUxWOWU4WXFsRWNkbm9yWXpGZWtCYUpyWEtKSFByZzk4N0NKeWFiQU0xclZ6TENUQk5xX1N1Q3JaVTB0OWlmTmVGSi1neXVPSHdNZDFqdElock81bGZFeGFWNw?oc=5"
+    },
+    {
+      "id": "auto-fdfe827710d2",
+      "rank": 3,
+      "title": "五つの広域都市連合で水素エネルギー総合利用モデル事業を実施―中国",
+      "category": "技術",
+      "source": "Record China",
+      "time": "9/17(木) 10:20",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFczllMGoyYkFUNnZiamhCTEE4RVVRNWNNSmQ0UkZSVXltRGQ1RXdhek1yZkJsUlJ5dXVEdkM4TVdYREQwbU1jMi1PVlJKbUFzUDIwSTZHQ200R3NfMWQxZlFkdlpYZTg?oc=5"
+    },
+    {
+      "id": "auto-84a7a658a408",
+      "rank": 4,
+      "title": "ジェフリーズ、鉄鋼脱炭素化の機会を挙げダニエリを強気評価で開始 執筆 - Investing.com",
+      "category": "その他",
+      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "time": "9/17(木) 10:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XbmZQZTlSWkwtcE84WlVfR25rT1hQRkdBN1hwMktWS0ZRcXNHdTRjVlZHclhnUUp3R2lTc2N0YXI2NWYyVUJzY0hxbkFLZ2JHczU3SHVic3lqcnN5aUFTb0ZIeDYzbjlsNGNHb3VSMmM?oc=5"
+    },
+    {
+      "id": "auto-65bb0338199c",
+      "rank": 5,
+      "title": "クアンチ省は、投資を受け付けている洋上風力発電プロジェクトの一覧を発表した。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "9/17(木) 9:38",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm9UN2tlT1pMODh5TGdYUXdKLXVFSkVVVkVEN0Z4cGtvbFZoT05ncnk3VkhXS21MMXhVVGcwanF0Q08wSEUyT0ZuWFo5bksxR0tzeHJWUzN2OVV2Z04xNkstVzBCM2JPNzRKZm1sdGpuMzVpeTBNNllrUmJDbjhLQ3NrZVpfZGduMjV6NVlBZzEzTkFSbUdJ?oc=5"
+    },
+    {
+      "id": "auto-1c3e328ac043",
+      "rank": 6,
+      "title": "蓄電池の「充放電効率」とは何か――投入した電気がなぜ目減りするのかを読み解くウェビナーを開催",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "9/17(木) 9:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWjYzQXZZQWc2WlpkcHRYTWpCMjFQWDZfYksyQVIwbnAyaEFwb29DMm1ybm1GZ2FQQTcyYVR0cTlZMno0ZXlfT3lTTExIbmUxQ25WTHItY1labldlVVR0QXpfejRuSlMyb2c?oc=5"
+    },
+    {
+      "id": "auto-fc07e9d33d88",
+      "rank": 7,
       "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
       "category": "国際",
       "source": "ニコニコニュース",
       "time": "9/17(木) 9:21",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzblcxNVFTckVuUS14c2JjZlpjYUpBbnFhcnFwZGFqMnA1ZVk4eml6blozZlhtNzVpa05yZXQtc2lqMm5oalBGYWFidm1qNXA4RzlVcmZhblFFUnE4LUlEblhWWXB6V2xWUUMyVXJkTkdwZm1Vckw0VDdLUQ?oc=5"
     },
     {
-      "id": "auto-e63cc8f8a031",
-      "rank": 2,
-      "title": "系統用蓄電池と揚水発電、日本の「巨大な電池」はどちらが上なのか――数字で比較するウェビナーを開催",
-      "category": "その他",
-      "source": "PR TIMES",
-      "time": "9/17(木) 9:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5S1hsc25nQTRqa184SzRDdEVNcy0xdXFWSUFlNFBBaXk1aTFyVG1WUjZXa1pYQ3VSUjE5bVd4QUdQSkxRS1BEUE1kVWJNWW9WdU15Nm9jSEtmSGEwTUZPbUVtRnVPVlVka3c?oc=5"
-    },
-    {
-      "id": "auto-9567ea2732f3",
-      "rank": 3,
-      "title": "水素で描く「駆けぬける歓び」。航続750kmを誇るBMW初量産FCEV「iX5ハイドロジェン」、次期X5に向け最終テストへ",
-      "category": "技術",
-      "source": "LE VOLANT WEB",
-      "time": "9/17(木) 9:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVHZtVEF6QkdmQ3pRUENKMFJrMk1OVnZSd2RQbklIb29uMjJaM2VmZFk5bXdrVlJ3VHhlUEs4UmtOUk8zdjFLRXhXT3NZRmc?oc=5"
-    },
-    {
-      "id": "auto-cb2e597aeb7b",
-      "rank": 4,
-      "title": "水素燃料電池を搭載した新型トヨタ・ハイラックスは、400km以上の航続距離を実現する予定だ。",
-      "category": "技術",
-      "source": "Vietnam.vn",
-      "time": "9/17(木) 8:54",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN29IeGxtcUxlM3pGaGtIZXJKR0tmMjNqRmFoVjZ3YWtlckxBSEFtN1k5TkZSUFlPU042azFpWHBSQWVvMng5SWdFcDFmZWpuaEFRTVg5el9RWWRaLWJ6N29zZjhCbjViZ0hKYWRZTndQYzVrbnhWREZGRmhHRTJxMllWbS01ZllBUDd6Rm9NNDVCQkhUVWcxZl9Gc2x2Zy1k?oc=5"
-    },
-    {
-      "id": "auto-10aad105ce6b",
-      "rank": 5,
-      "title": "展示会出展のお知らせ】「PV EXPO［関西］-太陽光発電展」に出展決定",
-      "category": "その他",
-      "source": "RBB TODAY",
-      "time": "9/17(木) 8:46",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IVzlFU3R2aVZQOTdBMG44d21jUVY5d3BocXQ4WnBmREd6QXVrSlFHZEtJMEs4TG02bEotYzlxN2VLR2dWU1lWeVRkbWFNMDcyQ19nRzZpbVctbHlpVW9ReTA3UWF0bl9OQzl3M0pnaWdxMW9UdE8yRg?oc=5"
-    },
-    {
-      "id": "auto-4a41eb41a8c9",
-      "rank": 6,
-      "title": "ジャストプランニング、子会社の太陽光発電事業を東急不動産に譲渡",
-      "category": "その他",
-      "source": "コトラ（KOTORA）",
-      "time": "9/17(木) 8:36",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3dXFySmszX0NXWlhoek9ER09FTUJ3V1pEaEhuZTJSLVdnVTZyRmJnZ1V0VDhyMERiSF90Mlp1Wlk1d1FzaUZrcTc3bWVJTnRDSnE4Zlg5cE95d3RQamZR?oc=5"
-    },
-    {
       "id": "auto-e3efe5433fc0",
-      "rank": 7,
+      "rank": 8,
       "title": "北海道遠軽町とステラーグリーンが森林資源活用によるカーボンニュートラル実現に向けた連携協定を締結",
       "category": "その他",
-      "source": "PR TIMES",
-      "time": "9/17(木) 8:00",
-      "tag": "NEW",
+      "source": "時事ドットコム",
+      "time": "9/17(木) 9:16",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYllZVzE2ZXNqMHRBUlhvWk43TTRzTEh1YzFZZE9VUGJrbkhjZEJ0VUFxTVQ1OXEyQWRaNHNDR09OMDhDUkVBMDRHUm1BcllycG50ZDZNOEFUODE5QkVRMDZoTUFhX3k3cWc?oc=5"
-    },
-    {
-      "id": "auto-429567d7f49f",
-      "rank": 8,
-      "title": "新型ハイラックスFCの2028年の発売を予告！ さらに2027年世界一過酷なダカールラリーに参戦！ トヨタは水素に超本気!!",
-      "category": "技術",
-      "source": "bestcarweb.jp",
-      "time": "9/17(木) 8:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90T0hON3poaU1mRkNaclMtQzFoTzFtLV9DcHgxV3ZwLV9oSl9pRU1hMkJheC01ZTJKakF4SkplcEtPR0puTVhtS3k1Sl8?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POFdwaEZ6cWFyZ0tWVVlLekVkLVJSaVNmMXJmeUNra0E4TzlRQXdjVnNqODVrNmgxd0Fwa0MwR19pREViMjc5YmdKSDZGQjQtSTNMQmZLeUhDbkFtTk9qUS1lcTYwU2pDYkZV?oc=5"
     }
   ]
 }
