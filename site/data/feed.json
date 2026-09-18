@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-e69de64f7a5f",
+    "title": "温室効果ガス（GHG）排出量の第三者保証を取得",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000100.000127741.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-df00525a0387",
+    "title": "周産期の低濃度水素吸入の可能性",
+    "category": "技術",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "2:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000097.000047753.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/47753/97/47753-97-003d4a76a0d19db9522542c4c4920db1-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-fc07e9d33d88",
+    "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000214.000035215.html",
+    "image": null
+  },
+  {
+    "id": "auto-907ef62df62d",
+    "title": "KCCSグループ、温室効果ガス排出削減目標の「SBT認定」取得と国内外電力「実質再エネ100%」を達成",
+    "category": "自治体",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000197.000009956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/9956/197/9956-197-f5eaf811c31f4d9a32cd807be561029a-1500x860.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-eb51db75b9d8",
+    "title": "Global Startup EXPO2026（GSE2026）サイドイベントである「Kansai GX Co-creation Forum」を開催します！",
+    "category": "国際",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000019.000180486.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/180486/19/180486-19-89f578d8d6cace89de427a7d584c32ad-1024x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-d42c63fdca77",
     "title": "東大発エネルギーテックFreezo、東京都主催「PoC Ground Tokyo」令和8年度第2期に採択",
     "category": "企業",
@@ -10,10 +60,30 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/160583/2/160583-2-11d7229c81f319e830fd7a2476b32d6c-3900x2194.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-06c0043b6017",
+    "title": "ドンタップ省：総額9300億ベトナムドンの太陽光発電プロジェクト2件への投資が承認された。",
+    "category": "その他",
+    "accent": false,
+    "source": "vietnam.vn",
+    "time": "16:08",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFF3M2JWSFp6cU95Q0FBd0RSVVVSYlJqTWpBWm1La3pKdDE4cHBDb19vVURqY1dId0lETG9IamV5Q01ueG50dU04b2Z3TFByZW1zSzVZX3kzSTNra3JmaURpSmNHQmJDY3d4dGVxYTJobTlHeXlsVXVyemhtbTRkY01mQ3VjRDJqeXR6TmVNT29mWVF0azY2X19wcTFQLTdrWUR3bG1LTHBoNFdPNnMtZ1NvZlZSY1p3cVE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5f8448b1278e",
+    "title": "系統用蓄電池の「安全性」と熱暴走対策とは――海外の事故事例から読み解くウェビナーを開催 - tv-tokyo.co.jp",
+    "category": "国際",
+    "accent": true,
+    "source": "検索: 再生可能エネルギー",
+    "time": "14:20",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWQk9XNGNxMFdybGRfTkVMTVZMQUx6WTlpNU9icmlvSk5IdWNsNzY2a1BiU0Q2SldJRmNjbXNPQUpuQjB0VTFwTlF0emdXU0ZTRkJCQ0RLNXVOSFJfNUdsdUg3UWh2SGN0Z1puTDNn?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-cd5e855a56c1",
     "title": "Moeve、ウエルバでアンダルシア・グリーン水素バレーの建設に着手 - ニュースと統計",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "12:41",
     "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaV92Zmt0YVhuRUNFOFpmMXpxTmxEZ0V4all0TTBvN2oxOWs2RnVzRDBuc1RNbHFxdVZGSzBmbllDMzF0bFkzT0xBTEx2TmFRTGYxTDMwOWwxT2RYdGcxMWhKMGs1YkFzQ0dSZnFkR1ZJbWxteExQNlJFVnp1VVFKZXJPazFSbjNSd0EwOWl5Rml3TU9nZ0NjWk9oUXJtekR2QVdOQUR6Z3ZGU1IxQVdJ?oc=5",
@@ -33,21 +103,11 @@
     "id": "auto-003c247e571a",
     "title": "官公庁、オフィス、学校、病院などの屋上に屋上太陽光発電システムを設置する。",
     "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
+    "accent": true,
+    "source": "vietnam.vn",
     "time": "12:08",
     "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnhHNjNzRkU1SjJXa0JPY0Z3anhRckdVYzh0Yy1MaGxfTVNia09XelFXWkRoTjl3Q3BDTl93RjE0WWgya3oyREhkTU9zdHQ5blJ4ZWFuOXgtdDVrWGx0aFpoMEJtbUswMklnUVF1X0V0MnlSSDVjT2dVOGY0b0V4bGtKZWlPb09YcTIxazdEa3BlLXdWMlpHTFhxazZ2eG5JQ0phSjFxQ0ktUHo5RlBiRnJxWHZ3bEMwOXFudGR3?oc=5",
     "image": null
-  },
-  {
-    "id": "auto-7445d837ec96",
-    "title": "【DMM Factory】『遊☆戯☆王デュエルモンスターズGX』 より、「究極宝玉神 レインボー・ドラゴン」がスケールフィギュア化！9月18日（金）より予約受付を開始！",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "12:00",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000005129.000002581.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/2581/5129/2581-5129-66c4c034cbeae6284fa54b3f4a71f904-1200x628.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-7a9dc0c6085b",
@@ -60,21 +120,11 @@
     "image": null
   },
   {
-    "id": "auto-c61263577a23",
-    "title": "MasdarがOMVのオーストリア水素プロジェクトから撤退、OMVは単独で継続へ 執筆 - Investing.com",
-    "category": "技術",
-    "accent": false,
-    "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-    "time": "11:24",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldi1IQ2k0WHA5eDJjQXhRdE02UDZldnlTYnR3SjltQU94RUNPektlMnhzU1JKRVhZTTN1NWsyYUFmaWMxNFdVb3BaenFuWHZFaVFkaFRVMlE0dWp4X0syRkhlMXNidWRxeTc2ZWI4WVBhUTkxLVFN?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-cf709c5c838e",
     "title": "屋上太陽光発電設備の予算配分：資源を分散させすぎないように注意しましょう。",
     "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
+    "accent": false,
+    "source": "vietnam.vn",
     "time": "10:54",
     "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUF4QnNKYjlua21sd3MxZXlfZE9zcUJEejN3TjVncHplSGViM0htN3RrdzFJNnI0LXc1UEx6VGhid25ZU2dfSEUzbGZfdUR4ZE80TU5DbjR5dlFyZWJubVhrRzlrVnhzMzRBVnFyRHFCb1c2S210T1V5akl0cXZWM2doeTBRTk5TX21mRE9EWTlDMkxlLXc?oc=5",
     "image": null
@@ -83,10 +133,20 @@
     "id": "auto-731e194e2161",
     "title": "商工省は、オフィス、学校、病院への屋上太陽光発電システムの設置を加速させている。",
     "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
+    "accent": true,
+    "source": "vietnam.vn",
     "time": "10:31",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ29sdUxQMjlYcHFBNmExcnRlazBWdDM2elV6bEFXRlBpdUREWUtkYnVsTDkteXZGeVY3cDFYRS1qMG4zX1U1VTF4WThncGNNVl82ejlDZThRanhoVEt2cTZNSnBMWTRDVWZMT1JiU2RPNHZJQzlyeDI2OXdEWWs4YTZlVzNRc1ZzUktaaTVudEZ2NVpsTG9GVDhaUVlIZmlBTXFPWU9tUEd3RmFJaG40SmVR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cc784a659de1",
+    "title": "TOYO TIREがダカールラリー参戦の水素燃料電池車両に「OPEN COUNTRY」供給",
+    "category": "技術",
+    "accent": false,
+    "source": "news.yahoo.co.jp",
+    "time": "10:16",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTVmTEs2Q3RpSTFmRGlUT1F6LTRjQXpDdE1zQXlfVFFuR0FaRUZpOEk5LWNBS2JuWXVKT1g1V05QbVRwbmNjNno4TDlTYnVtZVZxbWstZnZYT0F1Nng2c09pOVd2aV9QUnZUUEdRdXNwNE5wallSdzFrQmhJT2VYU2R2QWkwaldNcmQ5MnhR?oc=5",
     "image": null
   },
   {
@@ -94,29 +154,29 @@
     "title": "東京湾周遊が「異次元の体験」に！ 日本初の「水素クルーズ船」ついに進水 エンジン音のない静かさ＋超豪華な個室！",
     "category": "技術",
     "accent": false,
-    "source": "ｄメニューニュース",
+    "source": "topics.smt.docomo.ne.jp",
     "time": "10:12",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlhmU2lQRUFfY0tpN2V6VGd3MkllejZaeHk4SFdvaEhUMkxsTjNESTdGVngteUdSTC1pb3RIbmlINC15NTlFa1NqTF9vdWJEVk5aVC1uemZTNkVHRnlTekV2RkpjY2VTNlg0S3BRNFJYaFl2S2dqODh3cmhYUTIyQTJVMXNDa0nSAYcBQVVfeXFMT0ZYZlNpUEVBX2NLaTdlelRndzJJZXo2Wnh5OEhXb2hIVDJMbE4zREk3RlZ4LXlHUkwtaW90SG5pSDQteTU5RWtTakxfb3ViRFZOWlQtbnpmUzZFR0Z5U3pFdkZKY2NlUzZYNEtwUTRSWGhZdktnajg4d3JoWFEyMkEyVTFzQ2tJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-072c7c31fc53",
+    "title": "系統用蓄電池の「安全性」と熱暴走対策とは――海外の事故事例から読み解くウェビナーを開催",
+    "category": "国際",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "9:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KaUNVM2FEbUNaekkyQUkwVThTek9xZkt5MklPdkNXX2diNnZ6TjBhcEtGclg1RXNFSGZUMHRneHJZLXROS1hBOEtZVHl5WnNiakVIZVFtcFRkUHZLXy1LR2JrQ2k3bXI2X2c?oc=5",
     "image": null
   },
   {
     "id": "auto-cb330dc5dcf7",
     "title": "TOYO TIREがダカールラリー参戦の水素燃料電池車両に「OPEN COUNTRY」供給 1000kmの過酷な競技を足元から支える！",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "9:30",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tTWhROUUyNkRaWWI1NU04dlpBNFRIUTNDTHF3ZlphOTRYM2l6dWVPMFZ5REVkWEowNWFXQUltdkpnMkx1Rm9BMURJTWUzX1ZWWXdPNXUxUE83bGduVnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1ff2c90589eb",
-    "title": "TOYO TIREがダカールラリー参戦の水素燃料電池車両に「OPEN COUNTRY」供給 1000kmの過酷な競技を足元から支える！ - kuruma-news.jp",
-    "category": "技術",
-    "accent": false,
-    "source": "検索: 水素・燃料電池",
-    "time": "9:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NMWVacjNsX2JvVzlUSHl6MnBacDQ2NGo2RWRDbmMzWUxuM1BLRmJ4VEhxWjVhc2NKS0RhVnljZnpjNVBjenQwemFNNA?oc=5",
     "image": null
   },
   {
@@ -174,7 +234,7 @@
     "title": "オフィス、学校、病院への屋上太陽光発電システムの設置を加速させる。",
     "category": "その他",
     "accent": false,
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "time": "8:17",
     "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenN3U0I2UkRwQktnS0cwYk9lZFNYOTB2dm1nd29PNVpYSGc1UWhhc0hSTF9ZTEZPTnJCbUZTaURCOHlmdmwzeWZ0a29lN3h6NU5CQkZlTTYtcFhKY0NtNEZGcGc3ejE3bG5aRXhwbWc3VW0zYUpBejhpQ2szZlA3UzNremFCbXFKRkJJWTFKZDZUa0pSLVBCdFVB?oc=5",
     "image": null
@@ -184,7 +244,7 @@
     "title": "欧州最大規模のグリーン水素製造プロジェクトが着工。",
     "category": "技術",
     "accent": false,
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "time": "8:17",
     "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlJwRjBuWVZZQ1J0Qm5BUzM2MW1hSmdiZnFZci0wMXlYN0l0a0FPMlJ1M1JvOFRReWFTNTllMjJRcFZlamQ1RzBHc0c3eWU4bWRQbUpDdnJqR0huVzNaUVQxRWxHdnR2TlEyS2tJcUk0SjZqVERDSWRQTDM5eXJILXItVzY?oc=5",
     "image": null
@@ -194,19 +254,9 @@
     "title": "トヨタは、水素燃料電池ピックアップトラック「ハイラックスFCEV」の生産開始時期を2028年に設定した。",
     "category": "技術",
     "accent": true,
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "time": "8:16",
     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHVpekJDVGM4dk03eFZTUHRoVE95REJrYjRZaF9QU1NUdWJoRG1tLVI2VW9HVGdBc3ZIN0dweGRZM1J1YUlHQnBYTUVNZEpFOHBsRXJGWUdGWEltVl9ucmdBUDZjX1VBVmRtblNiTzJRbEcwNWdIMGhtQ3c2NmlPZ1BSX1VFVm9lRnpHUjRkMVM4YWNfQnlwVw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-aa180480793e",
-    "title": "【太陽光発電の引き渡し実績】2026年3月～9月に低圧案件を継続対応―蓄電池事業へつながる開発・施工経験を蓄積",
-    "category": "その他",
-    "accent": false,
-    "source": "news.nicovideo.jp",
-    "time": "7:30",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SNlZNU0J4ZXZQRFZZUkF3ckQwQlViYThyb3JzaHNfaF9KM1NnYlRkN1B4M2dwVV9XZUpGZnNpWGgtWmNsbktVeUpRX3R6VHVSRlduQXJkR0NEZGttTklsdFZJeTlwVEZPS2RXLUpwbDVFcFNBdmp6V1Qzaw?oc=5",
     "image": null
   },
   {
@@ -223,80 +273,30 @@
     "id": "auto-1230f65c3acd",
     "title": "高石都市開発株式会社向けにJ-クレジット制度を活用したリースを提供",
     "category": "自治体",
-    "accent": true,
-    "source": "news.nicovideo.jp",
+    "accent": false,
+    "source": "ニコニコニュース",
     "time": "6:15",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lTG9fNnBZVzIwN2hURFBJbW9zMVdRTlBtY0F6cE9YMnJGZERRcUN2akNiWjVhQ1UyMEtVNW90M1RhZGZNSER4WF84VzlmMkpnbUNLSnRnQnZvdnhDQmJDMTdnb0JQdXc1QXBydC1hci1nMnE3NEdGNFU1TQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SVG93d3VtS0s0WkFjelB0Mzh2ODBaaGdBUnVoZTNXNDhlU0xjaENRTTI3OFF6c29kcmpzaFIyeDJmUzZtOTd2T2Exa05YRjFsYWtDZjdsWnB3cGlTMGFWY280dnJJbG93a29tREw5d3doSzlFY1RXS0YtYw?oc=5",
     "image": null
   },
   {
     "id": "auto-a7c913a136f9",
     "title": "クリーンエネルギー開発加速、脱炭素と農村の増収を両立＝重慶市",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Record China",
     "time": "6:02",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5teUFUYlc2VFVFZTduUlkyU2hoZXAyb0ZoWkRVZDQ2ZU5sWEc3QlRqbm9JLUNRMGJYZlVfT1BKSHEtNFM5QmNCTlEyWkE0OEpHemthME1VcnFGWXlh?oc=5",
     "image": null
   },
   {
-    "id": "auto-9da59404a42a",
-    "title": "世界の脱炭素、2050年目標達成に遅れのリスク＝エクソン見通し｜Infoseekニュース",
-    "category": "国際",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "5:57",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRVDN4SDFLcTRNRnBlRTlXUEt1eXdUcTRFMGJFMF9BMkh0djEyZVRXTTVuR1JkWmQ5eWRqT2xBZXpKUU5NUDNNUkJsM3ZrTnJpNWsyMUJHdW1YNHZxVUJqSkJaUUs5RU5UcDZ3SjhB?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-cf861716d9d0",
-    "title": "世界の脱炭素、2050年目標達成に遅れのリスク＝エクソン見通し",
+    "title": "世界の脱炭素、2050年目標達成に遅れのリスク＝エクソン見通し（ロイター）",
     "category": "国際",
-    "accent": true,
-    "source": "newsweekjapan.jp",
+    "accent": false,
+    "source": "Yahoo!ニュース",
     "time": "5:57",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hNFg3Smp4V0JsOW9VbllyWUYxVXQyZkRTQVlZa2ZFanFxSmZvdmcxVVFjOG92Z0U1dWlOUGlHclUxMHZUZk5VWkxaOGpDOVRsY3NmempJdEV4dw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-41dee5fcb2c0",
-    "title": "新潟県糸魚川市とバイウィルが「脱炭素社会の実現に向けた取組に関する連携協定」を締結",
-    "category": "その他",
-    "accent": false,
-    "source": "news.nicovideo.jp",
-    "time": "5:51",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90bUpOU2ZYZ1hMa2p6QmFiNmgyMWhmc05SQmlFdXpkNmVSUmdiZndGSWJKS1ZYY3pMUmlpazY3d05ad296dUpBYnlDdk5BaTJaUnRGX3hQNGVrTXBlSzF4TktkODFXMzgteGFhbGp2bEJrN25YOGxGRk5mVQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6c7fb4bfad76",
-    "title": "10/10(土)ギラヴァンツ北九州戦「脱炭素フェス2026」開催のお知らせ",
-    "category": "その他",
-    "accent": false,
-    "source": "奈良クラブ",
-    "time": "5:31",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4d2tUMHRhRWkwQzNQb0hXOFJmUVVjdW9weGpCMU5mdXdQNVdmdzRSMUdoNlZYOURQRFpTWm1oalV4YThoV0pJbEt3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a301a5706f10",
-    "title": "e-dash、9/30・10/1開催 「第1回 ［九州］次世代エネルギー展」に出展 九州エリアでの実績を活かし、サプライチェーン全体を巻き込んだ脱炭素化を支援",
-    "category": "その他",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "5:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aYzN6eUhmWjZtODNFTTdtdnpBRHVoWFNNUFpNWGFBclU3UFZTWnNlUTZMS3VPbHhkMW5vQTdDVFhrdjlaeE5jdEQ3YXBRakMyZnhDZVZKTml3VkRlUHpRRElUYTkyUDVtckE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-38011191b2db",
-    "title": "セコマと北海道電力、道内初のZEBコンビニ 太陽光発電で店内調理",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "5:26",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhVXh2c0xzTjRKNFc3LV81RmphTDJLalUwRm9hZlBZVlZhUjBkcWFma3ZUenhNQjBHZFVTaGMwajROTnVjaDhnRmxOSVVwLWdFekMtUktMM29RWmtVU1lZUGJUNDl1RmVmZDM1aA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wMXlpM19tSW8yWVZEdXFWZkYtX3Bja3JjZ0UwNFFoakQ2eldKUUVodFEzTDRnUG1pTWxaU3VjeFFQX2tNZFFZSktqRk4tR2NOMmNWMVNVWVhsXzVhTXpUcmk5bnl3XzhtYkdiVUVQUGpPZkJXNFpxQjloY3VITVE?oc=5",
     "image": null
   }
 ]

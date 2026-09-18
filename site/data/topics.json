@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-d42c63fdca77",
-    "title": "東大発エネルギーテックFreezo、東京都主催「PoC Ground Tokyo」令和8年度第2期に採択",
-    "summary": "[株式会社Freezo] 冷熱を活用し、カーボンニュートラル社会の実現を目指す株式会社Freezo（本社：東京都文京区、代表取締役：水野竣介、以下「Freezo」）は、東京都が主催するスタートアップ社会実装促進事業「PoC Ground Tokyo」...",
+    "id": "auto-e69de64f7a5f",
+    "title": "温室効果ガス（GHG）排出量の第三者保証を取得",
+    "summary": "[株式会社ヤマタネ] 株式会社ヤマタネ（本社：東京都江東区、代表取締役社長：河原田 岩夫、以下「当社」）は、温室効果ガス排出量データの信頼性向上のため、2025年度（2025年４月～2026年３月）の温室効果ガス排出量データについ...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "9/18(金) 18:40",
+    "time": "9/19(土) 3:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000160583.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/160583/2/160583-2-11d7229c81f319e830fd7a2476b32d6c-3900x2194.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000100.000127741.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-cd5e855a56c1",
+      "id": "auto-df00525a0387",
       "rank": 1,
+      "title": "周産期の低濃度水素吸入の可能性",
+      "category": "技術",
+      "source": "PR TIMES",
+      "time": "9/19(土) 2:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000097.000047753.html"
+    },
+    {
+      "id": "auto-fc07e9d33d88",
+      "rank": 2,
+      "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "9/19(土) 1:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000214.000035215.html"
+    },
+    {
+      "id": "auto-907ef62df62d",
+      "rank": 3,
+      "title": "KCCSグループ、温室効果ガス排出削減目標の「SBT認定」取得と国内外電力「実質再エネ100%」を達成",
+      "category": "自治体",
+      "source": "PR TIMES",
+      "time": "9/19(土) 1:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000197.000009956.html"
+    },
+    {
+      "id": "auto-eb51db75b9d8",
+      "rank": 4,
+      "title": "Global Startup EXPO2026（GSE2026）サイドイベントである「Kansai GX Co-creation Forum」を開催します！",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "9/19(土) 1:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000019.000180486.html"
+    },
+    {
+      "id": "auto-d42c63fdca77",
+      "rank": 5,
+      "title": "東大発エネルギーテックFreezo、東京都主催「PoC Ground Tokyo」令和8年度第2期に採択",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "9/18(金) 18:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000160583.html"
+    },
+    {
+      "id": "auto-06c0043b6017",
+      "rank": 6,
+      "title": "ドンタップ省：総額9300億ベトナムドンの太陽光発電プロジェクト2件への投資が承認された。",
+      "category": "その他",
+      "source": "vietnam.vn",
+      "time": "9/18(金) 16:08",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFF3M2JWSFp6cU95Q0FBd0RSVVVSYlJqTWpBWm1La3pKdDE4cHBDb19vVURqY1dId0lETG9IamV5Q01ueG50dU04b2Z3TFByZW1zSzVZX3kzSTNra3JmaURpSmNHQmJDY3d4dGVxYTJobTlHeXlsVXVyemhtbTRkY01mQ3VjRDJqeXR6TmVNT29mWVF0azY2X19wcTFQLTdrWUR3bG1LTHBoNFdPNnMtZ1NvZlZSY1p3cVE?oc=5"
+    },
+    {
+      "id": "auto-5f8448b1278e",
+      "rank": 7,
+      "title": "系統用蓄電池の「安全性」と熱暴走対策とは――海外の事故事例から読み解くウェビナーを開催 - tv-tokyo.co.jp",
+      "category": "国際",
+      "source": "検索: 再生可能エネルギー",
+      "time": "9/18(金) 14:20",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWQk9XNGNxMFdybGRfTkVMTVZMQUx6WTlpNU9icmlvSk5IdWNsNzY2a1BiU0Q2SldJRmNjbXNPQUpuQjB0VTFwTlF0emdXU0ZTRkJCQ0RLNXVOSFJfNUdsdUg3UWh2SGN0Z1puTDNn?oc=5"
+    },
+    {
+      "id": "auto-cd5e855a56c1",
+      "rank": 8,
       "title": "Moeve、ウエルバでアンダルシア・グリーン水素バレーの建設に着手 - ニュースと統計",
       "category": "技術",
       "source": "IndexBox",
       "time": "9/18(金) 12:41",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaV92Zmt0YVhuRUNFOFpmMXpxTmxEZ0V4all0TTBvN2oxOWs2RnVzRDBuc1RNbHFxdVZGSzBmbllDMzF0bFkzT0xBTEx2TmFRTGYxTDMwOWwxT2RYdGcxMWhKMGs1YkFzQ0dSZnFkR1ZJbWxteExQNlJFVnp1VVFKZXJPazFSbjNSd0EwOWl5Rml3TU9nZ0NjWk9oUXJtekR2QVdOQUR6Z3ZGU1IxQVdJ?oc=5"
-    },
-    {
-      "id": "auto-d6b623003f04",
-      "rank": 2,
-      "title": "Hy24とCOFIDES、Moeve主導のOnubaグリーン水素プロジェクトで29%の持分を取得",
-      "category": "技術",
-      "source": "IndexBox",
-      "time": "9/18(金) 12:11",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVR3WG85S2J3VGdlOTNES1pqSUtINlZwNUhvSUZCbk9xSlJkYWRuNG04QWJIYmh0bGRyRV92WTVFVXIzSUNhY2F5alV5cFdydHNjREYxaWREWFd4SnUxRnVWLVlGaUZmQm5hZjI3cXVUSUg0RE5aODlOVkdwMXp2bFRPQzh0VTFuYk03eS1IMkJJcnA3NHBqNHBRQ0JRUngwbnN4aktVeC1nVDdr?oc=5"
-    },
-    {
-      "id": "auto-003c247e571a",
-      "rank": 3,
-      "title": "官公庁、オフィス、学校、病院などの屋上に屋上太陽光発電システムを設置する。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/18(金) 12:08",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnhHNjNzRkU1SjJXa0JPY0Z3anhRckdVYzh0Yy1MaGxfTVNia09XelFXWkRoTjl3Q3BDTl93RjE0WWgya3oyREhkTU9zdHQ5blJ4ZWFuOXgtdDVrWGx0aFpoMEJtbUswMklnUVF1X0V0MnlSSDVjT2dVOGY0b0V4bGtKZWlPb09YcTIxazdEa3BlLXdWMlpHTFhxazZ2eG5JQ0phSjFxQ0ktUHo5RlBiRnJxWHZ3bEMwOXFudGR3?oc=5"
-    },
-    {
-      "id": "auto-7445d837ec96",
-      "rank": 4,
-      "title": "【DMM Factory】『遊☆戯☆王デュエルモンスターズGX』 より、「究極宝玉神 レインボー・ドラゴン」がスケールフィギュア化！9月18日（金）より予約受付を開始！",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "9/18(金) 12:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000005129.000002581.html"
-    },
-    {
-      "id": "auto-7a9dc0c6085b",
-      "rank": 5,
-      "title": "アゼルバイジャンの100MWゴブスタン太陽光発電所が運転開始 - ニュースと統計",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "9/18(金) 11:34",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3hEQl9heHMyR1M1MVhUS2xUdDF0NjdUcmdXQXlVOXRZcDdCUEJ0cC03M0ptTmpJZnIyVGhYUGhKOGpLZVkwQ1pXREtxcXZKQ3NQZlJ5V092bXlFVElWQjhMRXptX2xvQlM1Z3NzYXlxSjh2ZFVxaXdiUG93LWloanYwaGdONW94RnZRdlRrWU9KcC1KTXhfcmFqX2Q1cWo4TkRpS19lLW44WUlUQlFz?oc=5"
-    },
-    {
-      "id": "auto-c61263577a23",
-      "rank": 6,
-      "title": "MasdarがOMVのオーストリア水素プロジェクトから撤退、OMVは単独で継続へ 執筆 - Investing.com",
-      "category": "技術",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "time": "9/18(金) 11:24",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldi1IQ2k0WHA5eDJjQXhRdE02UDZldnlTYnR3SjltQU94RUNPektlMnhzU1JKRVhZTTN1NWsyYUFmaWMxNFdVb3BaenFuWHZFaVFkaFRVMlE0dWp4X0syRkhlMXNidWRxeTc2ZWI4WVBhUTkxLVFN?oc=5"
-    },
-    {
-      "id": "auto-cf709c5c838e",
-      "rank": 7,
-      "title": "屋上太陽光発電設備の予算配分：資源を分散させすぎないように注意しましょう。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/18(金) 10:54",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUF4QnNKYjlua21sd3MxZXlfZE9zcUJEejN3TjVncHplSGViM0htN3RrdzFJNnI0LXc1UEx6VGhid25ZU2dfSEUzbGZfdUR4ZE80TU5DbjR5dlFyZWJubVhrRzlrVnhzMzRBVnFyRHFCb1c2S210T1V5akl0cXZWM2doeTBRTk5TX21mRE9EWTlDMkxlLXc?oc=5"
-    },
-    {
-      "id": "auto-731e194e2161",
-      "rank": 8,
-      "title": "商工省は、オフィス、学校、病院への屋上太陽光発電システムの設置を加速させている。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/18(金) 10:31",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ29sdUxQMjlYcHFBNmExcnRlazBWdDM2elV6bEFXRlBpdUREWUtkYnVsTDkteXZGeVY3cDFYRS1qMG4zX1U1VTF4WThncGNNVl82ejlDZThRanhoVEt2cTZNSnBMWTRDVWZMT1JiU2RPNHZJQzlyeDI2OXdEWWs4YTZlVzNRc1ZzUktaaTVudEZ2NVpsTG9GVDhaUVlIZmlBTXFPWU9tUEd3RmFJaG40SmVR?oc=5"
     }
   ]
 }
