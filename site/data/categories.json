@@ -21,30 +21,30 @@
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 34
+    "count": 33
   },
   {
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 277
+    "count": 279
   },
   {
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 22
+    "count": 21
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 78
+    "count": 77
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 438
+    "count": 439
   }
 ]
