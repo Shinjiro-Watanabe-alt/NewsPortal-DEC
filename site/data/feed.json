@@ -5,15 +5,55 @@
     "category": "自治体",
     "accent": false,
     "source": "PR TIMES",
-    "time": "1:10",
+    "time": "7:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000197.000009956.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/9956/197/9956-197-f5eaf811c31f4d9a32cd807be561029a-1500x860.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-5f73d07bfeb8",
+    "title": "ドイツ最大、960MWの洋上風力発電所「He Dreiht」完成",
+    "category": "国際",
+    "accent": true,
+    "source": "Crane1000",
+    "time": "1:00",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMllPUXYyTUlyWmJQZ3lRblFfNmdqZFRzWGtuNEZackF1MEg5eWw3NlZVdHNIcF9uNk5iY0xnVUZQRU1mc1hpWkVaNkk2ZnJxVnA4YV9GQnBGREo2Q0owYkI2YldxSmxZUXd6ZXJFLU9lNE0zZVAwb0tpN3ZVMFBSOGtrbW9EemhmVzZ0YnhyNmEzbTB3cncwQm5PbGlDUE0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-78b8ae6a4425",
+    "title": "鋼製接地電極市場2035年予測：再生可能エネルギーと送配電網近代化が年平均4〜6%成長を牽引 - ニュースと統計",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "23:31",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNEV5YXRXTC1wVVN3LVJteVF4TURiQkd6cklQaGhLcFF0bTVNdkhKZ19neFFHdS1mRXNQaGhTRkRlSE1XeWR1M3o3UThqdGNMSzROSjFWaTRTQ2t5THdrQzBtQ1BtRmNEemJPcjVZaFVLcjV0blBJcTNRenJLTVRCb0Y2RmpOMVNqWlktUDlOcnc5NkZvQW81N0ktTHRPUUFzS29RZ3VncGtqZUhyU0MyN3VOVDB3NEpPR2ljckpUYmN1SXRVR1dxQUVKNERKamhja2o4?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fc912cff8edf",
+    "title": "【太陽光発電】ほくほくFG・丸杉・Sustech：オンサイトとバーチャルPPAを連携、余剰再エネの環境価値を長期活用",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:30",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14cFROTHZXcTBIb3lHMS04OVFCczdzME90RjBwNFdIeUhoLXhvOXVEZHJBWFFqYVdrcnRfZmsybXhhUkZ0N3VXcE9iRER1bFhIRlZ3c0Nsa0JhVnlGRDhEZHJZbkl2SFpSRnJyOXVya2pWZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-16f9699de9b8",
+    "title": "【脱炭素・SDGs・ESG】JX金属：台湾拠点で風力由来電力を調達、2027年に再エネ比率8割超へ",
+    "category": "国際",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:29",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qS3dLMXFrc0VsZkJ1RXczN2xDSFN5UHUyaHRKZ3VOaDhGa2NfeTAwbHBTX3VsbWtRTENNN2V6ckdINVJSQXJzV3IyRkwwS2ZCVFUxV0o3OHFHM1NVTDV1YTJsZlVzT2RWaTNGZEl4cVRZZw?oc=5",
+    "image": null
   },
   {
     "id": "auto-d01b4a24d87f",
     "title": "新たな産業誘致のきっかけに 六ケ所で水素専燃火力発電所を計画、「ホクエナジー」の展望とは",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "デーリー東北",
     "time": "20:02",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Gdkppc2k4TnZudDFJUVdzRzA4c2Ywd19JanJmSC1Lby1HcHA4a3NvWGdwdEswaFJDRDFaMzN3NlBYMll2MzVHYjFEQ1p5c1VvR3NVbFQyS0w?oc=5",
@@ -26,7 +66,17 @@
     "accent": false,
     "source": "日テレNEWS NNN",
     "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUVhNmprRlJvQUJCdUVzV25maWVTUHZIUTZ0V3liamRPN1JaTGNocnNoSVk0eGlvRWhlaE42UWtkTTVSQzFzaXRwR2RRMGxIWS1NSWJnRGhjYzdPRk9DbXdWQUNZVGpTRlhoTnd1cFF1eU9md3Q4dXFrdFRVWE44ZlJETQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KcktVbTUtOTVnSTExT0tGcDJ5U3FBdDdIdFNSOFZrd0pVMkZoR1NCdUhUekdQNWU0cDRJWl9wb0J1WmNhVTgwUkh6SUlCVHZwZXNMaUVCcXF0Z0xsQWxURm1UUDZnUnBfbnpZQTNleS1GTFl2RVNYUHpXMA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b2aaa946b6ca",
+    "title": "H2APEXとLhyfe、提携拡大でドイツの成長する水素市場を支援",
+    "category": "技術",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "17:20",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVRjMDA3ekJjYmg0dzQyc2lLX3B4YVRvRndweVFrVlhtTGlRUE9oMUFkeEt0OTZsRkh4LWZIYWJTWkg3dTZZNXBsWGVnOHhiRTU2RTBfOHVnQmxwZkhWRk5LN2dHZFI4cVRoZzk5Zmg5VlVobURvLWl6OWFnSmlKNm90ZWhSTGdHdUJYdnZvVTFmSlpTbWRWV1d2Z0o3d0owMGhsMDRVSEtacEUzbHJZYW5n?oc=5",
     "image": null
   },
   {
@@ -43,10 +93,20 @@
     "id": "auto-b0ca889d13fa",
     "title": "eCap Marine、GMIのばら積み船2隻向け水素動力システム契約を獲得 - ニュースと統計",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "17:12",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1R6d1NoeHFiUE45Q1NWSkZZbU10eEdZLTM4NjA2eDFKVnVOOUlxbkg2T3NqVGctYkc2WHFQcHhqY183TjV6VFEyb2tRY21qRXZoOThnaS00M2VEM1JlUUVKZzRqRzd1ZFg1bHR1THp3emFaVHd5aU5hOWtFYkZiU1NhOHU1OHdVd1dDZk16UUhJdEtGYmE3MVZDcnhOWXhaYTVKenBhTnlIRFFFQ0E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bfc0deda1d2a",
+    "title": "エア・リキードがIRUに加盟、道路交通の脱炭素化を支援",
+    "category": "技術",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "17:10",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHBxREh0emxON2J2bVFrR2MtSkRhX2JNMlBvXzhWU1JKMGVDME16WkpPTEdzUEhQMkJIWUQ3SWk5RlZSb3J3NXRtZTFYclk2MUdHVkZjTEZVdktkenRxUGFYY3duMkxDaU5taGVSM2NQREpFb20xYUl0SzBYOEZNSHRJZGtYS1hSQjVDdnNkeV9PeS1hR01tQnNzbGE?oc=5",
     "image": null
   },
   {
@@ -80,6 +140,16 @@
     "image": null
   },
   {
+    "id": "auto-0d57d3985407",
+    "title": "太陽光発電などを手がける会社のボランティア隊が熊本地震の被災地支援に出発【岡山】",
+    "category": "その他",
+    "accent": false,
+    "source": "TBS NEWS DIG",
+    "time": "13:28",
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcXU5N1dMM3IyZUdLdUVXU2s3Qk5aUGo0MU5ZLU5wNXJnWXpRQnhCQWpBNWNNbElYaVNoNkRZZjFSWjg4SjF0SkVTLTR4dmJSb1dWc1NKZG5HQl9NRUxKZ1V4Rkx6MWIwV0NUU09JTlhCR2EzZFp0d2Y5QmlNRE4xUk9xVlR6MDB1TDZIMF9XbE1fLUtrUUprSGVyV2dVUGZ4ajFSNlhRcVZHYkdoU1IycEJYeDNPdl94WkxFQlFRbnJYWEd1YWlJb243ZHlSRWxQTW9zdHMxQ0h5VFVLLURsRnZEaUdIZFRNc1dQWm00YkVHaDZ4eWc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-3cc3aef8c5ab",
     "title": "土地を持っているからといって、必ずしも太陽光パネルを設置できるとは限らない。",
     "category": "その他",
@@ -93,17 +163,27 @@
     "id": "auto-93901b7431b6",
     "title": "シルバーウィークに考える住宅購入 太陽光の経済効果、ローン返済で確認したい数字",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "10:35",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aNU1WS0hoUXAwSGtHbVg0bVZSMHpDR2xvdzlCbWdFMXh1dUJxVWNJaGhfb2NXeVoyVW1MaWo2cUxJbG9XTmlFbExwbTBBVmdFdjNTcjBVQktiQmo0cmxvREtEQnR0NWtn?oc=5",
     "image": null
   },
   {
+    "id": "auto-a7740e82a584",
+    "title": "KCCSグループ、温室効果ガス排出削減目標の「SBT認定」取得と国内外電力「実質再エネ100%」を達成｜Infoseekニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "10:10",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyWnRoWlZoYmtRNHlYdlZod0FtUFFpU3ZOdm5WZ1lWTjdrZllTTjUzUW15NHBTZGxPbTg4OTBTQmhUWE5oN0lwajlvMTd2Y3VJNHg1dTZHRHpaelZNYUZ0UFN5TXR0clFwem0wc3QxcmtQQQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-b2c838fd9c9d",
     "title": "蓄電池コンテナ1基で、どれくらいの電力を賄えるのか――数字で読み解くウェビナーを開催",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "9:30",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Uc0pmOGtxM2NtQjBvdXM5YXlaX0FodU8weDAtZkwybTRFY19jYmFBVDFWc3pLVkVibzVPdW0wU3dMeVBPT012OVZnbU45ZEprSzFOTkpBUTlTZ1lqN3hQZlN5TXNJc2Y5elE?oc=5",
@@ -113,57 +193,47 @@
     "id": "auto-ee936e7f11d5",
     "title": "系統用蓄電池の立地に必要な「土地条件」とは――3つの必須条件を読み解くウェビナーを開催",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EeFpBRTZMOHoyMU40Z1dTZnFnRm1Yd2pSR28zUEgwOVV5RlB0UTFoZ1FlTkpRU3RORl9ZcncwX2o4a0xILUtPTkxjZHUwb1dLSmp1UGZPVTByRjV3WG5yUTJUVmJ2LVJmU0E?oc=5",
     "image": null
   },
   {
-    "id": "auto-b8d3a87af2c2",
-    "title": "三菱地所・伊藤忠商事・東京センチュリーの共同事業向け系統用蓄電システムを受注",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "8:25",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwNzlJWEtnSmxkOFNCSnRKRUlDcUFScEVXTWV2Zi1Bc3VJWmNkU043ZWVTanRvRTFQcWdlS2NmdW1KZGVWazlCRzlEbm9kT2tVRmc?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-b0fddb3dc293",
     "title": "太陽光発電、ドローンで空輸、船の自律運航 全国の大学や高専 離島振興目指し実証事業盛ん",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "北海道新聞デジタル",
     "time": "8:00",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUEhDVld4dnVhU25HenRhUnB0NVA0WlRSLUZwSU5uN0dRUk5McmI5QTV3eVBXenFJNUg4Vzd1LXRieGE1Z0JXbkVCNHFhVVBGYVJiUktFYTI2UQ?oc=5",
     "image": null
   },
   {
+    "id": "auto-a4d45e228063",
+    "title": "トヨタ、欧州「商用車連合」で水素普及を 燃料電池部品の現地生産構想も：ニュース",
+    "category": "技術",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "7:27",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GeVdmNk43dmtLQU0xcWNWM09aay1pLTdvUG1BX1NMeWt2ZEpDcXRxajhvcmxjMU5NVjNIZWdKR25FNzBCbDB3SzZZTThHVXZ5RHYxUXBCWUNReUNIZGRLX0hB?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-a7973d898f9a",
     "title": "画像 | 中国の太陽光発電能力が初めて石炭火力を凌駕､電力供給の主役へ…設備メーカーの赤字尻目に進む政府の｢脱炭素｣",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "東洋経済オンライン",
     "time": "7:00",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3XzdoWjJvZ0NjLWE4RDJtaENaWDBvZXRmaE5NelJGYnlZWko1NEtJXy1hSTh2Wk8tOE56dWJUc2hLZjRySC1RdEpfNS00c29nM2JVZVk4bw?oc=5",
     "image": null
   },
   {
-    "id": "auto-9391f9079ec8",
-    "title": "キエフのオフマトディト病院がハイブリッド太陽光発電を導入し非常用電力を確保 | ウクライナニュース - #Mezha",
-    "category": "その他",
-    "accent": false,
-    "source": "Межа. Новини України.",
-    "time": "6:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQ09mbThBcmgxT2stYXFhM1pDMWlnSXAwTGczUTlLdTdGckpzeUdrUXdRMjU4cFEycEVpck8wdHdmME45aEVGVHdxeWdjdy1Vb1JvbDhnRVZ0T3kxVGdVOUIzVjExM0Itdnc?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-0252a21b427a",
     "title": "ヴィンタン風力発電所プロジェクトの投資政策承認申請を受理しました。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "6:21",
     "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkVyX1VXSktCQ0lCNXJrckc4dGxSXy1URWEwUGsxQmxNYTY0b0FBcGUwU2szTzdYcDh5R3ljdV91OUR1SWNibkRNeWJ0MHkyZmdSYTlqTzJ4ZWZVbUhPZzR6RFZUcF8xUUM3WjhyMzVsV3l0WEtwWndBbHdWMlBPNU1HQjMtaTRxMHZHNFpQdDBfcDdUTGlZeUhwTUdNYXZ0RENRV1VXeXlVVjB2TnFr?oc=5",
@@ -177,16 +247,6 @@
     "source": "Vietnam.vn",
     "time": "5:20",
     "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQakJ6aEJPbllBRW1yUV9YS1ZLWHlnaVZpN1gyeEdkSXR1cDRydkVkNVN6N3RkMmJ0M2lxZ2pqaW1XSzJjS0g1aEw1ZUlueEJwbjhrOGZjWjhtZjR0Tk9rTVlGdzdHRVREaDIwTTlMS3VKUVVyMFJuaWx5UVB3SUE0b3ltc19OVUlMc3c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d200e73a3ff0",
-    "title": "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "5:08",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KYlRUczl6Q0Z1RFAxVHk4ZU13NjItS3BpSmN1SnFvU2lqWHEtU195LUlHXzlIY0l2RTNsbUM3YlJIdEtibmJlT3dOS1pEQVJRRGs3ZUM2Wk1TOFRTNVR6ZmVXRjlqMnVISW9wWnV3?oc=5",
     "image": null
   },
   {
@@ -220,83 +280,23 @@
     "image": null
   },
   {
+    "id": "auto-dbc8ad2a2801",
+    "title": "ホンダ、EV戦略を見直し北米向け3車種を開発・発売中止！ 最大2.5兆円規模の損失試算、ハイブリッド強化へ",
+    "category": "その他",
+    "accent": true,
+    "source": "Motor Fan",
+    "time": "4:21",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11WF84bmo5UkYxYnhzaHhvakVGMHZLZk9ROXJaUFlXNUg0Zkw1eUFxZUZ0SmpNTGFYVmtIUmhRazd1UW9XcWc1Tk4ycV9zT0Y4X0VzaUNuZkVuamxPSV9xZG14NXdiVGFIVlE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-0ad2b10842d9",
     "title": "トーヨータイヤ、水素燃料電池車でダカールラリーに挑むトヨタに『オープンカントリー』を供給へ",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ｄメニューニュース",
     "time": "4:16",
     "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDFPSFdsU0Y5d3pyZDFrQzVLUklsaDE3bUczbjNGZU5Xc2tHeTdoeGdBUFJwOGpoektSb3pfNGE1M0tGYW5OUmpuVjNEWTRtNUlYaTJsVHRSc0ZQX3ZBRkJjbF9mZkxKRVh0emRQcEl1YVVKeWZXZGNjV2MyUjZ2ZXRQbkRGTGJ6NlHSAYYBQVVfeXFMUGdBOGRCcmFwSlV4NlRYcUlFSld5bVRqV2tzNUwxRWNheG1ZcFVKYS10OFFpbTQ3UzdYOFh2YWYyWHdDOUpuMDhzUnljQXJjWU1xQ09VTG00NExRSzFXc1FTSWMzbGpQeVl0YmFYVEtlcHVLV1J6NEtINGlhTlpiajhoMkZCX1E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-31052972d577",
-    "title": "【写真2】トーヨータイヤ、水素燃料電池車でダカールラリーに挑むトヨタに『オープンカントリー』を供給へ",
-    "category": "技術",
-    "accent": false,
-    "source": "autosport web",
-    "time": "4:13",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVnVYQ0k3cXFjclFnaGhKTndMSlNJNmNXOHVraXpBUW9TWUkzTTNDT196SjVPMnVINlFQLXlxdlVkNi1LeTBBQ1ZtN0RFYXdYamFvenVjTFpNWklGblNjSnVzRXRxcjVFVUw1S1pMUlkzQzE1V2oyRUJYSzA5WDQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7af40c12ccd6",
-    "title": "なぜ人々はまだ太陽光発電に熱心ではないのだろうか？",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "4:10",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OanY2U0xjNVRZQkNxaDFsakVDQVNWRGhPTlMyOGNQX2pSWk93ZlhUdHFSYkZuUjVROFpGc0gycU9CQVpTbG40NVhqNTA2a3hkRlNCSU4zSG1GTkVwZVlFSUNGY2h1bXNQNTZlS2t6em1udndBWHAwYlVtdlpwQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b30fdbfb7b7c",
-    "title": "佐賀市のGX推進 温暖化原因のCO2、排出から資源に 清掃工場拠点に活用、企業誘致も",
-    "category": "自治体",
-    "accent": true,
-    "source": "佐賀新聞",
-    "time": "4:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yNXVHdG9PbzNNeHFvTjZ6WWVBdHVrQ240ZF9fRkYyaXhWYlFMRUU3ejVWcUZUeDNBNnFZenNhdU8yTFNWdTFBSW85Rkh6QXNBTi1YSHJWY1NaRnB5amNaZVh5N0E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a90929be1995",
-    "title": "＜画像1 / 3＞ホンダが水素で走る新型燃料電池自動車のリースを開始",
-    "category": "技術",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "3:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yX3pGTHIzR0dBQmszQ2hfMWdwTWhYTk90Zm1WUjVtaVdMM3V0Tno2SlJnU2pkTjd4TkNmSVpyc2tSTDFPWlpfSUZZYklkZ0tNZUVGSVdoLUtoc2x6Z3VJaGNhTFFYTnRS?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-58e43099accf",
-    "title": "テニスコート16面分のメインデッキ 商船三井の洋上風力輸送船が長崎港でお披露目【WIND WHALE】",
-    "category": "その他",
-    "accent": false,
-    "source": "TBS NEWS DIG",
-    "time": "3:17",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96eDZQeTVlWno5bHVCZmtsRG1hcWdTd2MtVkU0dFozVTJWU250bUtiN0tpWWMwZHRvUWtibFZjRXQzSWh3LVc2Ql9US3FQVGdlRHpDb0RPdFE2R1JfMVhz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-79d104915583",
-    "title": "事業者社長反射光認める 「重く受け止めている」 先達山太陽光発電所",
-    "category": "その他",
-    "accent": true,
-    "source": "47NEWS",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XelBpcHFCN2JOdEpNUjdsQ2tadFZLNkdzajZKNDdVWG9QZlpaRUxzV0VUU2MtTzVmWWVSSmR2QnRvQm5oWXktYU9tNA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3f8cc606f7f2",
-    "title": "再エネ改正条例 来年４月施行へ",
-    "category": "その他",
-    "accent": false,
-    "source": "47NEWS",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tc1hKMndfSkNQN0Z1cTloMlRmYUxGZ2pNLXh1ZFFPZ1RwdFV6TUIyM2xmX2w0YWgybUlTdnVnX1FrdDEzY3lfU3dnTQ?oc=5",
     "image": null
   }
 ]
