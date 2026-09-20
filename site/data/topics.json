@@ -23,19 +23,63 @@
   },
   "headlines": [
     {
-      "id": "auto-c9c0325fc99f",
+      "id": "auto-39c570c21caa",
       "rank": 1,
+      "title": "「宇宙太陽光発電」に熱視線が集まる理由 破天荒な構想は希望の光となるか",
+      "category": "その他",
+      "source": "クーリエ・ジャポン",
+      "time": "9/20(日) 21:20",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQ1Q4V0ZMMmRydUNrU3UwWXA1RTMxaFN2YWYtZ2FvWjV0SUhTLUtWSTdGT0NwWnVPZ0d4dExITU9OZmhobm9odmxFclFBTnA1cURz?oc=5"
+    },
+    {
+      "id": "auto-905affc6d6b0",
+      "rank": 2,
+      "title": "旭市沖船員１４人救助 洋上風力の地盤調査 銚子海保",
+      "category": "その他",
+      "source": "千葉日報オンライン",
+      "time": "9/20(日) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00OTVmSEVQMWtjSDFuam1oaEhvcmUyZHRxUGY0QXFDNmtRUWFvaHFYeVZzOVZ6ZGkweFRmNDZyaXB0NUFPWW9UVDJqUnhpbXdhbDE2Ump0alE?oc=5"
+    },
+    {
+      "id": "auto-0872edc8a811",
+      "rank": 3,
+      "title": "300世帯の住宅用太陽光､まとめてJクレ取得 鈴与商事",
+      "category": "暮らし",
+      "source": "日本経済新聞",
+      "time": "9/20(日) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CcTZ3akwyOVU0aXVpQjlhbDB6dVprMS1TcDRkeXVoRnJBbExPU3FoZ29aQjBtVER1M3g0N3hfQlRkVFpYTExfX1dwRUNUZHU3U09RV2hUaE93TG9ucmRGeThNYjI0bVJQbElGZk9CZnpWR1VWSExv?oc=5"
+    },
+    {
+      "id": "auto-5a978ad22f1b",
+      "rank": 4,
+      "title": "ANREがECO WIND SĂLBATICA社の申請を承認したことを受け、Econergyはトゥルチャに35MWの風力発電所を建設する",
+      "category": "その他",
+      "source": "Informat.ro",
+      "time": "9/20(日) 18:48",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVIdktPU1l4a0xsbnBtcEdsZ1JSVy1wcEtLd1dNVTk3Zi1uVER4ZFJiazUxbW5WUnE2UndsRW1tcWJjOFBTaXlhQWVBODVweUpCcVBVdnNwdHhlZFUtdXQ4dm1zU2I0TzdxM2NiTHlray1qVjZtai1pQ2NYcloxNTNZTy1RTmRlZmJKM0g2dkxkX0NEMEdacWlPQlNiWktTUkw0?oc=5"
+    },
+    {
+      "id": "auto-c9c0325fc99f",
+      "rank": 5,
       "title": "アルミニウム製レール取付プロファイル市場2035年予測：太陽光発電需要が年平均8～12%の成長を牽引 - ニュースと統計",
       "category": "その他",
       "source": "IndexBox",
       "time": "9/20(日) 17:41",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTjdzRTh6TmpRcXpUQm9UamNrakxneW5QeEpycU1EbTVyY0tLeFdMT2xDZ3lic1VjdGVHV2llY3pxNVluaDVjUGtYeUtMM2pOWkk0ZzdnaVZLYmFqTWI4VVk5WVlwYWRXeVpsZmFDSGRNdlBaTjg2UGZWeDBvbExVQUxRUjRISFdHbUVwRE1aRklfVC12M29sUXZvMTQwakRQZHRDNm95UWhvaDZQMXFDZHUwWFFiNnNUNlNwaFZWX1M5czA1aE4xX21CblE?oc=5"
     },
     {
       "id": "auto-fc07e9d33d88",
-      "rank": 2,
+      "rank": 6,
       "title": "「GX検定 ベーシック対応 GX入門講座」がLEC東京リーガルマインドにて提供開始",
       "category": "国際",
       "source": "Excite エキサイト",
@@ -46,7 +90,7 @@
     },
     {
       "id": "auto-a4d45e228063",
-      "rank": 3,
+      "rank": 7,
       "title": "トヨタ、欧州「商用車連合」で水素普及を 燃料電池部品の現地生産構想も：ニュース",
       "category": "技術",
       "source": "中日BIZナビ",
@@ -57,58 +101,14 @@
     },
     {
       "id": "auto-2622532e2105",
-      "rank": 4,
+      "rank": 8,
       "title": "EUが中国製インバーターへの公的支援を制限、再生可能エネルギー導入が停滞する懸念 | ウクライナニュース - #Mezha",
       "category": "国際",
       "source": "Межа. Новини України.",
       "time": "9/20(日) 15:08",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNclgtM2dCYk5UVm1ocnJFYnBVSWlnN0k2VWhXemtfZ29hMHIxcVhXdEQ5STZQV0w0THBaRjJrTHg4OEFiNmtybk01UWM1RzRleHBHb09iOFlxamZjX2hzTnFzVQ?oc=5"
-    },
-    {
-      "id": "auto-451e3a369c89",
-      "rank": 5,
-      "title": "省エネルギーソリューションを具体的な収益源へと転換する。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/20(日) 13:15",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVMxYUtOZG5ESlZHbWRvN1pwaHNVb29XUEZnRUNFakp5S2E5VGxDX0FGSFlZX3RLZnFQdElJUXhLaEVoNmltVlh2aHNSTFJ2OVpiSG1Lc2FPOGJrb29pS0g1OXlDWG9INmxid19CdDdLeVhvUHpiZjJUdmlJS0xwbXcwYVFJazk5UmZSeEdzRQ?oc=5"
-    },
-    {
-      "id": "auto-9155682b7d1b",
-      "rank": 6,
-      "title": "ドイツは太陽光発電容量を増やすための新たな解決策を見出した。",
-      "category": "国際",
-      "source": "Vietnam.vn",
-      "time": "9/20(日) 12:26",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUR0MU5tYjY3cnFVTUlfNFF2dmhZZDlMc3hrQWJiWU95Uzd3R2gxdTBqdWU4LVVqcmttT0kyNGdLdDJEM25MSXRETk1oN1ZIWG9YM2dralZYdHFpVEtSVmdGX3BJZU41SGQ0dGNiNDdXUEdzSVQ5eTJPNjY2anZzZVMwQmh3Wkl4akdveA?oc=5"
-    },
-    {
-      "id": "auto-d9c4f583dfef",
-      "rank": 7,
-      "title": "ACSR送電ケーブル市場2035年予測：送電網の近代化と再生可能エネルギーの統合が成長を牽引",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "9/20(日) 12:16",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNm1CV3RWNFNMYm90VXR0UV90YmtnVEdMd3ZYUFBicHVTb25fRG9TS2s2Qi1NWGEzM1ZmcVFFNC1yYzlHM0U0U0s3cUpUa3RRUUJZWngtLTEzVzJSNDJUaGJSWXExakp4cEQ2ZHJDUkExblZiVlhZUHFldDFkSlBzN0xjVncxSTUtQTNVNHJmdUQyOWhQU1VmZ1lkUmYzUHVuSkh3c2pUV0hQcElUV3ZMcHlQT1dIUzlBWXM2QVlNaWF2ZnJLSURkMlM5RVpuZ213VjR0S1RPNGlNQQ?oc=5"
-    },
-    {
-      "id": "auto-8afc3d87e37a",
-      "rank": 8,
-      "title": "アーク消弧リアクトル市場2035年予測：系統近代化と再生可能エネルギーが成長を牽引 - ニュースと統計",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "9/20(日) 11:26",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMXVaMGU4NDRqY0VZNlhLUGtGaFQ0T294SEZHbE5aRzRsZmt6RUhXM1NJb09TVzNZNDFjR2NQRThwUmpUOG1rVWNORmtiR1RjRWh2b2J6b2hqVzA3eTdHRDEydzg4X2RnbGhvWU11VTZra2dudm9VNXNrckVkR2p0anlTR3MtTUJXMFc5MF9Qa3FmNHhrRk1MLTlFOVliTGVtMUxiVnAzaGNqQkllUFp2T1hUUXNCcjl1ME5LbjdWT19jdl82OEthOTIwTGw1NWNQSkExVmJnT2k?oc=5"
     }
   ]
 }
