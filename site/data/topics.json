@@ -11,86 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-f1fad827965b",
-    "title": "JEPX卸電力市場での「アービトラージ」とは――安く買って高く売る仕組みを読み解くウェビナーを開催",
-    "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "9/22(火) 16:10",
+    "id": "auto-6a1f0993e345",
+    "title": "H2SITE、Enovaから340万ユーロ（3,910万ノルウェー・クローネ）の資金を獲得、商用海事用途向け船上アンモニア発電を拡大",
+    "summary": "H2SITE、Enovaから340万ユーロ（3,910万ノルウェー・クローネ）の資金を獲得、商用海事用途向け船上アンモニア発電を拡大&nbsp;&nbsp;Business Wire",
+    "category": "技術",
+    "source": "Business Wire",
+    "time": "9/22(火) 16:52",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000181124.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/22/181124-22-969e78a94c9d374100526c159ca94ed6-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZHVvZko5dldBUmlHM1h1ZXRVU1FfSXdic1pZRHdXVFdIQngxSFFZSURuQzB5M3RKdlBmc2psa2Y1Qkl6dkNUdUxpWVBUaTJDNEJkWjEwcVo4LW5ZbDN1LVdKUG82dnM?oc=5",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-8474708f96cc",
+      "id": "auto-f1fad827965b",
       "rank": 1,
+      "title": "JEPX卸電力市場での「アービトラージ」とは――安く買って高く売る仕組みを読み解くウェビナーを開催",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "9/22(火) 16:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000181124.html"
+    },
+    {
+      "id": "auto-8474708f96cc",
+      "rank": 2,
       "title": "米国の太陽光発電製造設備投資額、2026年までに122億ドルに達する見通し - ニュースと統計",
       "category": "国際",
       "source": "IndexBox",
       "time": "9/22(火) 15:02",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenRpaUozYXNJNjFCT1JmSjBpeUFYYmxLT1NNS3hHNFp0eDJCaFZIZFJLSkM3enp3Q2dsYXZJTnNYVmVEYUoteEJYeVBxN3IxT20xQ3RycDlkYms1ckl3QktkMkV2dWVQQTJ0SmFabTBPbjkyeGc2cngxLXFZNmx6MzR0OG9hUzF1RFpCVkdjaDFwUWRoRUdhNEhNOXFoOVFQN0E?oc=5"
     },
     {
       "id": "auto-7bec5abcd7ca",
-      "rank": 2,
+      "rank": 3,
       "title": "イングカ・インベストメンツ、サウスカロライナ州の太陽光プロジェクトで商業運転を開始 - ニュースと統計",
       "category": "その他",
       "source": "IndexBox",
       "time": "9/22(火) 14:01",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkVidXRFNERhZW9NeUhnT2NnZGVET2hWdlM5Q25kNGkyWGF4YU9rY29wLXAzZEVaemZWU3A2NDFGQnVNV3ZFUzlKYmxSM3YyTU9QTWd0N0lBeXYwLU1ZcGI2R3BYVnc2bmh5TmhodnY1cVZfLVFnb2M1ZG5DZmkxQ3BGWFMtcFcxVXNpaXUtR2xuTExXb25uTVlWUElGbmpVQVNYMTdXaGhpN2hhTW1mR281X2dWVDdFNUlaZE9nN1hOVkdLaGphMlk5dFB5eE5FeTBr?oc=5"
     },
     {
       "id": "auto-19e731daca25",
-      "rank": 3,
+      "rank": 4,
       "title": "中国企業建設の太陽光発電所、アゼルバイジャンで系統連系開始",
       "category": "国際",
       "source": "ライブドアニュース",
       "time": "9/22(火) 13:06",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pcEo5clkybFkteEl0d0tPVkhtQlFjdm8wVWY2cUQ0SzIyU3FtQmtfZFhJY0FHUmx2THRITGNkRk5LcTBQVjVfcFFOVm1DVnBOQkR6OWtVbUJyZk1Val84?oc=5"
     },
     {
       "id": "auto-abdcbdd7f581",
-      "rank": 4,
+      "rank": 5,
       "title": "EWE、Huntorf貯蔵プロジェクトの水素処理でBilfingerを起用 - ニュースと統計",
       "category": "技術",
       "source": "IndexBox",
       "time": "9/22(火) 12:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXR0ZzVKQXdmdVJJQWoxNWd5WVl3OVZkTFFOYnhLb0VhcWMyMzNlLVhLT3diWFFKMDZqQW9JYldzZlMzU2JmblI2OXV6b1NDQzNqaXA4eWNVVDVPNWRRNWtxUHBMUFZvenhuWjdwSWxvTXFJelNsTl9BMm9CcXpLOUdfbEd1OVppaklJUXM3dnIyR2ZpMEtYLXNRNFZjNTI3R3QtaXZIWk9MdFZZLU1sNTRlVVpKbHF1OUE?oc=5"
     },
     {
       "id": "auto-bbc4b0d06973",
-      "rank": 5,
+      "rank": 6,
       "title": "フロイデンシュタットで水素研究プラットフォーム「WAVE-H2」が開設 - ニュースと統計",
       "category": "技術",
       "source": "IndexBox",
       "time": "9/22(火) 12:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXcydmFHVHd6VjFBNWhiUGYxMUJWTUdyMmVRaFJFWllKcXVYNkJvdEFfUExsVEc5N0ItMFRtclhNMEhwQk8yb3FoVGFld1Q1LXliY3YwLWk4Ukwxd1pxQlh2NGhCNU5vbktZdWVVc1AteEUxQ290NThyakpkRHg2YVJBckR2WC1vd1FXTEN1SE9hbUFSUFFsRDVnbkZwcl92TFE?oc=5"
     },
     {
       "id": "auto-c4790ac0cad6",
-      "rank": 6,
+      "rank": 7,
       "title": "リーバイ・ストラウスとM&Sがファッションサプライチェーン向け再生可能エネルギープログラムを開始 執筆 - Investing.com",
       "category": "その他",
       "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
       "time": "9/22(火) 12:21",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXQlBnWVFMQUJwZHJjNU1CWU8zckZIUExDQlVIRTdlOWZQWmZsM1dQTE5CcGxfMDlBYlE1TlRxbklXNDBvT1EzX2hqVnNNT3RMMU45M2hHNUVsWDR6QW0xZFJTWDVvdjJ0cW5PYXVRemU?oc=5"
     },
     {
       "id": "auto-797ffc96e0ac",
-      "rank": 7,
+      "rank": 8,
       "title": "有機物を高機能カーボンへ-分子構造から読み解く炭素化の設計原理-〔岡山大学, 京都大学〕",
       "category": "企業",
       "source": "PR TIMES",
@@ -98,17 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000004261.000072793.html"
-    },
-    {
-      "id": "auto-f96433a3bfa9",
-      "rank": 8,
-      "title": "ガーナの太陽光発電容量276.7MWに到達、2026～2030年計画は事業規模PV 852MWを目標 - ニュースと統計",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "9/22(火) 11:43",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BzbFAwbVJWdnZwb0ZndEFSbl9lWUl2UFFlbzBfdW53T1BCdXEtWWh5UVJfZmEzUFRLcjFfLTQ2N1hNWnhZMUMzX0ZTcWltMEhmbnRPYmN2Y01kRXF2aUtVRUZBdENONl84UENvcU5ENW9GbzlhOU1jZm8xZ2Exb2c0cjF6cTJQTUNBWVRaVEN0VDV4SHZnSWFTVGhLb1VPMDVSMHlyRUpTUGhEQlJfakUwaTFkeW9xQkE?oc=5"
     }
   ]
 }

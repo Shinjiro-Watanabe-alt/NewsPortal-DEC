@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-6a1f0993e345",
+    "title": "H2SITE、Enovaから340万ユーロ（3,910万ノルウェー・クローネ）の資金を獲得、商用海事用途向け船上アンモニア発電を拡大",
+    "category": "技術",
+    "accent": false,
+    "source": "Business Wire",
+    "time": "16:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZHVvZko5dldBUmlHM1h1ZXRVU1FfSXdic1pZRHdXVFdIQngxSFFZSURuQzB5M3RKdlBmc2psa2Y1Qkl6dkNUdUxpWVBUaTJDNEJkWjEwcVo4LW5ZbDN1LVdKUG82dnM?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-f1fad827965b",
     "title": "JEPX卸電力市場での「アービトラージ」とは――安く買って高く売る仕組みを読み解くウェビナーを開催",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "16:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000181124.html",
@@ -13,7 +23,7 @@
     "id": "auto-8474708f96cc",
     "title": "米国の太陽光発電製造設備投資額、2026年までに122億ドルに達する見通し - ニュースと統計",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "15:02",
     "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenRpaUozYXNJNjFCT1JmSjBpeUFYYmxLT1NNS3hHNFp0eDJCaFZIZFJLSkM3enp3Q2dsYXZJTnNYVmVEYUoteEJYeVBxN3IxT20xQ3RycDlkYms1ckl3QktkMkV2dWVQQTJ0SmFabTBPbjkyeGc2cngxLXFZNmx6MzR0OG9hUzF1RFpCVkdjaDFwUWRoRUdhNEhNOXFoOVFQN0E?oc=5",
@@ -33,7 +43,7 @@
     "id": "auto-19e731daca25",
     "title": "中国企業建設の太陽光発電所、アゼルバイジャンで系統連系開始",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "ライブドアニュース",
     "time": "13:06",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pcEo5clkybFkteEl0d0tPVkhtQlFjdm8wVWY2cUQ0SzIyU3FtQmtfZFhJY0FHUmx2THRITGNkRk5LcTBQVjVfcFFOVm1DVnBOQkR6OWtVbUJyZk1Val84?oc=5",
@@ -43,7 +53,7 @@
     "id": "auto-abdcbdd7f581",
     "title": "EWE、Huntorf貯蔵プロジェクトの水素処理でBilfingerを起用 - ニュースと統計",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "12:40",
     "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXR0ZzVKQXdmdVJJQWoxNWd5WVl3OVZkTFFOYnhLb0VhcWMyMzNlLVhLT3diWFFKMDZqQW9JYldzZlMzU2JmblI2OXV6b1NDQzNqaXA4eWNVVDVPNWRRNWtxUHBMUFZvenhuWjdwSWxvTXFJelNsTl9BMm9CcXpLOUdfbEd1OVppaklJUXM3dnIyR2ZpMEtYLXNRNFZjNTI3R3QtaXZIWk9MdFZZLU1sNTRlVVpKbHF1OUE?oc=5",
@@ -63,7 +73,7 @@
     "id": "auto-c4790ac0cad6",
     "title": "リーバイ・ストラウスとM&Sがファッションサプライチェーン向け再生可能エネルギープログラムを開始 執筆 - Investing.com",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
     "time": "12:21",
     "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXQlBnWVFMQUJwZHJjNU1CWU8zckZIUExDQlVIRTdlOWZQWmZsM1dQTE5CcGxfMDlBYlE1TlRxbklXNDBvT1EzX2hqVnNNT3RMMU45M2hHNUVsWDR6QW0xZFJTWDVvdjJ0cW5PYXVRemU?oc=5",
@@ -73,7 +83,7 @@
     "id": "auto-797ffc96e0ac",
     "title": "有機物を高機能カーボンへ-分子構造から読み解く炭素化の設計原理-〔岡山大学, 京都大学〕",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "12:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000004261.000072793.html",
@@ -93,7 +103,7 @@
     "id": "auto-f5bf96ea45b6",
     "title": "「水素ステーション」整備促進へ 静岡県と愛知県が連携、需要調査を検討 ＦＣトラック普及に向け補助拡充も",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "静岡新聞DIGITAL",
     "time": "11:05",
     "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MY2g3M0RIMWF3N0cyTTA3VWxDbE1JZ09rcmdBWjBxS1N3elVObG82TkJLNG5vWGY3WUFhdlE2LVJfcWNyc2pybzVIaG51QQ?oc=5",
@@ -103,7 +113,7 @@
     "id": "auto-be43df388eaa",
     "title": "プラグ・パワー、HWR HydrogenへのGenEco電解槽の納入により、ニュージーランドおよびオーストラリアにおける水素事業の footprint を拡大",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "Moomoo",
     "time": "11:00",
     "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclN2eW03YmxfcExTcGdPcWdOSjBLVW1aRXdEcHd5T19yWEZRbGx1WnJyR19nUkVrV1F0eXFfSk56bW5fekZzV1lvb250TjFxX180UnZtdjFqUkZXcV9wdms3SEEtWEhocXZQRmlpZU9DbFp3dnlNcGlRQnpqc1FNS3Y4N21INDZ4Zl9lWUlPTnU3UmIzODZJeUZiVGdGdWtqZkFFclpoX0RVdU5yTDdiQzBqbHNrTldR?oc=5",
@@ -120,6 +130,16 @@
     "image": null
   },
   {
+    "id": "auto-64efa566db3b",
+    "title": "発電メリット総額約２億円 太陽光発電システムプレゼントキャンペーン！＆新商品AQ Grand-SORA 誕生！",
+    "category": "その他",
+    "accent": true,
+    "source": "SBSマイホームセンター",
+    "time": "10:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XM0l4eTJOUWx2eHpTRkVyTnB1MkROT2tOUlNyMVB3VDJXMl9zNENMekFOWV8yUUE4YnRqdUluaHNTV0lqM2Yyc1FXTmNuRFVOVEE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-be9bd6b7a7bc",
     "title": "環境面でもＡＩ規制の機運高まるか…ＣＯＰ３１議長のトルコ環境相、データセンターの「脱炭素化」へ宣言策定",
     "category": "その他",
@@ -127,6 +147,16 @@
     "source": "ライブドアニュース",
     "time": "9:50",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oN1lVMXRNNHZ4YXllZVlGS293TzJiUWRFNUpNVWFwYmN5WURVNkVLNllPbThyUVE0aVJ4WXZFZ04zV2hKMVBlZDNUZktRbmZRRFVRQUR3eUtZU1VkcWc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-01ecf4b6eb03",
+    "title": "【画像】環境面でもＡＩ規制の機運高まるか…ＣＯＰ３１議長のトルコ環境相、データセンターの「脱炭素化」へ宣言策定",
+    "category": "その他",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "9:50",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hS285djNQeUlVNmxxeEFIVjB4ZUtqT05JQWdVZXlsSGx5WDJIY2YyTlFZUGxIVDNGYmNWQkVpaTU5QzQ1ZEdjQWRMQlBRME0wdVN1RHJvM2lldGlROVpqZUItZHd6NTV5NjhINVVpWlJUNVJfUjJsZXlfS3Q?oc=5",
     "image": null
   },
   {
@@ -267,36 +297,6 @@
     "source": "朝日新聞",
     "time": "3:00",
     "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pNjhMNURTSUg2QjQtUWpaT3hJcmdURHNKbVNubmRIN1ltREJWOTFSa0FTc01qbnNxM1JRN2JTZDdPOFNKXzRpMkxVWWJPYWFzeVVDOXlMU1k1RkoyVENNaWdaOXFEZk0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2495d320fd4e",
-    "title": "「五島の先進的な洋上風力発電」幅広く波及 視察が過去最多 宿泊や交通など需要創出、雇用にも",
-    "category": "その他",
-    "accent": false,
-    "source": "長崎新聞ホームページ",
-    "time": "2:40",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeHNRdDgtZHg5RU5YN2VJakVhMU1iU1NfVzdiOHpZWHF5X0RWUF85S09XN2gtc1pMVG9tSm5zLWZIMHRXaVkwNlVwbGlxMVB2b1QtQVBmem1hX0k2eVBPdDNyZlZJV3J2SmtRdkt4djdDaGFtT1pOZEJ3S2xnaFNJcm8xRQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-95b50830df46",
-    "title": "「五島の先進的な洋上風力発電」幅広く波及 視察が過去最多 宿泊や交通など需要創出、雇用にも | NEWSjp",
-    "category": "その他",
-    "accent": true,
-    "source": "t.co",
-    "time": "2:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9KeVZud1NOaEZDWENMN2FCamZ1VnN1endTdVAtY0FvTkR5cUtPeVNnRGZQSmt6bjNJVEhR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-45540f891efb",
-    "title": "米の制裁で停電が相次ぐ、キューバは中国支援で太陽光発電を急拡大する",
-    "category": "国際",
-    "accent": false,
-    "source": "Межа. Новини України.",
-    "time": "2:13",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2UHptUzVGVDJqUWx6M0RKTm50Rjg3YjNyZmJWdjhPa19weXZkejJPeVp2aFBkNTJ5d3NwX0RUTlNnYVQ2TmNuT2tzV1BaQzN6M2p2YjNiMXJwUjYzZFUtc2NKQUp1VExRR3VFTFpZYw?oc=5",
     "image": null
   }
 ]
