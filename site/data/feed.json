@@ -1,32 +1,92 @@
 [
   {
-    "id": "auto-de997878197a",
-    "title": "コインパーキング「ザ・パーク」 都内約60施設にEV急速充電設備を順次導入",
-    "category": "企業",
+    "id": "auto-91106bc3cef9",
+    "title": "9月24日（木）放送『Why So Good?』のゲストは、犯罪ジャーナリスト・多田文明氏とアレックス株式会社 代表取締役・辻野晃一郎氏！「詐欺の手口はビジネステクニック」「最強の抗酸化物質は水素」",
+    "category": "技術",
     "accent": false,
     "source": "PR TIMES",
-    "time": "13:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000001175.000014607.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/14607/1175/14607-1175-3983889dfc89da715dfb446109f0ef48-2382x1789.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "17:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000060.000015257.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/15257/60/15257-60-cdbca3d60f51dc5e2d71fb5af3dcd519-2720x1536.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-1840f6467be1",
+    "title": "PEM水電解システム市場、2035年まで拡大へ：グリーン水素義務化が成長を牽引 - ニュースと統計",
+    "category": "技術",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "11:46",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU3J2SlhLMFJ1YV9Jd0FHbWM3Z0l4S09iMDhCWkpzMno5T0JEb3NZNTZrYUZTdTJyT1h6VEhKV0xRUkNPQlM0YUFxLVB6R1NpbGppN1k2VFB2RjVqVmVSZ0lkQnM1T2VKUngzU0ZVOHRzZFRLbmN4RXM5Ql81QXZ5N2xLS1AtOVpjcWZGdkRWYUZBbU5ZaFRuNFBDeDc2akFua0NQTFZlXzNoYUhuNmhhNlJPRnRCeEtybzVlSU1tVnZxMzI5Qnl4SnZqbnQ4VkpvTm1rMm5PdlJhbnhXWk9lcg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-139b0442c2f5",
+    "title": "中国初、18MW洋上風力発電機を大規模に導入した風力プロジェクトが稼働開始",
+    "category": "国際",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "11:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPUi1oUDdoaTF3UnF3UXJGQ3J1cllTUmNFVk5sQVpSM285b2Mwalk1SlNIUEhFazJHNnI0TFBBamxZb3U2bklQYUZ4TXZpdWlEcmZKTFJZZTk5SkhSSlhJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-94f5c0c13823",
+    "title": "成田の太陽光発電施設火災 感電恐れで消火活動できず 専門家「審査の厳格化必要」",
+    "category": "その他",
+    "accent": false,
+    "source": "産経ニュース",
+    "time": "10:33",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90T0hEV0hxay1SWGs2TldxU1BlQy1JaHdsVElyR3VsY1ZvSlJiU3R5czRlRUtMR2JyajVnLWthZ0QtTlFBcE1PbHZNajFISFZXMVZXOUxoUWNsRXY5d0ktZnVMVVVlR08yS2JBcjZLRktQSmVLY1E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-726473af3baf",
+    "title": "カマウ社は、蓄電池を併設した太陽光発電所に8180億ベトナムドン以上を投資する。",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "10:09",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbEFONTBIVFJMTElQNER1UFVSXzdzQXhjNUJpRGxWT1YydG9TaHV3U3ZST1JLajlZb3hQR1JzZWdydjZHbGJPMHI2bDJZX1ZDUjRMNEY1dEZ6N0RNaE9WYU1oaWpiS1RscDRoYkVnZHVJNU5CMW1QOE8tU3BkaWNsX3VaN1RndVdiaDMwajREQVRkX1RPOXJTSDlqZE1ZUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ed0d77d2d7cc",
+    "title": "大林組、国内全建設現場のCO2排出量を一元管理：カーボンニュートラル",
+    "category": "その他",
+    "accent": false,
+    "source": "ITmedia",
+    "time": "10:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MWUZWUFM1Z0NQb3BSSVRmSENjM0NXT0xfSnZCYzRWNzVlN0tmM0czX0FjSHZrWEVjSFdkWVBudUg0T2RNLUlXREh5eUxUNWkyeXNpN3FMNmZOLUVrT3JGWTRHSUVUdmh5LVZKag?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fe81e2408478",
+    "title": "水素航空機市場における競争環境と主要トレンド：2026年から2033年までの年平均成長率",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "9:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nZjFvZm83bUtKc0U0SWM2SVRuZDdqMjRWOGlERWZTdmVxcjlHMWpyVV8yMTZUbzFkWUZNWTlHOE5JVXl5NTdBWXN3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-59086dc3f23e",
+    "title": "太陽光と系統用蓄電池、併設するとどんなメリットがあるのか――仕組みを読み解くウェビナーを開催",
+    "category": "その他",
+    "accent": true,
+    "source": "Infoseek",
+    "time": "9:30",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tX3N6M2ljd2hsMXVPUGZmMjNMN093OGwwVFRycWI1WWZLRm5HYXItWU9sX0RXdUh4WmVMeVMycnZza24xVHhIZXBHejRlV2Y5eFByUk83c2x1b0FIdmJzWDNIaWdCZ1dUSGx3UUNodTM0Zw?oc=5",
+    "image": null
   },
   {
     "id": "auto-fa1db4661cbc",
     "title": "燃料電池システム用水素バルブ市場の成長に関する洞察：販売チャネル、市場浸透率、および20",
     "category": "技術",
-    "accent": true,
-    "source": "pando.life",
-    "time": "9:24",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yZ2NoYnZIMXBXZW1sRnV0Y1FNMkhFenhmc3QwNEdibEoyaFJMelNUQ3dGckxLZ0txWTZxXzlkMHRtNU1ZcVVod1Z3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0ec412611248",
-    "title": "日本の高純度電子グレードフッ化水素酸市場の最新動向",
-    "category": "技術",
     "accent": false,
     "source": "pando.life",
     "time": "9:24",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0cVpaaFFiSHA4cG4xRFg4dDBVRUFCLXZNbFd5YVl0V2Faa2h1Z3ZPQjlLWWw2VzZvS0c0aHhILWVQVmdRMTRFeGpB?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yZ2NoYnZIMXBXZW1sRnV0Y1FNMkhFenhmc3QwNEdibEoyaFJMelNUQ3dGckxLZ0txWTZxXzlkMHRtNU1ZcVVod1Z3?oc=5",
     "image": null
   },
   {
@@ -54,19 +114,19 @@
     "title": "経営者向け「系統用蓄電池投資セミナー」をRAULとEICが共同開催",
     "category": "その他",
     "accent": false,
-    "source": "dreamnews.jp",
+    "source": "ドリームニュース",
     "time": "9:00",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjOXJZNGFkdFJQQ0UycE1KNVI4QU1HU2wzeWNIbWNKSUREM1JTb01oSmhabC1CYWtCN0dEUU55SHd4Tmpkc25vMEg1TWJLYUNtdnFr?oc=5",
     "image": null
   },
   {
     "id": "auto-7d5e47eca6c2",
-    "title": "RAUL株式会社代表 江田健二が「REIFリーフふくしま2026」で特別講演 再生可能エネルギー・水素の将来展望とビジネスの可能性について解説",
+    "title": "RAUL株式会社代表 江田健二が「REIFリーフふくしま2026」で特別講演 再生可能エネルギー・水素の将来展望とビジネスの可能性について解説 (2026年9月24日掲載)",
     "category": "技術",
     "accent": false,
-    "source": "Excite エキサイト",
+    "source": "ライブドアニュース",
     "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92S2hkQ1lUbTBRa0dTOFRNMnFTVmdPMTNwcjhsUTN4a190OWFLMms4dDI5Y3V6ZnAzR1M2U0xxRTNFd0pLQXZMTTRncEd3YkZsRU14b1o2NnNGalJVSzQ3VnNBM00za3FJSFE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TNHZicFg0MWZScEhFMnNjTWF4aUJMRk4wUnphbWlDam9VSURORXN4YzQ4dVF0a1E2djkyUnZSTTM0b04tQ0wyZzNpZW11RTY3WjJtclQyTmwtbGw0SXpUdExB?oc=5",
     "image": null
   },
   {
@@ -94,7 +154,7 @@
     "title": "北海道池田町、十勝広域森林組合、小杉商店とステラーグリーンがゼロカーボンシティ実現に向けた連携協定を締結",
     "category": "自治体",
     "accent": false,
-    "source": "jiji.com",
+    "source": "時事ドットコム",
     "time": "8:45",
     "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zRERzY0ljYXJJeEd5R0NxbnRLWEIyeTZRZGYtMnVJZGdycFJMX1BVbGdtd1hUdHdvX0FMVTYyS2pCRlh1cTlMNTFSS0JsN3pLMElEekE1WGh5cUpUMHBBUTEwbktKWmhzSGtr?oc=5",
     "image": null
@@ -104,9 +164,9 @@
     "title": "カーボンニュートラル大集会を開催し、2027年カーボンニュートラルに向けた8つの挑戦を発表",
     "category": "その他",
     "accent": true,
-    "source": "西日本新聞me",
-    "time": "8:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LWDEwdks3SmZ1ekJHV3Mzem5CTXFlY3hVbmVDSk5MVWZlYUdERnhXQllPN0lvUGdaZEQ5NDE1aGNrMU5HZ1NpV0QwZFg5MGtxbHJUSHZB?oc=5",
+    "source": "時事ドットコム",
+    "time": "8:45",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YS1hiaGhHbUozVmsxOGJFZ1JmLVVKZklaSzlBZTVFajRLVzRTOWw4YWE4OXRZTjcteWc3cGl0c0ZQdmFXcHlpeU9RSEt6QUpoQWRhdzNfX3czVVQ5blJrY1RfYTU0ZWdpRTVB?oc=5",
     "image": null
   },
   {
@@ -120,23 +180,53 @@
     "image": null
   },
   {
+    "id": "auto-18b577d4223f",
+    "title": "NIO、太陽光だけで動く完全オフグリッドのバッテリー交換ステーションを新疆に開設",
+    "category": "その他",
+    "accent": false,
+    "source": "SpeedMe.ru",
+    "time": "8:02",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGRoOFhaMXBfM0lzby1mUFZPNTUzSGlScHo5c2V1SnM1RjUwSHZVT05TMHlwSkF0eFlYekhEX2cxSkVhZEFLSE9OYUw1bVIwQVByTGs5ZUU3LWlDLWpOdkhFekNQS2lacThHZXd4SFhwTV90c0JLdUg2SXVjTXpYOGRXcV9pcGJMTXNHS3FGRjMxOVhNU3EwQ3ZSNThuVGFCRW9DZVRDMGt3NE5oc0pKbdIBtAFBVV95cUxQXzZyaXhhX19wQnZYSXBCV0t3eUoxWjhFMS1ha0Fqc2ZpaTdrV3RYY2RtSllfbWNmLWQ0MGh6TTJISnE5SlR3R0d2cGFoMzJRcnN0eTlqaXd3WWptTlNZV3NZUG11b2xDWEJVa0NxeDk4SmtDUTJfM1dETDVrLVhpUzVMTElHeElXMjE4SlNocHF5YndSV0xueVRhWWJKRFRwSjF1aEhZSmstN21ZR0pKaWdxRU4?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-597bd265ee49",
     "title": "武蔵精密、蓄電池の運用最適化を実証 劣化診断で再エネ活用",
     "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
+    "accent": true,
+    "source": "nikkei.com",
     "time": "7:48",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5WHFPYm55UlFMMUcyenlBRFpVQWg3b2FoYUt1cldnMG11Um9FRHlydHUtbEpYVmdvaHd2UEJSR2JxNFFHNGpyNzhHckFQSzg3V1hLcmdPdFlyekNqOVctMklVbnNFVHFmQ0xGYg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a0e00c38f360",
+    "title": "【画像】堤防決壊の千葉・印旛沼近くで太陽光発電施設のソーラーパネルから白煙…ショートし出火か 冠水影響、道路に残された車も - ライブドアニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "7:41",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3dXBjQXhuMV9KZkZjSnpQa3ZENDNhWGRyZ3VYR2haWXpGanl5Zy1YdjNlamhNbFBzV2FXTDdCLTFGVm1VbXRnOHpOc29DcUY1MEdYMXRYd19vcmh3THN4NmNjYzRYRUxCeFd0M01Ic3hDRFdBakZOeGlYU2g?oc=5",
     "image": null
   },
   {
     "id": "auto-a4339316d253",
     "title": "堤防決壊の千葉・印旛沼近くで太陽光発電施設のソーラーパネルから白煙…ショートし出火か 冠水影響、道路に残された車も",
     "category": "その他",
+    "accent": false,
+    "source": "news.yahoo.co.jp",
+    "time": "7:38",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNTE2RVg1dzdYU0c2dFgxaTdDWVhnNlNsTW93cFM1V2w1bW1qblhNeU9mcWdIREFXQWtqandmMHJfeEJfcy1mc3FMUFJvUXhDbFBFZ2FTellSZkhnSTNyVEtPaHQ2b2UtMGxrQVA3SkNVMTlZSm9Xdzdzdmx4RHM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-15576c56cc33",
+    "title": "千葉 成田 浸水の太陽光発電施設で火事 警戒続く",
+    "category": "その他",
     "accent": true,
-    "source": "ｄメニューニュース",
-    "time": "7:41",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3ZDMFJPNnI4c253UHVZcFZNUXBHOXFJUFpQOTM1V1VMdC1HMVRTQ2pKaE44Q2xVVWdrdG5Pb2czZzBZbF9la1FaT1JrMGtwMjBKbXd5NnJtcFpBbXN4clVqRmsyLVJoT0syenNJUndjbUp0RDRBcHN5ZDYteXNCYllR0gF0QVVfeXFMTm1JMEpkVFZNR2o0bWk5T21lYnF0a2tVWVNZeTE4STVuUzJ2TnJmNTNEUDU2RUpiTjlTWWhMMFJQcW0xQ3dhLU9HZFA3NENvNVM0TmJmQmJpSUxzNHFFbDUwVkNSeWVVYncxdXJIZjZKdTU1ZHg?oc=5",
+    "source": "NHKニュース",
+    "time": "7:36",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oSDdEUjc1UjVMOExYRFdKM29rV1AyR0RjQzNEdXA3SmJzZndyYVNFRWN1Y1NYaUJUWFhWMnpfcVkwM1UwaDZRQ3doejF1TW80c1dQZ2c3QlJ2YkZtMGNF?oc=5",
     "image": null
   },
   {
@@ -154,7 +244,7 @@
     "title": "【写真・画像】千葉・印旛沼沿い太陽光発電施設で火災 2枚目",
     "category": "その他",
     "accent": false,
-    "source": "times.abema.tv",
+    "source": "ABEMA TIMES",
     "time": "7:34",
     "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUXhFMGFZSUZSaHY4bFRFc1VaWXJXdEQwVVl6T3RMeTZycnMxVjh6cW5jTEpDZlFSSHRPdHdkSHVIbGxiMkRJUzNwR2N0RF83Z2tCemR3VmEzZXRVZ001TnRMQWZVS3pkVDNmajJSOFJkNWVVOWw4WWhxcVpmbXVld2EtSWMxVXg4V0RJSmhfbUlsNmtZb1JnRTN5Ylp0LTdlU3F5cjRVN20tbXZIOWtud3p3WFd0dkJ5SzgzcjVoYU1qY1dUaVhuQ1NKelZWQ21DNXBacFBVMHdNVXh3N0JVekkxaFdEYTZGNUJv?oc=5",
     "image": null
@@ -174,129 +264,39 @@
     "title": "太陽光発電施設で発火 印旛沼付近",
     "category": "その他",
     "accent": false,
-    "source": "Yahoo!ニュース",
+    "source": "news.yahoo.co.jp",
     "time": "7:01",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GaXlDRjVJMGN3Y0p1cmtEVGMtRHhwSENMay1jcTJvN0ttekxfTXNKMW92Yl9ucGFFMDJ0RGdfdjE2RnlWOUNfRkJDNjJpTmNn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d2534f516c6c",
-    "title": "産業貿易省は、北部のある州における一連の太陽光発電プロジェクトを調整した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "6:38",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXowclk1S3IyS04ySTRKTmNKZzdqOU9QYnZSNVl3d0VpS20yc2lxcm1ZMjlSWndOandfOEE3U19SaWw3MU8tdWlsXzdaVFVKcFVIZkx1QVlPeTZzX0dtNDNVVnRpX3dvOWwxWHU3WmlLSVZKUTcwUExNQzFxS3d3RndvR19rTkJSRkZMckFyUHFaaEFKOHpWWnp1NVk?oc=5",
     "image": null
   },
   {
     "id": "auto-5bed44f51c80",
     "title": "欧州の脱炭素、グリーン・ディール政策から経済安全保障政策へシフト - kankyo-business.jp",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "検索: 企業の脱炭素・水素事業",
-    "time": "6:28",
+    "time": "6:39",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DM1JaWW5FUUIySFg0MjJwZWk5UkFjdGtQMHFwY1prem1tY3g3cEtBbFhRUXl6VlVMS0JiWW9HWlowU0dUd19Ia2h4aVJDX29sVkxHcDJ1SkltREhQVHNTU0c5akpxRVdydHBvYUdjcTQ4cWpBWUhfR3lDeGcyclU?oc=5",
     "image": null
   },
   {
-    "id": "auto-c92b6788985a",
-    "title": "印旛沼近くの太陽光発電パネルで火災 冠水で消防近づけず 一時鎮火状態になるも午後も炎確認 千葉・成田市",
+    "id": "auto-d2534f516c6c",
+    "title": "産業貿易省は、北部のある州における一連の太陽光発電プロジェクトを調整した。",
     "category": "その他",
-    "accent": false,
-    "source": "千葉テレビ放送",
-    "time": "5:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05OF9GYkxrMnpRQ0JSaExaaG4wQmJROTRtTVZJZUwzWUgxQjlwSXMyTGl2NDBPZENja2RpcElGQU9EVThIYmEtRFlCV25DRE9yWkk2S012V1BzUGZONG1Z?oc=5",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "6:38",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXowclk1S3IyS04ySTRKTmNKZzdqOU9QYnZSNVl3d0VpS20yc2lxcm1ZMjlSWndOandfOEE3U19SaWw3MU8tdWlsXzdaVFVKcFVIZkx1QVlPeTZzX0dtNDNVVnRpX3dvOWwxWHU3WmlLSVZKUTcwUExNQzFxS3d3RndvR19rTkJSRkZMckFyUHFaaEFKOHpWWnp1NVk?oc=5",
     "image": null
   },
   {
-    "id": "auto-985f9ca73af3",
-    "title": "【画像100枚】印旛沼で堤防“決壊” 太陽光発電施設で火事も 台風25号で千葉や神奈川で被害相次ぐ JR内房線は全線再開に3カ月 停電復旧の見通し立たない地域も【台風情報まとめ】 - news.tv-asahi.co.jp",
+    "id": "auto-db3da13cf638",
+    "title": "【画像100枚】印旛沼で堤防“決壊” 太陽光発電施設で火事も 台風25号で千葉や神奈川で被害相次ぐ JR内房線は全線再開に3カ月 停電復旧の見通し立たない地域も【台風情報まとめ】",
     "category": "自治体",
     "accent": false,
-    "source": "検索: 洋上風力・太陽光",
+    "source": "テレ朝NEWS",
     "time": "5:50",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyUGlVVnJjaExWVFhqbGVpek1iakNpNnJXdzhfUUdpcFdsYkRXRnpiczJadmpYbnBDYWNwQ2NXd0UxXzFsUUhPOEhhX1FYNGFteXB2TGE2aGV5NkZxVjR0NmhmajVxTVgtRlJtZ290TkE2UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4c4636e8dacc",
-    "title": "冠水の太陽光発電施設 ソーラーパネルで発火 (2026年9月24日掲載)",
-    "category": "その他",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "5:42",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CbmVuZVZVc1poX2dFdnZoR0t4MnItM3ZVWV9LaUdOUzFKZHk2S2VscjdSdUdocFlGTDJRM2liMVpHaThEUW5mWDVZeFdNV29NY1pWcGh1dmtWb0pCa2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b1b105f595a5",
-    "title": "【写真・画像】冠水の太陽光発電施設 ソーラーパネルで発火 2枚目",
-    "category": "その他",
-    "accent": false,
-    "source": "times.abema.tv",
-    "time": "5:42",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95QXMwTm8zbmlscFh4SXp4eldrZDFyVzZTR29KMmNkN3ZsbEFmQlhGS3pGc1loNTlJQW1kaGdjUGdvUV9ScUpmbmFZeVU2UVdZWUhRRXM3SmdmbDRxX1h0VQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4378a50d6365",
-    "title": "クローバー・テクノロジーズ、佐賀市で約4.6MWhの蓄電所に着工 - kankyo-business.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 再生可能エネルギー",
-    "time": "5:26",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yWlhHY0syZjBmZGo0a1JKNmVnVl9CSzJRbXBDbTFZZWM5aDQ4a2ZkMkl1NVhIelpCVDNNZEFzal9waHR2SjhQUEJ0bGpuVjlXTUgyWmJyRFpsQkpSVEJYazJmQ1pDNXNOWlBIcG5GeUVsdlZFOEpiWnA3QjU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-eb2328a5a0d8",
-    "title": "脱炭素社会の実現に向けた取り組みを大阪環状線から発信",
-    "category": "その他",
-    "accent": true,
-    "source": "Infoseek",
-    "time": "5:18",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kemtzd2VnUkR3VFNLeHZMaWlvYjdjWGd5cmlNc2k1UHZvWklNbEZfUmQ5SHJzS3ppRWROcFBRWmd4aHlRRGFqMFNzOE54RG5vUHhrSUUtaVhDMzEtcnlJZk4xMDhUVFdoZDU4Y1hISFdrdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-06b4d24e4eb1",
-    "title": "印旛沼近くの太陽光発電パネルで火災 冠水で消防近づけず 人的被害は確認されず 千葉・成田市",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "5:18",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lQ3JYMGx1VzE4WTFxUFJmRHh3UnpxSU9ydllTbWpLaDc0LUdyaGcwbzZGZmg4bFZVRkM1NmRKbGc0UnFlMnp1VS1WbTlNanZWellEa0pGeHQwQVRnRnZaU3Z1Qkp2OTVBLVRCOTJB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ae3a9577b61d",
-    "title": "大規模冠水の太陽光発電施設 ソラーパネルで発火 千葉・印旛沼 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
-    "category": "その他",
-    "accent": false,
-    "source": "ABEMA",
-    "time": "5:12",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFalZrVmtrakU3dEVUd2RLSDdoZTZ1eS1PQlUyZnpLdlBDS05SWFRkbVUwSDJKRnhTTm1IOVpKLUJaaTkwekJPMXBzal95akhYdXZvaGJWQTB5UXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-15576c56cc33",
-    "title": "千葉 成田 浸水の太陽光発電施設で火事 警戒続く",
-    "category": "その他",
-    "accent": true,
-    "source": "NHKニュース",
-    "time": "5:09",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BaTRLVGdKWEloWWVWTUtiazZuM081Mmk4bE5vVGJtdi1GYy1FdzNHVVpNbmREQWVFNGtka000STVYamt6MUIzNVlPNXRtQ2hWaGJtbjVfZVRwQ2JVQkFv?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-95562936e6fc",
-    "title": "医療機関が太陽光発電を導入し、4月までに合計590kWで発電を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "Межа. Новини України.",
-    "time": "4:27",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xREQxbHBmTkk1aTNmUUZ2WlQ1bnYwTTN0M3VDbWd3dE5mdFlCY2VGdjZZdHBsMk16R1ZOaVZkNnNlSDgwSm00Zzh2Sm9ZRDFYS1Jnck1uZ0dDcWo4Zzdwdmh3U1pua1NJTDBWRw?oc=5",
     "image": null
   }
 ]
