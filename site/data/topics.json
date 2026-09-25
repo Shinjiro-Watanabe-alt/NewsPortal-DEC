@@ -11,20 +11,31 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-c97c73c0e303",
-    "title": "～東京港で新たに運航する水素燃料電池船の愛称を決めよう！～水素燃料電池船の愛称投票を開始します",
-    "summary": "[東京都] [画像1: https://prcdn.freetls.fastly.net/release_image/52467/6945/52467-6945-4b7bb383a89d7f7afb59f8a0088e1b59-215x47.png?width=536&amp;q…",
-    "category": "技術",
+    "id": "auto-92c95116a9d3",
+    "title": "【モンゴル全土の草原再生へ】Green Carbon、モンゴル牧草地利用者グループ全国連盟（MNFPUG）とMOUを締結",
+    "summary": "[グリーンカーボン] 国内最大規模ネイチャーベースのカーボンクレジット創出・販売事業を展開するGreen Carbon株式会社（代表取締役：大北 潤、以下「Green Carbon」）は、モンゴル全土の牧草地利用者や遊牧民コミュニティとのネット...",
+    "category": "国際",
     "source": "PR TIMES",
-    "time": "9/26(土) 3:10",
+    "time": "9/26(土) 4:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000006945.000052467.html",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000306.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/306/117956-306-77cf881d45e36ef1d18195ca303d1391-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-00b74a3119f8",
+      "id": "auto-c97c73c0e303",
       "rank": 1,
+      "title": "～東京港で新たに運航する水素燃料電池船の愛称を決めよう！～水素燃料電池船の愛称投票を開始します",
+      "category": "技術",
+      "source": "PR TIMES",
+      "time": "9/26(土) 3:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000006945.000052467.html"
+    },
+    {
+      "id": "auto-00b74a3119f8",
+      "rank": 2,
       "title": "テラチャージ、EVの現在地を専門家と読み解く新企画「EV FRONTLINE」を開始",
       "category": "企業",
       "source": "PR TIMES",
@@ -34,48 +45,37 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000489.000075648.html"
     },
     {
-      "id": "auto-4a92781f9e01",
-      "rank": 2,
-      "title": "Earth hacks、公式YouTubeチャンネル「どっちっち？channel」を開設！ ～第1弾企画「offメシ、どっちっち？」では、DECA!BEAT リーダー・米村姫良々さんがMCに～",
-      "category": "暮らし",
-      "source": "PR TIMES",
-      "time": "9/26(土) 1:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000156.000122970.html"
-    },
-    {
-      "id": "auto-8bbf7b160f77",
-      "rank": 3,
-      "title": "GORE-TEX(R)採用 次世代プロテクトグローブ「GX-500」をPROHANDS（富士グローブ株式会社）が新発売！「炎に強い。水に強い。」消防用グローブ",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "9/26(土) 1:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000191082.html"
-    },
-    {
       "id": "auto-72cc125743f4",
-      "rank": 4,
+      "rank": 3,
       "title": "日本を覆う「ふんわり情報統制」 - 環境と法 - 京都大学大学院法学研究科附属 法政策共同研究センター",
       "category": "その他",
       "source": "はてなブックマーク",
       "time": "9/25(金) 21:48",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://environment-and-law-kyoto.jp/2026/09/25/0925y/"
     },
     {
-      "id": "auto-48c1dc4d51c6",
-      "rank": 5,
-      "title": "低炭素水素市場トップ10企業",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "9/25(金) 18:17",
+      "id": "auto-af97cdadcc80",
+      "rank": 4,
+      "title": "半導体サプライチェーン脱炭素化…JX金属系が風力エネ調達、PPA活用",
+      "category": "その他",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "time": "9/25(金) 21:03",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rT2k1ZFh6YnVUcHBVNVhHYmZ6QzNVbGpEODFibl9jVzRTRmt6QkFuY3Y3THpxNk5tMTgwZmtwaUdYUEFnWml5a2lR?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DSnpFX09IcUdfNDA0OElFN1VUdmgzSkJSNlFaTHhJU05DR3VTSU8xbGZ0aThEZkFWVjhSbTVqbVdBdw?oc=5"
+    },
+    {
+      "id": "auto-8b0f85f949c0",
+      "rank": 5,
+      "title": "太陽光発電から廃棄食材の利用まで。アジア各国の再エネ事業",
+      "category": "国際",
+      "source": "hicbc.com",
+      "time": "9/25(金) 20:58",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OR2d1eVhlR3dCQWFWWkR2YVJJVEFrM0hSd1A5TGlkSEdack9rLVY1WlcyWVM3VlBYZWhVYXl1Z1VJZkRVbnBnd05fRjNSQ1pNMHVLbV9EeEdIMWlSR2Q5Rk5fdHg?oc=5"
     },
     {
       "id": "auto-2b123c8b032e",
@@ -83,32 +83,32 @@
       "title": "堤防が決壊し冠水した千葉県・印旛沼の近くの太陽光発電施設から上がる煙＝24日午前11時、成田市（共同通信社ヘリから）",
       "category": "その他",
       "source": "スポニチ Sponichi Annex",
-      "time": "9/25(金) 17:26",
+      "time": "9/25(金) 20:24",
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHRFRnB6MFRESC1TM0J5amt3R3BzNG03MUpGYnltTjRNbUpnRGJUQWZjbS1LRm1rZTBBWnRJUkN6aFZhNDhVRUdnSm5wTUJyWF9XM19RWXM4LWhKSHhfbm9TZmVMSThMWWpBel9CckY3bWF6Ynl0akh1TEo3Nm9nRy1zQWtRVEpkZGdnMms0LThGeUEyZ3c?oc=5"
     },
     {
-      "id": "auto-a93549a5a0ba",
+      "id": "auto-e1a707957e28",
       "rank": 7,
-      "title": "【福島県浪江町】水素×キャンプを組み合わせた取組を実施",
-      "category": "技術",
-      "source": "ニコニコニュース",
-      "time": "9/25(金) 17:15",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kUC1kbmxqazhIMFZRRHJoWk8wbUdMVldsRFFHWXREWjBkQTVPZzVGRGhlaWk5WHZFalItNzl0UXNLZWZ3SGFkUGlIS2YzbG1BRzhjalJhRGZtSzRJbmx3RjhzN0VNWkpQ?oc=5"
-    },
-    {
-      "id": "auto-9951dad923b0",
-      "rank": 8,
-      "title": "グリッドスケール定置型蓄電池用インバータ市場、2035年まで拡大へ：再生可能エネルギー連系が成長を牽引 - ニュースと統計",
+      "title": "「拠点化を後押し」 洋上風力巡り松下氏、国政報告会",
       "category": "その他",
-      "source": "IndexBox",
-      "time": "9/25(金) 15:41",
+      "source": "47NEWS",
+      "time": "9/25(金) 20:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUnU0QUUtbFl0WEVpZjRET0tabkZGLUlibHpmNnVtUDNLUElYbkpRWGlJeGZ1aDhPUzlDWmV3VW1TX3RMblFNVkZUeXZYNWpCVmRaTGhOZUdlS2VZMS1NcF94cVQzdXlyVElWYmVLZnc4OXBMdm5zQVN2U1pySXE4RDJ4OGVlUWJjNm1LU3l5WnRwRmUtbXY3N1drSnUxWEJPZXJDUFJsNlRtQnl2cC10REJ6WXluNjNsY3N0bVg4Z0NMMUlPZU4yS210TnpNNXlmaFp5bWs3VkFkd1pLWGww?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GZU9BYk9QN2lkVUlVdllnTU9nVXRManlEWW55MWRreXRsWXEzZ250MmdMbkNIamZ6QkhTRnVQb0FzSzdDUFZZMWtnTQ?oc=5"
+    },
+    {
+      "id": "auto-48c1dc4d51c6",
+      "rank": 8,
+      "title": "低炭素水素市場トップ10企業",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "9/25(金) 18:17",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rT2k1ZFh6YnVUcHBVNVhHYmZ6QzNVbGpEODFibl9jVzRTRmt6QkFuY3Y3THpxNk5tMTgwZmtwaUdYUEFnWml5a2lR?oc=5"
     }
   ]
 }
