@@ -34,41 +34,63 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000191082.html"
     },
     {
-      "id": "auto-9d8adacf338a",
+      "id": "auto-d7691b291a26",
       "rank": 2,
+      "title": "脱炭素推進へ 浜松市に寄付 須山建設と中村建設",
+      "category": "その他",
+      "source": "静岡新聞DIGITAL",
+      "time": "9/26(土) 21:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RQUIwSVVIZmc0QzQ3eG43X1NaWEljVUtVVGpRckJaUnUxM18wbzVDREtDNy1ETWNFS2xlQnZrc1hmbW41eno4bFZ0cU5Xdw?oc=5"
+    },
+    {
+      "id": "auto-9d8adacf338a",
+      "rank": 3,
       "title": "蓄電池の運用最適化へ 武蔵精密など3社が実証実験 マイクログリッド運用知見を活用",
       "category": "その他",
       "source": "東愛知新聞社",
       "time": "9/26(土) 17:11",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mZkxKY0plem55WnZTX3JqM2VRZDVmbGpuTkw0YzVBSExibTBXSTc4YW1XSE43NHo5T2tIVXJHM01jYkdpUGpHdlV5TkdHczVqeFNtMTJfRkNZaU8w?oc=5"
     },
     {
+      "id": "auto-d05183e9ae8a",
+      "rank": 4,
+      "title": "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請",
+      "category": "国際",
+      "source": "毎日新聞",
+      "time": "9/26(土) 17:01",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94bHUtaWFhcDhFbnEyQVcwTGNuNE9Rb3dzOG4zbUFXc0FRVWtXb2xSTFpfR1p5M1NiVzlwZmFxT1hBQXNoZWVhUTBQRHl0YXIydk5ZT2h4eV9PdnRPbUR2UFVNMHVILUVP?oc=5"
+    },
+    {
       "id": "auto-e95cebf331d9",
-      "rank": 3,
+      "rank": 5,
       "title": "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ",
       "category": "その他",
       "source": "IndexBox",
       "time": "9/26(土) 16:11",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZHJUTktvNVctcHh1bU9LNElYczJTbEVoV0NRaVNoTDBhQ3RnXzJuNEh5UnRTZS1BM2V3NkFzTFpNekFBQTZ1THJRWUMtRnlPaFB2Z2V1NC1WcGlVUGVyYXBJb3d0SEtvejlvVHRhVGhjNnRQU2Zab1RXN3IzbGJDV0xscjB6Z09TNVFGU09CSFVJMVZzQ0NpdzV4TFozZVJaNWZoSmhGazVSbmRKQnYwQVExaVA1Z1NhUk9zeUI0M0NaUTdNMkh5VVVMSnFWTkxtWDAta2FCV2lCN3ZEVWFidFpjSQ?oc=5"
     },
     {
       "id": "auto-24ab9888fca7",
-      "rank": 4,
+      "rank": 6,
       "title": "太陽光発電を利用した自動車レースが南アフリカで大きな話題を呼んでいる。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "9/26(土) 15:46",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlQ4N0tScHdkMENYUGRYUjhNMUFnWGtmeEtzZTJybU1sU21vT1hxejFyRmpMZ192cHV4dnhVbTNpM0hyNGk4bWx0Wk5BQm8wN2Z3UXNEZzFVQWdwMDRNNzJ6Y294ODlsWUZmMU0yU1RIb3JPallBczlYbHVYWC1BMDA2bG1vZ3hBanhwNVV6anI?oc=5"
     },
     {
       "id": "auto-1c88efd4b9e0",
-      "rank": 5,
+      "rank": 7,
       "title": "成長戦略の整合：グレー水素市場レポート、2026年から2033年にかけて予測される年平均",
       "category": "技術",
       "source": "pando.life",
@@ -79,7 +101,7 @@
     },
     {
       "id": "auto-00b74a3119f8",
-      "rank": 6,
+      "rank": 8,
       "title": "テラチャージ、EVの現在地を専門家と読み解く新企画「EV FRONTLINE」を開始",
       "category": "企業",
       "source": "PR TIMES",
@@ -87,28 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000489.000075648.html"
-    },
-    {
-      "id": "auto-530522bb6f77",
-      "rank": 7,
-      "title": "統合型スマートパーキング、電気自動車充電ステーション、屋上太陽光発電システム。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "9/26(土) 14:38",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUV1M1BuV3U0YTMzT2thdDRSS1pNa3B3dDBiVHNVS0RyOERiOWFLZ1dMNEgtWlFBVmhxeERXWXVCeXdibHlhX0ZmOGpWR2h2Tk5RbERUdTViRzdQNWhXajNwTWQzVDNWNjJnemJIUy00Y0E0SkxVXzVSWFdUemFmYTZEMUF3bEQ2VjJNX08teUFRZTNuckduV0V3?oc=5"
-    },
-    {
-      "id": "auto-ad0b8f1c6dfe",
-      "rank": 8,
-      "title": "チュオン・タイン・ホアイ副大臣は、ドイツのハンブルクで風力発電分野のパートナー企業と二国間会談を行った。",
-      "category": "国際",
-      "source": "Vietnam.vn",
-      "time": "9/26(土) 13:16",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlNvVDZZQnZoVFN0NWswT3FKTUxyTUkxeDhyUEphd05IdUN4SVFlTENqNHF0OTNSaGlkWGZLbTFkQi1WVzhvek5reV9xaC1ldlNtZGZLdjBRcHlBVHlHUFVnQVd1S1pwaHE0a3RORXluYUlZcVlDbDVFcGtMckRmMVdjMEtGdFEtN1FHQ1JiVjgxRXBPLXNQM1plMWk5OXZzT2xCWnNEckx2MVdjQ2Fua3htblBoWjVWRnpVYU1LazduSHQ2YUhWQkNHVQ?oc=5"
     }
   ]
 }
