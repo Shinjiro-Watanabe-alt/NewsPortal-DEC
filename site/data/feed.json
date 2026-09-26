@@ -5,7 +5,7 @@
     "category": "暮らし",
     "accent": false,
     "source": "PR TIMES",
-    "time": "19:10",
+    "time": "1:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000156.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/156/122970-156-ba7c808b807f6a39351b323482472432-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
@@ -15,9 +15,39 @@
     "category": "企業",
     "accent": true,
     "source": "PR TIMES",
-    "time": "19:10",
+    "time": "1:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000191082.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/191082/1/191082-1-06c7f3736be6a7a24b249aa0e1504f6b-702x1000.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-9d8adacf338a",
+    "title": "蓄電池の運用最適化へ 武蔵精密など3社が実証実験 マイクログリッド運用知見を活用",
+    "category": "その他",
+    "accent": false,
+    "source": "東愛知新聞社",
+    "time": "17:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mZkxKY0plem55WnZTX3JqM2VRZDVmbGpuTkw0YzVBSExibTBXSTc4YW1XSE43NHo5T2tIVXJHM01jYkdpUGpHdlV5TkdHczVqeFNtMTJfRkNZaU8w?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e95cebf331d9",
+    "title": "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "16:11",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZHJUTktvNVctcHh1bU9LNElYczJTbEVoV0NRaVNoTDBhQ3RnXzJuNEh5UnRTZS1BM2V3NkFzTFpNekFBQTZ1THJRWUMtRnlPaFB2Z2V1NC1WcGlVUGVyYXBJb3d0SEtvejlvVHRhVGhjNnRQU2Zab1RXN3IzbGJDV0xscjB6Z09TNVFGU09CSFVJMVZzQ0NpdzV4TFozZVJaNWZoSmhGazVSbmRKQnYwQVExaVA1Z1NhUk9zeUI0M0NaUTdNMkh5VVVMSnFWTkxtWDAta2FCV2lCN3ZEVWFidFpjSQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-24ab9888fca7",
+    "title": "太陽光発電を利用した自動車レースが南アフリカで大きな話題を呼んでいる。",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "15:46",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlQ4N0tScHdkMENYUGRYUjhNMUFnWGtmeEtzZTJybU1sU21vT1hxejFyRmpMZ192cHV4dnhVbTNpM0hyNGk4bWx0Wk5BQm8wN2Z3UXNEZzFVQWdwMDRNNzJ6Y294ODlsWUZmMU0yU1RIb3JPallBczlYbHVYWC1BMDA2bG1vZ3hBanhwNVV6anI?oc=5",
+    "image": null
   },
   {
     "id": "auto-1c88efd4b9e0",
@@ -91,12 +121,12 @@
   },
   {
     "id": "auto-9d0b7ac5f0c0",
-    "title": "トヨタ、水素レースプロジェクトMissionH24に水素”レーシングエンジン”供給へ……中嶋一貴「耐久レースにおける可能性を拡大する」（motorsport.com 日本版）",
+    "title": "トヨタ、水素レースプロジェクトMissionH24に水素”レーシングエンジン”供給へ……中嶋一貴「耐久レースにおける可能性を拡大する」",
     "category": "技術",
     "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "10:33",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iWk9zQVdmUmt4UXBJaFhyTXNMdks3V3h1UE9mZFVudmhrY3JsZFpLSXVSd0NDdWpvaWhKOVRnVFlaQ1lFZF9OeTFEU0FIaG5mRTJyNzlXN1JCS05TY3d1UXpSdG5GSUFTQVVLWGt1UFI2cy1hUDdXZG9hV090TWM?oc=5",
+    "source": "ｄメニューニュース",
+    "time": "10:34",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWlBYYkxGNjlySXBaSFdTRFJLNmo2VWs0NVRYZDVZb1M5LU9pTENndEd0M1FMWW9OYm1BV2hjdkZ4aDZGdTZKTHp2U1dKekdlUUNlcnRxdDVHWTltdUxzLVMtUDkxLXhQMWdrQ01iR1Y2M2hxLUx0Wmd4Wm52ZW9wMHNOTm52WmRWZWxtSDBRNlM3YzFVNTljZ2pGTdIBlwFBVV95cUxPTG8zUlZOQ05JQmJab1RvZUN1eVBqWk9CMEo1ZlZOVGRRUEVubWZjN1dUa196eXhHWTZ4TUFhRnhXSGR3SmtnZ3ZoY0MySWdka3JORkdZYlMteDNPWlpGM0hYcjBIWDhubUZZZ0dMbm5zNWl6SElaVm9ZTThNYm9abGZfazNvM1BpNmZDRHZXYlk0UGo5cjZ3?oc=5",
     "image": null
   },
   {
@@ -140,6 +170,16 @@
     "image": null
   },
   {
+    "id": "auto-5b35ee1aedae",
+    "title": "画像2 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
+    "category": "その他",
+    "accent": false,
+    "source": "ウォーカープラス",
+    "time": "9:48",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XQWJOeGF4cjNrZ1NiSWlCcmJ2cm5ZNlJaVDYtUmQzUXJmTFFFdmQ3NF82NWlPSHpLd3JDY3RHSlhPWUlyb3F1RmsyRXY1bUF3Mi04RXVERWpUX1p0dXlIUEllSVdxWkpycG90R1Bn?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-b0f65df8e6e2",
     "title": "水素エネルギー貯蔵国内メーカーとシェア",
     "category": "技術",
@@ -152,8 +192,8 @@
   {
     "id": "auto-1a15cf304462",
     "title": "ゲアン省は省エネルギーへの取り組みを強化し、グリーン移行を推進している。",
-    "category": "技術",
-    "accent": false,
+    "category": "その他",
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "9:40",
     "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ181RkxHX3FIUUNZaXBnQzRmY3c0TVgzcUlBVnZvQWh5N01XN0NYYkY3T3lheUNJZnRrRGg1RlpFQV92VktFOVlRYl9iNWloLUN5a2F6blRrX1Y1TmFpVFEyVWlBN1VCMjJDNTJTUnBHR3k1TWNvSzVESFJQalR1NnFZVm4xaUY2VFI4MEtOVWVISmM?oc=5",
@@ -163,7 +203,7 @@
     "id": "auto-181d78fcec05",
     "title": "クリハラントから特別高圧蓄電所向け蓄電システムを受注",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "9:25",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdktKWE9nU1ZRREhGRl9FbE5RX1ZEWFZVSmlyWktyeVduc2VZc2lxVWluSW10UTNWWFdwNG54NmFVLXlUN3lsUXZBcXA5MWlvdkE?oc=5",
@@ -183,7 +223,7 @@
     "id": "auto-bac953cfb427",
     "title": "トヨタ、世界耐久レース車に水素エンジン供給 2028年にも試作車",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "日本経済新聞",
     "time": "9:13",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1US3NpZDg3WklMRzU0aHVaeVlSd1A4VFlYWVBPWnoyM1o5WXg0ekUydHZqMmMwWm9laldOcGlTMHZNU3BpSDVmSktjdkg3N2RmSUpSaG51a01qLVVhTmlscHF0TkI5UDJ4SUY4YQ?oc=5",
@@ -191,12 +231,12 @@
   },
   {
     "id": "auto-614d84cb46f8",
-    "title": "トヨタが液体水素エンジンを供給へ。ACOが進める『ミッションH24』とサプライヤー契約を発表",
+    "title": "トヨタが液体水素エンジンを供給へ。ACOが進める『ミッションH24』とサプライヤー契約を発表 (オートスポーツweb)",
     "category": "技術",
-    "accent": true,
-    "source": "ｄメニューニュース",
+    "accent": false,
+    "source": "Yahoo!ニュース",
     "time": "9:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWJiN1RwTU95bGRIZWY3SnZWdFd6Y1Y2NUlFVlU1VHYzeHdHU0Z6UkNCbk9LUW9VQTVadTQ5aEswTklCLVgwT2xvVUlhRHlnWGhwVzMzVUQtRnRsNGZKLWc5eDI4ZGtrQW1uV0JpTHBZcVR0aWtfb3Y5VzcxTUNFX0NtRjhrRVQwdUHSAYYBQVVfeXFMTnRqSjZYS0hyTk5qOW44Skx6eUhIQ1hMcUREVkNXOC1aZVozc05ZaW9fbWNZWXU0QWZibldrZ0h2UWRLaVlKTHI0R0V5WXhyaldSUHZUQkttRkl3WlNydWNON1ZzV1pPMlRvME5TQ1hMNUJQdnVoY01Xb3lYRnFVR3Bkb0Z2YlE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnRvV1ZNWTY5eUJXclQ0YUdtdEF4Ykt0RFNpTjJoNFdKWFdFNEhSUTBGcFNvMVA3Rm1oaHBQVVpJN3FhZkUwT2hrUHJFLW54ZXh3MkxnV18wOGlUMGs0OEI3WlZkU2NOeEJUd3lFUHRIREVORXRQRWMzNWdPaGNPUmZTeUx5VHk4ZDdCcmhR?oc=5",
     "image": null
   },
   {
@@ -213,7 +253,7 @@
     "id": "auto-d6254bac7e01",
     "title": "トヨタが液体水素エンジンを供給へ。ACOの水素レーシングカープロジェクト『ミッションH24』とサプライヤー契約",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "autosport web",
     "time": "8:57",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUkQ3a1NyREk5NFpOVVFrcGZ4ZkRERDhUOVhrbXNyMmRxSEVjcHVwMEpQQkNvTExzSGN0ZW1hUXptTjJ6QVV1SEJNYTVjTnlNU2VkM0NVYw?oc=5",
@@ -223,7 +263,7 @@
     "id": "auto-393e48f311bb",
     "title": "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "8:35",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VdVAtYl9GZlM0YW9oMlMyZWFvRm1lSGN2dENVaE1QenZ4VVVQaEdkMHByMldxR2s3SjhBQVV0NlN0MlAxdms2b194aFVGR3phT1E?oc=5",
@@ -234,7 +274,7 @@
     "title": "トヨタの水素燃焼エンジン、ル・マン24時間の新しい水素レースプロトタイプカー「H24EVO」に供給へ 3.5リッターV型6気筒で最高出力650kW",
     "category": "技術",
     "accent": false,
-    "source": "千葉テレビ放送株式会社",
+    "source": "千葉テレビ放送",
     "time": "8:32",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GQXY4dnE0Zk9la1dZMmo4TkVsZ2g1Q2VFS0JTRkRLcFBaRHNGcUFjNEZWcWtpN0h3QWNsZ3ltNm9Xc1JiYzUzWWxoRzcyVjlQUENwdDRjV2d0aVBQTXM4?oc=5",
     "image": null
@@ -243,7 +283,7 @@
     "id": "auto-c9224b1f12d2",
     "title": "太陽光発電所向けサージ保護デバイスの世界市場（2026年～2032年）、市場規模（AC側SPD、DC側SPD）・分析レポートを発表",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "Newscast.jp",
     "time": "8:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tUFdPUjR4VmdONHNMclY3eG4wamxsRjk4b1ZWZEtsOFRpZjNwNjB0Wkd2dzU2bUowc1llbzRvbUViTHliUFppbS0zYW5iSVk?oc=5",
@@ -253,50 +293,10 @@
     "id": "auto-d649d53c31d1",
     "title": "大規模蓄電所向け高容量蓄電システム 「Mega Power 4000」シリーズを発表",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "7:53",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxa1YzVnJYVE1YaGowQUVQbjNFWms0amFhd3RfTmx3ZDVuVU9wWEl6SHVzMXI4Qmg3RUpEWlVwTE9OM2drWVRrSXV4YWMzTl9BUUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-398bce4c8c36",
-    "title": "スバルが“水素車”開発へ？ 新特許で見えた高圧水素タンクの衝突安全技術、トヨタとの協業に新展開か（MotorFan）",
-    "category": "技術",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "6:36",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FMng3dkdwckd6WlpkS0xnVjduQU1rWXZ1UW1RVkN2R1VpY2drVWcySm5pVWpwcUtabE9HRlM5N1J6RF9VWlByYmg1VVQzR19Vd2QxSmZPRjNVS2toek5YQ2dkUHl6MXp1VTF6N3FROHI0ZXZYSE1oV3dLXzREa3c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f4d9428db0f5",
-    "title": "太陽光発電用切断機の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン）・分析レポートを発表",
-    "category": "国際",
-    "accent": false,
-    "source": "atpress.ne.jp",
-    "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2b3dfdGNnS1ZiVk05eHdxRUctT1VDMnRlb1ZManItM3c1OHhOR0FvUFpMdmtqRDFyYlZMTkM5UXNLSEpyUDBSR2RKNXlUYnM?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a58eb1c7dceb",
-    "title": "スパークス、水素ステーション新設へ 28年度から無償供給で実証（苫小牧民報）",
-    "category": "技術",
-    "accent": true,
-    "source": "Yahoo!ニュース",
-    "time": "6:21",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RamY2cVM3S1V5Mm02ZGpNamJkbHRNLWV4STFMdG80Nl8zYUtNeFFGRjZNSFRxVmk2LXBzWDRTZi1vVi12YlNEaFZkMXZYYWp1UVBWaXNJMkJuQk1leE5rRkZKUV9pRFpsUFhSZFhMa2tuSU9zY2JKYU1LVXpkQ0U?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2032133d9e83",
-    "title": "日本の燃料電池無停電電源装置 (FC-UPS) システム市場の最新動向",
-    "category": "技術",
-    "accent": false,
-    "source": "pando.life",
-    "time": "6:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oYmtPdWVUQ3pieU1WMy0yZnE5OE9oQlc0ZEthNWhmSnJncHFPZjI5MjhmdkJSVF9XQzRmYlVDM1pjbVZjVkN6QWl3?oc=5",
     "image": null
   }
 ]
