@@ -37,20 +37,39 @@
     "collected": true,
     "image": "https://prcdn.freetls.fastly.net/release_image/191082/1/191082-1-06c7f3736be6a7a24b249aa0e1504f6b-702x1000.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
-  "auto-d05183e9ae8a": {
-    "id": "auto-d05183e9ae8a",
-    "category": "国際",
-    "title": "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請",
-    "source": "毎日新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94bHUtaWFhcDhFbnEyQVcwTGNuNE9Rb3dzOG4zbUFXc0FRVWtXb2xSTFpfR1p5M1NiVzlwZmFxT1hBQXNoZWVhUTBQRHl0YXIydk5ZT2h4eV9PdnRPbUR2UFVNMHVILUVP?oc=5",
-    "time": "9/27(日) 0:28",
+  "auto-20ba7abb8198": {
+    "id": "auto-20ba7abb8198",
+    "category": "技術",
+    "title": "TOYO TIRE、トヨタFCVにダカールラリーでタイヤ供給",
+    "source": "ゴム報知新聞ＮＥＸＴ",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aQWJFY2VkRFhUbU5Eb2FJSEVRZTRlMjJSRmV0NEd2N3VqYjdrbllBdWxjV29sSEY5QUc5REw0dXM4Y3lxcXdMZGd3?oc=5",
+    "time": "9/27(日) 1:39",
     "comments": 0,
     "tags": [
-      "脱炭素"
+      "FCV"
     ],
-    "summary": "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請&nbsp;&nbsp;毎日新聞",
+    "summary": "TOYO TIRE、トヨタFCVにダカールラリーでタイヤ供給&nbsp;&nbsp;ゴム報知新聞ＮＥＸＴ",
     "body": [
-      "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請&nbsp;&nbsp;毎日新聞"
+      "TOYO TIRE、トヨタFCVにダカールラリーでタイヤ供給&nbsp;&nbsp;ゴム報知新聞ＮＥＸＴ"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-0f696d987693": {
+    "id": "auto-0f696d987693",
+    "category": "技術",
+    "title": "Ni-MH電池用希土類水素貯蔵材料の世界市場（2026年～2032年）、市場規模（AB5タイプ（Lani5）、非AB5タイプ）・分析レポートを発表",
+    "source": "アットプレス",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LVE9YZGdDQWNZZWVKTkJxbVM4SU1WRGxrM2xpczNyZnJ3RldrZW1JMXh1bmhMMThITDVhclJmNEVDUmZNYnYxUzZEbEdfWU0?oc=5",
+    "time": "9/27(日) 1:00",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "Ni-MH電池用希土類水素貯蔵材料の世界市場（2026年～2032年）、市場規模（AB5タイプ（Lani5）、非AB5タイプ）・分析レポートを発表&nbsp;&nbsp;アットプレス",
+    "body": [
+      "Ni-MH電池用希土類水素貯蔵材料の世界市場（2026年～2032年）、市場規模（AB5タイプ（Lani5）、非AB5タイプ）・分析レポートを発表&nbsp;&nbsp;アットプレス"
     ],
     "related": [],
     "collected": true,
@@ -209,20 +228,39 @@
     "collected": true,
     "image": null
   },
+  "auto-d05183e9ae8a": {
+    "id": "auto-d05183e9ae8a",
+    "category": "国際",
+    "title": "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請",
+    "source": "毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94bHUtaWFhcDhFbnEyQVcwTGNuNE9Rb3dzOG4zbUFXc0FRVWtXb2xSTFpfR1p5M1NiVzlwZmFxT1hBQXNoZWVhUTBQRHl0YXIydk5ZT2h4eV9PdnRPbUR2UFVNMHVILUVP?oc=5",
+    "time": "9/26(土) 17:01",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請&nbsp;&nbsp;毎日新聞",
+    "body": [
+      "海面上昇巡る国連宣言 島しょ国「本気見せて」 各国に脱炭素や資金要請&nbsp;&nbsp;毎日新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-e95cebf331d9": {
     "id": "auto-e95cebf331d9",
     "category": "その他",
     "title": "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZHJUTktvNVctcHh1bU9LNElYczJTbEVoV0NRaVNoTDBhQ3RnXzJuNEh5UnRTZS1BM2V3NkFzTFpNekFBQTZ1THJRWUMtRnlPaFB2Z2V1NC1WcGlVUGVyYXBJb3d0SEtvejlvVHRhVGhjNnRQU2Zab1RXN3IzbGJDV0xscjB6Z09TNVFGU09CSFVJMVZzQ0NpdzV4TFozZVJaNWZoSmhGazVSbmRKQnYwQVExaVA1Z1NhUk9zeUI0M0NaUTdNMkh5VVVMSnFWTkxtWDAta2FCV2lCN3ZEVWFidFpjSQ?oc=5",
     "time": "9/26(土) 16:11",
     "comments": 0,
     "tags": [
       "再生可能エネルギー"
     ],
-    "summary": "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ&nbsp;&nbsp;indexbox.io",
+    "summary": "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ&nbsp;&nbsp;IndexBox",
     "body": [
-      "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ&nbsp;&nbsp;indexbox.io"
+      "変流器市場、系統近代化と再生可能エネルギー導入を背景に2035年まで拡大へ&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
@@ -514,6 +552,25 @@
     "collected": true,
     "image": null
   },
+  "auto-181d78fcec05": {
+    "id": "auto-181d78fcec05",
+    "category": "その他",
+    "title": "クリハラントから特別高圧蓄電所向け蓄電システムを受注",
+    "source": "山陽新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdktKWE9nU1ZRREhGRl9FbE5RX1ZEWFZVSmlyWktyeVduc2VZc2lxVWluSW10UTNWWFdwNG54NmFVLXlUN3lsUXZBcXA5MWlvdkE?oc=5",
+    "time": "9/26(土) 9:25",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "クリハラントから特別高圧蓄電所向け蓄電システムを受注&nbsp;&nbsp;山陽新聞",
+    "body": [
+      "クリハラントから特別高圧蓄電所向け蓄電システムを受注&nbsp;&nbsp;山陽新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-bb4cfb45a877": {
     "id": "auto-bb4cfb45a877",
     "category": "その他",
@@ -528,6 +585,25 @@
     "summary": "海南市太陽光発電設備等設置事業補助金について&nbsp;&nbsp;海南市",
     "body": [
       "海南市太陽光発電設備等設置事業補助金について&nbsp;&nbsp;海南市"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-4295ecf9ddbb": {
+    "id": "auto-4295ecf9ddbb",
+    "category": "その他",
+    "title": "日本海南側で予定されている「洋上風力発電事業」を新たなビジネスチャンスにつなげるためのフォーラム 青森市で初開催 県内外から約100人参加 水中で使う技術の開発に取り組む県外企業の事例などが紹介 | TBS NEWS DIG フォトギャラリー",
+    "source": "TBS NEWS DIG",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5idmNKRFZPcVAzemRoRFBmQ2xMdzkwQTZHMXE5TnBqWDB4eHp0aEZ6enJqdnpkNkVRaG9GdFR3N3loWnh1UnFKLUtaX0VIMjFpUVVWNEY3b2tvZlQtRmxJ?oc=5",
+    "time": "9/26(土) 9:16",
+    "comments": 0,
+    "tags": [
+      "洋上風力"
+    ],
+    "summary": "日本海南側で予定されている「洋上風力発電事業」を新たなビジネスチャンスにつなげるためのフォーラム 青森市で初開催 県内外から約100人参加 水中で使う技術の開発に取り組む県外企業の事例などが紹介 | TBS NEWS DIG フォトギャラリー&nbsp;&nbsp;TBS NEW…",
+    "body": [
+      "日本海南側で予定されている「洋上風力発電事業」を新たなビジネスチャンスにつなげるためのフォーラム 青森市で初開催 県内外から約100人参加 水中で使う技術の開発に取り組む県外企業の事例などが紹介 | TBS NEWS DIG フォトギャラリー&nbsp;&nbsp;TBS NEWS DIG"
     ],
     "related": [],
     "collected": true,
@@ -610,20 +686,39 @@
     "collected": true,
     "image": null
   },
+  "auto-393e48f311bb": {
+    "id": "auto-393e48f311bb",
+    "category": "その他",
+    "title": "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催",
+    "source": "山陽新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VdVAtYl9GZlM0YW9oMlMyZWFvRm1lSGN2dENVaE1QenZ4VVVQaEdkMHByMldxR2s3SjhBQVV0NlN0MlAxdms2b194aFVGR3phT1E?oc=5",
+    "time": "9/26(土) 8:35",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催&nbsp;&nbsp;山陽新聞",
+    "body": [
+      "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催&nbsp;&nbsp;山陽新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-4d87a4e96b15": {
     "id": "auto-4d87a4e96b15",
     "category": "技術",
     "title": "トヨタの水素燃焼エンジン、ル・マン24時間の新しい水素レースプロトタイプカー「H24EVO」に供給へ 3.5リッターV型6気筒で最高出力650kW",
-    "source": "千葉テレビ放送",
+    "source": "千葉テレビ放送株式会社",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GQXY4dnE0Zk9la1dZMmo4TkVsZ2g1Q2VFS0JTRkRLcFBaRHNGcUFjNEZWcWtpN0h3QWNsZ3ltNm9Xc1JiYzUzWWxoRzcyVjlQUENwdDRjV2d0aVBQTXM4?oc=5",
     "time": "9/26(土) 8:32",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "トヨタの水素燃焼エンジン、ル・マン24時間の新しい水素レースプロトタイプカー「H24EVO」に供給へ 3.5リッターV型6気筒で最高出力650kW&nbsp;&nbsp;千葉テレビ放送",
+    "summary": "トヨタの水素燃焼エンジン、ル・マン24時間の新しい水素レースプロトタイプカー「H24EVO」に供給へ 3.5リッターV型6気筒で最高出力650kW&nbsp;&nbsp;千葉テレビ放送株式会社",
     "body": [
-      "トヨタの水素燃焼エンジン、ル・マン24時間の新しい水素レースプロトタイプカー「H24EVO」に供給へ 3.5リッターV型6気筒で最高出力650kW&nbsp;&nbsp;千葉テレビ放送"
+      "トヨタの水素燃焼エンジン、ル・マン24時間の新しい水素レースプロトタイプカー「H24EVO」に供給へ 3.5リッターV型6気筒で最高出力650kW&nbsp;&nbsp;千葉テレビ放送株式会社"
     ],
     "related": [],
     "collected": true,
@@ -652,16 +747,16 @@
     "id": "auto-c9224b1f12d2",
     "category": "国際",
     "title": "太陽光発電所向けサージ保護デバイスの世界市場（2026年～2032年）、市場規模（AC側SPD、DC側SPD）・分析レポートを発表",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tUFdPUjR4VmdONHNMclY3eG4wamxsRjk4b1ZWZEtsOFRpZjNwNjB0Wkd2dzU2bUowc1llbzRvbUViTHliUFppbS0zYW5iSVk?oc=5",
+    "source": "アットプレス",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GekQyNG5xZUs5ZlFJWHltMmZQU1kxaVAzLVhRZU4zZXdfUDRoUk1YdjJPaXdxaDhCdW9US0NsN2xxbjEtbm5ySG5wVDZ3UVk?oc=5",
     "time": "9/26(土) 8:00",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "太陽光発電所向けサージ保護デバイスの世界市場（2026年～2032年）、市場規模（AC側SPD、DC側SPD）・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
+    "summary": "太陽光発電所向けサージ保護デバイスの世界市場（2026年～2032年）、市場規模（AC側SPD、DC側SPD）・分析レポートを発表&nbsp;&nbsp;アットプレス",
     "body": [
-      "太陽光発電所向けサージ保護デバイスの世界市場（2026年～2032年）、市場規模（AC側SPD、DC側SPD）・分析レポートを発表&nbsp;&nbsp;Newscast.jp"
+      "太陽光発電所向けサージ保護デバイスの世界市場（2026年～2032年）、市場規模（AC側SPD、DC側SPD）・分析レポートを発表&nbsp;&nbsp;アットプレス"
     ],
     "related": [],
     "collected": true,
@@ -690,16 +785,16 @@
     "id": "auto-f4d9428db0f5",
     "category": "国際",
     "title": "太陽光発電用切断機の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン）・分析レポートを発表",
-    "source": "アットプレス",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2b3dfdGNnS1ZiVk05eHdxRUctT1VDMnRlb1ZManItM3c1OHhOR0FvUFpMdmtqRDFyYlZMTkM5UXNLSEpyUDBSR2RKNXlUYnM?oc=5",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5aXZOZm9QUmw2Z3dwMTFTVFg3OUV0Z2FramR6QmlmNWsxUThvZWhhU1hUaHpsRVBlUU9GelhNeXRENmo5TlpLWm53MWNJQ0k?oc=5",
     "time": "9/26(土) 6:30",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "太陽光発電用切断機の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン）・分析レポートを発表&nbsp;&nbsp;アットプレス",
+    "summary": "太陽光発電用切断機の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン）・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
     "body": [
-      "太陽光発電用切断機の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン）・分析レポートを発表&nbsp;&nbsp;アットプレス"
+      "太陽光発電用切断機の世界市場（2026年～2032年）、市場規模（単結晶シリコン、多結晶シリコン）・分析レポートを発表&nbsp;&nbsp;Newscast.jp"
     ],
     "related": [],
     "collected": true,
@@ -766,35 +861,16 @@
     "id": "auto-ff51b59a557c",
     "category": "その他",
     "title": "三相系統連系型太陽光発電用パワーコンディショナ市場、2035年まで拡大へ――系統安定化の義務化が成長を牽引 - ニュースと統計",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPT1VBak1HNWp0YkpCSFFyQnNvOFBfdXRFX3NmbWxYSTFfRHZuS1lsZW1JWUxKaDlVeWdrbjM4dXlkZlRMcnJ5Z1JSS01VZmk3SkpKQWV4bGRNWWZoQ2l4ZnNqZVlnWnFqdnN4cF9TUlJRc01qYWliZnlnYTJxUUhkUE92VkpaQ2t5cUtPOTlUUm1IYmdVU2VKZEs4YjZxR1NtMVUzbDNPRmw1bDhzd3hKWVJiS004QXozRTJyOUFidF9LN3NLS3dEX1FGVXJOT3YzMXRUNE9IR1pGTS1NbXE1cnM3aXRRNDlGZ3l3czJSVXhXdndUNWc?oc=5",
     "time": "9/26(土) 5:11",
     "comments": 0,
     "tags": [
       "太陽光"
     ],
-    "summary": "三相系統連系型太陽光発電用パワーコンディショナ市場、2035年まで拡大へ――系統安定化の義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io",
+    "summary": "三相系統連系型太陽光発電用パワーコンディショナ市場、2035年まで拡大へ――系統安定化の義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;IndexBox",
     "body": [
-      "三相系統連系型太陽光発電用パワーコンディショナ市場、2035年まで拡大へ――系統安定化の義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0c429ef794f9": {
-    "id": "auto-0c429ef794f9",
-    "category": "その他",
-    "title": "SUZUKI_CARRY EV_DE_11 | Motor Fan｜自動車情報のモーターファン",
-    "source": "Motor Fan",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Bc2QybGxQS09sYk9iVDc4VWtvOGJ3WTNKbE9mSUdUNVRScGh1VUVRM1Y2cVp5NDNiZ0lYRXIzMmlXVDctdUFxZ0UwWTV3RWVBZE5WSm9PVkMzalpMb3JmYURqU3VTUUJkYURj?oc=5",
-    "time": "9/26(土) 4:45",
-    "comments": 0,
-    "tags": [
-      "EV"
-    ],
-    "summary": "SUZUKI_CARRY EV_DE_11 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan",
-    "body": [
-      "SUZUKI_CARRY EV_DE_11 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan"
+      "三相系統連系型太陽光発電用パワーコンディショナ市場、2035年まで拡大へ――系統安定化の義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
@@ -877,45 +953,6 @@
     "collected": true,
     "image": null
   },
-  "auto-fa2a7a6cc216": {
-    "id": "auto-fa2a7a6cc216",
-    "category": "技術",
-    "title": "水素燃料電池船「まほろば」、東京港での運航に向け愛称投票開始 「すいすい丸」、「水素丸」、「東京丸NEO」、「ハイドロシップ」、「みずなぎ」の5案 - フネコ",
-    "source": "Funeco",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1LUI2aVhwTFJXMWN6Z01Gcm04aEN4NmpFWTZCLVVVVl9FcGsyeVNyMmpLZnZHaVl4bGkwMmszOGY0S3VQUUtjeFRn?oc=5",
-    "time": "9/26(土) 2:47",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "燃料電池"
-    ],
-    "summary": "水素燃料電池船「まほろば」、東京港での運航に向け愛称投票開始 「すいすい丸」、「水素丸」、「東京丸NEO」、「ハイドロシップ」、「みずなぎ」の5案&nbsp;&nbsp;フネコ - Funeco",
-    "body": [
-      "水素燃料電池船「まほろば」、東京港での運航に向け愛称投票開始 「すいすい丸」、「水素丸」、「東京丸NEO」、「ハイドロシップ」、「みずなぎ」の5案&nbsp;&nbsp;フネコ - Funeco"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-d200e73a3ff0": {
-    "id": "auto-d200e73a3ff0",
-    "category": "その他",
-    "title": "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
-    "source": "ウォーカープラス",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KYlRUczl6Q0Z1RFAxVHk4ZU13NjItS3BpSmN1SnFvU2lqWHEtU195LUlHXzlIY0l2RTNsbUM3YlJIdEtibmJlT3dOS1pEQVJRRGs3ZUM2Wk1TOFRTNVR6ZmVXRjlqMnVISW9wWnV3?oc=5",
-    "time": "9/26(土) 2:41",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介&nbsp;&nbsp;ウォーカープラス",
-    "body": [
-      "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介&nbsp;&nbsp;ウォーカープラス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-d21f8cb08e1d": {
     "id": "auto-d21f8cb08e1d",
     "category": "その他",
@@ -936,40 +973,20 @@
     "collected": true,
     "image": null
   },
-  "auto-4552e92b5510": {
-    "id": "auto-4552e92b5510",
-    "category": "技術",
-    "title": "米国水素生成市場、CAGR 8.92％で成長し2035年552億9,000万米ドルへ｜低炭素水素・産業脱炭素化が市場拡大を牽引",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SjBDeHVCb1ZoVG9heHZLUE9aMEVxejNLYUlDdkFsNnFlMzV2VWRmNTVNa2wxU1ozME9QR0xMX0JLanpuMDNmeU13SzZoQ1U?oc=5",
-    "time": "9/26(土) 2:00",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "脱炭素"
-    ],
-    "summary": "米国水素生成市場、CAGR 8.92％で成長し2035年552億9,000万米ドルへ｜低炭素水素・産業脱炭素化が市場拡大を牽引&nbsp;&nbsp;Newscast.jp",
-    "body": [
-      "米国水素生成市場、CAGR 8.92％で成長し2035年552億9,000万米ドルへ｜低炭素水素・産業脱炭素化が市場拡大を牽引&nbsp;&nbsp;Newscast.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-e943e9540e24": {
     "id": "auto-e943e9540e24",
     "category": "技術",
     "title": "中・日の水素トラックがアクセルペダルを踏む…先行する韓国を猛追",
-    "source": "朝鮮日報",
+    "source": "chosunonline.com",
     "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlRZNDdFUFdIMU92TFhoM2JhU3dfWEVrcFc3QkRmZ1NYNms3a2p0clg5dHJDWkZSWWhQTXA4Ti1OaDdzWmVHTlprZ1ZIbmdEY1NXZXhhTDhjU285bU9ZelpwUFZlSWEtaHRxbFNseXNlM2NtQl9LSUVFcmtlNXdwbGl2QdIBfEFVX3lxTE8xVEEtMEo2ZHBKdWRmbF9QZ2h2RjJvZ2RlS1NWTkdvaTVFVkx2NV9PdmpUV2NfSk9RTUF4S1F2YWhiODBRS2ttM0FvMi1uc0VQVVNEaVdQS0x3dUt2b2lQalY4Nmg3dGtNVnlyUTNYZnZxWWxvcHdTZTJPU04?oc=5",
     "time": "9/26(土) 1:23",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "中・日の水素トラックがアクセルペダルを踏む…先行する韓国を猛追&nbsp;&nbsp;朝鮮日報",
+    "summary": "中・日の水素トラックがアクセルペダルを踏む…先行する韓国を猛追&nbsp;&nbsp;chosunonline.com",
     "body": [
-      "中・日の水素トラックがアクセルペダルを踏む…先行する韓国を猛追&nbsp;&nbsp;朝鮮日報"
+      "中・日の水素トラックがアクセルペダルを踏む…先行する韓国を猛追&nbsp;&nbsp;chosunonline.com"
     ],
     "related": [],
     "collected": true,
@@ -979,16 +996,16 @@
     "id": "auto-e7c3dc4f1a92",
     "category": "技術",
     "title": "電解槽用ニッケルフォーム集電体市場2035年予測：グリーン水素需要が成長を牽引",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMTZuV3FYV2VOV2lGZE1ueU5oV0RkVTc3YktYNEdaS282dkx3ajN3UVAybzI4djF3em5XbGRtdzFKR3UzenpXR0s1UUczSE1PbnNZR0lVS1RxNThwa24tdk1seWtZRDJSTkU0bjRsR0QtcWNCel85bzdnaEJWMDlDY3AzaGFFNld3OUQ3bXlROGYyYzNOR3BLY3pEWGNIcXJzQ1EzaEZrNGtCQkNVRzcwNGhwejQwY09aSE94TWozSXJ2TlJXdV80WVpVR2p1c2tMdXc?oc=5",
     "time": "9/25(金) 22:16",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "電解槽用ニッケルフォーム集電体市場2035年予測：グリーン水素需要が成長を牽引&nbsp;&nbsp;indexbox.io",
+    "summary": "電解槽用ニッケルフォーム集電体市場2035年予測：グリーン水素需要が成長を牽引&nbsp;&nbsp;IndexBox",
     "body": [
-      "電解槽用ニッケルフォーム集電体市場2035年予測：グリーン水素需要が成長を牽引&nbsp;&nbsp;indexbox.io"
+      "電解槽用ニッケルフォーム集電体市場2035年予測：グリーン水素需要が成長を牽引&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
@@ -1013,25 +1030,6 @@
     "collected": true,
     "image": "https://environment-and-law-kyoto.jp/wp-content/uploads/2026/05/ogp.png"
   },
-  "auto-6e77ae553f25": {
-    "id": "auto-6e77ae553f25",
-    "category": "その他",
-    "title": "バーチャルパワープラント（VPP）と系統用蓄電池の関係とは――発電所化する分散型リソースを読み解くウェビナーを開催",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90Yi1aUEUxWlBlaFRKZkMxUmZtbl9pSGxoWmU4Yi13NnNlcGhDampVX3l4aEpPU3ltMGsyWkw3X2JNdElBOGdST3A4dk9fb2hieUFQag?oc=5",
-    "time": "9/25(金) 20:18",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "バーチャルパワープラント（VPP）と系統用蓄電池の関係とは――発電所化する分散型リソースを読み解くウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "バーチャルパワープラント（VPP）と系統用蓄電池の関係とは――発電所化する分散型リソースを読み解くウェビナーを開催&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-48c1dc4d51c6": {
     "id": "auto-48c1dc4d51c6",
     "category": "技術",
@@ -1055,7 +1053,7 @@
     "id": "auto-9951dad923b0",
     "category": "その他",
     "title": "グリッドスケール定置型蓄電池用インバータ市場、2035年まで拡大へ：再生可能エネルギー連系が成長を牽引 - ニュースと統計",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUnU0QUUtbFl0WEVpZjRET0tabkZGLUlibHpmNnVtUDNLUElYbkpRWGlJeGZ1aDhPUzlDWmV3VW1TX3RMblFNVkZUeXZYNWpCVmRaTGhOZUdlS2VZMS1NcF94cVQzdXlyVElWYmVLZnc4OXBMdm5zQVN2U1pySXE4RDJ4OGVlUWJjNm1LU3l5WnRwRmUtbXY3N1drSnUxWEJPZXJDUFJsNlRtQnl2cC10REJ6WXluNjNsY3N0bVg4Z0NMMUlPZU4yS210TnpNNXlmaFp5bWs3VkFkd1pLWGww?oc=5",
     "time": "9/25(金) 15:41",
     "comments": 0,
@@ -1063,9 +1061,9 @@
       "蓄電池",
       "再生可能エネルギー"
     ],
-    "summary": "グリッドスケール定置型蓄電池用インバータ市場、2035年まで拡大へ：再生可能エネルギー連系が成長を牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io",
+    "summary": "グリッドスケール定置型蓄電池用インバータ市場、2035年まで拡大へ：再生可能エネルギー連系が成長を牽引 - ニュースと統計&nbsp;&nbsp;IndexBox",
     "body": [
-      "グリッドスケール定置型蓄電池用インバータ市場、2035年まで拡大へ：再生可能エネルギー連系が成長を牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io"
+      "グリッドスケール定置型蓄電池用インバータ市場、2035年まで拡大へ：再生可能エネルギー連系が成長を牽引 - ニュースと統計&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
@@ -1094,7 +1092,7 @@
     "id": "auto-96e337bad8c9",
     "category": "技術",
     "title": "グリーン水素電解装置市場2035年予測：再生可能エネルギー統合の義務化が生産能力拡大を加速 - ニュースと統計",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOEk5LUhMMHFfM1AwWE1DOElSV1ZqVm9ENG5EUFE5b2EtcHp4QzQyUzZReWZGd0dESXViZkNlRTU0ZktNeDJHeHotRXlESV8zZjlqZ0NMdm90OWgzUklvUWpYS213dm95bTFEVy12YkhpRGthSUZ1V3FjQkdPN1phY3pCS0J0RnRqb3JkVDlNMk1pcTFad2J5anNPaVMybXJJSDNvMTJuaVhibXdfT09SMWNja2lWNEwwa25wcFB2ZUdDNVpUMEhXYl9YOGk1WUllNF9IRnBNbjhCal9UVWZkelktWWI?oc=5",
     "time": "9/25(金) 12:56",
     "comments": 0,
@@ -1102,9 +1100,9 @@
       "水素",
       "再生可能エネルギー"
     ],
-    "summary": "グリーン水素電解装置市場2035年予測：再生可能エネルギー統合の義務化が生産能力拡大を加速 - ニュースと統計&nbsp;&nbsp;indexbox.io",
+    "summary": "グリーン水素電解装置市場2035年予測：再生可能エネルギー統合の義務化が生産能力拡大を加速 - ニュースと統計&nbsp;&nbsp;IndexBox",
     "body": [
-      "グリーン水素電解装置市場2035年予測：再生可能エネルギー統合の義務化が生産能力拡大を加速 - ニュースと統計&nbsp;&nbsp;indexbox.io"
+      "グリーン水素電解装置市場2035年予測：再生可能エネルギー統合の義務化が生産能力拡大を加速 - ニュースと統計&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
@@ -1163,6 +1161,25 @@
     "summary": "系統用蓄電池の初期投資はなぜ6.8万円/kWhなのか――価格の内訳を読み解くウェビナーを開催&nbsp;&nbsp;PR TIMES",
     "body": [
       "系統用蓄電池の初期投資はなぜ6.8万円/kWhなのか――価格の内訳を読み解くウェビナーを開催&nbsp;&nbsp;PR TIMES"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-6e77ae553f25": {
+    "id": "auto-6e77ae553f25",
+    "category": "その他",
+    "title": "バーチャルパワープラント（VPP）と系統用蓄電池の関係とは――発電所化する分散型リソースを読み解くウェビナーを開催",
+    "source": "PR TIMES",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83TjFyenV3VXRaNGlKcV8ySGc1UTBsNnF3MHh3dXhWcEJCcUFiaG8wSG9MRFhEalAzUlRjMXZPMDdEcGVZbGduaG9PV0NSWlVwWEwzeS1Jc1ZpMGx4X0NlbXZBOE5CLWUyMnc?oc=5",
+    "time": "9/25(金) 9:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "バーチャルパワープラント（VPP）と系統用蓄電池の関係とは――発電所化する分散型リソースを読み解くウェビナーを開催&nbsp;&nbsp;PR TIMES",
+    "body": [
+      "バーチャルパワープラント（VPP）と系統用蓄電池の関係とは――発電所化する分散型リソースを読み解くウェビナーを開催&nbsp;&nbsp;PR TIMES"
     ],
     "related": [],
     "collected": true,
@@ -1522,20 +1539,39 @@
     "collected": true,
     "image": null
   },
+  "auto-83ac2404406e": {
+    "id": "auto-83ac2404406e",
+    "category": "その他",
+    "title": "“圧倒的に安い”系統用蓄電池「J-BESS」を提供開始",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BbXlIQXVlMkxMMlZTMGk4azVRNzN0cXliZVplWnI4OGZsZWhMX2ZfMWd0RkcyaGZHZVhDOTE1Q1ZNM1hNUVFERHlERW9NRHZLSUl6MmwxN0V6UzM4eXhkOG55OVJ3MmJUbGtQS1pXSEt6TG9wMzlOQ1RWMA?oc=5",
+    "time": "9/24(木) 12:18",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "“圧倒的に安い”系統用蓄電池「J-BESS」を提供開始&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "“圧倒的に安い”系統用蓄電池「J-BESS」を提供開始&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-1840f6467be1": {
     "id": "auto-1840f6467be1",
     "category": "技術",
     "title": "PEM水電解システム市場、2035年まで拡大へ：グリーン水素義務化が成長を牽引 - ニュースと統計",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU3J2SlhLMFJ1YV9Jd0FHbWM3Z0l4S09iMDhCWkpzMno5T0JEb3NZNTZrYUZTdTJyT1h6VEhKV0xRUkNPQlM0YUFxLVB6R1NpbGppN1k2VFB2RjVqVmVSZ0lkQnM1T2VKUngzU0ZVOHRzZFRLbmN4RXM5Ql81QXZ5N2xLS1AtOVpjcWZGdkRWYUZBbU5ZaFRuNFBDeDc2akFua0NQTFZlXzNoYUhuNmhhNlJPRnRCeEtybzVlSU1tVnZxMzI5Qnl4SnZqbnQ4VkpvTm1rMm5PdlJhbnhXWk9lcg?oc=5",
     "time": "9/24(木) 11:46",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "PEM水電解システム市場、2035年まで拡大へ：グリーン水素義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io",
+    "summary": "PEM水電解システム市場、2035年まで拡大へ：グリーン水素義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;IndexBox",
     "body": [
-      "PEM水電解システム市場、2035年まで拡大へ：グリーン水素義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;indexbox.io"
+      "PEM水電解システム市場、2035年まで拡大へ：グリーン水素義務化が成長を牽引 - ニュースと統計&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
@@ -1579,6 +1615,25 @@
     "related": [],
     "collected": true,
     "image": null
+  },
+  "auto-aff69809fbee": {
+    "id": "auto-aff69809fbee",
+    "category": "暮らし",
+    "title": "Shizen Connect、家庭用蓄電システムの自端制御機能を用いた需給調整市場一次調整力に対応",
+    "source": "Infoseek",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jV3RscnhSOHZ6R0Iycm1KQzdfVGZIMGZLZ3hNRzFFaGxCMURSdmwwdWN6eUxnd0NYcDlsbDFTWV9va2F1dnVwd2I3bmxrdk9LYXQ5OS1LbzNyUjN4WjBROGVKQTU5cnJ5MmJWRGVOUm03Zw?oc=5",
+    "time": "9/24(木) 9:15",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "Shizen Connect、家庭用蓄電システムの自端制御機能を用いた需給調整市場一次調整力に対応&nbsp;&nbsp;Infoseek",
+    "body": [
+      "Shizen Connect、家庭用蓄電システムの自端制御機能を用いた需給調整市場一次調整力に対応&nbsp;&nbsp;Infoseek"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/168657/51/168657-51-f2b0eaaf283d5ab878e4c0e4b0110a77-960x540.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "auto-b61a7538d861": {
     "id": "auto-b61a7538d861",
@@ -1695,103 +1750,6 @@
     "collected": true,
     "image": null
   },
-  "auto-83ac2404406e": {
-    "id": "auto-83ac2404406e",
-    "category": "その他",
-    "title": "“圧倒的に安い”系統用蓄電池「J-BESS」を提供開始",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lUGx6Sl9Rblg1M0VBNTVSWWtFT090LV92M2lLYWtzYWt6Um9SekZVdTd5NENldnFNNW9FbVhWd25NR1o2ejBIMGlwMWdEYW9mR1ZIVi1vcm9WYUdmZk5iY05uZ2ZHWnFRX2c?oc=5",
-    "time": "9/24(木) 3:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "“圧倒的に安い”系統用蓄電池「J-BESS」を提供開始&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "“圧倒的に安い”系統用蓄電池「J-BESS」を提供開始&nbsp;&nbsp;PR TIMES"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-74fef5479dab": {
-    "id": "auto-74fef5479dab",
-    "category": "技術",
-    "title": "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR 50.7%で脱炭素社会の新たな供給源として注目",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQkJyN0p4SEVrRmE4dkFnZVpMLVltb3YyNmtvYjdBa2FTRE9LZHJQMS10bHlNazlnRkVHT3p1eTdXWEQ3dzZHM1ZLR3duV0U?oc=5",
-    "time": "9/24(木) 3:00",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "脱炭素"
-    ],
-    "summary": "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR 50.7%で脱炭素社会の新たな供給源として注目&nbsp;&nbsp;Newscast.jp",
-    "body": [
-      "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR 50.7%で脱炭素社会の新たな供給源として注目&nbsp;&nbsp;Newscast.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-e3753f79841e": {
-    "id": "auto-e3753f79841e",
-    "category": "技術",
-    "title": "トヨタ・ハイラックスはまもなく水素燃料電池搭載モデルを発売する予定だ。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pR0tUbGxGOUo2aGpOa2I5SDhRS3Y3U1NrSmtLRTIxeURPUllEN3JGenlfQkY2TlJ5UFRPaU5NWU1JTXV5VUsxTUNwbklPS3h0V081TkZNVUNDdlh6a3ZMV0RkUGJpY1dUVWFVN0liY0tWbmdnZGVmd3pwZw?oc=5",
-    "time": "9/24(木) 2:06",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "燃料電池"
-    ],
-    "summary": "トヨタ・ハイラックスはまもなく水素燃料電池搭載モデルを発売する予定だ。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "トヨタ・ハイラックスはまもなく水素燃料電池搭載モデルを発売する予定だ。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-361a606bc86a": {
-    "id": "auto-361a606bc86a",
-    "category": "その他",
-    "title": "蓄電池の運用最適化に向けたエネルギーマネジメント実証を開始",
-    "source": "Digital PR Platform",
-    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KM3dDVERvLTZtRjFKTkxUSWNzRVpLM2NFSllRSkVONXNqU3h4a3dVOV81TmZsd2xucTBjbTJYN2oxWkU?oc=5",
-    "time": "9/24(木) 2:01",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "蓄電池の運用最適化に向けたエネルギーマネジメント実証を開始&nbsp;&nbsp;Digital PR Platform",
-    "body": [
-      "蓄電池の運用最適化に向けたエネルギーマネジメント実証を開始&nbsp;&nbsp;Digital PR Platform"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-32f46e70f8a1": {
-    "id": "auto-32f46e70f8a1",
-    "category": "自治体",
-    "title": "エコな行動や省エネ機器の導入でポイントが貯まる！板橋区「いたばしエコポイント事業」を10月1日から開始",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dWg0NzMzeTNvNDU5RjVQX3dyQmJGVGp4QnZBWVhObmp4aVZ0OGRnOGRoYUxTZDlNSXBuVnpWU1NIM2dTMVpTbVBycVR6YkVOTUp1YzhMTG9BTnRrUEJKSFR5ejJ0ZlJQWGFHTm9n?oc=5",
-    "time": "9/24(木) 1:21",
-    "comments": 0,
-    "tags": [
-      "省エネ"
-    ],
-    "summary": "エコな行動や省エネ機器の導入でポイントが貯まる！板橋区「いたばしエコポイント事業」を10月1日から開始&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "エコな行動や省エネ機器の導入でポイントが貯まる！板橋区「いたばしエコポイント事業」を10月1日から開始&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-9de51d5fae99": {
     "id": "auto-9de51d5fae99",
     "category": "その他",
@@ -1868,6 +1826,26 @@
     "related": [],
     "collected": true,
     "image": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/16/2000001552/10006734/2048"
+  },
+  "auto-e0a150018eab": {
+    "id": "auto-e0a150018eab",
+    "category": "技術",
+    "title": "トヨタ、水素トラックで欧州「連合体」 大手との協業を発表 - 日本経済新聞",
+    "source": "はてなブックマーク",
+    "source_url": "https://www.nikkei.com/article/DGXZQOFD130LI0T10C26A9000000/",
+    "time": "9/15(火) 7:50",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "燃料電池"
+    ],
+    "summary": "【ハノーバー（独北部）=浅山亮】世界最大の商用車見本市「IAAトランスポーテーション」が14日、ドイツ北部ハノーバーで開幕した。トヨタ自動車は燃料電池（FC）の新システムのほか、欧州大手との協業を発表した。商用車の輪を広げ、水素の価格やインフラの課題を克服する。14日午前10時（…",
+    "body": [
+      "【ハノーバー（独北部）=浅山亮】世界最大の商用車見本市「IAAトランスポーテーション」が14日、ドイツ北部ハノーバーで開幕した。トヨタ自動車は燃料電池（FC）の新システムのほか、欧州大手との協業を発表した。商用車の輪を広げ、水素の価格やインフラの課題を克服する。14日午前10時（日本時間午後5時）過ぎ、見本市..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3596814014092026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=bd8f45cd5179f6fdce741761ee87b3ce"
   },
   "auto-002ee3bf752b": {
     "id": "auto-002ee3bf752b",
@@ -2484,44 +2462,6 @@
     "related": [],
     "collected": true,
     "image": "https://s.tgstc.com/ogp3/162d21cb5b944d997d94834420e331d9-1200x630.jpeg"
-  },
-  "auto-61aa031edc88": {
-    "id": "auto-61aa031edc88",
-    "category": "技術",
-    "title": "北海道大学で薬品浴びて大学院生死亡 猛毒の「フッ化水素酸」 | 毎日新聞",
-    "source": "はてなブックマーク",
-    "source_url": "https://mainichi.jp/articles/20260827/k00/00m/040/163000c",
-    "time": "8/27(木) 17:21",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 北海道警と消防は、搬送された3人は軽傷で命に別条はないと説明していた。関…",
-    "body": [
-      "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 北海道警と消防は、搬送された3人は軽傷で命に別条はないと説明していた。関係者によると、死亡した..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://cdn.mainichi.jp/vol1/2026/08/27/20260827k0000m040164000p/0c10.jpg?1"
-  },
-  "auto-663a1a6de28d": {
-    "id": "auto-663a1a6de28d",
-    "category": "技術",
-    "title": "北海道大学で薬品浴びて大学院生死亡 猛毒の「フッ化水素酸」（毎日新聞） - Yahoo!ニュース",
-    "source": "はてなブックマーク",
-    "source_url": "https://news.yahoo.co.jp/articles/3b063ad6e3b4e38c3146acab7e91d7085e196e2c",
-    "time": "8/27(木) 17:09",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 【画像】汚染されたらただちに… 猛毒「フッ化水素酸」とは 北海道警と消防…",
-    "body": [
-      "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 【画像】汚染されたらただちに… 猛毒「フッ化水素酸」とは 北海道警と消防は、搬送された3人は軽傷..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00000043-mai-000-12-view.jpg?exp=10800"
   },
   "auto-b45a72261e1d": {
     "id": "auto-b45a72261e1d",
@@ -4382,6 +4322,200 @@
     "collected": true,
     "image": null
   },
+  "auto-0c429ef794f9": {
+    "id": "auto-0c429ef794f9",
+    "category": "その他",
+    "title": "SUZUKI_CARRY EV_DE_11 | Motor Fan｜自動車情報のモーターファン",
+    "source": "Motor Fan",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Bc2QybGxQS09sYk9iVDc4VWtvOGJ3WTNKbE9mSUdUNVRScGh1VUVRM1Y2cVp5NDNiZ0lYRXIzMmlXVDctdUFxZ0UwWTV3RWVBZE5WSm9PVkMzalpMb3JmYURqU3VTUUJkYURj?oc=5",
+    "time": "9/26(土) 4:45",
+    "comments": 0,
+    "tags": [
+      "EV"
+    ],
+    "summary": "SUZUKI_CARRY EV_DE_11 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan",
+    "body": [
+      "SUZUKI_CARRY EV_DE_11 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-fa2a7a6cc216": {
+    "id": "auto-fa2a7a6cc216",
+    "category": "技術",
+    "title": "水素燃料電池船「まほろば」、東京港での運航に向け愛称投票開始 「すいすい丸」、「水素丸」、「東京丸NEO」、「ハイドロシップ」、「みずなぎ」の5案 - フネコ",
+    "source": "Funeco",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1LUI2aVhwTFJXMWN6Z01Gcm04aEN4NmpFWTZCLVVVVl9FcGsyeVNyMmpLZnZHaVl4bGkwMmszOGY0S3VQUUtjeFRn?oc=5",
+    "time": "9/26(土) 2:47",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "燃料電池"
+    ],
+    "summary": "水素燃料電池船「まほろば」、東京港での運航に向け愛称投票開始 「すいすい丸」、「水素丸」、「東京丸NEO」、「ハイドロシップ」、「みずなぎ」の5案&nbsp;&nbsp;フネコ - Funeco",
+    "body": [
+      "水素燃料電池船「まほろば」、東京港での運航に向け愛称投票開始 「すいすい丸」、「水素丸」、「東京丸NEO」、「ハイドロシップ」、「みずなぎ」の5案&nbsp;&nbsp;フネコ - Funeco"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-d200e73a3ff0": {
+    "id": "auto-d200e73a3ff0",
+    "category": "その他",
+    "title": "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
+    "source": "ウォーカープラス",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KYlRUczl6Q0Z1RFAxVHk4ZU13NjItS3BpSmN1SnFvU2lqWHEtU195LUlHXzlIY0l2RTNsbUM3YlJIdEtibmJlT3dOS1pEQVJRRGs3ZUM2Wk1TOFRTNVR6ZmVXRjlqMnVISW9wWnV3?oc=5",
+    "time": "9/26(土) 2:41",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介&nbsp;&nbsp;ウォーカープラス",
+    "body": [
+      "画像2 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介&nbsp;&nbsp;ウォーカープラス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-4552e92b5510": {
+    "id": "auto-4552e92b5510",
+    "category": "技術",
+    "title": "米国水素生成市場、CAGR 8.92％で成長し2035年552億9,000万米ドルへ｜低炭素水素・産業脱炭素化が市場拡大を牽引",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SjBDeHVCb1ZoVG9heHZLUE9aMEVxejNLYUlDdkFsNnFlMzV2VWRmNTVNa2wxU1ozME9QR0xMX0JLanpuMDNmeU13SzZoQ1U?oc=5",
+    "time": "9/26(土) 2:00",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "脱炭素"
+    ],
+    "summary": "米国水素生成市場、CAGR 8.92％で成長し2035年552億9,000万米ドルへ｜低炭素水素・産業脱炭素化が市場拡大を牽引&nbsp;&nbsp;Newscast.jp",
+    "body": [
+      "米国水素生成市場、CAGR 8.92％で成長し2035年552億9,000万米ドルへ｜低炭素水素・産業脱炭素化が市場拡大を牽引&nbsp;&nbsp;Newscast.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-74fef5479dab": {
+    "id": "auto-74fef5479dab",
+    "category": "技術",
+    "title": "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR 50.7%で脱炭素社会の新たな供給源として注目",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQkJyN0p4SEVrRmE4dkFnZVpMLVltb3YyNmtvYjdBa2FTRE9LZHJQMS10bHlNazlnRkVHT3p1eTdXWEQ3dzZHM1ZLR3duV0U?oc=5",
+    "time": "9/24(木) 3:00",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "脱炭素"
+    ],
+    "summary": "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR 50.7%で脱炭素社会の新たな供給源として注目&nbsp;&nbsp;Newscast.jp",
+    "body": [
+      "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR 50.7%で脱炭素社会の新たな供給源として注目&nbsp;&nbsp;Newscast.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-e3753f79841e": {
+    "id": "auto-e3753f79841e",
+    "category": "技術",
+    "title": "トヨタ・ハイラックスはまもなく水素燃料電池搭載モデルを発売する予定だ。",
+    "source": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pR0tUbGxGOUo2aGpOa2I5SDhRS3Y3U1NrSmtLRTIxeURPUllEN3JGenlfQkY2TlJ5UFRPaU5NWU1JTXV5VUsxTUNwbklPS3h0V081TkZNVUNDdlh6a3ZMV0RkUGJpY1dUVWFVN0liY0tWbmdnZGVmd3pwZw?oc=5",
+    "time": "9/24(木) 2:06",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "燃料電池"
+    ],
+    "summary": "トヨタ・ハイラックスはまもなく水素燃料電池搭載モデルを発売する予定だ。&nbsp;&nbsp;Vietnam.vn",
+    "body": [
+      "トヨタ・ハイラックスはまもなく水素燃料電池搭載モデルを発売する予定だ。&nbsp;&nbsp;Vietnam.vn"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-361a606bc86a": {
+    "id": "auto-361a606bc86a",
+    "category": "その他",
+    "title": "蓄電池の運用最適化に向けたエネルギーマネジメント実証を開始",
+    "source": "Digital PR Platform",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KM3dDVERvLTZtRjFKTkxUSWNzRVpLM2NFSllRSkVONXNqU3h4a3dVOV81TmZsd2xucTBjbTJYN2oxWkU?oc=5",
+    "time": "9/24(木) 2:01",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "蓄電池の運用最適化に向けたエネルギーマネジメント実証を開始&nbsp;&nbsp;Digital PR Platform",
+    "body": [
+      "蓄電池の運用最適化に向けたエネルギーマネジメント実証を開始&nbsp;&nbsp;Digital PR Platform"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-32f46e70f8a1": {
+    "id": "auto-32f46e70f8a1",
+    "category": "自治体",
+    "title": "エコな行動や省エネ機器の導入でポイントが貯まる！板橋区「いたばしエコポイント事業」を10月1日から開始",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dWg0NzMzeTNvNDU5RjVQX3dyQmJGVGp4QnZBWVhObmp4aVZ0OGRnOGRoYUxTZDlNSXBuVnpWU1NIM2dTMVpTbVBycVR6YkVOTUp1YzhMTG9BTnRrUEJKSFR5ejJ0ZlJQWGFHTm9n?oc=5",
+    "time": "9/24(木) 1:21",
+    "comments": 0,
+    "tags": [
+      "省エネ"
+    ],
+    "summary": "エコな行動や省エネ機器の導入でポイントが貯まる！板橋区「いたばしエコポイント事業」を10月1日から開始&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "エコな行動や省エネ機器の導入でポイントが貯まる！板橋区「いたばしエコポイント事業」を10月1日から開始&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-61aa031edc88": {
+    "id": "auto-61aa031edc88",
+    "category": "技術",
+    "title": "北海道大学で薬品浴びて大学院生死亡 猛毒の「フッ化水素酸」 | 毎日新聞",
+    "source": "はてなブックマーク",
+    "source_url": "https://mainichi.jp/articles/20260827/k00/00m/040/163000c",
+    "time": "8/27(木) 17:21",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 北海道警と消防は、搬送された3人は軽傷で命に別条はないと説明していた。関…",
+    "body": [
+      "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 北海道警と消防は、搬送された3人は軽傷で命に別条はないと説明していた。関係者によると、死亡した..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://cdn.mainichi.jp/vol1/2026/08/27/20260827k0000m040164000p/0c10.jpg?1"
+  },
+  "auto-663a1a6de28d": {
+    "id": "auto-663a1a6de28d",
+    "category": "技術",
+    "title": "北海道大学で薬品浴びて大学院生死亡 猛毒の「フッ化水素酸」（毎日新聞） - Yahoo!ニュース",
+    "source": "はてなブックマーク",
+    "source_url": "https://news.yahoo.co.jp/articles/3b063ad6e3b4e38c3146acab7e91d7085e196e2c",
+    "time": "8/27(木) 17:09",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 【画像】汚染されたらただちに… 猛毒「フッ化水素酸」とは 北海道警と消防…",
+    "body": [
+      "27日午前、札幌市北区の北海道大理学部で、学生3人に薬品がかかる事故があった。関係者によると、大学院の男子学生が病院に搬送されたが、間もなく死亡した。他の2人は軽傷。薬品は猛毒の「フッ化水素酸」とみられる。 【画像】汚染されたらただちに… 猛毒「フッ化水素酸」とは 北海道警と消防は、搬送された3人は軽傷..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00000043-mai-000-12-view.jpg?exp=10800"
+  },
   "auto-00b74a3119f8": {
     "id": "auto-00b74a3119f8",
     "category": "企業",
@@ -4819,44 +4953,6 @@
     "summary": "水素エネルギー貯蔵国内メーカーとシェア&nbsp;&nbsp;pando.life",
     "body": [
       "水素エネルギー貯蔵国内メーカーとシェア&nbsp;&nbsp;pando.life"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-181d78fcec05": {
-    "id": "auto-181d78fcec05",
-    "category": "その他",
-    "title": "クリハラントから特別高圧蓄電所向け蓄電システムを受注",
-    "source": "山陽新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdktKWE9nU1ZRREhGRl9FbE5RX1ZEWFZVSmlyWktyeVduc2VZc2lxVWluSW10UTNWWFdwNG54NmFVLXlUN3lsUXZBcXA5MWlvdkE?oc=5",
-    "time": "9/26(土) 9:25",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "クリハラントから特別高圧蓄電所向け蓄電システムを受注&nbsp;&nbsp;山陽新聞",
-    "body": [
-      "クリハラントから特別高圧蓄電所向け蓄電システムを受注&nbsp;&nbsp;山陽新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-393e48f311bb": {
-    "id": "auto-393e48f311bb",
-    "category": "その他",
-    "title": "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催",
-    "source": "山陽新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VdVAtYl9GZlM0YW9oMlMyZWFvRm1lSGN2dENVaE1QenZ4VVVQaEdkMHByMldxR2s3SjhBQVV0NlN0MlAxdms2b194aFVGR3phT1E?oc=5",
-    "time": "9/26(土) 8:35",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催&nbsp;&nbsp;山陽新聞",
-    "body": [
-      "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催&nbsp;&nbsp;山陽新聞"
     ],
     "related": [],
     "collected": true,
@@ -10091,25 +10187,6 @@
     "related": [],
     "collected": true,
     "image": null
-  },
-  "auto-aff69809fbee": {
-    "id": "auto-aff69809fbee",
-    "category": "暮らし",
-    "title": "Shizen Connect、家庭用蓄電システムの自端制御機能を用いた需給調整市場一次調整力に対応",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000051.000168657.html",
-    "time": "9/10(木) 10:00",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "[株式会社Shizen Connect] 分散型エネルギーを統合管理するVPP（*1）プラットフォーム市場シェアNo.1（*2）の株式会社Shizen Connect（以下、Shizen Connect）は、当社製エッジ機器「Shizen Box 2」が標準規格である「ECHON…",
-    "body": [
-      "[株式会社Shizen Connect] 分散型エネルギーを統合管理するVPP（*1）プラットフォーム市場シェアNo.1（*2）の株式会社Shizen Connect（以下、Shizen Connect）は、当社製エッジ機器「Shizen Box 2」が標準規格である「ECHONET Lite」（*3..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/168657/51/168657-51-f2b0eaaf283d5ab878e4c0e4b0110a77-960x540.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "auto-b484fa5f1c15": {
     "id": "auto-b484fa5f1c15",
@@ -19129,83 +19206,6 @@
     "summary": "トヨタら8社、欧州の水素モビリティ加速で連携強化…IAA Transportation 2026 1枚目の写真・画像&nbsp;&nbsp;レスポンス（Response.jp）",
     "body": [
       "トヨタら8社、欧州の水素モビリティ加速で連携強化…IAA Transportation 2026 1枚目の写真・画像&nbsp;&nbsp;レスポンス（Response.jp）"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-b960c503af0b": {
-    "id": "auto-b960c503af0b",
-    "category": "技術",
-    "title": "「電気自動車と競争するのではなく補完」...現代自動車グループ、物流・運輸における水素の役割を強調",
-    "source": "매일경제",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aeVl0WjlodUJzeVd3N0p3Zng2RHNfMjFKZTQxeTA4ZzlsOUJQOFBYYUV3YVJFazVhbXNUVnJnUVhQWDRQYVh6Z095R1FMVmhHV1pJ?oc=5",
-    "time": "9/16(水) 2:05",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "「電気自動車と競争するのではなく補完」...現代自動車グループ、物流・運輸における水素の役割を強調&nbsp;&nbsp;매일경제",
-    "body": [
-      "「電気自動車と競争するのではなく補完」...現代自動車グループ、物流・運輸における水素の役割を強調&nbsp;&nbsp;매일경제"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-4552b5a42913": {
-    "id": "auto-4552b5a42913",
-    "category": "暮らし",
-    "title": "ウィ・ソンゴン済州知事「済州の海上風力、国家電力網に優先接続…カスタマイズ型電気料金制度を推進」",
-    "source": "jp.ajunews.com",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pbnF3MU9lRlhmclZGMklUeXVZb3A4X3IxaHQ4TGcyUHI0VXRuV3NVWFI3MjhGdjNHdlRTbkg4bGVnWmdSdzd5dENJdnpiWFJFQVlyU0N2S0UzdnM?oc=5",
-    "time": "9/16(水) 2:04",
-    "comments": 0,
-    "tags": [
-      "風力"
-    ],
-    "summary": "ウィ・ソンゴン済州知事「済州の海上風力、国家電力網に優先接続…カスタマイズ型電気料金制度を推進」&nbsp;&nbsp;jp.ajunews.com",
-    "body": [
-      "ウィ・ソンゴン済州知事「済州の海上風力、国家電力網に優先接続…カスタマイズ型電気料金制度を推進」&nbsp;&nbsp;jp.ajunews.com"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-7273b493bfd5": {
-    "id": "auto-7273b493bfd5",
-    "category": "技術",
-    "title": "Hyundai Motor Group「水素車はEVの競合ではなく補完材」…韓国・済州で役割論を提示",
-    "source": "BigGo ファイナンス",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EN0lQaWJNek9kMTVKWU10bXVZWW9RZ0ZmSURNTGktTThaczhMemV0cEdRdVI0M1pEdnhiT2d5ZHo0UTNvS3NxR1UtTWxXRGZfRXYzOWdLWFZ2T1psNTdVTk9QRXZ5cVpiRUhkb1dSRjI4XzEt?oc=5",
-    "time": "9/16(水) 1:26",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "EV"
-    ],
-    "summary": "Hyundai Motor Group「水素車はEVの競合ではなく補完材」…韓国・済州で役割論を提示&nbsp;&nbsp;BigGo ファイナンス",
-    "body": [
-      "Hyundai Motor Group「水素車はEVの競合ではなく補完材」…韓国・済州で役割論を提示&nbsp;&nbsp;BigGo ファイナンス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-fb22b25e0c0c": {
-    "id": "auto-fb22b25e0c0c",
-    "category": "国際",
-    "title": "日本製鉄 欧州の事業拠点U. S. Steel Košiceにおいて持続的成長と脱炭素を両立する9億ユーロの投資を決定",
-    "source": "okinawatimes.co.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fTTVrY3p4ZGhJX1lDN2pYejFBUHR6cU5USlNHc053UlAwOFBxWkMxX0FsRWo2ODJ1OXBTS3NrYm5EYXB2cXRHQkpvTWc1OTlVMlNRcDE5WFJSMV9MdFE?oc=5",
-    "time": "9/16(水) 1:02",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "日本製鉄 欧州の事業拠点U. S. Steel Košiceにおいて持続的成長と脱炭素を両立する9億ユーロの投資を決定&nbsp;&nbsp;okinawatimes.co.jp",
-    "body": [
-      "日本製鉄 欧州の事業拠点U. S. Steel Košiceにおいて持続的成長と脱炭素を両立する9億ユーロの投資を決定&nbsp;&nbsp;okinawatimes.co.jp"
     ],
     "related": [],
     "collected": true,
