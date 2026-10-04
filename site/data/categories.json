@@ -21,13 +21,13 @@
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 49
+    "count": 48
   },
   {
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 243
+    "count": 241
   },
   {
     "slug": "life",
@@ -45,6 +45,6 @@
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 480
+    "count": 483
   }
 ]
