@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-fe4b9ce6caa8",
+    "title": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開",
+    "category": "自治体",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "5:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000174.000096742.html",
+    "image": null
+  },
+  {
+    "id": "auto-6707d4aa94e2",
+    "title": "【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "4:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000040.000107409.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/107409/40/107409-40-1f3c695e547e326165e327a31703aa66-1292x855.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-e72067da661a",
     "title": "【モンゴル草原回復クレジット化】Green Carbon、モンゴル国アルタンブラグ・ソム地方政府とMOU｜約15,000haの草原で実証し、約16,000tのクレジット創出ポテンシャルに拡大予定",
     "category": "企業",
@@ -13,7 +33,7 @@
     "id": "auto-19b25b319086",
     "title": "東京海上アセットならびに日本工営、ブラジルでの下水汚泥を活用した「社会課題解決型バイオ炭カーボンクレジット創出プロジェクト」を本格開始",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "4:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000041.000109723.html",
@@ -23,7 +43,7 @@
     "id": "auto-f0f3ab312ff2",
     "title": "水素専焼エンジン搭載船舶 カーボンニュートラル実証航行に成功",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "3:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000540.000025872.html",
@@ -38,6 +58,106 @@
     "time": "1:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000159.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/159/122970-159-b82a82662962f8a65bda581e425be036-1041x1041.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-0672289dc0aa",
+    "title": "時流を問う／古川尚幸氏、地域特性生かした脱炭素 –",
+    "category": "自治体",
+    "accent": false,
+    "source": "電気新聞ウェブサイト",
+    "time": "21:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNS3RwcFh6c3JyUEJsZ0I4aTFhSlNKWmtTZl9xRkR6d2l6d2JKU0FBYzNnUE1nT1dFVzlzVUNpSGZrdWliZFJKSVZ5bFp2QWptLW5kZkJ2aw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-79cf5ff62eca",
+    "title": "荏原製作所の液体水素ポンプ施設稼働／世界初、実環境で試験 –",
+    "category": "技術",
+    "accent": true,
+    "source": "電気新聞ウェブサイト",
+    "time": "21:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tcWpTSC1iX0l1aDNEOHlaUVBpdDVwRlpRX2dOVjZLSWFMQjAzZHZzNFdCMTczY01YMlFHQlBBQ2t5R1p4Q0toOHdGcmxONUVvM19zRHJCRQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e58a15be9ac8",
+    "title": "データプリズムテクノロジーズ、既設太陽光を地図で可視化 –",
+    "category": "その他",
+    "accent": false,
+    "source": "電気新聞ウェブサイト",
+    "time": "21:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FVVotZ1hkVFg3YzhkNmpRbFNNdHp3UWczUnR4QXV1d0xLZjhReFYwY2pTOV9sXzFiWlVUby1pdnlKSm5lOC15RFAwOXEtbkZ2RUdEbWgzZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-368df6beb840",
+    "title": "冷凍倉庫・水素基地・DC整備…再開発進む、製鉄所跡地の将来像",
+    "category": "技術",
+    "accent": false,
+    "source": "ニュースイッチ by 日刊工業新聞社",
+    "time": "21:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tcFRCV3NCbzBVVUZXbVhJQXI3V1ZHOWxGZ1V0aXhTU0NnQ1dlbVpOUWFtNVIyalpxa0xoQS16WTVNZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a7504b7c8bce",
+    "title": "燃料電池無人航空機市場の分析：市場規模は2026年から2033年にかけて年平均成長率（C",
+    "category": "技術",
+    "accent": true,
+    "source": "pando.life",
+    "time": "20:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FcS04VXBIRFV4NGVhdWRCRE44WUFFMWNyYjFwNTQxYjNuQXJ5SEJaWkFZZU94NEFYeGQ5U1Z1VGJXeXRXblVuWkxn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a7fa7e4181d1",
+    "title": "住金鉱、天然水素の生成・回収研究 ＮＥＤＯに採択",
+    "category": "技術",
+    "accent": false,
+    "source": "化学工業日報 電子版",
+    "time": "20:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZOFFrOElyOE9sVmQzc2gtaUtYazlScG1BWlNFWk5XNGlzVHlsRlRXQ3hwT01pSEREOE9CRlRkN1BaLS1yQVBXQXhzYlhpYVVobkF3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-96de1a38ccf8",
+    "title": "学者が斬る・視点争点：脱炭素の担い手を“学び直し”で育てるオーストリア 石倉研",
+    "category": "その他",
+    "accent": false,
+    "source": "週刊エコノミスト Online",
+    "time": "20:01",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vZVJDelZTYllrb3N6WkFJOHZmcmRKMElYYUNSODBNdjJ3TVlWR29HX0YtZi1kd0RvMUo4UjdGdUFwcklJZk1TTEw3UmdwZlZ5RjJpQzZwOGl1UmlPQjN4b0RLTFE2VzYzTDBLWHA2OFVGTXBZRzZkQTM2UDhndVU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f99328ebf30e",
+    "title": "しんきんビジネスフェア出展企業紹介 幅広い施設の省エネ・ 脱炭素をサポート ＦＧＬ",
+    "category": "その他",
+    "accent": true,
+    "source": "中部経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWkVPV2xxZXJ6UmRPcEhmeDVtOV90THNXV3BZTUxjWERTVm9FVDJvVzE2dlQwVUgzX0lxNnVldEg2S2JxQmFwTS1wcnVPMDFhejNYRGlWSE1ab3RxaEc3RElEYlR1a0llZWdNNVNIT190cms?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c944fdcee95b",
+    "title": "東京ガス、下水処理場のCO2で都市ガス代替 地産地消型の脱炭素で法人需要開拓",
+    "category": "自治体",
+    "accent": false,
+    "source": "日経ビジネス電子版",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmNsX05WN1JNdzZENVRqNmNScmhVR3BSME51M2VhM2szbURHaG1GTnhBWXZ6MVRMQ1NIRjFFd2FXZllvV0Z1SWJfeXEyeXNPYWZEZUxaQlhFNDVkc2VrcGZKMzBEQkgyTFNKRjdhUWRkczJrdjZRVzVpem5WMzM5Qm1jNnBIZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c9fa92f8e1e3",
+    "title": "地熱、アワリーマッチで再び脚光 眠る世界3位の資源量",
+    "category": "国際",
+    "accent": false,
+    "source": "nikkei.com",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWhzSGV5SXYySkFhUHJqOHNZM1NUWFA3b05UUWdtV0xISTZYdFpJS0pGdE5zRmVoUi1TUkNhUlI0WE9WSE1aaXU5dEtmSzh5QzNLbmZOZ1k5bDB6UW5TZmhoNVhfSXZEZVlCUDBPRkpWUTBybjlJQi1POGNaSGJNbngyWS1VR21NU2Zqck1rYVE2c3JFNnp5Rw?oc=5",
+    "image": null
   },
   {
     "id": "auto-ea5d9b0b8bd7",
@@ -170,133 +290,13 @@
     "image": null
   },
   {
-    "id": "auto-cd137d6b20e6",
-    "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始 - yama.minato-yamaguchi.co.jp",
+    "id": "auto-a49bf0e8fefa",
+    "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始",
     "category": "その他",
     "accent": false,
-    "source": "検索: 洋上風力・太陽光",
+    "source": "山口新聞 電子版",
     "time": "13:00",
     "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EY25QSW1tOWd3NjhqMm1TWjR3a0hhY0NVTXNlRnBoVG93WWNZbXpnejZ2cFF3N0wtTEt1QzY4WkdPSWFWWmVBcHBGUU9nMWdkNjYzMFBRMDVlLWtyVXVUTV9BeGhYSWZmbDVFbjZkMDVsU2tDMmdj?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9266fc8f665c",
-    "title": "工場設備の省エネ、熱電併給システムも補助 中小の脱炭素支援",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "13:00",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJb1hTaEpEUUZJUFh2Q3U5VkNqZWRjRjVCb2ZyUzZBNTZLT0JBakNQVFcyZEstVDMweUZjX1ZCcDd5ZUpKa2tGeERCbF9QbENtMzlXY2htOUsxeXVNci15NEdLY2dVd2FzYjVkSw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-76c2a9e2d94c",
-    "title": "FIP太陽光発電所由来の「非FIT非化石証書」相対取引を開始 - yama.minato-yamaguchi.co.jp",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "12:38",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XWW1QTm9ueDVIcnc1bmNhakdzVmZZV2tWekJRMkdWVjEyVGNWRnFPbmpOSzFUUlBNUHF6MGtlaGpZNW9Ud3k3bUhqenR4NzJTMWQ4cHF6LVFMNlYyb2VjSzZmWmpBeUdSSl8zeU91UWQwaFlFWjJz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ea11727368dd",
-    "title": "画像13 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "12:37",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VWHRHRmhNc1NTSGl6RWpubzg1SlFNemNnRUR1dHdscTJvQ0RfV2w3VzhjWU1FUTdmNmRGaU9OM3c4Mmx6YkpNb3BBZF9IMV9VSDFZYUxhcVJiZzJBNG5pLUxnbDRlbmhMY0drNTdR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d7d186732bdd",
-    "title": "ティエンタン太陽光発電ニントゥアン発電所で消火訓練が実施された。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "12:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFJzTXdmRHRpNm9yYVQxUlZpYlhPa0tRVV9ZQU04eWxrd1M0X2tOT3R1b29SanhFQzdhWU5qZm1GZXlBNGdRR1BhT3YzaWhRczcwWjUyN0JvMHA1eFBBLV9PeHVzWFdaWGZRaTNyNFJxRDN0UjhHaENVa254dU1ydnJUWmQ1RUlPdDNuUEh6RjFqOWdHel8xTlcxZDdMV0R4c3RxTk1iX3JpeGc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-00ab2057b541",
-    "title": "タイヤ熱分解油市場は2035年まで拡大へ：海運の脱炭素化と循環経済政策が成長を牽引 - ニュースと統計",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "11:36",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2xHUUFONjN0VmRKYndvN3BMS2VqSkNuLUluaHh3SV91dXYxX2N4WHFVSDVMdnRIbnFtZE1ZbjRTMWRvc0VJS2FqbjFMZFZ2OFhrTWJxZmJNdTU2eVlJY3R5TEJzOThHWGhyVWw1QjgwYUxDMnlQdHBVTllzRlpYOUR3aXF4c21LaGE3SGRUbmkyVHoxSnd5MWxhelctQ1lWbElqaUJPaDdUZWZWZ3ZwOHRiU3RoVGlUb3V2YTNETnpfM3VPOGFF?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3d7868961f37",
-    "title": "【太陽光発電】カクイチ、ウイングアーク1stの「MotionBoard」と「dejiren AI」で全国1万7000カ所以上の設備におけるデータの異常値を早期検知",
-    "category": "その他",
-    "accent": false,
-    "source": "ctiweb.co.jp",
-    "time": "11:28",
-    "source_url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMWR0Z0tld0lhcmdTWlhaM1JCOE5HNWRsY2dEZU5USUZyRDJ6Z202Ny0wQ1BrVVE3a3VXSXVoWDlKd0lXYXc4ZkZIeDJGZ3N4U0J6YnJWWGQwOEtwNDRLamFoR21GRlRYdko5MzFuN0RzWXowb3g0UXRKWV9IWVZfbEw3VFZ1Z19PWFo0T1o0YjIxb2F0YTZqVFpubDIwbl9zemw3UjVpcDVXeVVReWk1QXdzWlJDcXZaZmlfa0JzRU9UdnRZSV9LM3JKbEJodk9KaVpkS3ZXRC1ISV9mZ2lXQlBiQ0pQZDR6MGpSQ3NjMnI4Umpwb3Nadk9US2pPY01nbTdJM0x2NkZOTVpaOVNNVzFvUy1EWnczNlh1X1h0ZS1lTE9BS181V3VBZmJZQ0poWVpZdVBIdC1CbEVad19mWU43M0ZxODJqN0dmSXA0ZmI3MkIwaWE1TA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-11834aff0e39",
-    "title": "洋上風力発電の基礎構造物を製造する「笠岡モノパイル製作所」で太陽光発電コーポレートPPAサービスの運用を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "10:46",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ajh5a0tONGFLMmk5U3lfM2N2WnBTdFU1dElhdnFzNHY3Ti1QQlZSbzMxekJmUExOYjhHbVVCRTRFbUpDX2haRFRLM3YwZmJ0ZHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-21e00caff8f9",
-    "title": "再生可能エネルギー国内メーカーとシェア",
-    "category": "その他",
-    "accent": true,
-    "source": "pando.life",
-    "time": "10:31",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SbGVuR3dwOEVlWXp3SGg3Z1BSSTIwSDhSX01wQ2pha3pSLURqOFJoYXRaSHhkUHZHb0c4RlJDUjNrb3lCMnJTSGp3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d6c57927ee81",
-    "title": "ZIPAIRコラボデカール機発表——成田の格納庫で知った脱炭素度合いの計測方法 - Dig-it [ディグ・イット]",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "time": "9:56",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1MkJsMmtHNEVjQjRPR2kydUNpVFVOQ3Byc0VVek85UmFDbURiVHB2bUtJM0xRTzJQeGtJNlphX0Y5bHI0cHBCN0hSSFlpSnVwQmRtanpfN1FfX0t4?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ac5175250476",
-    "title": "大和ハウス工業の系統蓄電所に蓄電システムを納入 - yama.minato-yamaguchi.co.jp",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 再生可能エネルギー",
-    "time": "9:54",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xZVFINUFtaWtSbzE5ZGZIdUoyM2tJQm9yVG4tUWtoQW9NQUhjUkl5a0w0LWpick45cC1GNUdVTlg2Y3RpOUxoVmsxcnh1ZnRYSDI3ZGVpRi0xOXQyUUl3LThPd3hDNFhxUmwxVGpPOFg3X0ZnSnRrMQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7c5451bb2570",
-    "title": "【岡山大学】「食品カーボンフットプリント最前線」～身近なお菓子とビールから考える、環境とビジネスの新しいカタチ～〔9/30,水 ハイブリッド開催〕",
-    "category": "その他",
-    "accent": true,
-    "source": "山陽新聞",
-    "time": "9:23",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80ZkEtT01FTGNsb19DYTAySzkzMzFNVklUTWtQWTNnc1RHMi1GOUlSajY2MGhmZDVCZ01nT0FxZUY0SEJFZV9YaExzS2Jacmk5ZUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a0f002f86d3d",
-    "title": "[イベント開催]あのごみ清掃員芸人と主婦節約アドバイザーから家電・節約・ごみの最旬情報を聞く！ 笑えて、学べる！みんなの講演会～雲南市脱炭素フォーラム2026～",
-    "category": "暮らし",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "8:35",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MWE9MZ2VRcGJuUVk3YVNXbkI2ZFZLWTVwangyMEJ0UDhiMXRCUU90MjBURjNCdGYwNklad3FkWFpKM1VQY2c1Ul9Sd1prN19aN1E?oc=5",
     "image": null
   }
 ]
