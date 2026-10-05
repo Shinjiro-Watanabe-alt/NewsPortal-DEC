@@ -1,9 +1,5 @@
 [
   {
-    "keyword": "H24",
-    "trend": ""
-  },
-  {
     "keyword": "グリーン水素",
     "trend": ""
   },
@@ -16,11 +12,11 @@
     "trend": ""
   },
   {
-    "keyword": "CO2CO2",
+    "keyword": "H24",
     "trend": ""
   },
   {
-    "keyword": "アンモニア混焼",
+    "keyword": "CO2CO2",
     "trend": ""
   },
   {
@@ -30,5 +26,9 @@
   {
     "keyword": "成長戦略",
     "trend": ""
+  },
+  {
+    "keyword": "CAMEL87",
+    "trend": "NEW"
   }
 ]
