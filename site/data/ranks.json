@@ -1,10 +1,10 @@
 [
   {
-    "keyword": "グリーン水素",
+    "keyword": "H24",
     "trend": ""
   },
   {
-    "keyword": "H24",
+    "keyword": "グリーン水素",
     "trend": ""
   },
   {
@@ -12,12 +12,12 @@
     "trend": ""
   },
   {
-    "keyword": "CO2CO2",
+    "keyword": "JC-STAR",
     "trend": ""
   },
   {
-    "keyword": "JC-STAR",
-    "trend": "NEW"
+    "keyword": "CO2CO2",
+    "trend": ""
   },
   {
     "keyword": "アンモニア混焼",
@@ -25,7 +25,7 @@
   },
   {
     "keyword": "バイオマス",
-    "trend": "NEW"
+    "trend": ""
   },
   {
     "keyword": "成長戦略",
