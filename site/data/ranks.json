@@ -12,10 +12,6 @@
     "trend": ""
   },
   {
-    "keyword": "H24",
-    "trend": ""
-  },
-  {
     "keyword": "CO2CO2",
     "trend": ""
   },
@@ -29,6 +25,10 @@
   },
   {
     "keyword": "CAMEL87",
+    "trend": ""
+  },
+  {
+    "keyword": "CSD-04",
     "trend": "NEW"
   }
 ]
