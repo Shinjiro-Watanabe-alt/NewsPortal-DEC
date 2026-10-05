@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-fe4b9ce6caa8",
-    "title": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開",
-    "summary": "[サステナブルホールディングス株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/96742/174/96742-174-db15442870d7114f7e974829b167860c-1672x941.png?…",
-    "category": "自治体",
+    "id": "auto-6606f6839142",
+    "title": "操電、取締役会を設置し経営体制を強化。監査役として岩田 淳氏を新たに選任。分散型蓄電所構築を目指す",
+    "summary": "[株式会社操電] 株式会社操電（本社：東京都中央区、代表取締役：飯野 塁）はこの度、非常勤監査役に岩田 淳氏を選任し、経営体制強化に向けた取締役会を設置したことをお知らせいたします。 背景：事業拡大に伴うガバナンス・経...",
+    "category": "企業",
     "source": "PR TIMES",
-    "time": "10/5(月) 5:40",
+    "time": "10/5(月) 9:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000174.000096742.html",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000149386.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/149386/18/149386-18-ad3d149329f7f5a043456dec8ba7735d-1500x1000.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-6707d4aa94e2",
-      "rank": 1,
-      "title": "【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/5(月) 4:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000040.000107409.html"
-    },
-    {
-      "id": "auto-e72067da661a",
-      "rank": 2,
-      "title": "【モンゴル草原回復クレジット化】Green Carbon、モンゴル国アルタンブラグ・ソム地方政府とMOU｜約15,000haの草原で実証し、約16,000tのクレジット創出ポテンシャルに拡大予定",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/5(月) 4:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000310.000117956.html"
-    },
-    {
-      "id": "auto-19b25b319086",
-      "rank": 3,
-      "title": "東京海上アセットならびに日本工営、ブラジルでの下水汚泥を活用した「社会課題解決型バイオ炭カーボンクレジット創出プロジェクト」を本格開始",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/5(月) 4:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000041.000109723.html"
-    },
-    {
       "id": "auto-f0f3ab312ff2",
-      "rank": 4,
+      "rank": 1,
       "title": "水素専焼エンジン搭載船舶 カーボンニュートラル実証航行に成功",
       "category": "技術",
       "source": "PR TIMES",
-      "time": "10/5(月) 3:40",
+      "time": "10/5(月) 9:40",
       "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000540.000025872.html"
     },
     {
+      "id": "auto-77d29ca8a2fe",
+      "rank": 2,
+      "title": "太陽光×系統用蓄電池でアワリーマッチングを実証、NTTとJERA Crossが西日本で",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "10/5(月) 7:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/05/news034.html"
+    },
+    {
       "id": "auto-20b814dd081f",
-      "rank": 5,
+      "rank": 3,
       "title": "「かながわCO2CO2(コツコツ)ポイント＋(プラス)」16事業者、神奈川県内約850店舗等に拡大して開始",
       "category": "暮らし",
       "source": "PR TIMES",
-      "time": "10/5(月) 1:10",
+      "time": "10/5(月) 7:10",
       "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000159.000122970.html"
     },
     {
-      "id": "auto-0672289dc0aa",
-      "rank": 6,
-      "title": "時流を問う／古川尚幸氏、地域特性生かした脱炭素 –",
-      "category": "自治体",
-      "source": "電気新聞ウェブサイト",
-      "time": "10/4(日) 21:03",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNS3RwcFh6c3JyUEJsZ0I4aTFhSlNKWmtTZl9xRkR6d2l6d2JKU0FBYzNnUE1nT1dFVzlzVUNpSGZrdWliZFJKSVZ5bFp2QWptLW5kZkJ2aw?oc=5"
-    },
-    {
-      "id": "auto-79cf5ff62eca",
-      "rank": 7,
-      "title": "荏原製作所の液体水素ポンプ施設稼働／世界初、実環境で試験 –",
+      "id": "auto-8e659c81d329",
+      "rank": 4,
+      "title": "水素・太陽光・モバイルバッテリー…。産業保安・安全政策の最前線に迫る！",
       "category": "技術",
-      "source": "電気新聞ウェブサイト",
-      "time": "10/4(日) 21:03",
+      "source": "経済産業省 METI Journal ONLINE",
+      "time": "10/5(月) 1:11",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tcWpTSC1iX0l1aDNEOHlaUVBpdDVwRlpRX2dOVjZLSWFMQjAzZHZzNFdCMTczY01YMlFHQlBBQ2t5R1p4Q0toOHdGcmxONUVvM19zRHJCRQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ibmo5ZFVldzRzejRWbC1mSXYtbm9ZYUJabGxkbTZRNDZGSXZXZk9renh2LW1fV2h2Uk1PWXlGOUwxQVFVZEtINWxtRkZlQ3pWTTE4MlBiQi0?oc=5"
     },
     {
-      "id": "auto-e58a15be9ac8",
-      "rank": 8,
-      "title": "データプリズムテクノロジーズ、既設太陽光を地図で可視化 –",
-      "category": "その他",
-      "source": "電気新聞ウェブサイト",
-      "time": "10/4(日) 21:03",
+      "id": "auto-57038589d9f3",
+      "rank": 5,
+      "title": "水素生成市場の見通し：2026年から2033年までの年平均成長率（CAGR）6.3％の予",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "10/5(月) 1:02",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FVVotZ1hkVFg3YzhkNmpRbFNNdHp3UWczUnR4QXV1d0xLZjhReFYwY2pTOV9sXzFiWlVUby1pdnlKSm5lOC15RFAwOXEtbkZ2RUdEbWgzZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzRE8tdG12ME5VYXVHX2ViMmw4TVNMS192aHp1QUotMi1YYkVBTzltazhra09ZWnZRS0otbk5nVERRQk5XaU5xUnhB?oc=5"
+    },
+    {
+      "id": "auto-a30b135fdb28",
+      "rank": 6,
+      "title": "水素コンプレッサーメーカー上位企業2026",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "10/5(月) 1:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nNmlPV0tFU09jWkQ0X0diOGxVZm9TLUVxc0dCUVhiTzFOWEM3MFZMaC1TSXhNeHlYZlFnUVRqNFZfb2Frc0ZKZzNR?oc=5"
+    },
+    {
+      "id": "auto-26efa5102b34",
+      "rank": 7,
+      "title": "第15回ふくしま再生可能エネルギー産業フェアをPR：福テレへようこそ",
+      "category": "技術",
+      "source": "FTV 福島テレビ",
+      "time": "10/5(月) 0:53",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsUS1iSEluQzkxZUt3VTdla3h3Tm5wNmRsQnNLcVJxMGZwNGVicEY1QnVoeG5BR3VVZFVYaFNNNlNpaXF3cTNDTDdrSy1jQkduVGp0LXhZNENXTUZuYTl6eDNkeUM0dDg?oc=5"
+    },
+    {
+      "id": "auto-045b53223dfd",
+      "rank": 8,
+      "title": "HIOKI、サプライチェーンの脱炭素化を支援",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "10/5(月) 0:39",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PNGtsZE5tWTZnN2ZUVjBDWmMwdmkyNkNUd0FFdi05YjhvUjZlYlhFWFFyaGlfeXdVZXhJN2o1NTQxT3dHcWVISUExN0tNYW1wcFRIOUJxc3BSRXh4WWFjS19vMmV2dFF0U0E?oc=5"
     }
   ]
 }

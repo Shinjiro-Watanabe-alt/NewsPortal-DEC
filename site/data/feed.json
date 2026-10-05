@@ -1,43 +1,13 @@
 [
   {
-    "id": "auto-fe4b9ce6caa8",
-    "title": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開",
-    "category": "自治体",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000174.000096742.html",
-    "image": null
-  },
-  {
-    "id": "auto-6707d4aa94e2",
-    "title": "【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "4:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000040.000107409.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/107409/40/107409-40-1f3c695e547e326165e327a31703aa66-1292x855.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-e72067da661a",
-    "title": "【モンゴル草原回復クレジット化】Green Carbon、モンゴル国アルタンブラグ・ソム地方政府とMOU｜約15,000haの草原で実証し、約16,000tのクレジット創出ポテンシャルに拡大予定",
+    "id": "auto-6606f6839142",
+    "title": "操電、取締役会を設置し経営体制を強化。監査役として岩田 淳氏を新たに選任。分散型蓄電所構築を目指す",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000310.000117956.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/117956/310/117956-310-0ac6a6d821dfd9421fb2e734b680736b-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-19b25b319086",
-    "title": "東京海上アセットならびに日本工営、ブラジルでの下水汚泥を活用した「社会課題解決型バイオ炭カーボンクレジット創出プロジェクト」を本格開始",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000041.000109723.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/109723/41/109723-41-094bd7957f80bed595053141aa1b7238-406x362.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "9:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000149386.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/149386/18/149386-18-ad3d149329f7f5a043456dec8ba7735d-1500x1000.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-f0f3ab312ff2",
@@ -45,9 +15,19 @@
     "category": "技術",
     "accent": true,
     "source": "PR TIMES",
-    "time": "3:40",
+    "time": "9:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000540.000025872.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/25872/540/25872-540-c369c8a5216a0aedc5e1e481e251c420-839x473.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-77d29ca8a2fe",
+    "title": "太陽光×系統用蓄電池でアワリーマッチングを実証、NTTとJERA Crossが西日本で",
+    "category": "技術",
+    "accent": false,
+    "source": "ITmedia スマートジャパン",
+    "time": "7:30",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/05/news034.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/05/l_rk_261005_ntt.jpg"
   },
   {
     "id": "auto-20b814dd081f",
@@ -55,9 +35,199 @@
     "category": "暮らし",
     "accent": false,
     "source": "PR TIMES",
-    "time": "1:10",
+    "time": "7:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000159.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/159/122970-159-b82a82662962f8a65bda581e425be036-1041x1041.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-8e659c81d329",
+    "title": "水素・太陽光・モバイルバッテリー…。産業保安・安全政策の最前線に迫る！",
+    "category": "技術",
+    "accent": true,
+    "source": "経済産業省 METI Journal ONLINE",
+    "time": "1:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ibmo5ZFVldzRzejRWbC1mSXYtbm9ZYUJabGxkbTZRNDZGSXZXZk9renh2LW1fV2h2Uk1PWXlGOUwxQVFVZEtINWxtRkZlQ3pWTTE4MlBiQi0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-57038589d9f3",
+    "title": "水素生成市場の見通し：2026年から2033年までの年平均成長率（CAGR）6.3％の予",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "1:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzRE8tdG12ME5VYXVHX2ViMmw4TVNMS192aHp1QUotMi1YYkVBTzltazhra09ZWnZRS0otbk5nVERRQk5XaU5xUnhB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a30b135fdb28",
+    "title": "水素コンプレッサーメーカー上位企業2026",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "1:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nNmlPV0tFU09jWkQ0X0diOGxVZm9TLUVxc0dCUVhiTzFOWEM3MFZMaC1TSXhNeHlYZlFnUVRqNFZfb2Frc0ZKZzNR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-26efa5102b34",
+    "title": "第15回ふくしま再生可能エネルギー産業フェアをPR：福テレへようこそ",
+    "category": "技術",
+    "accent": true,
+    "source": "FTV 福島テレビ",
+    "time": "0:53",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsUS1iSEluQzkxZUt3VTdla3h3Tm5wNmRsQnNLcVJxMGZwNGVicEY1QnVoeG5BR3VVZFVYaFNNNlNpaXF3cTNDTDdrSy1jQkduVGp0LXhZNENXTUZuYTl6eDNkeUM0dDg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-045b53223dfd",
+    "title": "HIOKI、サプライチェーンの脱炭素化を支援",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:39",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PNGtsZE5tWTZnN2ZUVjBDWmMwdmkyNkNUd0FFdi05YjhvUjZlYlhFWFFyaGlfeXdVZXhJN2o1NTQxT3dHcWVISUExN0tNYW1wcFRIOUJxc3BSRXh4WWFjS19vMmV2dFF0U0E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-281e304a9281",
+    "title": "仏最大の蓄電施設が稼働、市場握る中国製に変化の兆しも―仏メディア",
+    "category": "国際",
+    "accent": false,
+    "source": "news.nicovideo.jp",
+    "time": "0:33",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oajJkYXotRmlEOE5IbUpjN3F4a01ZUnVDeXhId21OREJ1MVpPOU1jR3dzenA3cGlfV1gydDdKbVlON2hXUzRlWDdiWjJiZEZyZVU0TTVFMlUtc1psYkJVU0YxNFR3azQtNkRkU1RKemZ4OU0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-04fe97e6b020",
+    "title": "金属水素化物貯蔵カートリッジ市場2035年予測：データセンターのレジリエンスが年平均12～16%成長を牽引 - ニュースと統計",
+    "category": "技術",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "0:26",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnpCZ3pTWk85Wmd5Ql84YjBEM3EwdHo3Z0ZiWndyLVRMTHdLUDBkWkpyV0FrQlczVGFqakZYaTVsdlA4UnY2Z08yNzlxT0lncjhfMmpRV2NuSUE5b0xXdHpfd0lYdnNxVjJfZHVhVjBRMEhJTWc3em1LaTh6RUtGUF9WNEFwYm9GT2RmSkZyWHhnai1FR0FXaGlLbnd6bkk4bmg5TklfSXdzTHFwOTFESHNEbnBNUmVqRTFQdnZDUml6RHlBVFpCX1ZVa3dxSGZYZTlN?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-050ea9adcc57",
+    "title": "第6部 自動車からモビリティへ（1）未来 象徴する「バイク」【脱炭素へ駆ける】：ニュース",
+    "category": "企業",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "0:09",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByNGEydlgzcjJNX0w0T3JBUm0zREVDTDRVaUlud2E0SGk1Z3NFTFgtUWF3VFY2X2RDMXVOemxyQnR4ZGpRNTd4VXJQVGoxXzlFU3ZfZU5wYTI0c0dZaFJr?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-16659dd1cc68",
+    "title": "フロンタルとeMotion Fleet、全車両にクラウド型車載器を導入し、車両・運行管理のDX/GXを推進",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZ0tGNFFvY2pOVkM4MXhxM2g3c0djSGk0SmEyOXljWWw1VzQzM0Z6ZlBHazZzS0pEcEFlczEzemFad204aS14S0ZBaVRzWUQ3S3ZkWVk4d1EzSWZpZzhoZFdqb2w4OVR1b2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b8bc09f54305",
+    "title": "【11/11（水）無料ウェビナー】2026年度GX-ETS制度（第2フェーズ）先行事例解説ウェビナー",
+    "category": "その他",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLQmMxWlMxRGJ6UElYWGtGYUcteDFvUm9NbXg1VUNOT2FXMDc2X0NYSlNLbUpSZW12VF9kdS1nLXVSTjV2MXNuT0JwR2Zta0NkcjJ0RUhSZ1JHRVBGYzBFcnlvc016S3lQc2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f1e89d3db1fd",
+    "title": "工業用ホウ水素化ナトリウムの世界市場（2026年～2032年）、市場規模（粉末タイプ、顆粒タイプ、ペレットタイプ、その他）・分析レポートを発表",
+    "category": "技術",
+    "accent": false,
+    "source": "Newscast.jp",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0eVc0UG10b1hIUVNERGJzM1AyQ25LN3VhVl83ZExvT3MzVlRhWkFaY2R5WFJkSFpQSHR4clBDeWxGbTc4TDc2YWMyZkF4Nkk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4ee62139c795",
+    "title": "木質バイオマス発電は日本で本当に脱炭素になる？輸入燃料と地域の熱利用から考える",
+    "category": "自治体",
+    "accent": false,
+    "source": "mirasus.jp",
+    "time": "23:06",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NWk5wa3VuOGpReGFUeUY0SjFCeXhNX3NidEtLcmhOUnRrUEltYU5QQ3JiRHRBRzdELUw0R0RYdTZQTHF5a3NMdE0ydWQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f78b83211e38",
+    "title": "コスモ石油ら、香川県坂出市で市民から回収した廃食用油のSAF製造での利用開始 - 四国地方初",
+    "category": "自治体",
+    "accent": true,
+    "source": "article.auone.jp",
+    "time": "22:58",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XN25ZZUNMbzVuWkxEZHVjOG9qemphQVJvNTVNWkVDc1BhUFRWZkVESHY1RTE2dHIyWFBTZl80Y29scTBDT1VsNGpJYmg3bHlyekdoZEhvVERoaDRtenJSNUg0cTZjalp1eGRWMWh3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0927874fa249",
+    "title": "【蓄電関連】RE100電力：系統用蓄電池パッケージ「J-BESS」を提供開始、JC-STAR適合機器と国産PCS・EMSを採用 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "category": "その他",
+    "accent": false,
+    "source": "検索: 再生可能エネルギー",
+    "time": "22:50",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tYmlFM3JmVlBBcFBVSXBWT0EwamJQc1NNelRwMXd4aUNheUNfcVhsRHFkeVo2TjBfaC0wdl8wMWRqT09TalpadC1pQXNEWjUtMjhEOGZwVHdIT3ZRR0N1cE1DWERKdWJZR2Q5ZGNScmh4dw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9ee83f9aa85e",
+    "title": "【太陽光発電】GoodWe：産業用パワコンでJC-STAR対応構成を展開、RS485通信と認証済みEMSの連携で安全性を確保 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "category": "その他",
+    "accent": false,
+    "source": "検索: 洋上風力・太陽光",
+    "time": "22:45",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GZzl1cUQ2V1BiY0kwc3FTaUFZOUNGOXpHVHM0T2RMRFhrYk91Z09QTEZ6eVZ2aEtQWVZpT040UXd5NHJfN3MyOVN4Z3d2TjFPX3hMc2lpc0NKVnREMU45VE9UYXIyWjdjZlhxMzdfMUtNUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d354e4168de1",
+    "title": "【案内】グリーンピース・ジャパン：再エネ促進区域の設定を学ぶ勉強会を開催、自治体への要望方法や制度活用を解説 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "category": "自治体",
+    "accent": true,
+    "source": "検索: 再生可能エネルギー",
+    "time": "22:45",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SZ0hwZ251ZDkwNzlycWI5ZzYyLTVfTElRUTVyVUxvYUZ1dzVjZG1xcl8wY2JidXNkWGpQUU9MaGRaaXM3TUhqeU82TXhKUUJqNTJvTlVLcTZXZURnLS1Yek1LbGkzVWZNaGZKU3lib1E5Zw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7012ee4840ef",
+    "title": "【脱炭素・SDGs・ESG】グリーンコープ：2027年の脱炭素実現へ8事業を推進、海藻養殖やバイオ炭で残る445トンを削減 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "category": "その他",
+    "accent": false,
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "time": "22:40",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUh6VWJaUV82YzVuUjY3R2FpTFotLURyRGNleV9fMnFSeHE0Q0VpemtpTkRwZTNlcl9aa3JGVlBOUUVwUzkybHlLNFZnR0hWakdBR083WE9HcXY3dk9TQXpaVVJiUmc5eWdKT1ZZSkNyQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ea6496271df5",
+    "title": "太陽光×系統用蓄電池でアワリーマッチングを実証、NTTとJERA Crossが西日本で：エネルギー管理 - スマートジャパン",
+    "category": "企業",
+    "accent": false,
+    "source": "ITmedia",
+    "time": "22:30",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12djd6bU1qYmo5cTFLeXBITVFoVVhDbWZLdFZUS0F3eG5Ba1lEdlhlRjRWSjFLX3Z3VGwweDFOUFRrY1ZWOVBoODRFWmpzTlZFRS14LS05NE5JN2ZNc0h3VEpGR3ppMEdwWE5FM2tTejk4bmZ5?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3b0f840e8f6b",
+    "title": "水素ベースのドラッグデリバリーシステム市場のナビゲーション：2026年から2033年まで",
+    "category": "技術",
+    "accent": true,
+    "source": "pando.life",
+    "time": "22:05",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DVnlwQ09QTHZkaUM0YU5aREczYUxfZXh5eGxueDU3QmVzWExxVGhTY2NWMTl6VVBwRFhJc3JuU1kxNXUtSnNWLVdB?oc=5",
+    "image": null
   },
   {
     "id": "auto-0672289dc0aa",
@@ -73,7 +243,7 @@
     "id": "auto-79cf5ff62eca",
     "title": "荏原製作所の液体水素ポンプ施設稼働／世界初、実環境で試験 –",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "電気新聞ウェブサイト",
     "time": "21:03",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tcWpTSC1iX0l1aDNEOHlaUVBpdDVwRlpRX2dOVjZLSWFMQjAzZHZzNFdCMTczY01YMlFHQlBBQ2t5R1p4Q0toOHdGcmxONUVvM19zRHJCRQ?oc=5",
@@ -83,7 +253,7 @@
     "id": "auto-e58a15be9ac8",
     "title": "データプリズムテクノロジーズ、既設太陽光を地図で可視化 –",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "電気新聞ウェブサイト",
     "time": "21:03",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FVVotZ1hkVFg3YzhkNmpRbFNNdHp3UWczUnR4QXV1d0xLZjhReFYwY2pTOV9sXzFiWlVUby1pdnlKSm5lOC15RFAwOXEtbkZ2RUdEbWgzZw?oc=5",
@@ -97,6 +267,16 @@
     "source": "ニュースイッチ by 日刊工業新聞社",
     "time": "21:03",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tcFRCV3NCbzBVVUZXbVhJQXI3V1ZHOWxGZ1V0aXhTU0NnQ1dlbVpOUWFtNVIyalpxa0xoQS16WTVNZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-90212275ac71",
+    "title": "日本太陽光パネルリサイクル市場の包括的分析：2026年から2033年にかけての年平均成長",
+    "category": "その他",
+    "accent": false,
+    "source": "pando.life",
+    "time": "20:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYVG1ocExJWVNVenJleFRsX1NGelV4cnMzd3hmaE1QLW9mWDRyejBZcXh1a19VTUhvSFJ0R2YzSGp2SDZVTGNUX0Fn?oc=5",
     "image": null
   },
   {
@@ -117,186 +297,6 @@
     "source": "化学工業日報 電子版",
     "time": "20:03",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZOFFrOElyOE9sVmQzc2gtaUtYazlScG1BWlNFWk5XNGlzVHlsRlRXQ3hwT01pSEREOE9CRlRkN1BaLS1yQVBXQXhzYlhpYVVobkF3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-96de1a38ccf8",
-    "title": "学者が斬る・視点争点：脱炭素の担い手を“学び直し”で育てるオーストリア 石倉研",
-    "category": "その他",
-    "accent": false,
-    "source": "週刊エコノミスト Online",
-    "time": "20:01",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vZVJDelZTYllrb3N6WkFJOHZmcmRKMElYYUNSODBNdjJ3TVlWR29HX0YtZi1kd0RvMUo4UjdGdUFwcklJZk1TTEw3UmdwZlZ5RjJpQzZwOGl1UmlPQjN4b0RLTFE2VzYzTDBLWHA2OFVGTXBZRzZkQTM2UDhndVU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f99328ebf30e",
-    "title": "しんきんビジネスフェア出展企業紹介 幅広い施設の省エネ・ 脱炭素をサポート ＦＧＬ",
-    "category": "その他",
-    "accent": true,
-    "source": "中部経済新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWkVPV2xxZXJ6UmRPcEhmeDVtOV90THNXV3BZTUxjWERTVm9FVDJvVzE2dlQwVUgzX0lxNnVldEg2S2JxQmFwTS1wcnVPMDFhejNYRGlWSE1ab3RxaEc3RElEYlR1a0llZWdNNVNIT190cms?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c944fdcee95b",
-    "title": "東京ガス、下水処理場のCO2で都市ガス代替 地産地消型の脱炭素で法人需要開拓",
-    "category": "自治体",
-    "accent": false,
-    "source": "日経ビジネス電子版",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmNsX05WN1JNdzZENVRqNmNScmhVR3BSME51M2VhM2szbURHaG1GTnhBWXZ6MVRMQ1NIRjFFd2FXZllvV0Z1SWJfeXEyeXNPYWZEZUxaQlhFNDVkc2VrcGZKMzBEQkgyTFNKRjdhUWRkczJrdjZRVzVpem5WMzM5Qm1jNnBIZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c9fa92f8e1e3",
-    "title": "地熱、アワリーマッチで再び脚光 眠る世界3位の資源量",
-    "category": "国際",
-    "accent": false,
-    "source": "nikkei.com",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWhzSGV5SXYySkFhUHJqOHNZM1NUWFA3b05UUWdtV0xISTZYdFpJS0pGdE5zRmVoUi1TUkNhUlI0WE9WSE1aaXU5dEtmSzh5QzNLbmZOZ1k5bDB6UW5TZmhoNVhfSXZEZVlCUDBPRkpWUTBybjlJQi1POGNaSGJNbngyWS1VR21NU2Zqck1rYVE2c3JFNnp5Rw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ea5d9b0b8bd7",
-    "title": "水素航空機市場トップ10企業",
-    "category": "技術",
-    "accent": true,
-    "source": "pando.life",
-    "time": "19:17",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZX1VmZHhNMW44dXU0eHJhalA1OFdLaTBYVHhpd29kNzg5dlZCNDhuaXNPNVdubU13RU83WnowdmZiMGN5c2MtcHh3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-020799367273",
-    "title": "燃料電池システム用水素バルブ市場の概要：2026年から2033年までの特定地域における予",
-    "category": "技術",
-    "accent": false,
-    "source": "pando.life",
-    "time": "17:49",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92bTJEYWswR0F6aXA5VGlNT3ByOWNWbno0R1VvT05fdjNhN2o3MmtKaTdsUjZITGpWT2xjM2tVT0VYZ0Q3MWtmbUZ3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-814b22bb2d39",
-    "title": "太陽光PVバックシート市場の動向、促進要因、および2026年から2033年までの予測CA",
-    "category": "その他",
-    "accent": false,
-    "source": "pando.life",
-    "time": "17:49",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rR3BzLTBzLTgwYkJ0T2tWckRjNkluZUVoZDQwSVlYcllfUlRHMDA0cUNNQ0kzSkh0R0FaOEhRdFc3NFRwSGkyaXBn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ddbbe621993f",
-    "title": "172件の再生可能エネルギープロジェクト：EVNは電力購入価格の再交渉を提案。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "17:03",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFZVMVVadGxIX0dzd2JIelIxZ04xaDVQVnNCOVpjbVNTSUl5WG9hVENONWYyaW0wUllDckVtQzBSaEFJY3lpZjBlNXEwdlRRSmh0R1VrMXg1RVBsTkdkNGJsLUdyWm8wdDBfbEZ1aTZfNHpiNVVpYmVaajlGenlpazhVYmZ2eUlIbENIT3dPSQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6ccba7a2f43b",
-    "title": "燃料電池システム用水素循環ポンプ市場の概要（2026年〜2033年）：成長要因と、アプリ",
-    "category": "技術",
-    "accent": false,
-    "source": "pando.life",
-    "time": "16:51",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YTW9ab3pCRUV4QVJvYzdIT2NmQ1lxcDU4Z1F2UFZseTZPb1NvalZoNmFIUWxSbjRZcUVrcDhHNTc3OU8ycERCSm9n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-050ea9adcc57",
-    "title": "第6部 自動車からモビリティへ（1）未来 象徴する「バイク」【脱炭素へ駆ける】：ニュース",
-    "category": "企業",
-    "accent": false,
-    "source": "中日BIZナビ",
-    "time": "15:54",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByNGEydlgzcjJNX0w0T3JBUm0zREVDTDRVaUlud2E0SGk1Z3NFTFgtUWF3VFY2X2RDMXVOemxyQnR4ZGpRNTd4VXJQVGoxXzlFU3ZfZU5wYTI0c0dZaFJr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-02284fb06e03",
-    "title": "占領下クリミアの太陽光発電所2カ所で火災、衛星画像が捉えた異変",
-    "category": "その他",
-    "accent": true,
-    "source": "Межа. Новини України.",
-    "time": "15:25",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0QkU5QUVvV19zV1g0aDdwM1p5Q0ZNZ0NTbU12TVBtVWFlcUdERng5RURHcU1UTHVKMF9ldUJ0bGMyWUJUdUg1VU1rMVhtM2NvTnpnUUQ1dHJKZFFJSmpkdkJkb3NSQnVEVkZVYQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f83436a02c2d",
-    "title": "ベトナムには、洋上風力発電分野におけるバリューチェーンを構築する多くの機会がある。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "15:18",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzJNVXJZLVgtdTVSLXRNaTJjVXZ4THdhWDZVelh1UlEtY192N2hKcmZvYjN1V052QmNaT3VtaEJ2ZXpPRWpJMDRzZk1WQnZqRnFhcTg5by1CUC1McnJCOHo1Y05tRkpxT29ZWmI3MENSTnJCa0RGalpkSTdpalZGaGNhQmpzMFp1aGxxZzUyYUt6REs4alpIYzk3T1JQVUkxT2MxUG9rZ3ZfcjFPM25N?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bf23ef386f6c",
-    "title": "ＰＴＴ、空軍施設で太陽光発電事業３件実施",
-    "category": "その他",
-    "accent": false,
-    "source": "nna.jp",
-    "time": "15:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DejZMVkQ3ZDZQeW5WZEhvNVVCWGNITVdDMWtrRmt0Mm11V2piUmhpTHFKRHNIRkdJOHNWUXA0MDhlS1NuUEE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7d99231906bb",
-    "title": "EVNは、再生可能エネルギープロジェクトが受入試験規則に違反する期間中、電力購入価格の引き下げについて交渉することを提案している。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "14:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0I2TVhMLUhCSndBOEctLUJCNThjdkpMSEoxcDU3MmdoaWFFZnB0Rkc0VVVWSFJaUGhkSy13WjdTNVJKdElLR21IcEZsSzQtZ3JRdXRsWTZzb1I5OWFEOVhNdktfem5MV1BzU29FbTg1anR4Yk1zaU9jbVc3U0xPT3NDel9IYkV4U2NKeHNDUTBGUTZqVWpJMHJMZy12eU53V0FvWV9lNDVPT0RJNTNiN015OHJSUENIcnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-234e8fa909b2",
-    "title": "屋根取付用クランプおよび固定具市場の2035年予測：太陽光発電の導入が成長を牽引 - ニュースと統計",
-    "category": "その他",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "13:46",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzJvdkcxRmI0WnJVZzBTMW9rSGNHemdCMmxLZ0w1b29TSThDaEgyVkpDaHZIbHRkU2x2dF9FdC1pQmhDaU44UEhUenk0aXl3b202cFdPTmZMejc4ZGFnbU5fNVJsX25xRUUyT0tJOURKQm9FWjVVZWVYZ0ZjSmhUSWpob2xNVDNkWWJLNTdPWENrOGc4U2c5emNjSnd5UEVxWDNVdjZZbEtJUWR3eU42aUFwNGYxSDhjR0s4MjBxWWtZUk4ydzZoQVQyWjNReGkyY3d1al9pMjRDR2hyb1NoREhVQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-58a606835fe3",
-    "title": "画像4 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "13:43",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b260b4d326ae",
-    "title": "EVNは172件の再生可能エネルギー発電プロジェクトの電力購入価格の再交渉を提案",
-    "category": "企業",
-    "accent": true,
-    "source": "Laodong.vn",
-    "time": "13:28",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcV9va285WUU0bUI0RDc3bmU3cEIwSkpQYkc5UTZnZk5va2RSekp2ay1rTVdUaVZwTlM2UnhmcHF6bjhVVlIya1IzbW9OdW5uN3VQUTJla3pQYWFzQjdGbWNUVTFCMDB4YnRoaHZMd29HbmVhTEJzYWJWT2V2aVAxRVFBWEpkTjF2OG15aVc0NGE3eE9FNHpJeVFxSi1oTjMxVk83VGNtLVZyTjhIS0E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a49bf0e8fefa",
-    "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始",
-    "category": "その他",
-    "accent": false,
-    "source": "山口新聞 電子版",
-    "time": "13:00",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EY25QSW1tOWd3NjhqMm1TWjR3a0hhY0NVTXNlRnBoVG93WWNZbXpnejZ2cFF3N0wtTEt1QzY4WkdPSWFWWmVBcHBGUU9nMWdkNjYzMFBRMDVlLWtyVXVUTV9BeGhYSWZmbDVFbjZkMDVsU2tDMmdj?oc=5",
     "image": null
   }
 ]
