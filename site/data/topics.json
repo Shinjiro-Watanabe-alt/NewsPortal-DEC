@@ -29,7 +29,7 @@
       "category": "暮らし",
       "source": "PR TIMES",
       "time": "10/6(火) 15:15",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000159061.html"
     },
@@ -40,13 +40,57 @@
       "category": "企業",
       "source": "PR TIMES",
       "time": "10/6(火) 14:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://prtimes.jp/main/html/rd/p/000000125.000143261.html"
     },
     {
-      "id": "auto-7be3190b7167",
+      "id": "auto-88fa67866ab7",
       "rank": 3,
+      "title": "横浜市 東急パワーサプライを選定 鶴見土木など16施設に太陽光",
+      "category": "その他",
+      "source": "建通新聞",
+      "time": "10/6(火) 8:22",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmhLSnB3T3o1aU9VdlNfVHh3OTZfdFhtLWVWLXhwMWtIa3A1QVE4ektLc09xdWJwa1F0amZzZ2xjTWlfSHlGUXdYNEFOaHZSN2hMaUdkVXpzNXRLa0xGODBTR1hSWi1POFFQaW81OHZ3T29FNjY4WDJYMGk5Z3BNNg?oc=5"
+    },
+    {
+      "id": "auto-1dd4ce298a97",
+      "rank": 4,
+      "title": "ペロブスカイト太陽電池導入検討に着手 県有施設に向け知事 次世代の再生可能エネルギー",
+      "category": "その他",
+      "source": "福井新聞社",
+      "time": "10/6(火) 8:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11YTVsWEFfcFpUV0dUX2I3Y1NEcFBFOVQ1R1JnNzJwSENFbVhVMERFT19mUDRMZVUzajdMT0hKZmNpTTc0dGhGNGV0d0ZYSkpZSGNGVE9aWm1VS0pBS3c?oc=5"
+    },
+    {
+      "id": "auto-4f92a8efc840",
+      "rank": 5,
+      "title": "第6部 自動車からモビリティへ（3）物流を楽に 格好良く【脱炭素へ駆ける】：ニュース",
+      "category": "その他",
+      "source": "中日BIZナビ",
+      "time": "10/6(火) 8:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbXI2M1FxdE9lR2dnUGp6MV9NSlNTVGZCSHNZd0hmNVI3MGIzTzlIX0tSOXVtOTFWd2RPbHpaYlc5ZmdzVThCWXo4TVNZNnk0OXdSSlk3TG40M2EwSmNn?oc=5"
+    },
+    {
+      "id": "auto-dd30e57f3790",
+      "rank": 6,
+      "title": "“多久市2050ゼロカーボンシティ”へ 4者包括連携協定をきっかけにサプライチェーンに広がり 多久市Roa(d)cal SDGs Project始動！ - 写真・画像(1/1)",
+      "category": "自治体",
+      "source": "西日本新聞me",
+      "time": "10/6(火) 7:13",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLcGRTZmVFWTVCRzFFOGk3VkNsQUdoUzJkV2swRll2blR6OFNHYUwyWTQ3d1hPdC02V051NE9KV2MxNXc0MjdxTHlrWmJWSmk2TmFaV1pJYw?oc=5"
+    },
+    {
+      "id": "auto-7be3190b7167",
+      "rank": 7,
       "title": "鶏舎の屋根上にフレキシブル太陽電池を導入、OKIクロステックが山口県で",
       "category": "技術",
       "source": "ITmedia スマートジャパン",
@@ -56,59 +100,15 @@
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/06/news010.html"
     },
     {
-      "id": "auto-db9c7102428c",
-      "rank": 4,
-      "title": "“多久市2050ゼロカーボンシティ”へ 4者包括連携協定をきっかけにサプライチェーンに広がり 多久市Roa(d)cal SDGs Project始動！",
-      "category": "自治体",
-      "source": "西日本新聞me",
-      "time": "10/6(火) 6:25",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOaDdWZDlwRFpjRmp3VjY0VXU5VmQ5bXprcnlrSU1rVW1uMFBmWkdWVV91aVN3VVJPTXlZZFF4TjdsLXBObUl3cnc2dFRBdldYTFV5RnB3?oc=5"
-    },
-    {
-      "id": "auto-9686b574032a",
-      "rank": 5,
-      "title": "太陽光発電と高耐久設計で屋外アセットの長期管理を支える位置情報追跡デバイス「LoRaWAN®対応GPS Tracker - Max」を開発",
-      "category": "その他",
-      "source": "PR TIMES",
-      "time": "10/6(火) 6:05",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ya0EtZE1Za1pRdzhnVGhramp2amlTOTZVMlJvYXlOX0JEZWdHX0Q5SnFxZFUwZGF6VzVKcjJmYVFuMWN5LVFvak14R1ZGNmVSWlk5TzZ5eWd2Y3NzM3NCY3N2SmUtRlR3NHc?oc=5"
-    },
-    {
-      "id": "auto-257aeb7fdf50",
-      "rank": 6,
-      "title": "Green AI、菱機工業株式会社とCO2削減に関するパートナー契約を締結",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "10/6(火) 5:45",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yZTdIdGZYZ0NTdFBhcmFCWVk2bF83OVI4T3h3TjlHMEFEZExvRnJEZ1pwOHlUN2djNzhZOWF0ZzhObGRtRjRRWFQ1d1FHOC1uRkVQVWFhMnJpQ3ktVEloYUtUT2IyWllTVTB2WkpJSnphOEpQakVPUGI1WQ?oc=5"
-    },
-    {
-      "id": "auto-87581f659de7",
-      "rank": 7,
-      "title": "【実施報告】9/26(土)八戸戦「浜松ホトニクスマッチ～カーボンニュートラルデー～」で31.253 t-CO2をカーボン・オフセット",
-      "category": "その他",
-      "source": "ジュビロ磐田公式サイト | JUBILO IWATA OFFICIAL WEBSITE",
-      "time": "10/6(火) 5:42",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNbldqb0MyRzlLbk16ek90bG5jUGRaMWhqTWNZZmtCR1RzcDlfOXhWalh4T1VBV2VUZWNCRk9GMkFfcjVQY3I4bU9GNllOZVZ2THY2YjBRZmJLSTdyTEFRaXpEVUw0RmFNRkFsaXFMR2F4YThoMkxiOWY3MHZNaEZHc0xETVhFQUlBZkN0SFliQ0NXUGFLNG1IRXBmeE50VkRZTjJOOENMa3pBQk1KY21PdVZVSkpNQmk2M29SVWg4VGl4dzhHZXBKekx0ZmxPWFFvVzhIVVJMamE5R0JIWjJUMFFHVXpKalpkTXlzbU91blRMcUdDNzUtVFFTalhOUDdqdEk5bjgyRXJQdkxDMzEtSmRDeDVqUHZ2ZkIzQ0VNMnNpdWo2QzJ0cWlCT3hWQmhSYmJxOWJoMmEyT2ZZd3VVMldPRFZFRm9vLVN3Qk1MSVpqQ1R2b0Fsb0RkdEhjdjh3SDg3ODBtTVNsODBxMTFMOVE0SkFvUTlMcEFxVXlmOUF4Vy1JbGdfeTMtaEw3R2IyNmJ5eWRDUUxhbndqSWl2TkdUR1YzV0pFNG1WSjlvUGZNTlpyZmQwX0g4aEJ2eHBfckFQbEdGektkMElkTXNrcUxDOVgzek81WHI1SXhueEl1dkl3Q2pld3VXNElOcC1MZG5QMmJjX2duRlctQVk4QzdKaVpUVU0tZDNLaTlJaXlWTi1Mc0dUUEJLMGVwUlphZjBZVnZnU1QzTlBPYnBtWURuU1k3ZkdwdkF0bTlBSndCa1UyX180bTQ0c214Y0VnOFRBeXdUNkZmaHRLT2VIWmpHUGJWekp2bU9HNTdsZ29GQTBjaHRndWlGc2Voci1TdlVjSQ?oc=5"
-    },
-    {
-      "id": "auto-2ae2920b2145",
+      "id": "auto-fcd8d10d2047",
       "rank": 8,
-      "title": "日本郵船、脱炭素へ移行債200億円 LNG燃料船に投資",
-      "category": "その他",
-      "source": "日本経済新聞",
-      "time": "10/6(火) 5:30",
+      "title": "ENEOSが豪州で水素実証工場 27年1月稼働、液化供給網で前進",
+      "category": "技術",
+      "source": "nikkei.com",
+      "time": "10/6(火) 7:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXeW5SWmN0eVRTVFR1NWZobVU4Vk9kMjBVd01CejBYZW9CQl9rOEVSTlBLRlpVbEtrRG9fMVpXeUlkX0NRLV9wTkhJSjFYSmU1VXpocmhNdHlTajVYS2JjM2ZxYkxWUmxocjk3Zw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91STVKbG4yWHhDQW1Gdy1EUjF5T0Y0NWo3VG9IQjhkZTd3RVhpbV80Nk1GZ0FzNGxnT2VldnpyZmlodXdhTWlSOG1pSHJSSG1VN2dKVjBqblRSTVZGRXpyNmZfMkNiYVVhN1JMNg?oc=5"
     }
   ]
 }
