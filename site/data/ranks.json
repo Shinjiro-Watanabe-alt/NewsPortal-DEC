@@ -1,9 +1,5 @@
 [
   {
-    "keyword": "JC-STAR",
-    "trend": ""
-  },
-  {
     "keyword": "グリーン水素",
     "trend": ""
   },
@@ -12,11 +8,11 @@
     "trend": ""
   },
   {
-    "keyword": "CO2CO2",
+    "keyword": "JC-STAR",
     "trend": ""
   },
   {
-    "keyword": "CAMEL87",
+    "keyword": "CO2CO2",
     "trend": ""
   },
   {
@@ -24,11 +20,15 @@
     "trend": ""
   },
   {
-    "keyword": "バイオマス",
+    "keyword": "ペロブスカイト太陽電池",
     "trend": ""
   },
   {
-    "keyword": "ペロブスカイト太陽電池",
-    "trend": ""
+    "keyword": "事業構想",
+    "trend": "NEW"
+  },
+  {
+    "keyword": "排出量取引制度",
+    "trend": "NEW"
   }
 ]
