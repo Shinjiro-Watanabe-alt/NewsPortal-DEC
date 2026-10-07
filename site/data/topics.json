@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-fb074f8cb9c3",
-    "title": "GMOインターネット、東急不動産とブロードバンドタワーが担う、北海道・石狩の再エネ100％データセンターで「GMO GPUクラウド」の新拠点を開設",
-    "summary": "[GMOインターネットグループ] GMOインターネットグループのGMOインターネット株式会社（本社：東京都渋谷区、代表取締役 社長執行役員：伊藤 正、以下 GMOインターネット）、東急不動産株式会社（本社：東京都渋谷区、代表取締役社長：田中 ...",
-    "category": "企業",
+    "id": "auto-d9f1e0261700",
+    "title": "自治体における脱炭素化推進に向け、生成AIを活用した新たなコンサルティング手法（地方公共団体実行計画区域施策編）を確立",
+    "summary": "[NTT西日本] NTT西日本株式会社（本社：大阪府大阪市、代表取締役社長：北村 亮太、以下、NTT西日本）は、自治体の地方公共団体実行計画（区域施策編※1）の策定を支援する、生成AIを活用した独自のコンサルティング手法を確立...",
+    "category": "自治体",
     "source": "PR TIMES",
-    "time": "10/7(水) 14:40",
+    "time": "10/7(水) 16:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000005567.000000136.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/136/5567/136-5567-452535a6db3f478af0d0bbb9aa3e36b4-2400x1260.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000641.000032702.html",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-26c2e280c88b",
+      "id": "auto-a90c0bcbf35d",
       "rank": 1,
-      "title": "第25回LPガス合同展示会を10月17日・18日に開催｜暮らしを支える「水」を、もっと身近に。エネックスが電解水素水生成器「MINE」を展示",
-      "category": "技術",
+      "title": "中小企業の脱炭素化を支援！CO2排出量可視化サービス「Carbon Vision」の1年間無料キャンペーンを開始 先着100社限定",
+      "category": "自治体",
       "source": "PR TIMES",
-      "time": "10/7(水) 11:45",
+      "time": "10/7(水) 16:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000002248.000032951.html"
+    },
+    {
+      "id": "auto-fb074f8cb9c3",
+      "rank": 2,
+      "title": "GMOインターネット、東急不動産とブロードバンドタワーが担う、北海道・石狩の再エネ100％データセンターで「GMO GPUクラウド」の新拠点を開設",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/7(水) 14:40",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000125.000131897.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000005567.000000136.html"
     },
     {
-      "id": "auto-8ea72b90853e",
-      "rank": 2,
-      "title": "Carbon EX、自治体のカーボンクレジット支援事業を整理したホワイトペーパーを無料公開",
-      "category": "自治体",
-      "source": "PR TIMES",
-      "time": "10/7(水) 11:15",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000124.000143261.html"
-    },
-    {
-      "id": "auto-6a4fadd22264",
+      "id": "auto-72d167da50a0",
       "rank": 3,
-      "title": "地域の脱炭素実現へ 紀の川市と紀陽銀ら３者協定",
-      "category": "自治体",
-      "source": "わかやま新報",
-      "time": "10/7(水) 6:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wcDdaNE0tR1pPSVVpSU9saFNrUlFxQ3ZSR2g2RWZCdkowakpZR1NLenNGd3o4RjItSy1OSDBGY1lsZ01QeUtNc3NvcjV2bUJzeU42STQ0YzB1UkpVZTNYcFJ2anhXTEpw?oc=5"
-    },
-    {
-      "id": "auto-08e4eb24fe7f",
-      "rank": 4,
-      "title": "韓国政府、2035年までに1000兆ウォン規模のグリーン大転換…再生可能エネルギー100GW・新車の70%をEV・水素車に",
-      "category": "技術",
-      "source": "BigGo ファイナンス",
-      "time": "10/7(水) 6:35",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVnpkcVFOdFphUVczQkE1NTdGTmk3LXF0ODNHLXpZT1hMNXRtTmZyR3lBTEVGcTRYR1ZnU0RSTVlzZkNLczRYX3RfMUZnWEpKU0VZcEhDWnpMcllJdktyd3JkYTBqM2h1VHA5UktNMVc2NW9w?oc=5"
-    },
-    {
-      "id": "auto-d9f1e0261700",
-      "rank": 5,
-      "title": "自治体における脱炭素化推進に向け、生成AIを活用した新たなコンサルティング手法（地方公共団体実行計画区域施策編）を確立",
-      "category": "自治体",
-      "source": "PR TIMES",
-      "time": "10/7(水) 6:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QYl9xUW5nWUZNNjRzOVhwZS1UaWMyTTVCUHpDVWo5ekVBTUJHLXo0bkthQlpabXRuZG1CdlIzZDc1N2dsdmVQUWpwaXdEOFFKTDhjNXpOZXk5cEZwZG16ZUtqWXpHVFRyb3c?oc=5"
-    },
-    {
-      "id": "auto-f13dce2754d7",
-      "rank": 6,
-      "title": "「J-クレジット制度」を活用し地域社会のカーボンニュートラル化に貢献／小野測器、宇都宮で開催されるアジア最高位ロードレースとスポンサー契約を締結",
-      "category": "自治体",
-      "source": "PR TIMES",
-      "time": "10/7(水) 6:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0TWFJcmRldWUzUVhqX19kRVdUUDJ5SXo2QVdxNURZdEFPeGh2VlZwMDh5U2NLWkZIWExlcWppcWJNT1Q0bGRGMTFlMkdiMVZkaHR3djRaMzkxUWJnSXVDOWlYWS1lMXpDU0E?oc=5"
-    },
-    {
-      "id": "auto-bc42251af968",
-      "rank": 7,
-      "title": "中小企業の脱炭素化を支援！CO₂排出量可視化サービス「Carbon Vision」の1年間無料キャンペーンを開始 先着100社限定",
+      "title": "エジソンパワー、系統用蓄電所投資の成長フェーズを完了",
       "category": "その他",
-      "source": "PR TIMES",
-      "time": "10/7(水) 5:30",
+      "source": "ニコニコニュース",
+      "time": "10/7(水) 9:27",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pb2E2QWg1ZXJ5UEIzY2hCTTFscmxHQ1NNbTBycm1fT1JDWWNQcExrYlZqMHJHa0FxcEhpYjI3NzYwZ0xEWXQ5cl9SOG9KMnR2T0VsWlFSQmlEeTZRcHEzM01tOU1weHBlaVE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUGUwc3IwZENRbXBTUHQ5dDRxZjQwZjV6QWFhT2tPTnJWRlI0QU9XXzdKSmNoOGlHY096cU9TWkMyNnhRTjg3dzlqZm93M0ZmNWZ4SkZnZU05MXhWVUhCWC1XQm1ocU1pSnoxV2lySDhRZ1E2Q2c?oc=5"
     },
     {
-      "id": "auto-4b4467bb0637",
-      "rank": 8,
-      "title": "自動車用水素センサーの世界市場（2026年～2032年）、市場規模（電気化学式、触媒燃焼式、その他）・分析レポートを発表",
-      "category": "技術",
-      "source": "Newscast.jp",
-      "time": "10/7(水) 5:30",
+      "id": "auto-91289c643058",
+      "rank": 4,
+      "title": "【速報】約2.4キロメートルの銅線を盗んだ疑いでベトナム国籍の男3人を逮捕 三重県の太陽光発電所が被害 時価合計約2350万円 愛知県で売却か 滋賀県警 | MBSニュース | 関西の最新ニュースを分かりやすく。",
+      "category": "その他",
+      "source": "TBS NEWS DIG",
+      "time": "10/7(水) 9:23",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44RkRkTTZTVG54ak9sZXBxZFpfek5qSDV1MUphS0NfdmZnUW44X1R0Vm0xSnpsbGQ2YXZXVmVseHU3enEwcDlUSm82V3lFQUE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIRllpU2NoQ3dFWG5jTVc1MGdiTVg1R19LOW9SNnUtTEtmRFY2dDcxMHY1dWxiR2Z4d0dtT0JCZWE4WlpHTkljdXktVVd3cjhNR3FZTTNQYTNMQQ?oc=5"
+    },
+    {
+      "id": "auto-01e77fa68a28",
+      "rank": 5,
+      "title": "【速報】約2.4キロメートルの銅線を盗んだ疑いでベトナム国籍の男3人を逮捕 三重県の太陽光発電所が被害 時価合計約2350万円 愛知県で売却か 滋賀県警",
+      "category": "その他",
+      "source": "ｄメニューニュース",
+      "time": "10/7(水) 9:23",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRl90d2JsOXdtRXcxSEhTTk5INkE5Nk5KV3ZYUjIyaHhnTy1TSjUtSk5tdXlUZGhvaTVRdWt6aWZuNnB1RU8wcHhpQjB6TWJEeVpTVVQzajlUS3FYUjJJdm1ES2VjemMyY2l5MXJwZnFGdk9GMHgtbmlhX01CZk03azk2T2pjMnd2akl4R3hJbUU0YnR4cXg3ZElOdW1xRk1say1NRGpjS05nbHNHMWcxTFZfRmtYX2F0UjgtRUJzcmtkdWRIanN4NHNRYjJfVW5CS0HSAYIBQVVfeXFMTWhta0NkR1FZYy15YVZRb3M5aElkaDcwRDU5cklwQjhNR2hqWnFQTF9IRng2M1YtQ2NwTjAwSHpvR3VLZzN1MElQSXIwd1cyclJwWWRWRkZZQXRJaG1KZ0xuYm9xUmFPd2E0bzlkX2xCZ0VLcVVPY3RBN245RXhpYTlCUQ?oc=5"
+    },
+    {
+      "id": "auto-89d5fc14e2d5",
+      "rank": 6,
+      "title": "ポスコグループK-GX参画 脱炭素鉄鋼エコ構築へ - CHOSUNBIZ",
+      "category": "その他",
+      "source": "Chosunbiz",
+      "time": "10/7(水) 9:13",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnB2SnZZei1saEZxbzJSNUYtWEpnR1Q5TWVJZjhhLVRTUTVrMWdLWDBRbkNVbDRsNDNOdHVRb19leC0tbnFXcDd6SzIxeko4S281Z01ObW9DbkhBTUtIb2lLRVNCNzgtLTV1Unk5VVVmZmcyZi1XX3I3dUJ0RmV3bzVn0gGWAUFVX3lxTE96TGY4Q1NqeXF6MGRQSWtnTnVYbU4wMFlSMUhIZGJtMEZUSDkyOEk3QmpfaGxFRk5zQTNtTnhGZjVQMW1RRG1hYVVHTEItYWtfVW9iVFhXVWdpT3FkVnAyckxJdmJIeEREa2U3MUtGeXB3UDdTMDU0bng3R2VwTGNHQnBQcXBJN3RCakVUZVNSWWMwenAtdw?oc=5"
+    },
+    {
+      "id": "auto-c92b38a792fd",
+      "rank": 7,
+      "title": "日立と東北電系、再エネ対応の電圧集中制御を青森で実用化",
+      "category": "その他",
+      "source": "BigGo ファイナンス",
+      "time": "10/7(水) 9:05",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WRnNPbWtXN1dXWkE0S1Y2eXlfdl95cV95dXpIeXZVWnBlclBiUkgxSEIzR1NMaktFX0o5N0N1WngwWUtTallUN0JEN0JjbnlVZ2tqRmg2WU92STFMNW5JbWpvYkowRHFZMnZsaE1RVzZzZEJQ?oc=5"
+    },
+    {
+      "id": "auto-78dabeee7304",
+      "rank": 8,
+      "title": "新開発の「アンモニア／水素混焼エンジン」実機を初公開。ダイハツ「ジャパンモビリティショー ビズウィーク2026」出展概要を発表",
+      "category": "技術",
+      "source": "月刊自家用車WEB",
+      "time": "10/7(水) 9:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aUHZCMEp6ZFhKNlEzOHhvYlQ3ZmlvM1EyYTdnVTVqbGZNdlhuOE04SFVnc1NpdW81alV2V21mS24zbmFHYkhxT0pIeU1mZmFvR245SFlEQQ?oc=5"
     }
   ]
 }
