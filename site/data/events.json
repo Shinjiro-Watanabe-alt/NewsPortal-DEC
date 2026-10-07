@@ -1,14 +1,6 @@
 [
   {
     "month": "10",
-    "day": "07",
-    "title": "株式会社MIYABI、10月7日～9日開催 農業WEEK「農業 脱炭素・SDGs EXPO」に出展！",
-    "place": "",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMHQyd0k2RWJ5T1hEM01taGdCMk9qcDNrOWlKdzViUTY0amlFRXVTZl9XQmVnelBFek9McFVfUWFXS3dqZl9DTDVPLUxMWklaVjZFUQ?oc=5"
-  },
-  {
-    "month": "10",
     "day": "17",
     "title": "第25回LPガス合同展示会を10月17日・18日に開催｜暮らしを支える「水」を、もっと身近に。エネックスが電解水素水生成器「MINE」を展示",
     "place": "",
@@ -22,5 +14,13 @@
     "place": "オンライン",
     "source": "PR TIMES",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000079687.html"
+  },
+  {
+    "month": "10",
+    "day": "07",
+    "title": "株式会社MIYABI、10月7日～9日開催 農業WEEK「農業 脱炭素・SDGs EXPO」に出展！",
+    "place": "",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMHQyd0k2RWJ5T1hEM01taGdCMk9qcDNrOWlKdzViUTY0amlFRXVTZl9XQmVnelBFek9McFVfUWFXS3dqZl9DTDVPLUxMWklaVjZFUQ?oc=5"
   }
 ]
