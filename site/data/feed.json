@@ -1,33 +1,23 @@
 [
   {
-    "id": "auto-ed74546c8102",
-    "title": "日本の資源・エネルギー・GX産業全体を「知能化」する企業知能インフラ、誕生。AIデータ社、「AI EnergyGX Data Platform」を発表",
+    "id": "auto-5416730ef025",
+    "title": "【東京ベイeSGプロジェクト採択】Green Carbon、清水建設と海から大気中のCO2を回収するDOC（Direct Ocean Capture）の社会実装へ｜東京ベイエリアで検証",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "0:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000820.000040956.html",
-    "image": null
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000309.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/309/117956-309-d5dd0e6e7213c35a7ee24f5696a9207f-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-1aefab07821a",
-    "title": "「淡水カーボン」が「ブルーカーボン」を上回るCO2貯留能力を発揮することを解明",
+    "id": "auto-9cddfdd15974",
+    "title": "Earth hacks、東急不動産と蓼科で環境価値を事業価値へ転換する企業向け 『GX・サステナ「即実践」研修』を新設 自然資本の評価基準に取り組む三井物産ほか、大手企業3社の合同参加が決定",
     "category": "企業",
     "accent": true,
     "source": "PR TIMES",
-    "time": "0:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000047.000117602.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/117602/47/117602-47-ab8a2c3e382bd744f5d0b0c793f51c02-1890x1890.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-ef51693d334d",
-    "title": "『企業の2030年CO2排出量削減計画の進捗と最新動向』開催決定 「目標乖離」と「法的リスク」の二重苦をどう突破するか？【申込無料・名刺交換会あり】",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "23:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000836.000002888.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/2888/836/2888-836-56eb4cf2374129e8130ac0fdb6592cdf-1200x630.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000160.000122970.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/122970/160/122970-160-e531d5683ef161537433cddf5f5d26d9-1500x1000.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-1f951221aefd",
@@ -43,10 +33,20 @@
     "id": "auto-80687495df91",
     "title": "脱炭素社会の実現に向けた先進的挑戦「令和8年度 しがCO₂ネットゼロみらい賞」",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "選挙ドットコム",
-    "time": "15:03",
+    "time": "15:18",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5STh2ZXR5Mmo5c1g0eGQtYS0tcFdVRzJ6dnRSZTU4emtfeDZVWnBJT0pJTHFKdERnSXktWmhSNEViWDczWnRyVEtZTmtETVpTUHFLWk9FRWotU25oT3Jr?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2c700e190930",
+    "title": "第6部 自動車からモビリティへ（2）1人乗り 自由広げる【脱炭素へ駆ける】：ニュース",
+    "category": "その他",
+    "accent": true,
+    "source": "中日BIZナビ",
+    "time": "15:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44QW5jZVhCMDlucWM4VlZJQ0FBSzgwbkEtTVZhbzlKLXAtUy0wWk9qVVg1ZHBXZWFkWTdRcUpsenpUc0JUbTFhS1R2dFBRR3VEeEt2V0o4ODFNQW5aZFBJ?oc=5",
     "image": null
   },
   {
@@ -106,7 +106,7 @@
     "accent": true,
     "source": "ニコニコニュース",
     "time": "13:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01elA1b2RDQ2JiUmJ0M2RkaGRiQUhnYmp1R0x2dVNrLVVYUldkbmtmbHlWSUM5dVUyQVFfTnR2eWJ4Q1U3aHo5TFlWYnJPLXpsdkJLNURpQUUzZlJMODRkbHZURTVTZw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MTWt4Q0sxYkNwdk10X3Z2dEFNUEw0V0d5SXpZRW9SRUlDNzhRNzhhbjZraHpzcWFfLTBjaF85R2g1dVhKYS02NkVCSlg5MEpya21qeQ?oc=5",
     "image": null
   },
   {
@@ -130,10 +130,20 @@
     "image": null
   },
   {
+    "id": "auto-a93bc6e060a9",
+    "title": "画像17 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
+    "category": "その他",
+    "accent": true,
+    "source": "ウォーカープラス",
+    "time": "12:35",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNzlPQnhmc3NJUHJNZFN2WnRzcm9yMW53TkQxYXh0MzJBVzVrVkRMMjlEakxkYVgtWlJvTDl5aGNzNnVzMThFTFN0bWw5T1hvb05RdGlJeUpnQWpRNGJiTGVSRExSa3F4UFVJb3FB?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-29a390fafce7",
     "title": "洋上風力発電計画 「いちき串木野市沖」が基本設計に必要な海域などの「調査対象区域」に選定",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Excite エキサイト",
     "time": "12:24",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByc2Y2OUIwV0s2UTR3U01OME4zdktTaGZnRnhrU0dNNGFqMVhtVzlNNzFoNUk5cXlGY2laZFUwLUJMcGJfeDhOamJPR2RRaWlteFo4VFpXV0c4Um5MRldyTEZzSkRBTzZ6UzEzRmhR?oc=5",
@@ -147,16 +157,6 @@
     "source": "みんなの広報宣伝部",
     "time": "11:53",
     "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RlQzUHBpNTh4S1JzWl81ZTgySDc5SFcxUGJIOWtCYkFpaFR0OVJ6VTN0ek1fUkZOQUx3eWtKVFMzcUpadXRNdF93Z1dyV0h3WkZ2NldIRm1qVVRPWEN1RkhWS1hCWExKdWVnYjl3cmZWTXBjTWxB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-00981216e313",
-    "title": "遊佐沖で計画が進む洋上風力発電事業 環境影響評価の準備書をめぐり環境審議会が初会合 山形県遊佐町",
-    "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "11:51",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vTWgxaFU5RmJTWDdLUm1HbDNBa0steDdpSWpManpoNE5icWhoV0U4aUoyaTh5ekkxZlhmTXNScU5ZcV9rallfVFN4aTNnQ3Y1WGdabF91MTdNZ2owQnc?oc=5",
     "image": null
   },
   {
@@ -180,20 +180,40 @@
     "image": null
   },
   {
+    "id": "auto-7608943a24a6",
+    "title": "檜山沖洋上風力の追加調査、経産省が発表 コスト抑制の新工法念頭",
+    "category": "その他",
+    "accent": false,
+    "source": "北海道新聞デジタル",
+    "time": "11:29",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uV003QUZud0N2Z0ZHMVVEdzVqeHU4LXNZZVVoSldfdXd3NDM2dWZ1cVdqNzhJVlYxZUIwRkEwa3NONngxUmpRRWxaZFJXSElienhwbk5LU3RsUQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-8abb9bfda7ba",
     "title": "檜山沖洋上風力の追加調査、経産省が正式発表 コスト抑制の新工法念頭",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ｄメニューニュース",
     "time": "11:29",
     "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXZ6UG80TmFyTnBQT0FoYlBTWGthUkVaTThwQTdzT3N6QTRxMkx3U0UzbTNwNk1Jd2NtWlc5V2s5TVhKWG5XajFPQURwUzBjenVfQTU2S3Bmd2pqNG1kQTBBLTFOMnBYallpVFZBX1oyMm1ET00zTVh6MzZ3YXI1LVB30gGCAUFVX3lxTE5RdnpQbzROYXJOcFBPQWhiUFNYa2FSRVpNOHBBN3NPc3pBNHEyTHdTRTNtM3A2TUl3Y21aVzlXazlNWEpYbldqMU9BRHBTMGN6dV9BNTZLcGZ3amo0bWRBMEEtMU4ycFhqWWlUVkFfWjIybURPTTNNWHozNndhcjUtUHc?oc=5",
     "image": null
   },
   {
+    "id": "auto-50972f4721d5",
+    "title": "「若い人も発電をもとに携わる人が増えてくると思う」 農業×太陽光発電 電力の地産地消 さらに売電で農業経営の安定を図る 山梨",
+    "category": "その他",
+    "accent": false,
+    "source": "ｄメニューニュース",
+    "time": "11:28",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbGJhcXdfdUF6aHh0VUc1X1hrWldtbXpZbHN6MGFfbzFXV2RhakdpS3BkLXJBOWlkMjhzM1dmSFpOM2dUTy00OHNCYWV5ZjRDTmZUTWRlbk5RZXg0eGdhb0o4cmRGa0RJdDJOREthQdIBdEFVX3lxTE10VWdaUUw2cGFsTk9VTnhGOEpFRkdYYXUzUkVMbHRJYlB4a1NWTjJjWFFkS053d3ZjOGY0RW01NEV5aktpeWRGZFBLYURnYmh3ZWVTRWFsUEJDTVNKSkNuUklmaUR0bXBrZlNZTG9PWE1BQU54?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-59aec11fbc1d",
     "title": "【参加者募集】企業価値向上と課題解決につながる脱炭素・GX推進フォーラム2026",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "とりネット／鳥取県公式サイト",
     "time": "11:06",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVTS1nU2xhQjFaak5mR3RSVXVWSldxZWdvaWJVQkZwdVJYOWlkQ1Y2OVBneEk2VWFkMWg2bzJycWVGc2JfVFB1TnFFSDRPTzA1S1hENU5IV1pUZFk?oc=5",
@@ -203,10 +223,20 @@
     "id": "auto-bb5f4c9526be",
     "title": "暮らしに合わせてシステムを拡張でき、家庭内の電力をかしこく活用するトリプル蓄電システム「KPTP-Bシリーズ」を発売",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "10:30",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RZ0E1M1BNZURSQU9iMm9iOC0xVDNmS0hsdUVQcEtQWlMzUndISTFZczN6WjFOX0toTGRZTnF0R1haUncwSzhJNG4tWXRuWU9CZlprZnJ6RXNaZFBWUHJzQ3lKaVE4dFJWb3NfcE45aHpBUHptODY5VllEOA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16QXpPejQ2TDhvdE5uU1ZNeDhPeEJSckU0dE9GcHJ5N3Y0T3NiQnRYT2VoUXpuZS12WDFwaWF1WjUycjlQa0p2QWRYVmFyRWhuX1NEZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-00981216e313",
+    "title": "遊佐沖で計画が進む洋上風力発電事業 環境影響評価の準備書をめぐり環境審議会が初会合 山形県遊佐町",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "9:54",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WclYzS2FydE9BOWFIOVRjakNTaTUzbW83b1Rxd1JnbnRmb212QVZ1Vkk3a0VmV29qbDVmdWNBSExBWE9NWElKcGRwejQyMG5yOFladEoyUkdMSTM1ME5mcXlsMUpjbk5JdkRzOWxR?oc=5",
     "image": null
   },
   {
@@ -267,36 +297,6 @@
     "source": "中日BIZナビ",
     "time": "8:02",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMllwb0l1Zy1UQVdyb05wZDZjTWZlUnNSbFJmam42QzJrZ3JsQjhoVzlnV05QLXFLZVYwRVM4cXFFdWhFZWRhZnRRNFVJdFRrV2JvYkVVMXlfZ3BrSkY4?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-52d52334042d",
-    "title": "極低温水素バルブの世界市場（2026年～2032年）、市場規模（0～30MPa、30～60MPa、60MPa以上）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "Newscast.jp",
-    "time": "8:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzRl9SM0oyVDRGZkxrWFZCUV9fcmJ0X0RJa2JyN3ItcVZXTl9KS1YxRFJVTW43TDNBU3lkVTB6YS04NzZXeDJfN01CU1JCT3M?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e701adfc5ae6",
-    "title": "IHI、マイナス240度対応の水素ガス圧縮機 液化水素基地向け",
-    "category": "技術",
-    "accent": true,
-    "source": "日本経済新聞",
-    "time": "7:48",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3UEdRYVJoWDBkbWRlVk55Mm9zRWlPZnJBSTFBTjM5dXdDUkNxM0R3X3MwYzMyTW1MWFA5UEpubjF1d2RTZGJNMk5ONlhCRTJ3M0FXQUdrbGJuTmhDd180bHVrWVllTEFsd1ZXQg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-599797653dd3",
-    "title": "EVトラック充電を再エネで、住宅オーナーの太陽光発電由来の再生可能エネルギー活用…センコーと積水ハウス",
-    "category": "暮らし",
-    "accent": false,
-    "source": "レスポンス（Response.jp）",
-    "time": "7:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVWt5WHVUWUpQeENidTIxam8xMFJENklmUVJBeDQ4SF81QUpFdkVzZkdnRnRBalhzWUFuOUQzdTBrbDdTU3hQSTZ5TC11UGRicWgxOTA3Z1owd3k2bVBV?oc=5",
     "image": null
   }
 ]
