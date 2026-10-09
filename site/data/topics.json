@@ -13,102 +13,102 @@
   "lead": {
     "id": "auto-c02c34785a0b",
     "title": "山梨県公式キャラクター「水素のスイチョ」 LINEスタンプ販売開始",
-    "summary": "山梨県公式キャラクター「水素のスイチョ」 LINEスタンプ販売開始&nbsp;&nbsp;ニコニコニュース",
+    "summary": "[山梨県] このたび山梨県（知事：長崎幸太郎）では、山梨県公式キャラクター「水素のスイチョ」（※1）のLINEスタンプの販売を開始しました。 このLINEスタンプは、山梨県クリエイティブプロデューサー（※2）の中野シロ...",
     "category": "技術",
-    "source": "ニコニコニュース",
-    "time": "10/9(金) 11:15",
+    "source": "PR TIMES",
+    "time": "10/10(土) 0:10",
     "comments": 0,
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pTURMcXpseWRPVExSWDdYRkRaWmRSbmNhVF9OVGhqNG9rZVNPX1A1bUxTYmpDbEdXd0NOVEowQU5ubXlRX3EzMHVBc2dJVzJHZ25VaXBjdHZkTEc3TzgwUjJObHlnSjFLZklWZXM3S1B3MHY3X1lwNkVSRQ?oc=5",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000539.000078927.html",
     "image": null
   },
   "headlines": [
     {
-      "id": "auto-083a73d0c9e3",
+      "id": "auto-ca835dc0890b",
       "rank": 1,
+      "title": "AGBIOTECH、「みどりGX海外展開コンソーシアム」総会およびセミナーにて登壇",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "10/10(土) 0:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000044.000106855.html"
+    },
+    {
+      "id": "auto-055392d24b93",
+      "rank": 2,
+      "title": "アスエネ、GX・ESG動画学習サービス「ASUENE ACADEMY」が英語・中国語に対応",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "10/10(土) 0:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000769.000058538.html"
+    },
+    {
+      "id": "auto-8e4bf1cb613e",
+      "rank": 3,
+      "title": "「地熱シンポジウム in 福岡 ―笑って学べるフェス、到来！―」開催決定",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/10(土) 0:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000896.000012624.html"
+    },
+    {
+      "id": "auto-5416730ef025",
+      "rank": 4,
+      "title": "【東京ベイeSGプロジェクト採択】Green Carbon、清水建設と海から大気中のCO2を回収するDOC（Direct Ocean Capture）の社会実装へ｜東京ベイエリアで検証",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/9(金) 23:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000309.000117956.html"
+    },
+    {
+      "id": "auto-9cddfdd15974",
+      "rank": 5,
+      "title": "Earth hacks、東急不動産と蓼科で環境価値を事業価値へ転換する企業向け 『GX・サステナ「即実践」研修』を新設 自然資本の評価基準に取り組む三井物産ほか、大手企業3社の合同参加が決定",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/9(金) 23:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000160.000122970.html"
+    },
+    {
+      "id": "auto-cc5b427421d1",
+      "rank": 6,
+      "title": "GXスチールを使用したオフィス向け製品が東京都に初採用",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "10/9(金) 15:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2aFZCWHlDbkhUWl91Zmk3OThtc2NRdy1HZjd4Q0Z4VVFzazY4cHZwZDFUeEExT0t4OTI2TUYwdk52eUplVEl3QnFxa2hsbThHbzlBSmZrV1RLZjFJekF1N054OUQ2MXhXRVhaaUlLcjB4MnZONHRUS1lKWQ?oc=5"
+    },
+    {
+      "id": "auto-ed98d0b27023",
+      "rank": 7,
+      "title": "株式会社肥後銀行 共催GHG排出量算定の基礎に関するセミナー開催のお知らせ",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "10/9(金) 14:30",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TcUR4NG05bUN1NlhZQTJMM08zYnlkQ3BNZW9MOWpSWEJOVTN5a1NVZHppZnhiT3Bsc3lZLXpKUjN3NGJVd2xDcGQ1S2pUV1dVU0RmdW9SdVR6d0dLUjlqdk1Dd1ZvclNf?oc=5"
+    },
+    {
+      "id": "auto-083a73d0c9e3",
+      "rank": 8,
       "title": "名古屋市の蓄電池(脱炭素)補助金【2026年度】申請条件と受付状況",
       "category": "その他",
       "source": "自動運転ラボ",
-      "time": "10/9(金) 10:23",
+      "time": "10/9(金) 13:22",
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHS244dHZyOU5FLXBlelZaTlRFQ2JHN0N6N2xyOGktdUczTmJDbXo5OVBiRG81LWVXdXdTSEM3OFU4OUJ2Q0x2VUdTY19pOUFqbWhEMUhUNHpBVWVB?oc=5"
-    },
-    {
-      "id": "auto-08375b39ff2e",
-      "rank": 2,
-      "title": "分散型太陽光発電：大きな可能性を秘めているが、実現が課題となっている。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "10/9(金) 10:17",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSklkT2FVMWlxeWVrSEZGemNpbTBEZWdoeVVlLWhhQjN2WjRsYi1ZZ3h3REdBUDNKb1k5eE4tZjFJNkdhQms4YkFxTWZ2YkViTGhiWmNpYkREWWlHNHltSk1GaHJ3RnR5N3N2czVvazdTMkljLUlwRG9yR3QtazJ6a2JWUGlsbzVPUF80SEdjbTU?oc=5"
-    },
-    {
-      "id": "auto-36f7026ac64d",
-      "rank": 3,
-      "title": "『ドライヘッドスパ＆高濃度水素サロン 巡~meguri~堀江』が梅田スカイビル・グラングリーン大阪にて農業イベント「にっぽん青果祭」に出店",
-      "category": "技術",
-      "source": "valuepress",
-      "time": "10/9(金) 10:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KRVdtQ3RXQlk4OEF4MGVkNFJoNElfRjhNbUF1ZTFWUk8tV09tX1J5WHlWWVYtdDlQZ005c281RzhWcjJWQ25VSzRPOU1MYUVLY3ZMTG9pdTIycTg?oc=5"
-    },
-    {
-      "id": "auto-a134f948db31",
-      "rank": 4,
-      "title": "従業員の一人ひとりの行動を喚起することで、インフラの脱炭素を実現。インフロニアと進める新たなインセンティブ設計",
-      "category": "その他",
-      "source": "みずほフィナンシャルグループ",
-      "time": "10/9(金) 9:44",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vUktjN0FUc0NYMlFVemlUejlMS1dLbHR0dzhSR3YyNFNQT1Jja0VWSEQyM0JUTWhQcVRadFo3ZTQtRTVobXludnYtdmYxOFZhYm1JeW1mV2s4Tnd1TnY4WHFfUW02S2RKckVsVG9mNTJVUzQ?oc=5"
-    },
-    {
-      "id": "auto-6e938b9d37a7",
-      "rank": 5,
-      "title": "バイウィル、東城町森林組合・備福通信・中国銀行との「地域GX座談会」記事を公開",
-      "category": "自治体",
-      "source": "ニコニコニュース",
-      "time": "10/9(金) 9:21",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SbTVHT0RMNTZnYmFuNGxYX1dZbVc1czNCeHNxNW44WDBvSGh4SWR6bnJHQllXWHl2dDNhLTVLWFZTU3BpaTIxWFRGd19uNDh3Qk5sbGttRTk2VjJQOVZvaUNXR1BaYVJaLW5OemxJb1E5dU9fSzdLcU9VYw?oc=5"
-    },
-    {
-      "id": "auto-d077b57a0266",
-      "rank": 6,
-      "title": "洋上風力発電 いちき串木野市沖「調査対象区域」に 鹿児島",
-      "category": "その他",
-      "source": "ｄメニューニュース",
-      "time": "10/9(金) 9:20",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGVTYkdzWGJiUExTOUtQS2EzWS1GeWN0VWgyVmUxNWE3V280OVl1M1lnNXdYVXJpd0VSM0J3dEhnMlVlSGxwa2FfWW9EUmIzRkJubmFGa1c3dTc2LXNzUXBlVEpZNTNQNGpEeWJrT2FBV2I1QnZVcXg1LVQ0QnBCTU4xS2xoeWx3ZDNMekdvc9IBggFBVV95cUxNRUd3anlpQWF5YmxSWHNEYTVxcjNRRTdHS3B3V0xEMTVZRXhfU2hUdTN4MnVUWjFDeWllaFFzUUZsaXp4dC0yVG43N1FWdEM0XzluTjBwbWtYR3IwZnJTaUxCa0dXY2VwaVVIa0RjaThQUm96YUxNekY3VFBlRHdCeHpn?oc=5"
-    },
-    {
-      "id": "auto-92c19595003f",
-      "rank": 7,
-      "title": "長期脱炭素電源オークション、蓄電池の落札はなぜ狭き門なのか――20年固定収入の裏側を読み解くウェビナーを開催",
-      "category": "その他",
-      "source": "Infoseek",
-      "time": "10/9(金) 9:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRkx1ZjdDakhRbmpZV09kZXlZMVlQcGplZ1NRdWtvSFFTbDk4QlB3cGZOX2otalNIYm5KRDh5bGIxaDBGYjhNZ051ZE51c2J5VTdjT3doU25ZZ2lqU3V2ZVd6emowaWRicm5nRUtHRlg5Zw?oc=5"
-    },
-    {
-      "id": "auto-e5173a24d062",
-      "rank": 8,
-      "title": "貴金属燃料電池触媒の世界市場（2026年～2032年）、市場規模（イリジウム系触媒、白金系触媒、その他）・分析レポートを発表",
-      "category": "技術",
-      "source": "アットプレス",
-      "time": "10/9(金) 9:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOb015eGZ6NzhZTFl2aGJtYnBuYTRaUkxWckYxOVoxeWdrQmlDeUZtTFZPcWlXalQwYTN2bVRROUUtQWZicWQ0OHR0aVJvc28?oc=5"
     }
   ]
 }
