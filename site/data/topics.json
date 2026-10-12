@@ -23,8 +23,19 @@
   },
   "headlines": [
     {
-      "id": "auto-a7a75d23f4b9",
+      "id": "auto-ce923fda74e5",
       "rank": 1,
+      "title": "Ｕモバイル、太陽光発電への５Ｇ導入で提携",
+      "category": "国際",
+      "source": "NNAアジア",
+      "time": "10/12(月) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xelZJcDNTdUxyNzhzODlJbEg4X3F0ekpvRVdSV0phTjYzNlE2OEN0NFFrbmhZblJiMUVuYlFVY1Y4NEpVMUE?oc=5"
+    },
+    {
+      "id": "auto-a7a75d23f4b9",
+      "rank": 2,
       "title": "第6部 自動車からモビリティへ（番外編）「次の道」歩み続ける サイモンCBOに聞く【脱炭素へ駆ける】：ニュース",
       "category": "企業",
       "source": "中日BIZナビ",
@@ -34,30 +45,41 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMllwb0l1Zy1UQVdyb05wZDZjTWZlUnNSbFJmam42QzJrZ3JsQjhoVzlnV05QLXFLZVYwRVM4cXFFdWhFZWRhZnRRNFVJdFRrV2JvYkVVMXlfZ3BrSkY4?oc=5"
     },
     {
+      "id": "auto-c2d993dc6f27",
+      "rank": 3,
+      "title": "液体水素上位10社ランキング",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "10/12(月) 11:37",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05cFJtZEE1dGtzMUtpTEgtdHhPRmpwckFLbVhwdkFYaHNETmttU3p6UWJrZTFnTVZlUFpuVkN0ZGswYi1nd2RfYVNn?oc=5"
+    },
+    {
       "id": "auto-ba118f8e6fdf",
-      "rank": 2,
+      "rank": 4,
       "title": "水素化触媒市場の主要10社まとめ",
       "category": "技術",
       "source": "pando.life",
       "time": "10/12(月) 11:36",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFbGFrZWR5a3hrbENIdHBJd3BFU1h0NDdEY1hCS3lmc0VXRVZMUXY5UWliNmFYMGFsc2dHMjcyVHdmVGVzdnVkS0pR?oc=5"
     },
     {
       "id": "auto-8b599594a925",
-      "rank": 3,
+      "rank": 5,
       "title": "地熱発電インフラ市場の競争環境：CAGR予測6.40％（2033年まで）に基づく強みと弱",
       "category": "その他",
       "source": "pando.life",
       "time": "10/12(月) 10:55",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmeV9oQWJjRUwyVHZsQmplSTNpSWdGQzBCR0hwcEd3STQwMEFZRkRGYnVsaXM3Y0F0TnZZT20xUk1Bb0xpXzFuUGpR?oc=5"
     },
     {
       "id": "auto-7971391234e0",
-      "rank": 4,
+      "rank": 6,
       "title": "理化学研究所、次世代放射光施設に水素分野専用ビームライン建設 京大、NEDOとの共同プロジェクトが始動",
       "category": "技術",
       "source": "環境新聞オンライン",
@@ -68,47 +90,25 @@
     },
     {
       "id": "auto-dc51f117fd18",
-      "rank": 5,
+      "rank": 7,
       "title": "「大型電池で動く船」佐伯市の造船所が新たに建造 脱炭素への取り組み",
       "category": "その他",
       "source": "au Webポータル",
       "time": "10/12(月) 10:22",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42ai1CUDMtVkc3UDcyUFdSUFRmaThvaFdKbTRVSkY1SVdDaDhXeUJXQUNneS0xNmJ1cDIwa3pPc0tJdDdHQWduSkhiX0ZIOE5xTTdSV1gzSmM0aFJ6NElLVFNjMGUyMHllNkhQd0Rn?oc=5"
     },
     {
       "id": "auto-4e11ceac8be1",
-      "rank": 6,
+      "rank": 8,
       "title": "【エネルギー】タイ政府、未署名の電力購入契約を見直しへ 太陽光の買い取り単価引き下げ タイ政府は、民間の発電事業者とまだ署名していない電力購入契約（PPA、国が民間から電気を買い取る契約）について、再交渉または取り消しを進める方針を固めた。電気料金の引き下",
       "category": "暮らし",
       "source": "バンコク週報",
       "time": "10/12(月) 10:19",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DeTdjUFZmREZURVVaNWx3SkkwWVJtdVhQeHBVbmJKMVZXQnpNVFFvTXRHSW5ieE9oUi1tWVdMaHQ4c2JUdDl1OFlkamJMRmR5?oc=5"
-    },
-    {
-      "id": "auto-1cca06563481",
-      "rank": 7,
-      "title": "東部再生可能エネルギー市場分析：2026年から2033年までの成長と産業分析を特集し、予",
-      "category": "その他",
-      "source": "pando.life",
-      "time": "10/12(月) 10:03",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMUXVCZzhzNG5UYlUwOG8zRE9OemJlMWFVTE1xRkF5WjQydXBqWjNOdEVIZ3ZaMnRsNl83eEJGTkRSc0xKRk5lS2xR?oc=5"
-    },
-    {
-      "id": "auto-a51bfd0bff9d",
-      "rank": 8,
-      "title": "IATA 「航空脱炭素制度、CORSIAに一本化を」 EU-ETSの域外上乗せに反対 | 航空 | ニュース",
-      "category": "その他",
-      "source": "Daily Cargo電子版",
-      "time": "10/12(月) 10:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NZGoybVNKZk1QSVlmTWVFSDJoSk14WU5EZ1pQQS03NjZpbDE2eTlXTjg3d2xhTjc4a2pOSkF1azZEYW5OYkU0VU9SUEZEQUlrUmdFdG5zejVvdG9KUDlNN1lsRWFwRi1q?oc=5"
     }
   ]
 }
