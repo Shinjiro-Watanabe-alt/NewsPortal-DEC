@@ -10,24 +10,74 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/107222/38/107222-38-421a731e6781508f68c5af8efc3539f3-626x328.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-d69680a6b9c6",
-    "title": "公開前から400人以上が注目。大型ブロワー級の風力を手のひらサイズに凝縮した「小型ジェットブロワー」がMakuakeで一般販売開始",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "0:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000167185.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/167185/12/167185-12-0fec43937a4b804f6d8130b36889c7d4-1600x900.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-a84d5645a7aa",
     "title": "【JMS2026】自工会による合同展示、マツダ「2ローターエンジン」やダイハツ「アンモニア/水素混焼エンジン」が目を引く「マルチパスウェイ」エリア",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "はてなブックマーク",
     "time": "18:22",
     "source_url": "https://car.watch.impress.co.jp/docs/news/2147588.html",
     "image": "https://car.watch.impress.co.jp/img/car/list/2147/588/005.jpg"
+  },
+  {
+    "id": "auto-d51d87006f6b",
+    "title": "PTSC Marine G&Sは、Pacifico Energyと協力し、総容量1.8GWの2つの洋上風力発電プロジェクトに関する調査を開始した。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "17:35",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVVqZUdwa2FHZE5ELUhydEJJMk16dEhmTDJsdjlYMDd0WnlrOV9vRlgyVGs4aWxCanRSZ3gtdENxMzFmNWJ5cWMxNjFwUTVqNk9Iek1LWVdxTUtBei1NX2tvekEwZ2ZuNWRvU2xMZHFlS2tfTmExQnhZZlp6azNzYV9YWER1akd4YXhfTUJFMnRvb0gydE9HZkt0eVRkVHBvN2NvMXRKbVJZRHZyV3JrTzIxWDY3UnVmajZmdFFvZUppbVJyUWxsV0w3RDJhWVVmM1dMUFFyT3hvZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-23ea9967dae9",
+    "title": "【タイナビ発電所調べ】2026年上半期、中古太陽光発電所の実売買数は2025年通年実績の約2倍！買手の法人比率はこの5",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "17:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iYXRtdlkxQThKTVQ4bTlvNW1uXzFyRml6cVUxd2VKck9vZ1FwT2NoLVdaRnh1eG5TQmk5Q3RZeVY3b2dUYXdGTi1sUE5JN2lqci1jS19yejFvN1VOWW40NWxfRjFOZ3RnakUwaGpXczhWdy1yUGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a082a52b486b",
+    "title": "パシフィコ・エナジー社、ベトナムで洋上風力発電の調査を開始",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "16:46",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbzRMM0s0dWs3QnJsVWRHYWhQU3FrOEt3MUZkMF9nbnFPTXFBcDJQZllFU0VVd3pmSnAtNWFvQl9HZFQ5eERDTDdtWGdfZFVlZjMydFMzNjdOMmZNbjJ0eUdQeEM3akZKb0VPSDZZbHVYNWVhMi1LdFFUZzVmc20xaDRVZ2dfSVhrMTRiNGV1U2RTaHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7ecb0e3d9c0a",
+    "title": "富山銀行におけるCO2排出量算定システム「炭削くん」導入のお知らせ",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "16:00",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wU0l1bHRhalYyNGlHT3Z0NGRxM2IxX3hBV2lCV3psbDhyWjE1dVhqSzg0NWNVWS1OT1E2Q1h3NTBQMnBiMURvSmpjVTVwNm1DWlFmVmw1czlISWowbHBLdXJpbHp4UUdTWVNaZC1TR0FzbzNYbGtqRWFkTQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c0f7883979a5",
+    "title": "【江別市】雪国でも太陽光発電は有効？市内で16年以上続く実証研究、発電実績と設備の現状が明らかに",
+    "category": "その他",
+    "accent": false,
+    "source": "【えべナビ！】江別・野幌 情報ナビ",
+    "time": "15:57",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HMjNFS2J2ZkV3NG93TmtodkNWUHBxM0xEeUpvVjRRSmxySmM2bTdDY0psbHJ4ZmdyM1Z2TUpQSFNlM19OaWc3NGJn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7457a3345412",
+    "title": "「中国地域GXサミット」を開催 ～「守りの省エネ」から「攻めのGX」への転換を促し、地域企業の脱炭素経営を強力に支援～",
+    "category": "自治体",
+    "accent": true,
+    "source": "山陽新聞",
+    "time": "15:44",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFcmM4dXQ0V05PRzdiVjN5VDctLXQtOWlrcWZoQ1V4SGZhWTVncGMxSFJ2UC1WdTJFSWJ0Nmp6eFpjWVNlQ2FIT2RzV1NHWk5CZVgxVlJ1WFJMcDlQcWNIS0syd0VNZUVXZEl6NWFhd0o?oc=5",
+    "image": null
   },
   {
     "id": "auto-91f7438dcc20",
@@ -37,6 +87,16 @@
     "source": "Infoseek",
     "time": "15:10",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOQTNGRWFQQlRqeG9tRi1PVWtsRXRXSXN0UVByMDgybk9QM3ZPb0xZSFQzSVp3b2hIYWNubGZGaDhIN0QwS3czWi1CSDU2d256bFJoVmZseUlQRmNneTZGajhYR1IyUVJhTmxqSnZtbk1JZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4f92a8efc840",
+    "title": "第6部 自動車からモビリティへ（3）物流を楽に 格好良く【脱炭素へ駆ける】：ニュース",
+    "category": "企業",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "14:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbXI2M1FxdE9lR2dnUGp6MV9NSlNTVGZCSHNZd0hmNVI3MGIzTzlIX0tSOXVtOTFWd2RPbHpaYlc5ZmdzVThCWXo4TVNZNnk0OXdSSlk3TG40M2EwSmNn?oc=5",
     "image": null
   },
   {
@@ -64,26 +124,16 @@
     "title": "燃料はアンモニアだけ、水素は車上でつくる！ ダイハツが開発する658cc「アンモニア／水素混焼エンジン」の仕組みと可能性",
     "category": "技術",
     "accent": false,
-    "source": "Infoseek",
+    "source": "Motor Fan",
     "time": "12:10",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GeHlwYlVSVDRHczlKTUhqbkhTTzNOOHAzLTBfbGlLWlZ2VS1wTjU0TTRHelpJOEFpZGtDb2xFb3ZSSVFOQTRPdGtVQjhLYXAyMGxiazhiVkIwOFFUMU5YZVNDcHdaSUtB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bb3bc1cf6142",
-    "title": "中国の水素エネルギー産業が発展を加速―中国メディア",
-    "category": "技術",
-    "accent": true,
-    "source": "Record China",
-    "time": "11:48",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vTTFyOHU1MVRsN3NLZ2tGdWE1ZW5kblBRWi1XMkQ2Z1NfUkllQ2FTdDcwUGd0V1pvQ2pILTRYdXFsM2p4UVNsVjdadXhxcC1uTGNhVlhqcHZQWi1r?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43dk1YWDZtQmNFT1lnUUQxRmtrSUVzYVVGaFQwOEFuRFFTR29fdl9UTFEyWHFKNEI5VHVtUEFLLThWeHhBTF9ZSEZzT2ZtZw?oc=5",
     "image": null
   },
   {
     "id": "auto-246d1e9d0ada",
     "title": "洋上風力市場の拡大へ国内外の関係者が連携 長崎市で初開催の「世界洋上風力サミット」開幕",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "au Webポータル",
     "time": "11:36",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ibDdHbXoyS2RjZDFTa2xEbWFoNXVpNGVrUHlPalVLSEV1LVdJVU5GcjA2bXVqUFJhbjBxdEgwMC1acUN0bHVxLWlJVktiS1BZVVc1dk84cG96WkR3QnlsODlGWmFhbVJFWjNYRU1n?oc=5",
@@ -100,40 +150,40 @@
     "image": null
   },
   {
-    "id": "auto-a1f5cff84246",
-    "title": "中国の水素エネルギー産業が発展を加速-中国メディア (2026年10月13日掲載)",
+    "id": "auto-bb3bc1cf6142",
+    "title": "中国の水素エネルギー産業が発展を加速―中国メディア",
     "category": "技術",
-    "accent": true,
-    "source": "ライブドアニュース",
+    "accent": false,
+    "source": "Record China",
     "time": "11:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYUmJnMDhTSmkyb2ZUMy1BVVViVlJTMVJMaUJQbkdjNy1uWjNSbU9waExKcWdtWFJhWUZJdF83ODhlazZlbE85Wno4WGU5a2stVXRCX0RHMlBNMXlINGc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NaW9kQldDckRXLUltVElINjJzTzhFVl9hUUpnMjQwM0R4NjNhNll4TWc0OXRvandfYk1pdElkTzNyTTdELWRYWUJBWHZ0TkN3WjBrNnQ3aDZyRk9SMi1YSkdkclIyQQ?oc=5",
     "image": null
   },
   {
     "id": "auto-c2da79507783",
     "title": "中国の水素エネルギー産業が発展を加速―中国メディア｜Infoseekニュース",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Infoseek",
     "time": "11:30",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ec1YwRXBzVUFfdGJzZWx1Sy01M1BQbmFCTV8yaVJzSFByZ1gzc2RyTGxtQUNaQUVyUDREbVhlZTRjNmRCMU42UHVXN2xHZ1VKZmhHZ014MlRpSGtZSmd2UFluQW5XTzlsdHc?oc=5",
     "image": null
   },
   {
-    "id": "auto-0153d3b3d413",
-    "title": "「GX-ETS実務セミナー2026」に経済産業省の基調講演が決定、10月29日（木）にオンライン開催",
-    "category": "その他",
+    "id": "auto-8653503d8ecb",
+    "title": "トヨタ＝燃料電池バスの新型車を発売、いすゞと共同開発｜クリーンエネ｜マーケットニュース｜マーケットニュース",
+    "category": "技術",
     "accent": false,
-    "source": "ニコニコニュース",
-    "time": "11:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tWUtjc09YRjBHQ2VnZ2dad2ttcDhaU2lKblBpNzB4NlN3cktVcjJ6SG1jV040Skl0TUJKTEtxZ19RX0w2LXJoZi1RWU9uWXg0S3ZQV2FrOHlkZkZsSE1rdV9SbHpDLXdl?oc=5",
+    "source": "リム情報開発株式会社",
+    "time": "11:27",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VQ0dQXzk0Z2dfbTRLSGtiRnhPVy1OeUcyZXZtR3Y3ZmJWQXlGbFdqdHZPVmg3ejNyRGRIMDFkdWVpME5vU1YxX3lTM1FZcWxPQTl6VVZ1U01NLUxPZEdjUHlrYUNkUmM?oc=5",
     "image": null
   },
   {
     "id": "auto-d57ee8f2cf3e",
     "title": "普及や発展について議論「世界洋上風力サミット」国内外の専門家ら約750人が参加《長崎》 (2026年10月13日掲載)",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "11:16",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oSDhPUDVILWY3ZXdTS1Btb3cwaTlWUDQ2clR2Z294dVpOc2IzTzBIX1pZWElBTlpXUWFPWmRnYmQwbGFmS0tqTGI4RlQwbzlTYkk4TXNyakd6bEJkSmc?oc=5",
@@ -143,10 +193,20 @@
     "id": "auto-b7d2d0941959",
     "title": "専門家たちが、多くの家庭や企業が見落としがちな、太陽光発電を効率的に利用する方法についてのアドバイスを共有する。",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "11:02",
     "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV1NEZURocl9pWWxwazA1eVA1VVpVaW9pX3d4d1B1Mm9fLVRENmVtM0NXMGhwa3IxemFBS2x6V0JRVENFTGdJZENGTzJvQ3IzRGkxMUgtR3RfdGhaRU9fUWNRUEl0MTNLQWhOWmVnZElIMFVqemo5OFF5TGNYTmRRS0dLX0pBLUtoem5GMGtYbHVsVEd5QXNzbjYtM2l5UUJlSUlkOHR4LWtlTmliUTVKbnk2ZzBQX3N4QWM3LXhMOWZqNkNxcUlHZWR6RHVIWXBy?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ef87320a9f09",
+    "title": "【画像】普及や発展について議論「世界洋上風力サミット」長崎で初開催 県も関連産業の振興に尽力《長崎》 2/2",
+    "category": "国際",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "10:59",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOSkx0MkNlY01WRzh5UzRDb25INkFlOUZUUVU5V2pPWVdOdENSQUxDcklXeHN0blZWc2FkYjltUzFCZFJRTVl3WmU5VUw3OUFIc1VwMl9HU0x5TWtaSmlTQmNidHhGYmFrbnEzVjhsb2tqVHF5UEJRMjZ2bVU?oc=5",
     "image": null
   },
   {
@@ -160,10 +220,20 @@
     "image": null
   },
   {
+    "id": "auto-a93bc6e060a9",
+    "title": "画像17 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
+    "category": "その他",
+    "accent": true,
+    "source": "ウォーカープラス",
+    "time": "10:54",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNzlPQnhmc3NJUHJNZFN2WnRzcm9yMW53TkQxYXh0MzJBVzVrVkRMMjlEakxkYVgtWlJvTDl5aGNzNnVzMThFTFN0bWw5T1hvb05RdGlJeUpnQWpRNGJiTGVSRExSa3F4UFVJb3FB?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-ce1f6673bb16",
     "title": "水田に太陽光パネル４０００枚 国内最大級の「営農型太陽光発電」 美里町で初の稲刈りが行われる〈宮城〉（仙台放送）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ニュース",
     "time": "10:33",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80OEJzS0p6eklGZVB1VFJ3NTJfWG40WGpEWW1MNkk0S0lrYkpScy01LWg2N2NYMFN5eE54czdkMFpTNm1RaGhyLWVBbE42b1JibTd5SEVNMkV6am9Gd2pXWGhqamVQVjhDTzJxVFZ6c05VMXg2N1Z6R1BIcUJHbzg?oc=5",
@@ -183,7 +253,7 @@
     "id": "auto-06c7ca4e50c5",
     "title": "令和8年度第3回ゼロカーボン研究会「脱炭素経営フォーラム」(岡山県)の情報",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ウォーカープラス",
     "time": "10:30",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uNlJkUURDaWsxeVlBSThITzVMRFV2WTN3RVJpV2RpZU8wRVZqYXF0cHU4NGhycV9VYWd6Q3hza3VaYlp6aWo4dzkxdGRoWFMtMXB1QnlITklHOFE?oc=5",
@@ -193,7 +263,7 @@
     "id": "auto-fb663aa15cac",
     "title": "秋田県など、デンマーク公社と洋上風力推進へ覚書＝拠点港化、産業集積にも意欲(時事通信)",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ファイナンス",
     "time": "10:11",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1PSE9meDE4MEhYeEdydFRqeDlVQ09abXZZeERxUHNGYlpLWWJOM1dPRVVqODZYM1E0ZVBVQU8wQUFKOW1XcjBici15cFFMc2FrdzI3c1RvWWNpVDFDVFNjRFdqRlYyU2U1WkQ3enl4cW1MX3Brejk2c25TOExjc1IwS3VwQ3c?oc=5",
@@ -211,92 +281,22 @@
   },
   {
     "id": "auto-b4e562bf9a05",
-    "title": "長崎で最新技術や課題を議論「世界洋上風力サミット」国内外の専門家ら約750人が参加《長崎》",
+    "title": "長崎で最新技術や課題を議論「世界洋上風力サミット」国内外の専門家ら約750人が参加《長崎》（長崎国際テレビ）",
     "category": "国際",
-    "accent": false,
-    "source": "日テレNEWS NNN",
+    "accent": true,
+    "source": "Yahoo!ニュース",
     "time": "9:43",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlJMRTh0YXJESmdwY1J1M25mb0lvaE56N2diT2drdng0OHdqdllpUmM3RGxFd2lxaFdKU0ItNFRnMkpoVVpVU2lvNlk0VVlyYXJmd1c3M0tZbFdGZXF4amJLUWdrc3FqbTF1aHJ6bGpFeWVjVTNSeEhab1ZvYlZJSlltVmpjRm8?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdjdVdjJHS2JsNlkwUkpVSk1FS3ExMnZKb3YtZHFhbjBRMTMxU01Wbi1VVkViRkNMM1VXaDNCNGNTVGVVeHVkZVBnMU9kR212emFoa29FUzBnZjRkVVc1akQ3akV6dGU3d2toT0J5SDJXRksxbnM0QlBwMFlZcjA?oc=5",
     "image": null
   },
   {
     "id": "auto-16704631146c",
     "title": "「世界洋上風力サミット」が県内初開催 国内外の企業が東アジア一帯での将来像を議論 「洋上風力の先進地」長崎に約20カ国、延べ1100人参加へ（KTNテレビ長崎）",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ニュース",
     "time": "9:42",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTTZNYXM3UzlpcXRmNFEyYTA2YTBVWjc1RzZkY3ZtWEl2SUNOdHdfNUM1R2g0NHM5YlZVd3NTNFhkUkRyQjNzb0lGbXVUOXc0bVNHZ0RHTmkxM2d4S0hRMko2RmM5cDZLTWZ5eXBMaU9MSFV5dWg5aEFIYzlZY0k?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b64935a5356a",
-    "title": "上位住宅トップランナー制度が2027年4月開始へ、大手事業者の省エネ基準引き上げ",
-    "category": "暮らし",
-    "accent": false,
-    "source": "リヴプラス",
-    "time": "9:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XU1RtUHlpbHJqRkI2eC1OUUJKbXVXM3JMTDc5V18zNXNrZGRaeTgyMUNQck5NM2tCbk9VOG1xb3BMbHJoOXBiNG5vYjZ1bFkxZWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b835cb233dbf",
-    "title": "TOPPAN、カーボンクレジット創出に関する支援事業を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrV2R6VV9ONTZYcjFIaDlERUEwMlZuZGdMODVoMGFtSG1aZVQweGFiYU9tTEVDbFR3Z2g2UjFtcUJjMVpuWlFkYkVFMWduNGpCNWJXM2FBa2hCU3I5eHVWT21hZ3A3Y3pBRm10bWVLQXQxRjMwdTlSbnA5UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-435f391ec360",
-    "title": "系統用蓄電池は環境アセスメント対象外――「蓄電所」という区分の盲点を読み解くウェビナーを開催｜Infoseekニュース",
-    "category": "その他",
-    "accent": true,
-    "source": "Infoseek",
-    "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wRi0yaE1XdFRhaVRpRWptNmhqc0lOMEhFejd3ZU5Yc0ZuRXJDal82SmgzX1pIM2QzUUZyNFU2RXhHX2djOWI1VFRvZTRkUzFLT3VnSWpXUWd1ZjQtSUptY3JIcUUxMHBqRW01Q042VXBSQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-32c08cbb0b9d",
-    "title": "ベトナムで洋上風力発電の調査が開始された。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "8:36",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2xrNjBWWWVSQnF1T2w5LXVvcFhTYjdPbUVObHlPMHFWMXRkNWJZWjFMVUhsOXJUV1loeDZqZFdFRWdFdzRsZmRabl9OREw4Z0tfajhscW9YcmdkQlZIVVFZd2ZNZjZ2bHpQNEJWNmNKUmY3WVpoZ0N2WWM4RlZYU2dxTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-77401a804364",
-    "title": "京葉ガス—群馬県伊勢崎市で初の国内系統用蓄電所が本格稼働",
-    "category": "その他",
-    "accent": false,
-    "source": "まぐまぐ",
-    "time": "8:31",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSlFXanZieWl5eGJxc28xTjdsN3BRY21CbldkWWoxLXZHSzlsNFVUSEtfVjJROXo2QXNXYXJ6WmVoZU9zY0NiRFNrTmlyWXBtdVHSAVJBVV95cUxOZkpRV2p2YnlpeXhicXNvMU43bDdwUWNtQm5XZFlqMS12R0s5bDRVVEhLX1YyUTl6NkFzV2FyelplaGVPc2NDYkRTa05pcllwbXVR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fcd62e14fd34",
-    "title": "二酸化炭素大幅減の水素エンジン 大型商船向けで世界初、95％",
-    "category": "技術",
-    "accent": true,
-    "source": "Infoseek",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbUlXamRJeXFycTQzbXVMWUJ5M1U0U0xiQl81c3A0Rm1sRmlCcldUR1JKZzd6VmtlemlHTDBuSXl4NjVreVNjQ1duZWJscFY4X3pRTHVGX3VIeF90ZnVpZ3B0MUpRMG5HRjFCeFdHdUFpMDF00gF0QVVfeXFMTmNtSVdqZEl5cXJxNDNtdUxZQnkzVTRTTGJCXzVzcDRGbWxGaUJyV1RHUkpnN3pWa2V6aUdMMG5JeXg2NWt5U2NDV25lYmxwVjhfelFMdUZfdUh4X3RmdWlncHQxSlEwbkdGMUJ4V0d1QWkwMXQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c0fe1c49a930",
-    "title": "二酸化炭素大幅減の水素エンジン 大型商船向けで世界初、９５％",
-    "category": "技術",
-    "accent": false,
-    "source": "中日新聞Web",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuTGhsN0tta3YydEVUTXBidG9oVlhocVQwX2k1Q2ExcmNxeFIxcmVXTm5UaC1PZlVNWWNIeldZRWx1TjI0TEZobDE3SXZfUFlXTjBJU1hTVVVCZ1ZRd3FTSE9XaGlfZw?oc=5",
     "image": null
   }
 ]
