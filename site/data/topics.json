@@ -23,19 +23,30 @@
   },
   "headlines": [
     {
-      "id": "auto-2cb14ccf0e69",
+      "id": "auto-c05b9e39490c",
       "rank": 1,
-      "title": "EC配送時の脱炭素化を推進するcomvey「シェアバッグ(R)︎」、豊島が運営するフェムケアブランド「Hogara」公式オンラインストアで2026年10月14日よりサービス提供開始。",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/15(木) 0:10",
-      "tag": "",
+      "title": "水素エンジンの迫力と、新開発サーキット用自動ブレーキに驚き。ボッシュエンジニアリング20周年記念イベントを体感レポ",
+      "category": "技術",
+      "source": "autosport web",
+      "time": "10/14(水) 21:00",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000027.000117395.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TTVBJT2YtcGVPTEhRWkw1Mjl5ODVzVzVnRGhXSUhXR1Ryb0w2RHRFbDhOcWZkMGhlVHhJZEx0cWtNNUgyV3dkNUVsNThBWThHVmc?oc=5"
+    },
+    {
+      "id": "auto-1a2a90147ac8",
+      "rank": 2,
+      "title": "｢トランプ政権下でも米国の脱炭素は不可逆｣州や都市が主導する気候変動対策｢America Is All In｣事務局長に聞く",
+      "category": "自治体",
+      "source": "東洋経済オンライン",
+      "time": "10/14(水) 20:50",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Iem5qdWR5b0Nld1hpclliOUdwa0V6UmZjQWVma083cjl6c0w1OFU0SGZldTc3NHdXYmpyR084WUZvSjBKSkNvT3EtYjhpRlVmZGtGTVEzcURtaVJQcmJr?oc=5"
     },
     {
       "id": "auto-138be1b79951",
-      "rank": 2,
+      "rank": 3,
       "title": "「天然蓄電池」岩石蓄熱で再エネ活用 東芝や中部電力、電力を岩に蓄える実証 - 日本経済新聞",
       "category": "その他",
       "source": "はてなブックマーク",
@@ -45,70 +56,59 @@
       "source_url": "https://www.nikkei.com/article/DGXZQOFD076DQ0X01C26A0000000/"
     },
     {
+      "id": "auto-aac5760869c0",
+      "rank": 4,
+      "title": "ジオスターなど３社／コンクリート自体にＣＯ２固定化／製造設備を共同開発／金谷工場に国内初導入、脱炭素化に貢献",
+      "category": "その他",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "time": "10/14(水) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rMGIzTnZfMVhCMndIbDdOT1EyRllJelFEWklWUktZYlh0SVBJT3p4YVlwYjBjWU9oQ2JCRWlDcGNwU0p0VFJwVmJ3VHkyR2xXWFA4bEJST0xUbTJSdnc?oc=5"
+    },
+    {
+      "id": "auto-9a4011bfc080",
+      "rank": 5,
+      "title": "編集者の視点 ｢米当局、洋上風力に再び横やり｣",
+      "category": "その他",
+      "source": "日本経済新聞",
+      "time": "10/14(水) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tUWRfVnFuaWNkMk9Xdmw3T2ZvdmdheGZackFqc1FRS2xWdkJNX1FLcmM0TFRlRGtOTGhma19VU0tEQVpLTDI2Wk5HN1N1SWhNdW1faTZwMXlERl9fMVJSdEZ5NEZhaW1oNFExdkV4aVpxMFphM0FJ?oc=5"
+    },
+    {
+      "id": "auto-342819d0e32b",
+      "rank": 6,
+      "title": "［秋田県］GX戦略地域認定が追い風なるか 2兆円構想で増す風力の価値",
+      "category": "自治体",
+      "source": "日経ビジネス電子版",
+      "time": "10/14(水) 20:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xcFZoQjlUZU1JNllOcXNWQ1d5ZURpeWxwNFVEa21PWktyUTF2UmFseUlaSm9wMG9LUHZNVThha2p4WHktNFhlMVU2NTQwLXlIRHBBckRzNkljWTBsNDFCVkRiR1BJVnM?oc=5"
+    },
+    {
+      "id": "auto-6ac5a7cb59b9",
+      "rank": 7,
+      "title": "赤坂熱供給、熱供給事業者として初めて東京都の「グリーン水素率先利用事業者」に認証",
+      "category": "技術",
+      "source": "ニコニコニュース",
+      "time": "10/14(水) 19:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zRWdQY2l2MXgyV0lIOE0xR3ZfRGs2YTBFeThHTnZrYmlacHUxZUVCSmlNUGt3YkdIOFdGUHZIYzdHYUlvVkhncE1xREhBZFRiYlBDUHRIZmFwX0F6UTBSSnE3Sy0xVXlrVl9DdGNPVFNvNWk5ZGl1SXhJOA?oc=5"
+    },
+    {
       "id": "auto-de7946c28a7e",
-      "rank": 3,
+      "rank": 8,
       "title": "川重など、商用仕様の液化水素「ローディングアーム」が完成 船陸間の荷役に -",
       "category": "技術",
       "source": "神戸経済ニュース",
       "time": "10/14(水) 17:49",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VRjd4MFBwdGxFTzVrNUkxNDZpb3BGZFJiTkxvN2h6X1VGNk9vUXl1U29hQktTVmZ4eGlqSEd6aUtGUlBWNzh6aW80ZGNGcm9zdW4zS1d5RmdJWWZS?oc=5"
-    },
-    {
-      "id": "auto-f104b88d4577",
-      "rank": 4,
-      "title": "タイゴエナジー、既設太陽光発電システム向けサービス市場が拡大する中、11MW超のリパワリング実現を支援",
-      "category": "その他",
-      "source": "Business Wire",
-      "time": "10/14(水) 16:48",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ZEczZWV2Nmc1NjVJZ2FjdmhUdFhKMnR6cm9XZVUtdEw5Vl9qa2llbkFIRW1kRlNMY0R1cU10YXMydEZNMlhMMTdhTWJYSG90ZzJUUXZRdS1kbmNPdFp1ejQ4bmJwaUE?oc=5"
-    },
-    {
-      "id": "auto-fbf0918437ed",
-      "rank": 5,
-      "title": "ハノイは、水上太陽光発電と500kV変電所の建設を加速させている。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "10/14(水) 16:43",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV0NTSEZJUl9ZaGJBYWxuZHBveWZNV2Vnb2FrWjhDQkhlM3ZIRDdTdU9EM0tDSTBzc21zT0QxdDVqTk9fX1daYzB3N2tNbEhmUUJTTDRsXzhJc0xhTFRjOGdQZ2RpbldJeGRjemprWjYxeHF6MkZhNTRqN3NXd1ZGWmQwamhFaTNhNFp4Q1Q1MHJMVms?oc=5"
-    },
-    {
-      "id": "auto-d0196ba359d4",
-      "rank": 6,
-      "title": "＜日経 地方創生フォーラム＞「宮城県で進む営農型太陽光発電の普及と実装」にて染めQテクノロジィが登壇",
-      "category": "その他",
-      "source": "Infoseek",
-      "time": "10/14(水) 16:40",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QUVBsZTZnM21aRl9LMWhhbkJXNzZGZDZ5Y1U4ckFydE8zSjZkd0QydWl0NzFzUEFpdWtlaXNzTGF1OXdwWlhUQmV6MU5QUnpfSWw0QldWbFBZNFdGN0pKWVMyLVlGRU9mYmc2THdxWDRUdw?oc=5"
-    },
-    {
-      "id": "auto-0e8afeee14ef",
-      "rank": 7,
-      "title": "ロムペトロルは、税金、エネルギーコスト、脱炭素化が燃料価格と製油所に圧力をかけていると警告している。",
-      "category": "その他",
-      "source": "Informat.ro",
-      "time": "10/14(水) 16:25",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjBlblZRZWZDNHZCd1VfZkt0LUFBY0JtUjg3VzFPNGVPUFZFWUR4UmRiLUQ5SWcyYWdwNWxxZjJtdUlfU3dyWGNVamtHVDBvSTNSQ1hoZHM2Y3lzMW5aNUdQRTRDQ3lmSjhSc01KSDVkUG5vWV9aNm56TWs1SUxkR1prc3pXQllkbk1WVEsyRjRsOFpCUkFfQ3N2OXk2Y0ZsdEJR?oc=5"
-    },
-    {
-      "id": "auto-71f58e87d632",
-      "rank": 8,
-      "title": "2026年上半期世界の太陽光発電モジュール出荷ランキング (InfoLink)｜土肥宏吉 - mbp-japan.com",
-      "category": "国際",
-      "source": "検索: 洋上風力・太陽光",
-      "time": "10/14(水) 15:02",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWGE3RmYzN21TeXE1MXlKaVoxODhDaFFJZEZUa2lrSThLMVJoeExtdXdVcGt0N0VTQTZEci1HWTZUTUloNXBYdXMxeG1PMllwOG9wUEZRaDExSW03c3ZpRA?oc=5"
     }
   ]
 }
