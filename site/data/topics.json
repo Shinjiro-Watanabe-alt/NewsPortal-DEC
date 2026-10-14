@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-0153d3b3d413",
-    "title": "「GX-ETS実務セミナー2026」に経済産業省の基調講演が決定、10月29日（木）にオンライン開催",
-    "summary": "[株式会社FIY] 脱炭素・GX・カーボンクレジット専門メディア「CaboCre（カボクレ）」を運営する株式会社FIY（本社：東京都北区、代表取締役：宗 敬大）は、2026年10月29日（木）に開催する無料オンラインセミナー「GX-ETS実務セ...",
-    "category": "企業",
-    "source": "PR TIMES",
-    "time": "10/14(水) 6:10",
+    "id": "auto-a0d215671e1f",
+    "title": "オムロンが家庭用蓄電システムの新モデル パワコン1台で太陽光・蓄電池・EVに対応",
+    "summary": "オムロン ソーシアルソリューションズ（OSS）は2026年10月9日、家庭向け蓄電システムの新製品「KPTP-Bシリーズ」を2027年1月から販売すると発表した。",
+    "category": "暮らし",
+    "source": "ITmedia スマートジャパン",
+    "time": "10/14(水) 7:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000163870.html",
-    "image": null
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/14/news017.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/14/cover_news017.jpg"
   },
   "headlines": [
     {
-      "id": "auto-9d7708792140",
+      "id": "auto-0153d3b3d413",
       "rank": 1,
-      "title": "環境省の大規模実証プロジェクトに採択！東京海上アセット、海藻養殖による「大規模ブルーカーボン事業」を始動",
+      "title": "「GX-ETS実務セミナー2026」に経済産業省の基調講演が決定、10月29日（木）にオンライン開催",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "10/14(水) 4:10",
+      "time": "10/14(水) 6:10",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000042.000109723.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000163870.html"
     },
     {
-      "id": "auto-7f84b582dce8",
+      "id": "auto-457de438acc8",
       "rank": 2,
-      "title": "共同カイテック、2025年度におけるScope1～3のGHG排出量を公開",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/14(水) 4:10",
+      "title": "レポートオーシャン株式会社プレスリリース : カーボンアカウンティングソフトウェア市場、CAGR 23.8％で成長｜ESG情報開示・炭素排出量管理・サプライチェーンの脱炭素化が導入を促進",
+      "category": "その他",
+      "source": "ドリームニュース",
+      "time": "10/14(水) 0:30",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000072.000078826.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NdEdRLTRVc3VuNFpsdjdEMmdTZEpGMnNWUElVdEcwdklvZEo2YzNGRUhwTHkySVFQRC15QmVWNHYzU2x6RWVmMG1LLVpKN2VvdFRB?oc=5"
     },
     {
-      "id": "auto-278b7158d79f",
+      "id": "auto-7b00e0033a43",
       "rank": 3,
-      "title": "長崎市で始まった世界洋上風力サミット＝13日 - 洋上風力発電の展望と課題探る 世界サミット、長崎市で開幕 - 写真・画像(1/1)",
+      "title": "次世代燃料SAFが変える航空産業 脱炭素と国産化を巡る世界競争の最前線",
       "category": "国際",
-      "source": "西日本新聞me",
-      "time": "10/13(火) 21:14",
+      "source": "月刊「事業構想」オンライン",
+      "time": "10/14(水) 0:01",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrTkswNlBaLVIybmd2WkZNUlNvUHBFNmFYWnVPT0hjaTNwVFdkTXYtTEdJRkpEVXN6Z3d4WkFOXzdiT0taMlFLTjhOR0piaFlCckZWTk56MA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0tkVXg4VmpaZ0d5VHhSWG13a1FiT2YyVldDQmJOMThvN3l0NGZOT0VTZ2lXRzF6M1hreDBBRm1XVjdtN1ZnZ05vUjV3d3N6OW8xZHBfSVFJcF93bkJIeDRXM3RTMUxUeGdISG9kY3d3ZWlMYjI4cndVZ0RlU3lTLUZNMkNkQQ?oc=5"
+    },
+    {
+      "id": "auto-731f151b73ca",
+      "rank": 4,
+      "title": "川崎重工、名古屋第一工場に太陽光発電を導入 工場間で電力融通",
+      "category": "その他",
+      "source": "日本経済新聞",
+      "time": "10/13(火) 23:35",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hdkYzalRJalBjdWVrajFnb1dvcWNKMDZXX0Y1bU9rS3YwWGxOelF4Zkw4V24wTm9UcUZzajNLaWZfXzB5ZlNHdmU4ejFBY3hwdHNScXUwWlAyazdSZGl3Wnl5VEpLVmNOdHc3aA?oc=5"
+    },
+    {
+      "id": "auto-f21cee14f470",
+      "rank": 5,
+      "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL91号 愛媛八幡浜第二工場系統連携蓄電池シリーズ 完売』",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "10/13(火) 23:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1laG1aT1dQUkNuQnNDRXlwV2FLWlRkeWU1aHQyMEFxaldrNjZvOUVOVEl3SXVyU1hmTndGQVo5ZUJ3aUlEZi14RXp1ZzhvV2E3THBkbjJpMXc1VWdKVmRqMnlQbmlYc19pUnc?oc=5"
+    },
+    {
+      "id": "auto-d3c84bb88478",
+      "rank": 6,
+      "title": "コスモと岩谷産業、千葉製油所に液化水素プラントを新設（Auto Prove） | 自動車情報・ニュース",
+      "category": "技術",
+      "source": "carview!",
+      "time": "10/13(火) 23:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWp4aHB2c2pIUllUZ1dzbUhyU19LdEFrV0lXM0RxUExuRlI1Y1J1WjZPT2szd0ZDMG5MbzhUczUteldMbk1CX0tOSjhscGRMRl9wbmxOWFl6dV9sZnBLVFNLcVpBdG5uOWhtMUxldjlLZ1pILUs5N1JoVmh5TnFZRmhrdW8xYWFj?oc=5"
     },
     {
       "id": "auto-4e0ab2a00c13",
-      "rank": 4,
+      "rank": 7,
       "title": "東電HDディールに追い風か､脱炭素支援の制度改定－財務改善可能性も",
       "category": "企業",
-      "source": "Bloomberg.com",
-      "time": "10/13(火) 21:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnZkOEY0ZGlZVGxMRXcxSnNPTk5FWlNmT21KT1FCVHg5RzhkbXo1N1M0VmwyVlpnVlFMeVVSLVJid1V1Q1FrcEpYdkZDQnJab1l2azdzb3g1UzAzd0U3aDBMdURJSzBtXzB4UjNrZDlFTndOeFAzVHVMVTFCUzIwZnpFM1hKQlZmMWpRY1Vn?oc=5"
-    },
-    {
-      "id": "auto-b6e7f81b4b39",
-      "rank": 5,
-      "title": "トヨタが新型燃料電池バス「SORA」を発売。航続距離300km超、約10分で水素充填できるFC路線バスが登場",
-      "category": "技術",
-      "source": "スマートモビリティJP",
-      "time": "10/13(火) 21:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96dnRtUnhjZnZGdExRZ21LakIxOXlmWkp5QTR4SV93UUtvQlY4UE5OQUNhUnB3dTRpbktJTmhtcjVtUWQ0NExtbldlMGJCM3A5bTQtVQ?oc=5"
-    },
-    {
-      "id": "auto-a051bf4e63fa",
-      "rank": 6,
-      "title": "洋上風力発電の展望と課題探る 世界サミット、長崎市で開幕",
-      "category": "国際",
-      "source": "西日本新聞me",
-      "time": "10/13(火) 21:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFQ2t4RURTanZNRlI2LWlMSFE2UHZBa0gzUzBtbXJnSHJTb3otR21CMElHdlJ1SHRReVZFZjFrbzlQb2ZiNUlxMVNXSWRMZFFyT3owZkx3?oc=5"
-    },
-    {
-      "id": "auto-9444310647c7",
-      "rank": 7,
-      "title": "天満紙器、つくば工場に太陽光発電設備導入",
-      "category": "その他",
-      "source": "LOGISTICS TODAY",
-      "time": "10/13(火) 20:15",
+      "source": "TBS NEWS DIG",
+      "time": "10/13(火) 22:41",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9teGlfeEp3Y0ZuOXJDbWRKWVI1cnAyVmlIZHVxRFZDamN3aldhZWkwYVBJLUQ1d0I1c01qeXJsc0FpcWFrOFZBcS13?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qSm9NVDN0Vks3MEpKdnJuWGJ5aUZ1MDVTOXU3Q0tCMmNacXA5WjRQbGdRTlFsaXJEV0RTanlFYjM3VURtazhROEotQzItNXYtMkNkM05heDRycWVUX2wyQWtQNmljdklXckc1RlhfaU45aEdQ?oc=5"
     },
     {
-      "id": "auto-100730017f2b",
+      "id": "auto-005573d4274f",
       "rank": 8,
-      "title": "北国でみた脱炭素の壁 根強い油文化、「CO2埋める」に期待大きく",
+      "title": "【案内】京都大学：京都議定書から30年テーマに地球環境フォーラム、脱炭素を法律・経済・需要側対策から議論",
       "category": "その他",
-      "source": "日本経済新聞",
-      "time": "10/13(火) 20:00",
+      "source": "みんなの広報宣伝部",
+      "time": "10/13(火) 22:27",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94T0tERnFmbk96NEp3WGJWQmxnMnRLMEVUWC1IYUk5TmFtNEFrUjdqcE5ja1FXU2NFdjFRUkZ2RnRadlZCWGw3QTZ3dHhTVlNvTGdwc2pvTmxkcDQ0MzhiT1BPb0ZRblVlZmc3Qg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MYUJ4ZFcySEgzSUZlbkdVWmVqUFZfTXlVX0oxVF9GTTZFU2xDUEFMRDZ1SlJoazlka1lrbHVCRWNRT0xNS21qdEhEY1F0eE9nWkNWVzl5dmNqY0dZNlJCcDZEUTlWQ1UybGVaN1ByWUxSZw?oc=5"
     }
   ]
 }
