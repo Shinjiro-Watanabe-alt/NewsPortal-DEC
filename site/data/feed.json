@@ -1,22 +1,202 @@
 [
   {
-    "id": "auto-9d421bc649ca",
-    "title": "バイウィル・旭タンカー等による環境変動下におけるワカメの比較実証およびブルーカーボン創出に向けた大規模実証事業の開始について",
+    "id": "auto-a2f86ac05c81",
+    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "3:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000523.000013100.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/13100/523/13100-523-de7fc246b9ed732bd31c160120570cd0-1920x1280.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "9:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/136212/163/136212-163-f1b5a9d742b0f1b7590c9c892e7b980a-800x570.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-aa3456219529",
+    "title": "【想定年利20％・運用約5ヵ月】成長市場への投資！電力網への接続権利を整備し、実需家へ一括譲渡する『熊本県阿蘇郡南阿蘇村系統用蓄電池用 接続権取得・譲渡ファンド』募集開始",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "9:15",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000066.000170473.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/170473/66/170473-66-f25d017ff99e7ff318322f6475930f0c-648x486.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-827392eaff82",
+    "title": "環境にやさしい選択で横須賀の未来を変えよう～横浜F・マリノスと連携したゼロカーボンアクションポスターを作成～",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "9:15",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000656.000128894.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/128894/656/128894-656-9aefe2a31967732ffb7225138a0c08ab-417x591.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-5a30ffce079b",
+    "title": "【再エネ事業で新たな支援契約を締結】国内エネルギー事業者との事業連携を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:50",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JNDlsaThHZ0VyOXNXc2pXVHFOVDROaXdIX1dSR2FRWlRLdHd6aXlBcnNMMXVlUnd1WTU5dGZGMnBtTGlOQllXZ1NxYVZ0US0zX1lqU3AwUjBRNDBXMnppZDVVQlk3N1gzQ2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4bf07f6e884f",
+    "title": "川重・TBG、川崎の水素ターミナルに荷役装置",
+    "category": "技術",
+    "accent": true,
+    "source": "LOGISTICS TODAY",
+    "time": "0:20",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SMktGaHZuYlNWU0FaTzZvVzR1SGMxWFAya0RPTGZhMDZWZkNIM2FfWmFiRC1jdWRWWEw3bjU1ZUZ4bWNqdWM3NXhB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-80637449c70a",
+    "title": "カーボンニュートラル食品が注目される理由｜日本の取り組みと選び方のポイント – SDGs特化メディア-持続可能な未来のために",
+    "category": "その他",
+    "accent": false,
+    "source": "mirasus.jp",
+    "time": "0:13",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hMDUzRmxVRGpkMURnQTVOejU2Rl9WWl9kWF9ldGtTdHU0ZHpmRU8waC1FbTNRU1NFX3k1RkcwYkFNbGYzdDhiZ05jb0E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-17ca77651e1f",
+    "title": "SAKIGAKE JAPAN、東京都GX交流会で水産物流の脱炭素構想を発表",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "0:03",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50cnlOb21PZVg3MnZqVG8zbXBmN19vM3daV0FIZXBKeDF4TU5UTkJJdklRalU5Z1BIbnhJZlhVZzBTS0pDQWxkY01GNG40YU5peTRZTF92TXdEQXV6QkJCaWhsWThENUVVX1NaU1RkOHRSUGhVZHgwekx4Yw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-973c2f38d8b1",
+    "title": "日本エネルギー効率コンサルティング市場：2026年の省エネルギー補助金と産業用エネルギーコストの上昇が、新たなコンサル",
+    "category": "その他",
+    "accent": true,
+    "source": "ニコニコニュース",
+    "time": "0:03",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ubmpFalZ1YUV0LUFkZEtnMEFKMnZzeHY3dlFIN2djT0RkVGUyVmVEd0hYbnhqOHVBeGYyMHh5eU9xMGNvOF8zS1hkWEh2YkZqZDliRy1MdHNsc1hzY3lvNTJkRl9PdlVUcHkzQ3NyNGtzeE8xSE1jcnNWaw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cb7953f7426f",
+    "title": "（一社）板硝子協会が実証実験の成果を報告 建築用ガラスのリサイクル可能性を確認 脱炭素社会の実現へ大きな一歩",
+    "category": "その他",
+    "accent": false,
+    "source": "Housing Tribune Online",
+    "time": "0:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mWUJRVzloZ2hpQm1LZkxBNjBDNDJtVFA0cmN3WWZtUEo1aktsa3o3d2x3SnFwb29JX1VaOVBoSDRCWFRuYnJNaWpfOEJhMnlFanc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ffe6416a57e5",
+    "title": "窓を活用した太陽光発電で、雪が降っても発電を続ける",
+    "category": "その他",
+    "accent": false,
+    "source": "ジチタイワークスWEB",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OX05ic0JUeVV0UkgxaDVGanZzY09qQkJYQTRmQWdpM0NNcWRmVUstcVoxcjczUi13MkgtV1pWX1ExZnJHVGxSY1BpOWw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7c1d9554b8b8",
+    "title": "なぜトヨタの新型燃料電池バスが「長距離輸送」の常識を変えるのか？ 水素の満充填は約10分！ バス事業者にも広がる「充電時間と稼働率」の見極めとは（Merkmal）",
+    "category": "技術",
+    "accent": true,
+    "source": "Yahoo!ニュース",
+    "time": "23:06",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkpRSDBTMUtCdU90OVItUzQwNUNIbm1EUXVwbE5wd1ozOGg3b29VdmtzbzdJX3E0SGNLMWoxaTVlQ0JPeVJzSXBnSC1ZRzNkYW1KYm5aNGZqdEZ5eXBEQlFCcnhnSnlfUk5wMDB1ME1kckd6UThGMnRlQXFybkFFRXlGeWt2SmNz?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-612210f04967",
+    "title": "なぜトヨタの新型燃料電池バスが「長距離輸送」の常識を変えるのか？ 水素の満充填は約10分！ バス事業者にも広がる「充電時間と稼働率」の見極めとは - merkmal-biz.jp",
+    "category": "技術",
+    "accent": false,
+    "source": "検索: 企業の脱炭素・水素事業",
+    "time": "23:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xZHpOUHRZdUZDTHRwVnVqWS1CZnUzZ1oxSjhHMk1IeHJxOE54U3BEZGpRTU1rTUNjRk05SnFfVlluMVZGZEdPT25n?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-005aae7de2d8",
+    "title": "サステナブル観光は「測る」ことから始まる AIカーボン計算機「Humí」と世界の事例から考える、観光の脱炭素化【セミナーレポ】",
+    "category": "国際",
+    "accent": false,
+    "source": "やまとごころ.jp",
+    "time": "23:00",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QVNkb2ptVExOXy1Nd0czTHhhZDJvdkctQlR4RzNoc21fdHRNaFk1Z3BLNi1IZXBaZllkRndPaENaMmMxYUJGSm1iSjQ1MXJQRWpuWGtJRGNvQ1c0SFM4V0RyVmVsR1h5NWY4?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3f4a2185e056",
+    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ② 完売』",
+    "category": "その他",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "23:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10QmVuMUR2M1F4Wlo1SDJjNTg1ckFodUNCZkdyMkxfYnAwVUhSbEQtdDZfV0t3bGxNRjhzd0owUDJWLWtrWHR0bm1wUVY3SEFRYlcyRlgtOTlPQTZEaGRHZXBmeHZxQ20wY1E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c55e3e39b03f",
+    "title": "洋上風力・作業員輸送船お披露目 国産初、来春から本格稼働",
+    "category": "その他",
+    "accent": false,
+    "source": "47NEWS",
+    "time": "22:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41ajBDeFg0VTJxd0h1ajc3WjRZdW53NlI3a3Z1WG9XUzBIVUhHNWd5Znk2ZEllTWc4LUlGVlBPTWpFNDVsXzIxQ181QQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-98bf70db3e24",
+    "title": "なぜトヨタの新型燃料電池バスが「長距離輸送」の常識を変えるのか？ 水素の満充填は約10分！ バス事業者にも広がる「充電時間と稼働率」の見極めとは（Merkmal） | 自動車情報・ニュース",
+    "category": "技術",
+    "accent": false,
+    "source": "carview!",
+    "time": "22:21",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVZ0TzJ4UktqX1B4V0RyTHNud2pISE5RSVVHcXFoeEh0Q1Q4VHlXN0F3b2NTRkFwRjdtQ2U4NEZYMEZMdzZJdGptbmlrSEZfWXFES3VmQkVhRVZ2b1hSWk9vSFlwdW1GcUJJY3pnUTlMRWs4WVFZbUVRMnotSnpWNXNzMUNXVzFrRU9jS2MxZXBPNDhE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f9396871b254",
+    "title": "【太陽光発電】中部電力：青森・八戸で出力1990kWの太陽光発電所稼働、年間340万kWhの発電を計画",
+    "category": "その他",
+    "accent": true,
+    "source": "みんなの広報宣伝部",
+    "time": "22:09",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BWWNPZmdCbTlseU9xMk03SF8zMmxPamhXckNEMEd3UEtLWmFHT3NWWm95Z2Q5WFlJaWpPTFhTTm54UzBtd1VHdEtVSkV1amZ6dkdCaG5JS2lvaFE4T2Z3aTZaVnhCYzZjRWlhMkJHcm5qUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-02c5508bdd3f",
+    "title": "【太陽光発電】東北ヒロセ電機：宮古工場にオフサイトPPA導入、6カ所267.3kWの太陽光から20年間電力供給",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:09",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51VXlneDJJYnZzS1ZJbDRiVXJral91cUNfMElFSGhhLU83RVpUWWFENE9VYkluX1d0R050eUNtcFZqYk1DQ2Y1MXlTODh5SmRDVEFSR21MVElSQWVpSGNzN0RTNVBUVjB5Z05EdG43TFZkUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-bd010ed9b740",
+    "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "21:30",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52VFZycUZubGVac2M1RjFQaXNpOHJla0xGMjcyVU9aRXQyTU95bG1lMFdPZ3hzVVZXdnE1NFFENUJDLUhPR2x0ODQ1R1NzaHBMLU1uNERDaEpSYnVZM1BiemNyTU9JNU0wcGdLMTVQbTVNcVhKVS1fZkR5MA?oc=5",
+    "image": null
   },
   {
     "id": "auto-c05b9e39490c",
     "title": "水素エンジンの迫力と、新開発サーキット用自動ブレーキに驚き。ボッシュエンジニアリング20周年記念イベントを体感レポ",
     "category": "技術",
     "accent": true,
-    "source": "autosport web",
+    "source": "ｄメニューニュース",
     "time": "21:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TTVBJT2YtcGVPTEhRWkw1Mjl5ODVzVzVnRGhXSUhXR1Ryb0w2RHRFbDhOcWZkMGhlVHhJZEx0cWtNNUgyV3dkNUVsNThBWThHVmc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1pYWWI2bG90ZndEeGlZWWRsYlBtSDFJejY1Q3pqY1dUR2hkUTZRMmxaVG5Ud2lXYVdJd2VKSUwtRVFfQnhBcE9lSk53RjBhY3FKVUFmNGNnN2JMQ0p3N1ZkN19rRU1VM1lCUGRyYjdtel82cVlvb0lHNjY1bE5ISWx4UV9Gd9IBhgFBVV95cUxNa1pYWWI2bG90ZndEeGlZWWRsYlBtSDFJejY1Q3pqY1dUR2hkUTZRMmxaVG5Ud2lXYVdJd2VKSUwtRVFfQnhBcE9lSk53RjBhY3FKVUFmNGNnN2JMQ0p3N1ZkN19rRU1VM1lCUGRyYjdtel82cVlvb0lHNjY1bE5ISWx4UV9Gdw?oc=5",
     "image": null
   },
   {
@@ -70,10 +250,20 @@
     "image": null
   },
   {
+    "id": "auto-f027d3dcb313",
+    "title": "「蓄電所がけん引するIoTの第二段階、電力全体や店舗にも波及」、シンガポールUniversの百合田カントリーマネジャー",
+    "category": "その他",
+    "accent": true,
+    "source": "日経BP",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNnBPU1Y3RjF4anJRVVRaOUY3STBIVWc0Nk14T043eGh4M2w5dGtSRmQwTkJZS3dfUzN1M2Q3Q09NVDhnVkRQZ205TlVyS0FRcVUzbTFZOVYzTnZKbWIwbEh0YldEMjlZYXhEdDlFV3otOURJZHZKVA?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-6ac5a7cb59b9",
     "title": "赤坂熱供給、熱供給事業者として初めて東京都の「グリーン水素率先利用事業者」に認証",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "19:15",
     "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zRWdQY2l2MXgyV0lIOE0xR3ZfRGs2YTBFeThHTnZrYmlacHUxZUVCSmlNUGt3YkdIOFdGUHZIYzdHYUlvVkhncE1xREhBZFRiYlBDUHRIZmFwX0F6UTBSSnE3Sy0xVXlrVl9DdGNPVFNvNWk5ZGl1SXhJOA?oc=5",
@@ -93,7 +283,7 @@
     "id": "auto-f104b88d4577",
     "title": "タイゴエナジー、既設太陽光発電システム向けサービス市場が拡大する中、11MW超のリパワリング実現を支援",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Business Wire",
     "time": "16:48",
     "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ZEczZWV2Nmc1NjVJZ2FjdmhUdFhKMnR6cm9XZVUtdEw5Vl9qa2llbkFIRW1kRlNMY0R1cU10YXMydEZNMlhMMTdhTWJYSG90ZzJUUXZRdS1kbmNPdFp1ejQ4bmJwaUE?oc=5",
@@ -103,200 +293,10 @@
     "id": "auto-fbf0918437ed",
     "title": "ハノイは、水上太陽光発電と500kV変電所の建設を加速させている。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "16:43",
     "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV0NTSEZJUl9ZaGJBYWxuZHBveWZNV2Vnb2FrWjhDQkhlM3ZIRDdTdU9EM0tDSTBzc21zT0QxdDVqTk9fX1daYzB3N2tNbEhmUUJTTDRsXzhJc0xhTFRjOGdQZ2RpbldJeGRjemprWjYxeHF6MkZhNTRqN3NXd1ZGWmQwamhFaTNhNFp4Q1Q1MHJMVms?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d0196ba359d4",
-    "title": "＜日経 地方創生フォーラム＞「宮城県で進む営農型太陽光発電の普及と実装」にて染めQテクノロジィが登壇",
-    "category": "その他",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "16:40",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QUVBsZTZnM21aRl9LMWhhbkJXNzZGZDZ5Y1U4ckFydE8zSjZkd0QydWl0NzFzUEFpdWtlaXNzTGF1OXdwWlhUQmV6MU5QUnpfSWw0QldWbFBZNFdGN0pKWVMyLVlGRU9mYmc2THdxWDRUdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0e8afeee14ef",
-    "title": "ロムペトロルは、税金、エネルギーコスト、脱炭素化が燃料価格と製油所に圧力をかけていると警告している。",
-    "category": "その他",
-    "accent": false,
-    "source": "Informat.ro",
-    "time": "16:25",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjBlblZRZWZDNHZCd1VfZkt0LUFBY0JtUjg3VzFPNGVPUFZFWUR4UmRiLUQ5SWcyYWdwNWxxZjJtdUlfU3dyWGNVamtHVDBvSTNSQ1hoZHM2Y3lzMW5aNUdQRTRDQ3lmSjhSc01KSDVkUG5vWV9aNm56TWs1SUxkR1prc3pXQllkbk1WVEsyRjRsOFpCUkFfQ3N2OXk2Y0ZsdEJR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e23ecca773bf",
-    "title": "2026年上半期世界の太陽光発電モジュール出荷ランキング (InfoLink)｜土肥宏吉",
-    "category": "国際",
-    "accent": true,
-    "source": "JIJICO",
-    "time": "16:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWGE3RmYzN21TeXE1MXlKaVoxODhDaFFJZEZUa2lrSThLMVJoeExtdXdVcGt0N0VTQTZEci1HWTZUTUloNXBYdXMxeG1PMllwOG9wUEZRaDExSW03c3ZpRA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a94d1e277205",
-    "title": "系統用蓄電池事業の第2号案件始動滋賀県長浜市に「fantasista nagahama PSS」建設開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "13:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEek50c2EwUFU0aEduLVRaUm85OXp2aXdSVUNrR3ctMjFfNGd1c1lOeUpvaE5VU0NBZS1FdUU0MWZkSTl4bkNzOW04X1A2aWpQbFhsNU1TSWZJUU5zVjFDeHFRbEVEUGJt?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/93934/64/93934-64-c9a5fcb3cb201c77888ab39f3e9ab48f-1448x1086.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-ccfbcf49df22",
-    "title": "「名城社長会」例会で経済学部・加藤真也教授が「脱炭素時代の企業経営」テーマに講演",
-    "category": "その他",
-    "accent": false,
-    "source": "名城大学",
-    "time": "12:17",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncVlLSDN4QXllSDRYdXpXVkhUenI5dDIxeGRMUTRNOE9qakVsZDZZbkM5c29MUWlvMFFQcHRSdUoybmF2ZVZJWWNDQ0NGZElQQ2RLNDQyRExLWXEz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e264f7321b50",
-    "title": "太陽光発電は発電量を増加させ、LNGプロジェクトへの投資を促進する。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "11:57",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFVQZzhsd3NOUTFoTW9jbVB2dzJlQW5ZNlNGQkxpM3ZHWXFmVUxSOWgyYTljZ1VPM3FZRWU0b2NHbUZwVHg3cnRQdzRuUnJUaEtjYjdXRjhjVDZNTGpRb2phVnRma1ZQcTBuOG9mN2ZDdTBUQTd3TVRVUTZHR3ZuV1hlVEtfM0FQWWZXUXpDRDVGRlVmNlE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-70d2fd2554c5",
-    "title": "余剰電力を「岩石蓄熱」 新東海製紙島田工場でプラント実証運転開始 エネルギーの地産地消と脱炭素推進",
-    "category": "その他",
-    "accent": false,
-    "source": "静岡新聞DIGITAL",
-    "time": "11:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iZ3U4RGJVR3c2UGVuaWhRMm1uVElsMzM1ZEJjS2o1a0w4aEFFeFNJMmtNckJ4MUdhMS1zczNKdktwQ2swMThwWERoUzYwQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af4f85fe8c11",
-    "title": "省党書記がソンラ水力発電貯水池の浮体式太陽光発電プロジェクトを視察した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "11:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2VNekh0eWFJZERuaGNqdDN5Z3A2S2NoSC1ORTVweHNNaE5PN1Q4MHlBbWpmU2pxYmc5WE95OUxBMy1UVy1ZcGlLUENjQzRORUR4SHlDd2RJU3AyN1lSbG16R1BoYlFOWjk3RXYxajc2T2xfVGhnNS14OTNBd0VmVHlrZXBIQjMtWXdpZjU5bHdmclJZYXZidlhQMmNfOWRMNm9Wc0YxN3ZTWlE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-bd010ed9b740",
-    "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始",
-    "category": "その他",
-    "accent": true,
-    "source": "Excite エキサイト",
-    "time": "11:15",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xa0NBM2podk5PVkNUdER6X3h5WFZBemxCZ3BnSGc3aHdKaVlQSFB6MlMyTWJRRUVWVnViR2tsWFEwZ1RTenFiX0ZlSG4tZVdCQ1pZYTU5SDQ4QXhvQ2ZCeTJMYkpqeFFjSFVGNzdPTW1FSVk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3a2bb1b74fc1",
-    "title": "鈴木知事「秋田の3港を洋上風力拠点港に」 県など5者、デンマーク企業と連携合意 知見共有し港湾整備へ",
-    "category": "自治体",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "10:58",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tTXVXckliVnJOS3pMR2lBWDRnejZ6ODFXOG00SHdrUFFaSEdUV29YWHR6QlVoQVduRnY4V2pWbE9xNkZONzBJdVRkNUF0RXJISFFfSDJNUlIzVnJ3TGFHTTZwajBhNTNqZFlRbWh3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6b73754da8ec",
-    "title": "「燃料費でキャッシュアウトがない世界を」水素エネルギーの国際会議 普及に向け山梨の長崎知事・東京の小池知事ら議論",
-    "category": "技術",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "10:56",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUbXJDMkpzVWl5Sm1TaW9IU0FVYVpzSEQwZllsS1lCdlkxa3EybGxheVNLYWIzYUhfMW5GSDY4YldyTWt1Qm1GZzR3elp3eDFZeFpBVjU3QXdiR0ozdXNSNFEtVzBIOXF1YTJIYkJB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d553e8df9568",
-    "title": "遠洋海運の脱炭素に新たな選択肢、グリーンアンモニア需要は持続的に拡大-中国",
-    "category": "技術",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "10:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DNGRIZDAtVWZSbzVZWlNsVGI0c1BRQ0RUSzN6QWJCdDRmcmRoVHRIX0NPUXNKTVJGcTNKSEctV1MtdTdRRU81LWkwbUFUV1NaSWpWcHNmdnRNUUx5cmZF?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ecd488e2525e",
-    "title": "遠洋海運の脱炭素に新たな選択肢、グリーンアンモニア需要は持続的に拡大―中国",
-    "category": "技術",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "10:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bE84akpoOUFBNjRjRS1hRFZ5MHFOQklvemJVbThtU3h5S2s4M19wWXJDY1hzc3doSmFQeXlkd0lYREJaSXZUdGxvbWlvdUtiMnpHSE9aSDhrdXUwbzRHT1N1X3pPakU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-11263b7c2c26",
-    "title": "長崎で初開催！🌊10月13日〜15日、出島メッセ長崎で、洋上風力発電の国際会議「GLOBALO...",
-    "category": "その他",
-    "accent": false,
-    "source": "選挙ドットコム",
-    "time": "10:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZEIyN3VDRHFVakJMd3cyMzZOODBYc2VrX2d2M1hwOUVXVkkxcWVzVktsRjRmVURZV0pxaDZacld5VTdZWnJxZExLRHd4cFhrbFJVQmc3STBMblpKbFJn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2d0e4146c276",
-    "title": "エネルギーの効率的な利用目指す 県内初 蓄電池型の超急速EV充電システムが量販店に登場 若狭町",
-    "category": "技術",
-    "accent": true,
-    "source": "ｄメニューニュース",
-    "time": "10:16",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmwyVXdCcUs1ZXVqa1Zvcy1NZUZUY0p0dmhVa1pIZHQ3QUpTU21nS0M4Qk9GNjRrTWloNTJZQkRUNjkxWVZzRlE0TkxfZUpnRkxzdGZ5LUFSQzRIN0tIVUR0T2J2ckJRenBUQ21mU3RqWHppSXlCX3lSbXhwWlU3QtIBgAFBVV95cUxPSmwyVXdCcUs1ZXVqa1Zvcy1NZUZUY0p0dmhVa1pIZHQ3QUpTU21nS0M4Qk9GNjRrTWloNTJZQkRUNjkxWVZzRlE0TkxfZUpnRkxzdGZ5LUFSQzRIN0tIVUR0T2J2ckJRenBUQ21mU3RqWHppSXlCX3lSbXhwWlU3Qg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f85aea788dd7",
-    "title": "坂出市やコスモ石油など5者、廃食用油をSAFへ資源化 四国初の連携協定",
-    "category": "自治体",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "10:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWVN3cEZMMkJUaGVFZlhmQkFXYWo5UWFMM1Z3TUV3bXRSOFhIdjhlUHVQNU80MGo5TE42UUxhQ1Y2czNHaGx2LXJpTzd4OUZqVDJub0UxLW1QRTFiRk1EQ0dzYXA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cecdaad37592",
-    "title": "ダイセルGr.ダイセン・メンブレン、12月ENEXに出展 - 独自省エネ技術でデータセンターの未来を切り拓く",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "10:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QMV9PS2d0RlFHQnhIVWpUNEVLaWVZY240VnRJdENTNzlpZWlQenhNamp0Y1FxbDRNc2Rid1VTT3NacDFQQWMwQzFwN0dyM0JnMXVZVkVXSnExeWpLSFhqcGphdU5zaEFUU0JpNlBrM3U0OFRmcVFHMkFOMA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-facc51ec19ba",
-    "title": "ポイントを貯めて脱炭素！「マイチャレかがわ」（2026年10月14日掲載）｜RNC NEWS NNN",
-    "category": "その他",
-    "accent": true,
-    "source": "日テレNEWS NNN",
-    "time": "9:53",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2M5eGcwcGhXTVFJZkljc1NWcXIwbVFOYnZZOFdhaG9HQl9BLWtPSVROSWhDQ2pKWXk0REZydGQ2ZXNRa2MwVm1XVzZZdnhya3NsYVREZDFnNDU2NnRibDdPV2FaU3dFMlBFN1lRY3JXaGRKZ01QWmVCajBQRTd4bjREQllFV00?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e747120fc23f",
-    "title": "山形・遊佐町沖の洋上風力発電計画 酒田市が専門家の意見を聴取 景観や渡り鳥への影響など議論",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "9:50",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85X1BjbHM4TkxCRXlVa1c2RDF6eDV6MkZwN2V2S3ZJQzltQXRCeFRvdmxnQkhrQlZsQkRYR1hKZXZuQW5DR2RnWmVjaFA5Q0IzZWRJRm9IdUNweWJyMkt1Q1RITVNhVTdrUFFab0Vn?oc=5",
     "image": null
   }
 ]
