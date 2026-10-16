@@ -11,42 +11,86 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-a2f86ac05c81",
-    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
-    "summary": "[株式会社グローバルクラウドエステート] [画像1: https://prcdn.freetls.fastly.net/release_image/136212/163/136212-163-f1b5a9d742b0f1b7590c9c892e7b980a-800x570.png…",
+    "id": "auto-949dcf1860cb",
+    "title": "TESSグループ、合同会社クラダシ・インベストメント２号様から「系統用蓄電所」の設置工事を受注",
+    "summary": "[テスホールディングス株式会社] テスホールディングス株式会社（本社：大阪市淀川区、代表取締役社長：山本 一樹、以下「当社」）は、連結子会社であるテス・エンジニアリング株式会社（本社：大阪市淀川区、代表取締役社長：高崎 敏宏）が、...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "10/17(土) 3:10",
+    "time": "10/17(土) 4:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/136212/163/136212-163-f1b5a9d742b0f1b7590c9c892e7b980a-800x570.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000184.000143072.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-7e1494d2acee",
+      "id": "auto-393a2352c054",
       "rank": 1,
-      "title": "企業・自治体×学生の共創から社会実装へ 第10回「デカボチャレンジ2026 Summer」を開催",
-      "category": "自治体",
+      "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
+      "category": "企業",
       "source": "PR TIMES",
-      "time": "10/17(土) 3:10",
+      "time": "10/17(土) 3:40",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000161.000122970.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html"
+    },
+    {
+      "id": "auto-1439a6436cde",
+      "rank": 2,
+      "title": "再エネ出力制御はなぜ16倍に増えたのか――優先給電ルールと蓄電池の役割を読み解くウェビナーを開催",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "10/16(金) 21:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43T1ZQSThHVFpBbTMzS1BmbXN0WGctakdpT3pESEJOaFNWdkczLWRjVmkyMEN0S0wwbXlHNlA1Qm9STVl2cnNvN2EwWk1STURfbnI0YzR1dGVmV3NRNDRxd3pMT1p5LS1Jam5pYjZBM3drc3dSX1ZRR0JMOA?oc=5"
+    },
+    {
+      "id": "auto-e6b797cc5689",
+      "rank": 3,
+      "title": "トヨタが「水素社会」実現へ新たな一手！ 新型燃料電池バス、水素エンジン供給で狙う次の市場",
+      "category": "技術",
+      "source": "JBpress",
+      "time": "10/16(金) 21:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaTWZHZXZORS0wdGNiQm92UTFYYk9QX2FjMW9YOWxxTVM3RmlGRzdISGs4U0JhVjNFREFsNU1FX182NVNBd2NPbS1YYXQ1T2ttWEN3VlNB?oc=5"
+    },
+    {
+      "id": "auto-34d8a9f56ae8",
+      "rank": 4,
+      "title": "安全・運航性を向上…住商商事系、洋上風力支援船4隻発注",
+      "category": "その他",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "time": "10/16(金) 21:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53X2ZNMGJaZ2s1bWFPNElVcjdweEpSYVY0N2lXT28zSzR5dU8zbEgzR1VhWXoyampaQTc0c2hxWU4xdw?oc=5"
+    },
+    {
+      "id": "auto-49302aae998f",
+      "rank": 5,
+      "title": "CO2排出量マイナス収支の脱炭素化住宅「グレーシアライフ横浜ゆめが丘Air」を開発【相鉄不動産】",
+      "category": "暮らし",
+      "source": "ニコニコニュース",
+      "time": "10/16(金) 17:18",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wZDVZUDMtczVBLWd1MkV5Ukgzc2JJalgycGwyYV80enhKV2NlRHNoV0d5alZzZ0dtR3Z6YU9VLXdLZXRYbzRrMnVxNUVCWmZnY2ZTX2k2Y1BVZUxILTNhcnZZMTcyRjcwbzFWN2xCZi1lRXVZRlUxY2I3SQ?oc=5"
     },
     {
       "id": "auto-138e5206994d",
-      "rank": 2,
+      "rank": 6,
       "title": "高電力IGBT水素製造用電源市場の次の展開は？ CAGR 9.4％と成長要因（2026",
       "category": "技術",
       "source": "pando.life",
       "time": "10/16(金) 17:04",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90WGJWQ0ljQnluRXhzLWRkbmFiTy04bjBtWVpjVjNGaDd0ZmhJZ0ZaRGlfSXBELXphTEYyMllGU0o1NGowTnViWXdn?oc=5"
     },
     {
       "id": "auto-9647a253cd82",
-      "rank": 3,
+      "rank": 7,
       "title": "中国政府 AIや太陽光発電などの重要技術の流出を防ぐ狙い 輸出の禁止・規制の強化発表",
       "category": "国際",
       "source": "Excite エキサイト",
@@ -57,58 +101,14 @@
     },
     {
       "id": "auto-0d1f3f58489b",
-      "rank": 4,
+      "rank": 8,
       "title": "ムハマス・サルムジ産業大臣、産業脱炭素化実施準備完了",
       "category": "その他",
       "source": "VOI.ID",
       "time": "10/16(金) 14:26",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PSnhaVEF6TlRtdTlWYzRJOFhIV1doM29ZSms5aUtsRURtZmxRS3dBb09iM2U2S28tUy1td283RkU2dzd1cmfSAUJBVV95cUxQbEE0RFk2MEhOdW5jNkhLb0hhQUNvVThDbTIwTHFyWFlSM0ZHTWNWbzF4WHlyS01iNFlJM3ZySWU5V1E?oc=5"
-    },
-    {
-      "id": "auto-5a9c58c44821",
-      "rank": 5,
-      "title": "東京都「グリーン水素率先利用事業者認証制度」の認証を取得～液体にエネルギーを貯める新技術-グリーン水素の製造・貯蔵・輸送・利用に関する実証実験が評価～｜Infoseekニュース",
-      "category": "技術",
-      "source": "Infoseek",
-      "time": "10/16(金) 14:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WTDVQUm9kRWdpSDJlRzZxcEJRQ3JUbFN4ZWxNQVhRQ09oWGtqUzZJc05HSkl4M0VJaDZMY1kwVnh1SlVRWThyM2pVaGxpc0xNT2d2Wl8zbThNS3ZsWmN1bGxhN1Rkd0s5YWJxeUlLUzBTUQ?oc=5"
-    },
-    {
-      "id": "auto-489d33c80dd7",
-      "rank": 6,
-      "title": "経済産業省・GX推進機構は「GGX Finance Summit 2026」 を開催します",
-      "category": "その他",
-      "source": "Business Wire",
-      "time": "10/16(金) 13:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zTjRrRktoc2d4YnRaemJxdjl0SEVVbTZYSmt5b2VlRGhhaHpPWkhGUUZRUFBaRVBGaDQ5NTFVSHlLWkRnSFJDdHdOM1FYbUs0a3ZBdUJ5SGUwRzFjV2FRbjA4d0JZVnM?oc=5"
-    },
-    {
-      "id": "auto-7ad903274af2",
-      "rank": 7,
-      "title": "エンバイオ・ホールディングス＜6092＞、ネクストエナジー・アンド・リソースの住宅用太陽光発電関連事業を取得",
-      "category": "暮らし",
-      "source": "ｄメニューニュース",
-      "time": "10/16(金) 12:32",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzV6eFZIVU1FMlZMYlZEVXBNeGhJaVhhdEdyaFp6NkprbnAybGVmbGNjRVI3MDM1WE81UVJOazN4UUwzaGJRWGc2ejh2azR4M3pGQ09Na1ptVHVKVzRRR2JfVU9BZEEzTXIwYXIyeVhpMVE0blhEZ1VvdVRMMDhmanhMNnFSZW_SAYcBQVVfeXFMTl81enhWSFVNRTJWTGJWRFVwTXhoSWlYYXRHcmhaejZKa25wMmxlZmxjY0VSNzAzNVhPNVFSTmszeFFMM2hiUVhnNno4dms0eDN6RkNPTWtabVR1Slc0UUdiX1VPQWRBM01yMGFyMnlYaTFRNG5YRGdVb3VUTDA4Zmp4TDZxUmVv?oc=5"
-    },
-    {
-      "id": "auto-560d6edef69c",
-      "rank": 8,
-      "title": "国際水素サミットが19日開幕 米国やインドなど8か国から250人参加 山梨・北杜市（2026年10月16日掲載）",
-      "category": "技術",
-      "source": "日テレNEWS NNN",
-      "time": "10/16(金) 12:07",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDdvcUdJbHNfMERodUg5ZjBPUVFrMG1IOTl4LUFPdEZ5bFhPVGNiZmFYRnh5T2RIdktLVkFxYnpQQlRvWWg5X1h5bldLVVNhQUtLWlNITlZRa1VFMklnM0tKWDh6aVp5d05CR211akZBSzkzbjBsMlU4c1JiVDhXV2lLQV9lZlk?oc=5"
     }
   ]
 }
