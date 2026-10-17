@@ -16,10 +16,6 @@
     "trend": ""
   },
   {
-    "keyword": "LOHC-MCH",
-    "trend": ""
-  },
-  {
     "keyword": "ペロブスカイト太陽電池",
     "trend": ""
   },
@@ -30,5 +26,9 @@
   {
     "keyword": "CCS",
     "trend": ""
+  },
+  {
+    "keyword": "SAF",
+    "trend": "NEW"
   }
 ]
