@@ -1,23 +1,83 @@
 [
   {
-    "id": "auto-949dcf1860cb",
-    "title": "TESSグループ、合同会社クラダシ・インベストメント２号様から「系統用蓄電所」の設置工事を受注",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000184.000143072.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
-  },
-  {
     "id": "auto-393a2352c054",
     "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
-    "time": "3:40",
+    "time": "9:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/143072/183/143072-183-0c19dfe56d3c4ecef4f21d7706c89363-3900x2478.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-a2f86ac05c81",
+    "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "9:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/136212/163/136212-163-f1b5a9d742b0f1b7590c9c892e7b980a-800x570.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-7e1494d2acee",
+    "title": "企業・自治体×学生の共創から社会実装へ 第10回「デカボチャレンジ2026 Summer」を開催",
+    "category": "自治体",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "9:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000161.000122970.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/122970/161/122970-161-cbf5267a816a71e2efbac431572de844-2048x1153.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-71ebfb8adafb",
+    "title": "エンバイオ・ホールディングス、ネクストエナジー・アンド・リソースの住宅用太陽光発電関連事業を取得",
+    "category": "暮らし",
+    "accent": false,
+    "source": "コトラ（KOTORA）",
+    "time": "0:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVQ3RYNWVPYTd1dU9GMF9vRWgtRTEtUWxMNFl6V0JaMkxJNlB3eTVSdWZYMXBtOTNhMFhZQzhSb2UzRXM2blZTTUdFR0lCSWRCU2tnbTEzMUZ3YkpqNDVz?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-365832baf6d9",
+    "title": "自動車用燃料電池の世界シェアと主要企業",
+    "category": "技術",
+    "accent": true,
+    "source": "pando.life",
+    "time": "0:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YV0lLYmNJX3JZRV8zUHY2ZkVOU1N3TjB4dTVkSkdPZ185TU5JS2oteHNESTlEU0pPRzZKdVpTTEVDaHN1MlZzX3Rn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b6c28752072f",
+    "title": "環境省の「デコ活」が2ndステージへ。脱炭素は「我慢」から「らくで、たのしい」へ",
+    "category": "その他",
+    "accent": false,
+    "source": "ハフポスト",
+    "time": "23:00",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFJhMGtjZkZGendjVDc3MjI4QVVtdEN6RUY2TVhLcmVrNjViMnpUNmtVMVZaSXBEMkpwUndkR0NJVlNVXzk5VXEtVmdsTldTYzIxdzBlak5ndjNOTDJFVV9fVkJQNGNrZll2N0Y5allSY3gtZ3pDT3Y0ZmYyWkFrSVdoY24tZHBjS0pPV2pscjJ1Y0FoYkIzR2lB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-08e6fc3c947f",
+    "title": "【蓄電関連】日本蓄電池：和歌山・海南市で系統用蓄電池を設置、需給調整市場や再エネ出力平準化に活用",
+    "category": "その他",
+    "accent": false,
+    "source": "みんなの広報宣伝部",
+    "time": "22:13",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjSFZNQ2lnVm1PQlJGek9ybGlfSXExZFlXSkU3X1Q4NncySFVaY1QzZE5FS2E3V1Z1TTZROWVKeHBsUWhiRE13SDZkLWp6R1ZKV3Q4UDV2bVAxX3RiRWxUemVZeTAwc3lhM3hHelN0c0QtUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0be1f10b85f2",
+    "title": "8億ウォン投じた太陽光、電力網で暗礁",
+    "category": "その他",
+    "accent": true,
+    "source": "조선일보",
+    "time": "21:30",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjVCTXA3a0JoQnJGbElMUFMxTkJVLTJyY0cxM2xBd3VJVnVGcUY2azF5dUtYQjFZX1RSbElPdGR5QUxGdmtZajA3dXFXb1NCSnJYaDJySmxxOURKLUF3NzVuUjhidFV2YnRuR3JmcEFVNXFsRmlNLWotRVI1TVFVUQ?oc=5",
+    "image": null
   },
   {
     "id": "auto-1439a6436cde",
@@ -30,10 +90,20 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/181124/68/181124-68-88439c00df5051b64ccefc62f7f6d81d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-92f50955896a",
+    "title": "日本のグレー水素需要と主な用途",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "21:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEVzBtTndaSHFBQTJVd1JXRU1FTFZwU3ZiSGE2OUk0NWI3TEFkak9uOUdiV0NhY2lrcVA1bkRRSEtPOGtOMmhpM1JB?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-e6b797cc5689",
     "title": "トヨタが「水素社会」実現へ新たな一手！ 新型燃料電池バス、水素エンジン供給で狙う次の市場",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "JBpress",
     "time": "21:00",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaTWZHZXZORS0wdGNiQm92UTFYYk9QX2FjMW9YOWxxTVM3RmlGRzdISGs4U0JhVjNFREFsNU1FX182NVNBd2NPbS1YYXQ1T2ttWEN3VlNB?oc=5",
@@ -43,7 +113,7 @@
     "id": "auto-34d8a9f56ae8",
     "title": "安全・運航性を向上…住商商事系、洋上風力支援船4隻発注",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニュースイッチ by 日刊工業新聞社",
     "time": "21:00",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53X2ZNMGJaZ2s1bWFPNElVcjdweEpSYVY0N2lXT28zSzR5dU8zbEgzR1VhWXoyampaQTc0c2hxWU4xdw?oc=5",
@@ -63,7 +133,7 @@
     "id": "auto-138e5206994d",
     "title": "高電力IGBT水素製造用電源市場の次の展開は？ CAGR 9.4％と成長要因（2026",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "pando.life",
     "time": "17:04",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90WGJWQ0ljQnluRXhzLWRkbmFiTy04bjBtWVpjVjNGaDd0ZmhJZ0ZaRGlfSXBELXphTEYyMllGU0o1NGowTnViWXdn?oc=5",
@@ -73,10 +143,30 @@
     "id": "auto-9647a253cd82",
     "title": "中国政府 AIや太陽光発電などの重要技術の流出を防ぐ狙い 輸出の禁止・規制の強化発表",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Excite エキサイト",
     "time": "15:04",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjcldhLVpqVnVlWVc0RHplZmRDcU9iTkExdFF1aDEwcnY5WmJtZGhXSlhPUWx2OFJMeW10N2tuQllILUY3OERfQjc4ZDRvLWpaNHc4UDFtb0xlczZFdEZwSmtQZ1djdXBnV1BGMDBn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ef9ec261fbcd",
+    "title": "【画像】中国政府 AIや太陽光発電などの重要技術の流出を防ぐ狙い 輸出の禁止・規制の強化発表",
+    "category": "国際",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "15:01",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yRUl5YjA2bTBtdkE0V1lDT0lrazNYNnhBNU1YNktRRDhqcHBJakZTOUY2Um1HWEFDV3FGa0pxaHRUVXFPVS01d0pBdlJFWFJfS2IwZ2dFekRSN08tdHpvZ1dkeXlBN1cyeDdIeEFiNW9BcFdtNXB2eWdTUGQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d14507f92cb6",
+    "title": "カーボンフットプリント（CFP）とは",
+    "category": "その他",
+    "accent": true,
+    "source": "新潟日報",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hcE5GandaT0t4azBPdEtPSTQ0d09CZXhObUJjMUlEQW50MnRJNVFJVk1kT1MwcXBfMzl0SWpiRXRpUXQweERTWThVeE9reERFT0NIQjV5ZllYd2tJUXE3eG8tZkpLdw?oc=5",
     "image": null
   },
   {
@@ -207,96 +297,6 @@
     "source": "Newscast.jp",
     "time": "10:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YY3ZSU180dlB2WHRVa09NRGNtUlA4VmxiZ256VkxtcFdEUm1BcDAyVjRGT3VNM3hJeWJ6M3JNQnVQekZTZVpPSnR2Uk1aa0U?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a5c59ab8ba1e",
-    "title": "キャッスルホテルが「令和8年度ADKPゼロ・カーボンあかし表彰」を受賞",
-    "category": "その他",
-    "accent": false,
-    "source": "東京バーゲンマニア",
-    "time": "10:00",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96Y1BDVF9YeUJQXzdjdUFnemllQ0ZyTllPMzcyYzVjcGdIemkwSVNVUlNGQ2Q3MjJBRldia2N5R0VOMDFSQjUtMER4MXRGUFlIYWhwVkJTQWJkbU9xWWo4UERUdlE2YlJ4SE1RaGszQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2bcf03cbcaec",
-    "title": "ヤマタネ、横浜の本牧埠頭営業所でＦＩＰ活用の太陽光発電を稼働 - https://ye-live.com/",
-    "category": "その他",
-    "accent": true,
-    "source": "検索: 洋上風力・太陽光",
-    "time": "9:52",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IUXJBNXBYdzNsZ2dBS1F0UnJQbXd3VWtBbmhGRUdZNHBOVlhUU2g3Tkw0YVpsbnYwWU5veGtwMWNPVkRfSEl3SkhPWnJ5dw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-44a1f7acbf91",
-    "title": "日本製鉄のGXスチールを使ったオフィス家具、東京都が初採用 - 都庁に設置",
-    "category": "企業",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "9:48",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42SW9zSm1kMFVybkt6b3kwcDg4WEZuS0k1azZXN2JsaXJQMExmYVBmajlwdTltcHZPYklqVElaZVJ4WktfMmphcGhSYS1NM2hIMVlfRm5UOFF0MU5NcTZzMEYtT2VIdWZVWDdKUnZZSUZDRE9uN3cyZ2VCTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0220c36a6f73",
-    "title": "中国、AI・バイオ医薬品・太陽光発電技術40件を輸出規制対象に加える案",
-    "category": "国際",
-    "accent": false,
-    "source": "Mezha.net",
-    "time": "9:48",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDZ6Ry03NjNWSi1RMjAzM3lqc05hX0xWcldreXFERVBvMkw5bUJnWElBa3ZQZV9WaEQyYmctQlBmUGJKZDJmVld4S2p3Y3FIYTdEQ1B4OTlNTzBJY2FhQ20xRGR1cDhCZU5SRzQyRWVQaHhRbHk0cUNMdW9zaU8yYnB5SkFoNk96bzJzZEJsVkFjOGFaTmV4eGZ6ZDBrUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9d6936bfc50d",
-    "title": "【画像】中国、AI技術の輸出規制強化 太陽光発電も対象",
-    "category": "国際",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "9:47",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zOUpVYU84d2l4MHJ4c0cyaC1QODBXem9OaVZNTmtSTEhRXzk4ODEzbmNTektnNkhRWk9xWlpmc0ZlZmVIZW1LMjJKUkVnY2xaYjNnZE9OM2NrRHpiTmxUZ1FuLVN6WHp0OUY2SC15Z0Ewa29WMEd0TVdJYjY?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-198c6c0ae361",
-    "title": "中国、AI技術の輸出規制強化 太陽光発電も対象",
-    "category": "国際",
-    "accent": false,
-    "source": "ｄメニューニュース",
-    "time": "9:47",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjJEYjllUWRQMnE4d2tzd0I0d0F3TWQ2YkZIdmNQQWhfOGh2QmpCTS00QjBuUmNtdVhRQ0tXTTczVzBSc1dJQWxOM2p5c0RyTjNwY0cySXc5NlpZV0N6b0s3OGZ6TWFWQkVZSGdWUUpGRHhvZ0lQREpBMlVmUG5GT1Z3bWhCeGxmSnhubmh2d2JOcXfSAZMBQVVfeXFMTk4yRGI5ZVFkUDJxOHdrc3dCNHdBd01kNmJGSHZjUEFoXzhodkJqQk0tNEIwblJjbXVYUUNLV003M1cwUnNXSUFsTjNqeXNEck4zcGNHMkl3OTZaWVdDem9LNzhmek1hVkJFWUhnVlFKRkR4b2dJUERKQTJVZlBuRk9Wd21oQnhsZkp4bm5odndiTnF3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cfbd0b949b20",
-    "title": "Green AI、地域エネルギー利用最適化事業の省エネ診断ツール提供者に選定される",
-    "category": "自治体",
-    "accent": false,
-    "source": "ニュースメディアVOIX",
-    "time": "9:45",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNjlNWmxMeVAySkk2QXFpQUJnUG1odzY0OTVNNmZhcnlXa2xYUGxDRmliWm1TQk9CVXFuejNWUTJMTG40NHl2YjF3MTJyOHB3NWc5ejNzSkJDNmxCVUd0dldpeEtyTUs1dktqTEJxXzJVZ2M?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3aacc89c7fcc",
-    "title": "中国、ＡＩ技術の輸出規制強化 太陽光発電も対象",
-    "category": "国際",
-    "accent": true,
-    "source": "中日新聞Web",
-    "time": "9:43",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSG5BZ1ZjcEZDd2p0QU5vRjFHalVNVXlIRlNMV2tjLU9zdUZFRmV4MzlBS3Y0QTZ5aFNQQXRfLTdpWUp6N0QyVnNtTXpnU2tpZDJkYlJuV2JEU1RaamVUQmthTUFuTEk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3c584c63992a",
-    "title": "【写真】中国、ＡＩ技術の輸出規制強化 太陽光発電も対象",
-    "category": "国際",
-    "accent": false,
-    "source": "南日本新聞",
-    "time": "9:43",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CcXAtVlVuVE1sQlN2UnFRVHR3MklsRVRVWmdvMGxScFA2aU16eDN3Nnoxa3dVcEUzekNraHlaSWRfMHpyVkFzMGVZTUNmYWtkOEJGSzFwV1lkdW54M2h5UklJNEtvcGs?oc=5",
     "image": null
   }
 ]
