@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-393a2352c054",
+    "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "21:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143072/183/143072-183-0c19dfe56d3c4ecef4f21d7706c89363-3900x2478.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-a2f86ac05c81",
     "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "21:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
@@ -13,20 +23,40 @@
     "id": "auto-7e1494d2acee",
     "title": "企業・自治体×学生の共創から社会実装へ 第10回「デカボチャレンジ2026 Summer」を開催",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "21:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000161.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/161/122970-161-cbf5267a816a71e2efbac431572de844-2048x1153.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-63335feae7b7",
-    "title": "屋上太陽光発電：ベトナムはいつまでも外国の「顧客」であり続けることはできない。",
+    "id": "auto-c5f7f9bd1e0e",
+    "title": "スリランカでは、太陽光発電の過剰発電により全国的な停電が発生した。",
     "category": "その他",
     "accent": false,
     "source": "Vietnam.vn",
+    "time": "13:45",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR2xLQ3hZMEhFVDk1X3hHcVlmS1VuU3B3RkpDaHBfTkRiblIxSTgyRzZUMjd4VjNEQ0VRRmo5TWJTZ2pyUVBScVhPSE1sYVJwVDVkRThONk9xVkZzU19aeU1YbHpPZnkxWXhqS0VkMmJydndsSHhiU281c0p0dWRUb0tsdWFOZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-63335feae7b7",
+    "title": "屋上太陽光発電：ベトナムはいつまでも外国の「顧客」であり続けることはできない。",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
     "time": "11:05",
     "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkFrNDE1bUtReXZtOXFoalZua1hIVTBuZWg1dFpHdGZnU2dYSm1XWFB1ZTc5RFM3Rnp1Qk5RQWpRQkF4Rm54eF9GbjM1bGI3UmhqRXcyOExzOEhXUUlwTkRTUkxQX2doTi13MjVnTndzVmlUZjdVSWxBUDRYcVR0VzVsVWI1ZFhlVlBDdXc4UHNKWFEyWVJfaF9POXd3ZkRQaEE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b941a84940d7",
+    "title": "自家発電・自家消費と蓄電を組み合わせた屋上太陽光発電の普及を促進する。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "11:03",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb01KU0hnRXI1TGFYYTBEWExHbTNFRU5YYUdSNEl1cy1tWkN6dmdTOEJXNjFSMHFTNVhqQmZ1SEhsdHpqZHpIOElKbVdfQ2t0RE1BbW42ZU5HcW1ROEFWYllsNWk5WFJrMW4wblF3WE5adldUS2V5eHhmNmpZLVRhNG1VeVI0UnVqY09tc2RSNA?oc=5",
     "image": null
   },
   {
@@ -60,10 +90,20 @@
     "image": null
   },
   {
+    "id": "auto-131ae630d18d",
+    "title": "ENEOS Powerの特別高圧蓄電所向け系統用蓄電システムを受注",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "8:18",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMTNXcHhGV3hLd05RV0I1X3JMRENmY0RHQ082bTFoSE12WGZQVGVUWjRiY2YxdFRzeXJiZ01tZHRicU43OVVxU1dMRm1NWDdxaFE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-28d3e8c66124",
     "title": "インドネシア肥料は脱炭素技術の開発を支援",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "VOI.ID",
     "time": "7:47",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wNHo4a1k0SXE4Mk5LSkRaZURodDFiaHFyNmRVMjhsSDZhZmlITVRlMzlSYkcyUXM0bzFCTER1M0lXUdIBQkFVX3lxTE0wNHo4a1k0SXE4Mk5LSkRaZURodDFiaHFyNmRVMjhsSDZhZmlITVRlMzlSYkcyUXM0bzFCTER1M0lXUQ?oc=5",
@@ -73,7 +113,7 @@
     "id": "auto-a9fd3b3b2a39",
     "title": "アルミニウムの脱炭素化の世界市場（2026年～2032年）、市場規模（アルミニウム形材、アルミニウムインゴット、その他）・分析レポートを発表",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "アットプレス",
     "time": "7:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TaFI2VGx1NUxGYUdWV2pSVlFDWHBxdnVTaVpSMmdTR1dVeUJreUFWR0U1bEtNSE1MZkdsU1ZNZUJLUDJWNmIwaXBHWFE0LUk?oc=5",
@@ -93,17 +133,27 @@
     "id": "auto-d81084b5128e",
     "title": "既存建築物の省エネ改修を国が支援、15件採択と第2回公募開始で既存ストック再生へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "リヴプラス",
     "time": "6:08",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xYXJqcjdfcFVjNmF0c0ZXSlkzM3VXbVI2c2VwUjk4TVhYcU4yRHc1c3ZnbHBPRzJIaEFQZUNyQkk5REtVNnNnaEJRQnNRSk0zZXc?oc=5",
     "image": null
   },
   {
+    "id": "auto-29b23d24d12e",
+    "title": "（4）日本特殊陶業 水素社会に賭ける 燃料電池「SOFC」では苦戦も【中部企業研究・森村グループ編】：ニュース",
+    "category": "技術",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "5:37",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tTHlGQzRvNlp0X0xVUThtN3NVY2RlVEQyS0Y5ZnRpbVVkbnRmN24xU0pIZm1sdEY1Mk9td1Ffd3NfbWdwQy1pV3lpZmJtU3h1d3hINE5zYzgtdGRwOFp0b3VXTQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-1cfd3a8c3d16",
     "title": "太陽光発電モジュール自動洗浄ロボットの世界市場（2026年～2032年）、市場規模（据え置き型、移動型）・分析レポートを発表",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "アットプレス",
     "time": "5:30",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sYWYxMkVwMDVMRUpIeTU2MDJ6bjRzYWs2aW1Sdm5hVGV4WVhyQVFxV3l5TFNaVlk3LTZxWjZIMUxORDl0QlZwcFNodHk0MzQ?oc=5",
@@ -113,7 +163,7 @@
     "id": "auto-ae0a79bfd0df",
     "title": "＜さが気候変動時代 第4章脱炭素＞（19）海洋温度差発電 実用化へ佐賀大が研究けん引 再生可能エネルギー、安定供給が鍵",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "佐賀新聞",
     "time": "4:00",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85YTBVRUxoZENsTE5ncVdVRGRpU2JUYm9zTXl2Y3pCR29ZaDUxSFY3TFNZUXpuajFzQTJDUDFvYmZBVzNNanlzQXhLdlpwRl8ySlF0bGxB?oc=5",
@@ -133,10 +183,20 @@
     "id": "auto-c49fc3dc1fba",
     "title": "画像4 / 19＞夏休みの自由研究にも！銀座でカーボンニュートラルについて楽しく無料で学べる「GINZA 456 Created by KDDI」をナビゲート",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ウォーカープラス",
     "time": "3:38",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNllqUjFXUXkzSzZpdS04THZ3bnFraW4yR0o4N093aFBYRlc1YmZrYjR0c19tbHhNLVFUT1FLNUsxRkxyTTZtdU16WDN1eF9QRy1EemZSck1EUEg1ajRiVVd0dFI4OFA2bWZpc193?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-85e7979cf527",
+    "title": "あり得ない話じゃない！ 「ガソリンリッター300円」で起こる強制的なEVシフトと家計を襲う連鎖的インフレ",
+    "category": "その他",
+    "accent": true,
+    "source": "WEB CARTOP",
+    "time": "2:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41bVBMM2xFR3czZUk5dnl6U1R0bTZlZFlCT1Nfbl9iZEI4YnVfeDRRbTd1ZnlHTURyb1U5cHpRWGliNUd6WmxWdVBBZVlJQTdrRVA2Sm1R0gFbQVVfeXFMTmwtdkFFZVRGazd3WFhtWUtDOV9BQWFlRWw2OURxUW5iX0VzY0RMVVhNYjhUc0ZaSDhmOU5Nd2JUbzdSNmNkeHQ3RHhBUWU3RnR5b3dFQ19kbEE1aw?oc=5",
     "image": null
   },
   {
@@ -170,16 +230,6 @@
     "image": null
   },
   {
-    "id": "auto-17a778373a48",
-    "title": "松江市のGX戦略推進地域 名称は「まつえグリーンデジタルタウン」 [島根県]",
-    "category": "自治体",
-    "accent": false,
-    "source": "朝日新聞",
-    "time": "1:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNlNIeHpwSHIzdC1zeXlsRkZURGlON1RyNWptS2pNV19nVjNqY3k3SUtDY09Lb25iRVRpLVhnbVlaYk8tWnlRM05FNkhwNHRsX0ZZdlAwdzZxNkgzVTBIWEgzRnBONUE?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-9af7c2fd68b0",
     "title": "松江市のGX戦略推進地域 名称は「まつえグリーンデジタルタウン」",
     "category": "自治体",
@@ -193,7 +243,7 @@
     "id": "auto-71ebfb8adafb",
     "title": "エンバイオ・ホールディングス、ネクストエナジー・アンド・リソースの住宅用太陽光発電関連事業を取得",
     "category": "暮らし",
-    "accent": true,
+    "accent": false,
     "source": "コトラ（KOTORA）",
     "time": "0:52",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVQ3RYNWVPYTd1dU9GMF9vRWgtRTEtUWxMNFl6V0JaMkxJNlB3eTVSdWZYMXBtOTNhMFhZQzhSb2UzRXM2blZTTUdFR0lCSWRCU2tnbTEzMUZ3YkpqNDVz?oc=5",
@@ -203,7 +253,7 @@
     "id": "auto-16c6b1f37a97",
     "title": "市民の灯した光を守る。原爆の図 丸木美術館に太陽光パネルの再設置を - クラウドファンディング",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "READYFOR",
     "time": "23:16",
     "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qS21rVmRycDhpMlRRN1BDMFZ6Y2xlbmhSM3dYNzV0WVV2RFIyTGNKMV9QQVJsNE9iR3JCZXFGY0lKVU8wN2tXNFlOODdOMzN1?oc=5",
@@ -223,7 +273,7 @@
     "id": "auto-002fc7af5bb9",
     "title": "フォルクスワーゲン、豊橋の輸入拠点に再エネ導入",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "LOGISTICS TODAY",
     "time": "22:55",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YNkYwWTZGTThETkJGSlB4eHBNWEw2a25fdFhxcG9jNTd0X21SdkJSQTVRbEZVbXlxNjduZ3JyUENqR2tZZldUdGFR?oc=5",
@@ -233,7 +283,7 @@
     "id": "auto-d1c448ea6065",
     "title": "【太陽光発電】グリーングロース：FIP太陽光由来の非FIT非化石証書を相対取引、需要家への直接販売も視野",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "みんなの広報宣伝部",
     "time": "22:18",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44eEx3VGpRMXgzYm5mU3RMeGR1dUtOcVZEZ01RQUUyYUFpNThPNmlhdkdTaFZYS1ZhM0Vxamt0WU50LUFaQW9jTzBMcEpVaFB2TTVVWVJKUHJXV1lqZzlteUhoRmNzZzJOQ19Pdk9YS3NqZw?oc=5",
@@ -248,55 +298,5 @@
     "time": "22:18",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5c1lvX0M1eUZSdF9NQ1V4ZUY1d1VWOHcySXB3cU9GNENRcHYtUHlUMW9IYUdudUE5Z1pHMXNLcFNjTTZsWjVfYzRVaTlPalA4V0ZhS0h0dUFQdXNsazZTR1kxemFEcktUZTZiQzNRSk5LUQ?oc=5",
     "image": null
-  },
-  {
-    "id": "auto-08e6fc3c947f",
-    "title": "【蓄電関連】日本蓄電池：和歌山・海南市で系統用蓄電池を設置、需給調整市場や再エネ出力平準化に活用",
-    "category": "その他",
-    "accent": true,
-    "source": "みんなの広報宣伝部",
-    "time": "22:13",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjSFZNQ2lnVm1PQlJGek9ybGlfSXExZFlXSkU3X1Q4NncySFVaY1QzZE5FS2E3V1Z1TTZROWVKeHBsUWhiRE13SDZkLWp6R1ZKV3Q4UDV2bVAxX3RiRWxUemVZeTAwc3lhM3hHelN0c0QtUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f527d586fa09",
-    "title": "牛糞で走るSUVに水素・アンモニアエンジンもあった！ 「ジャパンモビリティショーbizウィーク2026」で見えた「クルマの未来」が想像以上におもしろい（WEB CARTOP） | 自動車情報・ニュース",
-    "category": "技術",
-    "accent": false,
-    "source": "carview!",
-    "time": "22:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVZfd0V5MVIwanBxNVVudkVDX0s0NmZGSDI1Q0N0RHdHZ3Z2bXJWYnVac29GZlB0Y3BjRmFNWWNIbmNNWEhkdjF6dW9RWGk2ZVNBQXRQQzlQNmZvUVNUMUdrWDdVQzI5VHZjRkE3VnA4MmFORFB6V0NVWkZQbWlxQnBSWl8yMGlo?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9f166df0a050",
-    "title": "人気テーマ株速報：太陽光発電大幅安 KLAコーポレーションなどが注目＝米株ザラ場",
-    "category": "その他",
-    "accent": false,
-    "source": "Moomoo",
-    "time": "21:54",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkpfZ3VXNXlqdm53cTBjMlBwczZ6N243cUo5bG9USDhXWTBJdExYOXFZaksyUkc4RG50SDcwbHZOVmNKZnJyRV9iYjJrX2FlcDd0MGMzNTJlTlZfZ2psbTI5X0V4RUR1QkZET0ZYdEZ1czBzTDh2MTZreUZqbkJ5blhjblVZM2FfM2p4am95SDg0RVFDUUFKd1RzSkREQW8ybXB1aWx2dW5BMUk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0be1f10b85f2",
-    "title": "8億ウォン投じた太陽光、電力網で暗礁",
-    "category": "その他",
-    "accent": true,
-    "source": "조선일보",
-    "time": "21:30",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjVCTXA3a0JoQnJGbElMUFMxTkJVLTJyY0cxM2xBd3VJVnVGcUY2azF5dUtYQjFZX1RSbElPdGR5QUxGdmtZajA3dXFXb1NCSnJYaDJySmxxOURKLUF3NzVuUjhidFV2YnRuR3JmcEFVNXFsRmlNLWotRVI1TVFVUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1439a6436cde",
-    "title": "再エネ出力制御はなぜ16倍に増えたのか――優先給電ルールと蓄電池の役割を読み解くウェビナーを開催",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "21:15",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43T1ZQSThHVFpBbTMzS1BmbXN0WGctakdpT3pESEJOaFNWdkczLWRjVmkyMEN0S0wwbXlHNlA1Qm9STVl2cnNvN2EwWk1STURfbnI0YzR1dGVmV3NRNDRxd3pMT1p5LS1Jam5pYjZBM3drc3dSX1ZRR0JMOA?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/68/181124-68-88439c00df5051b64ccefc62f7f6d81d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   }
 ]
