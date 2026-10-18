@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-393a2352c054",
+    "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143072/183/143072-183-0c19dfe56d3c4ecef4f21d7706c89363-3900x2478.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-a2f86ac05c81",
     "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "3:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
@@ -13,27 +23,87 @@
     "id": "auto-7e1494d2acee",
     "title": "企業・自治体×学生の共創から社会実装へ 第10回「デカボチャレンジ2026 Summer」を開催",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "3:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000161.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/161/122970-161-cbf5267a816a71e2efbac431572de844-2048x1153.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-393a2352c054",
-    "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
-    "category": "企業",
+    "id": "auto-d2cfad2f5ef8",
+    "title": "脱炭素社会へ理解深める ＪＣ福島ブロック 協四倉の工場見学",
+    "category": "その他",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "21:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/143072/183/143072-183-0c19dfe56d3c4ecef4f21d7706c89363-3900x2478.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "47NEWS",
+    "time": "20:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14YjF1eDJXUWpIaWJQQ0t2QWZnOWJnZ3BMbTRVaWJVcTZfSHJZZ1hNTEtWQXpUOVR3b0IydkJMYU1DUjZydHNBMF84NA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fab0cebce6ec",
+    "title": "JERA、天然水素の米新興に出資 探査から採掘まで一貫",
+    "category": "技術",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXX0M5YmpPTjRUOG9kbm1TcDV5ZlctTEdfRno3SGs3cHAxUEZReEV3Zm9xelVscnphZG1BdGRKcHpoMURWZHVwZ1k5dFY1aGQ2Uk1sU3V2MzJpZWE5R2d6OV8zaE0tMmc5UTNJT3czd09MY1dvZDlZ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2b08ab919503",
+    "title": "蓄電所の送電網接続、申請費用上げへ 空押さえ抑制で適正投資促す",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RFp6SG9aRVA1Y1ZEQ0NLcW1OcjU0NWFRdENmbmVFSHNZaHNUZmQ2WWhaTW1oSnRpdU1lS1JwUFc1a21TOG9ueTdCVnJ2VmF3TzdkSEVlOTYtdEluaTRnbmNla3JBLWFQcHVNTg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-273683e6db2e",
+    "title": "水素活用促進で認証 アイシン、東京都から",
+    "category": "技術",
+    "accent": false,
+    "source": "中部経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuQ0xoLWVZLVpGZFN3TGprVkRXQkdQYUcwTTBUSVJ1Q0xJeHoyQXczRHVwc1VNLUZpZTNseHBjanFhMm5CMDFXbjVHN1o3Mjg2Nm9XWHpXSHNsQXhFTzNYb0lyb3FnVWdNOFMzb2FZdjBlSXM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b91e46bce350",
+    "title": "AmpotechとBuskowitz Energyが提携、エネルギー効率・太陽光発電・蓄電池を組み合わせた統合エネルギーソリューションを提供",
+    "category": "その他",
+    "accent": true,
+    "source": "千葉日報オンライン",
+    "time": "19:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yNTBDYU1iX2pKV25vem95ei0tSW1IUnlmQ2wyMjlpVi00YmRFaGJFY1ItT3MxTDJSTEZyUlhaZ3N4WHBnTnJIOGpoUUF2aHB4eG1tWE5R?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8fedfb7c7e52",
+    "title": "中国、ペロブスカイトや流動層ポリシリコンなど太陽光技術12件の輸出管理を提案",
+    "category": "国際",
+    "accent": false,
+    "source": "BigGo ファイナンス",
+    "time": "18:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qblFQRW1DV2c1bjdWVC1ldkdUMWlOVXdlMVdPSFR1V1B4UGJuZExXcS1za25Ib1Azc1ZXNkZVN09HZ2xXRjdERl8ybkxXRzBXbnAtbkxoN3NsQzlJeDRhSTB5cXZiWmdtdXBCUnFiOE1fM2pJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4dc3b5ad3a95",
+    "title": "【フィリピン】北欧２カ国の政府ファンド、比太陽光発電に出資［公益］",
+    "category": "その他",
+    "accent": false,
+    "source": "千葉テレビ放送株式会社",
+    "time": "17:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JQ1dDN2U0b2VpczgxTy1yU2ZfNmpITWMxWTh6N0huY3JrTXVXS1FLVGNqSmpoN3AzSXVKWWpBclAtejZCYjRVM1ByU2I4aFBJN1hFYmR1NEl4ZkVHQ3RN?oc=5",
+    "image": null
   },
   {
     "id": "auto-7fed25d96c1e",
     "title": "高浜市、CO2削減へ東邦ガスと包括連携協定 クレジット化利用：ニュース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "中日BIZナビ",
     "time": "15:59",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5YS1fNklacUVaSXJ5cjhYbk1admc5Z2R5dDR2UXR5ZXhqSE9DRVNqVUE1STJ1RFcxa0NmT1lGX3F4SDFWZTRJYkxrOGJKYUxHSW9yU015Y0FISHZGMTZZ?oc=5",
@@ -43,7 +113,7 @@
     "id": "auto-f1e9ed732897",
     "title": "あなたのエコ・アイデアを大募集！「高森町ゼロカーボン・アイデア大賞」",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "長野県高森町",
     "time": "15:05",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VTXgtRjVuZElaZVQwZmlnY3h4SVlpMlRGT2lnOGIxaGk5VkdPMUtSWS16YzdtSTZpZjZ2T1ZGeDNjZTEyUmtiU1Z2eUNqbUtYby1wNlRYT0RMZmhLenVvMEV6N1M?oc=5",
@@ -63,17 +133,27 @@
     "id": "auto-782e593c14d3",
     "title": "北欧２カ国の政府ファンド、比太陽光発電に出資",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qM3ZSdnREZENWMUg0cjQybS1LclBycGEwZk9IS0ZSNmZNalBVTFBHb1B5N282QXltX1J0Y0ppYm1VWGRPN3c?oc=5",
     "image": null
   },
   {
+    "id": "auto-0917a1bc9515",
+    "title": "ジャパンブランディング、系統用蓄電池の制度解説ウェビナーを2026年10月開催へ",
+    "category": "その他",
+    "accent": false,
+    "source": "Dellows News",
+    "time": "13:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSXhLYjI3VTZTNzByaVd6R04yUEFNNzJfSGJha3FuV0ozNWsxWTE1M3VIa3BXamcwRjVtSWhnLUE4U3Z5OUE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-abb8b1ab22da",
     "title": "Tensor Energy、ポートの高圧系統用蓄電所のアグリゲーション業務を受託",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Dellows News",
     "time": "12:34",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRHBUc2kwVmdPa0RSR0NKZ0xQZjRRRnhmTGcyeG9DdlVPeDV4d1VWbEt6SFhaX0dqM1VxOFU5WVdpcGlnWlZ0QWotZzhLajVfMVhXWGJzdGJfcjVKQXBZR0JXdktXRmhf?oc=5",
@@ -83,7 +163,7 @@
     "id": "auto-bf4e954f8e9a",
     "title": "中国は水素燃料の利用を試験的に進めている。",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "12:12",
     "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NLVB1VlBkZlM3ZkpXY0JvTWkxc2ptTEM4V1Z6RTIzdU9QT2N3Vmx4bHdHMGplVnZOVm9xdTViXzJEdnBCT1BNVy1JZDc3X2FjeDZvLURaMmszbl9acGlnTGw2UnZidWRHWXlDcVl6TC1xdlVWbVFqbk1R?oc=5",
@@ -97,6 +177,16 @@
     "source": "Excite エキサイト",
     "time": "12:10",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kVVhRM29SZ0RNNFlSdHd5N3RCc041TUtMVm9GMmVSTWU2YWE2QlU5Zlp4bThJalRQZ3dEX2xyVmFBaXNLcmhOMXQzSFBrZ0p0Unp3VWRqc2pURjdMSU9lS0MwcjRxSXAwTWlBWlNuVGNQS1hBdEE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1a3e6b2907fd",
+    "title": "中国、太陽光発電設備の製造技術に輸出規制を提案",
+    "category": "国際",
+    "accent": false,
+    "source": "Mezha.net",
+    "time": "10:08",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZF9ha3pSVV9BMmQybmZVb3pESTB0bmMxZDNKQWRzNFlwZ3pvbkVrN0ctVjBIVjN2M1hJcjhnUWwtdkwwczVsOFpQdjZQY2hGcXNYR0k0cEFCUlFqa0NkMUFfWW9Hc1NSYUNPT212bEloZnYwUFZGWW9pUnJROGJFcWQ5WkE4alV0V2lNdXBQcTM2V0JiRHVpd2hxU3QtZw?oc=5",
     "image": null
   },
   {
@@ -164,9 +254,9 @@
     "title": "金属水素化物水素貯蔵タンクの世界市場（2026年～2032年）、市場規模（マグネシウム系、チタン系、その他）・分析レポートを発表",
     "category": "技術",
     "accent": true,
-    "source": "アットプレス",
+    "source": "Newscast.jp",
     "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IOUg0dDhnSHJiWWE3MGQzeGJCUEk5QXl2bmlHeHhWUDFDenVheGQwRVVLSVZRRmEyQmJlYXBpTlF6aEVjaDVwU0xlaVZnc0E?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xOWE5cVppRGhCMUtjMEp6blhuaU9YbmpaX0tWenQzLVVOaG1CY1lSZ3JPNE5OOVV4WmxyQ05ZeVhhRnBoR3ZR?oc=5",
     "image": null
   },
   {
@@ -200,103 +290,13 @@
     "image": null
   },
   {
-    "id": "auto-4c60fb5b768f",
-    "title": "太陽光発電モジュール用フレーム接着剤塗布機の世界市場（2026年～2032年）、市場規模（半自動、全自動）・分析レポートを発表",
-    "category": "国際",
-    "accent": false,
-    "source": "Newscast.jp",
-    "time": "4:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ETFFvYjBZcm5yd092MU8tN3gwMnNpbXpTVWhKTlZEOXRNMVloR2NtdkxWemNPS2RFOGNKZmQ3UnJ6TUVkUmxWV253RkdPdzQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-cb5d159bfb5f",
-    "title": "次世代エネルギーに理解深めて 浪江の伊達重機が水素事業視察ツアー",
+    "title": "次世代エネルギーに理解深めて 浪江の伊達重機が水素事業視察ツアー (福島民報)",
     "category": "技術",
     "accent": false,
-    "source": "47NEWS",
-    "time": "4:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwTnpFTGV4QWtPNVpuTlhGTVY0cDZzcUtQcnJfZkNscnBYTzZYUWVIOHRMYUZEZ2twcmRvbDJOM19EU193d2FTa2xlUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5657d936255b",
-    "title": "画像8 / 16＞親子で楽しめる無料イベント「水素がうごかす未来シティ」が高輪ゲートウェイで今週末開催！水素で動く乗り物＆限定グルメが登場",
-    "category": "技術",
-    "accent": true,
-    "source": "ウォーカープラス",
-    "time": "4:08",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBza3lTTmRmLUhrd1ZzN1ZINXhIQUxWbmlROEtWT2F1UnM2Z1BTbVVadGYydmdjQ0FyMXhWUzcxTEU5VXpTejF1ZW5TRThRVXVGTFgxQUtNV3NuS3NDUG5kLVRJdi16NUFhdHJNbE1n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d5f166b4acd5",
-    "title": "オクトパスエナジー、家庭用蓄電池Tesla Powerwall 3の販売を開始",
-    "category": "暮らし",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "4:07",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWkZ2YUdLSzlHS2s5RkE5cUZOU19feS1JXzJrWklZMkxyVXZkYjVITVEzLUZoMDZqS3RyM1RXdDVHZUx2U05SaGdOS3ZfcENFLWNGTkNsMi1CN2N5OVp3b29ldEFocUF1?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-20e8554d37bc",
-    "title": "日韓台の地域連携を議論 長崎で洋上風力セミナー",
-    "category": "自治体",
-    "accent": false,
-    "source": "au Webポータル",
-    "time": "4:00",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94SEdrN2MwU3RtYng1ZnloVkZudW9BV3JjR2JYc2tLcGV5MkFScjcxZi1QSG9PR1RaNF9ERDFJTkxrMWk5V0VERzRGMm9HTjc1MkZTbDFUZEp3OG9tMkZGNkUyLWdLazBQbTRnU0F3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6cce7544c0ec",
-    "title": "統合型太陽光・蓄電・充電ステーションの世界市場（2026年～2032年）、市場規模（大型、中小型）・分析レポートを発表",
-    "category": "国際",
-    "accent": true,
-    "source": "アットプレス",
-    "time": "3:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX3o1SkUzTE96UmFCeDhaUXZhUkhxdjhFUE0zQTVrVm5JalFCN0puam1DTDUyU3djcm04b0c4VDhuZjA2cWJUZ0pMaGpsclU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f85f811146c7",
-    "title": "水素専焼エンジン搭載の輝光丸が大阪湾で実証航行 約1.2㌧のCO2削減を達成",
-    "category": "技術",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "3:23",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EYUI2ZnlWek5vYjkwemVPcDRrM0FBOFh1a1c3VUhOenZ6TF8xN3lVemVrSFF6VDg0YnVDaTVBYW1mejVxa2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b8cda61a979c",
-    "title": "【参政党】神谷宗幣の参政党・松田学「脱炭素なんて知ったことか」発言と再エネ賦課金4.8兆円の闘い【ゆっくり解説】",
-    "category": "その他",
-    "accent": false,
-    "source": "YouTube",
-    "time": "3:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56UWVPTEZKdnc5ZjhOUThUV1hzUVFWUUlFb01FYU1DQ1haTnFmeU04cmZYb2c2US11XzNiajJtYUZHY1BFODUyR0w2dkJTUlFEUzB1VFJiQUE1Y0Z4?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-26d8a3d3c472",
-    "title": "長崎・西海の洋上風力発電 工期遅れで募る不安、市長「事業完遂を」 [長崎県]",
-    "category": "その他",
-    "accent": true,
-    "source": "朝日新聞",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUnhmLUZRWHlETEN0U3ZxUGlkMmxPZ1ZvdnRWeDJrbFpCV09rd2lSU0RJZzJibFpkcFBscmRpb0I4eUIwZm03VVlHM1lyUjhpUzNweEt1TGRmSDRIRDVCYjZBZDJPMU0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a05e12478894",
-    "title": "水素供給設備の世界市場（2026年～2032年）、市場規模（アルカリ電解槽、PEM電解槽、SMR水素製造炉、その他）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "1:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CTFpIN2c2eTFNMGhHbzRHNVdfdzdXVjJGRmIwWThkSWE0eFl2VjViR2hjVmh5U0RNSTRuSU1QSWlhaHltNkp6SjF2M0k0NmM?oc=5",
+    "source": "Yahoo!ニュース",
+    "time": "4:55",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc283NWFMX0tLeWJOOE0zaXlIMUVsNTZuRkVXX1FyUElDMl9kcWNCWV81emdKY0N6UzUwSk1jVzNuYkZmQlIyRUVOSGFLeVRLMjN2XzVvQWxQbXZVYmZZaGxPYTdwQTFpM1I2dXpiakNRaGZGbEg0NUdUWjdrVDNCRVpMWFhWQ28xZ0VlcHln?oc=5",
     "image": null
   }
 ]
