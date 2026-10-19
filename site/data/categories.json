@@ -21,7 +21,7 @@
     "slug": "business",
     "icon": "business",
     "label": "企業",
-    "count": 48
+    "count": 49
   },
   {
     "slug": "tech",
@@ -33,7 +33,7 @@
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 31
+    "count": 32
   },
   {
     "slug": "intl",
@@ -45,6 +45,6 @@
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 431
+    "count": 429
   }
 ]

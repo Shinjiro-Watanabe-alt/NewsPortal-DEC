@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-393a2352c054",
+    "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "3:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/143072/183/143072-183-0c19dfe56d3c4ecef4f21d7706c89363-3900x2478.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-a2f86ac05c81",
     "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ２. 完売』",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "3:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000163.000136212.html",
@@ -13,11 +23,101 @@
     "id": "auto-7e1494d2acee",
     "title": "企業・自治体×学生の共創から社会実装へ 第10回「デカボチャレンジ2026 Summer」を開催",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "3:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000161.000122970.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/122970/161/122970-161-cbf5267a816a71e2efbac431572de844-2048x1153.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-45201f421302",
+    "title": "ヤマタネ 本牧埠頭営業所で太陽光発電サービス",
+    "category": "その他",
+    "accent": false,
+    "source": "カーゴニュースオンライン",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRWkY5ZXVYZ1Y3RzRoM1F6QjZFOVZHamg4dExsNmNxdjZQYzJrdWl1SEotRHhlVHQwNERTRmdGbU1hRDFoWXBSOU9YSWhXTjBqckhkUUJVN0E1VUFzN05z?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c8a53f516075",
+    "title": "深層断面／脱炭素製品、どう売るか？",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊工業新聞",
+    "time": "20:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YUHcybXZZS0xlNTZ1S2x2b0hTQWJ1VHJrc3dQanBlYXJMaDZ1SHlGbXZfdUgwS1hPVGxNNHFvMHprZEQtOFJFcDJseVhSc1V5Z1pGZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2a46ef923580",
+    "title": "山梨県、水素関連産業の集積に弾み 参入企業3年で2倍に",
+    "category": "技術",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41REYwNmhDYzB3NWNXR1dHbGI4dnhadnUyQ3RRcGF1VExDZ1hSdk9GcFUzN1ZDZGlqQ3Z2Szk2UDJoTFBYTFRKQUtVWVZXd3RDTjJPcGQ4M1pDa1JDOGZWTTZRUngzU0VzZ0YzSQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-932ff9ed863b",
+    "title": "自動車産業集積地に再エネを引き寄せる愛知県 クルマをGXで強化",
+    "category": "企業",
+    "accent": false,
+    "source": "日経ビジネス電子版",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wVl91dDNsMjZLNUhnV1FDLUdaa3Z3MGFVLUI4Wi1uQVByMkk2emppWHlLUDJqZG91UWx4aTJLcV82djNwV2pWeld5cW9IUFNlemZkSTNoVXZMWHp3dk80REl2Q1NHMDQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7be58327cd36",
+    "title": "中層共同住宅の木造化促進/脱炭素支える設計人材育成/東京都が講習会",
+    "category": "暮らし",
+    "accent": true,
+    "source": "建設通信新聞Digital",
+    "time": "19:55",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rZjBZYnctV1NlSHpPZEtTS0VnM29XS0hSbG5EVFR6U0w4LVB3WWVKdXh4cTZ1S2UwaXFIdHBHSG5XUGlTRlhQR2RqVFB2eWNX?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d7d333ec09d9",
+    "title": "舟山港でグリーンアンモニア1000トンを船間供給",
+    "category": "技術",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "19:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJckpfMnBGOUNRY1l2OVQ0cHU1VlNYTmhNMHgwal9VSEQ0SzljRHFBcURxZ2JfLV9wbGN2ZlZ1bGNBXy1TdjloNmdn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-62e71e55581e",
+    "title": "燃料電池 船舶の日本メーカー一覧",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "19:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sOUZjM3N6aURVMUt2ZG85VmNCN0pzMDVaUWM1aEdPQzgzU2NvQXRwckFaQnowUkUwUWsyODk2N1pSMWt4SlNoS0ZR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7457a3345412",
+    "title": "「中国地域GXサミット」を開催 ～「守りの省エネ」から「攻めのGX」への転換を促し、地域企業の脱炭素経営を強力に支援～",
+    "category": "自治体",
+    "accent": true,
+    "source": "山陽新聞",
+    "time": "18:13",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHhnRU9oaEkxdVRURUFGcndRcmFPZHRXcG9jSDkyc1cyUzZTRUxFTGZKOGZQa2FsVGsxVjFBdi1HbFFablVXUzNpY2xSLWtPdFE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1d431e0cf33c",
+    "title": "Q.ENESTホールディングスが初の系統用蓄電所を活用し需給調整市場へ参入",
+    "category": "その他",
+    "accent": false,
+    "source": "Dellows News",
+    "time": "17:47",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJU2w5QmhMYkx1RGlmOGMxNDhxWXQzRVp5QkFudENfSjB3elVfbUN1NnZMLV9EUEp0RFd6TzVNMERXSTI3UlE?oc=5",
+    "image": null
   },
   {
     "id": "auto-cfd5d93f2c6f",
@@ -33,7 +133,7 @@
     "id": "auto-7ede0ba3ac0c",
     "title": "大手建設会社がNEDOの洋上風力研究",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日経クロステック",
     "time": "17:01",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TREx1aFJTWE9oYnVXa2loazA2MHNkU1o2clY4ZDFqTjdldEZqR3lRRkQ5c1Vha0VFaHozNmc1c2dlOVp3cFAwVWx2TGpIVlJIWGpnWV9waVZ0Zk9aQTlwNzktTjNhSmppSFlRekp3?oc=5",
@@ -43,7 +143,7 @@
     "id": "auto-107143838296",
     "title": "くらしナビ・環境：従来型太陽光発電 まだ伸びしろ クライメート・インテグレート代表 平田仁子さん",
     "category": "暮らし",
-    "accent": true,
+    "accent": false,
     "source": "毎日新聞",
     "time": "17:00",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xLWV5cDhSMDl4UWphWG1xSjlJVVU3VTFCMks3ZkV0UEFVVzJwRkdiM0tiTHd3VUdNZEF0V1BlcmlaaWotWF9pMmsyc015ZzNEM3hlYmo4OTFLQm5yQV8teFdlWjN5Q29C?oc=5",
@@ -63,7 +163,7 @@
     "id": "auto-773fa8d05059",
     "title": "第3回年次脱炭素化状況報告書",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "PwC",
     "time": "16:09",
     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVF6MGktWnladVotaTRJTGdXYlFFeG5yalNQVktJM1g0NDhTOGNhcGo0cjhld2x2NGZjQ3ItTU5ELVhtVzYzVEo1RzVROGFHOTJIc3gzNEtTQzNkdDNNN3hYaEN6Zlh6MHMtbnZFYWlnVmlTQ25vcTRwS1EzclRfaWo5NVNlaXVjSmpxWkdDdEVPVWNIMDB1Mg?oc=5",
@@ -73,17 +173,27 @@
     "id": "auto-7e4476e52c87",
     "title": "中国、太陽光発電技術の輸出規制を提案",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "16:07",
     "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzZYQkdvT3ZYYVUxVzdRcDltY19kYkgxRVZRQ3JmakY2TklRZHdrcnZoOTk4Zjd3RldsNHl6U1NfY2xmYVgyNWtVcnQxdW8tT2x0TDR6aEFZckRJRUcwNF9wcXNSbWpxdHRxdDZMSmVtekRjZFdlanNBMVZkVllQOWJOUF9KTERLMkJJ?oc=5",
     "image": null
   },
   {
+    "id": "auto-8134dcc91b11",
+    "title": "GATESとグリーンエナジー・プラス、低圧系統用蓄電池の事業化検証を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "Dellows News",
+    "time": "15:54",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FWVhJNTZ4UWl4MjdOSHNsVmlDODktZnpSQkh6bDBaUTBhcFBGcVBwRXo3djBnbjR4UjBEN1ZFSldiUXpxRjU3M0lmckt2OEJSZ01YdERpWm9LamIyaUFpVXBjM3l1enVj?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-44a13553802b",
     "title": "クアンチ省は、各家庭が屋上太陽光発電システムを設置するための財政支援を提供している。",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "15:39",
     "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXFkY2pOak9zMVpZNXkwYTFPeFVRLVZGUlFNbGlLUkNXdWV2MGQ1YjM2aWxreWpkYmJPRWxFLTZXem1IM21PQWRNTmlkS2kwNlFxckNBU0tjbHVzTWI2c1Zqd2Y0dzVpdVVPcTQ5Y3NHeDk5MTFPX0xZc2c0QzAzenBDN05iOFVrWV90MQ?oc=5",
@@ -103,7 +213,7 @@
     "id": "auto-00567506298a",
     "title": "再エネ活用で脱炭素の島へ、韓国済州",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JcnlHdzZvUUdWZl9XbnlnNmVzNmFWRkpjNG5xcTBJcGMxRjNITXRxbkZFVmlqbkNZYzZ6UUNGNXhUZnFXSXc?oc=5",
@@ -113,7 +223,7 @@
     "id": "auto-27e2d74e878b",
     "title": "洋上風力で陸上降雨量減少か、豪で懸念",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LOV9pbDhJZ0ZVSFRsMlJPUldKaTBnVmpLSFcwa2hNZWk0WjF5bzJnZGFLeVZjOFgta1loQTh6X3EzV1R4MEE?oc=5",
@@ -127,6 +237,16 @@
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rTHNYZ1loM3FwcHJnVjA2MElaNk43T3hGbHIwOS1vM1pXRkdrODd6T3YyZHJoampsUUxIbDY2R3Qwczl0cGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f2500f0d0d5d",
+    "title": "座間市が11月20日に行う、事業者向け脱炭素セミナーの参加者を募集 官民連携事業の一環",
+    "category": "その他",
+    "accent": false,
+    "source": "タウンニュース",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85aUF2Tk9TLWk4MUVPR1JtaUthUHpRb3gwM1Jsa0JHWVc3dmt6LXFXa21kQ1FmT3oxTnZPY2tNYll6OG9XblBOajh0RGk5WVg4Wm5WMkdJSTZDX2hFSFloMXg4R3E?oc=5",
     "image": null
   },
   {
@@ -178,125 +298,5 @@
     "time": "12:46",
     "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dGFhTmRzZHQzUXN0cVBuTmJ1X1JaaWRvMkNtSVlCckZYWDJqVWVSTUppcW9ORG1CZHRUVnotM0dwQXRkVFc3eVRKeXZ1dmF0MDJiaEhXY20?oc=5",
     "image": null
-  },
-  {
-    "id": "auto-dde03e9ee5f3",
-    "title": "国際水素サミット開幕 世界9か国から250人が参加 水素社会の実現へ連携強化 山梨",
-    "category": "技術",
-    "accent": false,
-    "source": "TVer",
-    "time": "12:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBib2tVWUN6Z250WFZjMHpmcFo5T3NfZ2FkOVhlZGRQcmFxaGlyanJnSy1iSUdVdlB5NFFqVzRGMGVSVUxDS2JQZHg3OA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0fb8f7f4486d",
-    "title": "相続・資産承継を見据えた“分けやすい資産”という選択肢。ZEH仕様・太陽光発電 を標準とした戸建賃貸住宅「GREEN BOND」発売",
-    "category": "暮らし",
-    "accent": true,
-    "source": "山陽新聞",
-    "time": "11:31",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UHpVNnJqX21iQVBYMVZCelBxRFJYdWp4Uzd3SDJpcGtOSEQ3MjItSUFETlV2NFV1SFh5eGF4SS1VT1VqT29kdzBDQnRZRFpuREtuSU9PVVRRam5FMWJvaUJZNmlFU01vOWswMHdmZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0fd704607827",
-    "title": "川崎重工、液化能力50トン/日の水素液化プラント建設着手。国内最大規模、液化水素サプライチェーン構築へ（2026.10）",
-    "category": "技術",
-    "accent": false,
-    "source": "株式会社グリーンプロダクション",
-    "time": "11:20",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4takx3UzRKN2k2WUE0eEp3WkExMXZSTmZBQTRQY3NPWFQ3XzFPd2Zoa3RrdUZWeU5KN3NUc19US2huZ2ZLVmtVeENJejRTSVZhbXVBYnpQcw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c68d2a648e90",
-    "title": "トヨタ、タイで初の水素燃料電池ピックアップ生産へ！ 2027年末から世界市場へ向けスタート。",
-    "category": "技術",
-    "accent": false,
-    "source": "タイニュース・クロスボンバー",
-    "time": "10:54",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZk9weUtPMElIYW42cTUyUmUzd1pKdktHcjQ5QldqY1RvOWNuVVE2S295dzF1Q1lILXdtQW5pbU82QTkxaHREeXlkWV9jbTA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af3ba5d2db1f",
-    "title": "油流出防止フェンス市場2035年予測：洋上風力と規制強化が需要を牽引 - ニュースと統計",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "10:31",
-    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2ZtcWM1UjBqUVgtUUpjM0xPM3E5ZEtUWkd3dFJpV0RnWDhKZjJLbzFBVGFwZDI1dENYQnY0S0ZtOXRYVWRBLVNOUzhDVkxERGFrMWRPTTVxRGYwOTZpNWpOemFaRGJYdGQwX19WbzdPNmdfc19OYXFock0waVBhbEQ2bW5mX2JIcmFVWERhNzdDV2hPN2JUdHkySHhfVU8wVndXMVo0VU5zYTdEZGF2VzFjZUtnVDFCQ2luUmNnR1ZMeXlDZERmbnB0RjJobUFNVXkwMGJqLXBSRjUzNVRF?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-89a94a4fbb75",
-    "title": "テュフズードとエスペック、蓄電池システムのNITE安全ガイドライン対応サービスを提供開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "10:18",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RMDN1NjFUdXRiVFZkRGQ5LTREazByYWxTblVVSGRHVGQzZHlwb1pEd25jalRsdkNKSGFDbTVURGNDR185aG5rcDRJMUZlbWFSdm1BdUcxdllzcUZoY19SWDNLTHRDNzN1R25lRlViM1hlUFVvOTBpQ2sxdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8250d321d5df",
-    "title": "日立や東ガスなど、再エネ型データセンターで協業 脱炭素で安定稼働",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "10:15",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1YTJ4ZHFqSWlqS09UM0o0VmhvV2p3Tm41NjhmbWFRM2J5aHU1NjkwVVFxd0VUWmRfTTFBZGlXY3BDWWpBcUVVdTlONTFFb1A1MHdheFdqSGhWMGRDbVJFOFJKQ25rS3lCOGsxRw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-759bf6db82d7",
-    "title": "富士電機と日本気象協会、系統用蓄電池の運用最適化で連携",
-    "category": "企業",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "10:03",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTExkRDdWeXZHZjZoTExCc1ZHWEtqNVBWM3hoclhHSVRhSFpHMEZHUnJrS0NhUlNLVjRIakpWU1kwRF9naXNfczhGVmVaMlBUS0tLbzZHU00tY1UxZGJJV01IUG50NDZTRDVqWDU3YVBaNnJnclI3Sjlvcw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c65c1b0dafd4",
-    "title": "川崎重工、国内最大となる液化能力50トン/日の水素液化プラント建設に着手",
-    "category": "技術",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "9:51",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZkZzZExtRUZjR3liSVpRTG1DbVVtb1lUaVdHbmQ2V3hGV0xHcVUtMTFFRjBOTHRYbnJqcmNmY3QyeHdGN0RrODZrRUhrVE92R2VpMw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b6631dde06d5",
-    "title": "ダイハツの新エンジンはアンモニアで動く 水素と混焼し2030年中の量産化を目指す（くるまのニュース） | 自動車情報・ニュース",
-    "category": "技術",
-    "accent": false,
-    "source": "carview!",
-    "time": "9:50",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVHoyZGZJQTdpZXZVT0lDWGV0VzF2V1lYSF82aHQ1cVBrc21oRmlfT2h0S1dhZHJxQXo0RXlLX1V4YTJrZEprcHFjQkRTZG5fYW5YSURVMEw0R3ZHcG8zVUg2UC1kUnRzdnk0ZEI2SEREdWxqMmxlazYtdm5FR0xOdmxMLTl3eHEx?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-29dac562f59d",
-    "title": "津市内の農業用ため池2カ所に太陽光発電所、27年度に運転開始へ：ニュース",
-    "category": "その他",
-    "accent": true,
-    "source": "中日BIZナビ",
-    "time": "9:36",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44S2ZRby1LelkwWV9LR0s2UVF5cGV5cUVwVHN5QzR6LWkxMmdZc3ZJRzRvWUQxWnhPdDdLX0FEekpwWG5qaTh6d1JBSDdDcHRzdUpKQmRRNnkwMVdFVElV?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-30574fa1e1af",
-    "title": "系統用蓄電池、日本と海外で何が違うのか――米国FERC命令と長時間貯蔵支援策を読み解くウェビナーを開催",
-    "category": "国際",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "9:15",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IeW9zQkdaSzVFM1dYcVRNQ1FHd1dHS1gxVVlLQ3RpcDU4UXl1REgzclFzVE9rSG5CZUo2N01zSEtIRGo3X1lpZExpUjRBaVhqaTBEdTZvOW5YQjJBZ3FQYjdjUkpRaXo0N0UxS0NRZjRqUQ?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/71/181124-71-ff1d524ee09d3c7919f8c055585f39a4-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   }
 ]
