@@ -11,20 +11,86 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-f467827bfc64",
-    "title": "トヨタ自動車、部品配送拠点に移動式水素充填装置を設置",
-    "summary": "トヨタ自動車、部品配送拠点に移動式水素充填装置を設置&nbsp;&nbsp;Moomoo",
-    "category": "技術",
-    "source": "Moomoo",
-    "time": "10/20(火) 14:29",
+    "id": "auto-5e1eed9ef416",
+    "title": "あなたが使った油で、ブルーインパルスを飛ばそう。",
+    "summary": "[日揮HD] 日揮ホールディングスが事務局を務めるFry to Fly Projectが、以下の取り組みを開始したことをお知らせします。 回収した油は、国内のSAF工場でブルーインパルスの燃料になりま...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "10/21(水) 2:10",
     "comments": 0,
-    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0hZdTNZenpYeF83eUxIbmJmWC02UHYxSFNnWXZmWEdIWDJOVmlKc3VnWVk4QWJYQXhCQkJzOWsweHlmV0EweE13dmpwOFBEaFc4QUFqS0owRU45LWltNFJVbEVQZURWVGNuMGJzTWNkSHpLb29kbjAtT1RMaW9jZmIwcHhTMWt6bVVHQ1d2UFZyY2VYMVlyOTNfWVZ4a3Z5QTRTbEtUSG85enZFNUV1NXE5Z0lXWTQ5bWp0M0YxRQ?oc=5",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000348.000065135.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/65135/348/65135-348-1c740f93b30eeae3d21fe5a5b6c1364a-1907x2700.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-5705f99db1a2",
+      "id": "auto-0a6e9e9749a2",
       "rank": 1,
+      "title": "ソコテック、旭化成の韓国子会社・東西石油化学が製造するアクリロニトリル（AN）の製品カーボンフットプリント（CFP）に対し合理的保証を提供",
+      "category": "国際",
+      "source": "PR TIMES",
+      "time": "10/21(水) 1:10",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000019.000153421.html"
+    },
+    {
+      "id": "auto-393a2352c054",
+      "rank": 2,
+      "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/21(水) 0:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000183.000143072.html"
+    },
+    {
+      "id": "auto-ea287507524a",
+      "rank": 3,
+      "title": "【日本蓄電池株式会社】福岡県嘉麻市にて系統用蓄電施設「NC口春蓄電所」需給調整市場への参入",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "10/20(火) 17:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hdUxXOWJURlVqdEVfTEpybXBnUFVyeGsxZ2JxRzFPVlhjNUQyOXRaN1NTQ0xEcFRwR2E1VDNDallwdE1wVzJES2tMb2JPZllrdS1uZUZtQUdSV29OSm5KcGtkNTJJSjRn?oc=5"
+    },
+    {
+      "id": "auto-9d849ce674ef",
+      "rank": 4,
+      "title": "国家防衛と安全保障を確保しつつ、洋上風力発電を開発する。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "10/20(火) 16:49",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmpkamVEX0Y1NWRQSS1ydXVmd2RCZVUyT3Z1QWk4Uy1LeW9sTHZmRmFUWHVsQkpVYmVfLUFZYTFiMkNPaHZkT0pDQ21KU0NHMnJTVUNoZkxOOFJBM3RERldFV09RYTZ6S004b0MxQjVZeExVQjRoejg2TVRDU0RseVZyTTFiMUpKaE55RGRYXy1KSUdhMXc?oc=5"
+    },
+    {
+      "id": "auto-41cefd6cf40a",
+      "rank": 5,
+      "title": "エネルギー転換の最新動向 ― 拡大する太陽光発電用蓄電市場が、世界的なクリーンエネルギーへの転換を後押し",
+      "category": "国際",
+      "source": "Simply Wall Street",
+      "time": "10/20(火) 14:38",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2hhM3RTVlFmNjZBWEgzRTdxWEkxTUdJZ0FpUVllYU5acmk2SGpzcDJUT3daWXF4VHItZWowYUs0bl9UVXZxWHJqakRkeXdSRTdoT1FESHFYTkJWTnRJNXc2WlJwSUptYVRHc2N5dmxLRHJBYzJ5NHBiSnVwYnNSWXpLUHdpOXZKZlHSAY8BQVVfeXFMTmdlZ1NHUlpRclI4WGFFeWo1ZktUb0s0aUVnVTN1bWxlWDd2dmctVmE0SzZVVEJJSTFpbnRmOEV5ODZuZmJZMHM4Q3oxWW5zcE5BLXRxVHhsSkFKbExTWG9pRVVrUjRtbDFrRlpGYW1JWjZaR1A2TjlqU0FfMTY5WjJLMlc0bkc0SVFBamhINjQ?oc=5"
+    },
+    {
+      "id": "auto-f467827bfc64",
+      "rank": 6,
+      "title": "トヨタ自動車、部品配送拠点に移動式水素充填装置を設置",
+      "category": "技術",
+      "source": "Moomoo",
+      "time": "10/20(火) 14:29",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0hZdTNZenpYeF83eUxIbmJmWC02UHYxSFNnWXZmWEdIWDJOVmlKc3VnWVk4QWJYQXhCQkJzOWsweHlmV0EweE13dmpwOFBEaFc4QUFqS0owRU45LWltNFJVbEVQZURWVGNuMGJzTWNkSHpLb29kbjAtT1RMaW9jZmIwcHhTMWt6bVVHQ1d2UFZyY2VYMVlyOTNfWVZ4a3Z5QTRTbEtUSG85enZFNUV1NXE5Z0lXWTQ5bWp0M0YxRQ?oc=5"
+    },
+    {
+      "id": "auto-5705f99db1a2",
+      "rank": 7,
       "title": "国内最大の水素液化プラント、建設着手 川崎重工",
       "category": "技術",
       "source": "建設通信新聞Digital",
@@ -35,80 +101,14 @@
     },
     {
       "id": "auto-4506db3dd3ef",
-      "rank": 2,
+      "rank": 8,
       "title": "【関光ロジNEXT】やまぐち物流モーダルシフト推進協議会、「物流効率化・脱炭素化推進セミナー」を11月18日に下関で開催",
       "category": "その他",
       "source": "ニコニコニュース",
       "time": "10/20(火) 14:15",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2TkdQTzdHdlRILWlYZzJ1ZzkyeC0xMzRYZUdvT0tzNjgtc0JzVHdPaGhTNkZmc1pQakp0dkJLSUxROXlKR3JIb28xNW4tSzRNRUlaQ0g2ZHFlUVBoZXg0NGZXbEVPQUZmdE96S09KZHBCTTN5cFpjYw?oc=5"
-    },
-    {
-      "id": "auto-a2fa1045a8ba",
-      "rank": 3,
-      "title": "ブラザー、水素燃料電池に関する協定を東京都中央区と締結",
-      "category": "技術",
-      "source": "ニコニコニュース",
-      "time": "10/20(火) 14:15",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZ0VwNThkSTJKWEV1TlhTZUVQbkM0WWpRYmxSa0RPa3U4LTFDMGhCVTNhd1gzMlRPT3ItYVlHRzZWWXVSYlJGV0x3cFhsWXUyUmx4dGIzWUFXbGZYWFhzVmVoODQ5MzdzUDA1c21ZcnFGeHNETExCbG1TVQ?oc=5"
-    },
-    {
-      "id": "auto-6977bc1aa3bb",
-      "rank": 4,
-      "title": "水素社会実現へ「富士ハイドロジェンサミット」山梨で開催 小池都知事と長崎知事は連携強化を強調",
-      "category": "技術",
-      "source": "サンスポ",
-      "time": "10/20(火) 13:19",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vbzFwVGtiSnJoWnIzWDJIZDBINEJpclhQYV9tYWRHN0ZRdTBMaTRhV2J1Q1d0aFJUOU0wb0s3eDJUX21UT3NFN1NrWHdscjlIUGRUSWszNVRMcmUyR1lhQnRQZW9QX2NiRDdXQlNKNHg1WlR6bGc?oc=5"
-    },
-    {
-      "id": "auto-8126d737682e",
-      "rank": 5,
-      "title": "「バルコニーが発電所に！」広島の既存賃貸ビルで実証開始 | 超軽量・超薄型の「ペラペラ太陽光(R)」を活用",
-      "category": "その他",
-      "source": "広島経済新聞",
-      "time": "10/20(火) 11:59",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OcXIyUkJrU1pyVG5ZOXZ2VmRjZXYyUmRVSmxINjJRMkRuR2lQblNpSFJzUWV5X21KeDhhaTVHQjdnUUR3R3RhNHhyazZEdXdIOVU5S1JHNA?oc=5"
-    },
-    {
-      "id": "auto-1c9be5ec412a",
-      "rank": 6,
-      "title": "学校の使用電力を再エネに 電力事業者が社会問題解決へプロジェクト",
-      "category": "その他",
-      "source": "教育新聞",
-      "time": "10/20(火) 11:55",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRWJmb0FPZGlrN0dsWkJLYXpOZ056SzQwaHdXQ2xBNFh2aU92aURxZ0RSRDJfb242N09QUHlfb2ZlbkExcFpEVlFob2RnU3NQM3FLdl9n?oc=5"
-    },
-    {
-      "id": "auto-b64734e30950",
-      "rank": 7,
-      "title": "水素エネルギー普及へ 小池都知事と山梨・長崎知事が対談 初開催の国際会議「富士ハイドロジェンサミット」",
-      "category": "技術",
-      "source": "au Webポータル",
-      "time": "10/20(火) 11:41",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTWs2eTNSQmJZN29yUDZBY291OHNNV0VZenAxWWpLYVdaLTJEd0tXNXhEd0lxRm5VNUtfOWJvb1IyOGNxUmh1cFFvVDJnZm9BZ2VpMkZOa3pBN0NIaWhRNEhOMVctcVY2NzFSSGpR?oc=5"
-    },
-    {
-      "id": "auto-2bf7f7d5e61a",
-      "rank": 8,
-      "title": "広島県安芸高田市、アイリスオーヤマ、バイウィルが「『ゼロカーボンシティ』実現に向けた環境価値（J-クレジット）の活用に関する連携協定」を締結",
-      "category": "自治体",
-      "source": "朝日新聞",
-      "time": "10/20(火) 11:13",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOek5jSDVPVDBRSXRsZjk4eURyY0otdlVaa2xzcWVHQWdfLTh4dHhTNjd1MGhvQVN4RVBGZ1g3aHRwUjcxdjFJdjN2XzJtUGVmS2lMaTc0ZnhEM2c?oc=5"
     }
   ]
 }
