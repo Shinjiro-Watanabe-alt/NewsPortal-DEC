@@ -1,22 +1,92 @@
 [
   {
-    "id": "auto-41ef9688303f",
-    "title": "日本経済大学 東京渋谷キャンパスで、気候変動と再生可能エネルギーを考えるシンポジウムを開催",
-    "category": "企業",
+    "id": "auto-0008550ad7c9",
+    "title": "【 神奈川県 BAK・YAK × eiicon 】大企業等・県/自治体との共創による20件のプロジェクトを採択！「脱炭素」「地域活性化」など社会課題の解決・新たな事業創出に向けた支援を開始",
+    "category": "自治体",
     "accent": false,
     "source": "PR TIMES",
-    "time": "6:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000343.000020664.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/20664/343/20664-343-db40cf5d6f1cd5d4e4029bfe7d8f581b-2900x2175.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "8:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000001014.000037194.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/37194/1014/37194-1014-d982fa7111e8593393c573feb17becd8-1200x630.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-c3fc2cb7f1e4",
+    "title": "テラチャージ、集合住宅向けEV充電インフラ累計30,000口を突破、設置数No.1※へ",
+    "category": "暮らし",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "6:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000472.000075648.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/75648/472/75648-472-94d2f498d3d474fc12cbf26664906dd1-1075x650.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-ed4d694b74c1",
+    "title": "中国能建、吉林でグリーンアンモニア年産60万トン体制へ - ashu-chinastatistics.com",
+    "category": "技術",
+    "accent": false,
+    "source": "検索: グリーン水素",
+    "time": "23:42",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhQWVZNXloUHF5RVY5dG9kOTVFWlVFVFM2Z1Bic0YzOEw5YlREZTFPX2ZBenZCRi1rb2JMOVQxcUgyd3dNYnhleDZfZUQ0OFJkMWpQTmZuSjRlMXptWVpWMExaenBhWEJH?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a821320c3a59",
+    "title": "水素活用した化粧品工場が公開",
+    "category": "技術",
+    "accent": false,
+    "source": "au Webポータル",
+    "time": "22:51",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vcFBnOE4xTlVfeElqV0d3aUNsblduRXA1Y0pfTk9Xb2l6NG1FLXIwZmFWR1RiOXNGejY3b20xbUFodTFzSEgtbEg3WXR6UE5pd3lfTFV5a2draURlNDJ6YU9FZGhNM0xQd19iSEVB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-096630f597ef",
+    "title": "カーボンクレジット市場は、今どこまで来たのか。Green Carbon×Carbon EXが語る現在地とこれから",
+    "category": "その他",
+    "accent": true,
+    "source": "ビジネスジャーナル",
+    "time": "22:39",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFamdJN2VsMFk4cy1jdGZHTmJyMlhVNGpXTjNtdk9JbGI2TUVUWnRWMzZXTVRnaU9wczRxclZLbWJrUnNtOE9WY3B3M2NsblRtSEUwaGtrNTk5UC1MeGFGeg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a58311a39a1f",
+    "title": "中国製の太陽光発電はエネルギー安全保障のリスクなのか？",
+    "category": "国際",
+    "accent": false,
+    "source": "日経BP",
+    "time": "22:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVmxhWDVpczJTUFZfaTBlemZIeVYzSDJza2EzVFZ5MkdqdEUyRm5FUUdEcTBkQWZXbklVYkVNczBkMW04bEhQVkU2OTNGbGJEdmNnZE5xNjZwS0M4ZHRScVMzUGVobGpyUTg2SmdXZVZqUzhCaXdDMU13?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-64df1bdd82bd",
+    "title": "FC大阪が花園中央公園で盆踊り夕照祭を2026年10月に開催へ 再エネ活用",
+    "category": "その他",
+    "accent": false,
+    "source": "Dellows News",
+    "time": "21:34",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3TXFfU29oYVVEVWxKSEZpSzRqUW9IMHVmd05ab3FxVXdmUkt5NHVxSGI5T3R4T29SQ1Y3cFNfNXRQaFIxRHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8f7d3187e1cd",
+    "title": "IDOM、オマーンの500MWアル・カーミルI太陽光発電プロジェクトで詳細設計契約を獲得 - ニュースと統計",
+    "category": "その他",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "21:21",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObC1Pd3Vtazhyd0RFN2ZfQzNiOU9sWGNxYzZMeHBuZGtqazVrLVlLcVBLeldJSmFRLXhsYlRZVGVxUlhkTmRHWlExa3JvbDRiZGhWOTN3OGVHZnpXZ1pCWDRfTDI2TXVscEFDSFhaYXNwOS01a2hvNXE3SzZjWmltVWQ3RGhFYy1UMnNQODdlbTFPS29zRG9BRTVVLURxb2Y1cEt0ZG5sZUpKYUdt?oc=5",
+    "image": null
   },
   {
     "id": "auto-d8c25265a1cd",
-    "title": "太陽光発電施設から銅線約４５００キロ盗む カンボジア国籍の男２人を逮捕 ７県で同様の被害を確認（仙台放送）",
+    "title": "太陽光発電施設から銅線約４５００キロ盗む カンボジア国籍の男２人を逮捕 ７県で同様の被害を確認",
     "category": "その他",
-    "accent": true,
-    "source": "Yahoo!ニュース",
+    "accent": false,
+    "source": "Excite エキサイト",
     "time": "20:59",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BanpZNXBnZU9QZ0ZEUEVOdW5mUHpQNEFrOGpaRGlHUUduWnVVZ2Zzc3ZwNk9TYUFqREV1YzRJZG45ZWd2ZjRXMm90MGN2WVBwQTVMTlVtWDBWZVFlQ0otYmR5Z3JISHhQOFdUNmtWZnJpa3p0alMtRGZGd01ZSHM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNLWR6ZWhVa3FvWEhWdXRlVDVvNVk4RHhxTjFIbUhqbmlPYXhNdG1IWUlTVkFHck9HT1VHVWNEdHBEdHF0aGlXNExwcWJsV1pzcExiWldBN1F1SS1La0huNTloc3NuSVUwUkVDdmR0UjBXZw?oc=5",
     "image": null
   },
   {
@@ -33,7 +103,7 @@
     "id": "auto-006f8535af33",
     "title": "日本の自動車用燃料電池市場の成長要因",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "pando.life",
     "time": "20:03",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11T3NvYmdueEtEd1I5TVZIdGdlblRkbkttazFDaEJYUVdxU2xkdUFiR3JRWFdQU3F5RlNsOUI4OTdsak1veHVUbHhB?oc=5",
@@ -43,20 +113,10 @@
     "id": "auto-3a652b64da75",
     "title": "脱炭素、ＥＶだけが答えじゃない 藻類でバイオ燃料 走行時ＣＯ２回収 マツダ、３０年代の実用化目指す",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "朝日新聞",
     "time": "20:00",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xaDZnRWZVSnBwX1lSTmVoV3lodm53NmFyLUpydkhyR0Z5dkF0UGh1bXVDczdFVVJ3YTlkMzhjZzlXT3ZLeThiV0YzbFlxQmVIaGRhRlF3WFZreWY5?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4dd4621b0244",
-    "title": "【デジタル版限定】水素ビジネスの課題は？ 県内で国際会議、企業関係者の対談内容を紹介",
-    "category": "技術",
-    "accent": false,
-    "source": "山梨日日新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IdzBnWEFiaWZ0dkFYOE1zVnVMc01EWWJfTWFhUkh6TXh5azNFUlZsLUJpZDc0MWQwYWlJZ3hLNk5wNXZ1eTh0T1djUVhFNWRpX2dZUFBabTVlMzNOcUtJQjdwTkU?oc=5",
     "image": null
   },
   {
@@ -100,10 +160,30 @@
     "image": null
   },
   {
+    "id": "auto-b5a536a107c8",
+    "title": "中小食品の脱炭素 フードロス対策クラダシ､蓄電池提案",
+    "category": "その他",
+    "accent": true,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50cWQyNmpqV2h6STMwNXNma3NEbzhJbWlnYXd4V3BoaEpnQTNxQkZ2blM4NHhxWm0xMFBzRHNHSlZjTXllQmx6Ukg2YkptM3I2Snc0ZkZReWh4N0hFNzFTX2VkSVpOZnRTOVZodzYzbmdlWGZSS2FR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-917d5de21af5",
+    "title": "静岡の三静工業、社員全員参加の職場サークルで進める脱炭素",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55YzZMTm5aNDNZT3daZXpsT0JpMVJWRjZ3NnhCV0VxQWZqMXFKTDJMdEN1Q1NZNm1kRFNKZ0pDWl9hLW13d1VmaWRKWEdENlVUMGlMRmQya0hCbGo3U05BVkZoSVhqMU5JenIyMA?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-5a5cfda079c8",
     "title": "藻場造成技術や再エネ新製品… 脱炭素取り組み一堂に 高松で展示会 ２５事業者が出展｜四国新聞WEB朝刊",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "四国新聞",
     "time": "19:01",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Qal9ZNGhaYkczaEJHZmdLWjB1NVU5ZHhQQnp3MDhINGtaNE04TmZ0R2NzOXNEYkdIcjhSNDV6cTVtbDltOENrVWVpMjRYcm9kdXczWlhpUEZ4ZUZXX0d3Y1diSzVYbG8xYkVCQTBvdEtWVUpuWFHSAXxBVV95cUxPTWxhYmJhSTFlSlUzT1BEdVVFOW9NUGNrUzNRV1I1TVVMOUhCSC1ic1pOamg3S1V6WXU0aExoci0zTnVnT0RsLU84QlJkRVpzSlhsRDJEdVBKS1FwdFcya2N5SVBRZUZDbW1wQ05CQWhEN1hBUmpuMk9YTlk5?oc=5",
@@ -113,7 +193,7 @@
     "id": "auto-a90929be1995",
     "title": "＜画像1 / 3＞ホンダが水素で走る新型燃料電池自動車のリースを開始",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ウォーカープラス",
     "time": "15:11",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yX3pGTHIzR0dBQmszQ2hfMWdwTWhYTk90Zm1WUjVtaVdMM3V0Tno2SlJnU2pkTjd4TkNmSVpyc2tSTDFPWlpfSUZZYklkZ0tNZUVGSVdoLUtoc2x6Z3VJaGNhTFFYTnRS?oc=5",
@@ -133,7 +213,7 @@
     "id": "auto-f8b5aa446d98",
     "title": "コーセーが水素活用の南アルプス工場を公開",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ｄメニューニュース",
     "time": "14:34",
     "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXlrR1VfQlNVb3VONnRDQUlHVl9Tb2hNNDlFVmxWZjZMTFI2eEZXamo4N1pLbjEyWHNybEdvSFhTU0xPWkVlZmlNQ1hZbDZWOVBJeV81R1pwYU43Uzl2RHpSSlRGUTFOaUVLZjFPbmp3M29sUWo4M1BCZjhDZlQtVzBnbWw1SW9QclJaQTlWMVR2OE9HTERXa0dCMkfSAY8BQVVfeXFMTjJDY2Fvek1UN245aEdEUEFJZUVfTVFEYUlaOFlLNlQ0NlhPeE96bl91X3hmX19ldnRvQ0gwaGxJTlpqNlFmLXYtV1d6OEI2ZzhNazJ4enZHM1VMUmFBX092MllwdVM3cjZ2QWNhOHFnUjdQN1BoNzBOb3dTWTB3WTVoUVhGcnZZYlgxR3dTVzg?oc=5",
@@ -143,27 +223,17 @@
     "id": "auto-97dc0a20b2b8",
     "title": "トヨタ 水素燃料電池ハイラックス完成 2027年ダカールラリー参戦へ 画像2 - F1-Gate.com",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "検索: 企業の脱炭素・水素事業",
     "time": "13:48",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EbVZoR0FYcXMxcW5iWkt5bEZ0VEtlTmt2UlFMXzZucEpWSGNxaVJjR2JlMlVhVHZPWUlYVkVnMW8zamdjTFRoYXQyYjdiUllRLTQtbQ?oc=5",
     "image": null
   },
   {
-    "id": "auto-0c3861fa6b0d",
-    "title": "中国電力など4者、廃シリコンとCO2からギ酸水素キャリアを製造する研究を開始",
-    "category": "技術",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "13:46",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KczdISHVzdy1YNndKR1ZZNGl4MHA1dHptbURFRl9VVWRyV0JnZmgyLXhRVkVUVm1pNk90QW1za1N5QWRVRHc?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-be4ffa4635f2",
     "title": "ペトロベトナムは、デンマークのパートナー企業と協力して、洋上風力発電の開発を先導している。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "13:40",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1NFY2Y3eDd3bzR1SW5BSk0wY2RrbHhTN0RSYkhoaWpvWlhFVU1NYUNHWVBIT3pvVFhmbFgyd1ZfVWZLTHZnQXJSUGdqMVdkTWJPa3g2MjAycHEtY2N3UmZGYVhYUHZmbTZJMnlDM3R2RkI0dm5jS1VvTGxiNHN1bXFpcWJjc1RXSDdLV0s4T0R6OWVkRGhHWkFQWGlQYnc1U3dSVHRHMVUzZw?oc=5",
@@ -180,6 +250,16 @@
     "image": null
   },
   {
+    "id": "auto-5e50c4f0099a",
+    "title": "県信用組合、脱炭素に取り組む4社に融資",
+    "category": "その他",
+    "accent": true,
+    "source": "信濃毎日新聞デジタル",
+    "time": "13:29",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11OUg4NHNiTHZ2SkpiM1BFa3NfcjNlQTYzN09aekRON3dibl9VNk8yRE1Mck1vOWxKZUFaM2hIVUVBM0VHVkxkaWpXT1YwVGtMT2VmSXlFbmpINW5DNjdYeG9ON3A3dWdsTVNMbGVjRkg?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-f0339636c346",
     "title": "PLN EPIは米国企業と提携し、バイオマスから水素を生産",
     "category": "技術",
@@ -193,110 +273,30 @@
     "id": "auto-5d294972423d",
     "title": "埼玉・八潮の陥没で転落死した運転手遺族が提訴 県に損害賠償1億2500万円求め",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "はてなブックマーク",
     "time": "12:23",
     "source_url": "https://www.sankei.com/article/20261021-FHIKRLPVHRIHXL55POX76OVRCY/",
     "image": "https://www.sankei.com/resizer/v2/JH3D7W2WD5KMJFJW5EBQ3TDXNU.jpg?auth=5987f20bdc0e3fe1931cec5a1d74ab8dfd8aaa8e876ab23f7b11ebccd06db7db&amp;quality=50&amp;focal=2161%2C1665&amp;width=1200&amp;height=675"
   },
   {
+    "id": "auto-0951568c3e53",
+    "title": "fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定",
+    "category": "その他",
+    "accent": true,
+    "source": "Dellows News",
+    "time": "12:05",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xd0pIcmh2Rm93UXpRSldHbGhpWFZpZXlVYmVCblJqTHNMTURnQTZzSU93UFRaektaN205cjQ2T1NWcERkeVpPWURkRGRSSGNIOG5GTFYtWDFHazZFN0E?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-c81511ce08d1",
     "title": "守口市中小事業者向け脱炭素経営支援事業について／守口市ホームページ",
     "category": "その他",
     "accent": false,
-    "source": "守口市",
+    "source": "守口市ホームページ",
     "time": "11:32",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHdkNlg5NWRGVXBIZlZ4MUpGX1p2X1lHX25FU2l4NUpndkVRS1E2MnBTWnFzSDRROXUwLXcweVRGZjVsMjIxQXdFTjJqejJfV05LNGtZYS1fYTJFU2JuNk5DblN5aHc3VW1EVHJoUi1wbGJhbW1pdXdMR0xhNjNQWmxGUmVhNVRIQzRWTS1R?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-11a1d70856d1",
-    "title": "【Japan Mobility Show bizweek 2026】 カーボンニュートラルから協調自動運転まで、国内メーカーがジャパンモビリティーショービズウィーク2026で示した次世代モビリティの未来",
-    "category": "その他",
-    "accent": false,
-    "source": "MSRweb",
-    "time": "11:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1UWItS19TUUlqbVpTaXhrSi1PRzBGUFlETVZSOW01YU9lM2VaakhjaEoyWlNBT3h4eXN1Q2Q4ajRFbC1pLXVz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7b4e972024ff",
-    "title": "PLN EPIはFLEXIH Inc.と提携し、バイオマスから低炭素水素を生産",
-    "category": "技術",
-    "accent": true,
-    "source": "VOI.ID",
-    "time": "11:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xYm1vYjl2ZUdObER4akpydk0xYnVva0RsUUxxbXd2Z25wOXlJeEVCQ1RvdWZ6ZHJhYmdjT1hPY1RSQdIBQkFVX3lxTE8xYm1vYjl2ZUdObER4akpydk0xYnVva0RsUUxxbXd2Z25wOXlJeEVCQ1RvdWZ6ZHJhYmdjT1hPY1RSQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f69d5850d7ce",
-    "title": "ロンソン太陽光発電所で消火・救助訓練を実施。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "11:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWS1sc1RvbDhpYzM4czdUdTVDZFRsMS1kdk8zdV9tbTF2RkNaNXRkOFhta3BtcHd6TzZZcWhuTEZMeUFnVGdvd1lTcGZSR1h3Q1lOR1BkcUlKVTNfQ0tiZk5WUE5fUVJCLXpxZFY4dDFkZHk5UnBGWHFOSFJ6bGtlRVlqVVpMWExIXzI0OC0zNmpyOUlEdXFWQXJMLS1ITlhHcmVSV3F5T2xXazQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a6aedf4d42a2",
-    "title": "英政府、北海ガス田の採掘承認 エネルギー高騰で脱炭素路線修正",
-    "category": "その他",
-    "accent": false,
-    "source": "日本経済新聞",
-    "time": "11:07",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aZldnM180aGNvcU1ISjN1WWRBa0dxdmhxSEp4QlQzeXFsenZHQW8xb1JHRG1hQ3dCU056cktJdUFGS21lc0QzQ2xaejB6Y1VuaTFkXzBhN3U2UE50VmUzVDlydWs5Y25HazQ3Wg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6e70e55024cc",
-    "title": "化粧品製造時の熱源に県産グリーン水素を活用 「富士ハイドロジェン・サミット」参加者が大手化粧品メーカー・コーセーの製造工程を見学 山梨",
-    "category": "技術",
-    "accent": true,
-    "source": "au Webポータル",
-    "time": "10:56",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVTZuWVdoX3cyODdKc1gtZ29qRUkwQmdKZ2JfQ212Q2xtcGhlWmxFaGxRYzByTXhyN0loUVRGOVR2Wm5QdkwtdkM2d0l0RHJEc0lOdzZUTlo2SUJIWERabHNQb19sUmdLUE9Cem5n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-64037d075625",
-    "title": "化粧品製造時の熱源に県産グリーン水素を活用 「富士ハイドロジェン・サミット」参加者が大手化粧品メーカー・コーセーの製造工程を見学 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
-    "category": "技術",
-    "accent": false,
-    "source": "TBS NEWS DIG",
-    "time": "10:50",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43OEU3WVZCZlN5X3ZpM2JBVFY1cWJheXhiUWZfajlfMEFIYkdBc3dUNXRRM3dBczZWX2FWVGw1ZFhXcnh1WjJSUHlMWmVfU296YmNrdmlTVVlJQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3ae3365e0ed8",
-    "title": "トヨタGAZOOレーシング、2027年ダカールラリーに燃料電池車『DKR GR FCハイラックス』で参戦！ 走行テスト開始",
-    "category": "技術",
-    "accent": false,
-    "source": "レスポンス（Response.jp）",
-    "time": "10:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LWVh5Y1lNTzhaUG9BV3hRckhkakR3M3R3am9VaVFNTGhmSkxYRUpwWFVvQVBVTVNHRjZYWFdnUnBRTjlzaW9fUDM0Z0VqNXRvcEY0QTJnMGQ3cEFmZVRr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f11ebd909790",
-    "title": "県公式キャラ「水素のスイチョ」の絵本完成 保育施設や図書館に500冊配布 山梨（2026年10月21日掲載）",
-    "category": "技術",
-    "accent": true,
-    "source": "日テレNEWS NNN",
-    "time": "10:29",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMWZQLVY2N3JhUno0Y1FTU2pZaHlsMWpJQndqOWNJZjEzVXJUM3dTdjZsdEdFMTM4dUYwaWZVNXAtajdyVDB2anJnZTJMMk1VYnlRT0g5ZklBbE1OVjlPSDB2Y21Dd2dGSDNYSFFmdDFNNnAzdGJCMWNqMWdBd0k?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c04e80cad778",
-    "title": "東京大学先端研やアイシンなど 東京都のグリーン水素率先利用事業者に認証",
-    "category": "技術",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "10:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00WlhEMHZIV1ljNDBhZGZUMGJzUVRyc05ucVZFZEktRzRHdFFOQk9SZjFsU3A2bHZJQkJfTmNFMmJLU3VZTnc?oc=5",
     "image": null
   }
 ]
