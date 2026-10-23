@@ -11,31 +11,20 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-ea742f89d801",
-    "title": "JA鹿児島県経済連が創出した「肉用牛GHG削減クレジット」をフジサワが応援購入",
-    "summary": "[株式会社Linkhola] [画像1: https://prcdn.freetls.fastly.net/release_image/68026/53/68026-53-baabfa6d60e3b5f0b5798dfd8e5017e9-1920x1080.png?width=5…",
+    "id": "auto-4053760b864e",
+    "title": "【タイで米事業の新展開へ】Green Carbon、130年以上の歴史を持つ米事業を展開するWonnapobとMOUを締結、カーボンクレジット創出から米の販売まで一気通貫した事業モデルの構築へ",
+    "summary": "[グリーンカーボン] 国内最大規模のネイチャーベースのカーボンクレジット創出・販売事業を展開するGreen Carbon株式会社（本社：東京都、以下「Green Carbon」）は、1895年から続く米事業をルーツに持ち、日本市場での販売実績を有...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "10/23(金) 21:10",
+    "time": "10/24(土) 0:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000068026.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/68026/53/68026-53-baabfa6d60e3b5f0b5798dfd8e5017e9-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000317.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/317/117956-317-ac3209621e33cd5f28ade74c44becc24-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-58f7d9faa52a",
-      "rank": 1,
-      "title": "福岡市博多区に登場。株式会社エストラスト初のGX志向型住宅の新築分譲マンション【オーヴィジョン博多パピヨン通り】販売開始",
-      "category": "暮らし",
-      "source": "PR TIMES",
-      "time": "10/23(金) 16:40",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000078.000124658.html"
-    },
-    {
       "id": "auto-5d9e916bd447",
-      "rank": 2,
+      "rank": 1,
       "title": "Sustechがアグリゲーターを担う、綜電（株）の系統用蓄電所2件が京都にて本格運転開始",
       "category": "企業",
       "source": "PR TIMES",
@@ -45,41 +34,74 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000095.000092942.html"
     },
     {
-      "id": "auto-99a2fe061498",
+      "id": "auto-22236d4075d1",
+      "rank": 2,
+      "title": "省エネへの取り組み（太陽光発電システム）",
+      "category": "その他",
+      "source": "東京工科大学",
+      "time": "10/23(金) 14:49",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZ2RIekV3djNmbFdaekxOY3Z4YjhOT05VNmFINzBIT2thdFBVZlpTQ1V3Z3RLUVdjUVNXcTZtTXNmbWdfcmMyRkh0U0w5SDRCZm1DWFBDOVdMalYwUVdsQWdLSUk?oc=5"
+    },
+    {
+      "id": "auto-bb3031b47a72",
       "rank": 3,
+      "title": "【6棟一括！太陽光発電あり！】岸和田市 一棟売りアパート",
+      "category": "その他",
+      "source": "www.rakumachi.jp",
+      "time": "10/23(金) 13:26",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzJ5eFdLT2FRMUR2YTdFVHlWem41dDRNMXl4R0k0a3BRWnpnZ0RIQ1dwb1d6TkhmMjFnOFhldG42WTdId0c0WXNLV3NuS2VkQmlzRW5UZXBPMlpkVUlPMTllTEZtX0g4MlFOY2ZaYlZrSWZKWXRPWUJRNzRDeEpEdi13WQ?oc=5"
+    },
+    {
+      "id": "auto-ac721e5b6199",
+      "rank": 4,
+      "title": "fantasista、長浜市に蓄電所建設",
+      "category": "その他",
+      "source": "https://plantdb.jp/",
+      "time": "10/23(金) 11:55",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWXJxaXVrX2lKbklWbjVYeWNFSGZrNHd3TDByUXJaMGwtVVdnSWpCRWtPNGJYdXVRMmJWdTZ6dnFZQlBYclE3dzFHbGdOOS1ITlhOU0dyYTlmdk80NGJOdTNGaWMxaEpVREhkdi0xeFg?oc=5"
+    },
+    {
+      "id": "auto-99a2fe061498",
+      "rank": 5,
       "title": "水素のビジネス導入拡大へ…都の官民連携プロジェクトが江東区で企業交流会を開催",
       "category": "技術",
       "source": "東京新聞",
       "time": "10/23(金) 9:46",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wTTNfLUhKR3JZcURxcHA0eVVoV3gzWm5UalZnc0NvRl9RbjY3cy02UUNtTjNBUkpTdTdhamI0SUtkM25CdXlTUFlsN1JJZUI5d0dj?oc=5"
     },
     {
       "id": "auto-274c960a65b7",
-      "rank": 4,
+      "rank": 6,
       "title": "伊那市 前原の太陽光発電施設稼働に関する合意へ｜ニュース",
       "category": "その他",
       "source": "伊那谷ねっと",
       "time": "10/23(金) 9:36",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80YW1RWk1qS1JmVy1Ha3A4ZG1HM1AtbllUbTcxbXF3bzJvczhBaTlXLVZ5N2VqMzluUGVSSS1QblZCUkQxVFM2R3JTZUZHTDJhUzdsWVNuVQ?oc=5"
     },
     {
       "id": "auto-3bbd9380bf23",
-      "rank": 5,
+      "rank": 7,
       "title": "混迷するエネルギー情勢 いま考えるGX戦略",
       "category": "その他",
       "source": "日経BPイベント＆セミナー",
       "time": "10/23(金) 9:17",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSi1wenJHUHVDQlNmeVZpQ2hvN1ZJZnhxcmtXX2NlVDFfY3BWY0ZHQ1FfU2otQl9xWnZXRkN0UXdpWFV6d0JPejd5V2d5aV9oRDRlZlVxVEk0RUk?oc=5"
     },
     {
       "id": "auto-a90929be1995",
-      "rank": 6,
+      "rank": 8,
       "title": "＜画像1 / 3＞ホンダが水素で走る新型燃料電池自動車のリースを開始",
       "category": "技術",
       "source": "ウォーカープラス",
@@ -87,28 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yX3pGTHIzR0dBQmszQ2hfMWdwTWhYTk90Zm1WUjVtaVdMM3V0Tno2SlJnU2pkTjd4TkNmSVpyc2tSTDFPWlpfSUZZYklkZ0tNZUVGSVdoLUtoc2x6Z3VJaGNhTFFYTnRS?oc=5"
-    },
-    {
-      "id": "auto-ad9ddca3dc6f",
-      "rank": 7,
-      "title": "センコー、浜松PDセンターに太陽光発電導入…余剰電力を市内で地産地消",
-      "category": "その他",
-      "source": "レスポンス（Response.jp）",
-      "time": "10/23(金) 9:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoWVVUNHh5bFlmVFNEbV82WmExMlNhSVhBeEVzUXFGeEVtNkJvY2pNdlNQM2I5SHhWaGF3YjZJY2FfM3A0ZGIwSWJJcDVUQ1VFOGJHdzdlaTl1dDhHWXdz?oc=5"
-    },
-    {
-      "id": "auto-f41afeaec54f",
-      "rank": 8,
-      "title": "地域共生とビジネスを両立！ 『再生可能エネルギー見学バスツアー』開催のお知らせ",
-      "category": "自治体",
-      "source": "47NEWS",
-      "time": "10/23(金) 9:03",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zQVhaQjFMVTRMWjdxRmN1YmRTVmpPbVRQYzBZbzF3cW43S2h5UHlkZ3BZTG82cnVwUzIwQ3QtMVdldmdubmdJb3hyTQ?oc=5"
     }
   ]
 }
