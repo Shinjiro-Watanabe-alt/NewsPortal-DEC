@@ -1,39 +1,79 @@
 [
   {
+    "id": "auto-ea742f89d801",
+    "title": "JA鹿児島県経済連が創出した「肉用牛GHG削減クレジット」をフジサワが応援購入",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "9:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000068026.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/68026/53/68026-53-baabfa6d60e3b5f0b5798dfd8e5017e9-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-3b6238df4054",
     "title": "【ベトナムで約5万ha規模の低排出稲作へ】Green Carbon、Gia Lai省農業環境局とMOUを締結",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "4:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000316.000117956.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/117956/316/117956-316-d3df9058911cc80589c3417f8ec8b4cf-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-ea742f89d801",
-    "title": "JA鹿児島県経済連が創出した「肉用牛GHG削減クレジット」をフジサワが応援購入",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "3:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000068026.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/68026/53/68026-53-baabfa6d60e3b5f0b5798dfd8e5017e9-1920x1080.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "id": "auto-cd2b426ffc38",
+    "title": "世界の系統用蓄電池、なぜ中国が首位に立ったのか――8年で逆転した勢力図を読み解くウェビナーを開催｜Infoseekニュース",
+    "category": "国際",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "0:15",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3b3pNbmlmMVJWWDZrTFpBdWxUZGkxX2ZYM25INGpEbW1Ed3I3UEtTT2JsNjZubG9sdnpIWm43RHZsc3JuVlRQcmNscklHUS1RVEhVSGxCM2NiS0ZudGdEdkFwWWJJTGU2MTZVa3FzZFRfQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-091c111c87dc",
+    "title": "グリーンエナジー＆カンパニーグループ、静岡ガス＆パワーより浜松市の系統用蓄電所建設を受注",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "21:13",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDNnhSR2d1Qkp1bmU5LTFWdjhFUkhLV2VmeDRMNlBfSzRrNWZKbmZXZUtzTi1TYXZRWlJZQnd0VV9TRmlVU0hoRjNaT3FYZWdDR0E?oc=5",
+    "image": null
   },
   {
     "id": "auto-11be44e25b5a",
     "title": "東京ガス、福島県沖の洋上風力の開発断念 浮体式検討も建設費が高騰",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日本経済新聞",
     "time": "20:00",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OZUZSNGZJbHdBLW9NRmhkdUFfWGlWNWpkeGZvdy1oMDBWakd6ZngyMXN6U2tEazJmUndQTDBPREt5cE0xQURKSTZhWHU1Mmk2UDFBMy1OS3ljVWlkeV85eS1wNHJvM1JKZFZ4Qw?oc=5",
     "image": null
   },
   {
+    "id": "auto-414146b4fe28",
+    "title": "水素航空機メーカーランキング",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "19:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByX1RLdEV4bG4xWlJ0REtBTFQ4eTFlaDN0c1FVZ2ZORFlHXzNOaUw2bm9lYjZTZEJQTjNCLU1CYTY2RExfS1dqaDBB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-47dc6193b5c1",
+    "title": "東急不動産・IBeeTが出資する蓄電所向け蓄電システムを伊藤忠商事と共同受注",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "18:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yanIyZmh1emVMclk5OTRrOC1CbXVIdjVrcmcydk1iamxWaFk0WGRRRmdSMnNQZ3FWS0lzaG5KYVJNZmswVVlnY2VtSW5JTlNUOEE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-0917a1bc9515",
     "title": "ジャパンブランディング、系統用蓄電池の制度解説ウェビナーを2026年10月開催へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Dellows News",
     "time": "17:51",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSXhLYjI3VTZTNzByaVd6R04yUEFNNzJfSGJha3FuV0ozNWsxWTE1M3VIa3BXamcwRjVtSWhnLUE4U3Z5OUE?oc=5",
@@ -43,20 +83,40 @@
     "id": "auto-0af6fa72db6f",
     "title": "グリーンエナジー＆カンパニー、自社保有の系統用蓄電所、京都府で運用開始― 鹿児島・広島に続く３拠点目、関西エリアへ展開 ―",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "17:16",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaHN1d3dUcWJWU3d1NDIyQm92eUh0aDVDMmwzaWdiUmgyTF9lWWtpSk5RWVVUc0FQSElvb0o4bGdJVDR3Z0NfdjdiaWx0VVdadmc?oc=5",
     "image": null
   },
   {
+    "id": "auto-dee56aebceb2",
+    "title": "グリーンアンモニアのグローバル企業とシェア",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "17:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkcF9SSHlBQmQ2SmQySnpjUURnX0Jub1lGSzBHVHloSUlsZkpFNU8xVlluY0pMdVdpQWRKM093dGlPRzhrM083MFhR?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-ba70379bcbc2",
     "title": "画像4 / 18＞堀越麗禾＆チョコプラが“HTT兄妹”を結成！小池都知事と「東京都の脱炭素化キャンペーン」をアピール",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ウォーカープラス",
     "time": "16:40",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHNGo2SXZVQVNQd2RXRFpwcUJJQkJ1cm5EY2pTLUI2REFEa1FZM2JnVElFUml5UkxtUWRGMkR3RHRDT3Fmam9uNFkzWW9tNExyN3BxVllfcjdGZFp5eHRCTTc3ZDY2OVVFb1pyUU1R?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-390de7857b27",
+    "title": "液体水素用圧力センサー市場、2035年までの成長見通し：極低温燃料供給インフラの整備がけん引 - ニュースと統計",
+    "category": "技術",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "16:21",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZmFHRzhCTGpuQjRIWFRVckZRYzI0aGVSUS1JdWpWZnB3MUpOWDFrVlAyZkdIZmF4LTdFbTg1dlJILXJiRnRSWWc1RGVMM2dzNW0xMHpoekhIOGxFTmxDbWRDdGtDNGFTZ28tc0tGbkdpcTdhYzdIOHZjZ1lmN1k1ZDZGRjJkc1Q3UFRIN1J2MDVHVWN3cy15LWgzb0hCWWZHMXl0RjNXT2wwSlBXWnJKbkpsckdyTmtTYmhEZndTcUhJdUNsTC1wc2xPdm10bVE?oc=5",
     "image": null
   },
   {
@@ -70,20 +130,40 @@
     "image": null
   },
   {
+    "id": "auto-1ebfc2ed1046",
+    "title": "水素用スプリングハンガー市場、2035年まで拡大へ：パイプライン整備が成長を牽引 - ニュースと統計",
+    "category": "技術",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "15:56",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmxLTjJSQXhQVmk5R1Y3Rjk5SUN6Nk12NzdwaEJVOTRVX09NR2FPVnBzbE92ejJSOUI3YjRGRmZxOXozTVVhM256SmN3ZFRkTno1Y1ZNYmNiWVhTdUY5S0doOU16UlFsYTRmZE5oV2htdlBKWlJ3UTI4RWhNVzNBRlBkM3dFaU9zNWhjODJoWlhmbHhmSlBpZ2tGX3Q3SzRKcmV2TmdDU2NCU1ZwTW5nMnRGbW9qSHpHUG42Z1NQdUVVd3M?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-3a3f85338375",
     "title": "ヤマタネが本牧埠頭営業所にFIP制度活用の自家消費型太陽光発電を導入",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Dellows News",
     "time": "15:54",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xYW1iVkk2aXozUm1zZHRtRjY2MjhJazZsTkg4Tm9yVVlNUHlONFRaR0xrN0d5bVY1dkpiSmFwTENHUmw3TFE?oc=5",
     "image": null
   },
   {
+    "id": "auto-35220c724e48",
+    "title": "水素計量スキッド市場2035年展望：水素インフラ投資が支える年平均12～16%成長 - ニュースと統計",
+    "category": "技術",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "15:51",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRWJLY21veXZ6eW0yTW9UVXQ0NEJFb1AzSTFmV0lyNW41NGYtTUJIQ2xrY2lpdTJsMXZ1MjBNN3lMQ1dYMTlwdVlkMEhta0k5ZW9HbjJndkZxOVo5Z1ZBR1VuQzlGNzJTcUJCMkxpUmZpVTFxTUVmQ0Zmb0lMN01OV3ZNeWNzbTI2djNENGdWMTlPT1ZMOGxhaWE1ejZNX1ZHeWRyVDVNbXVZY01tOV9WRDFFSzJyd3FjM2VuMkpfSDVxUWZzdUZzUVBBNnNndXJoZmVLb3phVjQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-1dad0d0d3171",
     "title": "ベトナムソーラーが200MWp以上、5,000基以上の太陽光発電システムを設置したという節目を振り返る。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "12:55",
     "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3l3SnZiNVNUZUZheDA0ZUxSNnQxSU5qYWY1R1JpcTJ0NmN4ZWViLXFGdGtpLUwzdlVtczMtLU9kX01WdUYteWtDb1hib2lYR2xDMTI2cV9QYVJHUThwSGllelQyNXlmUlJwbUxIZHZDMHJVdDUxc2ZZQXpzTktsS1lUNjlhRnlaVEVfX1QwUGxOUUl2cGZQSHJESVFzcW1mVDlweTFtVzRPQjk0R3BnVUdB?oc=5",
@@ -103,7 +183,7 @@
     "id": "auto-488eae3d017e",
     "title": "ベトナムソーラーの太陽光発電機器販売ネットワーク",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "12:06",
     "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcElRVVdiYmxXNXFUR0FwbGU4ak9ZVlhna1JQd2JqOTNxM1g2Vjg5cVN1WERBNnRNVDRwVTlxS0VjRkRZYnlZMHd1alByRmpib1N1RTZ5bktSQWpUZE9EcVp1WlpMNldPblhJcV9SY0ZHeEJrMG4wVFRPeDFQOWxldkpnbFlNaWVrUWxwc2NmTzc?oc=5",
@@ -113,7 +193,7 @@
     "id": "auto-ec47c30a4403",
     "title": "屋上太陽光発電設備の設置に対する財政支援：なぜまだ魅力的な選択肢となっていないのか？",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "11:29",
     "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObU1YakJRRElmYUhYN2xIS1NGUGtfR2Jna0U0ZUpoOHhfb0lTOW1IbGtXcEFUZmQ3UG5MbG1ZbGhQWkc4X3NjaTUzV0lIRldVSFlTMVJZdXBVYTlZQ05GLXdRaVpjaHJqZUw0QXhUVTU2dXlTdWtZeVBrSmo2bVVncklsaFZSMkhpQXpF?oc=5",
@@ -133,7 +213,7 @@
     "id": "auto-351bfbd96dfd",
     "title": "（1）工場のCO2が原料に 脱炭素の切り札「e-メタン」実用化への道【中部企業研究・東邦ガス編】：ニュース",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "中日BIZナビ",
     "time": "11:20",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQW5VMlJ3T3U5WXZENmwyclJEWGVuX1Z5d3NUcnBGS2NteVNlVWJGNm5xSzlKOG9CSjhuS09aQjRxZlZSNVlwWERvbnBZd3RBU1h2RlBiOUxHZGprYnZN?oc=5",
@@ -143,10 +223,20 @@
     "id": "auto-3d25328e3dc2",
     "title": "世界の系統用蓄電池、なぜ中国が首位に立ったのか――8年で逆転した勢力図を読み解くウェビナーを開催",
     "category": "国際",
-    "accent": false,
-    "source": "PR TIMES",
+    "accent": true,
+    "source": "イザ！",
     "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rbGw4S09ETUpnWjk5V0ZzLVN2b2cyRF9BdEdwTnFsRDRQYzktLVpORWF5UmpKcEtmSExpTl8zUmdDSW44V0h1eFZzeGZHZEQxZ2d4bEN6ZHFhWlFaeE9KMTQzcEVGMFhvOFE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZ2hnLTludlBFSnBjSUR5SUJLYTFqUThBZmFvWlR1aHVBdExZd2FlY05PWnR6RHlxLU0zdlpCdTRRaDFfUFFiLTBCb0VMWWJlNGxtYUdaMGpJSklFaUdUZEwwZ2lSU0RHMWtGYUZoRGNqd1NZZDlPR3Nn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ef0aff16fb3c",
+    "title": "水素注入用比例ソレノイドバルブの世界市場（2026年～2032年）、市場規模（≤10bar、10-20bar、≥20bar）・分析レポートを発表",
+    "category": "技術",
+    "accent": false,
+    "source": "Newscast.jp",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16OEF1UUNBOXY2eDB4YUpqa296eUNQb3lEUHNSVmdEWnRMS2ZNaDlLTEl0ZXdGaEFtczNLWU5VR2hSRWlwVDZn?oc=5",
     "image": null
   },
   {
@@ -190,43 +280,13 @@
     "image": null
   },
   {
-    "id": "auto-6326db5d9313",
-    "title": "【画像】欧州最大の商用車見本市で…トヨタが中心「水素大作戦」の舞台裏をリポート 7/11",
-    "category": "技術",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "7:48",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HVWs5UDdhRy1yUFdBSkpsUmJBR05EUnRxM3hyc0tzajF4ZzYyWlA2SENNS0NmblgzUVduMjhHVXpyX2ZGY2o3YkQzeWZFM3FjejNGb0NqU1owSmhXMGcxQjBuLU9EZUFOU3RWRHQwRHZtUktSTkVIaEV0aGI?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-9bc7b449604e",
     "title": "サステナブルホールディングス、2026年11月に蓄電池単体販売セミナーを開催へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Dellows News",
     "time": "7:29",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmbUhYcTV4S3FFT1dtWkt2VEwtbnh0eXVvNEtxSGlLZ2VDOFhlX1Z1MDFSSHRpU1NjU3dZVm9vQmk0WWFTbTlPSHpOTGU2eVRPRHQxTXZOM05EVWRib1pNMlZrOExZeHc3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-79f236609078",
-    "title": "【画像】欧州最大の商用車見本市で…トヨタが中心「水素大作戦」の舞台裏をリポート 8/11",
-    "category": "技術",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "7:04",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wSHNHb0FTS0djMUNibXZlQnhDNkdhYU1QZXFLdW9qSTJMZjRib2pkalFRNWdnZzk5RFhmdHZPc3JyMkYwMlNUX0FRZ3RGbmM2R2p5RWFDY3VMM1BoWmotZnRRR2ZwaFZkcUJ5V2JoZHd4RWRYOHA3UnNvaks?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4f7e561adff0",
-    "title": "【画像】欧州最大の商用車見本市で…トヨタが中心「水素大作戦」の舞台裏をリポート 5/11",
-    "category": "技術",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "6:48",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vcWYwWDN0SGhmdE5xVFZHMHM1YXl2MllKemZHV0pwd3JRam12SnFtc0c3X0FDWUxHcHVnM0p3RjNlOExlOHpjZzFvWXRQaTJuQjlXekRjRk9zUXdTTUpkVGRFQVpWbktsbHFXNU5CUExfQlU2LW0yZEI0cWo?oc=5",
     "image": null
   },
   {
@@ -237,66 +297,6 @@
     "source": "山陽新聞",
     "time": "6:45",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RS2NILUpEeXdCUVNHQXc2T2tQdE9RNTZPR2stTTdyblhjZVdGazVGYXVIc2pyanV4cjJ1LVhMbGRmSVU3MkhKR2lOUl80ZnhZMVE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d6a31a4d345a",
-    "title": "【画像】欧州最大の商用車見本市で…トヨタが中心「水素大作戦」の舞台裏をリポート 9/11",
-    "category": "技術",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "6:04",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zTVNGTS1GMWMzQlM1bENZZk1nTl9MUENIa0xSdzR0OXdMbWxFQ1lBX0FXVHp1TS0yMlJGdzg3NDFGbkQzTllxWXpBRFVCRTkxVUlCa1hZS2h3djR0X3pXNnowUjlFdXBobk52bEFwN0VPSkNIUnhvSlRlMlI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0f88fdc065ae",
-    "title": "【画像】欧州最大の商用車見本市で…トヨタが中心「水素大作戦」の舞台裏をリポート 4/11",
-    "category": "技術",
-    "accent": true,
-    "source": "ライブドアニュース",
-    "time": "6:04",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TekV2dUZXdllZQ0pwd0hlS3I2Tk1xYVJBa29KSUVwc2hUWkwwTy16T256S01iUlEwdkd2NUJzMUZrZ0Y0aFVFOVRCdjl0eG0tNVh1TTJzS1pYZktzTy1WSU1iNi0zNG91T01hWjl3OFB4RUE5YmkzY3MyY2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cec5cd39eba6",
-    "title": "水素貯蔵用モレキュラーシーブ市場、2035年まで成長へ：燃料電池車需要が下支え - ニュースと統計",
-    "category": "技術",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "5:31",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM1NIUUphN1RXLUs4TnVDS0c5Z0VJd1RjR3BmUVB6OThVMlA5eWVwZHVTcEJqcmk4YWtuZHlnRnBKT0lkOXJVaXZuQ29jZU5TZlVaUUpiUk0waGU1Z3pqWDlFU1Q0eDRNeVJQclFyQXUwRnRXSzBFRlIzUTRXSXFkaTFyRDZFejVDT2tndlI5Wll3R2tBOGpBRS15bklnMHB0TV9IUTRYckVxeFRsdFNxM0pINDRTOEo5RnZKZVNlR1RfR3M3UDliUkVJaGNlY0wxTUVpQWEySVlTTmNrOENfTVRhTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c848a3e68d26",
-    "title": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース",
-    "category": "技術",
-    "accent": false,
-    "source": "中日BIZナビ",
-    "time": "5:26",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FeTBnaFMybHFWbDdaRF9wVlp4ZXRSVjR2QktWN2paMWExQXhEUzRBRWxkNURBb05wR3BuNndUZlRZZUVzNWJLUHJYVzR2eDROdFlhdWdvUFFyaHVpRzZn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-78f6d77db189",
-    "title": "2026年11月25日（水）52回RIEF勉強会「エネルギー政策の未来～安全保障、AI、カーボンニュートラルへの対応～」(Walter James） | 一般社団法人環境金融研究機構",
-    "category": "その他",
-    "accent": true,
-    "source": "環境金融研究機構",
-    "time": "5:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91ZW16NnFYLUc5QWNxc1RmYUhiYi1GNU56b2dtR0huTFNzZnh3ZjYtV2Zna3gxOUJLOWlUYklMNXpXeGtoaE44?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3d819028583c",
-    "title": "水素用温度計市場、2035年までの予測：グリーン水素製造と供給インフラ整備が成長を牽引",
-    "category": "技術",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "5:11",
-    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1dLT28yYnNLdXh3OExfckNTTkNmYS1PbUw3U01WTHpWNzEtMVFUOXVicTVkQVRtVmtHOFZSWml5RXRmNzdwVXRxRnpwbWE1bjNXb1gySlJaLVNEeWNyWlNVZl9jLTdZeTd0QkVxUVgyd25KaVpTNnZkZUJDNFVBd0QzS3h1ckpJVmpyWWt5cVZhZm9oVGpvaTBLMDl0bXlXYy1aNVRWN21xcVktQnNEbExvQTV5dV9CaGtSU1pGa3ZJM0RsY0JZR3pLNzM0TkRWYk9mS0hNVUZHUWFubFFUNlh6SzBsd1F5M2tCSlVB?oc=5",
     "image": null
   }
 ]
