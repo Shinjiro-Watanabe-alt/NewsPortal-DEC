@@ -11,20 +11,86 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-701b6b9c5447",
-    "title": "定置用向け蓄電池の世界市場、2045年に15.8兆円規模に",
-    "summary": "富士経済は2026年10月22日、定置用蓄電システム向け蓄電池の世界市場に関する調査結果を発表した。",
-    "category": "国際",
-    "source": "ITmedia スマートジャパン",
-    "time": "10/26(月) 16:15",
+    "id": "auto-0b450cd22782",
+    "title": "資源総合システム、「ビジネスガイド2026」発行のお知らせ",
+    "summary": "[株式会社資源総合システム] 太陽光発電とその関連事業のコンサルティング業務を行う株式会社資源総合システム （本社：東京都中央区、代表取締役：一木修 以降「当社」または「資源総合システム」）は、2026年10月26日に 「太陽光発電ビ...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "10/27(火) 0:10",
     "comments": 0,
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/26/news070.html",
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/26/cover_news070.jpg"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000117654.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117654/24/117654-24-700ddc99296648d9f25d7c40cc12b86e-1060x729.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-f089b1fe0a12",
+      "id": "auto-577852c52ad2",
       "rank": 1,
+      "title": "近畿３省庁が北ぶらくり丁に集結！合同セミナー開催！",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/26(月) 23:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000120.000115515.html"
+    },
+    {
+      "id": "auto-2a4be4aebec7",
+      "rank": 2,
+      "title": "Socotec、Jクレジット2026年度最終受付を強化 締切は森林12/14・その他12/21、森林・農業・削減に対応",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/26(月) 23:40",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000020.000153421.html"
+    },
+    {
+      "id": "auto-fb610cffe842",
+      "rank": 3,
+      "title": "【HORIBA】CO2吸脱着評価装置「CCEVA」が、地球環境産業技術研究機構に採用",
+      "category": "自治体",
+      "source": "PR TIMES",
+      "time": "10/26(月) 23:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000062.000103757.html"
+    },
+    {
+      "id": "auto-701b6b9c5447",
+      "rank": 4,
+      "title": "定置用向け蓄電池の世界市場、2045年に15.8兆円規模に",
+      "category": "国際",
+      "source": "ITmedia スマートジャパン",
+      "time": "10/26(月) 16:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/26/news070.html"
+    },
+    {
+      "id": "auto-71e284329626",
+      "rank": 5,
+      "title": "洋上風力発電設備（ベスタス社提供） - 独企業、北海道に風力拠点設置へ アジアの保守管理集約 - 写真・画像(1/1)",
+      "category": "国際",
+      "source": "西日本新聞me",
+      "time": "10/26(月) 15:11",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKazRrSVBSMFpIMmk1MHVBLVBkY0stVFJHUmdGOVpndEl0bloyZGxybDZCQ1hvV21BcUc1ak5ZUHE2VFZLWjJGb1JIbnRmMi1SMU5DYkN2TQ?oc=5"
+    },
+    {
+      "id": "auto-8d269f8c2238",
+      "rank": 6,
+      "title": "独企業、北海道に風力拠点設置へ アジアの保守管理集約",
+      "category": "国際",
+      "source": "Infoseek",
+      "time": "10/26(月) 15:04",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hcEUxUjVPMEUzYzR4Nk9EdVRqcGZMc01URFFKazNhb3Vxems0S043RmZqcEJEODRxbUstX1RsaEI0R2J3TFhnOWZIRmtRSFFiUDVMekRPSzF6VUw3clFnT2RTbHh6c3BtTnAzaEZNY9IBdEFVX3lxTE5PS3hkSU03eDRhemZoNzd5ZkNaa2Zvd1NTeTliV2lrUGwxalkwaW9vSHhzSFd6c2lWX29GSWg5M3BjSWw0UWljWGRSV3VHT1RLcmxWc3lVN1ZQTjNRZm5ib3Z3Ri1rZGFXaTFIRFYwYnY0alFa?oc=5"
+    },
+    {
+      "id": "auto-f089b1fe0a12",
+      "rank": 7,
       "title": "株式会社 ＧＳユアサとタイにおける蓄電池システムに関する協業の合意書を締結【TGES】",
       "category": "その他",
       "source": "ニコニコニュース",
@@ -35,7 +101,7 @@
     },
     {
       "id": "auto-654d8c1f5ac2",
-      "rank": 2,
+      "rank": 8,
       "title": "名鉄瀬戸線およびミュースカイにてカーボンフリー運行を開始します",
       "category": "その他",
       "source": "ニコニコニュース",
@@ -43,72 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSDlLOEdURHU3RnNJSmlZSmttaGRPaERFSTJQT3JGdVFQcThHMU1iU19IMzljeDI5THlKTEVUR1BnZHVFNVpTVThkTnBxV29ScTAySF9VVjVOV01sZlc5cU50dnZkWUZzV3lQdGZTRkpibDl2bUE?oc=5"
-    },
-    {
-      "id": "auto-4317b418da76",
-      "rank": 3,
-      "title": "宮城県、事業者向け再エネ見学バスツアー 営農型太陽光の先進施設で協業探る",
-      "category": "その他",
-      "source": "ツーリズムメディアサービス",
-      "time": "10/26(月) 13:07",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VWpoTkx5SU5kVjhlUllGcndZdDRfVnA1RzFNQmVCaUc2ZG1POTBNVWg3bmhCLXRTM0ZfX2F6WUJ0ejNLOVA1bg?oc=5"
-    },
-    {
-      "id": "auto-202dc9333f93",
-      "rank": 4,
-      "title": "東京ガス系とGSユアサ、タイで蓄電池システム展開へ協業",
-      "category": "その他",
-      "source": "newsclip.be",
-      "time": "10/26(月) 12:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQVdTM3UzOXpEWXFyOTJnRXVvQ2Ixb0pvOHpyeXVBR1ZUNXRQMjIwYkN3Y1JrN0szVm9kaWZPNUVfMXFuZV8wYkVIVnBsLVFGMEhLN0hOS3BLZG5N?oc=5"
-    },
-    {
-      "id": "auto-985207a4da9b",
-      "rank": 5,
-      "title": "前橋市脱炭素化事業におけるJ-クレジット創出連携事業に係る公募型プロポーザルを実施します",
-      "category": "その他",
-      "source": "前橋市",
-      "time": "10/26(月) 11:09",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MVkpRU2hBSmxJNTN6ZldQNUtpUEIzekNNazVhSFZSOWtkeFJBY2FOQVdCOXBUanJaVDhKQkZpMWFYZm04WG4xSWRUQ0xSSlIweS1iSmFuVl9QM3hSUEw3Z1U4WGh6T3JFOEd5SzJZQVEyckE?oc=5"
-    },
-    {
-      "id": "auto-115384e83f3e",
-      "rank": 6,
-      "title": "ハティン省は屋上太陽光発電の発展を推進：開放的な政策、大きな可能性。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "10/26(月) 10:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0p6SFRJSVBCX1lMdG1WbFpPZ0FmMTNuZ3Y4dGdTXzJSYXZKREJMYUFTaHptbHc4WWdYcHNlVGo3VDBMQVM2Y3FfZ0docXFYZkhGZ3Ftb3h5aWNBYVE0UlRNcS1tcUk3ZFlHUmg4RGxEV3gtN2ZHclFtSm5yd0pPWm1DQ0lacjl0cDlzN3VTb1ZXMU1xcEhlSHdXX3RaRTRJWUE?oc=5"
-    },
-    {
-      "id": "auto-5abcee5eac71",
-      "rank": 7,
-      "title": "ベトナム・ソーラー社とそのベトナム全土における200MWpを超える太陽光発電設備の設置というマイルストーン。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "10/26(月) 10:11",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkVkdVBNdUxCQXdCMWFrWU1PcGNwVFZoZDEtQjZMMVZwbnN3SFFlRXRBTGNqZ2Q2UFJEcnczTjBydFMwRlh0SEVqMkJZWGQ1Sk9yNTVyN2ttMmxfWDY4YW1DRGU3RDJubHFKWk1ndVBKZHVDZndra2hxQU5rZmxiS0M2Z1U1R3p4Qnh5R3NWSjJsVGk3MUpqdE11OGo5eVg2SlFjVG9Maw?oc=5"
-    },
-    {
-      "id": "auto-c848a3e68d26",
-      "rank": 8,
-      "title": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース",
-      "category": "技術",
-      "source": "中日BIZナビ",
-      "time": "10/26(月) 9:55",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DVTduYjZRRUEtdmk0bmcwMkRHb3FIRW5LdnJwS2Q2NVVOOG5JMnNjMjhob2pTUXRvZ1BoVVhnUURSa3lEbldxdWY5clpLSjRzRDRSTDhQUllMRDF5cFhpOGZnVQ?oc=5"
     }
   ]
 }
