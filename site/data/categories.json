@@ -27,24 +27,24 @@
     "slug": "tech",
     "icon": "science",
     "label": "技術",
-    "count": 321
+    "count": 320
   },
   {
     "slug": "life",
     "icon": "home",
     "label": "暮らし",
-    "count": 21
+    "count": 18
   },
   {
     "slug": "intl",
     "icon": "public",
     "label": "国際",
-    "count": 73
+    "count": 75
   },
   {
     "slug": "other",
     "icon": "category",
     "label": "その他",
-    "count": 426
+    "count": 428
   }
 ]

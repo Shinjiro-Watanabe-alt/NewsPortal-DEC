@@ -1,23 +1,203 @@
 [
   {
-    "id": "auto-0fd928e90c2a",
-    "title": "蓄電システム「Mega Power 2500」を出荷開始",
+    "id": "auto-03e4d853f37b",
+    "title": "”SusHi Tech Global” 資源・エネルギー等レジリエンス強化プログラム採択プロジェクト決定！",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "18:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000007041.000052467.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/52467/7041/52467-7041-564597b59c0d35af90c03ac0ed88ba6b-800x450.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-3b6238df4054",
+    "title": "【ベトナムで約5万ha規模の低排出稲作へ】Green Carbon、Gia Lai省農業環境局とMOUを締結",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "18:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000316.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/316/117956-316-d3df9058911cc80589c3417f8ec8b4cf-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-701b6b9c5447",
+    "title": "定置用向け蓄電池の世界市場、2045年に15.8兆円規模に",
+    "category": "国際",
+    "accent": false,
+    "source": "ITmedia スマートジャパン",
+    "time": "16:15",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/26/news070.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/26/cover_news070.jpg"
+  },
+  {
+    "id": "auto-043b042c641e",
+    "title": "環境セミナー「風力補助推進システムの最新動向と実運用」を開催",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "15:30",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000280.000109041.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/109041/280/109041-280-3d0223991743da0f236ddfea2dcdc97d-2048x1365.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "15:15",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000594.000092744.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/92744/594/92744-594-da36ce9023e9e39d29419a3f97ded509-3900x2925.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-24cbb98f6c69",
+    "title": "秋田大教授らがタジキスタンで脱炭素プロジェクト",
+    "category": "その他",
+    "accent": true,
+    "source": "NHKニュース",
+    "time": "9:07",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LdGZKMkMzWm9TYkF6aExSWUlZUmN6b0hnVzlUb05FTjBhcmZGWXVQNlhIeGFSM0VYTVVLX0hlZFl0dXBPVDJqQjNvd29XQjBXQVEzM3puOGVCOUVfQ1c0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ed28d3ef4f09",
+    "title": "系統用蓄電池はなぜ単独で作れないのか――M&A・資本提携が広がる理由を読み解くウェビナーを開催",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOEpPN1hDWlNXdW56UDB0NE1nQ0cyaWpzcElfXzg0U05taldaWnVFRThrOW43MEFJUGc1dmZBT05UVnNxZVY0R19sbHkwTEN6UWtzRTIycDdQQS1LNjc3Wmh4ZGptS043alE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7603c0174a4d",
+    "title": "「水素」車だけは得意な韓国…後発の中国は1兆6000億ウォンをエコシステムに投資",
+    "category": "技術",
+    "accent": false,
+    "source": "매일경제",
+    "time": "8:33",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTnNBVzFkWW56SkxlZy0tYmxGbEdyTy11RjJ4QVlxTkl3YVFtTWI3Q3RmLXpoeHRsbzN4SE04Q3pHemhFczcyRjhoR0RNSWFEZDk4?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2bab00ee9a39",
+    "title": "グローバル水素産業の先取り競争が激しくなった中で、政府支援不足で国内生態系は成長停滞状態に陥った。 韓国は、現代（ヒョンデ）自動車など民間企業が主導し、約30年前からいち早く水素技術の先取りに乗り出し..",
+    "category": "技術",
+    "accent": true,
+    "source": "매일경제",
+    "time": "8:33",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoajRaZHFqOGo1cl9JVVpQeEhQbFV0RkJzWEJPUXRVX3FGVFRiX1FzRUxaNGllR2xUbktEbC1WTjM5REV6dHZ5SUhiSHN1NXU4VkE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-134bba15c3d7",
+    "title": "脱炭素化を推進 北広島市と北海道ガスが連携協定",
+    "category": "その他",
+    "accent": false,
+    "source": "ｄメニューニュース",
+    "time": "8:33",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpZFd4a3dWVDd1bzBwLUVoUGNKNDM2Wm84Q1paS09zMmFJamR3ODZ1Tjl0aHRXV3E2b3VLMWNaNW1maGZKZUU3SV9VRjJKNFhqNTRWWUk3cE9PanZxc0V3aDFMdzFuWVk0SUNVYjh2ZjN4LVJZOW5veFFFUjTSAYIBQVVfeXFMTXJscm1oYjZyYW40WFd0Zl9QeDBnaTZGM3p3ckx5cGhONFhGVFVPTHY5WHVsN2s3QlZfb2FGRHpCeFM3Y083RnF6MTBTM2FCU3o4SzRyUXhuSV9RWHZZSVR0bEtUTGdHSWF4TVhFWUpPQUNvby1LY0VCTWQzNmdId3EtQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9edf158357fe",
+    "title": "「伏見工業高等学校跡地」および「元南部配水管理課用地」における大規模街区開発事業 京都初の「脱炭素先行地域」における4ha超の大規模な複合開発 街の名称が『KYOTO COCO CITY』に決定",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "8:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42V25kakUwZWRLd3ZQazFYOWVDcENNVHFKbUxMVXhSczJrdmhRODJHN2ZFUGcxOEVteTNBVUV5OEN5LVJQOW9BS0M0WmN1OW01Z0dGdFRBWnRzVGVYLTZHNE1R?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4200fac4c6d8",
+    "title": "上士幌町に総務大臣賞 自動運転や脱炭素など過疎対策評価",
+    "category": "その他",
+    "accent": true,
+    "source": "ｄメニューニュース",
+    "time": "8:30",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11Zjk1QU1GYXlFcGpqa0stN2xVUTIzMzNuZjlLSEJLV3lERk5meEtQdTgzdUNLbU1QaElaMGJRd0stckp1N3lrQXp0TVFkWHhENENhTlY0ck5UZlQ4X2N6dG9kSGltbGhDQ1lhQ20yUmhrWXd0T3NyUlBaNnPSAYIBQVVfeXFMTVlZcHJqbEp2XzY2RjZLMW94VW96U0VRalJ6eWNzUXVrRlBhbFhTRmdnTjN1Nmd2LVpuT3VMdDZsb2syU0ZiaEkxWXNjMkpNWW9nVGc5cUY3ZkVnY0FOVFVSSGZRTjVNNXY1UTZBTk9IeEhXazRjWHhxUmpXd0J3bGc3Zw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c582a293e3a8",
+    "title": "【クマ出没】体長１ｍのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市",
+    "category": "その他",
+    "accent": false,
+    "source": "au Webポータル",
+    "time": "8:16",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XbDMwTWQ2eDBpRFRPTFY2R2dUVTNRWjhIZWl5azdfZFZNVGpyY3NNQnN6Q1NuU2lKbGxMSFJNcGhad1Y5U2VzVHlHTkZOUjFiZFZjckhyc1RrMFJOMzh2WG9uWmluZ18wQV9KWFRR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0d490eb96211",
+    "title": "【クマ出没】体長1mのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市（UTYテレビ山梨）",
+    "category": "その他",
+    "accent": false,
+    "source": "Yahoo!ニュース",
+    "time": "8:11",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVlptOGU1bkV4M3B6c1B4OGQ1enl6aGlxandnelZSYnNmU3hKNTd3dlVfZ2ZwczZidE9uYURfX1pEaC1FbjUxRG53cV9zbmF3UjBwREJHU0pvU0FHZWZhNlRNR0JOOTBJUHBzcXYzLUdxOXpCdzE1V1h1R2J6Q0E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-70d24a849f1f",
+    "title": "令和8年度第3回東京都グリーン水素トライアル取引（京浜島グリーン水素）を実施|10月",
+    "category": "技術",
+    "accent": true,
+    "source": "都庁総合ホームページ",
+    "time": "8:07",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SSHBDZVl6V2hLeDVHbUg1QTFHTW5lcWxJczhrSGYyX1l2T0FDaEFjS1c5OVF4c3VGNEFqZnVRTHpmQ19QX0VBLVRzMlBtTHV6aVZnYUNoODJyZzh5TTRBTnA1dy1oRGhWRFZ0ZmhORF83eUJv?oc=5",
+    "image": null
   },
   {
     "id": "auto-b684a4d86230",
     "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "はてなブックマーク",
     "time": "8:06",
     "source_url": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
     "image": "https://i.gzn.jp/img/2026/10/26/underwater-volcano-energy/00.jpg"
+  },
+  {
+    "id": "auto-4e8dafd32975",
+    "title": "ウーブン・シティを一日体験！水素サウナで熱を帯びる本音トーク",
+    "category": "技術",
+    "accent": false,
+    "source": "トヨタイムズ",
+    "time": "8:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nNS1fMnhRajVOMHBWVHlPZUREU09Ba3FYVzBTaHFSS0twQjNQVkstRFRzOGFuejRJT3VQT0tvMF95QS1GNk5IOWlqZEYwUlJvd0E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6d929c39e4fe",
+    "title": "SANKYO、遊技機製造工場に太陽光発電システム導入 消費電力の約30％を再エネで賄う",
+    "category": "その他",
+    "accent": true,
+    "source": "グリーンべると",
+    "time": "7:58",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4X2JUTmh0MWUwOGI1UTdDbWlHbUd1TkZMa2lHRS1hWkwxS051dTBGZzlQamxSdlpPOFBxcU9YWFBXcU9GcG1FNUx4N08zUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-adbb611a0eca",
+    "title": "【クマ出没】体長１ｍのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市 | 山梨のニュース | ＵＴＹテレビ山梨",
+    "category": "その他",
+    "accent": false,
+    "source": "TBS NEWS DIG",
+    "time": "7:22",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNeW5NZ3JCaVVnMnNreEdIUEZzSE9PMzZlWmFWY1BLbmtQRng2OGE3QlBTNVlSSGV2VDZFZk95VFRjaWU5b1NFZTNDR0E1MUpaY21Kc3B2dktzZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d08e486e7631",
+    "title": "定置用向け蓄電池の世界市場、2045年に15.8兆円規模に：蓄電・発電機器 - スマートジャパン",
+    "category": "国際",
+    "accent": false,
+    "source": "ITmedia",
+    "time": "7:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFQTVvMWZfUjNRdnItVm9nTzE2VHdUNGFtRVljWGRUWDc1QjJldGpKUFJsc29USkI3NzBNVUpjSVM0Z25nNDJfNUhwb2pvN04xYXFZUlJpQlRtSUpHUFgwcldyQnNGQzJHcFVia3NoSFU2c3VV?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-df5e74e63875",
+    "title": "東京ガス子会社、ＧＳユアサとタイで蓄電池事業の協業合意、再エネ活用と脱炭素化を推進 - kabu-ir.com",
+    "category": "その他",
+    "accent": true,
+    "source": "検索: 系統用蓄電池",
+    "time": "7:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50cWxIQjdiTjdRMFR0MlM0aEFpYW13T04wQU81SThoOUdhRjF0N2tHMkM0Q1kzcUYyaGJNRFg0NXRxcVJPenA4S2xmMWo0MVRrM01HaA?oc=5",
+    "image": null
   },
   {
     "id": "auto-202dc9333f93",
@@ -27,6 +207,26 @@
     "source": "newsclip.be",
     "time": "6:59",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQVdTM3UzOXpEWXFyOTJnRXVvQ2Ixb0pvOHpyeXVBR1ZUNXRQMjIwYkN3Y1JrN0szVm9kaWZPNUVfMXFuZV8wYkVIVnBsLVFGMEhLN0hOS3BLZG5N?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1d6d5122a0d2",
+    "title": "リコージャパン、企業の脱炭素経営を伴走支援 「カーボンニュートラル倶楽部」発足1年で会員2400社超 30年に1万社目指す",
+    "category": "その他",
+    "accent": false,
+    "source": "電波新聞デジタル",
+    "time": "6:47",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuNlpXVUtidno5QTJrNjVSLXJ1TzhnaG9Ja1ZwQkdMWUtSUjNLWEQzeEVXTHdYNko5djJyZGh3SmVnMGMtYlpPWGVQM2ZRdEhmRHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-dcbf9f3ba3a7",
+    "title": "mino-lio、脱炭素いちごを群馬のこども食堂へ届けるクラファンを開始へ",
+    "category": "その他",
+    "accent": true,
+    "source": "Dellows News",
+    "time": "6:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15aV9PZ0NtNU0tZjFjMkVqalgxbllvVTcwLUxuQjh6NEE4bkFYamxlTHRibmlrUmMtbTFwWi00YTFuckZ3bGN6YnN6N1VadlJ1Zzl0dUhRNTA5a3dwX2xQSHBvdWc?oc=5",
     "image": null
   },
   {
@@ -40,6 +240,16 @@
     "image": null
   },
   {
+    "id": "auto-3fd3c5d34cf7",
+    "title": "SANKYO、三和工場に太陽光発電設備 消費電力の3割を再エネで 年179トンのCO2削減見込む",
+    "category": "その他",
+    "accent": false,
+    "source": "遊技日本",
+    "time": "6:39",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81cUUzSlBwdDlLcUxnTWdLcUx3Q2xfWDJrcFZ5Z21LS3ZxOHpnb0hrV3F0YVFHeFRnTnNRRW4tNW8ydmxZbEJnNFNLRGl6bktKQ0ZzY3otcDhhak9md0E?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-dcedc5476289",
     "title": "パワーエックス、10フィートで2507kWhの新型蓄電システムを出荷",
     "category": "その他",
@@ -47,16 +257,6 @@
     "source": "ニュースメディアVOIX",
     "time": "6:31",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eHRzTHItUUJIOHYyRmN0NjZmVlByMU4teEgwUlNzcGhXcmMwOFZoNHFfeDd6cko1ZHc0aVpvVHhfT3VhOHJpejR5NFBZYnBBU3lV?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-27ff2d91f71d",
-    "title": "【宮崎県内企業初※初期費用0円】病院・自治体・大型施設の「電気代高騰対策」と「脱炭素化」を同時実現。空調特化型AIサブスクリプション「MP-1 SYSTEM」を提供開始",
-    "category": "自治体",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "6:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S0g4U0hob3lyMU9LbW5ITDJ5YXlDeF9nQ2ZJcDF0c1pyMTB1eG5QUnhQSmZONGxyT2hWem5jak5jOG8xUS1iSzJlcGNLTDVuTnlES0FIZHV0aHk1SV8zZzdaMEZJa3ZiR1E?oc=5",
     "image": null
   },
   {
@@ -73,7 +273,7 @@
     "id": "auto-b4456ee71369",
     "title": "中国製蓄電池セルはなぜ世界を席巻したのか――シェア逆転の裏にある品質課題を読み解くウェビナーを開催",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "Infoseek",
     "time": "6:10",
     "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YLVViNFRmUTR1ajdoYkxHY3kxcms2czhybnNwU1AxeWVTRjZ5c3RLWU5IYWVsYUtoYk5CeUdqSFhibUhxbVI2bzluVm9kYUo0aFhWY1BYRmNvTlNLaW1BN01wLThKbURkWUFNS0tlaldDdw?oc=5",
@@ -83,7 +283,7 @@
     "id": "auto-1b9024897598",
     "title": "福島を再エネと水素の次世代エネルギー拠点へ 社会構想加速化プラン2026",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "環境ビジネスオンライン",
     "time": "6:01",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Zk43dnV1ZTVPOFpuS05xSWxmeDBncTJzNEJ0eTZpQjgzV1M4Yl9JZnJOX2FxX1Rxa09oM0hSUlFUc1M5VEN2ZF9xXzdzQU54bFlpVjlHWlMzUGdvUGliVjUzeTByQXQtR2U3Z29YcTBwNFJYYkhRZjRSSnRUV3c?oc=5",
@@ -97,206 +297,6 @@
     "source": "AGARA 紀伊民報",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pQ21hWXM2MWNrSWhRdGhaSXpyYTFZcEZmeXJyR3NMc254TGFsVmRjVXcwZHlRUmhXRjY5SUtPSnZ2WEh1X1B1cHVwUDk4OG8?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-835953117993",
-    "title": "ベトナム・ソーラー社と、同社が全国で5,000件以上の太陽光発電プロジェクトを環境に優しいものにするための取り組み。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "5:28",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlJYV3V4RUpKS3B6b3Jod01tRVg5dnNwdGdnMC1udkxiRWx6dmZaWE1reHJtTEpwb2Z1a1ZzNmJnUzlRd1dEQTM0dmd2bWFudmU3bVVqMDcwdVlOd3djQ0t0ZnZRSDhWYnR1X1FFaFZPY2c2bVFRQmJBSGd4eXQybjhEVVlmdTZNQmNmNkJvSjdBb1hJcTRBSlppWTdnTmd3T0dTUTl3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f0bb5cd3e28f",
-    "title": "イノベーション拠点の電力1%を、水素でまかなう。清水建設、「水素1%調達宣言」活動に参画",
-    "category": "技術",
-    "accent": false,
-    "source": "デジコン",
-    "time": "5:12",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yYk80WG9NcXJudXZ0aUMwVjFyMlJfWnduVTBQcG5hWW82NWp2aWFLaWd3ajdnYzBBN21wTDV5U2V4WWthblg5ZVJaWlc2czVWYnRv?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d6c4c8ed5626",
-    "title": "世界の系統用蓄電池統合市場、2035年に552億2,000万米ドルへ拡大予測｜再生可能エネルギーの普及とAI電力制御が",
-    "category": "国際",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "5:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmR2swYUlsWnFoeG1pV0Q2VUhObW9jTmI5QXJ3cWlDN1dMbzIwN3FLamI4Z0ZqY0JBQzhxSDE4ZUZ5WEs1NVJkTkZXcEpjdUk1UkxJQkJydE9sRnl4T2JKUHk3Ym1FWkFr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-517cc4d3f80c",
-    "title": "系統用蓄電池を取り巻く電力市場制度の改変と市場戦略",
-    "category": "その他",
-    "accent": true,
-    "source": "環境ビジネスオンライン",
-    "time": "5:01",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96bDkwdDdDazMtOUwyWjk2TTZLcFVGRV9PLVpCODctcDVOR196c1c5eUxjalZXOEZjcFNRcnU3Sl9PNll6cFg1WVVpWWIzYVNKY0w1bEZKdzlCMDBHZzQ1OWlnM291TXBCU1o1bElEa1hDenJxZW42R3FUZFhBX3c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8d789eeef724",
-    "title": "川重、国内最大の水素液化プラントを着工 日量50トンを液化・ 川崎市で -",
-    "category": "技術",
-    "accent": false,
-    "source": "神戸経済ニュース",
-    "time": "4:51",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ESEUzQlM2YjZvbURKM2F2bnByUDdSal9DZG1UU1NxUDlYR1kxa0ZEdEhab0V6YkxXWGVaN3lfNExGdWZpbXQyNTNMZVFoOXNDcGUxTkNlYUZ5dDBD?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-646a19442b2f",
-    "title": "日機装、水素ステーション向け次世代型ポンプを発表：時事ドットコム",
-    "category": "技術",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "4:46",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EYjlZOUE2TXhQOFNkOHlHNktqMU0zZ0ZyaTRPeHFqaTEyY0NxU0dIYlo5Z2F0NUpfcUdjYmdJR3lycVB6cFp6QWxXSnQwZnBOLXg1ZFlMUjhPR2U4MlV6OXI3QVZMUERfSnpr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-40f8bd5f20a6",
-    "title": "日機装子会社、水素ステーション向け次世代往復動ポンプP2KHFを発表",
-    "category": "技術",
-    "accent": true,
-    "source": "Dellows News",
-    "time": "4:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95R1NVLTRuMllXQk5uQ3h0YkxaUkU1eXJGVUFnS1ZyeTRLZVV4bGUtb2laeGl4VkFPelhZLTlUWGZWbXV4cDJNbVo1QWRmVTA2MWZ1TWoxWm1LWlhKcklwUC1IcW0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-09dd8933d1f9",
-    "title": "東京センチュリーが小売電気事業者に登録、蓄電池の自社運用を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニュースメディアVOIX",
-    "time": "4:31",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WTHVSLUloMkRYMWhJa0w5T3N6dXZ0bTRhM2RfU2J2TjJTM0xEVWh4blRvSHd5WVBldVE3NUFQMWFaVm9UWHpWSWxNTTEwQks3d2FN?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7be99c9f3e96",
-    "title": "洋上風力発電用タワー・基礎構造の世界市場（2026年～2032年）、市場規模（大型、中小型）・分析レポートを発表",
-    "category": "国際",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "4:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mTnNBd0NJbEhFTHc3Ujh0ZVkxaE1QcWhlUjZ0Wml6LWt3V0xidVMwdzU3QW4wQzFHaXd2WHpDc2dRN0R6NlhCdi1SbC10R1E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7a0e323da099",
-    "title": "中国、田湾200万kWの干潟太陽光発電実証プロジェクトが加速",
-    "category": "国際",
-    "accent": true,
-    "source": "中国経済新聞",
-    "time": "4:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11T01JREZHQ2FwcFlxZDdHSWFkNEFpYm9sbGRGNXE4eE9VSFNvU1F2Sk1IV3NZY2VKeWlWcVRkQ2Z6bktaX2pOQ3ZGOA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1b5310899b83",
-    "title": "RC床スラブの木質化新工法を長谷工が開発、遮音・断熱と脱炭素の両立を図る",
-    "category": "その他",
-    "accent": false,
-    "source": "リヴプラス",
-    "time": "4:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QMHlvYW51SEdtLTlMUDE0VUNkelNFb3pQclBmTEp1QkJkTFlHdldrN2l4bTNoMnRsWnZIazl3NWQtMVV4Zmc5QTdrcGNEVEdvbnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9dc4d08d1c45",
-    "title": "世界の太陽光昇圧変圧器市場規模、2026年1743百万米ドルから2032年2711百万米ドルへ拡大",
-    "category": "国際",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "4:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YcXhKZVdVd3V0eGhZRTNqREpyS0hjNlF6dHhaaE9sRkdiVmdwZk01MktDNjRBcHpvSlNYZ1RXeHRxYmhaRHNhdHZHWUI1anYxMFdDZWl5YWVkZGw3MGhjdTh3Q0NsQ095?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-df6e76f0a2d8",
-    "title": "日機装、水素損失を1%未満に抑える次世代型ポンプを発表",
-    "category": "技術",
-    "accent": true,
-    "source": "ニュースメディアVOIX",
-    "time": "4:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xOWVfZF9jU3RVMjNvTG5rMmtfbVU4bUtNYVZhSUNpc3ZCRG91bUxRM3VqREs4MV80aVBLUkcxaURxdWczanM5amlLZDBwVUE4MWxj?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ebd8e48cd20b",
-    "title": "定置用蓄電池向け電池市場 2045年に15兆円規模に拡大へ、民間調査",
-    "category": "その他",
-    "accent": false,
-    "source": "環境ビジネスオンライン",
-    "time": "4:01",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpbGRZZTZvVVF5MFZ0eUtldnc2Zk10R0dJWEJHME5vcXl3eHE0MHVKWXk0QXdpX1BweWN1RXRVa0NTdWIwNW43MGhWZDJxbWVEVlMxWkZRNVdQc3dOZEpRNHd5REFsZk56MnAwcTdYakpwUjYyWmFKNzRFVVY?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-055c7094b675",
-    "title": "名瀬港の脱炭素化推進 官民連携で温室効果ガス削減へ 鹿児島県が推進計画公表（南海日日新聞）",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "3:16",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0xRLUc2VUpmUDVYNFZMUUp4TXpiNzlKU0IxWUdyUTFfQVpSQjZJMVFfNlZ2NE1wVHkzYUFEbHdhR1VwR1Y3eVRJTkRENUJfN202UDd1dkVzSVJwYWpLUmxka0c1cnR1X21GUG5LdEt3QU9uVTVQVFRTQXFPX1k?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e91dae18ecaf",
-    "title": "太陽光発電の普及で電気代が高くなる？ 再エネ普及が生む新たな格差（AMP［アンプ］）",
-    "category": "その他",
-    "accent": true,
-    "source": "Yahoo!ニュース",
-    "time": "3:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkxSX1dKVGRFbkZ6eEdwSGFqdDdhTnZ0S3lFcXdvTFUxdEFWR3hTWF9BRDE4dm9oQV92c2xEam5OSF9ZSlZwdnJ1STFsa1RZeENySFhteGxUSlYyTGtjYkpFSHptbGhpaEk1U2xCRUlVLWhLYkJRRmpyY3VJLWxfSjFVdjJ0bG1B?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5847467e6154",
-    "title": "エタノール市場は2035年に1,917億8,000万米ドル規模へ｜CAGR 5.26％、持続可能な燃料・再生可能エネルギー戦略が新たな成長機会を創出",
-    "category": "その他",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "3:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MMUZNMFpIQ3oyYjVSNWJuMFpxTVAybnFiM3ZSSG1RSUdDVjJ3LUlMYTRUQzkwZnJHM0JSSWdtNWxqbF9aakFrOEN4UzdKNUU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0fdb1c3968c3",
-    "title": "韓国の起亜、2029年にカーニバル水素車を初の量産へ…光明工場で生産",
-    "category": "技術",
-    "accent": false,
-    "source": "BigGo ファイナンス",
-    "time": "2:55",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhR1ZGSEpSR1FiSzU4RkdkUXNzUWpCazRGQ2ZDTWJQd2pYNnR2TlhiNlVnUWphNUJ2VTNzaEs3Q2F5NjVlaWpyb3lPdDN3QVlWcTFSMGlKcV9LSFh3SFZrWWtjNVFVSUNMYW9OSEFwZ2FSdkNH?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2c2112dd9bae",
-    "title": "鹿児島県 温室効果ガス県内23年度排出 13年度比で35・1％減 30年度目標へ中小企業脱炭素化やGX推進も（奄美新聞）",
-    "category": "その他",
-    "accent": true,
-    "source": "Yahoo!ニュース",
-    "time": "2:42",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWDF4X2tIdVU3Mmh0MVEtSTFfRzlRWXEtWllxZmV2dGY3TzBUWU56RXI5VDNha2VtS2NoanVfN3pwaU8zYlpHUVNVQlp5aThRdVVOVTJrYjVnRWhNaUM5aU8td0tRZDZlb0t0WnU5LVhpZTF1dl9VbkE5OXJIN2M?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5f9d6c312156",
-    "title": "東京都立大学、国際水素・燃料電池研究機構GIHFとパートナーシップ締結…脱炭素社会へ国際連携強化",
-    "category": "技術",
-    "accent": false,
-    "source": "レスポンス（Response.jp）",
-    "time": "2:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RSmJuaWhQTWszRlhwbnpqTzRnSmZjbG1WSkVfa0pZS2VXdmUyUGhqMGRMWVo4LUVSTnNsaFhwQ29QRGdBbEducGFVa1kyLTFfZW90cmxIaXQ2WVZMZmc4?oc=5",
     "image": null
   }
 ]
