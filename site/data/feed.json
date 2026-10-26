@@ -1,32 +1,142 @@
 [
   {
-    "id": "auto-3b6238df4054",
-    "title": "【ベトナムで約5万ha規模の低排出稲作へ】Green Carbon、Gia Lai省農業環境局とMOUを締結",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "0:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000316.000117956.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/117956/316/117956-316-d3df9058911cc80589c3417f8ec8b4cf-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-0b450cd22782",
     "title": "資源総合システム、「ビジネスガイド2026」発行のお知らせ",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
-    "time": "0:10",
+    "time": "6:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000117654.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/117654/24/117654-24-700ddc99296648d9f25d7c40cc12b86e-1060x729.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-577852c52ad2",
+    "title": "近畿３省庁が北ぶらくり丁に集結！合同セミナー開催！",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "5:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000120.000115515.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/115515/120/115515-120-d0da5e0eb9448ca7959f08f812022f69-1137x468.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-2a4be4aebec7",
+    "title": "Socotec、Jクレジット2026年度最終受付を強化 締切は森林12/14・その他12/21、森林・農業・削減に対応",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "5:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000020.000153421.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/153421/20/153421-20-54d382726ea2cf7e82d376d843f02754-158x148.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-882404f509d0",
+    "title": "営農型太陽光発電を目的とした農地の一時転用許可件数 - 九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も - 写真・画像(2/2)",
+    "category": "その他",
+    "accent": false,
+    "source": "西日本新聞me",
+    "time": "21:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGaDRld2VnMGltV0UtUFg4WC1uSUdma1BHVEZFZTZnRE1ZRXRVT1FubjVualpLMk9pWmVERTh5dGpJZkE0U0RkTUUxQ2NsSmZxa0pqcHF1WQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ce4bf800f795",
+    "title": "九州で広がる農地の太陽光発電 福岡・八女茶農家「収入の足しに」 売電に軸足、不適切事例も",
+    "category": "その他",
+    "accent": true,
+    "source": "西日本新聞me",
+    "time": "21:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mTHNINDRZNU90LTZaUlhwQ2VabDVMMnNrbkM3S2hBRE5YcEhrdE45SmdRYXpwdDZXSjhHbEI0RGlrd09UVzNLN1h2MWhfdU50c3dUNld3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-72dc0ad81fb4",
+    "title": "脱炭素・事業拡大につなぐ 東研サーモ×日進精機が共創",
+    "category": "その他",
+    "accent": false,
+    "source": "日刊工業新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kVy10WUFsOGpwUXJWSHdncGE2RzVmbWVPU3N1eTNrS1BCSHZEaWtxRy1PUjE4SWtna21HVmFKeTRkSElfb3ZrOTRfdVM1UXFka1dQTjJZWUo?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-89ff4c3fa609",
+    "title": "ペロブスカイト官民で量産へ 国がリコー・長州産業に補助金1000億円 - 日本経済新聞",
+    "category": "その他",
+    "accent": false,
+    "source": "はてなブックマーク",
+    "time": "19:11",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUA23AGY0T21C26A0000000/",
+    "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3774267023102026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=cc9e3d54320049e2f1a7ccd9ce3248ac"
+  },
+  {
+    "id": "auto-5b69b9a9fd92",
+    "title": "市と北ガス 脱炭素へ協定 バイオガス証書化目指す",
+    "category": "その他",
+    "accent": true,
+    "source": "北海道新聞デジタル",
+    "time": "19:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kVm5sYWFXN1ZXdzc1ZjBoVUJndEhVMmVmZEFON3lyZGhLREt0T1RoOVlFWFdmemQwR0dmNTBPak5uQzAyU00xYzZaMXNnWmxhay1vMlZMUUcxUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-67179b5bfbeb",
+    "title": "地域の持続 上士幌町表彰 総務大臣賞 脱炭素や自動運転バス",
+    "category": "自治体",
+    "accent": false,
+    "source": "北海道新聞デジタル",
+    "time": "19:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zQUdaeWZQbnMwNDJ5a3RVcXRDTEJvaVRNN01rNWQ1ZHhwa1ZOLU16NXV0aWt5bEVzMDRVZUhhRGctdHhtaGZCQmVObTI2X25YMF9FSlF1blZjdw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f6364528f73b",
+    "title": "体験通じ「脱炭素」考える ＪＣが環境イベント １４ブースに家族連れ",
+    "category": "その他",
+    "accent": false,
+    "source": "上越タイムス社",
+    "time": "18:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YQ3FITmNuVm5LeXc1Qzl0UkdoeTlqbEZSXzVSNzlhVzNzakEwQlJIRDAzVG8yN21ndV8wWGZzTnB3cV93aWZiVW13?oc=5",
+    "image": null
   },
   {
     "id": "auto-f83299b4f536",
     "title": "【11/2(月)14:00開催・参加無料】ISO14065認定のGX-ETS登録確認機関が明かす、GX-ETS検証現場で見えた対応課題解説セミナーを開催",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "18:10",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IXzl3dk9PSmlVeFlnTTB6R1A0VjFhS01HWEIxYlBfTEZ6Yk9FeU1vQjQ5a2xxcFZTbzYwMWNVdGoxQUE1aXY3dVlkTVJyMHRNdjd3UjVCUXhFZ2t3TWs5OWhZNDJJbXVSZU9maWNPX0NablAx?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cc28115494e0",
+    "title": "【法人導入事例】富士山七合目に太陽光で充電できる環境を。LooopがEcoFlowを選んだ理由",
+    "category": "その他",
+    "accent": false,
+    "source": "Dellows News",
+    "time": "17:25",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2RkFhR3NaVWNpZTlFR21SeVZ6RlB1VW1UelFHelU2WnN5NUxvVnlRdGJRQ1Fmci1jbTJWemo3bmlIMDlCbWc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1adabd974811",
+    "title": "ネクステージが全国18店舗に太陽光発電設備を導入 PPAモデルを活用",
+    "category": "その他",
+    "accent": false,
+    "source": "Dellows News",
+    "time": "17:18",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kTlczQUdXMEc1dlhGVGZudTdSLWZnUWlOQXdKd2czeUNyR1U2emlJMENUUEMyWlFyTjREMDU5Vm1xR1NBbWc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4317b418da76",
+    "title": "宮城県、事業者向け再エネ見学バスツアー 営農型太陽光の先進施設で協業探る",
+    "category": "その他",
+    "accent": true,
+    "source": "ツーリズムメディアサービス",
+    "time": "17:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VWpoTkx5SU5kVjhlUllGcndZdDRfVnA1RzFNQmVCaUc2ZG1POTBNVWg3bmhCLXRTM0ZfX2F6WUJ0ejNLOVA1bg?oc=5",
     "image": null
   },
   {
@@ -38,6 +148,16 @@
     "time": "16:15",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/26/news070.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/26/cover_news070.jpg"
+  },
+  {
+    "id": "auto-b1bd88ac226e",
+    "title": "独企業、北海道に風力拠点設置へ",
+    "category": "その他",
+    "accent": false,
+    "source": "大分合同新聞",
+    "time": "15:13",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHk4QkNfMHhaSllYci1GU0dub253UDBaTkYzOTNXdlNFSTdCYTA4cDdLa1RRMnhnOExZYk0xMUZockZvUDJIT2ZWZDZBcS13bjl6MDR1SHh3SkZDSUl4NXhOWTBYQXk1TW0yZmZGNVV1T05mWk13WnE2VUdDelBXWV9CaXXSAYQBQVVfeXFMTXR5OEJDXzB4WkpZWHItRlNHbm9ud1AwWk5GMzkzV3ZTRUk3QmEwOHA3S2tUUTJ4ZzhMWWJNMTFGaHJGb1AySE9mVmQ2QXEtd245ejA0dUh4d0pGQ0lJeDV4TlkwWEF5NU1tMmZmRjVVdU9OZlpNd1pxNlVHQ3pQV1lfQml1?oc=5",
+    "image": null
   },
   {
     "id": "auto-71e284329626",
@@ -56,7 +176,7 @@
     "accent": false,
     "source": "Infoseek",
     "time": "15:04",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hcEUxUjVPMEUzYzR4Nk9EdVRqcGZMc01URFFKazNhb3Vxems0S043RmZqcEJEODRxbUstX1RsaEI0R2J3TFhnOWZIRmtRSFFiUDVMekRPSzF6VUw3clFnT2RTbHh6c3BtTnAzaEZNY9IBdEFVX3lxTE5PS3hkSU03eDRhemZoNzd5ZkNaa2Zvd1NTeTliV2lrUGwxalkwaW9vSHhzSFd6c2lWX29GSWg5M3BjSWw0UWljWGRSV3VHT1RLcmxWc3lVN1ZQTjNRZm5ib3Z3Ri1rZGFXaTFIRFYwYnY0alFa?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PS3hkSU03eDRhemZoNzd5ZkNaa2Zvd1NTeTliV2lrUGwxalkwaW9vSHhzSFd6c2lWX29GSWg5M3BjSWw0UWljWGRSV3VHT1RLcmxWc3lVN1ZQTjNRZm5ib3Z3Ri1rZGFXaTFIRFYwYnY0alFa0gF0QVVfeXFMTk9LeGRJTTd4NGF6Zmg3N3lmQ1prZm93U1N5OWJXaWtQbDFqWTBpb29IeHNIV3pzaVZfb0ZJaDkzcGNJbDRRaWNYZFJXdUdPVEtybFZzeVU3VlBOM1FmbmJvdndGLWtkYVdpMUhEVjBidjRqUVo?oc=5",
     "image": null
   },
   {
@@ -70,23 +190,23 @@
     "image": null
   },
   {
-    "id": "auto-654d8c1f5ac2",
-    "title": "名鉄瀬戸線およびミュースカイにてカーボンフリー運行を開始します",
+    "id": "auto-4383b20a02bf",
+    "title": "ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ",
     "category": "その他",
     "accent": true,
-    "source": "ニコニコニュース",
-    "time": "13:15",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSDlLOEdURHU3RnNJSmlZSmttaGRPaERFSTJQT3JGdVFQcThHMU1iU19IMzljeDI5THlKTEVUR1BnZHVFNVpTVThkTnBxV29ScTAySF9VVjVOV01sZlc5cU50dnZkWUZzV3lQdGZTRkpibDl2bUE?oc=5",
+    "source": "Dellows News",
+    "time": "13:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uQXJWZU5RVGpZeGhuQ1V1SGZGaGs1YUJRNG5yWGZUMGJZOFNHY3FjLTd5RW5YSnZtSVNUZVdSdmQ5VFBTbU0waGoxT1U4d1dOaVdVaG8tcmVlZENxdU5rY1F2VHFfNnR4?oc=5",
     "image": null
   },
   {
-    "id": "auto-4317b418da76",
-    "title": "宮城県、事業者向け再エネ見学バスツアー 営農型太陽光の先進施設で協業探る",
+    "id": "auto-654d8c1f5ac2",
+    "title": "名鉄瀬戸線およびミュースカイにてカーボンフリー運行を開始します",
     "category": "その他",
     "accent": false,
-    "source": "ツーリズムメディアサービス",
-    "time": "13:07",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VWpoTkx5SU5kVjhlUllGcndZdDRfVnA1RzFNQmVCaUc2ZG1POTBNVWg3bmhCLXRTM0ZfX2F6WUJ0ejNLOVA1bg?oc=5",
+    "source": "ニコニコニュース",
+    "time": "13:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSDlLOEdURHU3RnNJSmlZSmttaGRPaERFSTJQT3JGdVFQcThHMU1iU19IMzljeDI5THlKTEVUR1BnZHVFNVpTVThkTnBxV29ScTAySF9VVjVOV01sZlc5cU50dnZkWUZzV3lQdGZTRkpibDl2bUE?oc=5",
     "image": null
   },
   {
@@ -178,125 +298,5 @@
     "time": "9:07",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LdGZKMkMzWm9TYkF6aExSWUlZUmN6b0hnVzlUb05FTjBhcmZGWXVQNlhIeGFSM0VYTVVLX0hlZFl0dXBPVDJqQjNvd29XQjBXQVEzM3puOGVCOUVfQ1c0?oc=5",
     "image": null
-  },
-  {
-    "id": "auto-77b0e1880188",
-    "title": "トイソン市は太陽光発電式の街灯を15基設置した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "9:04",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5RGZOOERQa3BJc2xMSjB6aklmY3oxZ3lBOHNONXBsSk9sLTJTVEJsalFrYW9JV2xZX3FGVUlxa3hnTmZTZ184VkF2N2wyX0xtUXQ1am9TRW5sUlhiU0ZwNmVtZkpXaFV5eE1xV2RRdTlwMkVZX205WA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ed28d3ef4f09",
-    "title": "系統用蓄電池はなぜ単独で作れないのか――M&A・資本提携が広がる理由を読み解くウェビナーを開催",
-    "category": "その他",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "9:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOEpPN1hDWlNXdW56UDB0NE1nQ0cyaWpzcElfXzg0U05taldaWnVFRThrOW43MEFJUGc1dmZBT05UVnNxZVY0R19sbHkwTEN6UWtzRTIycDdQQS1LNjc3Wmh4ZGptS043alE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-31656f8dbde5",
-    "title": "【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡)",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "8:59",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tWFBaaFpzNzZUV1J4a3V3YU5TOVZudXJzeTVMZnlBb0pGM2E2VklqZ1ZFNDJfOHp1d05zOFpJUlB1M1dOaUZFSVlqTXUyaHRURmNjdV8yWmJRTGNhUkVYUkpJUmE2aVNrd3dNWEhWRDIxYXVVZXpELU1DMjY4cms?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7603c0174a4d",
-    "title": "「水素」車だけは得意な韓国…後発の中国は1兆6000億ウォンをエコシステムに投資",
-    "category": "技術",
-    "accent": false,
-    "source": "매일경제",
-    "time": "8:33",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTnNBVzFkWW56SkxlZy0tYmxGbEdyTy11RjJ4QVlxTkl3YVFtTWI3Q3RmLXpoeHRsbzN4SE04Q3pHemhFczcyRjhoR0RNSWFEZDk4?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2bab00ee9a39",
-    "title": "グローバル水素産業の先取り競争が激しくなった中で、政府支援不足で国内生態系は成長停滞状態に陥った。 韓国は、現代（ヒョンデ）自動車など民間企業が主導し、約30年前からいち早く水素技術の先取りに乗り出し..",
-    "category": "技術",
-    "accent": true,
-    "source": "매일경제",
-    "time": "8:33",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoajRaZHFqOGo1cl9JVVpQeEhQbFV0RkJzWEJPUXRVX3FGVFRiX1FzRUxaNGllR2xUbktEbC1WTjM5REV6dHZ5SUhiSHN1NXU4VkE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-134bba15c3d7",
-    "title": "脱炭素化を推進 北広島市と北海道ガスが連携協定",
-    "category": "その他",
-    "accent": false,
-    "source": "ｄメニューニュース",
-    "time": "8:33",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmxybWhiNnJhbjRYV3RmX1B4MGdpNkYzendyTHlwaE40WEZUVU9MdjlYdWw3azdCVl9vYUZEekJ4UzdjTzdGcXoxMFMzYUJTejhLNHJReG5JX1FYdllJVHRsS1RMZ0dJYXhNWEVZSk9BQ29vLUtjRUJNZDM2Z0h3cS1B0gGCAUFVX3lxTE1ybHJtaGI2cmFuNFhXdGZfUHgwZ2k2RjN6d3JMeXBoTjRYRlRVT0x2OVh1bDdrN0JWX29hRkR6QnhTN2NPN0ZxejEwUzNhQlN6OEs0clF4bklfUVh2WUlUdGxLVExnR0lheE1YRVlKT0FDb28tS2NFQk1kMzZnSHdxLUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9edf158357fe",
-    "title": "「伏見工業高等学校跡地」および「元南部配水管理課用地」における大規模街区開発事業 京都初の「脱炭素先行地域」における4ha超の大規模な複合開発 街の名称が『KYOTO COCO CITY』に決定",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42V25kakUwZWRLd3ZQazFYOWVDcENNVHFKbUxMVXhSczJrdmhRODJHN2ZFUGcxOEVteTNBVUV5OEN5LVJQOW9BS0M0WmN1OW01Z0dGdFRBWnRzVGVYLTZHNE1R?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4200fac4c6d8",
-    "title": "上士幌町に総務大臣賞 自動運転や脱炭素など過疎対策評価",
-    "category": "その他",
-    "accent": true,
-    "source": "ｄメニューニュース",
-    "time": "8:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVlwcmpsSnZfNjZGNksxb3hVb3pTRVFqUnp5Y3NRdWtGUGFsWFNGZ2dOM3U2Z3YtWm5PdUx0NmxvazJTRmJoSTFZc2MySk1Zb2dUZzlxRjdmRWdjQU5UVVJIZlFONU01djVRNkFOT0h4SFdrNGNYeHFSald3QndsZzdn0gGCAUFVX3lxTE1ZWXByamxKdl82NkY2SzFveFVvelNFUWpSenljc1F1a0ZQYWxYU0ZnZ04zdTZndi1abk91THQ2bG9rMlNGYmhJMVlzYzJKTVlvZ1RnOXFGN2ZFZ2NBTlRVUkhmUU41TTV2NVE2QU5PSHhIV2s0Y1h4cVJqV3dCd2xnN2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c582a293e3a8",
-    "title": "【クマ出没】体長１ｍのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市",
-    "category": "その他",
-    "accent": false,
-    "source": "au Webポータル",
-    "time": "8:16",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XbDMwTWQ2eDBpRFRPTFY2R2dUVTNRWjhIZWl5azdfZFZNVGpyY3NNQnN6Q1NuU2lKbGxMSFJNcGhad1Y5U2VzVHlHTkZOUjFiZFZjckhyc1RrMFJOMzh2WG9uWmluZ18wQV9KWFRR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0d490eb96211",
-    "title": "【クマ出没】体長1mのクマ 太陽光発電所の敷地で職員が目撃 市が注意呼びかけ 甲府市（UTYテレビ山梨）",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "8:11",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVlptOGU1bkV4M3B6c1B4OGQ1enl6aGlxandnelZSYnNmU3hKNTd3dlVfZ2ZwczZidE9uYURfX1pEaC1FbjUxRG53cV9zbmF3UjBwREJHU0pvU0FHZWZhNlRNR0JOOTBJUHBzcXYzLUdxOXpCdzE1V1h1R2J6Q0E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-70d24a849f1f",
-    "title": "令和8年度第3回東京都グリーン水素トライアル取引（京浜島グリーン水素）を実施|10月",
-    "category": "技術",
-    "accent": true,
-    "source": "都庁総合ホームページ",
-    "time": "8:07",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SSHBDZVl6V2hLeDVHbUg1QTFHTW5lcWxJczhrSGYyX1l2T0FDaEFjS1c5OVF4c3VGNEFqZnVRTHpmQ19QX0VBLVRzMlBtTHV6aVZnYUNoODJyZzh5TTRBTnA1dy1oRGhWRFZ0ZmhORF83eUJv?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b684a4d86230",
-    "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
-    "category": "国際",
-    "accent": false,
-    "source": "はてなブックマーク",
-    "time": "8:06",
-    "source_url": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
-    "image": "https://i.gzn.jp/img/2026/10/26/underwater-volcano-energy/00.jpg"
   }
 ]
