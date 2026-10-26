@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-0b450cd22782",
-    "title": "資源総合システム、「ビジネスガイド2026」発行のお知らせ",
-    "summary": "[株式会社資源総合システム] 太陽光発電とその関連事業のコンサルティング業務を行う株式会社資源総合システム （本社：東京都中央区、代表取締役：一木修 以降「当社」または「資源総合システム」）は、2026年10月26日に 「太陽光発電ビ...",
+    "id": "auto-0fd928e90c2a",
+    "title": "蓄電システム「Mega Power 2500」を出荷開始",
+    "summary": "[パワーエックス] 株式会社パワーエックス（本社：岡山県玉野市、取締役 代表執行役社長CEO：伊藤 正裕、証券コード：485A）は、本日、10フィートコンテナ型蓄電システム「Mega Power 2500」の出荷を開始しました。今後、系統蓄電...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "10/26(月) 11:50",
+    "time": "10/26(月) 15:30",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000117654.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/117654/24/117654-24-700ddc99296648d9f25d7c40cc12b86e-1060x729.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000280.000109041.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/109041/280/109041-280-3d0223991743da0f236ddfea2dcdc97d-2048x1365.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-577852c52ad2",
-      "rank": 1,
-      "title": "近畿３省庁が北ぶらくり丁に集結！合同セミナー開催！",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/26(月) 11:33",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000120.000115515.html"
-    },
-    {
-      "id": "auto-fb610cffe842",
-      "rank": 2,
-      "title": "【HORIBA】CO2吸脱着評価装置「CCEVA」が、地球環境産業技術研究機構に採用",
-      "category": "自治体",
-      "source": "PR TIMES",
-      "time": "10/26(月) 11:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000062.000103757.html"
-    },
-    {
-      "id": "auto-ce4343eaac0c",
-      "rank": 3,
-      "title": "変わる制度に企業はどう動く？専門家と再エネ導入企業に聞く",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/26(月) 9:41",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000067.000045726.html"
-    },
-    {
       "id": "auto-b684a4d86230",
-      "rank": 4,
+      "rank": 1,
       "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
       "category": "国際",
       "source": "はてなブックマーク",
       "time": "10/26(月) 8:06",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://gigazine.net/news/20261026-underwater-volcano-energy/"
     },
     {
-      "id": "auto-849d4914084e",
+      "id": "auto-202dc9333f93",
+      "rank": 2,
+      "title": "東京ガス系とGSユアサ、タイで蓄電池システム展開へ協業",
+      "category": "その他",
+      "source": "newsclip.be",
+      "time": "10/26(月) 6:59",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQVdTM3UzOXpEWXFyOTJnRXVvQ2Ixb0pvOHpyeXVBR1ZUNXRQMjIwYkN3Y1JrN0szVm9kaWZPNUVfMXFuZV8wYkVIVnBsLVFGMEhLN0hOS3BLZG5N?oc=5"
+    },
+    {
+      "id": "auto-8a0513fcbb59",
+      "rank": 3,
+      "title": "「脱炭素社会実現に向けた省エネルギー技術の研究開発・社会実装促進プログラム」の交付決定",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "10/26(月) 6:40",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0waWpqc2Jldm9hX0ZOaXdKMDI2RXZHMmZjbkx0TjRjcXpjcHdfQXYyUjl1MWVwWG5ybndPRDlHNEM1YkZUOXI5eU9YaEM4OXBJcENQVEhSZFZPMVNmekkxRUkyRld4SWlDS3c?oc=5"
+    },
+    {
+      "id": "auto-dcedc5476289",
+      "rank": 4,
+      "title": "パワーエックス、10フィートで2507kWhの新型蓄電システムを出荷",
+      "category": "その他",
+      "source": "ニュースメディアVOIX",
+      "time": "10/26(月) 6:31",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eHRzTHItUUJIOHYyRmN0NjZmVlByMU4teEgwUlNzcGhXcmMwOFZoNHFfeDd6cko1ZHc0aVpvVHhfT3VhOHJpejR5NFBZYnBBU3lV?oc=5"
+    },
+    {
+      "id": "auto-27ff2d91f71d",
       "rank": 5,
-      "title": "Tensor Energy、日本ベネックスとアグリゲーションサービス契約を締結 九州の低圧太陽光発電所8区画でFIP運用を開始 - 写真・画像(1/1)",
-      "category": "その他",
-      "source": "西日本新聞me",
-      "time": "10/26(月) 3:33",
+      "title": "【宮崎県内企業初※初期費用0円】病院・自治体・大型施設の「電気代高騰対策」と「脱炭素化」を同時実現。空調特化型AIサブスクリプション「MP-1 SYSTEM」を提供開始",
+      "category": "自治体",
+      "source": "PR TIMES",
+      "time": "10/26(月) 6:18",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KV0dxOW84bWJOYloySlhEazFISGlhRElwUzVMWVY4NklwdWpncHBxdHlVLU9YZTZ6TW5CUFYza2xnRUtON3FhcUxxYTJpajlGNy1UMTZKUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S0g4U0hob3lyMU9LbW5ITDJ5YXlDeF9nQ2ZJcDF0c1pyMTB1eG5QUnhQSmZONGxyT2hWem5jak5jOG8xUS1iSzJlcGNLTDVuTnlES0FIZHV0aHk1SV8zZzdaMEZJa3ZiR1E?oc=5"
     },
     {
-      "id": "auto-b5b1f5d99ba4",
+      "id": "auto-654d8c1f5ac2",
       "rank": 6,
-      "title": "大鵬薬品、つくば研究所に350kW太陽光パネル設置 年500MWh発電",
+      "title": "名鉄瀬戸線およびミュースカイにてカーボンフリー運行を開始します",
       "category": "その他",
-      "source": "環境ビジネスオンライン",
-      "time": "10/26(月) 3:19",
+      "source": "オリコンニュース",
+      "time": "10/26(月) 6:16",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LZVQyVlFVRF9TMS1HLVdVZkV0Q3dNQUNfa0dCYTM5Q0lEZ1dsaXVONmRHcnBNbGVOMUlROEVzNHhVd2NOWmRiMlNLUUk1N0J0SDBOQ1poTGpuWW9naFdWdUo4LWtkaW9RekpwMHpNN21BbDAwUkV4d3ppWEg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHQm1aQ1lvQ3A4ZVJNeDdNYTFHVFE2NDFfLWVWNktOY1dLbzIyUEJXeUgxQmdWX2VCWXFEcUNPVmJ6cjh1YmVDTHNnYlN5cU9VdmlBeUU4Wkg?oc=5"
     },
     {
-      "id": "auto-055c7094b675",
+      "id": "auto-b4456ee71369",
       "rank": 7,
-      "title": "名瀬港の脱炭素化推進 官民連携で温室効果ガス削減へ 鹿児島県が推進計画公表（南海日日新聞）",
-      "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "10/26(月) 3:16",
-      "tag": "NEW",
+      "title": "中国製蓄電池セルはなぜ世界を席巻したのか――シェア逆転の裏にある品質課題を読み解くウェビナーを開催",
+      "category": "国際",
+      "source": "Infoseek",
+      "time": "10/26(月) 6:10",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0xRLUc2VUpmUDVYNFZMUUp4TXpiNzlKU0IxWUdyUTFfQVpSQjZJMVFfNlZ2NE1wVHkzYUFEbHdhR1VwR1Y3eVRJTkRENUJfN202UDd1dkVzSVJwYWpLUmxka0c1cnR1X21GUG5LdEt3QU9uVTVQVFRTQXFPX1k?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YLVViNFRmUTR1ajdoYkxHY3kxcms2czhybnNwU1AxeWVTRjZ5c3RLWU5IYWVsYUtoYk5CeUdqSFhibUhxbVI2bzluVm9kYUo0aFhWY1BYRmNvTlNLaW1BN01wLThKbURkWUFNS0tlaldDdw?oc=5"
     },
     {
-      "id": "auto-e91dae18ecaf",
+      "id": "auto-1b9024897598",
       "rank": 8,
-      "title": "太陽光発電の普及で電気代が高くなる？ 再エネ普及が生む新たな格差（AMP［アンプ］）",
-      "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "10/26(月) 3:03",
+      "title": "福島を再エネと水素の次世代エネルギー拠点へ 社会構想加速化プラン2026",
+      "category": "技術",
+      "source": "環境ビジネスオンライン",
+      "time": "10/26(月) 6:01",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81LVpaOXRxZU9VRHBsdzVfX0p0bDRiS3FBbEcwcnI4ZGJQNWdZaUxiZ1J4el82djExNnlTdmlQSE1rVzJSTDRtaTAwZU9UOVduRlNjX2RRakR5VFFpTmg0T01EVHUteWtwNnFmVXFtV0lnZmYwTVNkMk9kcDlfLXM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Zk43dnV1ZTVPOFpuS05xSWxmeDBncTJzNEJ0eTZpQjgzV1M4Yl9JZnJOX2FxX1Rxa09oM0hSUlFUc1M5VEN2ZF9xXzdzQU54bFlpVjlHWlMzUGdvUGliVjUzeTByQXQtR2U3Z29YcTBwNFJYYkhRZjRSSnRUV3c?oc=5"
     }
   ]
 }
