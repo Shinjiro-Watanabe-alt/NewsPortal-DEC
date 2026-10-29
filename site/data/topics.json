@@ -11,20 +11,42 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-31b73385fa29",
-    "title": "Zevero、名古屋グランパスのGHG排出量算定と削減目標策定を支援",
-    "summary": "[株式会社Zevero] [画像: https://prcdn.freetls.fastly.net/release_image/131543/55/131543-55-d9e7547ecf2426a56bf250c0ded6df09-1930x1090.png?width=53…",
+    "id": "auto-2ea4c86b81ff",
+    "title": "蓄電池併設低圧スーパー過積載太陽光発電所が系統連系",
+    "summary": "[株式会社サンヴィレッジ] 株式会社サンヴィレッジ（本部：東京都千代田区、代表取締役 三村 挑嗣、以下「当社」）は、このたび、蓄電池併設低圧スーパー過積載太陽光発電所が系統連系し、運転を開始したことをお知らせいたします。 本発電...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "10/30(金) 0:10",
+    "time": "10/30(金) 3:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000055.000131543.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/131543/55/131543-55-d9e7547ecf2426a56bf250c0ded6df09-1930x1090.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000081.000086244.html",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-589ba2c89b7c",
+      "id": "auto-2ae9ef63a80c",
       "rank": 1,
+      "title": "靜甲、人手不足・GXに挑む現場を支える「靜甲ブランド」を新たに策定",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/30(金) 3:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000017.000145820.html"
+    },
+    {
+      "id": "auto-ce12021f5b1b",
+      "rank": 2,
+      "title": "日本の燃料電池技術市場2026年版",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "10/29(木) 17:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zdDhDTFBvSHlWTEZ1WmoxMlc3dzB5NmloUl9fMmpTQzVYMFpuTXdhN2JyZmZ3am0wYkxlN0w0b1lWbUtRdlhvdFVR?oc=5"
+    },
+    {
+      "id": "auto-589ba2c89b7c",
+      "rank": 3,
       "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
       "category": "技術",
       "source": "ITmedia スマートジャパン",
@@ -35,29 +57,29 @@
     },
     {
       "id": "auto-caa897afd77f",
-      "rank": 2,
+      "rank": 4,
       "title": "分散型電源の太陽光発電所が完成、ルソン最大",
       "category": "国際",
       "source": "NNAアジア",
       "time": "10/29(木) 15:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GY3BkYkRLVXNwWFA4OFNvdFJuM2pHMTUteW94WlhJTFplalE5alZxeDZvRUFvOS12QndCTG1VZVZLQ1NiUEE?oc=5"
     },
     {
       "id": "auto-2e5bcf2e0e8a",
-      "rank": 3,
+      "rank": 5,
       "title": "川崎重工業、LPG燃料推進LPG/アンモニア運搬船“AURORA BOREALIS”引き渡し",
       "category": "技術",
       "source": "シンガポール新聞社",
       "time": "10/29(木) 13:43",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91LXpsTUlTNG91dGNKWnktdC15Y29ZdGRIVkF6ZGZJUFJWMXRLclVjYWFkamtZX3FIOV9sLWQ0NUEyNFM1dTlJYzhGVVlNalV1Wkt3YndB?oc=5"
     },
     {
       "id": "auto-ba831f94a4ed",
-      "rank": 4,
+      "rank": 6,
       "title": "Helio Energy (HIO)：太陽光発電プロジェクトの買収により9ヶ月間の利益が850%以上急増、ホーチミン証券取引所への上場準備中。",
       "category": "その他",
       "source": "Vietnam.vn",
@@ -67,19 +89,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaC1HakVVWW1keC1zMzVwTGk5NjJkX1BEamhlc1NPcEY4SE9HdXktN1dlX0k1cDdsRXBZSHVzc2VDRnZlSEs0U2pNb090c2pRVnBKRnZRZU9vakFjRFlaNzJkZ2pDVDhMbEFCak5pX1AxazJIeXViLW11ZEQtT3V3M1ozVEZoR2hlWERWVjlHNTNtZEpfYW5tVHJXRGV3amhRSkNTZzI1Z3dYSXN6NV95a1AyZENxMks2WjNLQ0tGbk1VaFZfcG5IYg?oc=5"
     },
     {
-      "id": "auto-91e87e27c520",
-      "rank": 5,
-      "title": "【創業95年の挑戦】時短調理と美味しさを両立。 圧倒的熱伝導のカーボン調理鍋「カーボンクック」Makuakeにて先行予約スタート。",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/29(木) 12:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000166011.html"
-    },
-    {
       "id": "auto-723babb828a2",
-      "rank": 6,
+      "rank": 7,
       "title": "排出量取引制度（GX-ETS）の概要（全5回）第3回：ベンチマーク方式の基本的な考え方",
       "category": "その他",
       "source": "kpmg.com",
@@ -90,7 +101,7 @@
     },
     {
       "id": "auto-d42e8cc5a463",
-      "rank": 7,
+      "rank": 8,
       "title": "洋上風力発電 風車製造最大手のベスタスが長崎などで人材育成",
       "category": "その他",
       "source": "Excite エキサイト",
@@ -98,17 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZUQySVhrR3BqbzExd2VnUjVvZGdaUWdzTEdzX3JvSV9wOHdfbW40T2VQRUpWZ0tNZ1RteHcydWI1Z0U5aHJ4Z2tYdGlkd2w2SWpCRmY5OGtId0ZXR2YyNDhFZXpadjVEbWRVZkNHQzFfYnMzUzBVdg?oc=5"
-    },
-    {
-      "id": "auto-52c473bab0af",
-      "rank": 8,
-      "title": "JR西日本、中国電力と蓄電池事業に参入へ 遊休地を活用",
-      "category": "国際",
-      "source": "日本経済新聞",
-      "time": "10/29(木) 10:45",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02YnZFZEpXbVNNdGd2TExuNkdsUC1oTnBINURvQjRnMTBYTWJoV0k4SGxhdjFhRmxqdG45VnU1YUR0M09lRHliTnYxbmRxM3ptbXBhRUFOaDVUUTlJb3hyY1JacUU5a2xKRE1MXw?oc=5"
     }
   ]
 }
