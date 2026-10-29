@@ -11,42 +11,53 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-75b595a45523",
-    "title": "日本トムソン株式会社 ベトナム工場での二国間クレジット制度を活用したオンサイト型太陽光レンタルサービスを導入！",
-    "summary": "[日本トムソン株式会社] 日本トムソン株式会社（代表取締役社長ＣＥＯ：細野 幹人）は、海外生産拠点であるベトナムのIKO THOMPSON VIETNAM CO.,LTD.（以下、ＩＴＶ）において、関西電力株式会社のベトナム現地法人であるKansai Energy ...",
-    "category": "国際",
-    "source": "PR TIMES",
-    "time": "10/29(木) 17:50",
+    "id": "auto-589ba2c89b7c",
+    "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
+    "summary": "サントリーとPXPがカルコパイライト太陽電池を自動販売機の電源として利用する実証実験を実施。年間で約45％の省エネルギーおよび温室効果ガス（GHG）排出量削減効果を確認できたという。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "10/29(木) 15:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000130525.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/130525/18/130525-18-c2dc8b3aeae6832e386125e95f30088b-606x321.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/29/cover_news070.jpg"
   },
   "headlines": [
     {
-      "id": "auto-2ae9ef63a80c",
+      "id": "auto-ba831f94a4ed",
       "rank": 1,
-      "title": "靜甲、人手不足・GXに挑む現場を支える「靜甲ブランド」を新たに策定",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "10/29(木) 15:41",
+      "title": "Helio Energy (HIO)：太陽光発電プロジェクトの買収により9ヶ月間の利益が850%以上急増、ホーチミン証券取引所への上場準備中。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "10/29(木) 12:28",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000017.000145820.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaC1HakVVWW1keC1zMzVwTGk5NjJkX1BEamhlc1NPcEY4SE9HdXktN1dlX0k1cDdsRXBZSHVzc2VDRnZlSEs0U2pNb090c2pRVnBKRnZRZU9vakFjRFlaNzJkZ2pDVDhMbEFCak5pX1AxazJIeXViLW11ZEQtT3V3M1ozVEZoR2hlWERWVjlHNTNtZEpfYW5tVHJXRGV3amhRSkNTZzI1Z3dYSXN6NV95a1AyZENxMks2WjNLQ0tGbk1VaFZfcG5IYg?oc=5"
     },
     {
-      "id": "auto-589ba2c89b7c",
+      "id": "auto-723babb828a2",
       "rank": 2,
-      "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
-      "category": "技術",
-      "source": "ITmedia スマートジャパン",
-      "time": "10/29(木) 15:00",
-      "tag": "",
+      "title": "排出量取引制度（GX-ETS）の概要（全5回）第3回：ベンチマーク方式の基本的な考え方",
+      "category": "その他",
+      "source": "kpmg.com",
+      "time": "10/29(木) 11:02",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WNE9melN4b0wySTB6OHdIS3ktcmVFUHotRWZpRnVKNTFwdG94T19vX0hQRE53ZlloZmRjaVJMcmRnS1ltbVZXeWF4czdfOWxsZjBEWXRKazdyb01idlh2Z2xR?oc=5"
+    },
+    {
+      "id": "auto-52c473bab0af",
+      "rank": 3,
+      "title": "JR西日本、中国電力と蓄電池事業に参入へ 遊休地を活用",
+      "category": "国際",
+      "source": "日本経済新聞",
+      "time": "10/29(木) 10:45",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02YnZFZEpXbVNNdGd2TExuNkdsUC1oTnBINURvQjRnMTBYTWJoV0k4SGxhdjFhRmxqdG45VnU1YUR0M09lRHliTnYxbmRxM3ptbXBhRUFOaDVUUTlJb3hyY1JacUU5a2xKRE1MXw?oc=5"
     },
     {
       "id": "auto-ab782de7daed",
-      "rank": 3,
+      "rank": 4,
       "title": "SNSでバズった〝四足歩行モビリティ〟は本当に実現する？ 川崎重工の開発者が「山で四つんばい」になって見えてきたもの",
       "category": "技術",
       "source": "はてなブックマーク",
@@ -56,59 +67,48 @@
       "source_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002677/"
     },
     {
-      "id": "auto-87bb6c0fdd2c",
-      "rank": 4,
-      "title": "屋上太陽光発電設備の設置に対し、1世帯あたり最大300万ベトナムドンまでの補助金を提供する提案。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "10/29(木) 9:09",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3NKRV9qVVo1bGw4ZUFnVDNhcGFjYUNzcVhsS3drZXdsX1oxWjNtRHF4aUk3SGZEaTFlSGNVUGxUekltTVdWTnhnQzdBRUwwa3NaaEk3VjV4c0hLNmQ3VTl5NmdtVGw0X2FLOUFRZ2pRYjllT01HNzNhN0YxU3NjVGlXYjczbEJwRjdHNlJ3RWFQVV84Q2Etaw?oc=5"
-    },
-    {
       "id": "auto-6f0143748a30",
       "rank": 5,
       "title": "系統用蓄電池はなぜLFP（リン酸鉄リチウム）が主流なのか――NMCとの違いを読み解くウェビナーを開催",
       "category": "その他",
-      "source": "PR TIMES",
-      "time": "10/29(木) 9:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1RExoVkt5bldZcnVOWUphMEJQX1lpak5OQ0JLd3Biak4xWHVaRFFySUxoZk8ySVVlcDhTRUVOVkMzdFl5UHJlM0hyZmppVFp2d0lyUFlQREJQWndZb1pNNDQ4c3pVZkR0dmc?oc=5"
-    },
-    {
-      "id": "auto-8a1b66fe92a0",
-      "rank": 6,
-      "title": "中国の風力発電と太陽光発電の発電容量が過去最高水準に達した。",
-      "category": "国際",
-      "source": "Vietnam.vn",
-      "time": "10/29(木) 8:04",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUJtWGVfYjJoLU5nMEZBaHBTRVhKRmJJOVRrUmxZN0ZsbW9lSzJJa1pwdVMtOVlGMGtZNnBKN2V4eXBPYS1YSjlHcTFnWGYzQ1QwUFpMNk10LUtlbWJNMFd5TGM5TWpZbFBWVWtaZjlhUHFRVmwwYWVRNXhIZklpaTU1WEJaX09tNHdtc2g3Rmo?oc=5"
-    },
-    {
-      "id": "auto-23cdc1e5df28",
-      "rank": 7,
-      "title": "エネグローバルとの共同出資SPCを設立し、高圧太陽光発電事業を本格始動",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "10/29(木) 7:30",
+      "source": "Infoseek",
+      "time": "10/29(木) 10:15",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15eXBiUzRYUldWQmZFV3RldTZOQUxqcjZQZE5qX09CODB1RUJiU3U3ZXRGd1FNUnN6dTAtaGw0Nkl3ZkRwbnBHTnkwMG9zRWZMVDN5UlIzVTBqVjNRTWhOS2k5SVY4Wnl3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT3dOd0YxREh6OS1FRDdQNjZlY1k4dFBjNDJTU0pBTkl0WnpNMVR1U1c1UkFXcUJ3dW5QQTE3MUR6YlEwRUtERG5SOVJ4clN4clZtYTRPR1pHVGtmRVBfcTMwb3pXSFh6VlI1bm9KckJ3UQ?oc=5"
     },
     {
-      "id": "auto-43cf5e589cc7",
-      "rank": 8,
-      "title": "日本の先進的なカーボン製品需要と主な用途",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "10/29(木) 7:03",
+      "id": "auto-e1463c8a6063",
+      "rank": 6,
+      "title": "洋上風力担う人材の育成強化へ 秋田県、べスタス・長崎NPO法人と覚書締結 県内に育成拠点の設置目指す",
+      "category": "その他",
+      "source": "Excite エキサイト",
+      "time": "10/29(木) 10:09",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MXzBIeEFoRHhYc0ZBb0piQnpVXzJScXpBMldFTDc5OV9jTFVrZWowZWYyRmNMNVVUeW9oaG1vQzR0WjdaYkhfQXRR?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tWkhwZEdRSTh6cC1IRG5GZWdwRnZIcE5SV09JMnFOY3J6RGJBT1pqNUpuNE9sOEtZQUxzd2w4VXBoc2otZy1aTDN4ZU1fVjdyS2tEa2xXTnNhT2EtTjFORVlXSWZOb0oyT1pGOWdR?oc=5"
+    },
+    {
+      "id": "auto-e5a1a04c6469",
+      "rank": 7,
+      "title": "屋上太陽光発電：電気とエネルギーを節約するための持続可能なソリューション。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "10/29(木) 9:34",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT19ZZzUySnQycUlQZzZqXzdOZ0wxWi1oWm0tWWE3ZktpRTdnVUZ4UHZpT0Z6TDZOeVNjcXNwVXNSYWJWUGFybEZNRHJyYlpSVGZ0LU1hZVhNYkxNSEdkVk1NQjhfV1ktUE0zYXl3ZUxOeDdMTWtBR1o5cW8xRlg5X0E3Yl8xcjNONVB0d1c3elAxZDhpdFZza2lwdw?oc=5"
+    },
+    {
+      "id": "auto-3b4fb2153796",
+      "rank": 8,
+      "title": "クアンチ省は、複数階建ての寄宿学校に屋上太陽光発電設備を導入する選択肢を検討している。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "10/29(木) 9:31",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXpCcGVUNmV4Q2xtSnNXR09nZHpGTVR1eFFISnlDdW50Ti0zcE9sdy1YaTFLZXhPRENrVzJTY3pxMTZmaUJyaEJIZWt2Q0J0UkR4aGp5Nm9ieDIwTE9FZTR6empfNWNyUC1qbWVOYUNMWS13Rnp5aGwzd2NDT1RFb3ZVMDZqZWl3WjU2NzU4VnRFM1NfNi1fb0Z5Wkw3aXE0ZDJRaWFjeGJfQkRZZlRTNE1ieDJvS2draXc?oc=5"
     }
   ]
 }
