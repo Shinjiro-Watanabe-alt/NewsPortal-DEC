@@ -1,13 +1,43 @@
 [
   {
+    "id": "auto-31b73385fa29",
+    "title": "Zevero、名古屋グランパスのGHG排出量算定と削減目標策定を支援",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000055.000131543.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/131543/55/131543-55-d9e7547ecf2426a56bf250c0ded6df09-1930x1090.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-589ba2c89b7c",
     "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ITmedia スマートジャパン",
     "time": "15:00",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/29/cover_news070.jpg"
+  },
+  {
+    "id": "auto-caa897afd77f",
+    "title": "分散型電源の太陽光発電所が完成、ルソン最大",
+    "category": "国際",
+    "accent": false,
+    "source": "NNAアジア",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GY3BkYkRLVXNwWFA4OFNvdFJuM2pHMTUteW94WlhJTFplalE5alZxeDZvRUFvOS12QndCTG1VZVZLQ1NiUEE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2e5bcf2e0e8a",
+    "title": "川崎重工業、LPG燃料推進LPG/アンモニア運搬船“AURORA BOREALIS”引き渡し",
+    "category": "技術",
+    "accent": false,
+    "source": "シンガポール新聞社",
+    "time": "13:43",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91LXpsTUlTNG91dGNKWnktdC15Y29ZdGRIVkF6ZGZJUFJWMXRLclVjYWFkamtZX3FIOV9sLWQ0NUEyNFM1dTlJYzhGVVlNalV1Wkt3YndB?oc=5",
+    "image": null
   },
   {
     "id": "auto-ba831f94a4ed",
@@ -20,6 +50,16 @@
     "image": null
   },
   {
+    "id": "auto-91e87e27c520",
+    "title": "【創業95年の挑戦】時短調理と美味しさを両立。 圧倒的熱伝導のカーボン調理鍋「カーボンクック」Makuakeにて先行予約スタート。",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "12:00",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000166011.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/166011/9/166011-9-feebd0167e6f5c60f453c6653a69fa1b-1200x800.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-723babb828a2",
     "title": "排出量取引制度（GX-ETS）の概要（全5回）第3回：ベンチマーク方式の基本的な考え方",
     "category": "その他",
@@ -27,6 +67,16 @@
     "source": "kpmg.com",
     "time": "11:02",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WNE9melN4b0wySTB6OHdIS3ktcmVFUHotRWZpRnVKNTFwdG94T19vX0hQRE53ZlloZmRjaVJMcmRnS1ltbVZXeWF4czdfOWxsZjBEWXRKazdyb01idlh2Z2xR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d42e8cc5a463",
+    "title": "洋上風力発電 風車製造最大手のベスタスが長崎などで人材育成",
+    "category": "その他",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "11:02",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZUQySVhrR3BqbzExd2VnUjVvZGdaUWdzTEdzX3JvSV9wOHdfbW40T2VQRUpWZ0tNZ1RteHcydWI1Z0U5aHJ4Z2tYdGlkd2w2SWpCRmY5OGtId0ZXR2YyNDhFZXpadjVEbWRVZkNHQzFfYnMzUzBVdg?oc=5",
     "image": null
   },
   {
@@ -43,27 +93,17 @@
     "id": "auto-ab782de7daed",
     "title": "SNSでバズった〝四足歩行モビリティ〟は本当に実現する？ 川崎重工の開発者が「山で四つんばい」になって見えてきたもの",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "はてなブックマーク",
     "time": "10:24",
     "source_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002677/",
     "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002677/10010726/2048"
   },
   {
-    "id": "auto-6f0143748a30",
-    "title": "系統用蓄電池はなぜLFP（リン酸鉄リチウム）が主流なのか――NMCとの違いを読み解くウェビナーを開催",
-    "category": "その他",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "10:15",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT3dOd0YxREh6OS1FRDdQNjZlY1k4dFBjNDJTU0pBTkl0WnpNMVR1U1c1UkFXcUJ3dW5QQTE3MUR6YlEwRUtERG5SOVJ4clN4clZtYTRPR1pHVGtmRVBfcTMwb3pXSFh6VlI1bm9KckJ3UQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-e1463c8a6063",
     "title": "洋上風力担う人材の育成強化へ 秋田県、べスタス・長崎NPO法人と覚書締結 県内に育成拠点の設置目指す",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "10:09",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tWkhwZEdRSTh6cC1IRG5GZWdwRnZIcE5SV09JMnFOY3J6RGJBT1pqNUpuNE9sOEtZQUxzd2w4VXBoc2otZy1aTDN4ZU1fVjdyS2tEa2xXTnNhT2EtTjFORVlXSWZOb0oyT1pGOWdR?oc=5",
@@ -73,7 +113,7 @@
     "id": "auto-e5a1a04c6469",
     "title": "屋上太陽光発電：電気とエネルギーを節約するための持続可能なソリューション。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "9:34",
     "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT19ZZzUySnQycUlQZzZqXzdOZ0wxWi1oWm0tWWE3ZktpRTdnVUZ4UHZpT0Z6TDZOeVNjcXNwVXNSYWJWUGFybEZNRHJyYlpSVGZ0LU1hZVhNYkxNSEdkVk1NQjhfV1ktUE0zYXl3ZUxOeDdMTWtBR1o5cW8xRlg5X0E3Yl8xcjNONVB0d1c3elAxZDhpdFZza2lwdw?oc=5",
@@ -93,7 +133,7 @@
     "id": "auto-67b3d1e53174",
     "title": "国産カーボンクレジット創出企業、需要家、支援者が集結 11/20 開催「VOLUNTARY CARBON CREDIT SUMMIT 2026」 企業の脱炭素経営を考えるカーボンクレジットイベント開催",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "9:30",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fTjVNdnBORzFJQkozVGRSSVlGQWU1LXRTSW50YVFjQXBUQUxNYWs5LTVIZXZQYkd1Q2VzUmxmU2ZxcE9aX1d1c1FPSXUtaTZVeDBIWFpkRXFrN1hxSmxkRDcyMHVveXN4Q0E?oc=5",
@@ -103,20 +143,10 @@
     "id": "auto-2acc68a6c559",
     "title": "JFEエンジニアリングが知事を表敬訪問 去年3月に完成した洋上風力発電設備の基礎部分を製造する工場が順調に稼働【岡山】",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Infoseek",
     "time": "9:30",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02dEZzbDZoRTFRbWVKTWF5ajZfVm8wR2l5THZHWWFJaUVOamFqbnNMZl96V0xxRXNDWmdVTEU3SXpFV3dDdE1tYUJTMVN2T3JCM2YwNUtMU0tmLU5DUEdsUi1n0gFiQVVfeXFMTTZ0RnNsNmhFMVFtZUpNYXlqNl9WbzBHaXlMdkdZYUlpRU5qYWpuc0xmX3pXTHFFc0NaZ1VMRTdJekVXd0N0TW1hQlMxU3ZPckIzZjA1S0xTS2YtTkNQR2xSLWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d42e8cc5a463",
-    "title": "洋上風力発電 風車製造最大手のベスタスが長崎などで人材育成",
-    "category": "その他",
-    "accent": false,
-    "source": "47NEWS",
-    "time": "9:22",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aVWVlVU1MajEwTTlISlo3OGFWckk1dVpOY0tnblpCVzFxelFDUHFSYnR1RVJKUF9lWXBKQ3dxNHNMdTNrUmpoYjVLZw?oc=5",
     "image": null
   },
   {
@@ -130,23 +160,23 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/130525/18/130525-18-c2dc8b3aeae6832e386125e95f30088b-606x321.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-543f7a52eacd",
-    "title": "ダイハツ、シリーズハイブリッドと「アンモニア・水素混焼エンジン」でCO2ゼロ実現へ まずは軽商用車で展開",
-    "category": "技術",
-    "accent": true,
-    "source": "日刊自動車新聞",
-    "time": "9:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ibUM4MVlZbGtKOGItNTdrV2ZTWFRxNHg4cDhjQVJack5zaW5uOGxnMlBWWWh0MVdrWWppM09vVHdPUmREMzJYWGlpTnR3OER3bnc?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-87bb6c0fdd2c",
     "title": "屋上太陽光発電設備の設置に対し、1世帯あたり最大300万ベトナムドンまでの補助金を提供する提案。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "9:09",
     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3NKRV9qVVo1bGw4ZUFnVDNhcGFjYUNzcVhsS3drZXdsX1oxWjNtRHF4aUk3SGZEaTFlSGNVUGxUekltTVdWTnhnQzdBRUwwa3NaaEk3VjV4c0hLNmQ3VTl5NmdtVGw0X2FLOUFRZ2pRYjllT01HNzNhN0YxU3NjVGlXYjczbEJwRjdHNlJ3RWFQVV84Q2Etaw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6f0143748a30",
+    "title": "系統用蓄電池はなぜLFP（リン酸鉄リチウム）が主流なのか――NMCとの違いを読み解くウェビナーを開催",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1RExoVkt5bldZcnVOWUphMEJQX1lpak5OQ0JLd3Biak4xWHVaRFFySUxoZk8ySVVlcDhTRUVOVkMzdFl5UHJlM0hyZmppVFp2d0lyUFlQREJQWndZb1pNNDQ4c3pVZkR0dmc?oc=5",
     "image": null
   },
   {
@@ -210,20 +240,10 @@
     "image": null
   },
   {
-    "id": "auto-43cf5e589cc7",
-    "title": "日本の先進的なカーボン製品需要と主な用途",
-    "category": "技術",
-    "accent": false,
-    "source": "pando.life",
-    "time": "7:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MXzBIeEFoRHhYc0ZBb0piQnpVXzJScXpBMldFTDc5OV9jTFVrZWowZWYyRmNMNVVUeW9oaG1vQzR0WjdaYkhfQXRR?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-7d1861b4d501",
     "title": "「営農型太陽光発電」実証、野村不動産が生かす物流施設開発のノウハウ",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニュースイッチ by 日刊工業新聞社",
     "time": "7:02",
     "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tbjk2eXp4V0VrOW9tblhSajkwcWpjQzJibDE4SFU4Wm9PMGplYm1SWVhoSUd2c3pfNFRkN3JQUk54QQ?oc=5",
@@ -233,9 +253,9 @@
     "id": "auto-f93085457ff1",
     "title": "隣接事業所の太陽光から受電 ＮＴＮ岡山が脱炭素で来春開始へ",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "山陽新聞",
-    "time": "7:01",
+    "time": "7:00",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5td25GMk5vSE5JZTY4Yl9tcWltTHJVQkxTZGViSFZ1YTFjUjZoSUpGaDVOZk5HZi1xQ1ZvdVQzVGo4NElBekZpYTlzTDhhMV9MSlE?oc=5",
     "image": null
   },
@@ -253,7 +273,7 @@
     "id": "auto-83036b2520dd",
     "title": "韓国Hyundai Motor Group、Saemangeumの9兆ウォンAIバレーが本格始動…太陽光SPC設立・許認可協議",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "BigGo ファイナンス",
     "time": "6:35",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKc2NEejNxU1d6X0lSVEYwa2drR3Rubk9DNTdQWW5UMW1jRkJ3NVp6QzFtVkhiNnJzTHVXMXF6cnF2NnRWRk10QUpacmlCcmIwNnNmOWl1M2FlTWswbDhyTUlPSkY5RnRQajVFbmI5eTQ1NHdP?oc=5",
@@ -263,40 +283,20 @@
     "id": "auto-1caf9e7db1c3",
     "title": "長崎で洋上風力の保守人材育成へ ベスタス、国内で技術を習得",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "日本経済新聞",
     "time": "6:19",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUUVTblQ4SllYaVU2ZHo2QnJsdkNtcEgySnVlejZHOUdKcjBJMkxCLWhURGphV0NtRzZCOWQzSE95eGlQOVhXVGo1bWIyd015c2htMEdWZ3U1elBnVUQ3STQ2Z2NiMDdsY2N0OA?oc=5",
     "image": null
   },
   {
-    "id": "auto-9c47c09dcf5e",
-    "title": "【ダイキン】COP31で建築物の脱炭素化を中心に9件のセッションに登壇",
-    "category": "国際",
-    "accent": false,
-    "source": "北海道新聞デジタル",
-    "time": "6:12",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVRQbFJ3Ymk1WnBfTUd5OFNmbGdvTV9tcUZoRzBvM2hiaFVCSTZxSTBDWDRNNkhDb1lSTG9pMDNUVkhUdC1TUHEtQ2RQQUZvVnNLUFVrSGFTWGNmVS1ZTnNob2xZa2daNTNJdzYwdU0tODVZeVpWZjhSdDBHWnlfcllSNmUzLWJC?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-0fc114639acc",
     "title": "写真：【ダイキン】COP31で建築物の脱炭素化を中心に9件のセッションに登壇",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "沖縄タイムス社",
     "time": "6:08",
     "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zbG5icW90SmFxNzAyajZ4VWtCMkFBZGhtaEdLOV9MMlpBZElUSXIzNFNmUGE4QjFuT2RJMjVEYnplNlk5a1YtemF0MjUzMzNBNVpJT3hsSEN0UkN3cnExaFZNc0xZZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5e6cd5eab85c",
-    "title": "グローバル水素市場が太陽光·風力基盤のグリーン水素商用化に急速に転換される中で、東南アジアが豊富な再生エネルギー資源を土台にモビリティ·インフラ結合型実証(PoC)拠点として注目されている。このような..",
-    "category": "技術",
-    "accent": false,
-    "source": "매일경제",
-    "time": "6:07",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfNDdxZGVsVmVGeXNuLVR3ZW10S29qMFZoNW1uZklzM0hKekE2dUtPXzlFSWEtVWQyZDJ5dHZ4dFhURzF4U0wwRlkyS1lwNlpvRXdB?oc=5",
     "image": null
   }
 ]
