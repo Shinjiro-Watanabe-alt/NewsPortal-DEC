@@ -11,20 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-31b73385fa29",
-    "title": "Zevero、名古屋グランパスのGHG排出量算定と削減目標策定を支援",
-    "summary": "[株式会社Zevero] [画像: https://prcdn.freetls.fastly.net/release_image/131543/55/131543-55-d9e7547ecf2426a56bf250c0ded6df09-1930x1090.png?width=53…",
-    "category": "企業",
+    "id": "auto-e90e1ca6fb11",
+    "title": "エナジーサプライ、アイチューザー株式会社の太陽光発電・蓄電池の共同購入事業で「2025年度 優秀施工事業者」に選出",
+    "summary": "[エナジーサプライ株式会社] エナジーサプライ株式会社(本社：大阪府大阪市、代表取締役：小澤佳史、以下「当社」)は、アイチューザー株式会社が自治体と連携して運営する太陽光発電・蓄電池の共同購入事業において、2025年度の優秀施工事業...",
+    "category": "自治体",
     "source": "PR TIMES",
-    "time": "10/30(金) 6:10",
+    "time": "10/30(金) 9:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000055.000131543.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/131543/55/131543-55-d9e7547ecf2426a56bf250c0ded6df09-1930x1090.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000192937.html",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-4e481210fcc2",
+      "id": "auto-2ae9ef63a80c",
       "rank": 1,
+      "title": "靜甲、人手不足・GXに挑む現場を支える「靜甲ブランド」を新たに策定",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "10/30(金) 9:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000017.000145820.html"
+    },
+    {
+      "id": "auto-44c67ccdab39",
+      "rank": 2,
+      "title": "脱炭素経営へ講演や事例発表 １１月１６日、岡山でフォーラム",
+      "category": "その他",
+      "source": "ｄメニューニュース",
+      "time": "10/29(木) 23:57",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YjhjMEZXWm9pNjR1VHl1N0VKa19UMGNNd1Nmcm5HUGh6dDNQUDFIZnN6NTVCT2xyY3M1V0xkdmZaOEtHTmpBbkdaek5tZ2N2MTZubmN3QmdRM0c4VlllWXhJbjFEU2I3TUVhZnhjNUd3cHlXRjgxU013VGJKZ9IBgwFBVV95cUxNZ2psLWNCbmNTU1pESDRRUlRaVDlsV2d5ODQ1XzR2V1ZJVmdxV0FGcmh3RWlISGpUNlVqdnVFc0c3UmEtamp1bHdBU2phR3NXQ1ZvNlJGdnN5V2lNY2dHSVAwOC16NTRBRFFmbnk1VVdDQzdaU1pWQUZGZkI0QmRac2Y2cw?oc=5"
+    },
+    {
+      "id": "auto-8864f6f66473",
+      "rank": 3,
+      "title": "阪急阪神不動産ら、京都初の脱炭素先行地域「KYOTO COCO CITY」開発 2028年春開業予定",
+      "category": "その他",
+      "source": "LIGARE（リガーレ）",
+      "time": "10/29(木) 23:34",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWQU5EcUtZdFRLRG9PaDItdVZleHB1Zno5LVAxVU5lLThRQ2Z3c3BPMzBvcEM5NDVSdlpIZTAwTVdTaENRSHhxdVFlaw?oc=5"
+    },
+    {
+      "id": "auto-9b770f879df3",
+      "rank": 4,
+      "title": "欧州委員会、新たな水素戦略の策定に向け意見募集開始 水素バリューチェーンの競争力強化へ",
+      "category": "技術",
+      "source": "ESG Journal",
+      "time": "10/29(木) 23:02",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KSzkxWTlaQnpkR18yX1drSk01N3RrWTFYY1lQMDNwTG5OWFhjalpzc2xhX01kUHJLWVF2MllzdjItLUwtbm9OdVotTU5TMjY4ZGJhaHN2WQ?oc=5"
+    },
+    {
+      "id": "auto-95ff5ab95d2c",
+      "rank": 5,
+      "title": "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を締結へ【11月6日（金）締結式】",
+      "category": "その他",
+      "source": "AGARA 紀伊民報",
+      "time": "10/29(木) 22:01",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82bGJsYjZQeTM4ZV9JZ0RCZ012U19HeHZFTDd6QkNPbXpWU2NlYkVaY3RGZzBvYlhXS2ZhVXpEcFVYX0I1RUM2ZHFITksxVmx1?oc=5"
+    },
+    {
+      "id": "auto-e1cd63e326c1",
+      "rank": 6,
+      "title": "エアコンなどの脱炭素化を加速、新冷媒向けヒートポンプ設計を支援する流体シミュレーションAIの実証開発へ",
+      "category": "その他",
+      "source": "ASCII.jp",
+      "time": "10/29(木) 22:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vWUdORTlrSFdoby0xMzBOelJ5c3lvZzVzTEFnVGkyTkJzTkVvaXZyREJoRHgyMHJCTmhjaWx3Vk1kMUNmZGtPbUtlM1hSa051MWl2SA?oc=5"
+    },
+    {
+      "id": "auto-de7f9e55416c",
+      "rank": 7,
+      "title": "ジャパンブランディング、系統用蓄電池の二極化を解説するウェビナー開催へ",
+      "category": "その他",
+      "source": "Dellows News",
+      "time": "10/29(木) 21:57",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UWWk1clo3aEZQNFV4azlOSmlTX19NR3VYcjFmaVprZ0kyb1ZiQ1JmeVh1OG5nTzNLY3dUMWMyQ1dEN3gtTDVuZU00X2pQMmZVQjV2Q1VLTXJndTV6Y2xOWW5RS20?oc=5"
+    },
+    {
+      "id": "auto-4e481210fcc2",
+      "rank": 8,
       "title": "東京ガスはなぜ福島沖で立ち止まったのか…撤退が相次ぐ洋上風力でも五島・響灘が動き出した理由",
       "category": "その他",
       "source": "au Webポータル",
@@ -32,83 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hdVhhVHpKOVptam5XUC03WXBoaDVadS13eUNHbVZmME1qZFRGdWxFMEtBRm5tdElLWnZCRVJScVRWMmVfUzJaZVFsVFllYV9uWk9zdFBLSzNqZWhwNEtUUDhhVXNwbnp4NXhsUGpn?oc=5"
-    },
-    {
-      "id": "auto-37e8bb35e582",
-      "rank": 2,
-      "title": "【電源の大地】第１部・水素 福島県内供給ステーション足踏み 夢の新エネ厳しい現実",
-      "category": "技術",
-      "source": "福島民報デジタル",
-      "time": "10/29(木) 21:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DcXI1NTFvOE5aTDVSdHVYMDZkdEJPVWl0X0R4UEcxWGJSVHZwdGk0M1NCRWpibWlTSDQwNzhsZnpxOTQ0V1FnSVFYNXlRTms?oc=5"
-    },
-    {
-      "id": "auto-435caf9e8aed",
-      "rank": 3,
-      "title": "欧州の水素導入目標と現実に隔たり、電化をさらに優先に",
-      "category": "技術",
-      "source": "日経クロステック",
-      "time": "10/29(木) 20:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ES2ppc3FobFVGZXBRXzRXT1JHeEFZOGFNckVpSXdRNU1ZTUJBa0VFaGtHT19vVkh2TEpWeVk2MXpRbkZFLXdiS0NLSmw3VkkyNGZibkd1UERsX29hdVRROGdaUXZmX0NGWEZVQw?oc=5"
-    },
-    {
-      "id": "auto-d4e69f9e4e37",
-      "rank": 4,
-      "title": "モノづくり現場 生産革新・脱炭素社会への挑戦（6）Meiji Seikaファルマ 抗菌薬原料製造で熱回収",
-      "category": "その他",
-      "source": "日刊工業新聞",
-      "time": "10/29(木) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVzRBWVVLR2pQanRSVTNyc3dMZnhJT3VXVG5GTHJxNjF2VVlTcld2cktLN0ExaWh3NnRTTGZlbE41MlJNZ0t4QnE4T3Q2TVJxNVZqZ2JielA?oc=5"
-    },
-    {
-      "id": "auto-0c70559e7be7",
-      "rank": 5,
-      "title": "脱炭素の取り組みを推進 Ｊ―クレジット 日本海ガスに購入証明書｜政治｜富山のニュース｜富山新聞",
-      "category": "その他",
-      "source": "北國新聞",
-      "time": "10/29(木) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ScXF6aXJmbzJmdmtkbDl6cVZUdU1IdkVSNGZSSmNDZEJJRDdCUUNyY25ya2UyN2RFYTBqVFhrMlcwN3JucnJreTUzN1R2VWhOTWpraEF3UQ?oc=5"
-    },
-    {
-      "id": "auto-f49391c3f45f",
-      "rank": 6,
-      "title": "ビル屋上で水素製造、吸蔵合金に蓄えて発電 大林組など",
-      "category": "技術",
-      "source": "日本経済新聞",
-      "time": "10/29(木) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15VzlLZDJybXBLMjVwTk0wYVBwYmszVi1zQUptUTBGVF9kWllDa2NwTVF6ajhrY1dxWEhuclBJYUtUT0FoNUZzT0RYUnpBc2dGbDNneDR6Q1dLN19xSV9BbUhUVkstejluMjZyb1lueXk4LTBDNGZV?oc=5"
-    },
-    {
-      "id": "auto-f8126ca0a212",
-      "rank": 7,
-      "title": "編集者の視点 ｢世界の水素濃度上昇『温暖化に影響』｣",
-      "category": "技術",
-      "source": "日本経済新聞",
-      "time": "10/29(木) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41Mk1tWUpYMm9GTTcwV180eGpDX3ZycVhkQW9iZmsyczBPMXUwaG9xSUo1dHZtX2d1Z2tJNVE1OE1oQ2wyWVJYWE9IdmJYRngyZmFUTWVnbWVFZnc3Y0pFYy10SlFraVdiN0otcUQ2UkJEWW05eWpB?oc=5"
-    },
-    {
-      "id": "auto-2db417563adc",
-      "rank": 8,
-      "title": "秋田：洋上風力人材育成へ覚書 秋田県、風車メーカーなど３者 「日本で育てる大事な一歩」 ：地域ニュース",
-      "category": "自治体",
-      "source": "読売新聞",
-      "time": "10/29(木) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxc1dXNlppNURTRU9qRTJyRmRVZER3Zm9OZFdMMk5pUWpLSUNxektjTGlXUHFXSmwzNW5ITTJaMlBoNDV4cEJJaUVER0lGT25nZllqV05HZTg2YkZzc2hxVnpubks0UjFkRFBSaDdreU4?oc=5"
     }
   ]
 }
