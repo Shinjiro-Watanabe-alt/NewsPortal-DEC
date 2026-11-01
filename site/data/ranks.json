@@ -12,10 +12,6 @@
     "trend": ""
   },
   {
-    "keyword": "推進計画",
-    "trend": ""
-  },
-  {
     "keyword": "水素大動脈構想",
     "trend": ""
   },
@@ -25,10 +21,14 @@
   },
   {
     "keyword": "バイオマス",
-    "trend": "NEW"
+    "trend": ""
   },
   {
     "keyword": "ペロブスカイト太陽電池",
+    "trend": ""
+  },
+  {
+    "keyword": "CCS",
     "trend": "NEW"
   }
 ]
