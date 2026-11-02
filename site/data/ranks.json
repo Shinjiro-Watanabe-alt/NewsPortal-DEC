@@ -16,10 +16,6 @@
     "trend": ""
   },
   {
-    "keyword": "調達宣言",
-    "trend": ""
-  },
-  {
     "keyword": "バイオマス",
     "trend": ""
   },
@@ -30,5 +26,9 @@
   {
     "keyword": "CCS",
     "trend": ""
+  },
+  {
+    "keyword": "DAC",
+    "trend": "NEW"
   }
 ]
