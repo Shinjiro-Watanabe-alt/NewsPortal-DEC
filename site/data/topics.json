@@ -11,42 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-c554fda386be",
-    "title": "東京都 航空・海上貨物の脱炭素でセミナー | ロジスティクス | ニュース",
-    "summary": "東京都 航空・海上貨物の脱炭素でセミナー | ロジスティクス | ニュース&nbsp;&nbsp;Daily Cargo電子版",
-    "category": "その他",
-    "source": "Daily Cargo電子版",
-    "time": "11/4(水) 15:05",
+    "id": "auto-8bd499d889fb",
+    "title": "「日本気候リーダーズ・パートナーシップ（JCLP）」加盟のお知らせ",
+    "summary": "[株式会社日本農業新聞] 株式会社日本農業新聞（東京都台東区、代表取締役社長：田宮和史郎）は2026年10月、持続可能な脱炭素社会の実現を目指す企業グループ「日本気候リーダーズ・パートナーシップ（JCLP）」に、賛助会員として加盟...",
+    "category": "企業",
+    "source": "PR TIMES",
+    "time": "11/5(木) 2:10",
     "comments": 0,
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWExWSlJiaWFQUHNacHExVGMxdjdJMVJFVi1ENXN2LTk0eE9GSVBKeUgxY09jUjJiYXdvMUQtQ2tUV1p0Mm1mRG9lMEFoMzYzUGNWVHFtdEVpQldtbGRxejVITFZ6Sms5Mmc?oc=5",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000206.000089547.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/89547/206/89547-206-6ccf40417f367c70b9b79599aaba2262-1460x427.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-633fd8e33112",
+      "id": "auto-76915022ad45",
       "rank": 1,
+      "title": "自家消費向けオールインワン蓄電システム「YRWシリーズ」の標準納期を大幅短縮",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/5(木) 1:40",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000031.000071131.html"
+    },
+    {
+      "id": "auto-d619658a7210",
+      "rank": 2,
+      "title": "【年間最大200万トンの米輸出実績を持つSTC Groupと連携】Green Carbon、低炭素米・カーボンクレジット事業でMOUを締結",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/5(木) 1:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000319.000117956.html"
+    },
+    {
+      "id": "auto-a2ff24675fd8",
+      "rank": 3,
+      "title": "― ペロブスカイト太陽電池・水素の最前線と、地元金融機関、メディアの視点から「GXを地域企業の成長戦略に」を考える。12月1日（火）まで参加者募集 ―",
+      "category": "技術",
+      "source": "ニコニコニュース",
+      "time": "11/4(水) 17:45",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83NDBlS1hCZ0lTTG5qV1p5anpkS1lUWVhCZzZoNl9UUENEdWZLLXdBZ1Z2Sy1DQUpHeTJub2k2Y19NQ0UzaVVQZGZ6MWhaaEVabW5mV3d1c00tdkRaVUxSSS1hclpzR1Fw?oc=5"
+    },
+    {
+      "id": "auto-c33a7d33c467",
+      "rank": 4,
+      "title": "脱炭素経営｢GX500｣､1位ソフトバンク2位豊通･コニカミノルタ 本社調査",
+      "category": "その他",
+      "source": "日本経済新聞",
+      "time": "11/4(水) 17:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xUENnYUdDYmVmOEpkQmNQUW8wckcwRHdVU3RDdWl0ck9DbHRXUl9nRXdILTJ1T182SThrUUlLdzZnRi1WT29UWHRIeUxDRm9KeV9GZUd1WnV2LWZ1TWNiQ2RHakJsSDVjV09YZQ?oc=5"
+    },
+    {
+      "id": "auto-c554fda386be",
+      "rank": 5,
+      "title": "東京都 航空・海上貨物の脱炭素でセミナー | ロジスティクス | ニュース",
+      "category": "その他",
+      "source": "Daily Cargo電子版",
+      "time": "11/4(水) 15:05",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWExWSlJiaWFQUHNacHExVGMxdjdJMVJFVi1ENXN2LTk0eE9GSVBKeUgxY09jUjJiYXdvMUQtQ2tUV1p0Mm1mRG9lMEFoMzYzUGNWVHFtdEVpQldtbGRxejVITFZ6Sms5Mmc?oc=5"
+    },
+    {
+      "id": "auto-633fd8e33112",
+      "rank": 6,
       "title": "洋上風力、「国産化」要件廃止で利点と懸念",
       "category": "国際",
       "source": "NNAアジア",
       "time": "11/4(水) 15:00",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQaTNDSm1IaVlNSzRXNTZ1cnFfQW1SUVo1MHRmd3BfdWF3WFVUUXBiQmFZMmUyQ09pcVI5YzhsQTh5QlFFc0E?oc=5"
     },
     {
       "id": "auto-0e95c90005d3",
-      "rank": 2,
+      "rank": 7,
       "title": "企業の脱炭素推進、茅野市で研修 東急不動産とアースハックス",
       "category": "その他",
       "source": "信濃毎日新聞デジタル",
       "time": "11/4(水) 13:41",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZ1c1blZLOW5HMEZneXN1ai1fbklBV01EYUFBeTFvRWZHTDM0Wm52QWh6RXVmYWNKanJkYTJtSjFjN3g0ZjJuT0dQWXZFbndpNWRHNmFjd2JhWjVuWXQ4aUFWbURkb2NHRGFKSXdjT0k?oc=5"
     },
     {
       "id": "auto-5c0454bdbadd",
-      "rank": 3,
+      "rank": 8,
       "title": "商船三井・シャープと共に、ケニアの避難民コミュニティに再生可能エネルギーを提供",
       "category": "その他",
       "source": "ニコニコニュース",
@@ -54,61 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BNkpXSWYwYVd1ZWRlLTgtcE5Md0VtcWIyVDhEdlBMc21vSXU0MUswM3F6Vzc3SW1DdXNjRnlqUXRBU2hLdzZMVXNyLUhiX2U4VXpxNmN3VDU2R1oySk51SDFJVW5JVTREX0RXMW8zQUdELWlvVzliT29ySQ?oc=5"
-    },
-    {
-      "id": "auto-1afca007d3a1",
-      "rank": 4,
-      "title": "ケーブルグランド市場2035年展望：再生可能エネルギーと自動化が成長を牽引 - ニュースと統計",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "11/4(水) 12:21",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVmVmRjlJVUZRMU5Od0hfY2VMdl9BOHh2QnpWcGt6d1ZlT2puNGdqc3ZYVEJmRVh5d3ZSQ29RVVZ6R000LXgtSXREbm5HZEpseWJuMmJPZTVaR09xR1FoM0tIU0ZjdkVBX3lQTDFGaWNtSTRkX0pWRzBDUzQwNjlqeE1WdkNURWxOT1J5LWJKRjJUc1pSU3I4b0FER2h5aFlRMzNGSVRscV9sTHpfSXV3U0laTUdIdkFHRFdaSWQ5eVZfZ1BWeTNWQTFFVDM0d1pNOVZXNUEyaGlfbUxaaXc?oc=5"
-    },
-    {
-      "id": "auto-e1ac505103ef",
-      "rank": 5,
-      "title": "クアンガイ省は屋上太陽光発電の普及を推進している。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "11/4(水) 11:47",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXhQenA1TEc2djV2S1RzYmtNb1lwS19TNFpCemRuMmZ0VnNOYS1pYnpRUnZjWWQ0Q2VjMnZCVDBSbUdWZEFUTGFKU1FjcWNNYS1vQ2pGbWJFQVkzazBaVHpkM1lVejdmUmpCWnotLUlSVi00US1VRVpGREtwNVlqR0Z6Tkc?oc=5"
-    },
-    {
-      "id": "auto-79a2030f1764",
-      "rank": 6,
-      "title": "高電圧遮断器市場2035年予測：再生可能エネルギー導入と系統増強が成長を後押し - ニュースと統計",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "11/4(水) 11:36",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa3A1VXVPRm90Z2d2MG03VDJJZUk3Nm10bjJiREl1VzBQTXZ4SUphOHJjTG9RSzRSc0VlRDl1WXZQWXJ0V0VySWZpMmZCWlhudldFai1QWnFNRXNBMndSeFR1TmJEOXBqNzRtd3BFX2NqbG14VzdJLVo5UTFZZUxVazJYU1h4TnlqTkQxLUJuOHdUdzM4YjdaRE1BZmJNSjUtbkZGZ0xKM3M2VnFYZkRvZlJYY0taOWRiSGRORXNIUk41Sjhjd09oOG1MZE1Sdjk1ZFJEcnYwN3Ywd3Za?oc=5"
-    },
-    {
-      "id": "auto-0638b761468f",
-      "rank": 7,
-      "title": "米民主党が中間選挙で勝利、世界の再生可能エネルギー株が急騰 執筆 - Investing.com",
-      "category": "国際",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "time": "11/4(水) 10:53",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zQ0kxYWxWazdLMU95cElOODFXamRaUExPa3dHZlNTbFBZNGtXWk5BeW5ic1Jzc0pxN3pyOXoyYjJPMEJKZk9WZlpxcGVJOXdpekEtRWxRdkpGMHZUeWdGTEtCUWswNkV6OWl0MF83RXg?oc=5"
-    },
-    {
-      "id": "auto-4cf6c012dc53",
-      "rank": 8,
-      "title": "CHOVET：セメント脱炭素化の中心に据えられるエンジニアリング - ニュースと統計",
-      "category": "その他",
-      "source": "IndexBox",
-      "time": "11/4(水) 10:50",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFQ5MnRmWUlXTkl1aWVxWGstZmk5LTFVU1NWa3J6dWZaNkJuZjJISl9HUWd6SnA2aUp5eXVzVTdDRTA4bDJKSV9OV2lYNWpPd1Q4UUZhajJhTzRVQk52a3Zkckw3cWxjam5ZZ2lTc2VSQWZ2R2lnd2VyQzIxb3hJWFNucjlzSFNqYXVYQ1dGTkVxdG9kM3EtSDEzSkhUY19USVo0?oc=5"
     }
   ]
 }
