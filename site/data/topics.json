@@ -11,31 +11,42 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-1220820b8419",
-    "title": "福西電機、「ZEB Ready」取得の大阪本社ビル見学会を定期開催。実践事例を通じてお客様の脱炭素経営を支援",
-    "summary": "[福西電機株式会社] 福西電機株式会社（本社：大阪府大阪市、代表取締役社長：岩本秀宣、以下、福西電機）は、ZEB Ready（※1）を取得した大阪本社ビルを活用し、お客様向け見学会を定期的に開催しています。自社で培ったZEB化の知見...",
+    "id": "auto-1b89540bd7cd",
+    "title": "系統用蓄電池の取扱量が250MWを突破",
+    "summary": "[デジタルグリッド] デジタルグリッド株式会社（本社：東京都港区、代表取締役社長CEO：豊田祐介、以下「当社」）は、系統用蓄電池の取扱量が2026年11月4日時点で250MWを突破したことをお知らせいたします。当社が取り扱う系統用蓄...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/5(木) 10:00",
+    "time": "11/5(木) 13:41",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000160609.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/160609/35/160609-35-d6acc836939d994d1989fdb229a9d471-1920x1280.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000068.000045726.html",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-efbb2033652e",
+      "id": "auto-3287274a925b",
       "rank": 1,
-      "title": "TOWING、兼松と連携しJ-クレジット方法論「牛への飼料添加物を使用した飼料の給餌」に基づくプログラム型プロジェクトを日本で初めて登録完了",
+      "title": "バディネット、長野県佐久市にて系統用蓄電池（2MW/8MWh）建設プロジェクトが完工",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "11/5(木) 10:00",
+      "time": "11/5(木) 13:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000075.000081010.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000168478.html"
+    },
+    {
+      "id": "auto-f0d1d845e059",
+      "rank": 2,
+      "title": "バディネット、静岡県富士宮市にて系統用蓄電池（2MW/8MWh）建設プロジェクトが完工",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/5(木) 13:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000168478.html"
     },
     {
       "id": "auto-a56ebe0c95a9",
-      "rank": 2,
+      "rank": 3,
       "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取り 東京ガスが新サービス",
       "category": "暮らし",
       "source": "ITmedia スマートジャパン",
@@ -45,70 +56,59 @@
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/05/news033.html"
     },
     {
-      "id": "auto-6c936b15c6e8",
-      "rank": 3,
-      "title": "日本製鉄、水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功。（2026.11）",
-      "category": "技術",
-      "source": "株式会社グリーンプロダクション",
-      "time": "11/5(木) 3:08",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52cUJsa3dQdDFIZElnZHdoeUx3MzRQRGI2VHhvNzdYbWZPdnp1Q2NpVDBDMEZleFYyNjhCNXRoLW9sQ19ocDc5SllCNGVkZ1JpV0xCc1V6Zw?oc=5"
-    },
-    {
-      "id": "auto-51380fa0e245",
+      "id": "auto-0d4aaa7477c2",
       "rank": 4,
-      "title": "EVシェア倍増！CEV補助金で加速する日本の脱炭素化｜北村和也さんの再エネの達人",
-      "category": "その他",
-      "source": "ソーラージャーナル",
-      "time": "11/5(木) 3:00",
-      "tag": "NEW",
+      "title": "NEXTES の蓄電池が“地域の防災インフラ” に",
+      "category": "自治体",
+      "source": "ニコニコニュース",
+      "time": "11/5(木) 6:15",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5UEIyTnNwYlFMRnE2QVF0OXYtNWowR3o5Zk42eDJfODFJMGRZTzlPcDVQLThBSDhReGZfZE1GQUd0OXJtblJUQjVXTQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kNldfTU5MVFpsazB1NVVwZ3N0cHVSNHhWZ1NzVkNjSjVvUXFENGw5WTlySjgySy1LeWY0ZUtoS29kTVVva0NYeTZaWDhsT3FuR0ZjcjY4SkpBN0JKY0dVYmE0YkNNLTFfYkxzbFN5eENFal95Wi1EWFQ0Zw?oc=5"
     },
     {
-      "id": "auto-97290e8997e0",
+      "id": "auto-d9f126934afd",
       "rank": 5,
-      "title": "e-dash、11月19日開催「GX-ETS実務セミナー2026」に登壇",
+      "title": "【日本蓄電池株式会社】鹿児島県枕崎市にて系統用蓄電施設「NC枕崎市桜山東町蓄電所」受電開始",
       "category": "その他",
       "source": "PR TIMES",
-      "time": "11/5(木) 3:00",
+      "time": "11/5(木) 6:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FVE1tYUswQS02LU1vWXY4S3lLbUhRWUd1SzhHYjZhd3pPQUJIVUFiYTVtWDl4VVp2cF90QUdJN1UtS0NFNTFuZDlpWGViUHQxX1hNaXRRS1RuOXhmRUhTTGFVdkRiWTJqZ0E?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZjlDNW1idUkyZ3dvRlZuTmZVM3M3VmZUb3BkM3JGRUNqbkp6dTZEY3oySENOd1oyVVFqbVFSM0FWUWtxemJoX0hkOTV6Y3Nuc3o4OGVueTFXSmdKS1RKeEw2QWJMb3R0cUE?oc=5"
     },
     {
-      "id": "auto-5095ddeb7e04",
+      "id": "auto-85511d8bff6c",
       "rank": 6,
-      "title": "バイウィルのカーボンニュートラル総研、東証6業種115社を追加分析した最新調査レポートを公開",
+      "title": "【最新予測】風力発電フランジ市場規模、2026年に1013百万米ドルへ｜年平均成長率3.2%で推移予測｜QYResearch",
       "category": "その他",
-      "source": "Excite エキサイト",
-      "time": "11/5(木) 2:45",
+      "source": "note",
+      "time": "11/5(木) 5:44",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MYUVNa3ZZMzMxZGdqaUxaVFptUmsybzdWWHp5WVdQVnUzYmpBQ0hONDBPSU9oS1JXc190Q1pjdmpJZEFaMWVfRXljd2hWcVJPUHA0ZTRvOXBTTzRmUkpSNFZLNENrUlNEbDZVVEtaNWI2NmZY?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1scXVWSlhIT2R4cmE5TDR1MnZ4VU9oYTNZN3B3cW5wWnIxX3dVMzg0S2diVDZRZVUzeWYyRDlaTXBhT0JJeTRXam1SR0p5LWdNbDRLSmp4RQ?oc=5"
     },
     {
-      "id": "auto-0a5bcaaf43fe",
+      "id": "auto-d51ac0493888",
       "rank": 7,
-      "title": "日本で生まれた新技術「営農型太陽光発電」が岐路に 「農家を助ける技術なのに…」農林水産省が規制強化へ",
+      "title": "国際輸送の脱炭素を経営課題に、都が講座",
       "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "11/5(木) 2:40",
+      "source": "LOGISTICS TODAY",
+      "time": "11/5(木) 5:33",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQTNUZGVJVXJiOXYzeGxtTWxXc3FVTjlnSlpoeHg2eWt1VGNYc2x4ZUtpblRaMzBYT1dURGtzc1hlTUlNcVFEYlVnWW82cXZWaHNQVmRVWmFIWkFhWWhRNWpMVE8zbXZqMmdqMjIzbV9ZMlhvV0x2alUxWE5mWTQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Fbm5vbEZsNGlCbnM0dHphRWVoUmFWaUFCa0hHNlhObm1tSERxakppZ2dLWVZrRGd5dzFDRGNyb2UwNzdlRmNFX2Z3?oc=5"
     },
     {
-      "id": "auto-bcc83f4e232d",
+      "id": "auto-6054a8f4dd5f",
       "rank": 8,
-      "title": "再生可能エネルギー株、世界で上昇－米民主勝利で政策支援に期待",
-      "category": "国際",
-      "source": "Bloomberg.com",
-      "time": "11/5(木) 2:38",
-      "tag": "NEW",
+      "title": "【東京大学×やしろあずき】あの「エネループ（eneloop）」の生みの親が、まさかのファン！？東京大学・河野教授が研究する「持ち運べる水素エネルギー」をやしろあずきが漫画化！ (2026年11月5日掲載)",
+      "category": "技術",
+      "source": "ライブドアニュース",
+      "time": "11/5(木) 5:31",
+      "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXBqTTlfcmIyNDB6MnVTNWRVbXA4V1ZQNkVsUUJrYXk1RmlSblBPVVJkRmttb0RuMEFWUG9kR21YelJXVGVTN2lteWUzNGxzRFlJQ0NDVWdmZXBQbGRyQ2kwQ1AxQ0J5SDRDVzFTOGxYb3ZCTDBQQjhnVmk1VDE0eGc0MS04Vm5xbDRaM1Z3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10Qm9HN182UVBXbXZBamNhWlloQ1d1X3NoVjdHSkMxaG5aNUFfNmRyel9MRkJpUkMyOG5fZVlTVElhbmxBVzRRYzI2UW43czJvb2pmTll0ZFlnUzl0THowc1hn?oc=5"
     }
   ]
 }
