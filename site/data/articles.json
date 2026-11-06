@@ -1,41 +1,98 @@
 {
-  "auto-8d44087dd74d": {
-    "id": "auto-8d44087dd74d",
-    "category": "企業",
-    "title": "オフィスの事業継続（BCP）対策を強化 No.1グループ、BCP対応型蓄電池「EnerCraft EC-700」を「オフィス防災EXPO」に出展",
+  "auto-bddf10d5e5db": {
+    "id": "auto-bddf10d5e5db",
+    "category": "国際",
+    "title": "【国際情報工科自動車大学校】放射線工学科の学生が（一社）日本原子力産業協会による特別授業を受講～SDGsやカーボンニュートラルの観点から、世界のエネルギー状況と環境負荷を学ぶ",
     "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000107.000055597.html",
-    "time": "11/6(金) 17:45",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000002287.000032951.html",
+    "time": "11/7(土) 0:10",
     "comments": 0,
     "tags": [
-      "蓄電池"
+      "カーボン"
     ],
-    "summary": "[株式会社No.1] オフィスDXおよび防災ソリューションを支援する株式会社No.1（本社：東京都千代田区、代表取締役：辰巳崇之、東証スタンダード：3562、以下：当社）および子会社である株式会社Club One Systems（本社：東京都千...",
+    "summary": "[ＮＳＧグループ] ＮＳＧグループに属する学校法人国際総合学園 WiZ国際情報工科自動車大学校（福島県郡山市）は、2026年10月2日（金）、放射線工学科の学生15名を対象に、一般社団法人 日本原子力産業協会より講師をお招きした特...",
     "body": [
-      "[株式会社No.1] オフィスDXおよび防災ソリューションを支援する株式会社No.1（本社：東京都千代田区、代表取締役：辰巳崇之、東証スタンダード：3562、以下：当社）および子会社である株式会社Club One Systems（本社：東京都千..."
+      "[ＮＳＧグループ] ＮＳＧグループに属する学校法人国際総合学園 WiZ国際情報工科自動車大学校（福島県郡山市）は、2026年10月2日（金）、放射線工学科の学生15名を対象に、一般社団法人 日本原子力産業協会より講師をお招きした特..."
     ],
     "related": [],
     "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/55597/107/55597-107-27e8bbef6ae82dfcb1205606a64a1a3b-1019x696.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "image": "https://prcdn.freetls.fastly.net/release_image/32951/2287/32951-2287-e27f58e4c7d9ebbc4edd97ad37ae0ec5-1500x1000.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
-  "auto-8deb28fd2756": {
-    "id": "auto-8deb28fd2756",
-    "category": "企業",
-    "title": "エー・ディー・ワークスの系統用蓄電所事業 稼働開始３か所目として「ADW宮崎日南市蓄電所」が竣工・稼働開始",
+  "auto-c5bbf1091752": {
+    "id": "auto-c5bbf1091752",
+    "category": "技術",
+    "title": "生命進化における水素の役割と健康維持のための低濃度水素による補給｜MiZ・慶應義塾大学・カリフォルニア大学バークレー校",
     "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000093.000160356.html",
-    "time": "11/6(金) 17:15",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000107.000047753.html",
+    "time": "11/7(土) 0:10",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "[MiZ株式会社] MiZ株式会社（神奈川県鎌倉市）は、いままで、慶應義塾大学およびカリフォルニア大学バークレー校等との共同研究から、生命進化における水素の役割と現代人の腸内水素産生菌・健康との関わりを論じた 3報の総説・...",
+    "body": [
+      "[MiZ株式会社] MiZ株式会社（神奈川県鎌倉市）は、いままで、慶應義塾大学およびカリフォルニア大学バークレー校等との共同研究から、生命進化における水素の役割と現代人の腸内水素産生菌・健康との関わりを論じた 3報の総説・..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/47753/107/47753-107-a2cf89a0930a4852eb166494996f21be-1671x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-0ed1e45d8b0b": {
+    "id": "auto-0ed1e45d8b0b",
+    "category": "技術",
+    "title": "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TdUJXOUJMdVdOWWhYRTBObEJ2TnNaU0tuYkJPazBwc0NpODJDWGFJM0tkdS01ek9HcTNwUVd1TUdjRjJSSW1lb2VuV2V5WEJmZ1hFRUdFTjZqR0xpN0dqeXJGdUtZOExia1pxUC0xei1TSzNrRmh4YQ?oc=5",
+    "time": "11/6(金) 14:21",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-b0c5c3f39f06": {
+    "id": "auto-b0c5c3f39f06",
+    "category": "その他",
+    "title": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様 京都工場）",
+    "source": "Infoseek",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd0RPUWtacjQwcGNwM3pmMjJXdlh6YWpmRUI3WXZaeHpsNEJubDFReHp0VEt2QVVXMTVXRmxVT3Jlalg3VHVrVWJ6ald5ckNOcHpFSTVObzAwS2QzdkxPRWc2aDh1eXZLckhiSGVuaGxpdw?oc=5",
+    "time": "11/6(金) 13:10",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様 京都工場）&nbsp;&nbsp;Infoseek",
+    "body": [
+      "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様 京都工場）&nbsp;&nbsp;Infoseek"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  "auto-ef4a04b3458b": {
+    "id": "auto-ef4a04b3458b",
+    "category": "その他",
+    "title": "HOBE ENERGY、低圧系統用蓄電所向け蓄電システム「HOBE HP2-208」を発表",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92clJPbUpMeHQxbkFpcV94QlR4emIzRG1iXzZoTWF5eDFpd0owa1l0aHNjS3JUdFdsblkzVzdoWDl0cUdQQVRqVDJydkZOeHlNcVI0WXdsN2tya0tSR2NLemwwWDVOVDA2?oc=5",
+    "time": "11/6(金) 12:45",
     "comments": 0,
     "tags": [
       "蓄電"
     ],
-    "summary": "[ADワークスグループ] [画像1: https://prcdn.freetls.fastly.net/release_image/160356/93/160356-93-c236ca610275c2f3257f8c9098ebf9a4-3900x2600.jpg?width=5…",
+    "summary": "HOBE ENERGY、低圧系統用蓄電所向け蓄電システム「HOBE HP2-208」を発表&nbsp;&nbsp;ニコニコニュース",
     "body": [
-      "[ADワークスグループ] [画像1: https://prcdn.freetls.fastly.net/release_image/160356/93/160356-93-c236ca610275c2f3257f8c9098ebf9a4-3900x2600.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&..."
+      "HOBE ENERGY、低圧系統用蓄電所向け蓄電システム「HOBE HP2-208」を発表&nbsp;&nbsp;ニコニコニュース"
     ],
     "related": [],
     "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/160356/93/160356-93-c236ca610275c2f3257f8c9098ebf9a4-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "image": null
   },
   "auto-8dd187f624d1": {
     "id": "auto-8dd187f624d1",
@@ -75,6 +132,25 @@
     "related": [],
     "collected": true,
     "image": null
+  },
+  "auto-5c190eb29840": {
+    "id": "auto-5c190eb29840",
+    "category": "企業",
+    "title": "衛星・航空機センサーによる施設レベルの温室効果ガス排出量モニタリングサービスを提供するGHGSat Inc.へ出資",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000631.000047342.html",
+    "time": "11/6(金) 12:00",
+    "comments": 0,
+    "tags": [
+      "温室効果ガス"
+    ],
+    "summary": "[グローバル・ブレイン株式会社] グローバル・ブレイン株式会社（以下、グローバル・ブレイン）が運営する、MEイノベーション投資事業有限責任組合（以下、MEイノベーションファンド）は、衛星コンステレーションと航空機センサーを活用した施設...",
+    "body": [
+      "[グローバル・ブレイン株式会社] グローバル・ブレイン株式会社（以下、グローバル・ブレイン）が運営する、MEイノベーション投資事業有限責任組合（以下、MEイノベーションファンド）は、衛星コンステレーションと航空機センサーを活用した施設..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/47342/631/47342-631-365d3102844df745dedb1842e4c660d9-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "auto-f5df4ca8cf5a": {
     "id": "auto-f5df4ca8cf5a",
@@ -128,6 +204,25 @@
     "summary": "【論考】脱炭素は諦めない/金山 隆一ダイヤモンド・オンライン記者&nbsp;&nbsp;ガスエネルギー新聞",
     "body": [
       "【論考】脱炭素は諦めない/金山 隆一ダイヤモンド・オンライン記者&nbsp;&nbsp;ガスエネルギー新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ec7d8f4199fa": {
+    "id": "auto-ec7d8f4199fa",
+    "category": "その他",
+    "title": "長崎市で初開催「日韓航空政策対話」空の安全や脱炭素の取り組みなど両国関係者が意見交換《長崎》",
+    "source": "日テレNEWS NNN",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mZnVGWkNmSHlnY2xyRUF0bm02d0JWOUxLY1lSandpNjhKcDVGaHVLNUE5Wkt1Q3dCWmtTYXpWS2ZXZC1WS1JyUEN3dTJycDNKTnR4M1lQcEtKQkhya0paQWFyc1JwQWRsLThfZjA1czZtd0FJTFhTTTdKQVlzbms?oc=5",
+    "time": "11/6(金) 10:30",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "長崎市で初開催「日韓航空政策対話」空の安全や脱炭素の取り組みなど両国関係者が意見交換《長崎》&nbsp;&nbsp;日テレNEWS NNN",
+    "body": [
+      "長崎市で初開催「日韓航空政策対話」空の安全や脱炭素の取り組みなど両国関係者が意見交換《長崎》&nbsp;&nbsp;日テレNEWS NNN"
     ],
     "related": [],
     "collected": true,
@@ -210,6 +305,26 @@
     "collected": true,
     "image": null
   },
+  "auto-b374347ee528": {
+    "id": "auto-b374347ee528",
+    "category": "その他",
+    "title": "【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入",
+    "source": "時事ドットコム",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ENkI1WWpSSk5INW80NDJuc1hpVUpXOVFmRkFEMHB2SjdjVWZyMlgyQzZTeWU2VV9CQVFtLVppUndvMDJuTkZYNE95aEVYenNrVmNVQ29GNjlXaDJremx0ZmY1em9nWG1JMkpZ?oc=5",
+    "time": "11/6(金) 8:46",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入&nbsp;&nbsp;時事ドットコム",
+    "body": [
+      "【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入&nbsp;&nbsp;時事ドットコム"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-55273eeaf5bc": {
     "id": "auto-55273eeaf5bc",
     "category": "その他",
@@ -262,26 +377,6 @@
     "summary": "JR貨物など4社、冷凍食品の鉄道輸送で脱炭素&nbsp;&nbsp;LOGISTICS TODAY",
     "body": [
       "JR貨物など4社、冷凍食品の鉄道輸送で脱炭素&nbsp;&nbsp;LOGISTICS TODAY"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-1854af391170": {
-    "id": "auto-1854af391170",
-    "category": "自治体",
-    "title": "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～",
-    "source": "時事ドットコム",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yN04yWDB2dlZveHlmWTB0LXdKRjdMM2JoZjBPSmNueXZJSHJGWE1CSmRoS3hXc1BBeW44cE9MRlhnckdhRmdfdFUzdk1saExESWk2bnVUMVRKcEFSWk5vWW42WDVjc1VFX3hB?oc=5",
-    "time": "11/6(金) 8:16",
-    "comments": 0,
-    "tags": [
-      "カーボン",
-      "脱炭素"
-    ],
-    "summary": "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～&nbsp;&nbsp;時事ドットコム",
-    "body": [
-      "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～&nbsp;&nbsp;時事ドットコム"
     ],
     "related": [],
     "collected": true,
@@ -402,25 +497,6 @@
     "collected": true,
     "image": null
   },
-  "auto-0ed1e45d8b0b": {
-    "id": "auto-0ed1e45d8b0b",
-    "category": "技術",
-    "title": "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用",
-    "source": "時事ドットコム",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTE1TdUxXWFRtWW9zZFF5blhlcXl3dFhDbGREMnhPQnVULVRVSWlRTjNCT093YTBSQTJyYnJVNDEyVkNXd1l4c19HNWxHV1RrYUFYLUg0U2VtaWQ2REhrdXdmTGhDRXBjMTdZ?oc=5",
-    "time": "11/6(金) 6:46",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用&nbsp;&nbsp;時事ドットコム",
-    "body": [
-      "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用&nbsp;&nbsp;時事ドットコム"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-e2126d25dac9": {
     "id": "auto-e2126d25dac9",
     "category": "その他",
@@ -461,20 +537,21 @@
     "collected": true,
     "image": null
   },
-  "auto-78851da2c723": {
-    "id": "auto-78851da2c723",
-    "category": "その他",
-    "title": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9idEcwQnd6UVpwS0o0TFV0VjVsVEJMZW5sX1MwWTB1NTdKSld3Qlh0aElnb1BDU01hRXBRQTBtUy1UT2QwRm1Rc1NtZkpna2RPT0RYcm5JXzYtZS1WbHYzSmxBUU8xeThG?oc=5",
-    "time": "11/6(金) 6:00",
+  "auto-1854af391170": {
+    "id": "auto-1854af391170",
+    "category": "自治体",
+    "title": "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～",
+    "source": "神戸新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPcC1hRGs4YWpjODAwbWlXWVMyUmJNZUxTSzR0Y0lGZGc2Y2RqVDZ1OXpSNl9zcEpSNlMtbGRYTnlVQlpsNTdRdkp2dGtGRjZuN2p1a29JY3RLWjhzSlhyTmlTeEZHUEJ5YTVoUjFwVGV2Zw?oc=5",
+    "time": "11/6(金) 6:10",
     "comments": 0,
     "tags": [
-      "太陽光"
+      "カーボン",
+      "脱炭素"
     ],
-    "summary": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様&nbsp;&nbsp;ニコニコニュース",
+    "summary": "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～&nbsp;&nbsp;神戸新聞",
     "body": [
-      "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様&nbsp;&nbsp;ニコニコニュース"
+      "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～&nbsp;&nbsp;神戸新聞"
     ],
     "related": [],
     "collected": true,
@@ -867,25 +944,6 @@
     "collected": true,
     "image": null
   },
-  "auto-27224feaf2d4": {
-    "id": "auto-27224feaf2d4",
-    "category": "その他",
-    "title": "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）",
-    "source": "みんかぶ",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NSVo2X2RNZ1ZpcVZCSWJBSXlNU0djUHlMRTFMT3E0TlVmNDJxU0JUempZdkFzTzNmV3M1QWpZNWFTMlNadnc?oc=5",
-    "time": "11/6(金) 1:10",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）&nbsp;&nbsp;みんかぶ",
-    "body": [
-      "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）&nbsp;&nbsp;みんかぶ"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-35faa7c73291": {
     "id": "auto-35faa7c73291",
     "category": "技術",
@@ -1113,25 +1171,6 @@
     "summary": "海底用コネクタ市場2035年予測：洋上風力と深海の石油・ガスが成長を牽引&nbsp;&nbsp;IndexBox",
     "body": [
       "海底用コネクタ市場2035年予測：洋上風力と深海の石油・ガスが成長を牽引&nbsp;&nbsp;IndexBox"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ff28b2c7d5a0": {
-    "id": "auto-ff28b2c7d5a0",
-    "category": "その他",
-    "title": "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmWXVhZXhrYnpiRnluZTdzSkpZRHVUbnk0bnZMWVhfQWJnekxzY3l3VGxvY0tvM1NBa1BTQnhKUzJycEN5cC1kMkVmRENJRXBlM1NqdlRyU3gzWS1FRzJLU2tpZmhyYUly?oc=5",
-    "time": "11/5(木) 23:45",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結&nbsp;&nbsp;ニコニコニュース"
     ],
     "related": [],
     "collected": true,
@@ -1660,102 +1699,6 @@
     "collected": true,
     "image": null
   },
-  "auto-00435836c3ea": {
-    "id": "auto-00435836c3ea",
-    "category": "暮らし",
-    "title": "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計",
-    "source": "IndexBox",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkpzQVV5SzdoUXdsM2hjeTQySmx5dGNzVTAwcGM4VjZaQVBXQTBQXzRCOFFHRWR3ZWField5SHZTaEwwVUhwOW83VmFVTjhES2JCV1pobXNGaXBtYlN5Y0o2eWxCR2xfYWtYUE9xLXE0Q3RUODJtMzloY01sQUMyOFhYLXg4OE5ZNEpxZ09RYV9aeDJnc2xnR3diVUJFUXc?oc=5",
-    "time": "11/5(木) 15:03",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計&nbsp;&nbsp;IndexBox",
-    "body": [
-      "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計&nbsp;&nbsp;IndexBox"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-19d9192153a3": {
-    "id": "auto-19d9192153a3",
-    "category": "その他",
-    "title": "再エネ転換で脱炭素と経済成長の実現へ 4つの政策課題を政府へ提案 パルシステム連合会",
-    "source": "JAcom 農業協同組合新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWWc4enpEUUxXd2xJV1A0R0RONFJIbndhcjhsdXV3bnBtMVJUdkhYUnFjd2YzcUhva05sNzlKQV93VDN6cG5Gd1g2bVhyWnZNVHFVWXA4MDJnal9VX3ZQdE9HUXE?oc=5",
-    "time": "11/5(木) 15:00",
-    "comments": 0,
-    "tags": [
-      "再エネ",
-      "脱炭素"
-    ],
-    "summary": "再エネ転換で脱炭素と経済成長の実現へ 4つの政策課題を政府へ提案 パルシステム連合会&nbsp;&nbsp;JAcom 農業協同組合新聞",
-    "body": [
-      "再エネ転換で脱炭素と経済成長の実現へ 4つの政策課題を政府へ提案 パルシステム連合会&nbsp;&nbsp;JAcom 農業協同組合新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ca3054affde8": {
-    "id": "auto-ca3054affde8",
-    "category": "その他",
-    "title": "JCIの再エネ転換の加速を求める政策提言に賛同 コープデリ連合会",
-    "source": "JAcom 農業協同組合新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsakxOb1JDTWd3aEZFRGtRLVdXZndQNVBES01VUTY4dTFzRm9FMG8yY1h6LUs5OG82NE94a2EzWlNjaHQ3YzFpWGFPeU9qY0VNZExUQlAxX1luR2tyeWV1Y1ZaSV8?oc=5",
-    "time": "11/5(木) 15:00",
-    "comments": 0,
-    "tags": [
-      "再エネ"
-    ],
-    "summary": "JCIの再エネ転換の加速を求める政策提言に賛同 コープデリ連合会&nbsp;&nbsp;JAcom 農業協同組合新聞",
-    "body": [
-      "JCIの再エネ転換の加速を求める政策提言に賛同 コープデリ連合会&nbsp;&nbsp;JAcom 農業協同組合新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-9444aa13099b": {
-    "id": "auto-9444aa13099b",
-    "category": "その他",
-    "title": "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力",
-    "source": "ニュースメディアVOIX",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1id3pfUlAzSDJYUzdaV3ByUHVOVGNrMV9fNlhwb1NSME9MSlN4cGFMVkN3eXZ2dnFVSWZFV1gtbFZESEJjaEJHMlBLbVZ3VGs4dU9DeTRMUFFqSGVxMkxGbDFVYzJ6ZEttNTNRUGtn?oc=5",
-    "time": "11/5(木) 14:29",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力&nbsp;&nbsp;ニュースメディアVOIX",
-    "body": [
-      "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力&nbsp;&nbsp;ニュースメディアVOIX"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-c6f47599816a": {
-    "id": "auto-c6f47599816a",
-    "category": "その他",
-    "title": "日本の技術で脱炭素化 タジキスタン地中熱プロジェクト",
-    "source": "NHK ONE",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEpXZnFKWTR2RnN3eUJiZ3lmZEVPY3BxcFBCazJDVkwxMHVQQnhVQ3VQakpnZVFScHRRei1zcEdTR0dLZkFSUXdibnlCbzA4TXN2TUwyX0pjWmZEVjhOa0pSRWNhTkF0Nk9UcURyZFB0ZUdJcmFtSldPZXdzQ25DSXlmS3E?oc=5",
-    "time": "11/5(木) 13:53",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "日本の技術で脱炭素化 タジキスタン地中熱プロジェクト&nbsp;&nbsp;NHK ONE",
-    "body": [
-      "日本の技術で脱炭素化 タジキスタン地中熱プロジェクト&nbsp;&nbsp;NHK ONE"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-a56ebe0c95a9": {
     "id": "auto-a56ebe0c95a9",
     "category": "暮らし",
@@ -2235,32 +2178,13 @@
     "collected": true,
     "image": null
   },
-  "auto-b0cccd4fb760": {
-    "id": "auto-b0cccd4fb760",
-    "category": "技術",
-    "title": "【2026年11月3日更新】丸由工材・京浜島ガスセンター 水素容器置き場を拡張するなど刷新",
-    "source": "産報出版",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQkRNTUcxOWU1T3V4RWhKdTYxQ21wME5odVNGdU5Sa1hpSUhocGJkb0U4QXB6TUdheEhDOWpLYkw4ekM0MHc1ZFRFZXRKRG1GbkdDRm1wNUdBYnVPOTA0M3h1VQ?oc=5",
-    "time": "11/4(水) 5:33",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "【2026年11月3日更新】丸由工材・京浜島ガスセンター 水素容器置き場を拡張するなど刷新&nbsp;&nbsp;産報出版",
-    "body": [
-      "【2026年11月3日更新】丸由工材・京浜島ガスセンター 水素容器置き場を拡張するなど刷新&nbsp;&nbsp;産報出版"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-4c888a6ff302": {
     "id": "auto-4c888a6ff302",
     "category": "技術",
     "title": "韓国のKolon Group、水素モビリティ素材から700bar貯蔵モジュールまでWHEで公開",
     "source": "BigGo ファイナンス",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ubUR2YjFfWlVQV0xYRHlaSUt2bGx5Wi01R1BwbC05aDNPMmVFaWkzQW1ldXRuc3gxYlBDSWpWOWgyRnJfc1RESzYxb08tSnlCT1Jia2Z2QjZ3ZkdjOTZLR3Bxb1ExQlF1T0ZZX252ZDZicDJo?oc=5",
-    "time": "11/4(水) 5:25",
+    "time": "11/4(水) 5:27",
     "comments": 0,
     "tags": [
       "水素"
@@ -2334,17 +2258,36 @@
   "auto-063b3638a88a": {
     "id": "auto-063b3638a88a",
     "category": "技術",
-    "title": "日本製鉄 水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功",
-    "source": "Digital PR Platform",
-    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5IV0VGZjVZS2piLXRjMHlwLWFfcU5NZV9KWFl2ZFk0M3dpTnRBU3RvTlItdFlud2Q4WlBJM3hzdVJYYU0?oc=5",
-    "time": "11/4(水) 2:16",
+    "title": "日本製鉄 水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功 (2026年11月4日掲載)",
+    "source": "ライブドアニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QU0dNcW4xcjViZDdrMlRQSDQ4LWlFY1Z3QmdlRl9Vckt2RzMtd09XcHdONE5lZXJoNnVkYzVZaHlUTFVndFhoMmZvVWhJcWxiNmdWYlEzdGlGc3pjd3VqRDVB?oc=5",
+    "time": "11/4(水) 2:12",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "日本製鉄 水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功&nbsp;&nbsp;Digital PR Platform",
+    "summary": "日本製鉄 水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功 (2026年11月4日掲載)&nbsp;&nbsp;ライブドアニュース",
     "body": [
-      "日本製鉄 水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功&nbsp;&nbsp;Digital PR Platform"
+      "日本製鉄 水素100%による低品位鉄鉱石からの直接還元鉄の試験製造に成功 (2026年11月4日掲載)&nbsp;&nbsp;ライブドアニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-6c19b6a59064": {
+    "id": "auto-6c19b6a59064",
+    "category": "技術",
+    "title": "工場の排熱を活用して水素を製造 新たなMOFガラス膜材料を開発 京大",
+    "source": "NEWS SALT",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9zd25fNF9KaGpKQUtQdzlvd052SnZrUlFaUUU2MnMtX1Rsbm5jaHBZb3BUbi1NeTFHc3EtWTlrVWJrZ1A4?oc=5",
+    "time": "11/4(水) 1:52",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "工場の排熱を活用して水素を製造 新たなMOFガラス膜材料を開発 京大&nbsp;&nbsp;NEWS SALT",
+    "body": [
+      "工場の排熱を活用して水素を製造 新たなMOFガラス膜材料を開発 京大&nbsp;&nbsp;NEWS SALT"
     ],
     "related": [],
     "collected": true,
@@ -5265,6 +5208,216 @@
     "collected": true,
     "image": null
   },
+  "auto-8d44087dd74d": {
+    "id": "auto-8d44087dd74d",
+    "category": "企業",
+    "title": "オフィスの事業継続（BCP）対策を強化 No.1グループ、BCP対応型蓄電池「EnerCraft EC-700」を「オフィス防災EXPO」に出展",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000107.000055597.html",
+    "time": "11/6(金) 17:45",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "[株式会社No.1] オフィスDXおよび防災ソリューションを支援する株式会社No.1（本社：東京都千代田区、代表取締役：辰巳崇之、東証スタンダード：3562、以下：当社）および子会社である株式会社Club One Systems（本社：東京都千...",
+    "body": [
+      "[株式会社No.1] オフィスDXおよび防災ソリューションを支援する株式会社No.1（本社：東京都千代田区、代表取締役：辰巳崇之、東証スタンダード：3562、以下：当社）および子会社である株式会社Club One Systems（本社：東京都千..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/55597/107/55597-107-27e8bbef6ae82dfcb1205606a64a1a3b-1019x696.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-8deb28fd2756": {
+    "id": "auto-8deb28fd2756",
+    "category": "企業",
+    "title": "エー・ディー・ワークスの系統用蓄電所事業 稼働開始３か所目として「ADW宮崎日南市蓄電所」が竣工・稼働開始",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000093.000160356.html",
+    "time": "11/6(金) 17:15",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "[ADワークスグループ] [画像1: https://prcdn.freetls.fastly.net/release_image/160356/93/160356-93-c236ca610275c2f3257f8c9098ebf9a4-3900x2600.jpg?width=5…",
+    "body": [
+      "[ADワークスグループ] [画像1: https://prcdn.freetls.fastly.net/release_image/160356/93/160356-93-c236ca610275c2f3257f8c9098ebf9a4-3900x2600.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/160356/93/160356-93-c236ca610275c2f3257f8c9098ebf9a4-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-78851da2c723": {
+    "id": "auto-78851da2c723",
+    "category": "その他",
+    "title": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9idEcwQnd6UVpwS0o0TFV0VjVsVEJMZW5sX1MwWTB1NTdKSld3Qlh0aElnb1BDU01hRXBRQTBtUy1UT2QwRm1Rc1NtZkpna2RPT0RYcm5JXzYtZS1WbHYzSmxBUU8xeThG?oc=5",
+    "time": "11/6(金) 6:00",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-27224feaf2d4": {
+    "id": "auto-27224feaf2d4",
+    "category": "その他",
+    "title": "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）",
+    "source": "みんかぶ",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NSVo2X2RNZ1ZpcVZCSWJBSXlNU0djUHlMRTFMT3E0TlVmNDJxU0JUempZdkFzTzNmV3M1QWpZNWFTMlNadnc?oc=5",
+    "time": "11/6(金) 1:10",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）&nbsp;&nbsp;みんかぶ",
+    "body": [
+      "テスＨＤ(5074) 西華産業株式会社様から「太陽光発電システム」の設置工事を受注いたしました（設置場所：株式会社 鶴見製作所様 京都工場）&nbsp;&nbsp;みんかぶ"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ff28b2c7d5a0": {
+    "id": "auto-ff28b2c7d5a0",
+    "category": "その他",
+    "title": "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmWXVhZXhrYnpiRnluZTdzSkpZRHVUbnk0bnZMWVhfQWJnekxzY3l3VGxvY0tvM1NBa1BTQnhKUzJycEN5cC1kMkVmRENJRXBlM1NqdlRyU3gzWS1FRzJLU2tpZmhyYUly?oc=5",
+    "time": "11/5(木) 23:45",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-00435836c3ea": {
+    "id": "auto-00435836c3ea",
+    "category": "暮らし",
+    "title": "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計",
+    "source": "IndexBox",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkpzQVV5SzdoUXdsM2hjeTQySmx5dGNzVTAwcGM4VjZaQVBXQTBQXzRCOFFHRWR3ZWField5SHZTaEwwVUhwOW83VmFVTjhES2JCV1pobXNGaXBtYlN5Y0o2eWxCR2xfYWtYUE9xLXE0Q3RUODJtMzloY01sQUMyOFhYLXg4OE5ZNEpxZ09RYV9aeDJnc2xnR3diVUJFUXc?oc=5",
+    "time": "11/5(木) 15:03",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計&nbsp;&nbsp;IndexBox",
+    "body": [
+      "マラウイのネットメータリング制度、住宅用太陽光発電の拡大を目指す - ニュースと統計&nbsp;&nbsp;IndexBox"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-19d9192153a3": {
+    "id": "auto-19d9192153a3",
+    "category": "その他",
+    "title": "再エネ転換で脱炭素と経済成長の実現へ 4つの政策課題を政府へ提案 パルシステム連合会",
+    "source": "JAcom 農業協同組合新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWWc4enpEUUxXd2xJV1A0R0RONFJIbndhcjhsdXV3bnBtMVJUdkhYUnFjd2YzcUhva05sNzlKQV93VDN6cG5Gd1g2bVhyWnZNVHFVWXA4MDJnal9VX3ZQdE9HUXE?oc=5",
+    "time": "11/5(木) 15:00",
+    "comments": 0,
+    "tags": [
+      "再エネ",
+      "脱炭素"
+    ],
+    "summary": "再エネ転換で脱炭素と経済成長の実現へ 4つの政策課題を政府へ提案 パルシステム連合会&nbsp;&nbsp;JAcom 農業協同組合新聞",
+    "body": [
+      "再エネ転換で脱炭素と経済成長の実現へ 4つの政策課題を政府へ提案 パルシステム連合会&nbsp;&nbsp;JAcom 農業協同組合新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ca3054affde8": {
+    "id": "auto-ca3054affde8",
+    "category": "その他",
+    "title": "JCIの再エネ転換の加速を求める政策提言に賛同 コープデリ連合会",
+    "source": "JAcom 農業協同組合新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsakxOb1JDTWd3aEZFRGtRLVdXZndQNVBES01VUTY4dTFzRm9FMG8yY1h6LUs5OG82NE94a2EzWlNjaHQ3YzFpWGFPeU9qY0VNZExUQlAxX1luR2tyeWV1Y1ZaSV8?oc=5",
+    "time": "11/5(木) 15:00",
+    "comments": 0,
+    "tags": [
+      "再エネ"
+    ],
+    "summary": "JCIの再エネ転換の加速を求める政策提言に賛同 コープデリ連合会&nbsp;&nbsp;JAcom 農業協同組合新聞",
+    "body": [
+      "JCIの再エネ転換の加速を求める政策提言に賛同 コープデリ連合会&nbsp;&nbsp;JAcom 農業協同組合新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-9444aa13099b": {
+    "id": "auto-9444aa13099b",
+    "category": "その他",
+    "title": "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力",
+    "source": "ニュースメディアVOIX",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1id3pfUlAzSDJYUzdaV3ByUHVOVGNrMV9fNlhwb1NSME9MSlN4cGFMVkN3eXZ2dnFVSWZFV1gtbFZESEJjaEJHMlBLbVZ3VGs4dU9DeTRMUFFqSGVxMkxGbDFVYzJ6ZEttNTNRUGtn?oc=5",
+    "time": "11/5(木) 14:29",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力&nbsp;&nbsp;ニュースメディアVOIX",
+    "body": [
+      "ヤマダホームズと東京電力EPが提供する初期費用0円の太陽光発電新サービス『太陽光00（ゼロゼロ）』の魅力&nbsp;&nbsp;ニュースメディアVOIX"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-c6f47599816a": {
+    "id": "auto-c6f47599816a",
+    "category": "その他",
+    "title": "日本の技術で脱炭素化 タジキスタン地中熱プロジェクト",
+    "source": "NHK ONE",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEpXZnFKWTR2RnN3eUJiZ3lmZEVPY3BxcFBCazJDVkwxMHVQQnhVQ3VQakpnZVFScHRRei1zcEdTR0dLZkFSUXdibnlCbzA4TXN2TUwyX0pjWmZEVjhOa0pSRWNhTkF0Nk9UcURyZFB0ZUdJcmFtSldPZXdzQ25DSXlmS3E?oc=5",
+    "time": "11/5(木) 13:53",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "日本の技術で脱炭素化 タジキスタン地中熱プロジェクト&nbsp;&nbsp;NHK ONE",
+    "body": [
+      "日本の技術で脱炭素化 タジキスタン地中熱プロジェクト&nbsp;&nbsp;NHK ONE"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-b0cccd4fb760": {
+    "id": "auto-b0cccd4fb760",
+    "category": "技術",
+    "title": "【2026年11月3日更新】丸由工材・京浜島ガスセンター 水素容器置き場を拡張するなど刷新",
+    "source": "産報出版",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQkRNTUcxOWU1T3V4RWhKdTYxQ21wME5odVNGdU5Sa1hpSUhocGJkb0U4QXB6TUdheEhDOWpLYkw4ekM0MHc1ZFRFZXRKRG1GbkdDRm1wNUdBYnVPOTA0M3h1VQ?oc=5",
+    "time": "11/4(水) 5:33",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "【2026年11月3日更新】丸由工材・京浜島ガスセンター 水素容器置き場を拡張するなど刷新&nbsp;&nbsp;産報出版",
+    "body": [
+      "【2026年11月3日更新】丸由工材・京浜島ガスセンター 水素容器置き場を拡張するなど刷新&nbsp;&nbsp;産報出版"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-60b7a50029a9": {
     "id": "auto-60b7a50029a9",
     "category": "企業",
@@ -5817,25 +5970,6 @@
     "collected": true,
     "image": null
   },
-  "auto-bddf10d5e5db": {
-    "id": "auto-bddf10d5e5db",
-    "category": "国際",
-    "title": "【国際情報工科自動車大学校】放射線工学科の学生が（一社）日本原子力産業協会による特別授業を受講～SDGsやカーボンニュートラルの観点から、世界のエネルギー状況と環境負荷を学ぶ",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000002287.000032951.html",
-    "time": "11/6(金) 14:15",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "[ＮＳＧグループ] ＮＳＧグループに属する学校法人国際総合学園 WiZ国際情報工科自動車大学校（福島県郡山市）は、2026年10月2日（金）、放射線工学科の学生15名を対象に、一般社団法人 日本原子力産業協会より講師をお招きした特...",
-    "body": [
-      "[ＮＳＧグループ] ＮＳＧグループに属する学校法人国際総合学園 WiZ国際情報工科自動車大学校（福島県郡山市）は、2026年10月2日（金）、放射線工学科の学生15名を対象に、一般社団法人 日本原子力産業協会より講師をお招きした特..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/32951/2287/32951-2287-e27f58e4c7d9ebbc4edd97ad37ae0ec5-1500x1000.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
   "auto-8265cd34e41e": {
     "id": "auto-8265cd34e41e",
     "category": "企業",
@@ -6254,25 +6388,6 @@
     "related": [],
     "collected": true,
     "image": null
-  },
-  "auto-b0c5c3f39f06": {
-    "id": "auto-b0c5c3f39f06",
-    "category": "企業",
-    "title": "TESSグループ、西華産業株式会社様から「太陽光発電システム」の設置工事を受注（設置場所：株式会社 鶴見製作所様 京都工場）",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000188.000143072.html",
-    "time": "11/6(金) 10:10",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "[テスホールディングス株式会社] テスホールディングス株式会社（本社：大阪市淀川区、代表取締役社長：山本 一樹、以下「当社」）は、連結子会社であるテス・エンジニアリング株式会社（本社：大阪市淀川区、代表取締役社長：高崎 敏宏）が、...",
-    "body": [
-      "[テスホールディングス株式会社] テスホールディングス株式会社（本社：大阪市淀川区、代表取締役社長：山本 一樹、以下「当社」）は、連結子会社であるテス・エンジニアリング株式会社（本社：大阪市淀川区、代表取締役社長：高崎 敏宏）が、..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "auto-01b7daacbc08": {
     "id": "auto-01b7daacbc08",
@@ -9641,25 +9756,6 @@
     "summary": "家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始&nbsp;&nbsp;東京ガス",
     "body": [
       "家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始&nbsp;&nbsp;東京ガス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-6c19b6a59064": {
-    "id": "auto-6c19b6a59064",
-    "category": "技術",
-    "title": "工場の排熱を活用して水素を製造 新たなMOFガラス膜材料を開発 京大",
-    "source": "NEWS SALT",
-    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9zd25fNF9KaGpKQUtQdzlvd052SnZrUlFaUUU2MnMtX1Rsbm5jaHBZb3BUbi1NeTFHc3EtWTlrVWJrZ1A4?oc=5",
-    "time": "11/4(水) 1:52",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "工場の排熱を活用して水素を製造 新たなMOFガラス膜材料を開発 京大&nbsp;&nbsp;NEWS SALT",
-    "body": [
-      "工場の排熱を活用して水素を製造 新たなMOFガラス膜材料を開発 京大&nbsp;&nbsp;NEWS SALT"
     ],
     "related": [],
     "collected": true,
@@ -19117,101 +19213,6 @@
     "summary": "アンモニア船で連携 郵船や今治造船など７社 脱炭素へ普及目指す｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞",
     "body": [
       "アンモニア船で連携 郵船や今治造船など７社 脱炭素へ普及目指す｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-af1342a993f9": {
-    "id": "auto-af1342a993f9",
-    "category": "その他",
-    "title": "脱炭素「一人一人が行動を起こして」 東京農業大・荒井教授が江差中で講話",
-    "source": "北海道新聞デジタル",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0dpZy1VOHY0NE1nbUExamxGXzBhN2NJRWpJYzIxSWtpcFJ2QU1Fd2xhY0lCSXB6dE5Yb2ttYS1OamJENUgwSk5QR2JtLW11VFhnXzJrUVZDWmE5ZndSQmQxQzZyNzNyUzVuNUFoMXF4ZmgyblRsUVZzbThTbnRBeVRQdHFMVlo4?oc=5",
-    "time": "10/29(木) 17:36",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "脱炭素「一人一人が行動を起こして」 東京農業大・荒井教授が江差中で講話&nbsp;&nbsp;北海道新聞デジタル",
-    "body": [
-      "脱炭素「一人一人が行動を起こして」 東京農業大・荒井教授が江差中で講話&nbsp;&nbsp;北海道新聞デジタル"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-11c1383306d9": {
-    "id": "auto-11c1383306d9",
-    "category": "その他",
-    "title": "北海道美唄市で、安藤ハザマ保有発電所として 最大規模となる太陽光発電所の運転を開始",
-    "source": "ZDNET Japan",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbFEtRUNyUFpNWktRMm9YVU9DZU05SlZwTDlUNk93UUJBWERDcGZIOUNGRDViREdEQ09yaEN2c3M1WU8xZWFFOXZ2MXpOYmt2eTRz?oc=5",
-    "time": "10/29(木) 17:34",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "北海道美唄市で、安藤ハザマ保有発電所として 最大規模となる太陽光発電所の運転を開始&nbsp;&nbsp;ZDNET Japan",
-    "body": [
-      "北海道美唄市で、安藤ハザマ保有発電所として 最大規模となる太陽光発電所の運転を開始&nbsp;&nbsp;ZDNET Japan"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-5798cb6dbedc": {
-    "id": "auto-5798cb6dbedc",
-    "category": "技術",
-    "title": "水素ガス：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfeTdtaTRsOUVjTjZsbXpNUmVtRkNIaGo4YjdDVzV3X2NRSVFtXzI2OXU5T0xYUUhfd3BMUHVQSmZHZVg1NFJHT19rQ2FUMTg?oc=5",
-    "time": "10/28(水) 2:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "水素ガス：市場シェア分析、業界動向と統計、成長予測（2026～2031年）&nbsp;&nbsp;Newscast.jp",
-    "body": [
-      "水素ガス：市場シェア分析、業界動向と統計、成長予測（2026～2031年）&nbsp;&nbsp;Newscast.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-1ebb98c067c2": {
-    "id": "auto-1ebb98c067c2",
-    "category": "技術",
-    "title": "川崎重工、水素液化プラントの建設に着手…国内最大1日50トンの液化能力",
-    "source": "レスポンス（Response.jp）",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zdV9tWFJnYmZ5OFRMaFZ4QU5Ua0ZrQ0lIb0xxR1NrY3dvUEJ3VzhRblp0RzEtWEJscjNCUlZQY2tOOExvY2p1d2tfa3hMM1I0ZTkxdWlWZ09nMXhxQjJr?oc=5",
-    "time": "10/28(水) 0:15",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "川崎重工、水素液化プラントの建設に着手…国内最大1日50トンの液化能力&nbsp;&nbsp;レスポンス（Response.jp）",
-    "body": [
-      "川崎重工、水素液化プラントの建設に着手…国内最大1日50トンの液化能力&nbsp;&nbsp;レスポンス（Response.jp）"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-f83299b4f536": {
-    "id": "auto-f83299b4f536",
-    "category": "その他",
-    "title": "【11/2(月)14:00開催・参加無料】ISO14065認定のGX-ETS登録確認機関が明かす、GX-ETS検証現場で見えた対応課題解説セミナーを開催",
-    "source": "Excite エキサイト",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VNEpHY3BSamNrbVZQcTJCZ0RDeXdVVWlvU3M5SkhHQzBNbjJOT0V1MWx5bVdJRUtjTW1zVTl4NklPQVBUQ2hjVk1LQ0NFRUNSa0RRX2M1dkZPMVhYbmRjQzF2dXhNc1NMWE95S09kT295bmJl?oc=5",
-    "time": "10/27(火) 18:10",
-    "comments": 0,
-    "tags": [
-      "GX"
-    ],
-    "summary": "【11/2(月)14:00開催・参加無料】ISO14065認定のGX-ETS登録確認機関が明かす、GX-ETS検証現場で見えた対応課題解説セミナーを開催&nbsp;&nbsp;Excite エキサイト",
-    "body": [
-      "【11/2(月)14:00開催・参加無料】ISO14065認定のGX-ETS登録確認機関が明かす、GX-ETS検証現場で見えた対応課題解説セミナーを開催&nbsp;&nbsp;Excite エキサイト"
     ],
     "related": [],
     "collected": true,
