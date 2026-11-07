@@ -11,20 +11,75 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-5c190eb29840",
-    "title": "衛星・航空機センサーによる施設レベルの温室効果ガス排出量モニタリングサービスを提供するGHGSat Inc.へ出資",
-    "summary": "[グローバル・ブレイン株式会社] グローバル・ブレイン株式会社（以下、グローバル・ブレイン）が運営する、MEイノベーション投資事業有限責任組合（以下、MEイノベーションファンド）は、衛星コンステレーションと航空機センサーを活用した施設...",
+    "id": "auto-f0954941b539",
+    "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
+    "summary": "[株式会社SUNPIN JAPAN] 株式会社 SUNPIN JAPAN（本社：東京都中央区、代表取締役：西村 軍）は、滋賀県大津市に建設を進めてきた特別高圧の系統用蓄電所「SP滋賀大津蓄電所」について、2026年11月5日に送配電網への系統接続を完了しまし...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/7(土) 12:10",
+    "time": "11/7(土) 13:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000631.000047342.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/47342/631/47342-631-365d3102844df745dedb1842e4c660d9-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000193954.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/193954/2/193954-2-880b8956cb902c708e1b09eb3e275175-1024x576.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-a2b28f4e91db",
+      "id": "auto-2de1f5957212",
       "rank": 1,
+      "title": "水素混合ガスタービンの世界市場（2026年～2032年）、市場規模（純水素ガスタービン、高水素混合ガスタービン、低水素混合ガスタービン）・分析レポートを発表",
+      "category": "技術",
+      "source": "アットプレス",
+      "time": "11/7(土) 5:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LTGN4TlB6NUIxU1VnT3U0RmRxVFBIZHB0bWdpa19qaXI4MXpIbzB5XzdhbU85NXlUMFFYRzl3Zk9WdjNhQ0dDSUk1bG5VME0?oc=5"
+    },
+    {
+      "id": "auto-16cd82706617",
+      "rank": 2,
+      "title": "中国、太陽光発電の導入量が石炭火力を逆転も利用率は数年連続で低下、業界は「価格シグナル主導の消費」を訴え",
+      "category": "国際",
+      "source": "BigGo ファイナンス",
+      "time": "11/7(土) 4:35",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbHVIa0VZRlFBWTNlSHhtZTJPa2VCd19PbUF1TUkxUUNYWl9qYXZiWDF5b2xPVmxiRzhCdDllaU0zZ3FNUENYT0JldmZmUGFJeF9ZX180S0ZUeE9KZ0UyRWlnSlVXX1VyVXh3eHhMd2tWTWJC?oc=5"
+    },
+    {
+      "id": "auto-aae0b36dcea0",
+      "rank": 3,
+      "title": "青森港、地盤改良本格化 洋上風力「基地港湾」工事を公開｜行政・政治,青森県,経済・産業｜青森ニュース｜Web東奥",
+      "category": "自治体",
+      "source": "東奥日報社",
+      "time": "11/7(土) 4:05",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WZ0hIMGVyblFWZTdHM2FJSmxwQlQyMDFWa0Jha1JfZmVCbTRjTVc0OUdtWU9LenFiamhJMXNhdVFIS19IeU5ZT1VKaXhoZkducXNKVFZlQi0?oc=5"
+    },
+    {
+      "id": "auto-b1e234fc3750",
+      "rank": 4,
+      "title": "青森港、地盤改良本格化 洋上風力「基地港湾」工事を公開",
+      "category": "自治体",
+      "source": "47NEWS",
+      "time": "11/7(土) 4:05",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1paGJXZHRjUzg5dW5EWm1OS2FGTEkzWG9GU2RwRWhmUUdwY194ZnR0eHpXVm5MbDdRNWtfZjYxMF9manprVDRTZzJTUQ?oc=5"
+    },
+    {
+      "id": "auto-fe22cc30d1ee",
+      "rank": 5,
+      "title": "「Gateway Gulf 2026」開催中：Beyon、太陽光発電への投資を加速させ、グリーンデータセンターのポートフォリオを3カ所に拡大すると発表",
+      "category": "その他",
+      "source": "千葉日報オンライン",
+      "time": "11/7(土) 3:45",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Sno5ejY0Qk1ycHlLajNkLVUxdllHYld6bFpOak1WN29IQjdFcUF1dUJISi1yX0ozSkgtM1ZSUlhPUnhNSDh3RmYySzFEdjFpa1VVQ3V3?oc=5"
+    },
+    {
+      "id": "auto-a2b28f4e91db",
+      "rank": 6,
       "title": "小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
       "category": "技術",
       "source": "ウォーカープラス",
@@ -35,80 +90,25 @@
     },
     {
       "id": "auto-960d6e503453",
-      "rank": 2,
+      "rank": 7,
       "title": "東南アジア、アフリカ、中東では、再生可能エネルギーの開発が加速している。",
       "category": "国際",
       "source": "Vietnam.vn",
       "time": "11/7(土) 2:48",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3hrVENYNHFFMDl0ZTZBcmxtcjNLTFNKZXVBV2FXX3R0YW1qOWRPSnl5N0tVRXh1Uk5Fck92aGQ2cGtkOEpkOElpQ2p0ckNxSmgwZVFLYWVCOG1jU2tmeVRZM3RGY25oQkZuTE9YSDdqcTZqSk01dEx0VzZjNTFvbFBVZWdoT2dkejA3dGl2MmVuRFZOREx5NHhrT0lGRlU?oc=5"
     },
     {
       "id": "auto-f208b6cd2cb3",
-      "rank": 3,
+      "rank": 8,
       "title": "リエン・チエウ・ワード氏がホアヴァン太陽光発電所プロジェクトについて語る。",
       "category": "その他",
       "source": "Vietnam.vn",
       "time": "11/7(土) 1:40",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2o2WFBfSEhjNmt1NEVFWlkzU05XWGJLMnMwNWd5VGRpVmcydV9EbGpUa1ZiZktxYXJKbWkzWlZGTUhXOHg4YTBfS0M5WHhLenBQR3pLcXVUOGV6a3Z2SHlmN1dJSW5aQzZyZ0VleWwxMzBDM1RFaHFLbmt2dnpHYk5TUjYxWU1uS19CS3hfRTBJTWVOck9V?oc=5"
-    },
-    {
-      "id": "auto-f593610ea230",
-      "rank": 4,
-      "title": "【中国】政府、全国炭素排出量取引制度の2027年度対象企業発表。総量規制への移行に焦点 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
-      "category": "国際",
-      "source": "Sustainable Japan",
-      "time": "11/7(土) 0:37",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UUFJGM0NWLWE5WHNjVHR6NGJSdW5CaW1zY2JGai1fU29YaGNpc3VremxzNmdJTEZOb2JEOElrV1VkWURYaUFCNVQxNVd6SGZiWWZ3T2FCMGtyaGxleS1uYTdoOXFnMmZ30gFuQVVfeXFMT3U2dUZzSWhtVmo4b1V0Y3pxMWJSVk5vMVY3RHdVUkIzckctUHJEYWg5RnRMMlNROXQyc2RjT25maUY3c1NFVWEwZ0pJTHBJQlpNamtSYXh1dGliT0txN29hWEFXd1hqUUNaY0ZWYnc?oc=5"
-    },
-    {
-      "id": "auto-bdbe9ba57746",
-      "rank": 5,
-      "title": "油圧駆動式水素コンプレッサーの世界市場（2026年～2032年）、市場規模（ピストン式水素コンプレッサー、ダイヤフラム式水素コンプレッサー）・分析レポートを発表",
-      "category": "技術",
-      "source": "アットプレス",
-      "time": "11/7(土) 0:30",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XWjR2TmJOZEQ2dkhBOFloQmVXbHNRbGlCalZBRVFka2liVEFidkJpUDNHeDRpU1NwUnMxckc3Nm94R2FvbGZuVDN2N1dpV3M?oc=5"
-    },
-    {
-      "id": "auto-34e404cacd6e",
-      "rank": 6,
-      "title": "【国際】IEA、再エネ新設が2031年までに前6カ年を57％上回ると予測。新興国で勢い | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
-      "category": "国際",
-      "source": "Sustainable Japan",
-      "time": "11/7(土) 0:09",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Va01yQ09CTWR2WDlsdkFLcXYyMG1LOUtiNUNubGxrZWp2QUxvQXVGNVl0TzJJYS1sWFctc0x4SjJYa1BPYVNUUktRRGtyM2lKSVdydmV5OGptQWF1QUNqWHFIQnZzenVJX24xVWNnYzdBdzNBYWhHUNIBeEFVX3lxTE5Va01yQ09CTWR2WDlsdkFLcXYyMG1LOUtiNUNubGxrZWp2QUxvQXVGNVl0TzJJYS1sWFctc0x4SjJYa1BPYVNUUktRRGtyM2lKSVdydmV5OGptQWF1QUNqWHFIQnZzenVJX24xVWNnYzdBdzNBYWhHUA?oc=5"
-    },
-    {
-      "id": "auto-c6d52b8d9bc2",
-      "rank": 7,
-      "title": "鹿島港の洋上風力発電中止 県、事業者に措置",
-      "category": "その他",
-      "source": "ｄメニューニュース",
-      "time": "11/6(金) 23:13",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yNm9meEVrWkswNjhYMTQzdzU5WDRlbllFT0NCQm1JSnJZS01Hbzd2WGZJVl9CZnhaWmJ5MEpTRDZ6MGtKbWFLZHdnelJvRl9yaDhNbFBfNmdmdk1ycU1QQkZrMGZmWEJ3aEFNQWRraDFpZzTSAXhBVV95cUxNVVlLX0RVNFByc3ZuQTUwdDlxdWJ2a215bEg0Znp2UWlzVXN3M3FMbjRNMmZqXzdyWWFXVkVacllwV2k5SGR0TkpZVE1GQ1psNDVENjY1ZHhpSEctVkJHcGlPSXpGWWZnenNfMjFGRTRlak1Cb29heFg?oc=5"
-    },
-    {
-      "id": "auto-a74f9aac589b",
-      "rank": 8,
-      "title": "カーボンニュートラルポート（CNP）の現在地｜日本の港湾脱炭素の仕組みと、地元の港を調べる方法",
-      "category": "自治体",
-      "source": "MIRASUS（ミラサス）",
-      "time": "11/6(金) 23:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TbjA5Mm1hYm9SVkZPN1E4NlVZNEtuaGUwSFlPdVZITl9RbmowQkc5VElQa3hlblNDcE5ody1iQzhaSGlReXR2NHR6NW0?oc=5"
     }
   ]
 }
