@@ -11,27 +11,27 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-f0954941b539",
-    "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
-    "summary": "[株式会社SUNPIN JAPAN] 株式会社 SUNPIN JAPAN（本社：東京都中央区、代表取締役：西村 軍）は、滋賀県大津市に建設を進めてきた特別高圧の系統用蓄電所「SP滋賀大津蓄電所」について、2026年11月5日に送配電網への系統接続を完了しまし...",
+    "id": "auto-a13087e0cf3b",
+    "title": "ソコテック、J-クレジット新方法論「AG-007」による妥当性確認を日本で初めて実施",
+    "summary": "[ソコテック・サーティフィケーション・ジャパン株式会社] [画像: https://prcdn.freetls.fastly.net/release_image/153421/23/153421-23-0ea24e7579855c4c70f26cdad49fb273-158x14…",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/8(日) 19:10",
+    "time": "11/8(日) 22:40",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000193954.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/193954/2/193954-2-880b8956cb902c708e1b09eb3e275175-1024x576.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000153421.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/153421/23/153421-23-0ea24e7579855c4c70f26cdad49fb273-158x148.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-5095ddeb7e04",
+      "id": "auto-f0954941b539",
       "rank": 1,
-      "title": "バイウィルのカーボンニュートラル総研、東証6業種115社を追加分析した最新調査レポートを公開",
-      "category": "国際",
+      "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
+      "category": "企業",
       "source": "PR TIMES",
       "time": "11/8(日) 19:10",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000532.000013100.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000193954.html"
     },
     {
       "id": "auto-60f0cfa22b2b",
@@ -56,59 +56,59 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000302.000136133.html"
     },
     {
-      "id": "auto-0481701fd53d",
+      "id": "auto-f2dee27090cc",
       "rank": 4,
+      "title": "「グリーン水素」産業の夜明け",
+      "category": "技術",
+      "source": "NNAアジア",
+      "time": "11/8(日) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TT2ZGVFJhYmpJRG1IcW8zemRvbS1SWFkwWkx3YXFWeEIxSWVFTFRyS0VmVHl5SjNfVDlrQUhzbFN0OW5sVXc?oc=5"
+    },
+    {
+      "id": "auto-481007bd79db",
+      "rank": 5,
+      "title": "自動車用燃料電池電解質膜市場の成長分析：地域別、メーカー別、種類別、用途別 – 2026",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "11/8(日) 13:01",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xaU5YNkhpa1BPYjluNzJyU0VoeGMzRXNycmlOLUl0S3QtMHdXRWJoZWYyNW9vMDBPTlpmdWQzeGU1SXRGRlAwdWtn?oc=5"
+    },
+    {
+      "id": "auto-1815e10f1832",
+      "rank": 6,
+      "title": "ヒューズホルダー市場2035年予測：電化と再生可能エネルギーが成長を牽引 - ニュースと統計",
+      "category": "その他",
+      "source": "IndexBox",
+      "time": "11/8(日) 12:56",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmV5NTlaNE4wUloyU2wtSjFEQTlySkhzSDRjc2l5QWQzcjhYRHFYMHd0VzZsZnAxdGRTWmg0UFlOWkxQLXdHcUwwNVZHeHVWWFZiYXlmZzljYnRLRnZOcEYxUHAzMFBTdmN3VlBxd1NpZUp2OEdkTjJJTWtCOW92WWJwWXkxWVFSX0laNEE3WUV2LVpERUZFeHdYbzQ0Zzg5OGhwWE5oTmwyUG9NdnNiUTZxRExJNlJhdG5ma0pNXzdRT3NUdnpj?oc=5"
+    },
+    {
+      "id": "auto-4abda5ccdfbc",
+      "rank": 7,
+      "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構",
+      "category": "その他",
+      "source": "環境金融研究機構",
+      "time": "11/8(日) 12:28",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5"
+    },
+    {
+      "id": "auto-0481701fd53d",
+      "rank": 8,
       "title": "水素航空機国内メーカーとシェア",
       "category": "技術",
       "source": "pando.life",
       "time": "11/8(日) 12:22",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Bd19aU3BZRjh3Zk4xeXBiZ1NaV29VeDlPTUhLUDFHcmZKdG50d3Q5T3h2VV81akczNG15V2p4UjNGbVc2WkZxdXh3?oc=5"
-    },
-    {
-      "id": "auto-0472e3d8bd51",
-      "rank": 5,
-      "title": "燃料電池システム用の水素バルブの国内市場と将来予測",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "11/8(日) 12:17",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mLUlYUHFIdXY3eVNMWUpRbUN1MVdtOFRPQlgzLXpQaXJ2WDdUVU1rLTJrOXN6RVBUcHJSN3F1V2hhUkV3XzZCUXJB?oc=5"
-    },
-    {
-      "id": "auto-891c982db509",
-      "rank": 6,
-      "title": "日本のカーボンアカウンティングソフトウェア市場2026年版",
-      "category": "その他",
-      "source": "pando.life",
-      "time": "11/8(日) 12:17",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdUpzNkkwQ3ZIVDRWRzREZ2F2c21jbF8xVVJ5MG83dEU2eEk1QW9jZm9Md1Y4aFdFZVV5c0hYa1Z6elB1MGJvWERn?oc=5"
-    },
-    {
-      "id": "auto-25764c107150",
-      "rank": 7,
-      "title": "高純度電子グレードフッ化水素酸の市場需要と収益成長、2026年から2033年にかけて年平",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "11/8(日) 12:11",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YOEdIVGJZTG9qUXZoSFMxcnBNQy1rQWZZVHlwLTdUTnFxMmZ5Tk01Y01lVDg1T1BDcVB6VEVaMFpyc0RhSS1qQld3?oc=5"
-    },
-    {
-      "id": "auto-909f681082ef",
-      "rank": 8,
-      "title": "一連の地方自治体が屋根置き太陽光発電の設置を支援する政策を実施",
-      "category": "自治体",
-      "source": "Laodong.vn",
-      "time": "11/8(日) 11:26",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnN1WVFjdkFyN0pvdFVoVEcxWU5zX08xS1dRT3lWMmFnTVFkYU91YVNETklrMnQ1QzBCdDZydjNUVkxFcUdwZTU1Y1I3VW1IZ0xDNkZTbjZZcE44dFlmdHJCSFRVOTU1Tkd3TnFiZzR6dzJ1UlZvaTEzUVhfVVZXU2JWVzl0SUYwc29PV1paSzVqaVRsZkJDUjNsRzczSkVJMU5XcXBHN0ZZZTJKR0JlUkc1TTkwR1IzNkhUa1dqZ2ZRY1U?oc=5"
     }
   ]
 }

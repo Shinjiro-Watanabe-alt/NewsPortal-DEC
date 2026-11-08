@@ -1,23 +1,23 @@
 [
   {
+    "id": "auto-a13087e0cf3b",
+    "title": "ソコテック、J-クレジット新方法論「AG-007」による妥当性確認を日本で初めて実施",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "22:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000153421.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/153421/23/153421-23-0ea24e7579855c4c70f26cdad49fb273-158x148.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-f0954941b539",
     "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "19:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000193954.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/193954/2/193954-2-880b8956cb902c708e1b09eb3e275175-1024x576.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-5095ddeb7e04",
-    "title": "バイウィルのカーボンニュートラル総研、東証6業種115社を追加分析した最新調査レポートを公開",
-    "category": "国際",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "19:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000532.000013100.html",
-    "image": null
   },
   {
     "id": "auto-60f0cfa22b2b",
@@ -40,10 +40,50 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/136133/302/136133-302-f9ecc0bf258f76146912fdfc9d8047fa-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-f2dee27090cc",
+    "title": "「グリーン水素」産業の夜明け",
+    "category": "技術",
+    "accent": true,
+    "source": "NNAアジア",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TT2ZGVFJhYmpJRG1IcW8zemRvbS1SWFkwWkx3YXFWeEIxSWVFTFRyS0VmVHl5SjNfVDlrQUhzbFN0OW5sVXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-481007bd79db",
+    "title": "自動車用燃料電池電解質膜市場の成長分析：地域別、メーカー別、種類別、用途別 – 2026",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "13:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xaU5YNkhpa1BPYjluNzJyU0VoeGMzRXNycmlOLUl0S3QtMHdXRWJoZWYyNW9vMDBPTlpmdWQzeGU1SXRGRlAwdWtn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1815e10f1832",
+    "title": "ヒューズホルダー市場2035年予測：電化と再生可能エネルギーが成長を牽引 - ニュースと統計",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "12:56",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmV5NTlaNE4wUloyU2wtSjFEQTlySkhzSDRjc2l5QWQzcjhYRHFYMHd0VzZsZnAxdGRTWmg0UFlOWkxQLXdHcUwwNVZHeHVWWFZiYXlmZzljYnRLRnZOcEYxUHAzMFBTdmN3VlBxd1NpZUp2OEdkTjJJTWtCOW92WWJwWXkxWVFSX0laNEE3WUV2LVpERUZFeHdYbzQ0Zzg5OGhwWE5oTmwyUG9NdnNiUTZxRExJNlJhdG5ma0pNXzdRT3NUdnpj?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4abda5ccdfbc",
+    "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構",
+    "category": "その他",
+    "accent": true,
+    "source": "環境金融研究機構",
+    "time": "12:28",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-0481701fd53d",
     "title": "水素航空機国内メーカーとシェア",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "pando.life",
     "time": "12:22",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Bd19aU3BZRjh3Zk4xeXBiZ1NaV29VeDlPTUhLUDFHcmZKdG50d3Q5T3h2VV81akczNG15V2p4UjNGbVc2WkZxdXh3?oc=5",
@@ -60,30 +100,10 @@
     "image": null
   },
   {
-    "id": "auto-891c982db509",
-    "title": "日本のカーボンアカウンティングソフトウェア市場2026年版",
-    "category": "その他",
-    "accent": false,
-    "source": "pando.life",
-    "time": "12:17",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdUpzNkkwQ3ZIVDRWRzREZ2F2c21jbF8xVVJ5MG83dEU2eEk1QW9jZm9Md1Y4aFdFZVV5c0hYa1Z6elB1MGJvWERn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-25764c107150",
-    "title": "高純度電子グレードフッ化水素酸の市場需要と収益成長、2026年から2033年にかけて年平",
-    "category": "技術",
-    "accent": true,
-    "source": "pando.life",
-    "time": "12:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YOEdIVGJZTG9qUXZoSFMxcnBNQy1rQWZZVHlwLTdUTnFxMmZ5Tk01Y01lVDg1T1BDcVB6VEVaMFpyc0RhSS1qQld3?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-909f681082ef",
     "title": "一連の地方自治体が屋根置き太陽光発電の設置を支援する政策を実施",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "Laodong.vn",
     "time": "11:26",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnN1WVFjdkFyN0pvdFVoVEcxWU5zX08xS1dRT3lWMmFnTVFkYU91YVNETklrMnQ1QzBCdDZydjNUVkxFcUdwZTU1Y1I3VW1IZ0xDNkZTbjZZcE44dFlmdHJCSFRVOTU1Tkd3TnFiZzR6dzJ1UlZvaTEzUVhfVVZXU2JWVzl0SUYwc29PV1paSzVqaVRsZkJDUjNsRzczSkVJMU5XcXBHN0ZZZTJKR0JlUkc1TTkwR1IzNkhUa1dqZ2ZRY1U?oc=5",
@@ -103,10 +123,20 @@
     "id": "auto-c6ccd5d2cead",
     "title": "肥後銀行とインボイス、脱炭素経営のGHG排出量算定セミナーを共催へ",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Dellows News",
     "time": "10:10",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNmpyZUxGU3g3TlkzU1pENGRlWHV1Rzl1aU1yTkJDRnlsbTdVam03dmlWSG5sUVQ2VS1KSHR6VmtTcWJobjRmZ25vYVFXR3RDdFR0bGpzWGNSN3M1UGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5095ddeb7e04",
+    "title": "バイウィルのカーボンニュートラル総研、東証6業種115社を追加分析した最新調査レポートを公開",
+    "category": "その他",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "10:10",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdXExMEhlYzY2c2lRYWcxbkg1bDVNNEpwSTF3aGdOZUM2aU1rNUJLbkR2N0twNGw2WlpLWTluak1NU2N1N3lSTDRIdUJQMjlyZm5vczNLQ3MtRlVXaXlDRTEzSmpHeEQ5TTJYemtoNjBzbnIz?oc=5",
     "image": null
   },
   {
@@ -250,53 +280,23 @@
     "image": null
   },
   {
+    "id": "auto-869f05b23097",
+    "title": "画像5 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
+    "category": "技術",
+    "accent": true,
+    "source": "ウォーカープラス",
+    "time": "1:44",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NdTdUZ2ExUlZIZ1pUOGZiUWcwZnd1T0l2UXR4N1BMMmt6ajlXSXFESlNWWlJUT3RwYzJWWkl4VHJzSGlBWDl0OHd6UWRHb0xfazlYY3dzajRDMjFvSmFURTFhSG5FWDJBOTlXaGVR?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-009aed95136a",
     "title": "完全オイルフリー往復式水素コンプレッサーの世界市場（2026年～2032年）、市場規模（空冷、水冷）・分析レポートを発表",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "アットプレス",
     "time": "1:30",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XLVpKWWJWVFN0eW1LS2kzbG80dHQzd2RVdDlXVDFtWGs5RGUyenYzVHo2bHRRV1YtWXBLRUJ0LWdQLWctY1dMVTV6N1F6NFU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-75a51dede851",
-    "title": "カーボンニュートラルセンターを廃止し、ロボットに集中··· トヨタ、2027年に全社直轄のロボット組織を発足",
-    "category": "その他",
-    "accent": false,
-    "source": "스타뉴스",
-    "time": "0:45",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWZ3ME9tX2ZCenRmWUF2TTFvc1R4X1V0cWdBWktHZmoyS05sN3ZlbklPaEhRNldOOUgxRTczdHdILV9KOUJKQTRuYVVXS0RJZGZXWFc0Mmx5RGplQTg5eTd2ZTA1TVppUzhRQy1fSTN0N2J4XzlzT0t3c2I3NkNlRkxjRQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-955c150873fa",
-    "title": "脱炭素は「自分ごと」 米沢で市民会議初会合、基礎知識学ぶ",
-    "category": "その他",
-    "accent": false,
-    "source": "山形新聞",
-    "time": "0:42",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TcDJ1emtsQ2lUNTZOa2JsZUpzTlluS0tmQ2ZIWGRqdDVfSmViTG1wOEtlWk1qNGxFT0huRFhVTkVNc25OVWdrOTBDMzZOOU10VzI1SUE0SGREOWxSdU9hcGxMYmZ2ZDRLRUdUcEpKVQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ce90f0cbd7e5",
-    "title": "ブラックスタート発電機市場2035年予測：系統レジリエンスと再生可能エネルギーが需要を牽引 - ニュースと統計",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "0:36",
-    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaE55aG5WdjNuQkxMNURuOUs2V1hoOXA3cGwtZTM4R0VkOWNBbVdVRGZ3WGpXdTFTTjN0ejNiWmE2U2UwQTRFak9Jd21FaXRNdEN5MDVaZ011SFdoS0lvMmRyd0J3YzJMeWFwUE1HYWpQWlAwT2tueG96NzNTZEhsZW9uOGsya3hUaEMwcVJNNm9UbE5Jb01FZ08yLUl4Ui1oN0ptT1dialNrdkRwQXMxcnhKbm9VYnEyMmtMZ2t5Qno1dUMtNEl0Nk5yQkxuaFMzdHFISnJaWUtKYVE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8d555186447c",
-    "title": "脱炭素経営へ講演や事例発表 １６日、岡山でフォーラム",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "0:26",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GclRxSXJxeGU2Q3ltVGhKcE13Q01obzVEdWRSaG5Ba0pESTBCU2prYUVwX3lRWTJBVU11Q3JuYk5oMHhnR2g2bWVWWTBUTHFVc2c?oc=5",
     "image": null
   }
 ]
