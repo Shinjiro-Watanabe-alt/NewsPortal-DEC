@@ -1,29 +1,169 @@
 [
   {
-    "id": "auto-a13087e0cf3b",
-    "title": "ソコテック、J-クレジット新方法論「AG-007」による妥当性確認を日本で初めて実施",
+    "id": "auto-f0954941b539",
+    "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "16:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000153421.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/153421/23/153421-23-0ea24e7579855c4c70f26cdad49fb273-158x148.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "19:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000193954.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/193954/2/193954-2-880b8956cb902c708e1b09eb3e275175-1024x576.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-5095ddeb7e04",
+    "title": "バイウィルのカーボンニュートラル総研、東証6業種115社を追加分析した最新調査レポートを公開",
+    "category": "国際",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "19:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000532.000013100.html",
+    "image": null
+  },
+  {
+    "id": "auto-60f0cfa22b2b",
+    "title": "事業由来のCO2排出ゼロを2027年に実現へ組合員が取り組むリユース・リサイクルとフードマイレージ運動の月次成果を公開",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "19:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000315.000123722.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-3989e3310c98",
+    "title": "マウザーが支援する名古屋大学の学生フォーミュラチームが4年連続のEVクラス総合1位を獲得",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "19:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000302.000136133.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/136133/302/136133-302-f9ecc0bf258f76146912fdfc9d8047fa-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-0481701fd53d",
+    "title": "水素航空機国内メーカーとシェア",
+    "category": "技術",
+    "accent": true,
+    "source": "pando.life",
+    "time": "12:22",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Bd19aU3BZRjh3Zk4xeXBiZ1NaV29VeDlPTUhLUDFHcmZKdG50d3Q5T3h2VV81akczNG15V2p4UjNGbVc2WkZxdXh3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0472e3d8bd51",
+    "title": "燃料電池システム用の水素バルブの国内市場と将来予測",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "12:17",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mLUlYUHFIdXY3eVNMWUpRbUN1MVdtOFRPQlgzLXpQaXJ2WDdUVU1rLTJrOXN6RVBUcHJSN3F1V2hhUkV3XzZCUXJB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-891c982db509",
+    "title": "日本のカーボンアカウンティングソフトウェア市場2026年版",
+    "category": "その他",
+    "accent": false,
+    "source": "pando.life",
+    "time": "12:17",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdUpzNkkwQ3ZIVDRWRzREZ2F2c21jbF8xVVJ5MG83dEU2eEk1QW9jZm9Md1Y4aFdFZVV5c0hYa1Z6elB1MGJvWERn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-25764c107150",
+    "title": "高純度電子グレードフッ化水素酸の市場需要と収益成長、2026年から2033年にかけて年平",
+    "category": "技術",
+    "accent": true,
+    "source": "pando.life",
+    "time": "12:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YOEdIVGJZTG9qUXZoSFMxcnBNQy1rQWZZVHlwLTdUTnFxMmZ5Tk01Y01lVDg1T1BDcVB6VEVaMFpyc0RhSS1qQld3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-909f681082ef",
+    "title": "一連の地方自治体が屋根置き太陽光発電の設置を支援する政策を実施",
+    "category": "自治体",
+    "accent": false,
+    "source": "Laodong.vn",
+    "time": "11:26",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnN1WVFjdkFyN0pvdFVoVEcxWU5zX08xS1dRT3lWMmFnTVFkYU91YVNETklrMnQ1QzBCdDZydjNUVkxFcUdwZTU1Y1I3VW1IZ0xDNkZTbjZZcE44dFlmdHJCSFRVOTU1Tkd3TnFiZzR6dzJ1UlZvaTEzUVhfVVZXU2JWVzl0SUYwc29PV1paSzVqaVRsZkJDUjNsRzczSkVJMU5XcXBHN0ZZZTJKR0JlUkc1TTkwR1IzNkhUa1dqZ2ZRY1U?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9383afec9adb",
+    "title": "マチ全体で“脱炭素”目指す 下水処理施設から出るバイオガスの「環境価値」活用でCO2排出実質ゼロの都市ガス供給へ 北海道ガスと北広島市が連携協定",
+    "category": "自治体",
+    "accent": false,
+    "source": "TBS NEWS DIG",
+    "time": "11:17",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aalAzVVh1aXBEcE9MdWR5ZHNYN0ZpOXlLUzVQN0VPZjFFWVhMMTduNUtCcGFRQ0tiQkxhWGRWQjJoN2p2Q0RVUE11VzZfRkNJR2xsaTV5bEg2WWtt?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c6ccd5d2cead",
+    "title": "肥後銀行とインボイス、脱炭素経営のGHG排出量算定セミナーを共催へ",
+    "category": "その他",
+    "accent": true,
+    "source": "Dellows News",
+    "time": "10:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNmpyZUxGU3g3TlkzU1pENGRlWHV1Rzl1aU1yTkJDRnlsbTdVam03dmlWSG5sUVQ2VS1KSHR6VmtTcWJobjRmZ25vYVFXR3RDdFR0bGpzWGNSN3M1UGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9953deb3b6a1",
+    "title": "カーボンニュートラル食品市場における収益成長率に影響を与える要因の検討—2026年から2",
+    "category": "その他",
+    "accent": false,
+    "source": "pando.life",
+    "time": "9:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tYkFRNGtNdVFTSzduNE5NUUV6M2VyU3hyM1hSZjJKT3pMTkZGOE9TQ3pnano1ai1udFA4cU0ybG9MczZMSEwyNF93?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-dd28cec8d0d3",
+    "title": "​【全国初「72時間連続防災訓練」のトイレトレーラー】​防府市で全国初となる72時間の「市民総合防災訓練」が始まりました。電気と水が途絶えた状況下の想定の避難所運営なので、トイレトレーラーが活躍しています。トイレトレーラーは、屋根に太陽光発電設備があるために、夜",
+    "category": "その他",
+    "accent": false,
+    "source": "公明党",
+    "time": "8:39",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOXzFfQWp3MWhSNm9QcjdWem9pSEdaNVV0Z1NnbFJSSHZZaXZZT1lSZXlfQkw5eTVvcncwUHNZanF1Y1VBUU9IaVo2WVp2c1dDNzJPQ25lRG5keWsybHNtRURNdEVkTS1NeGstcDlZNGc2WnF1T29hM2NiblVrWnZ3ZFlRUWFWdVFSN0xSZHY0SHFFbTZzQ29IZlNaSTNQZjhPTGpma1hRdnZRX3BwYWw2cThWaDROcVY1a2pObTdrS1JQN0Z1a3dfU0NTRWRnN19x?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-0179f44d0923",
+    "title": "水素燃料電池市場の現状：予測される水素燃料電池市場の成長（CAGR 4.2%、2026年",
+    "category": "技術",
+    "accent": true,
+    "source": "pando.life",
+    "time": "8:06",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZVmxQMjM4RFVkeHZudVBzcWlSeGlfWjRIZkJaWlNsdXo2UTF0VFIwSWlDUUpGNmpHZlIyMjZPWlVrb3lWNWhtenJ3?oc=5",
+    "image": null
   },
   {
     "id": "auto-e78f64c4706e",
     "title": "国内燃料電池無停電電源装置 (FC-UPS) システム市場の現状と今後",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "pando.life",
     "time": "7:02",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9YN0VVT1NZWVJ5RW8zWU4waWl3dTZnSFQ3ZGI0ZHRiM09NdHRUS205WHAzR2hENXgtam1weS0wV2FmSXpTTmt1c1V3?oc=5",
     "image": null
   },
   {
+    "id": "auto-14218a37fecb",
+    "title": "太陽光発電とショウガ栽培、大分短大学生らが両立の可能性探る 臼杵市の営農型施設で調査（大分合同新聞）",
+    "category": "その他",
+    "accent": false,
+    "source": "Yahoo!ニュース",
+    "time": "7:00",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYU1WQnd0ZFBiNFF5eHB6UEUwLVR3NzhNdlJvY1lQYjJJaXB2OUZUelRwLWc1aUFJQ3FhaHlEWWduMlp3akVrNXhQR1pZc0xTdVJCRXZHcHBjMDUwbldiNWdfZzhIaHF1WlE5VklTSkRvYnhIQTFqSkxPWFpfN2c?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-c82f939eb1c6",
     "title": "洋上風力市場の拡大へ国内外の関係者が連携 長崎市で初開催の「世界洋上風力サミット」開幕 | TBS NEWS DIG",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "TBS NEWS DIG",
     "time": "6:49",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxQURhdnk4MWhEZEM4TldGczh3VnFhaUxxNGVrUHd0TTdibng4NHZnSjlVV0pGUHlXU1FFTko4SzFaRDV0NHZNUjU4WW1ydEJXLWxjN29DRUllU0Ju?oc=5",
@@ -43,7 +183,7 @@
     "id": "auto-250c836963ff",
     "title": "炭素繊維水素タンクの世界市場（2026年～2032年）、市場規模（70 MPa、35 MPa）・分析レポートを発表",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "Newscast.jp",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QOGRBNkZ2TngwZV9sdy1CbnphOFZzcEduYk9RZmtiMTVmeTJOdlkzbVNHbXQ2SXcyWGptWTBWM2RIbW1YZ1dnUTVLdUJqNGs?oc=5",
@@ -53,27 +193,17 @@
     "id": "auto-bb6a2f0ca3a0",
     "title": "CINEA、欧州水素週間2026で水素資金の役割を強調",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "IndexBox",
     "time": "4:10",
     "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzlRcXhSeDFsb3JmRVJaNm5TMGNnd2NVU0RyV2EwUldCaGhWQ0p4SEJfdXZ2LXNwbW1zejdhdDRxWEMwRXdlTWYweENITW5hcGg1Nzk5Mi1TQldFY2lqRnpVbHplcE5lV3dvdUZubi1iUGxVVk0tRFdTY0ppa190dVQ2Yi1rNFRoeWp5Nl9OTGJuRHVQcWFobDV5YU9qajRtOUkzUQ?oc=5",
     "image": null
   },
   {
-    "id": "auto-c675240043b3",
-    "title": "TenarisダルミネでHyLINE II水素パイプライン研究をレビュー - ニュースと統計",
-    "category": "技術",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "4:03",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUFUaDNYb0FaVXhyWWtVZTFRbXN3SFE3T0d0dllKS3BZeUoyZ0d6TF9VdHVtSklQRHF6SDZtWmE5dTdYNnNKeG4tQlRId1BPc3liVHBLWnF0UXY3OGdodG1OSzlSc1hRQldCc2xRbkdMTTNISG1wYkdadUx2aWl6QjdJblFtY1I3UGZ1ZUo3ZFVCVS0wbkVqRHh5MHY2YUZ6d2pMZEhwREpXNERUUlJQV1pIREQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-4b2a593dbf0d",
     "title": "中国の水素2026：第15次五カ年計画、再生可能由来水素200万トンを目標に - ニュースと統計",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "4:00",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUhqdV9FbUdQOTZ3SUJPam5MT3p6bGhJejg1YVhSaDdSUTlDbkVyam90MkR4Mm1vRDd5NkVqQ0ZOdXVKbWlSQW15OWJGeXpWb0NsalVKUlpXRFA3OFdzaE44SUNUcVRBbEpIMkV0VTQ4ZjN2T2Y5cWNPQkp3dzBNWkpUN015UlVsejJoSm1pZW8zMUJqdmQwWUxxV2ZJNjNoWHZOSzNPUzlhMGM?oc=5",
@@ -93,7 +223,7 @@
     "id": "auto-4e8c3916fdc0",
     "title": "脱炭素実現へ連携 美濃加茂市、美濃加茂商議所、岐阜信金と協定：ニュース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "中日BIZナビ",
     "time": "3:02",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Fa1h1WVNaT2ZMQnQzb2FSR1RZZDNFM3FYWEYtUWw5UXk5V1pOVDJVM0xRVTdVcW1QbldhWmc2SERPSTRhQmJZQl9LOHRkbE1YZHpUOGRheWdWbnFZRU1Z?oc=5",
@@ -103,7 +233,7 @@
     "id": "auto-336d8ba2ca36",
     "title": "世界初、水素専焼エンジンで航行成功 横浜の上野トランステック「輝光丸」 横浜みなと新聞",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "カナロコ",
     "time": "3:00",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jeF9YRHI4eS1TT2RhakxOS29tY2wzanNMMGlZZlZsZjVpa1kzZ3dHUFJGZU9uY1FvMDZpUDRnWnZBMlZ2ZjRoaG94SWRwcklVcVhFNlNxSmdTNTF5TGdwc0lBRTA4M080Y0V5TlBjTDRfbHJO?oc=5",
@@ -117,16 +247,6 @@
     "source": "山陽新聞",
     "time": "2:46",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11UTJ3dDdFZy1fTXpPT3NMT1VBdzU4SERGTUFKZDZjVHdSU3dqbzhGcmxITm5pWXltSy1lZ2t2QmliTjNINWFsRnpFR0Y1aEhLNnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-869f05b23097",
-    "title": "画像5 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
-    "category": "技術",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "1:44",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NdTdUZ2ExUlZIZ1pUOGZiUWcwZnd1T0l2UXR4N1BMMmt6ajlXSXFESlNWWlJUT3RwYzJWWkl4VHJzSGlBWDl0OHd6UWRHb0xfazlYY3dzajRDMjFvSmFURTFhSG5FWDJBOTlXaGVR?oc=5",
     "image": null
   },
   {
@@ -177,126 +297,6 @@
     "source": "山陽新聞",
     "time": "0:26",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GclRxSXJxeGU2Q3ltVGhKcE13Q01obzVEdWRSaG5Ba0pESTBCU2prYUVwX3lRWTJBVU11Q3JuYk5oMHhnR2g2bWVWWTBUTHFVc2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-2db10ccce49f",
-    "title": "【太陽光発電】卒FIT（固定価格買取制度が終わる）前と後で「売電の収入」はいくら変わるのか？東京電力の標準プランを例に試算 (LIMO)",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "0:21",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTFVSQW83Y1BBYVUwdkY0V2c4LUE1SGpkRlFVS1VoNENMZmhmUlE0VG5IQzRrSkZwV0dkTWxCVGt4c2hqdzgtNDBZQXl3MEdiRUhtU0djejhEM3lvbjllN2lBWFI2aFJUdGJKQkxjWTMxTEZjYWtZTzNwYU5vY3ZDOVJCZ0VSYXZrTmEySy1n?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-72329969f8ee",
-    "title": "【日本】日本製鉄、水素100%での低品位鉄鉱石直接還元に成功。量産化スピードが課題 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
-    "category": "技術",
-    "accent": true,
-    "source": "Sustainable Japan",
-    "time": "23:20",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05bFNnWkxPY3RlT0h6VTdsSVJtZmF2N1FWSTdmeGEwa0dNZzlhTHY3cWIwWlRWQkhyZ08xYUtNMWlwVW5FXzF0a2pocnRVZWx6TFZFbFFDaGpZS0lvTFRaLVpqNFdJYkdoNnFKZTM3Y21IbkVtY2fSAXtBVV95cUxPTXZPY053YlRhbEpxS2dPZ1FJSnQ5T0JPUEtVZWhMM2hZQXk0LXBKMEpOV2dwNTNSUDRueHZWNEZXUElYQklyQU80N21jMlhBMXpZRHhkV0YweWhOWjBDUWtpSkY1bXhpMndkWlpIbVRWU2k3U1RWNm5seDg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8823da627fff",
-    "title": "洋上風力 日本の現在地｜導入目標・落札価格・撤退の経緯を数字で整理 – SDGs特化メディア-持続可能な未来のために",
-    "category": "その他",
-    "accent": false,
-    "source": "MIRASUS（ミラサス）",
-    "time": "23:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aOU1sSnhIdndDczRldkExQVZUV0IzUEhhVDJJU0l2NGsyTHBjaUIwWVBDNExTSW9KZU1JSUxfcEdrZDJRRXAyUzVidGI?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-43f21c1ff8cc",
-    "title": "【日本】経産省、GX-ETSの排出枠繰越バンキングに上限設定へ。財務戦略含めた検討重要に | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
-    "category": "国際",
-    "accent": false,
-    "source": "Sustainable Japan",
-    "time": "22:34",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82WjAwY2xoSXcyeDBxV2drWnB0UHVaRGtUSldDRmdPSDRBTXc2dDFwLVFOZzZLUU1NcDFkazVsbUJxU0JtMXBuV3E2U1dfa3RCTkcxT1Z1ckktSTZBeGNZNEJDX0M2RVp3d3dR0gFwQVVfeXFMTXR6M0VRbm13aExaU2hXQzFOTVJsTWdCZmtvZjhpQ2lMQU93X2lUbFRSNWdGVlRTRkdTTHpidjY3dkE1TzhMd1ZoMnZuWEFLYlhRQ08tVG9kQTJNU0NMcHdwSnRTQlRpTGtEY0g2b1ZsTg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-33892047ddb6",
-    "title": "画像2 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
-    "category": "技術",
-    "accent": true,
-    "source": "ウォーカープラス",
-    "time": "22:04",
-    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNGRVUkVPY0FuY2FTNGhWWTZVUjZlOElGdkZSdjZoNkQ4LWEtTGEwMmdRWGNWLUlNNmx0RmYyWm5WbWdMYWg0djZyWExZWVNla2RkZTJuaG5oOWpsd0k2Y0NqQVcwQUo5VHlXTE4tQlh1NHF2N0VtMHlMTHA5ZHg0TnZPWjBIQzlsaEprRXFaZTJFZnJ5dXhZVXppbnRzdzJDTi1DRzNfcUVJdkZNcjBTRXFsSGdpZjZnbDBsQl9qTklnUDBQTzQtUURJb2x2QU9ZU1RrcmxWbF82Z1ZhblRqczRMdXFIaHMySUY0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5d99f772ca00",
-    "title": "帯広畜産大で酪農業者と学生が脱炭素に向け意見交換会 トヨタソーシャルフェス",
-    "category": "企業",
-    "accent": false,
-    "source": "十勝毎日新聞",
-    "time": "21:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QdnJXSVZKNER4V21RNm1qaGZkRC16SEh5Ql8weU91R0ozdnREYktLUU5ZbENMUVNpSEI2UUp0RE1YNHNyYnRXckxCTVV4WkNtV0M3X1R6VzRpRndyOW9hMUdTLWY?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b9ad2e7c097d",
-    "title": "臼杵市の営農型太陽光発電施設でショウガ生育状況など調査 大分短期大学生ら、パネルなしと比較【大分県】",
-    "category": "その他",
-    "accent": false,
-    "source": "47NEWS",
-    "time": "20:50",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44LXQ3NnR0N2Q3cmVsbms0ZXJyTDBMSk45VjRZWkY3eWdGU0JLVmV3Xzc0ajhWVERaN29qTHZGRXJha1pRbkw1dU9hNA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ad7f9dc222cb",
-    "title": "画像4 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
-    "category": "技術",
-    "accent": true,
-    "source": "ウォーカープラス",
-    "time": "20:26",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SdFVONXJYdF85V1hiVGRPOW5MQzFET3lIMVFGU0lyaEtFb05FaGxZZGE2NHA3VmV0QUFoVjhqZDBFTWRqZGtnZHhWZ00yTWJxMUF5MkR5dWYySWl5OFhaRHAxbGhIZHFvN0RRdGJB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-43dda01129a8",
-    "title": "【自治体】秋田県：企業の脱炭素経営を支援するGXセミナーを11月10日に開催、若者との共創や実践型講座も展開",
-    "category": "自治体",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "18:36",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoTDNPei1mQ2E4Zmt5Z3VDVFRoWmhMbkZpdFpKUzRNMEcyN2ROeHFaVnd4N2NkZFZpOWxwYlB2V3FYdDQzd3dFV0ZSaEpSWjlIa2R6eV9GNVg2V0ZqeEJLMHNQUlpzc2FleDlkOWVoQ2swZw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-82e4c1619b9d",
-    "title": "【提携・M&A・新会社】NEXYZ.・三井住友海上：省エネ設備導入支援で業務提携、保険代理店網を通じ地域企業の設備更新を促進",
-    "category": "自治体",
-    "accent": false,
-    "source": "みんなの広報宣伝部",
-    "time": "18:34",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Sc0dPcGNzaTNpZmJZRUVGc2h2dzN2bTgwWF9UN18yVkZpRFhQOFhIX2hkNE14TmpYeGFzOWRDZFZIa3VlMUZUN0dXNzc3cUpLQmp1aTN2OFBYRm9ZNFJ3RTVIdWNnVElCakZFenNaVmx6dw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-77b748558da8",
-    "title": "同期調相機市場2035年予測：再エネ導入と系統安定化需要が拡大を後押し - ニュースと統計",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "18:21",
-    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYXZaWVkxZFBscDdCMzg5YUVqU3AtYkNjb0g4REpzYUQyM05KbUhsQTNOWUVDSVVnaTZmdW1RektZNWFDUTRZTG1UNXdpdTFzOThocm4wY3c3N1k1YUlwN0pxNExXNUhLSVNRRjhjbl9haGh5YUtMaHRySUhTUmE1UUgyWTFIUW5fU3lqdU03SnNvQmFxR0JfVThPalNfTHJENl90R3c1Uk1yTVVpUlNKaFNSXzBDX2tta1hqcm9CV3hmVzFiclJxejV0LXFGZWxlQXRNbzVCZWJmTFlYM0NLYTQyOVVjWG8?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ac501f38b871",
-    "title": "コスモエコパワーとアスソラ、八戸市の太陽光発電所で20年間のPPA締結",
-    "category": "その他",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "18:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84V0NhaVZJVllPOURpTC0xM0RwLTFQTDVTN19YN2JadkY4OUxwOGdxZjBFVWtORC1yeHF2LS1iX3ZaT3FNUWc?oc=5",
     "image": null
   }
 ]
