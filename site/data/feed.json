@@ -1,31 +1,11 @@
 [
   {
-    "id": "auto-a13087e0cf3b",
-    "title": "ソコテック、J-クレジット新方法論「AG-007」による妥当性確認を日本で初めて実施",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "22:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000153421.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/153421/23/153421-23-0ea24e7579855c4c70f26cdad49fb273-158x148.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-f0954941b539",
-    "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "19:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000193954.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/193954/2/193954-2-880b8956cb902c708e1b09eb3e275175-1024x576.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-60f0cfa22b2b",
     "title": "事業由来のCO2排出ゼロを2027年に実現へ組合員が取り組むリユース・リサイクルとフードマイレージ運動の月次成果を公開",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "19:10",
+    "time": "1:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000315.000123722.html",
     "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
@@ -33,11 +13,31 @@
     "id": "auto-3989e3310c98",
     "title": "マウザーが支援する名古屋大学の学生フォーミュラチームが4年連続のEVクラス総合1位を獲得",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
-    "time": "19:10",
+    "time": "1:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000302.000136133.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/136133/302/136133-302-f9ecc0bf258f76146912fdfc9d8047fa-3900x2600.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-fc27c7ba1ed9",
+    "title": "埼玉県行田市とバイウィルが「カーボンニュートラルの取組に関する連携協定」を締結",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000530.000013100.html",
+    "image": null
+  },
+  {
+    "id": "auto-f0954941b539",
+    "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "16:10",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qbXF0UVNNczI2VEhnZ1FGdWNwQWpSdXF3VWlmcmRlamRWQ2JLbnBuN1AyTEFHVWc2TGNnUDQ5ZFdZMjZGOU5kcWgyaTd1YnBVVWR1VHRMX2lxNkhpdjQzcG0wWngtNm1PTlJhRzgtYTJvUHc?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/193954/2/193954-2-880b8956cb902c708e1b09eb3e275175-1024x576.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-f2dee27090cc",
@@ -47,6 +47,16 @@
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TT2ZGVFJhYmpJRG1IcW8zemRvbS1SWFkwWkx3YXFWeEIxSWVFTFRyS0VmVHl5SjNfVDlrQUhzbFN0OW5sVXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-2a64834af475",
+    "title": "真空遮断器市場、2035年までの予測：再生可能エネルギー導入と送配電網の近代化が成長をけん引",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "13:06",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZmlvWG9iQjJXTnloanB2MlhBYWxhRXRrLVRLb3pxT0V3b1ZnN3RKVFNSOFZGTHRzSEpZOGs3VnRJbU1JVWM0YVR5SzJSR2hGQkcyMW1YT2ZIT0hmajNaQTN6UnpGRUpVNHp1ck5nd0xXcUFxQnh1Qm5ISHpkMzg1NnUtVmN4TjN1SlNhWkR1bVJNNVFyNXM1WDVCMHRhOW5STWhlUGtzMlk4aDFydVVocDJxNmh4VnYwMlRZS2pnYXpTcTBIRjYyVEExZVFRd09CZDluRGdPemprQQ?oc=5",
     "image": null
   },
   {
@@ -63,7 +73,7 @@
     "id": "auto-1815e10f1832",
     "title": "ヒューズホルダー市場2035年予測：電化と再生可能エネルギーが成長を牽引 - ニュースと統計",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "IndexBox",
     "time": "12:56",
     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmV5NTlaNE4wUloyU2wtSjFEQTlySkhzSDRjc2l5QWQzcjhYRHFYMHd0VzZsZnAxdGRTWmg0UFlOWkxQLXdHcUwwNVZHeHVWWFZiYXlmZzljYnRLRnZOcEYxUHAzMFBTdmN3VlBxd1NpZUp2OEdkTjJJTWtCOW92WWJwWXkxWVFSX0laNEE3WUV2LVpERUZFeHdYbzQ0Zzg5OGhwWE5oTmwyUG9NdnNiUTZxRExJNlJhdG5ma0pNXzdRT3NUdnpj?oc=5",
@@ -73,7 +83,7 @@
     "id": "auto-4abda5ccdfbc",
     "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "環境金融研究機構",
     "time": "12:28",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5",
@@ -93,17 +103,27 @@
     "id": "auto-0472e3d8bd51",
     "title": "燃料電池システム用の水素バルブの国内市場と将来予測",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "pando.life",
     "time": "12:17",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mLUlYUHFIdXY3eVNMWUpRbUN1MVdtOFRPQlgzLXpQaXJ2WDdUVU1rLTJrOXN6RVBUcHJSN3F1V2hhUkV3XzZCUXJB?oc=5",
     "image": null
   },
   {
+    "id": "auto-891c982db509",
+    "title": "日本のカーボンアカウンティングソフトウェア市場2026年版",
+    "category": "その他",
+    "accent": false,
+    "source": "pando.life",
+    "time": "12:17",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdUpzNkkwQ3ZIVDRWRzREZ2F2c21jbF8xVVJ5MG83dEU2eEk1QW9jZm9Md1Y4aFdFZVV5c0hYa1Z6elB1MGJvWERn?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-909f681082ef",
     "title": "一連の地方自治体が屋根置き太陽光発電の設置を支援する政策を実施",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "Laodong.vn",
     "time": "11:26",
     "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnN1WVFjdkFyN0pvdFVoVEcxWU5zX08xS1dRT3lWMmFnTVFkYU91YVNETklrMnQ1QzBCdDZydjNUVkxFcUdwZTU1Y1I3VW1IZ0xDNkZTbjZZcE44dFlmdHJCSFRVOTU1Tkd3TnFiZzR6dzJ1UlZvaTEzUVhfVVZXU2JWVzl0SUYwc29PV1paSzVqaVRsZkJDUjNsRzczSkVJMU5XcXBHN0ZZZTJKR0JlUkc1TTkwR1IzNkhUa1dqZ2ZRY1U?oc=5",
@@ -113,7 +133,7 @@
     "id": "auto-9383afec9adb",
     "title": "マチ全体で“脱炭素”目指す 下水処理施設から出るバイオガスの「環境価値」活用でCO2排出実質ゼロの都市ガス供給へ 北海道ガスと北広島市が連携協定",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "TBS NEWS DIG",
     "time": "11:17",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aalAzVVh1aXBEcE9MdWR5ZHNYN0ZpOXlLUzVQN0VPZjFFWVhMMTduNUtCcGFRQ0tiQkxhWGRWQjJoN2p2Q0RVUE11VzZfRkNJR2xsaTV5bEg2WWtt?oc=5",
@@ -133,10 +153,30 @@
     "id": "auto-5095ddeb7e04",
     "title": "バイウィルのカーボンニュートラル総研、東証6業種115社を追加分析した最新調査レポートを公開",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Excite エキサイト",
     "time": "10:10",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdXExMEhlYzY2c2lRYWcxbkg1bDVNNEpwSTF3aGdOZUM2aU1rNUJLbkR2N0twNGw2WlpLWTluak1NU2N1N3lSTDRIdUJQMjlyZm5vczNLQ3MtRlVXaXlDRTEzSmpHeEQ5TTJYemtoNjBzbnIz?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-14218a37fecb",
+    "title": "太陽光発電とショウガ栽培、大分短大学生らが両立の可能性探る 臼杵市の営農型施設で調査 (大分合同新聞)",
+    "category": "その他",
+    "accent": true,
+    "source": "Yahoo!ニュース",
+    "time": "9:28",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1BQZlN4al9wR1ltQ1BILVhmYTZMTWJlamwzbmtSM3BwMS00WktvR0ZQakZJdmYycE5mT0x4enIxT0hyYm9zOGRiTklMd2YtTGZuTWdybF96Rk1oYUppSTNUT1EzNFhIX0xPTnRvQ20tX2pjUndJcFotNENfanZ0R3pscjROZGo1UHZDX2pn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-131ae630d18d",
+    "title": "ENEOS Powerの特別高圧蓄電所向け系統用蓄電システムを受注",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "9:24",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMTNXcHhGV3hLd05RV0I1X3JMRENmY0RHQ082bTFoSE12WGZQVGVUWjRiY2YxdFRzeXJiZ01tZHRicU43OVVxU1dMRm1NWDdxaFE?oc=5",
     "image": null
   },
   {
@@ -153,7 +193,7 @@
     "id": "auto-dd28cec8d0d3",
     "title": "​【全国初「72時間連続防災訓練」のトイレトレーラー】​防府市で全国初となる72時間の「市民総合防災訓練」が始まりました。電気と水が途絶えた状況下の想定の避難所運営なので、トイレトレーラーが活躍しています。トイレトレーラーは、屋根に太陽光発電設備があるために、夜",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "公明党",
     "time": "8:39",
     "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOXzFfQWp3MWhSNm9QcjdWem9pSEdaNVV0Z1NnbFJSSHZZaXZZT1lSZXlfQkw5eTVvcncwUHNZanF1Y1VBUU9IaVo2WVp2c1dDNzJPQ25lRG5keWsybHNtRURNdEVkTS1NeGstcDlZNGc2WnF1T29hM2NiblVrWnZ3ZFlRUWFWdVFSN0xSZHY0SHFFbTZzQ29IZlNaSTNQZjhPTGpma1hRdnZRX3BwYWw2cThWaDROcVY1a2pObTdrS1JQN0Z1a3dfU0NTRWRnN19x?oc=5",
@@ -163,7 +203,7 @@
     "id": "auto-0179f44d0923",
     "title": "水素燃料電池市場の現状：予測される水素燃料電池市場の成長（CAGR 4.2%、2026年",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "pando.life",
     "time": "8:06",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZVmxQMjM4RFVkeHZudVBzcWlSeGlfWjRIZkJaWlNsdXo2UTF0VFIwSWlDUUpGNmpHZlIyMjZPWlVrb3lWNWhtenJ3?oc=5",
@@ -177,16 +217,6 @@
     "source": "pando.life",
     "time": "7:02",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9YN0VVT1NZWVJ5RW8zWU4waWl3dTZnSFQ3ZGI0ZHRiM09NdHRUS205WHAzR2hENXgtam1weS0wV2FmSXpTTmt1c1V3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-14218a37fecb",
-    "title": "太陽光発電とショウガ栽培、大分短大学生らが両立の可能性探る 臼杵市の営農型施設で調査（大分合同新聞）",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "7:00",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYU1WQnd0ZFBiNFF5eHB6UEUwLVR3NzhNdlJvY1lQYjJJaXB2OUZUelRwLWc1aUFJQ3FhaHlEWWduMlp3akVrNXhQR1pZc0xTdVJCRXZHcHBjMDUwbldiNWdfZzhIaHF1WlE5VklTSkRvYnhIQTFqSkxPWFpfN2c?oc=5",
     "image": null
   },
   {
@@ -267,36 +297,6 @@
     "source": "カナロコ",
     "time": "3:00",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jeF9YRHI4eS1TT2RhakxOS29tY2wzanNMMGlZZlZsZjVpa1kzZ3dHUFJGZU9uY1FvMDZpUDRnWnZBMlZ2ZjRoaG94SWRwcklVcVhFNlNxSmdTNTF5TGdwc0lBRTA4M080Y0V5TlBjTDRfbHJO?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1854af391170",
-    "title": "「ちゅうぎんカーボンクレジットクラブ」で創出したＪ-クレジットをＳＢＴ認定取得企業５社が購入 ～地域のお客さまのＣＯ２削減活動を、地域企業の脱炭素経営へ～",
-    "category": "自治体",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "2:46",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11UTJ3dDdFZy1fTXpPT3NMT1VBdzU4SERGTUFKZDZjVHdSU3dqbzhGcmxITm5pWXltSy1lZ2t2QmliTjNINWFsRnpFR0Y1aEhLNnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-869f05b23097",
-    "title": "画像5 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
-    "category": "技術",
-    "accent": true,
-    "source": "ウォーカープラス",
-    "time": "1:44",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NdTdUZ2ExUlZIZ1pUOGZiUWcwZnd1T0l2UXR4N1BMMmt6ajlXSXFESlNWWlJUT3RwYzJWWkl4VHJzSGlBWDl0OHd6UWRHb0xfazlYY3dzajRDMjFvSmFURTFhSG5FWDJBOTlXaGVR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-009aed95136a",
-    "title": "完全オイルフリー往復式水素コンプレッサーの世界市場（2026年～2032年）、市場規模（空冷、水冷）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "1:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XLVpKWWJWVFN0eW1LS2kzbG80dHQzd2RVdDlXVDFtWGs5RGUyenYzVHo2bHRRV1YtWXBLRUJ0LWdQLWctY1dMVTV6N1F6NFU?oc=5",
     "image": null
   }
 ]
