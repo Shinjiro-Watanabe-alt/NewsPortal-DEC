@@ -1,25 +1,5 @@
 [
   {
-    "id": "auto-038dfe976524",
-    "title": "世界の水素関係者が山梨に集結、社会実装の課題と解決策を議論「富士ハイドロジェン・サミット2026」を山梨県で開催",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "11:00",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000551.000078927.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/78927/551/78927-551-50bb05cd1d837ec79dfff4b7615f6b2a-996x665.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-26b42f904984",
-    "title": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日",
-    "category": "技術",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "10:30",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000194425.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
-  },
-  {
     "id": "auto-e805677acaae",
     "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
     "category": "国際",
@@ -30,14 +10,94 @@
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/11/cover_news009.jpg"
   },
   {
-    "id": "auto-a237f15cc183",
-    "title": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説",
+    "id": "auto-801a6afc38b1",
+    "title": "宮崎市、脱炭素啓発にプロ野球春季キャンプを活用 e-dashが受託",
+    "category": "その他",
+    "accent": true,
+    "source": "環境ビジネスオンライン",
+    "time": "5:51",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTmNQMWMwYU1pRVdLanFBSEVQc1FVOVF0VmVZOGNqcWhGQ01BZnVSVVV0ajByUU1pcVN0amc0TXB6dnlGcVVKNllJY29lUjFZdXJ3TWlpUURqaWZoM19jYXJpTEFnX0EzZXhoUkQwRVdFOVVJSlByQXNfelc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9b4eb9094bb8",
+    "title": "テス・エンジニアリングとEBLサービス、太陽光発電設備の「オンサイト駆け付けサービス」に関する業務委託契約を締結",
+    "category": "その他",
+    "accent": false,
+    "source": "時事ドットコム",
+    "time": "5:46",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qVUlRTDVSSFpSeG9uMnhGb3Z3R2poX0s2UHVWeERULXd5ZWdiYWNERkZ3dFVzbkRMVGQ1dVVydWVZT3Y3UDhOTHJ3Wk9FXzlZMUMwY2JXT1hNSzlXNnlXTzBVNXlBaWNfTlFJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1ab115b33b0e",
+    "title": "RWEとKKR、英国で2.8GWの洋上風力発電プロジェクトを開発 - Investing.com",
+    "category": "国際",
+    "accent": false,
+    "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+    "time": "5:40",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90cDZ1Q29TS3B2RnNCRjVkZ2pPaFgyUzhfOXNORmJ4b2Uyajd4MDZIdUloSVpycU9tZEFwZVpOeE84bU4zUWtfdy1kakN2Qy1FQy1lQUVZaTZreHY3ZjlRaUN2ZmJzYnBNdXBHQXh0dGY2RmdYUVY0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6f1a4ca7f51c",
+    "title": "岐阜県美濃加茂市、大垣共立銀行、バイウィルが「環境価値の活用によるゼロカーボンシティの実現に向けた連携協定」を締結",
+    "category": "自治体",
+    "accent": true,
+    "source": "ニコニコニュース",
+    "time": "5:30",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14SXRlY0JlV0JDOGthUGhFaDJnMndHOGNOSXp3ako3OG01VWlUWkFSVW9FU0RQNEVxdHhsOS1GSE9zUVRWdnRoajBHMTBycGN2b2U4a0dzSVRQTTQ5MXU4UzRjdml3bGxZMWU4emJEM2MzSmJVd0xZU1p4NA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-341b87093aa5",
+    "title": "富士山静岡空港の太陽光発電設備導入事業が令和８年度新エネ大賞「審査委員長特別賞」を受賞",
     "category": "その他",
     "accent": false,
     "source": "PR TIMES",
-    "time": "3:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZHAwX2NzU1BLaW9CRVljMzRyTUhwYWVmOS1NTWtUc3Z2dHBFUVQyR3VDNHI0Skkzc3ZpX2tXeHB5Q2piSE5UVTBQOXlFQTRWZXBSejRXQlNlVEZCeHphOHNxZWRQMmFJbnc?oc=5",
+    "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRG8yVHZEcjNCb25zUEhnWjF3ZVNOVUNiV01Ieml5N1JIdVhsRWoxRWhUUWxjUmcycENkYlE1UC0zY1NBMDFuLXJlNE1qZGFCZi1aZzRNc3ZWSEZQV0RjcXprUllLMnhyLXc?oc=5",
     "image": null
+  },
+  {
+    "id": "auto-877b3dbaa90a",
+    "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43c3c4bUV5OTdyNjBfZWFqQm9NazZvWHdDNzZRSEMwUDBhLTBlRkMxN2ZZVi1mOFRFZmtzQTVXbURNVmFjZThzeGtKdEtLeGZFM0w3OVFYcDZ6Zko0Q2JVSVV3MGZ1dHAzN2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d1777c2b36a4",
+    "title": "プレスリリース：タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説（PR TIMES）",
+    "category": "その他",
+    "accent": true,
+    "source": "毎日新聞",
+    "time": "4:53",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oRzhfYmk3cWZnWkJReFY0WnU5dzlGR2hqQ1dUdXU4QjI0em12MXZJMVNKWG91VVRRRWtLT3ZxODJWdnpBenNUc05ZN0F2THJlRUtKR1laRVRVSm5uMG1DbldkVDZMYU1t?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a27182a6e463",
+    "title": "コニカミノルタ、リコーリースと太陽光発電由来の再生可能エネルギーの環境価値を対象としたバーチャルPPA契約を締結",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "3:25",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4c0hQaUlWd2JxM3FDZ1hnbUxLcFZWTmt5T3VqSW04QjVnM2lYNjBKaUw4cmRKRGJYa1owdVlBMzNTdnFVbkhZd29zVWtBdWtocjRYdzdLVkpFUjg0UGd2ME5NSjFoRVJOcWcxTw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-038dfe976524",
+    "title": "世界の水素関係者が山梨に集結、社会実装の課題と解決策を議論「富士ハイドロジェン・サミット2026」を山梨県で開催",
+    "category": "技術",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "3:15",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RVJoZnJoT3dDM2doUE50SVJHUmoyeXVrTWptemtoV2NGQ2Yyc2tCR01ReEl2QkFicmhaX2tSRmVHWjdBeFh4ZUNsOVlUeld6QTFoZExDREZhRnNXaThyNGVSTTBtNzdYWlNVbVJzTmtSUQ?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/78927/551/78927-551-50bb05cd1d837ec79dfff4b7615f6b2a-996x665.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-9b6f522cd570",
@@ -60,20 +120,10 @@
     "image": null
   },
   {
-    "id": "auto-6f1a4ca7f51c",
-    "title": "岐阜県美濃加茂市、大垣共立銀行、バイウィルが「環境価値の活用によるゼロカーボンシティの実現に向けた連携協定」を締結",
-    "category": "自治体",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "2:46",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS0tELXJoUGh0QUUtYXZNQ1JVNUs5VTFRSVAxRUVQM0NHQjhpMHJUWWF3TnNZZS1fekZveEtCVlktSF8zYzl3dEZyWUpNcm8yX3hWdm5qaWo5ZEZQY0hma0VFYkZUSEVidHpn?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-f127e7340793",
     "title": "日本製鉄 GXスチール「NSCarbolex Neutral」を使用したオフィス家具が鹿嶋市・姫路市に初採用",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "Digital PR Platform",
     "time": "2:16",
     "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zUmRMeDZ6QVJOWEExNlBXM00yYjBwR1ZwVXdFT2J6dFNJbGt5MmFaWTBjT0RwNWx0UWNnZDRiMHA0dDg?oc=5",
@@ -83,27 +133,47 @@
     "id": "auto-ca52f9452794",
     "title": "GBP株式会社、令和8年度「新エネ大賞」新エネルギー財団会長賞を受賞 ～旧型番パネル互換品による既設太陽光発電所の価値再生・向上リパワリングモデルが評価",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Excite エキサイト",
     "time": "2:15",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VS1lXWjAwVXVPbUVFd2RMZHlfamcwZkVmYTZpN013S1pHUy1WNFF4Y3VCX1Q4dzNFQ2hXelk3V2g1b2NPdHYyNHhZRDQxN0FPN2psdGQ3ckFwLVdfc2RsYXlDUU0yb3BmTks1THNnQ0puN0gwQmc?oc=5",
     "image": null
   },
   {
+    "id": "auto-5f49ca42f098",
+    "title": "太陽光第1世代企業のシンソンENGが、世界最大の太陽光国際行事で国産高効率太陽光モジュールの技術競争力を知らせ、グローバル市場の拡大に乗り出す。シンソンENGは15日から20日まで大田コンベンションセ..",
+    "category": "国際",
+    "accent": false,
+    "source": "매일경제",
+    "time": "2:07",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VelZIVDhBcl9zbGg0U09fRHZOV1lCNUkyV1ZPLWJzS3Nhd3c1Y0ZtYW0tWXFzOVVXbjJaZXdBV2JQNm1WX2V6YTVkSUlNamxVNHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-36faf40b42a4",
+    "title": "秋本真利元議員に懲役６年求刑 洋上風力発電汚職で検察側",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "2:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9udGw5WjVRNG8wMHk0YklTQUNpSFNKVndTYW5abFlCMWxYTWdfSi1sazgwbXJPQnRXWDBIUGxJRkNaUEJjbjJSaGdmNzlZQllreFdTU0FPd1U?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-1f024817efb1",
     "title": "2026浮体式洋上風力発電プラットフォーム（FOWP）市場規模マップ：シェア・動向・フレームワーク",
     "category": "その他",
-    "accent": false,
-    "source": "アットプレス",
+    "accent": true,
+    "source": "Newscast.jp",
     "time": "2:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EQjZDRGVfdTlYYkY5WWpxZ3F3SExyc1JkS2czeHdtQVBhWHVVYUVaQVNRVFFnNXh4eENKNGpNc1QySm9YMVdKQmw0TmlKVEE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GeTYtd3d0bTBBSi1jUVVqeDl3Z2l0Z0Vzd0tKRWpFOTlybXRjWHFpLVpFYTNWMlVrOE1WZ0FwUEVONnI4eUhmQ2I0b05lR3c?oc=5",
     "image": null
   },
   {
     "id": "auto-fc8f15f2a8d4",
     "title": "川崎市内の太陽光発電の価値を地域で循環。きらぼしグループによる「太陽光買取プラン」利用者向けUI銀行住宅ローン「川崎市脱炭素推進応援プラン」の提供開始について",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "2:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwQ1FyQU0xOTBMTEdMN3hVaEU0aHFiZTlIM25sSXc0eUhQMGVtZWVaczVvS3E3S185WTkybHZxa1RSd25oTFZvREJKMzYxWDNlSFY3aUhBV2c1elBaTVVFMmtURm5oVnF6SUE?oc=5",
@@ -123,7 +193,7 @@
     "id": "auto-1cd2c4889819",
     "title": "ベトナム中部における太陽光発電の価格は、1kWhあたり1,700ベトナムドン以上と最も高い。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "1:41",
     "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmlhOHJ3Vk5BY0tldjlwRjFfRzFMdWVrVGxZT21BTUVLd3pmelVUdlJPNThJX0cxOXZjUDZNaFpVdjNoNEQwcE9mOFNkaVo3MmhnWmlGUUU2eFhJUERwMG5rcGZkN3J0OUltWE82TEdsUjJsLVVEQjF0eDlrdmtyTVZFQ3lvRjNSSGduWWxkNA?oc=5",
@@ -133,7 +203,7 @@
     "id": "auto-e0478f225c18",
     "title": "軌道上で太陽光発電を試す:CubeSat実証が形づくる宇宙用太陽電池市場、2030年までに24.3億ドルの見通し",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Excite エキサイト",
     "time": "1:30",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zcVFtQkxFV2hlc0s5aGVnSEdvXzJOUGNoZzNZMXNMNFVuWWM1aXhLbElBUTNLSmdPVmRGNS1XbXpFM2loYkljMlphaGtKTW1CT2NDTnJfdlV4YU91LVdMSzM4SjBvcjAza2c?oc=5",
@@ -150,6 +220,16 @@
     "image": null
   },
   {
+    "id": "auto-afeb0102eb09",
+    "title": "みなとみらい21地区における脱炭素先行地域の取組紹介冊子",
+    "category": "その他",
+    "accent": true,
+    "source": "横浜市",
+    "time": "1:12",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNU52YmUyYWYwTEVFME1hOS01NklBX3gxeGRmbFJwQ2Y3ZEo4N0ZQWWhHNXdnMERhMjZWb1JBb2lkeGVkZ0cyRGl3MFZRYzc1a2lqVEFXUjVpX2NuTHRpUnZ3bFhKaHJLTzA5Y1dCb0Q0Zk5ESXFCd3N4T1VIZTZDMXpfQVJncTF6cHZYSGJ2RXREOEhfNlNmcWpEZXc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-355b751d5b97",
     "title": "イトーキとNTTドコモビジネス、農業由来J-クレジットの普及と企業による活用拡大に向けた協業を開始",
     "category": "その他",
@@ -157,16 +237,6 @@
     "source": "ZDNET Japan",
     "time": "1:01",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95WTZsYVlSNS0zQUx5eTBvNUFjeGFndVJ0QjFjQVVVU1FvYWZUVEwyS3FUVXJxRFNJTHJwdm50OWZXTWFlQ21BZW1XWFZzUkxTSDY0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fa1c66c90a91",
-    "title": "日本活性炭市場：COP31の脱炭素化イニシアチブ、PFAS除去、2035年までの産業サステナビリティ機会",
-    "category": "国際",
-    "accent": true,
-    "source": "ニコニコニュース",
-    "time": "1:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mRDdsZXUxZDZnMGJKNUhOT2xBcVExamJKUFJYTTdtY2tOTjE4ZjByaGtveEYxYkdJeG5uM2hCNUxadnBySFE5dEczSkJEWWh6WDBSUVQ0QjdKajVjbU1Wd1pLMWI5S3Uw?oc=5",
     "image": null
   },
   {
@@ -183,10 +253,30 @@
     "id": "auto-4e8c3916fdc0",
     "title": "脱炭素実現へ連携 美濃加茂市、美濃加茂商議所、岐阜信金と協定：ニュース",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "中日BIZナビ",
     "time": "0:49",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Fa1h1WVNaT2ZMQnQzb2FSR1RZZDNFM3FYWEYtUWw5UXk5V1pOVDJVM0xRVTdVcW1QbldhWmc2SERPSTRhQmJZQl9LOHRkbE1YZHpUOGRheWdWbnFZRU1Z?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9d5f7ba4db99",
+    "title": "力率改善用コンデンサ市場、2035年までの成長見通し：再生可能エネルギーと省エネ規制が成長を後押し - ニュースと統計",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "0:41",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeDVwOTBiTF9qWnA2RlV3dVNMbVR5eDU3UU00RzREVkV2WGdXYjlmWnFCQjRtdENxRXUxRVdSbHVlZU1GaG9ZbnVPMVhRci0wemxtQ1BwcWxOTTlScWhKcHRtZDlELTNmQkE1c3NRSUtINmV4bFRDVUtub0tGVE9Yc1BtQ0VVYWE2WklwdDNNbGkxSHRRek1LTThWY1UydVFmd3o2a0dJVTFpYkI0eUJMeHJqaXZZaUNyVVkzUFZRb3Q2QmtTN2JSMVBRdldnUEw4NjM4dlYyNTloYzVySlI0?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fa1c66c90a91",
+    "title": "日本活性炭市場：COP31の脱炭素化イニシアチブ、PFAS除去、2035年までの産業サステナビリティ機会",
+    "category": "国際",
+    "accent": false,
+    "source": "ドリームニュース",
+    "time": "0:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VOEJGUFFLS0JVVWMxdExDMlU4eUwyQlBvRGEyZUVlX1N3ZXF6OWc4SHNtUEZ1a3VNZmYzalA5bHdXckhueFVERG01TDhDZmtMYnI4?oc=5",
     "image": null
   },
   {
@@ -207,96 +297,6 @@
     "source": "中国新聞デジタル",
     "time": "0:07",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSEx5Mm5QQjlmbGg0d25lRGxDQVhFamZ6aHh5VDNhN3ZjTThtbXRxRlZpVFBiZjByQ3NxeVNYc3htUXFOOXBfdGFFQkdBWjZyR01fOUlFVGp2UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-30964ecdf52a",
-    "title": "（一社）太陽光発電協会、ソーラーウィーク大賞を発表",
-    "category": "その他",
-    "accent": false,
-    "source": "Housing Tribune Online",
-    "time": "0:04",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJTmZlTS1zTTBGTFIxY2d2cmRKWmVDNG5iZENZS1lhNlROcTM3T3FmY21QaW9BaC1jM2ctQmJSR19GRHYwWHBhYWg4VEtkcFBOVHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f7116524e2d8",
-    "title": "日本充電式電池市場：日本の2030年電池製造戦略がEV・エネルギー貯蔵分野に新たなビジネス機会を創出する仕組み",
-    "category": "その他",
-    "accent": true,
-    "source": "Excite エキサイト",
-    "time": "0:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hNlNvdHp5V1hQTzZKMklqTkRsME4wbmdWMEVQc1FOU0x4MndQZUQzdGZBWmpid2ZnQlNaWFZNcUxXQl9sMm1BZ3hJVjlKM0tHMmtvYXBrYVVmR0hrQUlRRVV0VFk3Y0xVdWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a3cb70863417",
-    "title": "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援",
-    "category": "技術",
-    "accent": false,
-    "source": "マイナビニュース",
-    "time": "23:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yZkNlaWlRUjliOHN0STZkY0lBakFzTVU4bi1TZXl3QTdob3RWSThBMmxRTXltaDBVbnZTSElvMFV5bmgxWHExN19ZblNXalVCRnhCSmJ3RXRsS2xtNV9IWVBNMFV0aW1K?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ed3606e61c13",
-    "title": "九州で広がる農地の太陽光発電「収入の足しになる」 不適切利用も相次ぐ「発電が主目的、営農二の次」 (西日本新聞me)",
-    "category": "その他",
-    "accent": false,
-    "source": "Yahoo!ニュース",
-    "time": "22:04",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEFLX1A1TFV5RjZLTzRyMkU2NDY5bnE1UWdVeVlBWUVXeW1QNUdJMU5xbDlkeVR0STlaSzhTS2JKOG9UM2ZYc095d1A3UGNBWDFyZXY1a3ZGUTl2M1IxekQ2X2ZRRGRvbVJNNHpLbktjSVNrbDdveHBJb2FObzVLT1JuV1ZvUWpDU3RLVXBR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cec56d8ede74",
-    "title": "ＪＲ西日本と中国電力 中国地域で蓄電池事業",
-    "category": "自治体",
-    "accent": true,
-    "source": "環境新聞オンライン",
-    "time": "22:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRWhOVS1ZeGZuT3lJTXAxZ2RhTXUtUF9YejRjSmV6QkZRN29FNjIwdk9XTFRoa0xPSlpLbXNVVFV2WjVOZ3RkQ0pqOTMxNURtN3hnZzdqNzdJUzlMSXhuTVJpdG10cEZxNU1xZUk1Z2dZeElKVDFySlQxSQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-29ba2a300146",
-    "title": "ジョブフェスinきたひろ～脱炭素推進企業合同説明会～を開催します",
-    "category": "その他",
-    "accent": false,
-    "source": "北海道北広島市",
-    "time": "21:35",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXYVlQQ2g3bVJEVnJsXzFUQld4T2ltbXkxTjVQVHVKUmJWczJsWUxObjd4akk0ZG9hbDFSejZlVENiOVVmaUp2RExISmFGN3UxSGhGVmhvcFlPMHpvTXNhcUU2NkRWdmRvR3VEeDdZMi1YUDV6VzVNaHBCYw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9b6bf3bfe631",
-    "title": "経産省／洋上風力の技術開発推進／難地盤施工方法確立と国産浮体低コスト化",
-    "category": "その他",
-    "accent": false,
-    "source": "千葉テレビ放送株式会社",
-    "time": "21:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HamhneENHWFNXeFVvVXU0Z3NKU3luMzRMc0FURGRpY1RNUlU5UE9BR1JOODE0M1ZzdHBYVEUwcnotMVAwZ3JhRUpIR0pZelI4aTctTHZCZ3hMcnhZMjZn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7c4848c4bc51",
-    "title": "空港施設 太陽光発電設備と蓄電池を整備 | 航空 | ニュース",
-    "category": "その他",
-    "accent": true,
-    "source": "Daily Cargo電子版",
-    "time": "21:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKMTQwTzlhX2VmLVhSeUlRYWd0OW81QmlUWnVoREdTMjR3dndoQUtEeFMwWkNHb2lHdjE2aExnWU9lM3JUaEllS0w0dmNoZEgwemQ3cmtSTUtHbEtTd2QxTlVUT1EzbFNC?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ec4b7b14e63a",
-    "title": "ハンファジャパン、仙台市と太陽光発電で連携",
-    "category": "その他",
-    "accent": false,
-    "source": "化学工業日報 電子版",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zVV9YZmNzRmxEaTIxZ1dmTUh2UzljdWlaNGdkX3JscXFBcjVfajdlcXFJaWNDNzdoYTU2dkhFTXdWT0VXNW56ZEJ1Wk9MUVZLRmd3?oc=5",
     "image": null
   }
 ]
