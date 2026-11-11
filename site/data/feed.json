@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-038dfe976524",
+    "title": "世界の水素関係者が山梨に集結、社会実装の課題と解決策を議論「富士ハイドロジェン・サミット2026」を山梨県で開催",
+    "category": "技術",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "11:00",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000551.000078927.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/78927/551/78927-551-50bb05cd1d837ec79dfff4b7615f6b2a-996x665.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-26b42f904984",
+    "title": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日",
+    "category": "技術",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "10:30",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000194425.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
     "id": "auto-e805677acaae",
     "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
     "category": "国際",
@@ -10,33 +30,133 @@
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/11/cover_news009.jpg"
   },
   {
-    "id": "auto-a790a7d1832a",
-    "title": "【想定年利30.0％・運用期間 約9ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『広島県尾道市蓄電所開発ファンド』11/10(火)より募集開始",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "6:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000079.000170473.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/170473/79/170473-79-6907e094ca30415cdd3d97536c1ad7ba-648x486.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-575612ccad4b",
-    "title": "【クロミ】今すぐ購入できる！大人かわいいミニショルダーバッグ。立体刺繍が目を惹く、約80gの軽やかな使い心地。軽撥水素材＆斜め掛けもミニトートも楽しめる2WAY仕様で、お出かけや旅行、プレゼントにも！",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "6:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000210.000032942.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/32942/210/32942-210-cafa885bf7fc964bcfe24afbf9a7c891-1920x1280.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-247b0c272b9e",
-    "title": "完全Non-FIT型脱炭素電源事業「シン・バイオマス®」が令和8年度「新エネ大賞」最高位の経済産業大臣賞を受賞",
+    "id": "auto-a237f15cc183",
+    "title": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説",
     "category": "その他",
     "accent": false,
     "source": "PR TIMES",
-    "time": "0:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdjRrcUxDSTI5NmptRWN4TGdsNWlOak5SUGw5TDR3dlF0MkJFMlc0V3dCOGgxZGZYcWZ5X1RCLVZDYVRDdFg4dEMxTjJjWjJRbG9QSFZ3eExLM05wajF5WjJBbEN1S2dYZ0E?oc=5",
+    "time": "3:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZHAwX2NzU1BLaW9CRVljMzRyTUhwYWVmOS1NTWtUc3Z2dHBFUVQyR3VDNHI0Skkzc3ZpX2tXeHB5Q2piSE5UVTBQOXlFQTRWZXBSejRXQlNlVEZCeHphOHNxZWRQMmFJbnc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9b6f522cd570",
+    "title": "人口減少に悩む静岡市が「脱炭素」に活路…地元企業と挑む、まちの魅力を高める「新戦略」",
+    "category": "その他",
+    "accent": true,
+    "source": "ニューズウィーク日本版",
+    "time": "3:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15alg4SnpicV96TDYyWlpPN1BPa3pPRE9oN2RyQ2d5Q3JuTHpkUmptMDBHOXFuZWN6VGVnQTZLcU9zVjA0ekdYT2Q4aUNOamZaaDFncEs0S29TQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-af108dfde082",
+    "title": "「教育プログラムを共同開発」…韓国東西発電（KOREA EAST-WEST POWER）、エネルギー公団と洋上風力の専門人材育成で連携",
+    "category": "国際",
+    "accent": false,
+    "source": "매일경제",
+    "time": "2:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JbWVVaU9zOUE5Q2lQUDJOd1ZWTmdRSjI4NzNualN4M2l5aTE3NEg1bFhBTjJ6NHVXYjN4REFDc1ZxaDFBcFBLWE1pY0JDTDBBUGd3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6f1a4ca7f51c",
+    "title": "岐阜県美濃加茂市、大垣共立銀行、バイウィルが「環境価値の活用によるゼロカーボンシティの実現に向けた連携協定」を締結",
+    "category": "自治体",
+    "accent": false,
+    "source": "時事ドットコム",
+    "time": "2:46",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS0tELXJoUGh0QUUtYXZNQ1JVNUs5VTFRSVAxRUVQM0NHQjhpMHJUWWF3TnNZZS1fekZveEtCVlktSF8zYzl3dEZyWUpNcm8yX3hWdm5qaWo5ZEZQY0hma0VFYkZUSEVidHpn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f127e7340793",
+    "title": "日本製鉄 GXスチール「NSCarbolex Neutral」を使用したオフィス家具が鹿嶋市・姫路市に初採用",
+    "category": "企業",
+    "accent": true,
+    "source": "Digital PR Platform",
+    "time": "2:16",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zUmRMeDZ6QVJOWEExNlBXM00yYjBwR1ZwVXdFT2J6dFNJbGt5MmFaWTBjT0RwNWx0UWNnZDRiMHA0dDg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ca52f9452794",
+    "title": "GBP株式会社、令和8年度「新エネ大賞」新エネルギー財団会長賞を受賞 ～旧型番パネル互換品による既設太陽光発電所の価値再生・向上リパワリングモデルが評価",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "2:15",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VS1lXWjAwVXVPbUVFd2RMZHlfamcwZkVmYTZpN013S1pHUy1WNFF4Y3VCX1Q4dzNFQ2hXelk3V2g1b2NPdHYyNHhZRDQxN0FPN2psdGQ3ckFwLVdfc2RsYXlDUU0yb3BmTks1THNnQ0puN0gwQmc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1f024817efb1",
+    "title": "2026浮体式洋上風力発電プラットフォーム（FOWP）市場規模マップ：シェア・動向・フレームワーク",
+    "category": "その他",
+    "accent": false,
+    "source": "アットプレス",
+    "time": "2:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EQjZDRGVfdTlYYkY5WWpxZ3F3SExyc1JkS2czeHdtQVBhWHVVYUVaQVNRVFFnNXh4eENKNGpNc1QySm9YMVdKQmw0TmlKVEE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fc8f15f2a8d4",
+    "title": "川崎市内の太陽光発電の価値を地域で循環。きらぼしグループによる「太陽光買取プラン」利用者向けUI銀行住宅ローン「川崎市脱炭素推進応援プラン」の提供開始について",
+    "category": "自治体",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "2:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwQ1FyQU0xOTBMTEdMN3hVaEU0aHFiZTlIM25sSXc0eUhQMGVtZWVaczVvS3E3S185WTkybHZxa1RSd25oTFZvREJKMzYxWDNlSFY3aUhBV2c1elBaTVVFMmtURm5oVnF6SUE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7a8c01b17524",
+    "title": "再生可能エネルギーは足元にあり フィンランドで普及の「地中熱」利用 日本も導入じわり 橋爪紳也の大阪・関西都市考",
+    "category": "自治体",
+    "accent": false,
+    "source": "産経ニュース",
+    "time": "2:00",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PY04zSGQxX3pZbmFZX1NtaXVoNWltTFFtYjlMOUpYQWlqM3dmY2Q5OS1iXzNZUTJvMWNxTGR6bWE4WkxSRE9IS2RXNWlNTlpMWXNXMG1sUWM0OGJrZTE5VlljRWxETXJ5NjRFR0xVS3U0UEYtbHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1cd2c4889819",
+    "title": "ベトナム中部における太陽光発電の価格は、1kWhあたり1,700ベトナムドン以上と最も高い。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "1:41",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmlhOHJ3Vk5BY0tldjlwRjFfRzFMdWVrVGxZT21BTUVLd3pmelVUdlJPNThJX0cxOXZjUDZNaFpVdjNoNEQwcE9mOFNkaVo3MmhnWmlGUUU2eFhJUERwMG5rcGZkN3J0OUltWE82TEdsUjJsLVVEQjF0eDlrdmtyTVZFQ3lvRjNSSGduWWxkNA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e0478f225c18",
+    "title": "軌道上で太陽光発電を試す:CubeSat実証が形づくる宇宙用太陽電池市場、2030年までに24.3億ドルの見通し",
+    "category": "その他",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "1:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zcVFtQkxFV2hlc0s5aGVnSEdvXzJOUGNoZzNZMXNMNFVuWWM1aXhLbElBUTNLSmdPVmRGNS1XbXpFM2loYkljMlphaGtKTW1CT2NDTnJfdlV4YU91LVdMSzM4SjBvcjAza2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c2101378be2f",
+    "title": "完全Non-FIT型脱炭素電源事業「シン・バイオマス(R)」が令和8年度「新エネ大賞」最高位の経済産業大臣賞を受賞（PR TIMES）",
+    "category": "その他",
+    "accent": false,
+    "source": "毎日新聞",
+    "time": "1:23",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1taGdSWnJnVnJGdFBlQkMwS3BBOTlDanpuRTFaT01DaUNadkFpXzBFT05mV0N5SmR6cHRGbzl3TnFRN09WU2NxSzZoRFJxZ2F3NWZmNW1jUVJ5N1BoTHhtRy1BMG1WcVlU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-355b751d5b97",
+    "title": "イトーキとNTTドコモビジネス、農業由来J-クレジットの普及と企業による活用拡大に向けた協業を開始",
+    "category": "その他",
+    "accent": false,
+    "source": "ZDNET Japan",
+    "time": "1:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95WTZsYVlSNS0zQUx5eTBvNUFjeGFndVJ0QjFjQVVVU1FvYWZUVEwyS3FUVXJxRFNJTHJwdm50OWZXTWFlQ21BZW1XWFZzUkxTSDY0?oc=5",
     "image": null
   },
   {
@@ -44,9 +164,39 @@
     "title": "日本活性炭市場：COP31の脱炭素化イニシアチブ、PFAS除去、2035年までの産業サステナビリティ機会",
     "category": "国際",
     "accent": true,
-    "source": "ドリームニュース",
+    "source": "ニコニコニュース",
+    "time": "1:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mRDdsZXUxZDZnMGJKNUhOT2xBcVExamJKUFJYTTdtY2tOTjE4ZjByaGtveEYxYkdJeG5uM2hCNUxadnBySFE5dEczSkJEWWh6WDBSUVQ0QjdKajVjbU1Wd1pLMWI5S3Uw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ecf350abd106",
+    "title": "今治市の伯方最終処分場跡大規模太陽光発電事業プロポ 伯方島地域エネルギーコンソーシアムを最優秀提案者に",
+    "category": "自治体",
+    "accent": false,
+    "source": "建通新聞",
+    "time": "0:56",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTRVU1hXM2hITk1wRU9CNlJXeEhPbUpYVGV0S2RjSGdxakM5aGFLMTRiNUlmUGgydWRxLXc0NzVxZThibjJYZ1JXQWFHdGJIVlBxaC1GX2tYbGxkdTlEZGVIcHMwdVRTWmNPOF9WNDJTaGpCQzZCUWZRMnZfR20xeQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4e8c3916fdc0",
+    "title": "脱炭素実現へ連携 美濃加茂市、美濃加茂商議所、岐阜信金と協定：ニュース",
+    "category": "その他",
+    "accent": false,
+    "source": "中日BIZナビ",
+    "time": "0:49",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Fa1h1WVNaT2ZMQnQzb2FSR1RZZDNFM3FYWEYtUWw5UXk5V1pOVDJVM0xRVTdVcW1QbldhWmc2SERPSTRhQmJZQl9LOHRkbE1YZHpUOGRheWdWbnFZRU1Z?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-df39eb1cc4dc",
+    "title": "水素・電気ドローンの世界市場（2026年～2032年）、市場規模（マルチローター型ドローン、固定翼型ドローン、複合翼型ドローン）・分析レポートを発表",
+    "category": "技術",
+    "accent": true,
+    "source": "アットプレス",
     "time": "0:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VOEJGUFFLS0JVVWMxdExDMlU4eUwyQlBvRGEyZUVlX1N3ZXF6OWc4SHNtUEZ1a3VNZmYzalA5bHdXckhueFVERG01TDhDZmtMYnI4?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lbkt0VUd2TVZGdHVzMGRBNWxOMWxFbGtiTU1VM2Rva3hZcmg3WFEzOFc0Nk1jeGs1Q3k2Z0xQUDlDeGR4WUo0QVFrRG9YRnM?oc=5",
     "image": null
   },
   {
@@ -74,9 +224,9 @@
     "title": "日本充電式電池市場：日本の2030年電池製造戦略がEV・エネルギー貯蔵分野に新たなビジネス機会を創出する仕組み",
     "category": "その他",
     "accent": true,
-    "source": "ドリームニュース",
+    "source": "Excite エキサイト",
     "time": "0:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBWFVYSFBUWC1HQ3o4OG5UOVMwTGNFTEhVVllpY2xiR3JXNkhTdkt4OFZuX1dzNGJsUFhuVFhEaUwwYW12Q0ZveWpJTVhOcTI1ZWdj?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hNlNvdHp5V1hQTzZKMklqTkRsME4wbmdWMEVQc1FOU0x4MndQZUQzdGZBWmpid2ZnQlNaWFZNcUxXQl9sMm1BZ3hJVjlKM0tHMmtvYXBrYVVmR0hrQUlRRVV0VFk3Y0xVdWc?oc=5",
     "image": null
   },
   {
@@ -90,23 +240,23 @@
     "image": null
   },
   {
-    "id": "auto-cec56d8ede74",
-    "title": "ＪＲ西日本と中国電力 中国地域で蓄電池事業",
-    "category": "自治体",
+    "id": "auto-ed3606e61c13",
+    "title": "九州で広がる農地の太陽光発電「収入の足しになる」 不適切利用も相次ぐ「発電が主目的、営農二の次」 (西日本新聞me)",
+    "category": "その他",
     "accent": false,
-    "source": "環境新聞オンライン",
-    "time": "22:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRWhOVS1ZeGZuT3lJTXAxZ2RhTXUtUF9YejRjSmV6QkZRN29FNjIwdk9XTFRoa0xPSlpLbXNVVFV2WjVOZ3RkQ0pqOTMxNURtN3hnZzdqNzdJUzlMSXhuTVJpdG10cEZxNU1xZUk1Z2dZeElKVDFySlQxSQ?oc=5",
+    "source": "Yahoo!ニュース",
+    "time": "22:04",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEFLX1A1TFV5RjZLTzRyMkU2NDY5bnE1UWdVeVlBWUVXeW1QNUdJMU5xbDlkeVR0STlaSzhTS2JKOG9UM2ZYc095d1A3UGNBWDFyZXY1a3ZGUTl2M1IxekQ2X2ZRRGRvbVJNNHpLbktjSVNrbDdveHBJb2FObzVLT1JuV1ZvUWpDU3RLVXBR?oc=5",
     "image": null
   },
   {
-    "id": "auto-ed3606e61c13",
-    "title": "九州で広がる農地の太陽光発電「収入の足しになる」 不適切利用も相次ぐ「発電が主目的、営農二の次」（西日本新聞me）",
-    "category": "その他",
+    "id": "auto-cec56d8ede74",
+    "title": "ＪＲ西日本と中国電力 中国地域で蓄電池事業",
+    "category": "自治体",
     "accent": true,
-    "source": "Yahoo!ニュース",
-    "time": "21:36",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tRjduckkzdGd0dGdQY2hTTVlZMmVBUFE5MWlMY0RIR1IxNXA2SEp1b3YzS2NoSWlmWVF0OUpUSGp4QzE5TFN2UWJkTUFFWjN4alVWcG5HUURoZ3dvN3BuZHdRa2RUOVFjQzYyM2RiYWptOGREMjJ0X0p2MGVQNlE?oc=5",
+    "source": "環境新聞オンライン",
+    "time": "22:00",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRWhOVS1ZeGZuT3lJTXAxZ2RhTXUtUF9YejRjSmV6QkZRN29FNjIwdk9XTFRoa0xPSlpLbXNVVFV2WjVOZ3RkQ0pqOTMxNURtN3hnZzdqNzdJUzlMSXhuTVJpdG10cEZxNU1xZUk1Z2dZeElKVDFySlQxSQ?oc=5",
     "image": null
   },
   {
@@ -147,156 +297,6 @@
     "source": "化学工業日報 電子版",
     "time": "20:00",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zVV9YZmNzRmxEaTIxZ1dmTUh2UzljdWlaNGdkX3JscXFBcjVfajdlcXFJaWNDNzdoYTU2dkhFTXdWT0VXNW56ZEJ1Wk9MUVZLRmd3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-10994678f610",
-    "title": "山梨：水素タクシー地域の足に 甲府の２社 脱炭素社会へ導入 ：地域ニュース",
-    "category": "技術",
-    "accent": false,
-    "source": "読売新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aM1g4Rk9SbHI2bUl4NGc5X3Zud3B1Rm41UEczMG1hRk5EdU8telh5T2Q2ZkpVek9sTjQwbk5ncG54Vllib2Z5cHJJVGJCWGtzb0xKbVVCbjJwakFkeHZUVnJnSHBCeEJzcVFNVmVYN1ZKdGUyWlE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-48b30bcc9c61",
-    "title": "モノづくり現場 生産革新・脱炭素社会への挑戦（7）柏木美術鋳物研究所 小田原鋳物の溶解電化",
-    "category": "その他",
-    "accent": true,
-    "source": "日刊工業新聞",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUkN1YlBia0RRTXBFcG50VVNQSUNlbDJmNU1SMzI5d1kzY1Z4ME1KM0ZtTXJBb0lvN1lJUndpRHo1VF9tR1ZVWFlrcUQ0enhkQkY4alF6OVk?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8d555186447c",
-    "title": "脱炭素経営へ講演や事例発表 １６日、岡山でフォーラム",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "19:42",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ING5zZjNLcGNib3RsTzRmZzdiaHRjU3Q4RFV2M0xtWkdXdHFrUUtrWDlSU3pyczF2dVlTOGVJM0hOUkFydWhDc3JNVExJT3JoTHNzbjJkNGV2elF1cTJpb2R4VTA4V1FkTkhfMUh0ZEtOVzR4?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f98bb45f3b4d",
-    "title": "デューク・エナジー・フロリダ、2028年までに4つの太陽光発電施設と300メガワットを計画 - ニュースと統計",
-    "category": "その他",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "19:40",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXlYVVhHbGh3Y0VrVEp2dVJjSXZsQWRVZUJyUll2ZmEyT2hTR0NmeHBlQkgyTndIa2g5VzJDUDFCd3VQU2ZKWUd0WV94X1NPMW10amVQMV9BY1hYd1loWDVmZWpHMUstZjd5eTZ0YndacDdmRzFjRGE2VjNXbGJvdlktbWVMdzMtYkk5RmdzLVFuakJ3YU9uM3B0Q1VVNU02QmFZeEx3elNYT25KWTFIc1Y3YjJxdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-25eaf48a1546",
-    "title": "系統用蓄電池による需給調整市場価格は「大幅下落する」と電力小売りベンチャー代表が予想、蓄電池バブル終焉による“国益損失リスク”に警鐘も",
-    "category": "その他",
-    "accent": true,
-    "source": "ダイヤモンド・オンライン",
-    "time": "19:35",
-    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43VWtmZkRoYi1Ic3l6dFBzQnNVNjVaYUZFN283U052Sl81b0FFNG1LUmY1Q1p1T3JhYjB2blVLVmtnN051UEtwUC1GeVg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cfa9556fa31c",
-    "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "19:30",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/118/181124-118-3da87cc8ea26af9ebb1be1bc0a302d0d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-e69dfa2900fb",
-    "title": "【脱炭素化支援】株式会社テクノス 新真壁工場へ太陽光オンサイトPPAによる再エネ供給開始",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "19:16",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xNUIzcDJJSGI5dG5FT3V4LXBnTEU3Rk5XbWhocF9CZmFaRFBubG9lZU51Z3hJeGVEWGtqclgtR1oxN2R6ZjhqSTZ4cXR4emtRRWJFRk10TU5Ed0NYeTF5akxON1dmYnY2Q2NFRE9ZR2JwTnV5a24xRWpR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-363674fe8e02",
-    "title": "ＣＯ２変換設備 富士 工場内新設 白石工業 脱炭素へ実証",
-    "category": "企業",
-    "accent": true,
-    "source": "静岡新聞DIGITAL",
-    "time": "19:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NVC1JR0ZHdTlQalhTUkxOYThmQ2xsYXg3RE5UM0JjS0t0RURtTDltWEZFdDh6cXVyajJleFExclkzcUk1ODFXeFZzQWZRQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-205c63020687",
-    "title": "グリーンエナジー＆カンパニー、「サステナブル経営WEEK［秋］2026 ― 脱炭素経営EXPO」に出展",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "18:36",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0xNLTlvOFpSVnI2WDk4Q2xUbmpoU2dpcTUyUjhSWWJNUFhKcS1ObE1aYmF0cUZ1X3pkOVp1OWhqVllsRVBaQzFGcTBHVzh4LUhfNDUzT0NKek9kbzlLMnJHeVdpYVFWdmhuXzRFX043VlB0YXdNLVd6Y2ozWmlXNTZhRnlod3luemp5a2Zn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d20ff2717726",
-    "title": "2026年における太陽光発電所の発電料金体系",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "18:09",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG04ODc3QXRBMk9nemo4eklhZVRSN0t0dTJMZVlMaEdpMFNrRnBkeVUzS3lxczVHU3luVUk3cXZYTExhN0s2MVU0MGZWSXRzd0lvRWJlWlIyanVQejNqZy01eUM5ZUNJcGZrOUl3LVVjSE1Ka2ktWnhKYkRXWEJHWTFiNWYwaVVfRnVNNUF0UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-948b34146f38",
-    "title": "バッテリーバンク市場2035年予測：系統信頼性と再生可能エネルギー統合が拡大を牽引",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "17:31",
-    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHFqZWs1Unh1ZEpIQnJWYlgzV3NnMHRuZU50S3JUcjByYUZMSGR5dkRuTVRjYUFiSEN0ZTBpZVo1ajd5MHFoTGlzV25udWZSRnp5dS0wTGwzd0RCY1drWC0zeGdGNVNoOHpRSUNXWDZtNG5KTzdtN1dXYUZSaV9Cbi1xY3Qtb2hyWTdFc1VQZ0dNNzRZUlRfQ3NlS0kwclB4eWN6RFpCcWFiMjE4TmdTYVljZUQyZW5uc08tZ1BPY0NpREtKNUVmUg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-601806bbdd2c",
-    "title": "GrittとMasTec、太陽光発電所の建設にフィジカルAIを導入",
-    "category": "その他",
-    "accent": false,
-    "source": "Unite.AI",
-    "time": "17:24",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGdXczh2NUhwbklvbU9XRl9ueFpmYlFPdkc5WklTOUVGNHE1ZWJfRXEtdzU1S210ZmRRc01SSTY3VWJSaVBtaFp4b1R2ZkFPNDVRSXdBcTgxUkpSSVFCRkluVmIybW4tYUdBRzE4ZVNDRWZ3TTFKNXlSSGJGNFpjdUFfX2ZzSDA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9f08c32607bb",
-    "title": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設「NC海南市木津蓄電所」受電開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "17:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XRVY0bDI5bS1GSUpnTVllZVItWWlxTDIwamc4cGxvakdPcTE0TlJDWUtJakRZZXlFSFBlOExmME9nOURXbHA2ckpvQ0J3NnBtY05malBHbTFfcGNDSDJDSUEzc0g0aGlS?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6cb9f65c049a",
-    "title": "HELLENiQ ENERGYは、再生可能エネルギーおよび蓄電プロジェクトのため、2030年までにルーマニアへ10億ユーロ超を投資すると発表",
-    "category": "その他",
-    "accent": true,
-    "source": "Informat.ro",
-    "time": "16:36",
-    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREhjVElvMFBuNUZRWGJLNE1ZOGJ6QkdxREppSnJKSnlqd3hYSF9XczhNbEJzdG9VUkR4b3JpdUlJOGljZU1Sa002cDMyWkFqdlFZb3pJQm85OERlV0t1U3NZVlBrSG5MZWFCNkY2bXhEdXdmX1pzTmN2cS1qZVYxM1N0MzI0M21zNmZFNDBlaXRpck5BVFd4LV9UN3c3OHlsYjVEeldrZUVaZ0Zt?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-91c8790dfd88",
-    "title": "商工省、26年の太陽光発電価格枠組みを承認",
-    "category": "国際",
-    "accent": false,
-    "source": "NNAアジア",
-    "time": "15:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9idjNQY1R5bUpZRzF6cTRHRzhFTWRaNG9nM3NCbWZBV1BlVEdOc3JPUE5pal93dGlVVE95bkNsMmMyR2NZVnc?oc=5",
     "image": null
   }
 ]
