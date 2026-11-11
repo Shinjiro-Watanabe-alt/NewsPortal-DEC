@@ -1,23 +1,113 @@
 [
   {
-    "id": "auto-69b032a4d12e",
-    "title": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催",
+    "id": "auto-6f29f20502a9",
+    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "18:00",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000119.000181124.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/119/181124-119-83cf890c3baad730bbf4478dadc45d4f-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "21:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-a9ba1062a76e",
+    "title": "「ハイウェイテクノフェア2026」で安全性と施工性に優れた道路用LED低位置照明やランプ交換だけでLED化できるLEDランプユニットを展示",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "21:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000151.000097099.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/97099/151/97099-151-c683fec46c034c11a829773bfa9435b9-1141x760.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-df7614ba1d01",
+    "title": "住宅用太陽光・蓄電池の販売・施工を行う株式会社トラーチの大阪ガスマーケティングによる完全子会社化について",
+    "category": "暮らし",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "17:15",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000280.000139670.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/139670/280/139670-280-f91c91f77d43ae46b5649e742252446f-1200x675.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-794a3ae16e07",
+    "title": "世界の全固体電池用電解質市場、2034年に371億米ドルへ急拡大予測｜年平均成長率30.0％、EV需要と次世代電池技術の進化が成長を牽引",
+    "category": "国際",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "16:41",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000189317.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/189317/23/189317-23-52468e5bd60ca1bb09a7c53bc2521373-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-71096ec4cc0a",
+    "title": "全国の洋上風力発電の関係自治体が情報共有 ノルウェーの先進事例から地域共生など学ぶ 秋田・男鹿市",
+    "category": "自治体",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "11:43",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdTRiampndzBwX2lwYlo2dE45YTlGcFlUTjI0TkJFWVQyUVBHa3lORDZjbDhWNmQ3VGt6VUJUcXJ4dmNCVWVHa3ZBOVU3cEstSExEcEVybVVUYXRtVW1MRGV1bDRHVjZJcDQ0ZEhB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c04a10cc6f28",
+    "title": "物流の脱炭素から強靱化へ、NXが新たな視点",
+    "category": "その他",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "11:21",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vN0pFYk45VlFOTS1wc3E2QmpCSk5TQS1PYXBWbWdQdjQtcnI4Wm5aa29jYm1EcWpuN09OWnJ2MUJtdVNpWW5xWlR3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-153158ebbef4",
+    "title": "決算:ENEOS、再エネで1000億円減損 「高値づかみ」に脱炭素機運低下も",
+    "category": "企業",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "11:16",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Qb0FFeGxjVkJ1OGNTdXFaWHE2MlVrU2RobUdtd2EzV3JLdE1XdGJLNng0RlQySEVZVUFuNFFmaUhDRWhqbklDdFdkZXcwZUtvZ09aakVWUUlnSjUyY21sS0lfSzUtOGRzR3pZOQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7d5605b657e8",
+    "title": "SMAS、静岡市でEV試乗会＝脱炭素化へ企業や自治体の理解促進(時事通信)",
+    "category": "自治体",
+    "accent": true,
+    "source": "Yahoo!ファイナンス",
+    "time": "10:34",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDh6VGVKencyX0cxdjVreW1FdE5fQUQwLU9MX1NQODd5aFh4Unh4dlVmVHZrSV9DZmd3bTJlc2pWVm9faWVSSFZhWXdWdmVCR2RmUmVVRUwwT0p6TUJjb01Wdy1OLUpSaXI4NGwzdGpESVpmMHJCSlhYbDZOS2ZkTFpiYkItWVk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-eec7239c091c",
+    "title": "アドテック、中央区保健所に水素燃料電池導入支援",
+    "category": "技術",
+    "accent": false,
+    "source": "LOGISTICS TODAY",
+    "time": "9:24",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LWThya2VpMWpBN0NqNk9fdmUzNFJqNlhrc1RQVTNXeW12ZHJsejQyU3A4N2swS1lVWEMyZWc1QjlxTkxzZzI1WHZR?oc=5",
+    "image": null
   },
   {
     "id": "auto-f42a44332d49",
     "title": "電気法を改正する：屋上太陽光発電に関する手続き上のボトルネックを解消する。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "9:13",
     "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmU1QlNfNFpZSzlybm9VY2N3bHA4OUFSV2J6SzhIV183aTdIOG9VazJMTjlMOUdJSTY2dDlta0RiMjB4X3o3REVUekExXzZCNldibERVVDVGNnQyWFpTbWZacVpRRG1EeU42eC1CbE5LVUlUR2ExYjBad3NXU0xoLVo5VWN4aUVhMUNlQmJMX3dPX3VnQkE?oc=5",
     "image": null
+  },
+  {
+    "id": "auto-69b032a4d12e",
+    "title": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催",
+    "category": "その他",
+    "accent": true,
+    "source": "Infoseek",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9icHJleVZPaE0ybkZwcWR0dHBvRjVxNS1uaG5PRDZNNlFsQ1E1a0VQT19yczcxT0hGUUN6SnowU3NsYlBodC1mZl9wX3ZObGlsbWRRd1RMWS1ZY3hTd1N6ZVpBR1ctRkhROTAzeGtSUTlFUQ?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/181124/119/181124-119-83cf890c3baad730bbf4478dadc45d4f-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-2d1b79d6262a",
@@ -84,9 +174,9 @@
     "title": "水素プロセス用バルブの世界市場（2026年～2032年）、市場規模（単段PSA、多段PSA）・分析レポートを発表",
     "category": "技術",
     "accent": false,
-    "source": "Newscast.jp",
+    "source": "アットプレス",
     "time": "7:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITy1Pc2FITk1vbGZac2NSTERQUzRpNWEyMDlfbklybG5pZVBMS0tTS2tidGp6QzVxdkJzelZYbGtmZjVsVnFkWlRsMm1iTHM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCRmVWbU14clhhaW9tcTYyczNIdi13SkQ1bmtwZk9BdGpuanQwV0N3TERWdGdQNmllMVMxOEFIcXBJYjQ1eVdmMVNDUkVkZw?oc=5",
     "image": null
   },
   {
@@ -120,23 +210,23 @@
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/11/cover_news009.jpg"
   },
   {
-    "id": "auto-877b3dbaa90a",
-    "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "6:45",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdXprOHhxSXBzTE1EcDU2bWRobldOb2ZMTUU0ZlRwUGpIbElNMl9FbFB3UDdncUlZd2U1TjdTQmNsMGlJRUlUZVNpSkxlcDBoTUZwSERCSW9odEFMdjIwa0ZkOVFnZkdPdUgzRWFQR2ZRcWJVNlE?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-ff436646b57f",
     "title": "- 韓日エネルギーパートナーシップの未来 - カーボンニュートラルとエネルギーサプライチェーンの強靭化に向けた韓日官民協力の強化策について議論",
     "category": "その他",
-    "accent": true,
-    "source": "Infoseek",
+    "accent": false,
+    "source": "PR TIMES",
     "time": "6:40",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSzQzRW9xWGdSWGljX1VnVGFvVVlCODlIalg4YVdkS1dwMnQtNV9GVnk4c05VV1pMR0pnZXZhNEZlcXdxWG9ydUN2VTdSbFRCeXYyV09ZU2R1U0QtQ1MtLVpsMEcwMzRwblltLTh5TUY4dw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWGJEU1RGRmNtSHE3OHpDcGc4TjZYWjlpLXVFZUE0N19HRW55b0FMSHZ5SWdSSTdSSU43c0JvRFJsX1NFWTRVcGd1THFmM0hVRTEwUjdjbmozM0FDY0pkWGREUUVCTFZnU2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f617400eda99",
+    "title": "韓日エネルギーパートナーシップの未来 - カーボンニュートラルとエネルギーサプライチェーンの強靭化に向けた韓日官民協力の強化策について議論 (2026年11月11日掲載)",
+    "category": "その他",
+    "accent": true,
+    "source": "ライブドアニュース",
+    "time": "6:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aUE5VeWhoWHQ1T1NMN2N6OTEyeERIc0wzRWR0M1NUMkhqZHV0Mm5TdVpJNFRicEtjTlVwOElvV0VDNG94NUxSdU5JV0NQVTh2YkdUbTZ3X1lLeXp6R1I5Yk1B?oc=5",
     "image": null
   },
   {
@@ -145,7 +235,7 @@
     "category": "その他",
     "accent": false,
     "source": "環境ビジネスオンライン",
-    "time": "5:51",
+    "time": "6:05",
     "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTmNQMWMwYU1pRVdLanFBSEVQc1FVOVF0VmVZOGNqcWhGQ01BZnVSVVV0ajByUU1pcVN0amc0TXB6dnlGcVVKNllJY29lUjFZdXJ3TWlpUURqaWZoM19jYXJpTEFnX0EzZXhoUkQwRVdFOVVJSlByQXNfelc?oc=5",
     "image": null
   },
@@ -190,113 +280,23 @@
     "image": null
   },
   {
-    "id": "auto-341b87093aa5",
-    "title": "富士山静岡空港の太陽光発電設備導入事業が令和８年度新エネ大賞「審査委員長特別賞」を受賞",
+    "id": "auto-877b3dbaa90a",
+    "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
     "category": "その他",
     "accent": true,
     "source": "PR TIMES",
     "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43c3c4bUV5OTdyNjBfZWFqQm9NazZvWHdDNzZRSEMwUDBhLTBlRkMxN2ZZVi1mOFRFZmtzQTVXbURNVmFjZThzeGtKdEtLeGZFM0w3OVFYcDZ6Zko0Q2JVSVV3MGZ1dHAzN2c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-341b87093aa5",
+    "title": "富士山静岡空港の太陽光発電設備導入事業が令和８年度新エネ大賞「審査委員長特別賞」を受賞",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "5:00",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRG8yVHZEcjNCb25zUEhnWjF3ZVNOVUNiV01Ieml5N1JIdVhsRWoxRWhUUWxjUmcycENkYlE1UC0zY1NBMDFuLXJlNE1qZGFCZi1aZzRNc3ZWSEZQV0RjcXprUllLMnhyLXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d1777c2b36a4",
-    "title": "プレスリリース：タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説（PR TIMES）",
-    "category": "その他",
-    "accent": false,
-    "source": "毎日新聞",
-    "time": "4:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oRzhfYmk3cWZnWkJReFY0WnU5dzlGR2hqQ1dUdXU4QjI0em12MXZJMVNKWG91VVRRRWtLT3ZxODJWdnpBenNUc05ZN0F2THJlRUtKR1laRVRVSm5uMG1DbldkVDZMYU1t?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-355b751d5b97",
-    "title": "イトーキとNTTドコモビジネス、農業由来J-クレジットの普及と企業による活用拡大に向けた協業を開始",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "4:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZVR0S0l6Vktqd2pkcVcwUjJjVGE0d2w1TWl3SllzZFhQVXdWaHR3d19sdDJaczEwT1pwZ2UySG04eU5SY3QxZHlTY3Q3bHlZaVRaeVM1SW5yWnREYmh5cS1xUTlRYWs3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a27182a6e463",
-    "title": "コニカミノルタ、リコーリースと太陽光発電由来の再生可能エネルギーの環境価値を対象としたバーチャルPPA契約を締結",
-    "category": "その他",
-    "accent": true,
-    "source": "日本経済新聞",
-    "time": "3:25",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4c0hQaUlWd2JxM3FDZ1hnbUxLcFZWTmt5T3VqSW04QjVnM2lYNjBKaUw4cmRKRGJYa1owdVlBMzNTdnFVbkhZd29zVWtBdWtocjRYdzdLVkpFUjg0UGd2ME5NSjFoRVJOcWcxTw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-038dfe976524",
-    "title": "世界の水素関係者が山梨に集結、社会実装の課題と解決策を議論「富士ハイドロジェン・サミット2026」を山梨県で開催",
-    "category": "技術",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "3:15",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RVJoZnJoT3dDM2doUE50SVJHUmoyeXVrTWptemtoV2NGQ2Yyc2tCR01ReEl2QkFicmhaX2tSRmVHWjdBeFh4ZUNsOVlUeld6QTFoZExDREZhRnNXaThyNGVSTTBtNzdYWlNVbVJzTmtSUQ?oc=5",
-    "image": "https://prcdn.freetls.fastly.net/release_image/78927/551/78927-551-50bb05cd1d837ec79dfff4b7615f6b2a-996x665.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-9b6f522cd570",
-    "title": "人口減少に悩む静岡市が「脱炭素」に活路…地元企業と挑む、まちの魅力を高める「新戦略」",
-    "category": "その他",
-    "accent": false,
-    "source": "ニューズウィーク日本版",
-    "time": "3:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15alg4SnpicV96TDYyWlpPN1BPa3pPRE9oN2RyQ2d5Q3JuTHpkUmptMDBHOXFuZWN6VGVnQTZLcU9zVjA0ekdYT2Q4aUNOamZaaDFncEs0S29TQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af108dfde082",
-    "title": "「教育プログラムを共同開発」…韓国東西発電（KOREA EAST-WEST POWER）、エネルギー公団と洋上風力の専門人材育成で連携",
-    "category": "国際",
-    "accent": true,
-    "source": "매일경제",
-    "time": "2:52",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JbWVVaU9zOUE5Q2lQUDJOd1ZWTmdRSjI4NzNualN4M2l5aTE3NEg1bFhBTjJ6NHVXYjN4REFDc1ZxaDFBcFBLWE1pY0JDTDBBUGd3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f127e7340793",
-    "title": "日本製鉄 GXスチール「NSCarbolex Neutral」を使用したオフィス家具が鹿嶋市・姫路市に初採用",
-    "category": "企業",
-    "accent": false,
-    "source": "Digital PR Platform",
-    "time": "2:21",
-    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zUmRMeDZ6QVJOWEExNlBXM00yYjBwR1ZwVXdFT2J6dFNJbGt5MmFaWTBjT0RwNWx0UWNnZDRiMHA0dDg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ca52f9452794",
-    "title": "GBP株式会社、令和8年度「新エネ大賞」新エネルギー財団会長賞を受賞 ～旧型番パネル互換品による既設太陽光発電所の価値再生・向上リパワリングモデルが評価",
-    "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "2:15",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VS1lXWjAwVXVPbUVFd2RMZHlfamcwZkVmYTZpN013S1pHUy1WNFF4Y3VCX1Q4dzNFQ2hXelk3V2g1b2NPdHYyNHhZRDQxN0FPN2psdGQ3ckFwLVdfc2RsYXlDUU0yb3BmTks1THNnQ0puN0gwQmc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5f49ca42f098",
-    "title": "太陽光第1世代企業のシンソンENGが、世界最大の太陽光国際行事で国産高効率太陽光モジュールの技術競争力を知らせ、グローバル市場の拡大に乗り出す。シンソンENGは15日から20日まで大田コンベンションセ..",
-    "category": "国際",
-    "accent": true,
-    "source": "매일경제",
-    "time": "2:07",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VelZIVDhBcl9zbGg0U09fRHZOV1lCNUkyV1ZPLWJzS3Nhd3c1Y0ZtYW0tWXFzOVVXbjJaZXdBV2JQNm1WX2V6YTVkSUlNamxVNHc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-36faf40b42a4",
-    "title": "秋本真利元議員に懲役６年求刑 洋上風力発電汚職で検察側",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "2:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9udGw5WjVRNG8wMHk0YklTQUNpSFNKVndTYW5abFlCMWxYTWdfSi1sazgwbXJPQnRXWDBIUGxJRkNaUEJjbjJSaGdmNzlZQllreFdTU0FPd1U?oc=5",
     "image": null
   }
 ]
