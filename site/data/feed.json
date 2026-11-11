@@ -1,9 +1,19 @@
 [
   {
+    "id": "auto-e805677acaae",
+    "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
+    "category": "国際",
+    "accent": false,
+    "source": "ITmedia スマートジャパン",
+    "time": "7:00",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/11/news009.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/11/cover_news009.jpg"
+  },
+  {
     "id": "auto-a790a7d1832a",
     "title": "【想定年利30.0％・運用期間 約9ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『広島県尾道市蓄電所開発ファンド』11/10(火)より募集開始",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "6:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000079.000170473.html",
@@ -13,40 +23,120 @@
     "id": "auto-575612ccad4b",
     "title": "【クロミ】今すぐ購入できる！大人かわいいミニショルダーバッグ。立体刺繍が目を惹く、約80gの軽やかな使い心地。軽撥水素材＆斜め掛けもミニトートも楽しめる2WAY仕様で、お出かけや旅行、プレゼントにも！",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "6:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000210.000032942.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/32942/210/32942-210-cafa885bf7fc964bcfe24afbf9a7c891-1920x1280.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-7388c7f18ae1",
-    "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000183612.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-7c4848c4bc51",
-    "title": "空港施設 太陽光発電設備と蓄電池を整備 | 航空 | ニュース",
+    "id": "auto-247b0c272b9e",
+    "title": "完全Non-FIT型脱炭素電源事業「シン・バイオマス®」が令和8年度「新エネ大賞」最高位の経済産業大臣賞を受賞",
     "category": "その他",
     "accent": false,
-    "source": "Daily Cargo電子版",
-    "time": "21:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKMTQwTzlhX2VmLVhSeUlRYWd0OW81QmlUWnVoREdTMjR3dndoQUtEeFMwWkNHb2lHdjE2aExnWU9lM3JUaEllS0w0dmNoZEgwemQ3cmtSTUtHbEtTd2QxTlVUT1EzbFNC?oc=5",
+    "source": "PR TIMES",
+    "time": "0:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdjRrcUxDSTI5NmptRWN4TGdsNWlOak5SUGw5TDR3dlF0MkJFMlc0V3dCOGgxZGZYcWZ5X1RCLVZDYVRDdFg4dEMxTjJjWjJRbG9QSFZ3eExLM05wajF5WjJBbEN1S2dYZ0E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fa1c66c90a91",
+    "title": "日本活性炭市場：COP31の脱炭素化イニシアチブ、PFAS除去、2035年までの産業サステナビリティ機会",
+    "category": "国際",
+    "accent": true,
+    "source": "ドリームニュース",
+    "time": "0:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VOEJGUFFLS0JVVWMxdExDMlU4eUwyQlBvRGEyZUVlX1N3ZXF6OWc4SHNtUEZ1a3VNZmYzalA5bHdXckhueFVERG01TDhDZmtMYnI4?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3d39c1e0ede6",
+    "title": "洋上風力を事業の柱に JFEエンジニアリング（東京）の福田一美社長",
+    "category": "国際",
+    "accent": false,
+    "source": "中国新聞デジタル",
+    "time": "0:07",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSEx5Mm5QQjlmbGg0d25lRGxDQVhFamZ6aHh5VDNhN3ZjTThtbXRxRlZpVFBiZjByQ3NxeVNYc3htUXFOOXBfdGFFQkdBWjZyR01fOUlFVGp2UQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-30964ecdf52a",
+    "title": "（一社）太陽光発電協会、ソーラーウィーク大賞を発表",
+    "category": "その他",
+    "accent": false,
+    "source": "Housing Tribune Online",
+    "time": "0:04",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJTmZlTS1zTTBGTFIxY2d2cmRKWmVDNG5iZENZS1lhNlROcTM3T3FmY21QaW9BaC1jM2ctQmJSR19GRHYwWHBhYWg4VEtkcFBOVHc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f7116524e2d8",
+    "title": "日本充電式電池市場：日本の2030年電池製造戦略がEV・エネルギー貯蔵分野に新たなビジネス機会を創出する仕組み",
+    "category": "その他",
+    "accent": true,
+    "source": "ドリームニュース",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBWFVYSFBUWC1HQ3o4OG5UOVMwTGNFTEhVVllpY2xiR3JXNkhTdkt4OFZuX1dzNGJsUFhuVFhEaUwwYW12Q0ZveWpJTVhOcTI1ZWdj?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a3cb70863417",
+    "title": "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援",
+    "category": "技術",
+    "accent": false,
+    "source": "マイナビニュース",
+    "time": "23:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yZkNlaWlRUjliOHN0STZkY0lBakFzTVU4bi1TZXl3QTdob3RWSThBMmxRTXltaDBVbnZTSElvMFV5bmgxWHExN19ZblNXalVCRnhCSmJ3RXRsS2xtNV9IWVBNMFV0aW1K?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-cec56d8ede74",
+    "title": "ＪＲ西日本と中国電力 中国地域で蓄電池事業",
+    "category": "自治体",
+    "accent": false,
+    "source": "環境新聞オンライン",
+    "time": "22:00",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRWhOVS1ZeGZuT3lJTXAxZ2RhTXUtUF9YejRjSmV6QkZRN29FNjIwdk9XTFRoa0xPSlpLbXNVVFV2WjVOZ3RkQ0pqOTMxNURtN3hnZzdqNzdJUzlMSXhuTVJpdG10cEZxNU1xZUk1Z2dZeElKVDFySlQxSQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ed3606e61c13",
+    "title": "九州で広がる農地の太陽光発電「収入の足しになる」 不適切利用も相次ぐ「発電が主目的、営農二の次」（西日本新聞me）",
+    "category": "その他",
+    "accent": true,
+    "source": "Yahoo!ニュース",
+    "time": "21:36",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tRjduckkzdGd0dGdQY2hTTVlZMmVBUFE5MWlMY0RIR1IxNXA2SEp1b3YzS2NoSWlmWVF0OUpUSGp4QzE5TFN2UWJkTUFFWjN4alVWcG5HUURoZ3dvN3BuZHdRa2RUOVFjQzYyM2RiYWptOGREMjJ0X0p2MGVQNlE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-29ba2a300146",
+    "title": "ジョブフェスinきたひろ～脱炭素推進企業合同説明会～を開催します",
+    "category": "その他",
+    "accent": false,
+    "source": "北海道北広島市",
+    "time": "21:35",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXYVlQQ2g3bVJEVnJsXzFUQld4T2ltbXkxTjVQVHVKUmJWczJsWUxObjd4akk0ZG9hbDFSejZlVENiOVVmaUp2RExISmFGN3UxSGhGVmhvcFlPMHpvTXNhcUU2NkRWdmRvR3VEeDdZMi1YUDV6VzVNaHBCYw?oc=5",
     "image": null
   },
   {
     "id": "auto-9b6bf3bfe631",
     "title": "経産省／洋上風力の技術開発推進／難地盤施工方法確立と国産浮体低コスト化",
     "category": "その他",
+    "accent": false,
+    "source": "千葉テレビ放送株式会社",
+    "time": "21:11",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HamhneENHWFNXeFVvVXU0Z3NKU3luMzRMc0FURGRpY1RNUlU5UE9BR1JOODE0M1ZzdHBYVEUwcnotMVAwZ3JhRUpIR0pZelI4aTctTHZCZ3hMcnhZMjZn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7c4848c4bc51",
+    "title": "空港施設 太陽光発電設備と蓄電池を整備 | 航空 | ニュース",
+    "category": "その他",
     "accent": true,
-    "source": "日刊建設工業新聞",
+    "source": "Daily Cargo電子版",
     "time": "21:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlZXWXZ4ejIyUTMxNmhUbUV4VllYQnZ1eWRXMG1US3Fkb1BlWXZtQjBhM0VlTUQ4emQyam42ZGFOdGVFQXZz?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKMTQwTzlhX2VmLVhSeUlRYWd0OW81QmlUWnVoREdTMjR3dndoQUtEeFMwWkNHb2lHdjE2aExnWU9lM3JUaEllS0w0dmNoZEgwemQ3cmtSTUtHbEtTd2QxTlVUT1EzbFNC?oc=5",
     "image": null
   },
   {
@@ -70,10 +160,20 @@
     "image": null
   },
   {
+    "id": "auto-48b30bcc9c61",
+    "title": "モノづくり現場 生産革新・脱炭素社会への挑戦（7）柏木美術鋳物研究所 小田原鋳物の溶解電化",
+    "category": "その他",
+    "accent": true,
+    "source": "日刊工業新聞",
+    "time": "20:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUkN1YlBia0RRTXBFcG50VVNQSUNlbDJmNU1SMzI5d1kzY1Z4ME1KM0ZtTXJBb0lvN1lJUndpRHo1VF9tR1ZVWFlrcUQ0enhkQkY4alF6OVk?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-8d555186447c",
     "title": "脱炭素経営へ講演や事例発表 １６日、岡山でフォーラム",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "19:42",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ING5zZjNLcGNib3RsTzRmZzdiaHRjU3Q4RFV2M0xtWkdXdHFrUUtrWDlSU3pyczF2dVlTOGVJM0hOUkFydWhDc3JNVExJT3JoTHNzbjJkNGV2elF1cTJpb2R4VTA4V1FkTkhfMUh0ZEtOVzR4?oc=5",
@@ -90,20 +190,30 @@
     "image": null
   },
   {
-    "id": "auto-8a710af624b0",
-    "title": "系統用蓄電池による需給調整市場価格は「大幅下落する」と電力小売りベンチャー代表が予想、蓄電池バブル終焉による“国益損失リスク”に警鐘も | エネルギー動乱",
+    "id": "auto-25eaf48a1546",
+    "title": "系統用蓄電池による需給調整市場価格は「大幅下落する」と電力小売りベンチャー代表が予想、蓄電池バブル終焉による“国益損失リスク”に警鐘も",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ダイヤモンド・オンライン",
     "time": "19:35",
     "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43VWtmZkRoYi1Ic3l6dFBzQnNVNjVaYUZFN283U052Sl81b0FFNG1LUmY1Q1p1T3JhYjB2blVLVmtnN051UEtwUC1GeVg?oc=5",
     "image": null
   },
   {
+    "id": "auto-cfa9556fa31c",
+    "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "19:30",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/181124/118/181124-118-3da87cc8ea26af9ebb1be1bc0a302d0d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-e69dfa2900fb",
     "title": "【脱炭素化支援】株式会社テクノス 新真壁工場へ太陽光オンサイトPPAによる再エネ供給開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "19:16",
     "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xNUIzcDJJSGI5dG5FT3V4LXBnTEU3Rk5XbWhocF9CZmFaRFBubG9lZU51Z3hJeGVEWGtqclgtR1oxN2R6ZjhqSTZ4cXR4emtRRWJFRk10TU5Ed0NYeTF5akxON1dmYnY2Q2NFRE9ZR2JwTnV5a24xRWpR?oc=5",
@@ -113,7 +223,7 @@
     "id": "auto-363674fe8e02",
     "title": "ＣＯ２変換設備 富士 工場内新設 白石工業 脱炭素へ実証",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "静岡新聞DIGITAL",
     "time": "19:00",
     "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NVC1JR0ZHdTlQalhTUkxOYThmQ2xsYXg3RE5UM0JjS0t0RURtTDltWEZFdDh6cXVyajJleFExclkzcUk1ODFXeFZzQWZRQQ?oc=5",
@@ -133,10 +243,20 @@
     "id": "auto-d20ff2717726",
     "title": "2026年における太陽光発電所の発電料金体系",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "18:09",
     "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG04ODc3QXRBMk9nemo4eklhZVRSN0t0dTJMZVlMaEdpMFNrRnBkeVUzS3lxczVHU3luVUk3cXZYTExhN0s2MVU0MGZWSXRzd0lvRWJlWlIyanVQejNqZy01eUM5ZUNJcGZrOUl3LVVjSE1Ka2ktWnhKYkRXWEJHWTFiNWYwaVVfRnVNNUF0UQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-948b34146f38",
+    "title": "バッテリーバンク市場2035年予測：系統信頼性と再生可能エネルギー統合が拡大を牽引",
+    "category": "その他",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "17:31",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHFqZWs1Unh1ZEpIQnJWYlgzV3NnMHRuZU50S3JUcjByYUZMSGR5dkRuTVRjYUFiSEN0ZTBpZVo1ajd5MHFoTGlzV25udWZSRnp5dS0wTGwzd0RCY1drWC0zeGdGNVNoOHpRSUNXWDZtNG5KTzdtN1dXYUZSaV9Cbi1xY3Qtb2hyWTdFc1VQZ0dNNzRZUlRfQ3NlS0kwclB4eWN6RFpCcWFiMjE4TmdTYVljZUQyZW5uc08tZ1BPY0NpREtKNUVmUg?oc=5",
     "image": null
   },
   {
@@ -160,143 +280,23 @@
     "image": null
   },
   {
+    "id": "auto-6cb9f65c049a",
+    "title": "HELLENiQ ENERGYは、再生可能エネルギーおよび蓄電プロジェクトのため、2030年までにルーマニアへ10億ユーロ超を投資すると発表",
+    "category": "その他",
+    "accent": true,
+    "source": "Informat.ro",
+    "time": "16:36",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREhjVElvMFBuNUZRWGJLNE1ZOGJ6QkdxREppSnJKSnlqd3hYSF9XczhNbEJzdG9VUkR4b3JpdUlJOGljZU1Sa002cDMyWkFqdlFZb3pJQm85OERlV0t1U3NZVlBrSG5MZWFCNkY2bXhEdXdmX1pzTmN2cS1qZVYxM1N0MzI0M21zNmZFNDBlaXRpck5BVFd4LV9UN3c3OHlsYjVEeldrZUVaZ0Zt?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-91c8790dfd88",
     "title": "商工省、26年の太陽光発電価格枠組みを承認",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9idjNQY1R5bUpZRzF6cTRHRzhFTWRaNG9nM3NCbWZBV1BlVEdOc3JPUE5pal93dGlVVE95bkNsMmMyR2NZVnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-af61212541c6",
-    "title": "スペルノーヴァカワサキ 周年公演で脱炭素をＰＲ 市内企業と協力し、運営",
-    "category": "その他",
-    "accent": false,
-    "source": "タウンニュース",
-    "time": "15:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PZGxsa1hFWGVCbnozY0xvb3RySUJiMmgySlhXbURnWkZqaHNaZW5naEg5WXpwcWg2eVItUzZNRDNfdTBwcmJLV0JxUks3bVZ0VzRFeW9TMFE4aEtNRDJ3c0RJUXY?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-658cdf4a2b57",
-    "title": "バディネット、東京都中央区保健所へのブラザー製「水素燃料電池システム」の設備設置工事を完工",
-    "category": "技術",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "14:15",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YdlBsS0V6UVlXNnh2Q09weW9SMHVZTDhjN2p3RlVMNWplNVZPTzBRUnJWbzN0bEpqSlhvd3FMTVAxUkhVNGYtR2QwaWd1WGJJWmRzV0JuV0FGZHRzX1RTYVNteHA4dVppRmZPemhVSUNqNWlvbnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-7356c0b8a06c",
-    "title": "コンタクトレンズのシード、工場を構える埼玉県鴻巣市へカーボンクレジットを寄付 鴻巣市内の小中学校で排出される温室効果ガス1,984t-CO2にカーボンオフセット",
-    "category": "その他",
-    "accent": true,
-    "source": "朝日新聞",
-    "time": "13:56",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41ak1YeElJb0VLZW9mQnd1dFRkUERJNV9WYUhJRW41TTFETFh1QTlfSkJLYmtQdEwzTGt4MkNlei1IMng1WWpLb2tCWVA1UEFUVU9TUmxfLXJ4ek0?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6c2588f5f240",
-    "title": "アドテック、東京都中央区保健所へのブラザー工業製「水素燃料電池システム」の導入を支援",
-    "category": "技術",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "13:51",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UaERPQWdYbFRab1FHVEVJLUZkUU5mV2pqNUVmR0pkRGdsQnJYNjgtdDBQT0FRd3RKQzV6R3BZTE5wQVpZYnphWnJUc05sT0UxSzhLSVJscmJXbTdJdVJUMmt6X0FlWWJCdGg4RWVfZVlUdFlNYlJpQmhzTQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-91fbdf9c8962",
-    "title": "ザライ省は、水上太陽光発電所への6,120億ベトナムドンを超える投資を承認した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "13:06",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZG84SWl1ckhzZVRIRnhIRWZEQVVZemZCS3FIcDVKTDlJa0hIVU9PRDZxcmJlMG9zbHJnNzh5dTF1RVBNTGNpV19pSW5fM2FkSmhrOXc3c3l3T2t5SF9Gd2V3MERtY0ZNVExkSUs0OTVrdjVxNWlqX0thbWNqVXNtNmpONWMycjItRkVhQWdEcy1WOUhDN29CZQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-16d9f622aec4",
-    "title": "髙木経済産業副大臣が英国エネルギー安全保障・ネットゼロ省との洋上風力分野に関する協力覚書に署名しました",
-    "category": "国際",
-    "accent": true,
-    "source": "経済産業省",
-    "time": "12:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54ODF4Q2Y2RVNRTmExWHBHMnhuVUNiM3lteFpqc3Vva3Rjb3RsMHZMQW04V25HelluckpIeU45VFVJZlc3UjFTbmd1SC0wNC15NmRka3JHSDV1R0lvT19mRU5kRQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-47001a445926",
-    "title": "クロアチア、農業企業向けに3000万ユーロの再生可能エネルギー補助金を開始 - ニュースと統計",
-    "category": "その他",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "12:10",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWtwZERfclcxcHBSREEybTZ0eWFhR21NNlY3WGI3LUVKOHN2aHFpNjd1dnhlak04MkJ5Ql9DQjdCVkVNbWQ4YU1zRzlteWY2QWNDTHlBMDYydXJNeHFoY2FseFpzM2wwN0dpNzFzTzBZTVJ4OU1Mc29FZDFBLVBzLUtCV29URUdLb2RvYzFjTDB5UnFPMVNYUENOODB4a052Z2p2NWZnblk5bnI0MV9r?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a90929be1995",
-    "title": "＜画像1 / 3＞ホンダが水素で走る新型燃料電池自動車のリースを開始",
-    "category": "技術",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "11:44",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yX3pGTHIzR0dBQmszQ2hfMWdwTWhYTk90Zm1WUjVtaVdMM3V0Tno2SlJnU2pkTjd4TkNmSVpyc2tSTDFPWlpfSUZZYklkZ0tNZUVGSVdoLUtoc2x6Z3VJaGNhTFFYTnRS?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-1e0a2e7b4f84",
-    "title": "英国東部の洋上風力発電所向け海底送電事業の優先交渉権獲得について",
-    "category": "国際",
-    "accent": true,
-    "source": "中部電力",
-    "time": "11:24",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wbzFoclBFakU0Q2xPX2tFOEhTcDBvel9Tc202ejBPQWNTdnYzMXp2WFVyLTFsV05vZUVIUm1SZ1haM2U2S2xTQmhSMmxlYlFlY0JtM2xrRnBIbjNXY3RONENZVy1tS1V0S2c?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4001a6011f2f",
-    "title": "ポルトガル、蓄電池向け系統接続容量1,050MVAのオークション開始 - ニュースと統計",
-    "category": "その他",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "11:10",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdCT3d3Sm9OMHViRUpPQm5wMjQzLUVERW5kU3VCMllSUWgtNzVva2VJVmdtV1dGd19SdVdSUDF6U3FFLVc2cmlQdEZJOFVPRHo1Wl82cTlBbmpidUhuOUs5MXhRbll2aUg3aEFYTTBuN29Gc3ZBMHJDb3FlZFhxTElVZmRfVnRSRjF0azZPRXVnUEs4bWlNSUtfOWp5MDY5Z0Z6ZVE1OU5rbEJmbmlfQzdMQ1Fyd1E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-616bd2a15abb",
-    "title": "中国能源建設、広東省の800MW洋上風力でEPC契約を獲得 - ニュースと統計",
-    "category": "国際",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "11:00",
-    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFNPS05zVkJDWmFrTUR3TG1YdFFJYmV6SUdiNlVGb00yelY2N0tzajRQajk0YmN5NXg0d2h6QXluU1hiV3FWQVJpOUIxOVRKUVpKS0tQMGhESXBUSDZ1TURWU0o3UXBrcS1WZHlmNnBiNGZ6Tnh0YVlXV3FMRFhtY2psamo3Ym5Ma09xU1NyZW93aXJVbGpZNktKLXF6YkZQOGpzVldrZ3JFb3lsWWx1ald1MEZvR1JXdlRRMXlEaDNObWV0OWc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-36a9e3eda9b6",
-    "title": "地域別の2026年太陽光発電価格枠組みの承認。",
-    "category": "自治体",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "10:34",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlhWc0k5OTg4V2JxUUpjbkNWb3lkSXJnYlJqUzA4M0VMUmZoUm1pVld2Q3FZekdkNDhlTzE0b3JoWG9leVFfc3R3WkJVdlVxZllUeWlwRjFLWDFneFkzb1RvdDlBUlhDNkcyMEE3MENkZ3YwZ3RxM1VyOGFGdG1oNDR0dTJCRmV1dXV2MF9FMkxpaFpEdFE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-56d0218592ee",
-    "title": "日韓の航空当局が長崎市で政策対話を実施、機内火災対策や脱炭素などで連携を確認し信頼関係を更に深化 - sky-budget スカイバジェット",
-    "category": "その他",
-    "accent": false,
-    "source": "検索: 脱炭素・カーボンニュートラル",
-    "time": "10:24",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT05YcXpDLWVuRTFENmV3X1hBQjhwVlZHV3B4WUpmOEpKUmRKVnRNSnNhR0ZqQV9JTjBzQkkwSV9RT09PVGFHZmpvd3I0MGFSRGxaNlRwQ0pmbXpna0VjenVlSWI4SEQ5Yk82dmV5S2V5RGdkU2xLdTVHenN4NV9wbXlWUExVa0tsTUJDV1NxcF8yNlpKVkNFVGxqdUktU2JHeUw3RkFqLUQwQjRQX0tJb1pHam1YNEREX0hB?oc=5",
     "image": null
   }
 ]
