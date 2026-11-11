@@ -11,60 +11,60 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-7388c7f18ae1",
-    "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
-    "summary": "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?wi…",
+    "id": "auto-6f29f20502a9",
+    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
+    "summary": "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/11(水) 23:40",
+    "time": "11/12(木) 3:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000183612.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-e450bf61cc30",
+      "id": "auto-b20a869f2540",
       "rank": 1,
-      "title": "株式会社エンブルー、鳥取県「境港市新屋町1158蓄電所」が完工、株式会社NAMIJUへ引き渡しを完了",
+      "title": "日本総研主催の「EV電池スマートユース協議会」を一般社団法人「EV電池スマートユーザー推進協議会」へ移行",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "11/11(水) 23:15",
+      "time": "11/12(木) 2:10",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000171049.html"
-    },
-    {
-      "id": "auto-cfa9556fa31c",
-      "rank": 2,
-      "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "11/11(水) 23:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html"
-    },
-    {
-      "id": "auto-7e8cc8e1f5fa",
-      "rank": 3,
-      "title": "レジル、集合住宅の「GX ZEH-M」達成をサポートするソリューションを展示会『JAPAN BUILD TOKYO』にて公開",
-      "category": "暮らし",
-      "source": "PR TIMES",
-      "time": "11/11(水) 23:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000117.000085002.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000222.000068011.html"
     },
     {
       "id": "auto-9ff24d9e1bb8",
-      "rank": 4,
+      "rank": 2,
       "title": "新発田市のゴルフ場敷地活用、大規模な太陽光発電所整備を計画 2032年3月の営業運転開始予定",
       "category": "その他",
       "source": "47NEWS",
       "time": "11/11(水) 15:10",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYnBOR0ZEOFpfcTdIc3lSRER6Q1hLWmg0MTJxZUFQSmlOMTJCbUYxMTNxUGY2YTQzQmotM2tjTmQ4QXpJTkJlV3FNZw?oc=5"
+    },
+    {
+      "id": "auto-eb33a70c6d4f",
+      "rank": 3,
+      "title": "ジェトロが再エネ分野の投資促進・政策動向セミナーを開催（インドネシア、日本）",
+      "category": "国際",
+      "source": "Infoseek",
+      "time": "11/11(水) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZRVRXcnBZUXpaNWNKVG1FeTRmZDJTODRRU252TElRdmxvdHBjRVQ3cDJfbXJPU05RbHlQTE9mY3dON0UyZWs0QVozcHZnZ1M3UXZpeFJNM3BfNUkzWldDMG9CUmJJd3RBU3JN?oc=5"
+    },
+    {
+      "id": "auto-d57670ba45e4",
+      "rank": 4,
+      "title": "遼寧省鉄嶺市、華電遼寧能源と水素系エネルギー基地プロジェクトの協力協定締結、関連産業の集積を推進（中国）",
+      "category": "技術",
+      "source": "Infoseek",
+      "time": "11/11(水) 15:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53OHJnZ3BlbHhUWGlCTjh6bkExV3gzbk9wdlN0dHRaS2lvN2xoRWs4ZU5BTGQ3bTh4bU9nb3dJY05mT01YSHNhM2Y4Sm80SFJhdjJJUS1LXzlVWnV1RmdPaERYdXRIMzBUSzFz?oc=5"
     },
     {
       "id": "auto-5c92c77cc9eb",
@@ -73,42 +73,42 @@
       "category": "国際",
       "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
       "time": "11/11(水) 14:42",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yYlpVUVM2M2lNNWF1MzJybDhCUW9IX2EyWS1GS0xjbzJCOGhMYVJXNkh3Q2dEaHJNQTlWUUlHTXpFSEpBOTA3M2pTeHczWmdqWlE0dE10Znk4MThCdHdRVXZNaW5hZ0NMbE9ucUE5M25VNHhsRWZz?oc=5"
     },
     {
-      "id": "auto-ad4d7ebaa4fb",
-      "rank": 6,
-      "title": "決算:ENEOS、再エネで1000億円減損 「高値づかみ」買収と脱炭素停滞",
-      "category": "企業",
-      "source": "日本経済新聞",
-      "time": "11/11(水) 14:24",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Qb0FFeGxjVkJ1OGNTdXFaWHE2MlVrU2RobUdtd2EzV3JLdE1XdGJLNng0RlQySEVZVUFuNFFmaUhDRWhqbklDdFdkZXcwZUtvZ09aakVWUUlnSjUyY21sS0lfSzUtOGRzR3pZOQ?oc=5"
-    },
-    {
       "id": "auto-02b2f98c3973",
-      "rank": 7,
+      "rank": 6,
       "title": "FlexGenがウェストバージニア州のMN8エネルギー86MW太陽光発電プロジェクトを統合 - Investing.com",
       "category": "その他",
       "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
       "time": "11/11(水) 14:13",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTkhFTEZCd3RabG40OGpMZ1ppcEVheEp2dDZQLUpISTVvZVUxcVhyMDltOUNRTHRjVTY1Q051UEZOSmxYODlGT1NPOW4teDZyb1NwRWlDZFl4NVAxelJveWNzdGRCdm9mUWtseWh5Z0Y?oc=5"
     },
     {
       "id": "auto-d4d380f83fb2",
-      "rank": 8,
+      "rank": 7,
       "title": "世界のエネルギー市場は脱炭素と電化の2つの流れが主流。日本政府は化石燃料重視で電化に逆行だが、産業界はアジアを軸とする海外の電化市場への輸出増の可能性。英シンクタンク分析（RIEF） | 一般社団法人環境金融研究機構",
       "category": "国際",
       "source": "環境金融研究機構",
       "time": "11/11(水) 14:01",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Zak1qd3lYTW0zQXkwa3ZMZzVWbDQ2MGxDMVlEX050QVpDSHdPNGs4TXFLMXRodkNDakg3M0JRbGF0THY2?oc=5"
+    },
+    {
+      "id": "auto-9b4eb9094bb8",
+      "rank": 8,
+      "title": "テス・エンジニアリングとEBLサービス、太陽光発電設備の「オンサイト駆け付けサービス」に関する業務委託契約を締結",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "11/11(水) 14:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SWdPUGNtUFFobi14aHppVkVzeDktZDBrOFFTa3JuUk5DdmM4NnVxZEd0MU9BSnl1YzE5bi1NUlFrSGZpbzN0SVZ0bWZ6aG84ZXN5d0xEQmE0UW5NVlB2TklQa1Z1VXdDcmtQOVQxZXVMSkJuekphQ21FZw?oc=5"
     }
   ]
 }
