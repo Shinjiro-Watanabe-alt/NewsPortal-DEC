@@ -1,53 +1,213 @@
 [
   {
-    "id": "auto-0d597c7e688e",
-    "title": "再エネ電力を含む新プラン「上限付き市場連動プラン」を数量限定で提供開始",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "13:00",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000071.000135262.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/135262/71/135262-71-44e3c086854f2eeea2c7bebf467febc3-3900x1038.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-6b900f2c33e1",
     "title": "同じ白いLED照明でも「光の質」は違う。lipro、太陽光に近いスペクトルの適合度99％超を第三者試験で確認",
     "category": "国際",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "13:00",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000014.000163071.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/163071/14/163071-14-96cc46078b5d79726ecc465d7449cc6b-3840x2160.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-cfbdfe2e498c",
-    "title": "全国の基幹28病院が東京に結集、医療機関特化型温室効果ガス算定「CICツール」対面実践研修を初開催",
-    "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "12:43",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000077899.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/77899/9/77899-9-b55117f598ee3b7d594561d1175bbc07-1324x334.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "15:15",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000014.000163071.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/163071/14/163071-14-96cc46078b5d79726ecc465d7449cc6b-3840x2160.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-6e824aaa2a09",
     "title": "家畜といえば、日本の伝統的な食文化では「ヒツジ」を食べないんですよね。もっというとそもそもヒツジをまるで飼育してこなかった。中国ではありふれた家畜であり、例えば十二支の「未」にはヒツジが当てられるほどなのに、日本では干支は取り入れても羊自体には縁が薄かったのはなぜなんでしょうか。→「気候が合わなかったそうですね。 実物を見たことがない時代に書かれた羊🐏」",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "はてなブックマーク",
     "time": "11:27",
     "source_url": "https://posfie.com/@kalofollow/p/8m7dxtN",
     "image": "https://s.tgstc.com/ogp3/5906a3c3e28d70f15906f033614e8aff-1200x630.jpeg"
   },
   {
+    "id": "auto-8baf5098e697",
+    "title": "高市首相、岸田元首相らから提言 脱炭素化を目指す「AZEC」首脳会合控え（2026年11月12日掲載）｜日テレNEWS NNN",
+    "category": "その他",
+    "accent": false,
+    "source": "日テレNEWS NNN",
+    "time": "9:14",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tRTg1cHhsRWRJSVJWUnVqVkhUcm9JNHlOMjdZd1ZLcDVwVktXVF9yUGo2cHdRSVlqUlJWWjRDVV9kWUxjcmVBeUdveEJIRmJyY1pPVldPNkM0Qm9vcU1rZGxBbGhxZm9MYnBjQV95NlFGcmVheDdyTVNqVnlRdw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-464a48874c17",
+    "title": "山形・遊佐沖洋上風力 工期1年半後ろ倒し 稼働は32年に",
+    "category": "その他",
+    "accent": false,
+    "source": "河北新報オンライン",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NOWZmeEVMZ2VQUElqdDFBQ1hnWWxMM0hZdjVMcG0zUkgyak0yUnlnOE1wNmVldU01M1JoelhIUWs5V2MwTDJuQm1GaGptT2pBc0FTRVp4REtwcnc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-392d1cb0750c",
+    "title": "政府が太陽光発電量の多い昼間の時間帯に電力需要を移すために産業用電気料金体系を変えたが、企業の電力消費パターンはほとんど変わっていないことが分かった。 電気料金の差が企業の操業時間を変えるほど大きくな..",
+    "category": "暮らし",
+    "accent": true,
+    "source": "매일경제",
+    "time": "8:39",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hSzFyYlFSN0d2cmQ4OWV1dTNPdVZ0WFhVYzJ3bENpaHl3bTJSLVRfTFMyeW5WR1BaWEJocWxJQmMtemt2YmtGd2JkbllBaGxFV1E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f0b433dcc933",
+    "title": "遊佐町沖の洋上風力発電 運転開始を1年半遅らせ2032年前半へ 風車30基から29基に減らす計画変更（YBC山形放送）",
+    "category": "その他",
+    "accent": false,
+    "source": "Yahoo!ニュース",
+    "time": "8:33",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wc3Bra1RsZUdwRTJNVWZHaXY1aVZIUGJZSTZrdmUyME4tWXYzQWdDdkZuZWxiaWdfa2REVkJ6SGVmbmUxWEZiOEJNOWVMdnNOeWNKbHZHdjgwYW5TdmZ1ai1pZi1LNS1VZnRxNDEwRDRRMUN0V1B4LU1aRGxtTUk?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f43a4d2fdbb9",
+    "title": "北勢水道 播磨浄水場脱炭素化プロポで事業者募集",
+    "category": "その他",
+    "accent": false,
+    "source": "建通新聞",
+    "time": "8:21",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUTVMMkdNMzBjS2RmYUZ6TEttbE5mQ3JPQjBmYTRLaGpMY1BobnpZSkJ0TlBSck1zdEpudWllaDBlaV85NHVzVUZQYXNwbURzS1h5eGFGVDAzbnAtQ2VYV1hmZzFjbTZCZWkyTzJiTU9Wald6VzNxaklBNUlOTGU3ZQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-04d3b13b6772",
+    "title": "中国の洋上風力発電、年間発電量が1000億キロワット時を突破",
+    "category": "国際",
+    "accent": true,
+    "source": "ライブドアニュース",
+    "time": "8:20",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNDc0QWYzTTFUZm52SWw5TjFNNDRBNUdSeWYzeFJXcXl6R2x2TTJjWWxQVi1rbkgyU0h1TjdqWGZIRWhQVklPeVRzUkdYaFN1NEtTdHFMdklGeHlfRURv?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-3cafa00a8f79",
+    "title": "ザラ親会社が中小サプライヤーの環境対策を支援、脱炭素化の新ファンドに参画",
+    "category": "その他",
+    "accent": false,
+    "source": "Fashionsnap.com",
+    "time": "8:19",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanBIbHBmeEN1bldjekxBVVNaY3ZvUGI1M3lhb0RHM1lWMjc4MmoxVU5URjhQdE4yZ28tcTAxb3NiSm0tZUtHdjZPWC1fR0hKa0pVMnYzUmI4R2tXUFpiSzdrNmJtNGJyOGdaWDhiM3EzWEtYdVpERmk4TjBleElkQlJVdw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-646e36678e32",
+    "title": "ポスコE&Cは12日、全羅北道高敞郡（チョルラブクド·コチャングン）沖合いで潮風で再生可能エネルギーを生産する「海上風力発電」（鳥瞰図）工事に今月から着手すると発表した。 総工事費約2974億..",
+    "category": "その他",
+    "accent": false,
+    "source": "매일경제",
+    "time": "8:17",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yRUE4dTM1bDgxNG1KU1RrenFtTTZ0ekVDRjVGUURDX19OcnJNcHVwNTFaWEEwQkdnNFlqQnRHX2dEeUlwX3BFM1RQTnhlMnNNOFczOHFn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-61c2b40edde9",
+    "title": "令和8年度第3回東京都グリーン水素トライアル取引の入札結果について|11月",
+    "category": "技術",
+    "accent": true,
+    "source": "都庁総合ホームページ",
+    "time": "8:02",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfeXlONTRBOTk5YlRBS1RCWF9QbFJWX1I2a3ZzWlBsdENtZXpLd0FXRm9pcXFaSE5fZ2dydmMzRU1tUzA4VnUtakxZTmVTQ2FFWnUxM2pXbjdUYzRRYl9kVW9MblkwZHNxRG8xRDk0QlBDMUZ5?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8b216f05853a",
+    "title": "ABC、静岡寿町店に自家消費型太陽光発電設備を導入 7店舗で年間887トンのCO₂削減見込む",
+    "category": "その他",
+    "accent": false,
+    "source": "パチンコ・パチスロ情報島＋",
+    "time": "8:01",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MV2tNbEFPWXJ3UVNETFV1NlFqa1lEZFctYnpHME8tTDU0SG14NXdrdFNRWUZxUVhSNkRQUnExUkc2bFJLTmlKTWhkNXZVNlU?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-e25fb8554534",
+    "title": "ポスコE＆Cが高敞沖洋上風力を着工 総額2974億ウォン",
+    "category": "その他",
+    "accent": false,
+    "source": "Chosunbiz",
+    "time": "7:53",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanlZbTlzVEFNZkxmTWFEcTNHaWpRY1REYmxjTHZkUkhtOVQ1Z2dHbHpidzlxemxTVkpMNnVLV3VnNEFxS3ZCbXhYdjFGQU9SdVd0cWtDWTRQa2RURnA2aUpLLTNoZmQ2Z2RQQ3NXcURJRmExenR3UU5jWjQzQTFQNXdiYk8?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a3199f1c7677",
+    "title": "全国４拠点の系統用蓄電所を取得し、系統用蓄電池事業へ本格参入",
+    "category": "その他",
+    "accent": true,
+    "source": "時事ドットコム",
+    "time": "7:46",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XOG96SGZsbGlucU9aaXJLSi1SSElFTGJBaHNySHl4NTRfUWN2UGFrRkIzT2cwM3pMLVNHdGc5WGpYY2RDS3RWNkNJZUJyREw3cTY5cmFwYjlEaF9PTks4WlhSTXZ2eGF3RHBn?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8ab05fe578a3",
+    "title": "中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功",
+    "category": "国際",
+    "accent": false,
+    "source": "人民網日本語版",
+    "time": "7:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-92d3ed40ec8f",
+    "title": "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨",
+    "category": "技術",
+    "accent": false,
+    "source": "毎日新聞",
+    "time": "7:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PM3doZVMzTHBOWGFfSF9RSUd2bTZIdXFyQXJKUmwtOTVJXzNWMjQydEFVOWtvV3o0WWVDd2ZFYm1hLVJadnJfdEtpdFBMU0diMm9abGFkUV8yMTNETzVlSk0wOHl0Vks3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-37e801560baf",
+    "title": "世界の産業用ヒートポンプ市場、2035年に196億米ドルへ拡大予測：年平均成長率13.2％、製造業の脱炭素化と熱エネルギーの電化が新たな成長機会を創出",
+    "category": "国際",
+    "accent": true,
+    "source": "Excite エキサイト",
+    "time": "7:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92MDhiZ3FZNmROX2FUV3hWdUhxVEdfaERKR1p5akZGT3VfQXRVc3RucVFaczZTMnM4V3FLb0otQ2ZFMWd2aUcwYS1fX09NcUExdUdOWXBpdlkwUzdQdkpRek5GNW9UZkJObXc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-407228ec0a48",
+    "title": "政府の海洋政策、洋上風力政策 (2026年11月12日 No.3751)",
+    "category": "その他",
+    "accent": false,
+    "source": "日本経済団体連合会",
+    "time": "7:00",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Cd3JidGx2UmU3X1Q1Z1EwRFZ3a1Jja3ZLbDdwUlY0dG5WRFprNVVxN3lETlNUVm9LMl9hVWUzdkI2TjdSWl9DZ0ptOENaRVBtY2dIN25lVEVpNWpfNlYzdDlERHEwSlBwTkFB?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-d7f94766fe0a",
     "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ITmedia スマートジャパン",
     "time": "7:00",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/12/news017.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/12/cover_news017.jpg"
+  },
+  {
+    "id": "auto-55659ed7b25f",
+    "title": "マツダのサプライチェーン脱炭素化、オリックスが支援…オンサイト・バーチャルPPAを初併用",
+    "category": "その他",
+    "accent": true,
+    "source": "レスポンス（Response.jp）",
+    "time": "6:45",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Nbl9UZkhGWkY0dGw0SlJ4dktwVjd5OW85a0ZnR2U0OVFfNEt3OGRXUWRxLTVQUFVMZGNmMmFtQWdoNEt3ZkNjeWlVc0xGTXdaTVdfd3o3SER6cjVZQk1z?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-48de42f8d035",
+    "title": "マツダのサプライチェーン脱炭素化、オリックスが支援…オンサイト・バーチャルPPAを初併用 2枚目の写真・画像",
+    "category": "その他",
+    "accent": false,
+    "source": "レスポンス（Response.jp）",
+    "time": "6:45",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52N05CRnAtNHprSlJ6S2lKc2NWRTRIazJjR3BMSk9xMktpLUpSaEY2QkVtdHRVQ1lMQ003dG9YUWZOUkhfOFpFMGFYOUI3R2VnV214T09OajBUY2xkbUQyb0RDT2pzU0dDclJJendsd0xmZw?oc=5",
+    "image": null
   },
   {
     "id": "auto-6a7ae561b614",
@@ -60,33 +220,23 @@
     "image": null
   },
   {
-    "id": "auto-b10e7deed68a",
-    "title": "太陽光発電「進める理由ない」／おいらせ町審議会、答申へ｜行政・政治｜青森ニュース｜Web東奥",
-    "category": "その他",
-    "accent": false,
-    "source": "東奥日報社",
-    "time": "6:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRlRuMTdzRlcwcEFhUDlVdDF5eVdJREZnLV9nMzE0YV9nMnpwdDNjZFFMSENzVy1NcUJ0Z3J0M0NxVm9YOS1MQldmM0tGTTduMVVob0ZybHk?oc=5",
+    "id": "auto-f08337824a05",
+    "title": "中国初の商用中小型・純太陽光発電無人機が初飛行に成功",
+    "category": "国際",
+    "accent": true,
+    "source": "AFPBB News",
+    "time": "5:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSG94SkFpYWtjU21fcmItaGlTM1h3YmRVaU83UUJ0Y2FJZThzcWRXaWJ6ZnlpS1JiMjZrX0QyaG1OQmlWaTk4NW5iSFU2bXdpZFHSAVRBVV95cUxPcDBJT09LcnhkaEFGN3o0VkxjSWhad0pTTmhpMjZKRUhsTHdGQVBidk1seTViMHFGUEtIeV8xM3lsQUpEbXlTRGNzQzV2cm9VSHp5aVY?oc=5",
     "image": null
   },
   {
     "id": "auto-001a46f98d37",
     "title": "野村不動産が系統用蓄電池事業に本格参入 全国4拠点を取得",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ニュースメディアVOIX",
     "time": "5:32",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BdTV0b05TbkRhVmx6UktUUkhVWWxndjRXSlBVVVhhMnZTLTBRUWxhNzBYemZRR2FxZk13S0hfN1dielNaMGdEQkttMWJvWUlSYTFB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a3199f1c7677",
-    "title": "全国４拠点の系統用蓄電所を取得し、系統用蓄電池事業へ本格参入",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWTBTRWRqRUYyVGJPRXp5aC1LTVN6eVdvamNGWkFWczMwU1NtWU1xNEprdW5EblFtUXNITUNhRGd1dFllcVAtQkN5UkhqanFBV0MxZTlQUTBVR2lBbGVqRGJiaEQyX3NkSVE?oc=5",
     "image": null
   },
   {
@@ -147,156 +297,6 @@
     "source": "Infoseek",
     "time": "4:40",
     "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcjhJOXZzbkpLQTlqQ05rMl83R1RtNlRPbll4SE5kY0RQZW9yVzJXVWw3OFRuTkhJd3FtODZZR2FSY3VjV3BZWUtwSkIzZ2d1eXVkOHRFRlNOaGxuVXJaZDVvQVdqUnBIRHlJ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b7e85b725282",
-    "title": "ポスコE&Cは全羅北道高敞沖に海風で再生エネルギーを生産する「海上風力発電」工事に11月から着手すると12日明らかにした。総工事費約2974億ウォンが投入される今回の事業は、2029年8月の竣..",
-    "category": "その他",
-    "accent": false,
-    "source": "매일경제",
-    "time": "4:31",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpNkZHSTBieHVmSk1BalZLRlJ3SE14cEt3NnMxSnNIODhKd0R0WUcwU2JTUVlFbE9kOVB3VFVHRzBCZnQ5WG4wUWlqc2F6NFZYbjNxNWNn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a0f0b2fd9e5f",
-    "title": "北海道伊達市に8.3MWhの系統用蓄電所、リエネなど4社が共同開発",
-    "category": "その他",
-    "accent": true,
-    "source": "環境ビジネスオンライン",
-    "time": "3:56",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FSFZzN3hQRGc1d2psc0dySDg0VDJ0M0h3a0pNbW8yeXNIdEh3Q3ZRR25oaE5JTVFwUHVmOEhPX3pkOUp4V1BDd21DT05UOWs3ZkNWLVRLbS1QYkNCemF3SW50NW5DM0EzUGNld1hRYnQ5a0hiYWV4a2Y3Wlc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fff9b34457f4",
-    "title": "ENECHANGE、年1500万人の基盤でGX事業に本格参入",
-    "category": "その他",
-    "accent": false,
-    "source": "ニュースメディアVOIX",
-    "time": "3:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0X1ppS09MdE0zam13d0pjZHVwaEt5cmJxMlVWN2czN3VmUXM1bldjZTJyZDhGYWtvMUtHWV9rQ241bF9SM09XSjVJWFNnZE5nWTZr?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-072e096cb0f2",
-    "title": "ENECHANGE、エネルギーの「総合ソリューション化」へ─ 太陽光・蓄電池・省エネの提案サービスを開始",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "3:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WbUpWWkZ1UDZxZW50eWRyZEk4VGFldWs2VWlaZE9KYTJ0MnprX09fdWh2MjJGZl94Z2lHQXVwZTdqQ0hjSllPczdldmk3aW4zZkhKRzZGWXVmUzhvVWJGY0xYWnduaW1DeGc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-388e29bfc44a",
-    "title": "2026年における太陽光発電および風力発電の価格設定枠組み",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "3:23",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnVlTlV6SU1zOVlFTTlOeFhmRDBmWk9MQ0hKdzhSWkUwbzNnaDQ1aU1lWTAzclFFSWdFQmZLRzJwVS12c24zV1dKS3N5djhyVXZPdnZnWndaQ1FlRUN5SnY3a3VvQVdLQ3ZxS01jcWprMHc4cWEyNU43Q3RqMjVDWA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9450200152c0",
-    "title": "水素燃料電池用バイポーラプレートシールの世界市場（2026年～2032年）、市場規模（エラストマーシール、その他）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "Newscast.jp",
-    "time": "3:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xTUZQVmV2Q3ZtejJPU2lrZElIMzdFcmpjbVNmbXlhaVJYNk1YWjVMcjAyemIwdkFFMnRzVlkzLTNBQ0w1N0pYZ1JZS1R3dDg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-6d44c66da188",
-    "title": "ラムドン省は、約5000億ベトナムドン相当の太陽光発電プロジェクトへの投資を承認した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "2:51",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEE3dVR2YUwyVUlEWHVEWm1wMzZqMklvUDRidXpqQTVMUU1CY0ExeEExcmo2MHFBMXpCNnJXcVFqVlRuc056YnBXNlpMLTBkZHlReHdBYVAtdVgyN0NtbGszZllFdVROdnI4cWQxUHlEQkx2Vl9nUmh3TzNtRlRxSnZFWlExOFRrZTdUMnVRclAwdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8d555186447c",
-    "title": "脱炭素経営へ講演や事例発表 １６日、岡山でフォーラム",
-    "category": "その他",
-    "accent": true,
-    "source": "山陽新聞",
-    "time": "2:23",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOWUzMExyM2N0eUR5SWNnbUNvZXlQQTNhQ1FyY0ZlNGIwUGxub1BfbGVxeDdLVVo1NzQ2cEhuaEs4Qmp3aEhZUXRDRzYweHpBS3dSODdnTUp4SFdTbDZFTFdVMUlDVWxLdmJ0d1AzQUpGYXFscVJBeHV3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-52a097215633",
-    "title": "洋上風力発電、地域との共生策考える 全国連絡協が講演会、ノルウェーの事例紹介",
-    "category": "自治体",
-    "accent": false,
-    "source": "47NEWS",
-    "time": "2:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkajBwclFrdjhHMExwT1lxMXdCZjIwV0wyZ0IwUjdyRGI0NXgxMHdXR2o1cllUOE5qZXdjUEtBZkFoaUlYMVNESTZaOA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d0f880aab6e6",
-    "title": "産業用蓄電システム「YRWシリーズ」に出力制御機能を追加",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVVNkVmFFQVE4aFV0Q2x2Qk00cml5eTZrckowZm9JLTJreDhXQ0s1ajh1MXZfNEJENlNSMk5pUG51YXk4OE9YLTliY3RZOUNCWUlXU2tBVlllbnlYRTloN2llX2NTdWdWOUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8c460f8000ce",
-    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
-    "category": "その他",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "1:47",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CTUVqLWI3QjdmZllvYW9UY2NRNU5GTnpiSXktZEVVMDlsT05EY3JvTW5obXJYVUtQUXRfY09JU0Y5YkRIdkdZdDZTaTUyempvN1hUNjVRT05EWmNaY1ljSzM3eFZ3X2hNb0E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ff98f39b5d6d",
-    "title": "初飛行に成功、中国初の商用レベルの中小型・純太陽光発電無人機",
-    "category": "国際",
-    "accent": false,
-    "source": "千葉テレビ放送株式会社",
-    "time": "1:36",
-    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiVjdXX09oUVZLX25WNURZZWxzRGp0NzhkN1JEYUw1V25QUm9WSW9ObW5YYkE4a0YwSTMwRUJCU180Tjh1dHY3b2hVcUFuWjRlTWdrOHNSSmFJYVpaSElz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b76163a4047a",
-    "title": "株式会社地域創生Coデザイン研究所（NTT西日本グループ）が 「Ｊ－クレジット・プロバイダー」に登録 ～森林由来Ｊ－クレジットの創出・流通支援、活用にグループ一体で 取り組み、脱炭素と地域の自然資本保全を推進",
-    "category": "自治体",
-    "accent": false,
-    "source": "自治体通信Online",
-    "time": "1:03",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3UWJGdW54Qm5zNk1idEZZNW9vLUJkUTNwVXFOVFlDYld3ZnhEeWkwdjRPZGp5eEZEOEpVc2N5VTAzcTNrWWNfRzZZZ3dMdlJWck9HNDFidmtHUEpMTFZjX3IwdlJ6R3h0UFNiUGpwRDNCdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-017e6c5aeadf",
-    "title": "農業由来J-クレジットの普及へ、イトーキとNTTドコモビジネスが連携：脱炭素",
-    "category": "その他",
-    "accent": true,
-    "source": "MONOist",
-    "time": "1:00",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ZU0zMEh2aTFDVTN0QXF5NFF5S1lLa3lhbnA2TmRBdVdRRm5yZTZJeHlrcTloZDlNYl9JT2xlVEw2blFvNE5GaWhIMEQtTDVCWkRnTHliLVIxZ3E5eVF4M2RHT2FRTnI4UWd4TFVYRQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-08aaf853576f",
-    "title": "酸性燃料電池の世界市場（2026年～2032年）、市場規模（プロトン交換膜型燃料電池、直接アルコール型燃料電池、リン酸型燃料電池）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "1:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VcGF0bTFqWmNVdEFraVlNOXFqcTdWTTROXzNsdjlqV0o3Z0RtOGR2TWJfUEtfalhIV2VVNUc3U29vYkpub3YtcjBhYjlpWTQ?oc=5",
     "image": null
   }
 ]
