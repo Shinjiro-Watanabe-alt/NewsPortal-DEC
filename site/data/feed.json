@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-6f29f20502a9",
+    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "9:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-b20a869f2540",
+    "title": "日本総研主催の「EV電池スマートユース協議会」を一般社団法人「EV電池スマートユーザー推進協議会」へ移行",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "8:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000222.000068011.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  {
+    "id": "auto-d7f94766fe0a",
+    "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
+    "category": "技術",
+    "accent": false,
+    "source": "ITmedia スマートジャパン",
+    "time": "7:00",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/12/news017.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/12/cover_news017.jpg"
+  },
+  {
     "id": "auto-7388c7f18ae1",
     "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
     "category": "企業",
@@ -10,50 +40,100 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-e450bf61cc30",
-    "title": "株式会社エンブルー、鳥取県「境港市新屋町1158蓄電所」が完工、株式会社NAMIJUへ引き渡しを完了",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "5:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000171049.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/171049/12/171049-12-979b1a864f43e853e0a08b37b2c52c45-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-cfa9556fa31c",
-    "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/118/181124-118-3da87cc8ea26af9ebb1be1bc0a302d0d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-7e8cc8e1f5fa",
     "title": "レジル、集合住宅の「GX ZEH-M」達成をサポートするソリューションを展示会『JAPAN BUILD TOKYO』にて公開",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "5:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000117.000085002.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/85002/117/85002-117-eca5a236667f2468dd69aab3fa639ad8-2392x1342.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-2729f96355fe",
-    "title": "GBP株式会社、令和8年度「新エネ大賞」新エネルギー財団会長賞を受賞 ～旧型番パネル互換品による既設太陽光発電所の価値再生・向上リパワリングモデルが評価～",
-    "category": "企業",
+    "id": "auto-28b1ccd11af7",
+    "title": "株式会社竹中、本社工場と藤岡工場へ太陽光発電設備を導入 ～工場での再生可能エネルギー活用によりCO2排出量を削減～",
+    "category": "その他",
+    "accent": false,
+    "source": "アットプレス",
+    "time": "0:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJSk1BRnUtUmhvU3plTGpnZk45T25kY01nRHNvbjhhYVRXM0dOVnIwczlyQ1pyempuVWJkaURRbDlsV1hKcUZJSm92dk5JZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-f1b90bfa3035",
+    "title": "太陽光発電「進める理由ない」／おいらせ町審議会、答申へ",
+    "category": "その他",
+    "accent": false,
+    "source": "47NEWS",
+    "time": "0:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBraU93X2F1SEpZZ0kwSVh0YkZkUEFqaEFkMWdrMWdrXzF5SWpuQXVFZmtSVWlUcWxHM01STnN3RHRxbnFhWVY3VFE2SQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5cb4a71e04c0",
+    "title": "島根県出雲市の系統用蓄電所が需給調整市場に参入",
+    "category": "その他",
     "accent": true,
     "source": "PR TIMES",
-    "time": "4:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000188.000110590.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/110590/188/110590-188-84a8455e3274bd1ab10978a43e1f5de0-595x250.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "23:30",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jZW03bHVyWjRuV21qbnphLXhGempEakZ4Qkh0ZzBpSWloSGhWeG5rTmFmZWpMOGxVcEV3ZmxoZWkwbm1pSm45aVQxSVQ0ZmJEWnNLZUs4RkJGRjFNbE9aUG9xaUtWbXZPTkE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-a0aabc41eede",
+    "title": "経産省、グリーンイノベーション基金で最大2,000億円の増額案 洋上風力・合成メタン開発を拡充",
+    "category": "その他",
+    "accent": false,
+    "source": "ESG Journal",
+    "time": "23:02",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4td3Y0WFJod2d4dnVUSjlYR2hDby0wM2dLLS1ZQmk0YUMzX1NWN1AtLVRLa0t3QmpOQUp3bHNmdVY2Tm9mMVloUzVrSVNDemd5bi1ISmF6YXVpYTg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-40c3598b3892",
+    "title": "半世紀にわたる日本の水素エネルギー技術、なぜ中国に活路を求めるのか？―中国メディア",
+    "category": "技術",
+    "accent": false,
+    "source": "ライブドアニュース",
+    "time": "23:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzOTJCVmVyNzRNSkNfVUczNkZtLUdaTDZGTlBheG94YmVjM1F3dnowc0h3UGhrM09lNHRZWXNrOGsxSXpUWFdOaDRzSTJGMFhJR3BRWkppYTBtSWZTMi1F?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4d0ed7ca8da0",
+    "title": "アンモニア船普及へ、７社連携 脱炭素、日本郵船や今治造船",
+    "category": "技術",
+    "accent": true,
+    "source": "山陽新聞",
+    "time": "22:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnNQMUlfbXRpNHZDeWVnZHpoOFFTMmhXejNxRVE5cGhuN2FKSlhJTS1OZ05EbTF1SGhHc3poakFYdDRQbzFwclp5dTBHSXBLOWNfd2xiTjJXNWhEc2pKbnhETmZPamFXYVUtMkxIVG53ZHFTdEZRSnNkRTdKTC10ZTY4YzZOM2ZJ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c398c1676d33",
+    "title": "洋上風力推進へ海外勢誘致 「国産化」に地域振興も",
+    "category": "自治体",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "22:42",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dXpnWnlFYXh4WUxzTzc3VVNqX2ZhR3hwMFF2UkNLUFRqelU0aGo1bHgwaEd4Z014azZpSTNxeTdYVmJkMnlxNFh3a1NzOVFyTjUtTFpacEVXZDR2YnVteEI5NlR5YTFac2xvbFdHQzg?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7cb70102b13e",
+    "title": "【脱炭素化支援】都吹株式会社 鹿児島工場へ太陽光オンサイトPPAによる再エネ供給開始",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "22:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fcW5DM3c1VG9YT0JLMklKTlRlNWt1ZTJtVGw0ZDBSZS1ZTkdYV1R1bWZDamZ6Zi1TbDhGaXlEZWQtMXdONVYzQUdUd2FqN2tyNm9oYkdUUEVWVktTRUtVVUpJY09pZTBDNHRlS1NxV05raDdZSUxJVGRR?oc=5",
+    "image": null
   },
   {
     "id": "auto-7ad60cf56402",
     "title": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6)",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "JBpress",
     "time": "21:00",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veXhjazZ1Qm9hQWN1N21Jemw0ZGFqTnJJak81eGJoVk90TkRqQkJJVzdIbUZnbmxMWFVidUY1V202T1pUR1JUWTBPSF94b05hbFNjVExn?oc=5",
@@ -66,14 +146,14 @@
     "accent": false,
     "source": "TBS NEWS DIG",
     "time": "21:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03WG5ad2pnQU5SbzNXWV9ZR2xxWUZBVjBVX1VEZGdRQnIyMzVxcXBCYlVNVGtJQWRVaGk3aHVxdnlBTDRiYUdrVmZuTmw3NUFZREdvSGNhRGRxenpJbGxsdTEybjM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWUdDQXltUHpfWFlXQV9md0FqaHpPaUFQM1BmbS1vT0pGeFN6U1hEazZldFdNdndLZ1hIeFllWEs4UXZNX011RV9oMmpqV2VKTDVHRlFGTklPT1BKS1FfeVp1Tl9KbGc?oc=5",
     "image": null
   },
   {
     "id": "auto-91f8828d271d",
     "title": "太陽光発電用PV材料市場、2035年までの見通し：大規模太陽光発電と蓄電池統合が需要を牽引 - ニュースと統計",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "20:11",
     "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMm1FaVJLSV96S3VabW51bVJOcUZKU05nMDBtcmVTd1Ryd25IQ25GbmNOWDF2bjVlT1dkekRmTU5LTWhvWlZxRG9VYkYyelRqWTZoYTZYUWU2alZ5elZBcFB6V243cnExQ2tIZEFsVy1vQTZDclJfNGpmTU5SRXQyNGhlVUxXNFBNU0dObjJ0dTNrQTVJdmlsU2J3UkJBS1FPX2tDMnNOemJXakFKcnFLcl9mbHBSMTJIZVh6cU50MGRwbW5HM2JkWUNaZF9MY1ZyNURlODk4ZmhwS3JZYkhZ?oc=5",
@@ -83,7 +163,7 @@
     "id": "auto-b2ab867a33ad",
     "title": "韓国済州島 再エネ活用 強風で発電 脱炭素の島へ ミカン栽培や水素バス 諸外国に先駆け実現目指す - www.chukei-news.co.jp",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "検索: 脱炭素・カーボンニュートラル",
     "time": "20:00",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yUC1FNmQ1U2tJQXZseWJRT3N2RGNkcElibEpGd2lmMXpUOHlFZjFBWk5PNlUzWEdZeVl4aVRNTWpSTkhUN29odXprVGVWR3E2V0JKelRoa0NpYS1wb3RuMFdRRUt4THZzVF9zbG1LTWpSdGc?oc=5",
@@ -103,10 +183,20 @@
     "id": "auto-75ccbbb8482a",
     "title": "英・蓄電池デベロッパーが日本進出、九州で運転開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "日経クロステック",
     "time": "20:00",
     "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWE10YW1oM29zZXhVVkpELXhwNDhJSGYwZEpkNEJXQk80SzE5ZjhmcUo2NlAzOGNlNGNZc3BSdE1Mb281b1lPa2x4S1V1ZTItMkUyQlJzTlp2SE1nNkpZSkJWOWhfRXZQdFFFNQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b9009be41fe1",
+    "title": "洋上風力導入・投資拡大へ/英国エネ省と覚書/経産省",
+    "category": "国際",
+    "accent": true,
+    "source": "建設通信新聞Digital",
+    "time": "19:55",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pcVhHeEV0S1hmSWxGWUM5Sk05T0p3UGxIWjJ6eDBJY3BtbnRyRVVZNW1GUklEbDQtZ2xRU0RsVTlLRmtYUFRQckZQelBpSTRya0IwdVFwdkU?oc=5",
     "image": null
   },
   {
@@ -116,7 +206,7 @@
     "accent": false,
     "source": "Simply Wall St",
     "time": "17:25",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2xrbjVrREkwYzBJLUh4RWJ4MmhUR3FHRGJWajBhUzFITk5STFdTaWNQMzltNGk0S3hEWktYdlhhYThpSXktanhfUmxfZkxpZ1A3cThMcXcyV3ZjT3NSOUpLOHF3Z3VGUHVETTAxNXR1TzNMVWI5RHM0dmdZR1Vnb3prdWFFLVlVYjNuZjNscG82MGE1clVKQk1YbTJORklV0gGgAUFVX3lxTE9TbGtuNWtESTBjMEktSHhFYngyaFRHcUdEYlZqMGFTMUhOTlJMV1NpY1AzOW00aTRLeERaS1h2WGFhOGlJeS1qeF9SbF9mTGlnUDdxOExxdzJXdmNPc1I5Sks4cXdndUZQdURNMDE1dHVPM0xVYjlEczR2Z1lHVWdvemt1YUUtWVViM25mM2xwbzYwYTVyVUpCTVhtMk5GSVU?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYno0QTRYenViNGJkUzRvWFpHaDRHWWVvdWQ4cWFDMUxFT09nYmxPTjNlWjJyZVFtQW1ESmpjYmd2d0xjeHAxZ2d1TWRZZ25XQVZkNWh2WXJ4VjRpWlNreTl6RGxodjdEbEExZ3NOX0ZMM21zdmZPeHhfZndyMFg3SUxIY1NoWGRFbHh5U1Qzdm9vT3g0alRWcTVnb9IBoAFBVV95cUxPU2xrbjVrREkwYzBJLUh4RWJ4MmhUR3FHRGJWajBhUzFITk5STFdTaWNQMzltNGk0S3hEWktYdlhhYThpSXktanhfUmxfZkxpZ1A3cThMcXcyV3ZjT3NSOUpLOHF3Z3VGUHVETTAxNXR1TzNMVWI5RHM0dmdZR1Vnb3prdWFFLVlVYjNuZjNscG82MGE1clVKQk1YbTJORklV?oc=5",
     "image": null
   },
   {
@@ -180,10 +270,20 @@
     "image": null
   },
   {
+    "id": "auto-f1048d1c984d",
+    "title": "Panasonic、充電式ニッケル水素電池「エネループ」に対応したUSB-C入力の急速充電器「BQ-CCE5」シリーズを発売。",
+    "category": "技術",
+    "accent": false,
+    "source": "はてなブックマーク",
+    "time": "14:41",
+    "source_url": "https://applech2.com/archives/20261111-panasonic-eleloop-usb-c-charger.html",
+    "image": "https://applech2.com/wp-content/uploads/2026/11/Panasonic-Eneloop-USB-C-Charger-Hero.webp"
+  },
+  {
     "id": "auto-02b2f98c3973",
     "title": "FlexGenがウェストバージニア州のMN8エネルギー86MW太陽光発電プロジェクトを統合 - Investing.com",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
     "time": "14:13",
     "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTkhFTEZCd3RabG40OGpMZ1ppcEVheEp2dDZQLUpISTVvZVUxcVhyMDltOUNRTHRjVTY1Q051UEZOSmxYODlGT1NPOW4teDZyb1NwRWlDZFl4NVAxelJveWNzdGRCdm9mUWtseWh5Z0Y?oc=5",
@@ -193,110 +293,10 @@
     "id": "auto-d4d380f83fb2",
     "title": "世界のエネルギー市場は脱炭素と電化の2つの流れが主流。日本政府は化石燃料重視で電化に逆行だが、産業界はアジアを軸とする海外の電化市場への輸出増の可能性。英シンクタンク分析（RIEF） | 一般社団法人環境金融研究機構",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "環境金融研究機構",
     "time": "14:01",
     "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Zak1qd3lYTW0zQXkwa3ZMZzVWbDQ2MGxDMVlEX050QVpDSHdPNGs4TXFLMXRodkNDakg3M0JRbGF0THY2?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9b4eb9094bb8",
-    "title": "テス・エンジニアリングとEBLサービス、太陽光発電設備の「オンサイト駆け付けサービス」に関する業務委託契約を締結",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "14:00",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IRGtKUXdXQ2dqVGo4Sk5LRllVSC1WNnktLWZid0RkQzRqYzFMZFhvazd5ZzJLcEEzTzFxYlpzejZ4cS1CVFVxWTFYdmtyajBPTllkOFVDVDUzZGFPUWVPYnBNV2tkQ0ZsS3hnLWxPR01OdzVGMU9fMWY1RQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-26b42f904984",
-    "title": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日",
-    "category": "技術",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "13:40",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nNUJITVNvbEY1ZTBLQzFPN1VBeVEwMjRUOWY0NlZpYUdneWh3Sk9KV2tndXl0dXdLaFpGQkRsRFhWNlVVMkN6R2plTElQVm5iei00NE9NWlN0NXBIX2xfSlZIWHdrLU1lTF9LMnQybS1TQQ?oc=5",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
-  },
-  {
-    "id": "auto-bc54e67b3e85",
-    "title": "カーボンニュートラル（＝CN）調査特別委員会。",
-    "category": "その他",
-    "accent": true,
-    "source": "選挙ドットコム",
-    "time": "13:38",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aQ0xuSlo3SmVHLTVaTlA0NU1sRDRwQlVILXd4V0pwZHlIMTVQbW5MNENTWUNxcUxyTm05WlV0NWxGVnFXLWpnZHZrY0RFSFl3YXU3aGtaUnRwOHNFd1E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d37d76ac2985",
-    "title": "モクチャウ区における太陽光発電プロジェクトの調査。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "13:18",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BcEVlYjBZdXMtQnhiVVljNmJtSjc2Uy14Y2VsV3d0UkJMajA3Z0FhRjAzLTd4d0k4bXpzeHI0b2lNREJORGFzTjVyMTlaSVViT1NZdGZxeWNDSEZXT1poVXZ2OW5tTWdmbUhrWnlBN3pPVi14ZFpwY2JrZzhOaXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-600bed20a70f",
-    "title": "ラムドン省は、ブオンクオップ水力発電ダムにおける太陽光発電プロジェクトの投資家を調整した。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "13:04",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb21kOFJZUnlCdWxRNFo1dkdBTUowWXRzcUVCd3RnUzlMaVdTQUk2eFRRUktDZGw3aWpKclBhQkVTcW5zb2g5elJiWW15dFU2aGNicU5ObVc3MXltNWdOWVhDU0gycFdvWUV3ZHhEdjZyaER6ZkxKNk5CdW1nNmw0eVJIcXpfOFd6S1p0T2V3Z2hCcGxMM21jbE9Nc19VU2pHU0hqeXJaOA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-e83216e22501",
-    "title": "カインホア省で現在稼働している電力容量のうち、太陽光発電と風力発電が約73％を占めている。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "12:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnlIVm9rYUVBT2lpNlJqQ3Q0eVcyRUM1ZjFZRExUdW9QNkMxYVdBWEZLS0VJNzU0WW9pVzVKUnFQa0hRbXZNZnk1dmlKdGxuZ2JkenNLa3ZlUkhMSnQyUXIwMWg3b3p3YTVlVktEWG5nelJGa0pEVjRCVTZ3c0R5eWJYRVpSVUlNV29EU0UySzBYdG9qNDU2dkJUUlBQS0pSMm1vVEdLRXY0VFU?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a355da534bb0",
-    "title": "アグリボルタイクスが太陽光発電でアグロトンネルの経済性を改善 - ニュースと統計",
-    "category": "その他",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "12:30",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTYtb2NCcDR5LVQyYUdBNm1pUjl4Vk1CaHNJN2twa09oa3VBb0Nqb3FBbVc3NXljQ1FheWd5Slc1S1VXSTNxb253RkYtUklrZDY5dUlIWmQ0eUozaThNT0dOVU9PX2RqRFVMNjlOeEtQTHItSjlnaFYxaVdnWVNBMWxkc180ei1TelB2TXpyRWhQMnZaTlo3dWJUVUFhSUZx?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a237f15cc183",
-    "title": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説",
-    "category": "その他",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "12:15",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HNkxmcHhwU19aWVg5b1c1NnduZWJXWG5MazhUOVEzcC0xbUdNdzRQcVVfU1c1dkNTT3VRa3ZvMFJLS1dFUUd3MlplSGxZakVydVh6M2NDQ3pVeEdkemJtUFRKNmxTelR5?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-71096ec4cc0a",
-    "title": "全国の洋上風力発電の関係自治体が情報共有 ノルウェーの先進事例から地域共生など学ぶ 秋田・男鹿市",
-    "category": "自治体",
-    "accent": true,
-    "source": "Excite エキサイト",
-    "time": "11:43",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdTRiampndzBwX2lwYlo2dE45YTlGcFlUTjI0TkJFWVQyUVBHa3lORDZjbDhWNmQ3VGt6VUJUcXJ4dmNCVWVHa3ZBOVU3cEstSExEcEVybVVUYXRtVW1MRGV1bDRHVjZJcDQ0ZEhB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8c460f8000ce",
-    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
-    "category": "その他",
-    "accent": false,
-    "source": "www.jogmec.go.jp",
-    "time": "11:32",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DYnJZZGlKLTNKOHNxNEQxSUh4b195TTRGNmQzMnBjOUNZTThHZ25rbmF3ZFZ2THY3NExiR0VSODF5TGtqV3EzTThRWGs4MVRNOFp4X2RveDdOdkxPaGpWOGxic2ppdjA?oc=5",
     "image": null
   }
 ]

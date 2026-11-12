@@ -11,42 +11,53 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-7388c7f18ae1",
-    "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
-    "summary": "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?wi…",
+    "id": "auto-6f29f20502a9",
+    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
+    "summary": "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/12(木) 5:40",
+    "time": "11/12(木) 9:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000183612.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-e450bf61cc30",
+      "id": "auto-b20a869f2540",
       "rank": 1,
-      "title": "株式会社エンブルー、鳥取県「境港市新屋町1158蓄電所」が完工、株式会社NAMIJUへ引き渡しを完了",
+      "title": "日本総研主催の「EV電池スマートユース協議会」を一般社団法人「EV電池スマートユーザー推進協議会」へ移行",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "11/12(木) 5:10",
+      "time": "11/12(木) 8:10",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000171049.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000222.000068011.html"
     },
     {
-      "id": "auto-cfa9556fa31c",
+      "id": "auto-d7f94766fe0a",
       "rank": 2,
-      "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
+      "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "11/12(木) 7:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/12/news017.html"
+    },
+    {
+      "id": "auto-7388c7f18ae1",
+      "rank": 3,
+      "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "11/12(木) 5:10",
+      "time": "11/12(木) 5:40",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000183612.html"
     },
     {
       "id": "auto-7e8cc8e1f5fa",
-      "rank": 3,
+      "rank": 4,
       "title": "レジル、集合住宅の「GX ZEH-M」達成をサポートするソリューションを展示会『JAPAN BUILD TOKYO』にて公開",
       "category": "暮らし",
       "source": "PR TIMES",
@@ -56,59 +67,48 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000117.000085002.html"
     },
     {
-      "id": "auto-2729f96355fe",
-      "rank": 4,
-      "title": "GBP株式会社、令和8年度「新エネ大賞」新エネルギー財団会長賞を受賞 ～旧型番パネル互換品による既設太陽光発電所の価値再生・向上リパワリングモデルが評価～",
-      "category": "企業",
-      "source": "PR TIMES",
-      "time": "11/12(木) 4:10",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000188.000110590.html"
-    },
-    {
-      "id": "auto-7ad60cf56402",
+      "id": "auto-28b1ccd11af7",
       "rank": 5,
-      "title": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6)",
-      "category": "技術",
-      "source": "JBpress",
-      "time": "11/11(水) 21:00",
+      "title": "株式会社竹中、本社工場と藤岡工場へ太陽光発電設備を導入 ～工場での再生可能エネルギー活用によりCO2排出量を削減～",
+      "category": "その他",
+      "source": "アットプレス",
+      "time": "11/12(木) 0:30",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veXhjazZ1Qm9hQWN1N21Jemw0ZGFqTnJJak81eGJoVk90TkRqQkJJVzdIbUZnbmxMWFVidUY1V202T1pUR1JUWTBPSF94b05hbFNjVExn?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJSk1BRnUtUmhvU3plTGpnZk45T25kY01nRHNvbjhhYVRXM0dOVnIwczlyQ1pyempuVWJkaURRbDlsV1hKcUZJSm92dk5JZw?oc=5"
     },
     {
-      "id": "auto-2b6b5eea6504",
+      "id": "auto-f1b90bfa3035",
       "rank": 6,
-      "title": "青森県内の風力発電量は昨年度「全国2位」 太陽光発電は全国17位 2016年度と比べると太陽光発電は2.7倍増・風力発電は2倍増で急速に開発進む",
+      "title": "太陽光発電「進める理由ない」／おいらせ町審議会、答申へ",
       "category": "その他",
-      "source": "TBS NEWS DIG",
-      "time": "11/11(水) 21:00",
+      "source": "47NEWS",
+      "time": "11/12(木) 0:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03WG5ad2pnQU5SbzNXWV9ZR2xxWUZBVjBVX1VEZGdRQnIyMzVxcXBCYlVNVGtJQWRVaGk3aHVxdnlBTDRiYUdrVmZuTmw3NUFZREdvSGNhRGRxenpJbGxsdTEybjM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBraU93X2F1SEpZZ0kwSVh0YkZkUEFqaEFkMWdrMWdrXzF5SWpuQXVFZmtSVWlUcWxHM01STnN3RHRxbnFhWVY3VFE2SQ?oc=5"
     },
     {
-      "id": "auto-91f8828d271d",
+      "id": "auto-5cb4a71e04c0",
       "rank": 7,
-      "title": "太陽光発電用PV材料市場、2035年までの見通し：大規模太陽光発電と蓄電池統合が需要を牽引 - ニュースと統計",
+      "title": "島根県出雲市の系統用蓄電所が需給調整市場に参入",
       "category": "その他",
-      "source": "IndexBox",
-      "time": "11/11(水) 20:11",
+      "source": "PR TIMES",
+      "time": "11/11(水) 23:30",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMm1FaVJLSV96S3VabW51bVJOcUZKU05nMDBtcmVTd1Ryd25IQ25GbmNOWDF2bjVlT1dkekRmTU5LTWhvWlZxRG9VYkYyelRqWTZoYTZYUWU2alZ5elZBcFB6V243cnExQ2tIZEFsVy1vQTZDclJfNGpmTU5SRXQyNGhlVUxXNFBNU0dObjJ0dTNrQTVJdmlsU2J3UkJBS1FPX2tDMnNOemJXakFKcnFLcl9mbHBSMTJIZVh6cU50MGRwbW5HM2JkWUNaZF9MY1ZyNURlODk4ZmhwS3JZYkhZ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jZW03bHVyWjRuV21qbnphLXhGempEakZ4Qkh0ZzBpSWloSGhWeG5rTmFmZWpMOGxVcEV3ZmxoZWkwbm1pSm45aVQxSVQ0ZmJEWnNLZUs4RkJGRjFNbE9aUG9xaUtWbXZPTkE?oc=5"
     },
     {
-      "id": "auto-b2ab867a33ad",
+      "id": "auto-a0aabc41eede",
       "rank": 8,
-      "title": "韓国済州島 再エネ活用 強風で発電 脱炭素の島へ ミカン栽培や水素バス 諸外国に先駆け実現目指す - www.chukei-news.co.jp",
-      "category": "技術",
-      "source": "検索: 脱炭素・カーボンニュートラル",
-      "time": "11/11(水) 20:00",
+      "title": "経産省、グリーンイノベーション基金で最大2,000億円の増額案 洋上風力・合成メタン開発を拡充",
+      "category": "その他",
+      "source": "ESG Journal",
+      "time": "11/11(水) 23:02",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yUC1FNmQ1U2tJQXZseWJRT3N2RGNkcElibEpGd2lmMXpUOHlFZjFBWk5PNlUzWEdZeVl4aVRNTWpSTkhUN29odXprVGVWR3E2V0JKelRoa0NpYS1wb3RuMFdRRUt4THZzVF9zbG1LTWpSdGc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4td3Y0WFJod2d4dnVUSjlYR2hDby0wM2dLLS1ZQmk0YUMzX1NWN1AtLVRLa0t3QmpOQUp3bHNmdVY2Tm9mMVloUzVrSVNDemd5bi1ISmF6YXVpYTg?oc=5"
     }
   ]
 }
