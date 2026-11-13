@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-89454fe7f109",
+    "title": "日本GXグループ、スタートアップの株主名簿・資本政策・株主総会を一元管理するオープンソース「OpenStock Japan」v1.0 を無償公開",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "21:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000060.000121500.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/121500/60/121500-60-ee81b22e81206502fe2d4357909ce774-2400x1260.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-651bd21b64d7",
+    "title": "【参加無料】系統用蓄電池の「適地不足」に新たな選択肢。コンテナ型では難しかった土地にも、キャビネット型蓄電池「Raptor」の可能性",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "21:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000323.000096742.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/96742/323/96742-323-723d7fb9521815529ec70fdb5d62940b-1901x1062.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-2bfd1e4ca04f",
     "title": "LehmanSoft Japan、自社開発の系統用蓄電池向けローカルEMSが「JC-STAR ★1」適合ラベルを取得",
     "category": "企業",
@@ -10,14 +30,54 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/116500/310/116500-310-089cf907f310edd6d301f1bc3d5a1e30-3017x1546.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-336f4b987272",
-    "title": "【コンフォートホテル紀伊田辺】「建築物省エネルギー性能表示制度（BELS）」の3つ星評価を取得",
-    "category": "企業",
+    "id": "auto-176a9b956a31",
+    "title": "水素生成市場の包括的概要：市場シェア、規模、6.7%のCAGR成長、および2026年から",
+    "category": "技術",
+    "accent": false,
+    "source": "pando.life",
+    "time": "11:32",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbExaX0gwOS1USllRaEMyalhUM1JXTUE5c3VSNm9nSllRaHV6X3FUa2h5dUdfRzhSTVotX0VOclBDR1VxY1RGYnln?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-498c6fdd2a2c",
+    "title": "韓国、太陽光発電式無人航空機（UAV）による7日間の飛行記録を樹立。",
+    "category": "国際",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "11:18",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1pxbmREQlhlUnFpMWRDVnIyNUhoUWtMa1dDeERxNVBoMXNfOEZHVzJyaEM1c1c0c04yUE5QMnJOeXhycTN0cTE3YU9JUXVYZEd1NlR6SGw0aHp4eXN1RmNsTG0tbW9BZW1DMEVSRE9mbWpOSW52SzBjVHpzMW1WSjBhLVJ3WndDU0hDX3FB?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6dd976a1f0f2",
+    "title": "洋上風力発電、風車の巨大基礎くい公開 秋田港飯島埠頭への搬入進む",
+    "category": "その他",
+    "accent": false,
+    "source": "47NEWS",
+    "time": "10:37",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1peVNtZV9aVk9MMF9PT0Q3aGNzWHpYcUVSSkU4MDhTUTI0a2dXWWI5UDAybTVKZC1UNnZHWER4QTRUMXZ1Y0I4NTJEQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-796e5bf3adcd",
+    "title": "男鹿・潟上・秋田沖の洋上風力発電事業、全体の約4割完了 工事を公開 計画通り2028年6月運転開始へ",
+    "category": "その他",
+    "accent": false,
+    "source": "Excite エキサイト",
+    "time": "10:15",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1eGNRUGR4UmppZ0lNemtZN1NyU2t2bEJfSWhaa25hNnpzYmhSbUd6cEVFODdERnRkX1JtVVlKdjhaNXdBNXlfTlhhRm5HR0I2Vzh5MGh5bm9pcnJvWHhnTy1SQ18xRi1PZWN2SFlR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5a2db43da373",
+    "title": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催",
+    "category": "その他",
     "accent": true,
     "source": "PR TIMES",
-    "time": "15:41",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000221.000053694.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/53694/221/53694-221-70a6bb323d9f3fceed7fed55b2b5b23f-1908x2700.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "time": "10:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTG52X0ZPUndGY2xtd3NTYUtHTG5fZmtOUHBINUczb1JpeDNCUmNfM0JTdmRYYTFjd2piRHJDLWJlS3QwcWt2OEY1YkhkOXFJSlVjZHFTY2ZOaHhSN2JKVWxiS2R2OHlmU0E?oc=5",
+    "image": null
   },
   {
     "id": "auto-c1239cc08bdf",
@@ -100,30 +160,10 @@
     "image": null
   },
   {
-    "id": "auto-afdab4080fb4",
-    "title": "国内初*¹、着床式洋上風力発電ラウンド案件向けBOP設備の長期定期点検・維持管理業務を受託",
-    "category": "その他",
-    "accent": true,
-    "source": "時事ドットコム",
-    "time": "7:46",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QOVNJNWZwYUpXdlNFX3hmSkx2WHN2M2xNY0RzMEF3QjZldUM2SFVwU2xDRGIwaUxQR2RHNVY5ZDBuTmJsaGZTMGhhMnZ3eXZXVk9OWmtfRGU0M19XNm5aRGVEOHBYem5uUHd3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-4264a5ed321e",
-    "title": "電気風電（688660.SH）：洋上風力発電の沖合・深水域への展開という趨勢に積極的に対応",
-    "category": "その他",
-    "accent": false,
-    "source": "Moomoo",
-    "time": "7:24",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVnh4WElaRmtqY1M0ZDktZUlZUFRObkZwdENKZ3FabS0xVFZMWGU5TThJRXNOMEREellIR21QdXVGUGloRFBHb2twaDNSRkd0Mi0wbTdIek1xZw?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-864324762ada",
     "title": "プロトン伝導性セラミック燃料電池、フッ素置換の効果を世界初の定量化…東北大",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "レスポンス（Response.jp）",
     "time": "6:30",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wOFdzRXpPVXhMQkFEdmxXOTUwY0UySFFNQy1qaEJsZ2ZmYlVSMEhGbWM1VE5fRUJsSVd0LTFPemYyeUI3Q0V2Z1h0NEZWLTBaUDFwLUpEQWFCR2F1WFdR?oc=5",
@@ -133,7 +173,7 @@
     "id": "auto-874d7b96f238",
     "title": "東京工場が太陽光発電設備を導入、再生可能エネルギーの活用を推進",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ヨネックス(YONEX)",
     "time": "6:11",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1TUpGRnpJcU42aV93WDJUYmpaUGs0aXpna3RULS1SUGZ0TUkzWGRUazA0SkVuajZ5cE11M0dXUWdkMWpQNy1NVGFxaE53UDRBZUwyYl9B?oc=5",
@@ -153,7 +193,7 @@
     "id": "auto-5c8fc0bfe3d2",
     "title": "人工衛星「いぶきＧＷ」の観測データ、国連のメタン排出監視システムで活用…ＣＯＰ３１で発表へ「脱炭素化に貢献」",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "読売新聞",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBSnNRLVB4NzV0SzdtT2s5OXpIUHRMY002ek45aG1JMkZwbU80RWlRcVUtcUFPTHNtemI2bEdlTkZ4UmNoaXVONkZzdFNWdTJKWDR3NUlLWnNmYTdSdV94YkhudG4?oc=5",
@@ -163,7 +203,7 @@
     "id": "auto-49569c76be0f",
     "title": "脱炭素化総会 日本開催 ２８年 「建築・建設」と「冷房」…ＣＯＰで発表",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "読売新聞",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5LWpqcGg3NDBBNko2VEhVczJ0amZscUVWWWdVQmRYWUZPX0FBQjk4TjczWlZfQVE3NzRPV3JVMktFSWQ0UC1TWU9CTHR1Sk0zZWlydWo1dU1xRWE0eVJ3SnpR?oc=5",
@@ -183,7 +223,7 @@
     "id": "auto-cb943507b563",
     "title": "太陽光発電の営業から「蓄電池も付ければ電気代がほぼゼロ」と勧められました。しかし、追加費用は「200万円」もかかるとのこと…。本当に電気代の節約だけで元を取れるのでしょうか？ (2026年11月13日掲載)",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ライブドアニュース",
     "time": "5:24",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFZVd0TU90LXBxaDJJZDZqWDEzTHpubkJZWHl1T2FkSTF1R0pORnNienVSZDVZX1ZaMlMyV2h4ZDhMVTJUeVFOVEh3VHE3YUJnTFRTVVdBQW95ZXpJUlE?oc=5",
@@ -193,7 +233,7 @@
     "id": "auto-9a8b5cee724f",
     "title": "水素吸蔵合金配送システム、神奈川県の陸上養殖実証事業に採用…三菱化工機が開発",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "レスポンス（Response.jp）",
     "time": "5:15",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ySXNaUkpxSV93QjhnV2szMlkzNEVIZ3IyZ29oaTBwYlpuNl9Mb0FIcERoZDhOUkxQdk5rTFU4cERhTVlyQ2VHNkJGSFpPSzZkZGtWQ01obklvQlNpTjJ3?oc=5",
@@ -210,6 +250,26 @@
     "image": null
   },
   {
+    "id": "auto-1c721641bfb8",
+    "title": "IEAの報告書によると、UAEは一人当たりの太陽光発電量で世界をリードする見込みだ。",
+    "category": "国際",
+    "accent": true,
+    "source": "internationalfinance.com",
+    "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXdJMGRJVi1KS3RqVGEtS2J0VHJHakRpRmVZOW5BNzI5V1NFVEZzRmhheXdULVZjREtjUmRfdDgwbFVUM2RQSTlJQ1RjaERDQ2k1WWs4bTVXLUttcjFsYmM5cFJYcmtzWThuSnJ0aFd0eUZwS2JFdDlHT2RfSFVGSGNNUUU4ZG5HNEdwbWJHNERqOFVDN3g0Y3I5ZElTbno1SW9JaURBdGE5ekZOQ2gwSERTQld4Z0Q1Wk5wZVR2czVjZw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-afdab4080fb4",
+    "title": "国内初*¹、着床式洋上風力発電ラウンド案件向けBOP設備の長期定期点検・維持管理業務を受託",
+    "category": "その他",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "5:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXV082WEtsY3ZWRW5GR2FrTGhkMHZmaXBKWC1tQXJURUxsQXNhdnFQMC1Yc3p6cXdhUGNfeVEzQVZ0bFBFdmNCdFZHUjNuZmxIU2VfdDRUeWpsOVg3QzNzLTA1QmFZZUhPaVE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-04d3b13b6772",
     "title": "中国の洋上風力発電、年間発電量が1000億キロワット時を突破",
     "category": "国際",
@@ -220,83 +280,23 @@
     "image": null
   },
   {
-    "id": "auto-7deb36ea4026",
-    "title": "【12/2(水)開催】元経済産業大臣 西村康稔氏の登壇が決定！気候変動・GX・エネルギー分野の政策共創カンファレンス「Policy Pitch for Climate Change」",
-    "category": "その他",
-    "accent": true,
-    "source": "RBB TODAY",
-    "time": "4:46",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CVEhXRlM0X0ROaGJTNVg2ZFllbHVZRmN3UjdRTkxhOHlLdGpYT3prNFBxaUI0a2JxVDVPa0xtQm5DODkzdnc5OVQ1OHBpMEstLUVzamo3RlpTQ0lPYTNvak9lUkdBOTFlVkJrVGhzSkl1WXpXVC1nUg?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-da8c91bfde20",
     "title": "レポートオーシャン株式会社プレスリリース : 再生可能エネルギー市場、2035年に4兆1,800億米ドルへ拡大予測、CAGR 10.10％で加速する脱炭素化と次世代エネルギー転換",
     "category": "その他",
-    "accent": false,
-    "source": "Excite エキサイト",
+    "accent": true,
+    "source": "ドリームニュース",
     "time": "4:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JNWo5bi1nWWpFSU1TakY4WnRUcV9kTXJHU0E0eWV1UWxCdDJ3MjJQd2dOZW5DMlVyQTNjNzhmZGhuMTJJNmp6ZDJ3a29xUy1kdnpkd1Z2WFZMR2RBTXJXOFNnYThOcXREQUE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42eERzTENSX2RpcGVhR1MtS2xVQmxuM1lVa1JnMDBhMTRYZjlEOEFIQXBlVzVHeS10aUd1V1o2MklrNEZMMGFhX3YxOTdGeTZoTG9B?oc=5",
     "image": null
   },
   {
-    "id": "auto-40c1bfd00fc5",
-    "title": "中国の脱炭素技術、2060年までに投資需要4320兆円 - ashu-chinastatistics.com",
+    "id": "auto-4a021b870c94",
+    "title": "中国の脱炭素技術、2060年までに投資需要4320兆円",
     "category": "国際",
     "accent": false,
-    "source": "検索: 脱炭素・カーボンニュートラル",
+    "source": "亜州ビジネス中国",
     "time": "4:29",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBS255dFlScUpXMVNvR1RvdjVJODRXaVdLallpaFdWTk1YeHdITTNPOFdoZXE3MFlzQWMtd2F1UXF6dk1KV21POHpCYXFTa3Y4cU1zSHB4X19kZS0yWkdQOW53OVVzV2R2?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c13e9244d0a4",
-    "title": "DSVとグーグル、SAFで航空貨物の脱炭素加速",
-    "category": "その他",
-    "accent": true,
-    "source": "LOGISTICS TODAY",
-    "time": "4:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzeW1sQlRlbUY2V1RBWnpRM3RwMVZnYi1xWUpBOE1uUDFsVW9oa0xoU0N4c3o1SGtJNVNuZmRNWjNPcTZzd0NMX0xB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b4f851f5bcb0",
-    "title": "FIP転換済み太陽光発電所の蓄電池併設を推進",
-    "category": "その他",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "4:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02R0hBNkt3WXBSUW9UektwdU1pX2hsLVhRQk53VmxBODYwTFF3NnNXVFlaZkZaankycG84XzFCUE5TWHJ1YnB1S191d295RDFpalNjeGI1a1FYbmtSbUxOdEI3X2hkV0Q5Nnc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-18326f246f38",
-    "title": "東京都「グリーン水素率先利用事業者」の認証を取得",
-    "category": "技術",
-    "accent": false,
-    "source": "Science Tokyo",
-    "time": "3:41",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSnZFNlJ4NURucE5tZzdzcDU5ZUpZdjVtUkE0MERuV0FobVBaMXBFakFZcTlpci1zc2Z3bUxPRUtlTnlmdndqbW1vSGhWdGltZ0ozc29B?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ec6c07c69562",
-    "title": "タンザニアの新興企業、太陽光発電で泥水を「安全な水」に変える",
-    "category": "その他",
-    "accent": true,
-    "source": "オルタナ",
-    "time": "3:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlNnZmU210OTFxOXpBY2M1aXZoS2NGQm1yNE5vWk5saG9aY0V0VWJoam5tdHZPR21oQ0dHZHFVSTRGbGMzREdGcg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f728c5bbdb63",
-    "title": "水素輸送パイプラインの世界市場（2026年～2032年）、市場規模（気体水素パイプライン、液体水素パイプライン）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "3:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xS2x0Nlg4MjFQVC1sWlNFTjU1ZjNLNERpaVUxNmF4U3l2UENzUnlpckJNR3BfVEdrdlJ6c01kYmRfMlJpaV9pZG5ISTVNVkk?oc=5",
     "image": null
   }
 ]

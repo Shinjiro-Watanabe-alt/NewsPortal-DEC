@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-2bfd1e4ca04f",
-    "title": "LehmanSoft Japan、自社開発の系統用蓄電池向けローカルEMSが「JC-STAR ★1」適合ラベルを取得",
-    "summary": "[Lehman Hodings] LehmanSoft Japan株式会社（本社：東京都千代田区、以下「当社」）は、自社開発のEMS（エネルギーマネジメントシステム）ソフトウェアを搭載した系統用蓄電池向けローカル制御製品「LehmanSoft BESS Gateway」（...",
+    "id": "auto-89454fe7f109",
+    "title": "日本GXグループ、スタートアップの株主名簿・資本政策・株主総会を一元管理するオープンソース「OpenStock Japan」v1.0 を無償公開",
+    "summary": "[日本GXグループ（JGX）] [画像1: https://prcdn.freetls.fastly.net/release_image/121500/60/121500-60-ee81b22e81206502fe2d4357909ce774-2400x1260.png?widt…",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/13(金) 16:15",
+    "time": "11/13(金) 21:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000310.000116500.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/116500/310/116500-310-089cf907f310edd6d301f1bc3d5a1e30-3017x1546.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000060.000121500.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/121500/60/121500-60-ee81b22e81206502fe2d4357909ce774-2400x1260.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-336f4b987272",
+      "id": "auto-651bd21b64d7",
       "rank": 1,
-      "title": "【コンフォートホテル紀伊田辺】「建築物省エネルギー性能表示制度（BELS）」の3つ星評価を取得",
+      "title": "【参加無料】系統用蓄電池の「適地不足」に新たな選択肢。コンテナ型では難しかった土地にも、キャビネット型蓄電池「Raptor」の可能性",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "11/13(金) 15:41",
+      "time": "11/13(金) 21:10",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000221.000053694.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000323.000096742.html"
+    },
+    {
+      "id": "auto-2bfd1e4ca04f",
+      "rank": 2,
+      "title": "LehmanSoft Japan、自社開発の系統用蓄電池向けローカルEMSが「JC-STAR ★1」適合ラベルを取得",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/13(金) 16:15",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000310.000116500.html"
+    },
+    {
+      "id": "auto-176a9b956a31",
+      "rank": 3,
+      "title": "水素生成市場の包括的概要：市場シェア、規模、6.7%のCAGR成長、および2026年から",
+      "category": "技術",
+      "source": "pando.life",
+      "time": "11/13(金) 11:32",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbExaX0gwOS1USllRaEMyalhUM1JXTUE5c3VSNm9nSllRaHV6X3FUa2h5dUdfRzhSTVotX0VOclBDR1VxY1RGYnln?oc=5"
+    },
+    {
+      "id": "auto-498c6fdd2a2c",
+      "rank": 4,
+      "title": "韓国、太陽光発電式無人航空機（UAV）による7日間の飛行記録を樹立。",
+      "category": "国際",
+      "source": "Vietnam.vn",
+      "time": "11/13(金) 11:18",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1pxbmREQlhlUnFpMWRDVnIyNUhoUWtMa1dDeERxNVBoMXNfOEZHVzJyaEM1c1c0c04yUE5QMnJOeXhycTN0cTE3YU9JUXVYZEd1NlR6SGw0aHp4eXN1RmNsTG0tbW9BZW1DMEVSRE9mbWpOSW52SzBjVHpzMW1WSjBhLVJ3WndDU0hDX3FB?oc=5"
+    },
+    {
+      "id": "auto-6dd976a1f0f2",
+      "rank": 5,
+      "title": "洋上風力発電、風車の巨大基礎くい公開 秋田港飯島埠頭への搬入進む",
+      "category": "その他",
+      "source": "47NEWS",
+      "time": "11/13(金) 10:37",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1peVNtZV9aVk9MMF9PT0Q3aGNzWHpYcUVSSkU4MDhTUTI0a2dXWWI5UDAybTVKZC1UNnZHWER4QTRUMXZ1Y0I4NTJEQQ?oc=5"
+    },
+    {
+      "id": "auto-796e5bf3adcd",
+      "rank": 6,
+      "title": "男鹿・潟上・秋田沖の洋上風力発電事業、全体の約4割完了 工事を公開 計画通り2028年6月運転開始へ",
+      "category": "その他",
+      "source": "Excite エキサイト",
+      "time": "11/13(金) 10:15",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1eGNRUGR4UmppZ0lNemtZN1NyU2t2bEJfSWhaa25hNnpzYmhSbUd6cEVFODdERnRkX1JtVVlKdjhaNXdBNXlfTlhhRm5HR0I2Vzh5MGh5bm9pcnJvWHhnTy1SQ18xRi1PZWN2SFlR?oc=5"
+    },
+    {
+      "id": "auto-5a2db43da373",
+      "rank": 7,
+      "title": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催",
+      "category": "その他",
+      "source": "PR TIMES",
+      "time": "11/13(金) 10:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTG52X0ZPUndGY2xtd3NTYUtHTG5fZmtOUHBINUczb1JpeDNCUmNfM0JTdmRYYTFjd2piRHJDLWJlS3QwcWt2OEY1YkhkOXFJSlVjZHFTY2ZOaHhSN2JKVWxiS2R2OHlmU0E?oc=5"
     },
     {
       "id": "auto-c1239cc08bdf",
-      "rank": 2,
+      "rank": 8,
       "title": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜",
       "category": "その他",
       "source": "NHKニュース",
       "time": "11/13(金) 9:14",
-      "tag": "NEW",
+      "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWmdQMF9jbEtKMWc0bWc2bUdmMnlRVmsyMUk1UGF5MEgxWWM3WjU3Y2dGOVJjS1JpSnVqZUx3U2hYZGJPOTNxMFBpb2ZhYk5ZQ1hzOWNDN0Z6TmVwNnhR?oc=5"
-    },
-    {
-      "id": "auto-46f8f513fc61",
-      "rank": 3,
-      "title": "秋田港に搬入される洋上風力発電の支柱「モノパイル」＝13日午前、秋田市 - 秋田沖風力発電、巨大支柱を搬入 28年運転へ、JERAらが公開 - 写真・画像(1/1)",
-      "category": "その他",
-      "source": "西日本新聞me",
-      "time": "11/13(金) 9:06",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9neHBhVk5nZ3BaYmNnRWEwei1nYWN0bXpsamt4d0o3RmdiWUJYM1ljUnM4ZWVrdllqYUlydHlYTXdYVTJNdU9MOTRTMUg4TW5iWnVjT0wwdw?oc=5"
-    },
-    {
-      "id": "auto-48de6d5b8365",
-      "rank": 4,
-      "title": "東京製鐵の株価上昇余地をアクティビスト提言から解く――脱炭素とデータセンター特需の狭間で揺れる電炉首位の設備出口戦略（Finasee）",
-      "category": "その他",
-      "source": "Yahoo!ニュース",
-      "time": "11/13(金) 8:31",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNm1WTjROMWZteEQ0LVAtOVAxSTJUZXp6OGpxSXRXcEdXU2RZbXdFZk53bHAwd0VneTVkLUhJc2JRT29NdUQzb0JMT3JncGxPSVVfR1R1Z21XMzZmbTRmYzVLN1BIS0N5ZmtTMnV1NzJpUHBwOVhEZWtaamRmRzQ?oc=5"
-    },
-    {
-      "id": "auto-1fec90322004",
-      "rank": 5,
-      "title": "職人不足・脱炭素に効く「明日から使える解」が集結！「施工省力化」「建築DX」「上質インテリア」で変わる家づくり",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "11/13(金) 8:21",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkMFA5eXl3MXJOamRvRmFQcUh4eXlrajlHVkRfcGNjNXhKbzZqMU9aMktUTk9qanpJYVpUNkxMdGJ6dUZoeDFjNUhSekZGWnVGZHdBMFVVb1VpZE95cDRTSU5qdWdzOEN3?oc=5"
-    },
-    {
-      "id": "auto-ae549988b15a",
-      "rank": 6,
-      "title": "倉敷化工社長に西井郁也氏昇格 マツダ出身、脱炭素化などに対応",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "11/13(金) 8:21",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iZldjWkRRZGtsQTZnQThKWVYydUFIbmNwZkVMQmdTUmpYVjV2RXBVdXZUSkV4QzNRbW1kNV9wdmtZNUZkc2dualRpaE1iQ2Z4Q1E?oc=5"
-    },
-    {
-      "id": "auto-c5aa99a35514",
-      "rank": 7,
-      "title": "カーボンクレジットと地域貢献をテーマにした無料オンラインセミナーを12月に開催",
-      "category": "自治体",
-      "source": "ニコニコニュース",
-      "time": "11/13(金) 8:15",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WUY5ZXpnVDItQUExanFvb1hndmlmOFFZNzZvLVRIZzZWdTM2QkZHaUdtb3kzNWFOLWRKYm9DMDZPYXVGencySzZvazdUQ1cwV2d6TEdXa1B3MFIwLWo1YlIxMWV6OWRTMUhWem5JZFU2LWV0dmRwSzJoNA?oc=5"
-    },
-    {
-      "id": "auto-0dd6254e0edd",
-      "rank": 8,
-      "title": "秋田沖風力発電、巨大支柱を搬入 ２８年運転へ、ＪＥＲＡらが公開",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "11/13(金) 8:12",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QeTNSZnRRV296VV9iM0d5ZUc0LVZVZU1PZ3ZlQnNvSWxTVFJvN3BhXzFZbGROT3B4RmJzckVCZ194QkpyWm9xSG9xUmRuLXRrRUZMU2tfR0JGb28?oc=5"
     }
   ]
 }
