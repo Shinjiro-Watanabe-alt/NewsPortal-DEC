@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-8c460f8000ce",
-    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
-    "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、2026年11月9日、ベトナム・タインホア省人民委員会およびベトナム国家産業エネルギーグループ（Petrovietnam、以下「ペトロベトナム」）との間で、タインホ...",
+    "id": "auto-6f29f20502a9",
+    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
+    "summary": "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/14(土) 7:10",
+    "time": "11/14(土) 11:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000904.000012624.html",
-    "image": null
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
   "headlines": [
     {
-      "id": "auto-5a2db43da373",
+      "id": "auto-cfa9556fa31c",
       "rank": 1,
+      "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/14(土) 11:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html"
+    },
+    {
+      "id": "auto-43aff73e1a55",
+      "rank": 2,
+      "title": "ホーチミン市は、貧困世帯が太陽光発電システムを設置する際に、最大5000万ベトナムドンの補助金を提供する案を提示した。",
+      "category": "その他",
+      "source": "Vietnam.vn",
+      "time": "11/14(土) 3:03",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeURsUV9mLS1nckk5WkNLU2hFX05SaUk0cGNrbjUwQ25hN1pvU2doTnFzSU5fOXhib2hKaUo2c2ZzTmpXSEhGNUdlQ2Nia252V3RFT2duamt1Q1N2WFFkSHA2Sk1RZkRySGhpX1JIREg0c1M3bmJvQzF0WnlxYnJZVUVsd2FPUXlpUWZmcFJJVDZ2elN0cWJ2bGJEWQ?oc=5"
+    },
+    {
+      "id": "auto-f69150b45dff",
+      "rank": 3,
+      "title": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設",
+      "category": "その他",
+      "source": "中日新聞Web",
+      "time": "11/14(土) 3:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93U1FYbXJhTThNNjdIWG5lSUVJOTJOdlg3WnkyUUdXR0R4SEpTdEN3REt4dmxGU1R4Mkh4cGZERFVIazNVSWtGYnlXSDZnZXpqOXQ4OA?oc=5"
+    },
+    {
+      "id": "auto-1706ea086bd5",
+      "rank": 4,
+      "title": "現代自動車が水素の自動充填などのソリューションを公開！ 新型「エクシェント」の燃料電池バージョンも？（ベストカーWeb）",
+      "category": "技術",
+      "source": "Yahoo!ニュース",
+      "time": "11/14(土) 1:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekZtajV1ZjMxNkVFNnl4UURxaF9EcjhOSHUzam02b2JSVVFzaTgzekpsNkNMYVJMckNxMjQ2OWduZkFiSlBVLXRIRExiSHpkNlpfTUowQXhWbGZsN0lwRl8wdFpHQnd1NGNGWHR0cU1salFEZGZtME9LVWQyWXhNWlQyWXBhRnJuTVl0SDhn?oc=5"
+    },
+    {
+      "id": "auto-5a2db43da373",
+      "rank": 5,
       "title": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催",
       "category": "その他",
       "source": "ニコニコニュース",
       "time": "11/14(土) 0:30",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OaEp0Zk5LOExBNGp6c0ZiQkMxaGtwMGpPaU51U0JSZ0hYRnRhQldXcEVidFZqTGFGaWd6R2UtMnlYdVJXSExXbmVrT0h0aVhvUWRLN28zeWl5czdnUzhYZEVyN1ZWcVc0cDdKZWpncGZoNFFCSzZocDB2QQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KSXNlcVk2LWtXd1puRzBIYmxOM2tzVF9WQW92V2xSS05sMVRJd2h0NnJTNnZqOTZqTVRtcU9xWWd1VW1hOExzWE1uZ3JGb2ZNbGNCeEdPTHJiOVhBZzE4OWp2TkdJYkxjejlkR1VWbjlKTnVKWXZIZi1OWQ?oc=5"
     },
     {
-      "id": "auto-5006da53e588",
-      "rank": 2,
-      "title": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も",
-      "category": "その他",
-      "source": "岐阜新聞デジタル",
-      "time": "11/13(金) 23:49",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eW1nREs1Sm9kbWc1NmItbjFBR3R3TVVJcHBCQ2Z0RUNyeF9ZUWtBcjluSlJ5b2ZFZlFGU1JZckhrQ3g3OEVmNnRJZGJrQVFjZXY5TzBR?oc=5"
-    },
-    {
-      "id": "auto-c97d5988821f",
-      "rank": 3,
-      "title": "カーボンニュートラルな建築の進め方｜日本の制度・ZEB・低炭素素材の見方 – SDGs特化メディア-持続可能な未来のために",
-      "category": "その他",
-      "source": "mirasus.jp",
-      "time": "11/13(金) 23:09",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLWmI3TzA2bEctODQ4YXVMSWdnMkstV2plaThRSHpnRUhYcC1uV1VwcXRVbWRkckpqUUFuQjZOTTBESmdJZDc3T0U5VVo?oc=5"
-    },
-    {
-      "id": "auto-3a3db28eca99",
-      "rank": 4,
-      "title": "洋上風力の基礎や海底ケーブルを定期点検 ＯＫＡＯＧＥ、共同企業体に委託",
-      "category": "その他",
-      "source": "47NEWS",
-      "time": "11/13(金) 23:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84X2hUaDdXNDF3MG9fMGNuel9seU5adGc0WXYtNWFHaE05THlIYWRWcVVNWklzTDdILTZPU2ZZWUtOQlNSb2Rkb3U5UQ?oc=5"
-    },
-    {
-      "id": "auto-26b42f904984",
-      "rank": 5,
-      "title": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日",
-      "category": "技術",
-      "source": "Infoseek",
-      "time": "11/13(金) 22:10",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nNUJITVNvbEY1ZTBLQzFPN1VBeVEwMjRUOWY0NlZpYUdneWh3Sk9KV2tndXl0dXdLaFpGQkRsRFhWNlVVMkN6R2plTElQVm5iei00NE9NWlN0NXBIX2xfSlZIWHdrLU1lTF9LMnQybS1TQQ?oc=5"
-    },
-    {
-      "id": "auto-44f01a13aa78",
+      "id": "auto-1cc9964fe14b",
       "rank": 6,
-      "title": "計器用変流器市場の2035年予測：スマートグリッドの導入と再生可能エネルギーの統合が成長をけん引",
+      "title": "最速運転開始へ「順調」／洋上風力拠点・秋田港｜経済・産業｜青森ニュース｜Web東奥",
       "category": "その他",
-      "source": "IndexBox",
-      "time": "11/13(金) 21:06",
+      "source": "東奥日報社",
+      "time": "11/14(土) 0:24",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLQmpYbzR5OVdxV2J6dmthRmR2Mmg0WjlSblBKaVFGdXFXaDcwWHFrWHlrbkJBY05UMWZRbmlFSnpQNWlxQXo3T0RJT1VLankwUU14N2hDQ3A?oc=5"
+    },
+    {
+      "id": "auto-882ef3f140b7",
+      "rank": 7,
+      "title": "平壌で数千kW規模の太陽光発電／地方でも",
+      "category": "その他",
+      "source": "조선신보",
+      "time": "11/14(土) 0:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmJxR1FJRXpzbE5OTWhrS0prNFVPT2dpb1AxSDdnbnV3VWtFRzJlZzlVREJ4MUtQeF9HZU8yZTVjNkZvYjFrazA4OGZsQmNzM3h1bUM3aGI1N0VkTnZORXFOcVkzdDhyWUJKTDFZUk5uSjBNNEtlWnJ2ZmZPTGJKdzRmYUQ1YnpGWFN2OXBuemlzbmlGUFlpc2w0MlZBcm4wbFp4c2Q4TEVXM1hna1VBM3NSXy1QLWs3Tm5QMy00S2xhUjl6RlhtY1FPcXNkaE1xSkE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BNkJKdzlMN29Xb3ZxZW00R3VtMnljckh2RlM1ejk2OTZ4d3U2TmdmLWg2dWoxSE1QOEdPOEkxeTJVamZHSkZRX2FUTjA4eEx4NUVXWGR3?oc=5"
     },
     {
-      "id": "auto-0144d1b2a54e",
-      "rank": 7,
-      "title": "中国「一帯一路」がグリーン化、途上国の脱炭素を支援する一方で浮上する「新たな植民地主義」への懸念(1/7)",
-      "category": "国際",
-      "source": "JBpress",
-      "time": "11/13(金) 21:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiaEhlVFY0Z0lRU3ZiaXdMSHBkV0JoV0stNjFNb2toLTdyUkJkcTlhV2NkZVlJSnFIdERXSFNqLU5FY0Q1bGk0ZzNXZEpGeHZoVWU0aVBn?oc=5"
-    },
-    {
-      "id": "auto-c13e9244d0a4",
+      "id": "auto-54e52e1d54d8",
       "rank": 8,
-      "title": "DSVとグーグル、SAFで航空貨物の脱炭素加速",
+      "title": "太陽光発電の価格を引き上げ、蓄電池への投資を促進する。",
       "category": "その他",
-      "source": "LOGISTICS TODAY",
-      "time": "11/13(金) 20:48",
-      "tag": "",
+      "source": "Vietnam.vn",
+      "time": "11/13(金) 23:50",
+      "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzeW1sQlRlbUY2V1RBWnpRM3RwMVZnYi1xWUpBOE1uUDFsVW9oa0xoU0N4c3o1SGtJNVNuZmRNWjNPcTZzd0NMX0xB?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3V6T3I4NFIwbnNrVjR0aENOQ1J0eWpodFlBbnVsNjdIV2gyQzd0ZEJERFhaZ1ZLRlZpRm4tcEtPVlNlX1A5bjRfZUdBdlJyMDNhMnFMSEdKWUhXVG1hR1gzUy1RazE5azhjNHZ6djR0TU1pMjJpWnhKdW5PZEJpZU8xal91Zjg?oc=5"
     }
   ]
 }
