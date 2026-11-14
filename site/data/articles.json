@@ -1,61 +1,136 @@
 {
-  "auto-6f29f20502a9": {
-    "id": "auto-6f29f20502a9",
+  "auto-8c460f8000ce": {
+    "id": "auto-8c460f8000ce",
     "category": "企業",
-    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
+    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
     "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
-    "time": "11/14(土) 5:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000904.000012624.html",
+    "time": "11/14(土) 7:10",
     "comments": 0,
     "tags": [
-      "再エネ"
+      "カーボン"
     ],
-    "summary": "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購...",
+    "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、2026年11月9日、ベトナム・タインホア省人民委員会およびベトナム国家産業エネルギーグループ（Petrovietnam、以下「ペトロベトナム」）との間で、タインホ...",
     "body": [
-      "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購..."
+      "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、2026年11月9日、ベトナム・タインホア省人民委員会およびベトナム国家産業エネルギーグループ（Petrovietnam、以下「ペトロベトナム」）との間で、タインホ..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-5a2db43da373": {
+    "id": "auto-5a2db43da373",
+    "category": "その他",
+    "title": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OaEp0Zk5LOExBNGp6c0ZiQkMxaGtwMGpPaU51U0JSZ0hYRnRhQldXcEVidFZqTGFGaWd6R2UtMnlYdVJXSExXbmVrT0h0aVhvUWRLN28zeWl5czdnUzhYZEVyN1ZWcVc0cDdKZWpncGZoNFFCSzZocDB2QQ?oc=5",
+    "time": "11/14(土) 0:30",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
+    "body": [
+      "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-5006da53e588": {
+    "id": "auto-5006da53e588",
+    "category": "その他",
+    "title": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も",
+    "source": "岐阜新聞デジタル",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eW1nREs1Sm9kbWc1NmItbjFBR3R3TVVJcHBCQ2Z0RUNyeF9ZUWtBcjluSlJ5b2ZFZlFGU1JZckhrQ3g3OEVmNnRJZGJrQVFjZXY5TzBR?oc=5",
+    "time": "11/13(金) 23:49",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も&nbsp;&nbsp;岐阜新聞デジタル",
+    "body": [
+      "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も&nbsp;&nbsp;岐阜新聞デジタル"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-c97d5988821f": {
+    "id": "auto-c97d5988821f",
+    "category": "その他",
+    "title": "カーボンニュートラルな建築の進め方｜日本の制度・ZEB・低炭素素材の見方 – SDGs特化メディア-持続可能な未来のために",
+    "source": "mirasus.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLWmI3TzA2bEctODQ4YXVMSWdnMkstV2plaThRSHpnRUhYcC1uV1VwcXRVbWRkckpqUUFuQjZOTTBESmdJZDc3T0U5VVo?oc=5",
+    "time": "11/13(金) 23:09",
+    "comments": 0,
+    "tags": [
+      "カーボン"
+    ],
+    "summary": "カーボンニュートラルな建築の進め方｜日本の制度・ZEB・低炭素素材の見方 – SDGs特化メディア-持続可能な未来のために&nbsp;&nbsp;mirasus.jp",
+    "body": [
+      "カーボンニュートラルな建築の進め方｜日本の制度・ZEB・低炭素素材の見方 – SDGs特化メディア-持続可能な未来のために&nbsp;&nbsp;mirasus.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-3a3db28eca99": {
+    "id": "auto-3a3db28eca99",
+    "category": "その他",
+    "title": "洋上風力の基礎や海底ケーブルを定期点検 ＯＫＡＯＧＥ、共同企業体に委託",
+    "source": "47NEWS",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84X2hUaDdXNDF3MG9fMGNuel9seU5adGc0WXYtNWFHaE05THlIYWRWcVVNWklzTDdILTZPU2ZZWUtOQlNSb2Rkb3U5UQ?oc=5",
+    "time": "11/13(金) 23:00",
+    "comments": 0,
+    "tags": [
+      "洋上風力"
+    ],
+    "summary": "洋上風力の基礎や海底ケーブルを定期点検 ＯＫＡＯＧＥ、共同企業体に委託&nbsp;&nbsp;47NEWS",
+    "body": [
+      "洋上風力の基礎や海底ケーブルを定期点検 ＯＫＡＯＧＥ、共同企業体に委託&nbsp;&nbsp;47NEWS"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-26b42f904984": {
+    "id": "auto-26b42f904984",
+    "category": "技術",
+    "title": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日",
+    "source": "Infoseek",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nNUJITVNvbEY1ZTBLQzFPN1VBeVEwMjRUOWY0NlZpYUdneWh3Sk9KV2tndXl0dXdLaFpGQkRsRFhWNlVVMkN6R2plTElQVm5iei00NE9NWlN0NXBIX2xfSlZIWHdrLU1lTF9LMnQybS1TQQ?oc=5",
+    "time": "11/13(金) 22:10",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日&nbsp;&nbsp;Infoseek",
+    "body": [
+      "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日&nbsp;&nbsp;Infoseek"
     ],
     "related": [],
     "collected": true,
     "image": "https://prtimes.jp/common/pc_v4/og.png"
   },
-  "auto-cfa9556fa31c": {
-    "id": "auto-cfa9556fa31c",
-    "category": "企業",
-    "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html",
-    "time": "11/14(土) 5:10",
+  "auto-44f01a13aa78": {
+    "id": "auto-44f01a13aa78",
+    "category": "その他",
+    "title": "計器用変流器市場の2035年予測：スマートグリッドの導入と再生可能エネルギーの統合が成長をけん引",
+    "source": "IndexBox",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmJxR1FJRXpzbE5OTWhrS0prNFVPT2dpb1AxSDdnbnV3VWtFRzJlZzlVREJ4MUtQeF9HZU8yZTVjNkZvYjFrazA4OGZsQmNzM3h1bUM3aGI1N0VkTnZORXFOcVkzdDhyWUJKTDFZUk5uSjBNNEtlWnJ2ZmZPTGJKdzRmYUQ1YnpGWFN2OXBuemlzbmlGUFlpc2w0MlZBcm4wbFp4c2Q4TEVXM1hna1VBM3NSXy1QLWs3Tm5QMy00S2xhUjl6RlhtY1FPcXNkaE1xSkE?oc=5",
+    "time": "11/13(金) 21:06",
     "comments": 0,
     "tags": [
-      "蓄電池",
-      "蓄電"
+      "再生可能エネルギー"
     ],
-    "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+    "summary": "計器用変流器市場の2035年予測：スマートグリッドの導入と再生可能エネルギーの統合が成長をけん引&nbsp;&nbsp;IndexBox",
     "body": [
-      "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生..."
+      "計器用変流器市場の2035年予測：スマートグリッドの導入と再生可能エネルギーの統合が成長をけん引&nbsp;&nbsp;IndexBox"
     ],
     "related": [],
     "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/118/181124-118-3da87cc8ea26af9ebb1be1bc0a302d0d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  "auto-7388c7f18ae1": {
-    "id": "auto-7388c7f18ae1",
-    "category": "企業",
-    "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000183612.html",
-    "time": "11/14(土) 5:10",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?wi…",
-    "body": [
-      "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&..."
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "image": null
   },
   "auto-0144d1b2a54e": {
     "id": "auto-0144d1b2a54e",
@@ -115,6 +190,25 @@
     "related": [],
     "collected": true,
     "image": null
+  },
+  "auto-69b032a4d12e": {
+    "id": "auto-69b032a4d12e",
+    "category": "その他",
+    "title": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催",
+    "source": "Infoseek",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9icHJleVZPaE0ybkZwcWR0dHBvRjVxNS1uaG5PRDZNNlFsQ1E1a0VQT19yczcxT0hGUUN6SnowU3NsYlBodC1mZl9wX3ZObGlsbWRRd1RMWS1ZY3hTd1N6ZVpBR1ctRkhROTAzeGtSUTlFUQ?oc=5",
+    "time": "11/13(金) 20:10",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催&nbsp;&nbsp;Infoseek",
+    "body": [
+      "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催&nbsp;&nbsp;Infoseek"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/181124/119/181124-119-83cf890c3baad730bbf4478dadc45d4f-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "auto-e4976c5910a7": {
     "id": "auto-e4976c5910a7",
@@ -453,16 +547,16 @@
     "id": "auto-19560c2028ba",
     "category": "その他",
     "title": "最速運転開始へ「順調」／洋上風力拠点・秋田港",
-    "source": "au Webポータル",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VUHM4dzdyV2RtdDdLWnRFOUthcDhFUU1iOHlkYWFBSGZmTHlQWWVVSzNwTHVpOHB3YkIzd1NLUVZ5NTQ1VnlQSS00ek0zNldTQTZzRVVBQ29HTHNlbGVVVm0tQXdVNEhvZXlxODdn?oc=5",
+    "source": "47NEWS",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GVklhSXV2X1Y3bGlRWG1RYTY5ZjNxNFNSWDNjQmpQNzFwd3lEeC1NTHRoel9ydWhYYnNZOTlFYmpLbncwa0lDM19ocw?oc=5",
     "time": "11/13(金) 12:34",
     "comments": 0,
     "tags": [
       "洋上風力"
     ],
-    "summary": "最速運転開始へ「順調」／洋上風力拠点・秋田港&nbsp;&nbsp;au Webポータル",
+    "summary": "最速運転開始へ「順調」／洋上風力拠点・秋田港&nbsp;&nbsp;47NEWS",
     "body": [
-      "最速運転開始へ「順調」／洋上風力拠点・秋田港&nbsp;&nbsp;au Webポータル"
+      "最速運転開始へ「順調」／洋上風力拠点・秋田港&nbsp;&nbsp;47NEWS"
     ],
     "related": [],
     "collected": true,
@@ -615,25 +709,6 @@
     "summary": "男鹿・潟上・秋田沖の洋上風力発電事業、全体の約4割完了 工事を公開 計画通り2028年6月運転開始へ&nbsp;&nbsp;Excite エキサイト",
     "body": [
       "男鹿・潟上・秋田沖の洋上風力発電事業、全体の約4割完了 工事を公開 計画通り2028年6月運転開始へ&nbsp;&nbsp;Excite エキサイト"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-5a2db43da373": {
-    "id": "auto-5a2db43da373",
-    "category": "その他",
-    "title": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTG52X0ZPUndGY2xtd3NTYUtHTG5fZmtOUHBINUczb1JpeDNCUmNfM0JTdmRYYTFjd2piRHJDLWJlS3QwcWt2OEY1YkhkOXFJSlVjZHFTY2ZOaHhSN2JKVWxiS2R2OHlmU0E?oc=5",
-    "time": "11/13(金) 10:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "本土とつながらない電力系統で蓄電池は何を担うのか――宮古島の事例を読み解くウェビナーを開催&nbsp;&nbsp;PR TIMES"
     ],
     "related": [],
     "collected": true,
@@ -1294,25 +1369,6 @@
     "collected": true,
     "image": null
   },
-  "auto-f033375b8073": {
-    "id": "auto-f033375b8073",
-    "category": "その他",
-    "title": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oelRobS1lVFlROTlGa3A4eDNxaFhVRjdHMTJhYlR4TnFVbERpT2NjRzN0Yllwc2dWUGtSZjVOUEY1S3gzSkpiS01LR0JZakgwdmdPS1N0TWVCcEUwVmRSZEV2U2d6TFV5bG56aEFZenhMbldvRWp2SFR2TQ?oc=5",
-    "time": "11/13(金) 2:00",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-a6fe7e30c639": {
     "id": "auto-a6fe7e30c639",
     "category": "その他",
@@ -1332,21 +1388,20 @@
     "collected": true,
     "image": null
   },
-  "auto-2997e84c45d4": {
-    "id": "auto-2997e84c45d4",
+  "auto-f033375b8073": {
+    "id": "auto-f033375b8073",
     "category": "その他",
-    "title": "香冷協が総会 永原会長を再任 脱炭素へ冷媒回収・省エネ推進を強調",
-    "source": "建通新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGRtb3V4amd5dElIakdkUTBwRm1jTVlTMmZqNVhqZ3NoNTRhOVJmUERoZldDbVdBRGw5b2x2N1hNZm9Dak5sMUFWM3MtVnd1ZGxncHVqOHZYMUJoNzF0b2tXWUtRT3lCSm9teFhVWmt4TWRjcEtlM0pfbURFRDJRZA?oc=5",
-    "time": "11/13(金) 1:29",
+    "title": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】",
+    "source": "ドリームニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51MHVZdW1Yc04wcERIMHBwbXVVMXpUQzdjcm1aYXRiaGpzUzZkbVR0VE9aQzd3WHdaNk1xUGJNQXlmZnhNNDlNaXpWQ21HckJQS0lN?oc=5",
+    "time": "11/13(金) 1:00",
     "comments": 0,
     "tags": [
-      "脱炭素",
-      "省エネ"
+      "太陽光"
     ],
-    "summary": "香冷協が総会 永原会長を再任 脱炭素へ冷媒回収・省エネ推進を強調&nbsp;&nbsp;建通新聞",
+    "summary": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】&nbsp;&nbsp;ドリームニュース",
     "body": [
-      "香冷協が総会 永原会長を再任 脱炭素へ冷媒回収・省エネ推進を強調&nbsp;&nbsp;建通新聞"
+      "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】&nbsp;&nbsp;ドリームニュース"
     ],
     "related": [],
     "collected": true,
@@ -1390,63 +1445,6 @@
     "collected": true,
     "image": null
   },
-  "auto-5bf7e74e35bc": {
-    "id": "auto-5bf7e74e35bc",
-    "category": "その他",
-    "title": "日本集成材市場、2035年に51億1,000万米ドル規模へ拡大予測――国産材の高付加価値化、中大規模木造建築の普及、脱炭素投資が木材産業の競争構造を変える",
-    "source": "Newscast.jp",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VaG5nRHlJN3Z0NnpQNXNUSXlYbFY2OHZuWVRlOWNzTmtZekNLdnN2dGhRZXNBS05JcnVVUjhXLVRPNXo2Vks1ZTZWS3JFNjg?oc=5",
-    "time": "11/13(金) 0:10",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "日本集成材市場、2035年に51億1,000万米ドル規模へ拡大予測――国産材の高付加価値化、中大規模木造建築の普及、脱炭素投資が木材産業の競争構造を変える&nbsp;&nbsp;Newscast.jp",
-    "body": [
-      "日本集成材市場、2035年に51億1,000万米ドル規模へ拡大予測――国産材の高付加価値化、中大規模木造建築の普及、脱炭素投資が木材産業の競争構造を変える&nbsp;&nbsp;Newscast.jp"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-273c6b669385": {
-    "id": "auto-273c6b669385",
-    "category": "その他",
-    "title": "笑いで学ぶ脱炭素 与那原町、23日にPRイベント 護得久栄昇さんら出演（琉球新報）",
-    "source": "Yahoo!ニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMkxaM1FCOUppN21EUC1aak9CWmNPTFFhRG5nRkJBdHpzOEU0dHQ1eUY0alB0eTRvZ3RCeDhaMHFfVHlZNEVfLUlZcF9KYmxmRFhmR0RtcVNiR1JkZTlqdTh6VnVtQXRXQWJpUlBRb1ZLLXBrbjlrdzR1Zl8wc2c?oc=5",
-    "time": "11/13(金) 0:01",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "笑いで学ぶ脱炭素 与那原町、23日にPRイベント 護得久栄昇さんら出演（琉球新報）&nbsp;&nbsp;Yahoo!ニュース",
-    "body": [
-      "笑いで学ぶ脱炭素 与那原町、23日にPRイベント 護得久栄昇さんら出演（琉球新報）&nbsp;&nbsp;Yahoo!ニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-894b68010bda": {
-    "id": "auto-894b68010bda",
-    "category": "その他",
-    "title": "太陽光発電用湿式電子化学品の市場規模、2030年に47億3000万米ドル到達見込み",
-    "source": "ZDNET Japan",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81S0t1T3hjR2E3bHNDWEM5NHdPY1VwTTQ2THJ1MVYzeVNIVk9vN0pDQVQ2Z01oVkhNQ3otaTExdVoyMFZMSUt2cUxQVy1UZnY4VnJz?oc=5",
-    "time": "11/13(金) 0:00",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "太陽光発電用湿式電子化学品の市場規模、2030年に47億3000万米ドル到達見込み&nbsp;&nbsp;ZDNET Japan",
-    "body": [
-      "太陽光発電用湿式電子化学品の市場規模、2030年に47億3000万米ドル到達見込み&nbsp;&nbsp;ZDNET Japan"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-73f3575097cf": {
     "id": "auto-73f3575097cf",
     "category": "その他",
@@ -1461,44 +1459,6 @@
     "summary": "オーロラ・エナジー・リサーチ、住友商事の福島県浪江町蓄電所PFに市場レポート提供&nbsp;&nbsp;Dellows News",
     "body": [
       "オーロラ・エナジー・リサーチ、住友商事の福島県浪江町蓄電所PFに市場レポート提供&nbsp;&nbsp;Dellows News"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-caa3996ca4ac": {
-    "id": "auto-caa3996ca4ac",
-    "category": "暮らし",
-    "title": "手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう【藤本健のソーラーリポート】",
-    "source": "家電 Watch",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hOFpSUUE1UjFyVXp3b2k2RVR6UU9CYV9FRzB3UlU3ajN0M3pPal8tMjFPbDFiYU1fcEZoUFMxU2RNdWFxWjNvUW1UcWtWX3lMbTNvVkNYLXhqRWJXZGY0YU1hZHEzV2JfbHkwRUkydEJzdw?oc=5",
-    "time": "11/12(木) 23:04",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう【藤本健のソーラーリポート】&nbsp;&nbsp;家電 Watch",
-    "body": [
-      "手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう【藤本健のソーラーリポート】&nbsp;&nbsp;家電 Watch"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-26c734725aa3": {
-    "id": "auto-26c734725aa3",
-    "category": "その他",
-    "title": "タイゴエナジーとGoogle Cloud、AI活用ツールを組み合わせて太陽光発電設備の設置業者と電力会社を支援",
-    "source": "Business Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11MmZ6TnF0Vlp0Q2tMeXpLaVhmNGpuX3NiMW1RY1M3dDVELUhaNHE0bzRfdjBQUm5QbXFWZlJzUzFMSllhT1BSVnl0eGpibXh4aWdsQ2hONTdSWUlDdmxVY1BZcWhUek0?oc=5",
-    "time": "11/12(木) 22:17",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "タイゴエナジーとGoogle Cloud、AI活用ツールを組み合わせて太陽光発電設備の設置業者と電力会社を支援&nbsp;&nbsp;Business Wire",
-    "body": [
-      "タイゴエナジーとGoogle Cloud、AI活用ツールを組み合わせて太陽光発電設備の設置業者と電力会社を支援&nbsp;&nbsp;Business Wire"
     ],
     "related": [],
     "collected": true,
@@ -1603,25 +1563,6 @@
     "collected": true,
     "image": null
   },
-  "auto-2566ad6d0a2c": {
-    "id": "auto-2566ad6d0a2c",
-    "category": "その他",
-    "title": "サウジアラビア、3,200MWの第8ラウンド再生可能エネルギー案件で資格審査を開始 - ニュースと統計",
-    "source": "IndexBox",
-    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWMxZG9aTE1NbXpDakNWWlpmak5FWDItQkx4M2tKOEhROUIyWm84VFBUUld4YjQzai1ORVpBcWdFM1YxOVNOSHNwbXNZMDlLaTFVcmduVjZtNEo2bXFQU3RZUDFrSkNrbUdONjM1V2pna2xfMDM0YU1EeW1zZmJiYThjQ3ZvaVg3VmxSNTBPdElLRXVvY0dIV1F0cG1EcGxhdk1zTA?oc=5",
-    "time": "11/12(木) 13:42",
-    "comments": 0,
-    "tags": [
-      "再生可能エネルギー"
-    ],
-    "summary": "サウジアラビア、3,200MWの第8ラウンド再生可能エネルギー案件で資格審査を開始 - ニュースと統計&nbsp;&nbsp;IndexBox",
-    "body": [
-      "サウジアラビア、3,200MWの第8ラウンド再生可能エネルギー案件で資格審査を開始 - ニュースと統計&nbsp;&nbsp;IndexBox"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-6e824aaa2a09": {
     "id": "auto-6e824aaa2a09",
     "category": "国際",
@@ -1655,25 +1596,6 @@
     "summary": "令和8年度第3回東京都グリーン水素トライアル取引の入札結果について|11月&nbsp;&nbsp;都庁総合ホームページ",
     "body": [
       "令和8年度第3回東京都グリーン水素トライアル取引の入札結果について|11月&nbsp;&nbsp;都庁総合ホームページ"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-92d3ed40ec8f": {
-    "id": "auto-92d3ed40ec8f",
-    "category": "技術",
-    "title": "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨",
-    "source": "毎日新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PM3doZVMzTHBOWGFfSF9RSUd2bTZIdXFyQXJKUmwtOTVJXzNWMjQydEFVOWtvV3o0WWVDd2ZFYm1hLVJadnJfdEtpdFBMU0diMm9abGFkUV8yMTNETzVlSk0wOHl0Vks3?oc=5",
-    "time": "11/12(木) 7:40",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨&nbsp;&nbsp;毎日新聞",
-    "body": [
-      "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨&nbsp;&nbsp;毎日新聞"
     ],
     "related": [],
     "collected": true,
@@ -1854,6 +1776,26 @@
     "collected": true,
     "image": null
   },
+  "auto-7ad60cf56402": {
+    "id": "auto-7ad60cf56402",
+    "category": "技術",
+    "title": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？",
+    "source": "JBpress",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83QzNacEhxUjNSV3VCU1dhaVJETEVjU1hNMVd6TmhQVVh4QVo4UENmcDloZ0JwSmNvbkMzQjVGTEp3OU5jR1Jjc01XOUtFU0NjRjRRSkQxZVRVT2lGbWNnX2ZzU2Z3bzJW?oc=5",
+    "time": "11/12(木) 2:27",
+    "comments": 0,
+    "tags": [
+      "EV",
+      "水素"
+    ],
+    "summary": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？&nbsp;&nbsp;JBpress",
+    "body": [
+      "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？&nbsp;&nbsp;JBpress"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-5cb4a71e04c0": {
     "id": "auto-5cb4a71e04c0",
     "category": "その他",
@@ -1970,21 +1912,20 @@
     "collected": true,
     "image": null
   },
-  "auto-7ad60cf56402": {
-    "id": "auto-7ad60cf56402",
+  "auto-92d3ed40ec8f": {
+    "id": "auto-92d3ed40ec8f",
     "category": "技術",
-    "title": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6)",
-    "source": "JBpress",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veXhjazZ1Qm9hQWN1N21Jemw0ZGFqTnJJak81eGJoVk90TkRqQkJJVzdIbUZnbmxMWFVidUY1V202T1pUR1JUWTBPSF94b05hbFNjVExn?oc=5",
-    "time": "11/11(水) 21:00",
+    "title": "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨",
+    "source": "毎日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PM3doZVMzTHBOWGFfSF9RSUd2bTZIdXFyQXJKUmwtOTVJXzNWMjQydEFVOWtvV3o0WWVDd2ZFYm1hLVJadnJfdEtpdFBMU0diMm9abGFkUV8yMTNETzVlSk0wOHl0Vks3?oc=5",
+    "time": "11/11(水) 20:02",
     "comments": 0,
     "tags": [
-      "EV",
       "水素"
     ],
-    "summary": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6)&nbsp;&nbsp;JBpress",
+    "summary": "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨&nbsp;&nbsp;毎日新聞",
     "body": [
-      "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6)&nbsp;&nbsp;JBpress"
+      "検証 長崎県政／中 グリーン水素事業 投資に見合う躍進なるか 研究者「イメージ先行」 ／山梨&nbsp;&nbsp;毎日新聞"
     ],
     "related": [],
     "collected": true,
@@ -2143,24 +2084,24 @@
     "collected": true,
     "image": null
   },
-  "auto-69b032a4d12e": {
-    "id": "auto-69b032a4d12e",
-    "category": "その他",
-    "title": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催",
-    "source": "Infoseek",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9icHJleVZPaE0ybkZwcWR0dHBvRjVxNS1uaG5PRDZNNlFsQ1E1a0VQT19yczcxT0hGUUN6SnowU3NsYlBodC1mZl9wX3ZObGlsbWRRd1RMWS1ZY3hTd1N6ZVpBR1ctRkhROTAzeGtSUTlFUQ?oc=5",
-    "time": "11/11(水) 9:00",
+  "auto-29aa27116aa5": {
+    "id": "auto-29aa27116aa5",
+    "category": "自治体",
+    "title": "日本製鉄のGXスチール採用家具、鹿嶋市と姫路市の市役所に導入",
+    "source": "ニコニコニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xUTkzWkZuc0NINkk2S1o4MzVHakcwREtFMWhpZWQ2azBMY0VfNTcwMHctaV9adHFJNmlXdHJsMC1wSW5EeVJYV2NVQ3NOZTJRY25mUkNDdTVUTUx3bmpNX3VoT2otSGZMVWxxMS1ZSnprZlRtUUE?oc=5",
+    "time": "11/11(水) 8:33",
     "comments": 0,
     "tags": [
-      "蓄電池"
+      "GX"
     ],
-    "summary": "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催&nbsp;&nbsp;Infoseek",
+    "summary": "日本製鉄のGXスチール採用家具、鹿嶋市と姫路市の市役所に導入&nbsp;&nbsp;ニコニコニュース",
     "body": [
-      "データセンターの電力需要増は蓄電池に何を求めるのか――系統調整力とバックアップ電源の両面を読み解くウェビナーを開催&nbsp;&nbsp;Infoseek"
+      "日本製鉄のGXスチール採用家具、鹿嶋市と姫路市の市役所に導入&nbsp;&nbsp;ニコニコニュース"
     ],
     "related": [],
     "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/119/181124-119-83cf890c3baad730bbf4478dadc45d4f-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "image": null
   },
   "auto-e805677acaae": {
     "id": "auto-e805677acaae",
@@ -2259,6 +2200,25 @@
     "collected": true,
     "image": null
   },
+  "auto-d8b69b0cf3cd": {
+    "id": "auto-d8b69b0cf3cd",
+    "category": "企業",
+    "title": "ENEOS、通期純利益を2000億円上積み 原油高追い風も再エネで1118億円減損",
+    "source": "BigGo ファイナンス",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PdWwzNTFkU2d0aWo0RWpPbDUxdzdtZlB2Mm81dVlNd0x2d3h2S3RzR2otOWk3cmI1MzZSSWlHd1BQTXRKT292eE5sTEp5cDZIYUprRHhqOU9HMENEbEk2dTdTejllUmJfWGVvc0k3eUlNZzBW?oc=5",
+    "time": "11/11(水) 5:05",
+    "comments": 0,
+    "tags": [
+      "再エネ"
+    ],
+    "summary": "ENEOS、通期純利益を2000億円上積み 原油高追い風も再エネで1118億円減損&nbsp;&nbsp;BigGo ファイナンス",
+    "body": [
+      "ENEOS、通期純利益を2000億円上積み 原油高追い風も再エネで1118億円減損&nbsp;&nbsp;BigGo ファイナンス"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-355b751d5b97": {
     "id": "auto-355b751d5b97",
     "category": "その他",
@@ -2330,64 +2290,6 @@
     "summary": "日本製鉄 GXスチール「NSCarbolex Neutral」を使用したオフィス家具が鹿嶋市・姫路市に初採用&nbsp;&nbsp;Digital PR Platform",
     "body": [
       "日本製鉄 GXスチール「NSCarbolex Neutral」を使用したオフィス家具が鹿嶋市・姫路市に初採用&nbsp;&nbsp;Digital PR Platform"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a3cb70863417": {
-    "id": "auto-a3cb70863417",
-    "category": "技術",
-    "title": "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援",
-    "source": "ｄメニューニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fNG1odFduaE9MZ0dkOEdPakQ5V0RPRHBYclVrRFZKZEVqd3luYjlTNE40bjVKcEhla0dnU3JGZ3d1cFQ0TjRKRUpfNmpTRXNQOVlNdXJmcHlMcmlBNXR4Q3NwTWIzVEZmUG40NVJ0TnMxa3J4cUg2aC1xREbSAXxBVV95cUxPXzRtaHRXbmhPTGdHZDhHT2pEOVdET0RwWHJVa0RWSmRFand5bmI5UzRONG41SnBIZWtHZ1NyRmd3dXBUNE40SkVKXzZqU0VzUDlZTXVyZnB5THJpQTV0eENzcE1iM1RGZlBuNDVSdE5zMWtyeHFINmgtcURG?oc=5",
-    "time": "11/10(火) 23:00",
-    "comments": 0,
-    "tags": [
-      "水素",
-      "CO2"
-    ],
-    "summary": "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援&nbsp;&nbsp;ｄメニューニュース",
-    "body": [
-      "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援&nbsp;&nbsp;ｄメニューニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-df2c6edeedce": {
-    "id": "auto-df2c6edeedce",
-    "category": "その他",
-    "title": "ライフプロシューマーが事業を本格開始 系統用蓄電池やFIP転換など4領域を展開へ",
-    "source": "Dellows News",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fN185SUFzTzR0d1hJZThVVW1MQ1BpY1JEaFBjYWtjZTVENEk3ZDhkQTN3cTREd1poWGtXejZwV0tIbFQ2MjMxbEV3ZEU5cUpKTmRNSEFCTmllOEstcDVOUE5qbEtaMElK?oc=5",
-    "time": "11/10(火) 22:42",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "ライフプロシューマーが事業を本格開始 系統用蓄電池やFIP転換など4領域を展開へ&nbsp;&nbsp;Dellows News",
-    "body": [
-      "ライフプロシューマーが事業を本格開始 系統用蓄電池やFIP転換など4領域を展開へ&nbsp;&nbsp;Dellows News"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-cec56d8ede74": {
-    "id": "auto-cec56d8ede74",
-    "category": "自治体",
-    "title": "ＪＲ西日本と中国電力 中国地域で蓄電池事業",
-    "source": "環境新聞オンライン",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRWhOVS1ZeGZuT3lJTXAxZ2RhTXUtUF9YejRjSmV6QkZRN29FNjIwdk9XTFRoa0xPSlpLbXNVVFV2WjVOZ3RkQ0pqOTMxNURtN3hnZzdqNzdJUzlMSXhuTVJpdG10cEZxNU1xZUk1Z2dZeElKVDFySlQxSQ?oc=5",
-    "time": "11/10(火) 22:00",
-    "comments": 0,
-    "tags": [
-      "蓄電池"
-    ],
-    "summary": "ＪＲ西日本と中国電力 中国地域で蓄電池事業&nbsp;&nbsp;環境新聞オンライン",
-    "body": [
-      "ＪＲ西日本と中国電力 中国地域で蓄電池事業&nbsp;&nbsp;環境新聞オンライン"
     ],
     "related": [],
     "collected": true,
@@ -5016,43 +4918,255 @@
     "collected": true,
     "image": null
   },
-  "auto-8c460f8000ce": {
-    "id": "auto-8c460f8000ce",
+  "auto-6f29f20502a9": {
+    "id": "auto-6f29f20502a9",
     "category": "企業",
-    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
+    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
     "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000904.000012624.html",
-    "time": "11/14(土) 1:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
+    "time": "11/14(土) 5:10",
     "comments": 0,
     "tags": [
-      "カーボン"
+      "再エネ"
     ],
-    "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、2026年11月9日、ベトナム・タインホア省人民委員会およびベトナム国家産業エネルギーグループ（Petrovietnam、以下「ペトロベトナム」）との間で、タインホ...",
+    "summary": "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購...",
     "body": [
-      "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、2026年11月9日、ベトナム・タインホア省人民委員会およびベトナム国家産業エネルギーグループ（Petrovietnam、以下「ペトロベトナム」）との間で、タインホ..."
+      "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  "auto-cfa9556fa31c": {
+    "id": "auto-cfa9556fa31c",
+    "category": "企業",
+    "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html",
+    "time": "11/14(土) 5:10",
+    "comments": 0,
+    "tags": [
+      "蓄電池",
+      "蓄電"
+    ],
+    "summary": "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生...",
+    "body": [
+      "[ジャパンブランディング株式会社] 蓄電システムの企画・設計から運営までを手がけるジャパンブランディング株式会社（本店：愛知県犬山市、代表取締役：前田雄吉、以下「当社」）は、GUS Technology（格斯科技）蓄電池の日本総代理店として、再生..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/181124/118/181124-118-3da87cc8ea26af9ebb1be1bc0a302d0d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-7388c7f18ae1": {
+    "id": "auto-7388c7f18ae1",
+    "category": "企業",
+    "title": "3分で読める！その蓄電所、故障したら修理できる？JC-STARと５年後のリスク【全3回 2026年10月関係省庁独自調査２.】",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000024.000183612.html",
+    "time": "11/14(土) 5:10",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?wi…",
+    "body": [
+      "[REVIX JAPAN株式会社] [画像1: https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prcdn.freetls.fastly.net/release_image/183612/24/183612-24-4e8deb3d52d1bf733f6f030580d4a193-1536x1024.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-2997e84c45d4": {
+    "id": "auto-2997e84c45d4",
+    "category": "その他",
+    "title": "香冷協が総会 永原会長を再任 脱炭素へ冷媒回収・省エネ推進を強調",
+    "source": "建通新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGRtb3V4amd5dElIakdkUTBwRm1jTVlTMmZqNVhqZ3NoNTRhOVJmUERoZldDbVdBRGw5b2x2N1hNZm9Dak5sMUFWM3MtVnd1ZGxncHVqOHZYMUJoNzF0b2tXWUtRT3lCSm9teFhVWmt4TWRjcEtlM0pfbURFRDJRZA?oc=5",
+    "time": "11/13(金) 1:29",
+    "comments": 0,
+    "tags": [
+      "脱炭素",
+      "省エネ"
+    ],
+    "summary": "香冷協が総会 永原会長を再任 脱炭素へ冷媒回収・省エネ推進を強調&nbsp;&nbsp;建通新聞",
+    "body": [
+      "香冷協が総会 永原会長を再任 脱炭素へ冷媒回収・省エネ推進を強調&nbsp;&nbsp;建通新聞"
     ],
     "related": [],
     "collected": true,
     "image": null
   },
-  "auto-26b42f904984": {
-    "id": "auto-26b42f904984",
-    "category": "技術",
-    "title": "「水素・クリーンエネルギー」連携を推進する米ワシントン州から、30名超の大規模経済代表団が来日",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000194425.html",
-    "time": "11/14(土) 1:10",
+  "auto-5bf7e74e35bc": {
+    "id": "auto-5bf7e74e35bc",
+    "category": "その他",
+    "title": "日本集成材市場、2035年に51億1,000万米ドル規模へ拡大予測――国産材の高付加価値化、中大規模木造建築の普及、脱炭素投資が木材産業の競争構造を変える",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VaG5nRHlJN3Z0NnpQNXNUSXlYbFY2OHZuWVRlOWNzTmtZekNLdnN2dGhRZXNBS05JcnVVUjhXLVRPNXo2Vks1ZTZWS3JFNjg?oc=5",
+    "time": "11/13(金) 0:10",
     "comments": 0,
     "tags": [
-      "水素"
+      "脱炭素"
     ],
-    "summary": "[Association of Washington Business] 米国ワシントン州から、30名を超えるビジネス、政府、農業分野のリーダーで構成される合同代表団が今週（11日から15日まで）、日本との貿易・投資関係をさらに強化するために東京を訪問しています。本ミッション..…",
+    "summary": "日本集成材市場、2035年に51億1,000万米ドル規模へ拡大予測――国産材の高付加価値化、中大規模木造建築の普及、脱炭素投資が木材産業の競争構造を変える&nbsp;&nbsp;Newscast.jp",
     "body": [
-      "[Association of Washington Business] 米国ワシントン州から、30名を超えるビジネス、政府、農業分野のリーダーで構成される合同代表団が今週（11日から15日まで）、日本との貿易・投資関係をさらに強化するために東京を訪問しています。本ミッション..."
+      "日本集成材市場、2035年に51億1,000万米ドル規模へ拡大予測――国産材の高付加価値化、中大規模木造建築の普及、脱炭素投資が木材産業の競争構造を変える&nbsp;&nbsp;Newscast.jp"
     ],
     "related": [],
     "collected": true,
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "image": null
+  },
+  "auto-273c6b669385": {
+    "id": "auto-273c6b669385",
+    "category": "その他",
+    "title": "笑いで学ぶ脱炭素 与那原町、23日にPRイベント 護得久栄昇さんら出演（琉球新報）",
+    "source": "Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMkxaM1FCOUppN21EUC1aak9CWmNPTFFhRG5nRkJBdHpzOEU0dHQ1eUY0alB0eTRvZ3RCeDhaMHFfVHlZNEVfLUlZcF9KYmxmRFhmR0RtcVNiR1JkZTlqdTh6VnVtQXRXQWJpUlBRb1ZLLXBrbjlrdzR1Zl8wc2c?oc=5",
+    "time": "11/13(金) 0:01",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "笑いで学ぶ脱炭素 与那原町、23日にPRイベント 護得久栄昇さんら出演（琉球新報）&nbsp;&nbsp;Yahoo!ニュース",
+    "body": [
+      "笑いで学ぶ脱炭素 与那原町、23日にPRイベント 護得久栄昇さんら出演（琉球新報）&nbsp;&nbsp;Yahoo!ニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-894b68010bda": {
+    "id": "auto-894b68010bda",
+    "category": "その他",
+    "title": "太陽光発電用湿式電子化学品の市場規模、2030年に47億3000万米ドル到達見込み",
+    "source": "ZDNET Japan",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81S0t1T3hjR2E3bHNDWEM5NHdPY1VwTTQ2THJ1MVYzeVNIVk9vN0pDQVQ2Z01oVkhNQ3otaTExdVoyMFZMSUt2cUxQVy1UZnY4VnJz?oc=5",
+    "time": "11/13(金) 0:00",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "太陽光発電用湿式電子化学品の市場規模、2030年に47億3000万米ドル到達見込み&nbsp;&nbsp;ZDNET Japan",
+    "body": [
+      "太陽光発電用湿式電子化学品の市場規模、2030年に47億3000万米ドル到達見込み&nbsp;&nbsp;ZDNET Japan"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-caa3996ca4ac": {
+    "id": "auto-caa3996ca4ac",
+    "category": "暮らし",
+    "title": "手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう【藤本健のソーラーリポート】",
+    "source": "家電 Watch",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hOFpSUUE1UjFyVXp3b2k2RVR6UU9CYV9FRzB3UlU3ajN0M3pPal8tMjFPbDFiYU1fcEZoUFMxU2RNdWFxWjNvUW1UcWtWX3lMbTNvVkNYLXhqRWJXZGY0YU1hZHEzV2JfbHkwRUkydEJzdw?oc=5",
+    "time": "11/12(木) 23:04",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう【藤本健のソーラーリポート】&nbsp;&nbsp;家電 Watch",
+    "body": [
+      "手作りで自宅が太陽光発電所に? 出前発電所Zeroを作ってみよう【藤本健のソーラーリポート】&nbsp;&nbsp;家電 Watch"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-26c734725aa3": {
+    "id": "auto-26c734725aa3",
+    "category": "その他",
+    "title": "タイゴエナジーとGoogle Cloud、AI活用ツールを組み合わせて太陽光発電設備の設置業者と電力会社を支援",
+    "source": "Business Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11MmZ6TnF0Vlp0Q2tMeXpLaVhmNGpuX3NiMW1RY1M3dDVELUhaNHE0bzRfdjBQUm5QbXFWZlJzUzFMSllhT1BSVnl0eGpibXh4aWdsQ2hONTdSWUlDdmxVY1BZcWhUek0?oc=5",
+    "time": "11/12(木) 22:17",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "タイゴエナジーとGoogle Cloud、AI活用ツールを組み合わせて太陽光発電設備の設置業者と電力会社を支援&nbsp;&nbsp;Business Wire",
+    "body": [
+      "タイゴエナジーとGoogle Cloud、AI活用ツールを組み合わせて太陽光発電設備の設置業者と電力会社を支援&nbsp;&nbsp;Business Wire"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-2566ad6d0a2c": {
+    "id": "auto-2566ad6d0a2c",
+    "category": "その他",
+    "title": "サウジアラビア、3,200MWの第8ラウンド再生可能エネルギー案件で資格審査を開始 - ニュースと統計",
+    "source": "IndexBox",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWMxZG9aTE1NbXpDakNWWlpmak5FWDItQkx4M2tKOEhROUIyWm84VFBUUld4YjQzai1ORVpBcWdFM1YxOVNOSHNwbXNZMDlLaTFVcmduVjZtNEo2bXFQU3RZUDFrSkNrbUdONjM1V2pna2xfMDM0YU1EeW1zZmJiYThjQ3ZvaVg3VmxSNTBPdElLRXVvY0dIV1F0cG1EcGxhdk1zTA?oc=5",
+    "time": "11/12(木) 13:42",
+    "comments": 0,
+    "tags": [
+      "再生可能エネルギー"
+    ],
+    "summary": "サウジアラビア、3,200MWの第8ラウンド再生可能エネルギー案件で資格審査を開始 - ニュースと統計&nbsp;&nbsp;IndexBox",
+    "body": [
+      "サウジアラビア、3,200MWの第8ラウンド再生可能エネルギー案件で資格審査を開始 - ニュースと統計&nbsp;&nbsp;IndexBox"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-a3cb70863417": {
+    "id": "auto-a3cb70863417",
+    "category": "技術",
+    "title": "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援",
+    "source": "ｄメニューニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fNG1odFduaE9MZ0dkOEdPakQ5V0RPRHBYclVrRFZKZEVqd3luYjlTNE40bjVKcEhla0dnU3JGZ3d1cFQ0TjRKRUpfNmpTRXNQOVlNdXJmcHlMcmlBNXR4Q3NwTWIzVEZmUG40NVJ0TnMxa3J4cUg2aC1xREbSAXxBVV95cUxPXzRtaHRXbmhPTGdHZDhHT2pEOVdET0RwWHJVa0RWSmRFand5bmI5UzRONG41SnBIZWtHZ1NyRmd3dXBUNE40SkVKXzZqU0VzUDlZTXVyZnB5THJpQTV0eENzcE1iM1RGZlBuNDVSdE5zMWtyeHFINmgtcURG?oc=5",
+    "time": "11/10(火) 23:00",
+    "comments": 0,
+    "tags": [
+      "水素",
+      "CO2"
+    ],
+    "summary": "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援&nbsp;&nbsp;ｄメニューニュース",
+    "body": [
+      "ENEOS、水素基金の2026年度助成対象者6名を決定 - 水素製造やCO2固定化などの研究を支援&nbsp;&nbsp;ｄメニューニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-df2c6edeedce": {
+    "id": "auto-df2c6edeedce",
+    "category": "その他",
+    "title": "ライフプロシューマーが事業を本格開始 系統用蓄電池やFIP転換など4領域を展開へ",
+    "source": "Dellows News",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fN185SUFzTzR0d1hJZThVVW1MQ1BpY1JEaFBjYWtjZTVENEk3ZDhkQTN3cTREd1poWGtXejZwV0tIbFQ2MjMxbEV3ZEU5cUpKTmRNSEFCTmllOEstcDVOUE5qbEtaMElK?oc=5",
+    "time": "11/10(火) 22:42",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "ライフプロシューマーが事業を本格開始 系統用蓄電池やFIP転換など4領域を展開へ&nbsp;&nbsp;Dellows News",
+    "body": [
+      "ライフプロシューマーが事業を本格開始 系統用蓄電池やFIP転換など4領域を展開へ&nbsp;&nbsp;Dellows News"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-cec56d8ede74": {
+    "id": "auto-cec56d8ede74",
+    "category": "自治体",
+    "title": "ＪＲ西日本と中国電力 中国地域で蓄電池事業",
+    "source": "環境新聞オンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRWhOVS1ZeGZuT3lJTXAxZ2RhTXUtUF9YejRjSmV6QkZRN29FNjIwdk9XTFRoa0xPSlpLbXNVVFV2WjVOZ3RkQ0pqOTMxNURtN3hnZzdqNzdJUzlMSXhuTVJpdG10cEZxNU1xZUk1Z2dZeElKVDFySlQxSQ?oc=5",
+    "time": "11/10(火) 22:00",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "ＪＲ西日本と中国電力 中国地域で蓄電池事業&nbsp;&nbsp;環境新聞オンライン",
+    "body": [
+      "ＪＲ西日本と中国電力 中国地域で蓄電池事業&nbsp;&nbsp;環境新聞オンライン"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
   },
   "auto-db49624e0a1c": {
     "id": "auto-db49624e0a1c",
@@ -7255,25 +7369,6 @@
     "summary": "交流耐電圧試験器市場2035年予測：再生可能エネルギーと電気自動車の製造が成長をけん引&nbsp;&nbsp;IndexBox",
     "body": [
       "交流耐電圧試験器市場2035年予測：再生可能エネルギーと電気自動車の製造が成長をけん引&nbsp;&nbsp;IndexBox"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-29aa27116aa5": {
-    "id": "auto-29aa27116aa5",
-    "category": "企業",
-    "title": "日本製鉄のGXスチール採用家具、鹿嶋市と姫路市の市役所に導入",
-    "source": "Infoseek",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mbWt2N3dnLV9OTDFOd3JDS0lBTldzMG0zYnlFMFZmdWlwX0FNbGg3M3BseUxvN1pQTlVVVUkxU1VjS204V0xrekVJQ1ZCSnBfNGFHOWdIeXFEUzEzS0RRWQ?oc=5",
-    "time": "11/11(水) 7:31",
-    "comments": 0,
-    "tags": [
-      "GX"
-    ],
-    "summary": "日本製鉄のGXスチール採用家具、鹿嶋市と姫路市の市役所に導入&nbsp;&nbsp;Infoseek",
-    "body": [
-      "日本製鉄のGXスチール採用家具、鹿嶋市と姫路市の市役所に導入&nbsp;&nbsp;Infoseek"
     ],
     "related": [],
     "collected": true,
@@ -19155,101 +19250,6 @@
     "summary": "UPDATER、坪口農事未来研究所、パタゴニア日本支社による営農型太陽光発電事業が「ソーラーウィーク大賞2026」特別賞を受賞&nbsp;&nbsp;神戸経済新聞",
     "body": [
       "UPDATER、坪口農事未来研究所、パタゴニア日本支社による営農型太陽光発電事業が「ソーラーウィーク大賞2026」特別賞を受賞&nbsp;&nbsp;神戸経済新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a37f4eb24349": {
-    "id": "auto-a37f4eb24349",
-    "category": "その他",
-    "title": "競走馬への資金は「賄賂」…秋本真利元衆院議員に懲役6年求刑 洋上風力めぐる受託収賄事件",
-    "source": "東京新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rd2ZLd3Myamt1d3pSOFpkUk5IZGJic0tyWi1yTFpZNnFBbEM2cGd4bldaRE5RNDFDUnJnWE5PUmNfNkNDR2lUamEtNzhZZVZHWXdR?oc=5",
-    "time": "11/5(木) 10:35",
-    "comments": 0,
-    "tags": [
-      "洋上風力"
-    ],
-    "summary": "競走馬への資金は「賄賂」…秋本真利元衆院議員に懲役6年求刑 洋上風力めぐる受託収賄事件&nbsp;&nbsp;東京新聞",
-    "body": [
-      "競走馬への資金は「賄賂」…秋本真利元衆院議員に懲役6年求刑 洋上風力めぐる受託収賄事件&nbsp;&nbsp;東京新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-4fa668b50e4e": {
-    "id": "auto-4fa668b50e4e",
-    "category": "その他",
-    "title": "太陽光発電普及の取り組みを評価 長野県が「ソーラーウィーク大賞」特別賞",
-    "source": "信濃毎日新聞デジタル",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rd3M2c1FBNkczdDEwRnZhb0tSMWxJUnV4WUhkbkhMc0M1enRVcU1UUU8zSGVQV2k2TVpVc2dyU2JzR2pHQzdJRDR4S3ByTU5HcS03a1ZsMmYwSEYxanNfQ1VkUGJPZk1tU0kwUk1MNkk?oc=5",
-    "time": "11/5(木) 10:31",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "太陽光発電普及の取り組みを評価 長野県が「ソーラーウィーク大賞」特別賞&nbsp;&nbsp;信濃毎日新聞デジタル",
-    "body": [
-      "太陽光発電普及の取り組みを評価 長野県が「ソーラーウィーク大賞」特別賞&nbsp;&nbsp;信濃毎日新聞デジタル"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-096b96197e76": {
-    "id": "auto-096b96197e76",
-    "category": "その他",
-    "title": "秋本真利元衆院議員に懲役6年求刑 洋上風力発電めぐる汚職事件 (2026年11月5日掲載)",
-    "source": "ライブドアニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZ21LUGN1enFXVXV3T2NLc3NHMFlfR1BvM1U0ZVphZG9fM1QwY19oT2VwaEV5WkpTQzZEWjd1cnNFcTBhbjFXRms4Qmg1d1BQdXNMM0dQd1NlRkx3bWc?oc=5",
-    "time": "11/5(木) 10:13",
-    "comments": 0,
-    "tags": [
-      "洋上風力"
-    ],
-    "summary": "秋本真利元衆院議員に懲役6年求刑 洋上風力発電めぐる汚職事件 (2026年11月5日掲載)&nbsp;&nbsp;ライブドアニュース",
-    "body": [
-      "秋本真利元衆院議員に懲役6年求刑 洋上風力発電めぐる汚職事件 (2026年11月5日掲載)&nbsp;&nbsp;ライブドアニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-971c079d9899": {
-    "id": "auto-971c079d9899",
-    "category": "その他",
-    "title": "秋本真利元衆院議員に懲役6年求刑 洋上風力発電めぐる汚職事件（2026年11月5日掲載）｜日テレNEWS NNN",
-    "source": "日テレNEWS NNN",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HdEFablM3bGxsVmFMenV3djlVY3dfbGQxWTI2WER0WGt6eDJHQkVLTEE4Vjg1YlhaZ0pLT1BLYkp6SzZtQnByaVMtelhmV3VyTlR1VFo1YTROTlNDT0VDU2hlS0lLU2FRYjF5c3p1QUdtTUJCcVZ3LTM2Zm4?oc=5",
-    "time": "11/5(木) 10:13",
-    "comments": 0,
-    "tags": [
-      "洋上風力"
-    ],
-    "summary": "秋本真利元衆院議員に懲役6年求刑 洋上風力発電めぐる汚職事件（2026年11月5日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-    "body": [
-      "秋本真利元衆院議員に懲役6年求刑 洋上風力発電めぐる汚職事件（2026年11月5日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-715c7a5de3df": {
-    "id": "auto-715c7a5de3df",
-    "category": "その他",
-    "title": "脱炭素の次は生物多様性",
-    "source": "日経クロステック",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU05lbEdmaGQ1cjVBOXZ5VWZKWmYzcGFXQW16UnV5V0VqVFJSdlJlOXRFdEVwcnJqR1U0OUxGVmJGeXlYRGc0S3FxeS05a3RvYXZoLURIUm1uMURMVDFFSWFRbDVSRFpYTVVYVUtUZExEemdUMnlBNkdUZzc1b2U1YUI1T2hfaGZ4d2loRWcwbzB1M3ltLTROamV1M3ZBSngwck1DV1ZnN0RUVTNCQVhFalhRd3g5WTMwR2c?oc=5",
-    "time": "11/5(木) 10:08",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "脱炭素の次は生物多様性&nbsp;&nbsp;日経クロステック",
-    "body": [
-      "脱炭素の次は生物多様性&nbsp;&nbsp;日経クロステック"
     ],
     "related": [],
     "collected": true,
