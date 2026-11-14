@@ -11,20 +11,31 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-6f29f20502a9",
-    "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
-    "summary": "[株式会社キンライサー] 株式会社キンライサー（本社：東京都港区、以下「キンライサー」）は、東京ガス株式会社（以下「東京ガス」）と電気販売に関する業務提携を締結しました。本提携に基づき、東京都内で対象となるエコキュートを購...",
+    "id": "auto-8c460f8000ce",
+    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
+    "summary": "[JOGMEC] JOGMEC（本部：東京都港区、理事長：高原 一郎）は、2026年11月9日、ベトナム・タインホア省人民委員会およびベトナム国家産業エネルギーグループ（Petrovietnam、以下「ペトロベトナム」）との間で、タインホ...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/14(土) 17:10",
+    "time": "11/14(土) 19:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000904.000012624.html",
+    "image": null
   },
   "headlines": [
     {
-      "id": "auto-cfa9556fa31c",
+      "id": "auto-6f29f20502a9",
       "rank": 1,
+      "title": "キンライサー、東京ガスと業務提携 エコキュートを起点に再エネの有効活用を促進",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/14(土) 17:10",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000030.000076029.html"
+    },
+    {
+      "id": "auto-cfa9556fa31c",
+      "rank": 2,
       "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
       "category": "企業",
       "source": "PR TIMES",
@@ -34,81 +45,70 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html"
     },
     {
-      "id": "auto-0d0fd737e1ec",
-      "rank": 2,
-      "title": "川崎で脱炭素の催し 食品ロス削減や廃材再利用、「アップサイクル」も体験",
-      "category": "その他",
-      "source": "カナロコ",
-      "time": "11/14(土) 8:20",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVjNnNUd1UC1MYWNEb0ZjWGVzVVRneEtjaG90dnBFQ0dQY3VpUTRCTzV3N2s5NkNXS3ZwVGFXNDd3d21UVGF5MkdfdzJJZk9YLUJMdl9VUmZkZTFUbU84Y3Z6b1JBZnM?oc=5"
-    },
-    {
-      "id": "auto-4a035ecca778",
+      "id": "auto-2eae8d614c4d",
       "rank": 3,
-      "title": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "11/14(土) 8:16",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVdnNnJ1aW5fSWZEendNb3hJNTU1elFaMGNsRVQ3R09rQXU1UFhNRlVjY09QbXRDZ2Zhb0JPc2pjVktFdUNoR0dFbW5tTjFQYkVUMXlVVFRnajAya3FyRmtjRVhVVG5YdVdLLTNTc183S182aHFfa2tNdW5MdzRYTGpfRkpRX2cwNmEzMmpB?oc=5"
-    },
-    {
-      "id": "auto-3b81f964f94b",
-      "rank": 4,
-      "title": "NEV向け希土類水素貯蔵材料の世界市場（2026年～2032年）、市場規模（AB5タイプ（Lani5）、非AB5タイプ）・分析レポートを発表",
-      "category": "技術",
-      "source": "Newscast.jp",
-      "time": "11/14(土) 6:30",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aZVZfcmVJVHA2bDB5clNRelBDQk0tMDdFTkxYUGI0aDlndjJzTVpCM2VDZHBPMUw5T3B5aHJzWFlBWDlBb1A0SWtFV285NGM?oc=5"
-    },
-    {
-      "id": "auto-49d80fb0d167",
-      "rank": 5,
-      "title": "中国が完全太陽光発電ドローンの試験に成功。",
-      "category": "国際",
+      "title": "屋上太陽光発電の普及：ホーチミン市は家庭におけるコスト障壁を取り除く。",
+      "category": "暮らし",
       "source": "Vietnam.vn",
-      "time": "11/14(土) 5:36",
+      "time": "11/14(土) 12:03",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUtsSmlVR1Y1Y29BdFlGZ1BKX0FFUlgzMURqNkx5S0RWMkcxTGpBYXlaX2V3R3ozeE40WGRlMG5CaGFSeGFOR240Y1FPeFU5QzB1bVRxZWVXVTVwaFlCMHhBOFFpWU9VUUFVTlA0Szk3VGdJX0JFUHdhb0FoVFRMRjN4U3hBWUJjTkd4YVRXM1JvVkNSUi12eW9GV3dudDU5Y2dZcEl4TQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnJBNlFVUjZKYW9yQWZ2UHltcWhJV1lDSEZDbTFpOE5MRndWUUZvUC15T19aOFpZemc5enN0ZEFwM0VsQ3lmeXVrQ0UtVmRpUWktWE5yRlZmdThQTE54LXhzb2RQOG9TN1c0b0puU0RyQVJBekFMSW83WmxIRHpoOW9sMVZadzJ0eWRrVkU4NTNhcmMtM3h2anlFS1E4SHRINFdlclZ3?oc=5"
     },
     {
-      "id": "auto-73a3db7a6839",
-      "rank": 6,
-      "title": "「新エネ大賞」に洋上風力2件、東急のPPA太陽光も",
-      "category": "その他",
-      "source": "日経BP",
-      "time": "11/14(土) 5:18",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXByTzBTbkhXZDJmMEpCajR5OTVEdjZLUWZLcUg0aktvZXJmU0JYMGlUbVR0bnhWTmtvdk0wajU1S001VXNwTXNLS1ZpT0lENXowS2RFUjlhYm9WaklTcjdLX3JPWnFsc0tzVWdoYXRvcmwyeVhmWlJLYkxSS0E0Y0ZUT0ZEakZKQUhXeThrNWstUQ?oc=5"
-    },
-    {
-      "id": "auto-205c63020687",
-      "rank": 7,
-      "title": "グリーンエナジー＆カンパニー、「サステナブル経営WEEK［秋］2026 ― 脱炭素経営EXPO」に出展",
-      "category": "その他",
-      "source": "山陽新聞",
-      "time": "11/14(土) 4:58",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0xNLTlvOFpSVnI2WDk4Q2xUbmpoU2dpcTUyUjhSWWJNUFhKcS1ObE1aYmF0cUZ1X3pkOVp1OWhqVllsRVBaQzFGcTBHVzh4LUhfNDUzT0NKek9kbzlLMnJHeVdpYVFWdmhuXzRFX043VlB0YXdNLVd6Y2ozWmlXNTZhRnlod3luemp5a2Zn?oc=5"
-    },
-    {
-      "id": "auto-83590fe2b76b",
-      "rank": 8,
-      "title": "トヨタとBMW、水素を知るライフスタイルイベントをトヨタ博物館で開催",
+      "id": "auto-b1a853156382",
+      "rank": 4,
+      "title": "トヨタとBMWが水素のある豊かなライフスタイルを体験できるイベントを開催『BMW×TOYOTA H2 DAY』 - www.tv-tokyo.co.jp",
       "category": "技術",
-      "source": "MOTOR CARS",
-      "time": "11/14(土) 4:30",
+      "source": "検索: 企業の脱炭素・水素事業",
+      "time": "11/14(土) 11:54",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkI4dW5JNzVPUWRYd0cteUZjUXhlZ2wybkdlUm56Vi1oZ3FnQncySTdaSHV0dHJPRlZxOEdTdk9UUXV4ZlhOZllSNTNyekJ0OTlrbU5VeHh6S1NubmZCYXFsQ0pRTkZuOUl6N3otdmpZTTJtaTdUWm92X2VucmFDV1huUDhSMGJ5cnZIWGFIYi15ZEhENVh3UEo5QnNPYWxCNzNqRFZONjhrUl9PZ0F3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZzVmTnFKeVVnWGpWb1VnaGhxbjhIQkhHMUV4cnR1bkFmLU1HQUtKMW1xNy12OWctZzgxTDU2aDJzSk83SmxjeFpOQm1XODdzckgtc3dwZWJVdkRwZnQyZGdGTC1VRGVyYmFHSWJR?oc=5"
+    },
+    {
+      "id": "auto-ce1ff7b4ed8e",
+      "rank": 5,
+      "title": "製紙会社が太陽光発電設備を導入することで、電気料金を12億ベトナムドン以上節約した。",
+      "category": "暮らし",
+      "source": "Vietnam.vn",
+      "time": "11/14(土) 10:41",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemQwRzRUc0gzWW1PRjJkR09zSEJFZmhQdWFFVDFUYVptZjlxeS1JcS13X0k2U0dSVTBYVUl6UVRCOXhENXJXOW8xY25DRHJSU0dYcE9VWW84ck5DU0hWRmVtNHJveV9nREhsMjRzWjkwRmw5N0RzVUktcEQtYWUwcWpndFRIb2RYZUhFY1BGYnUtUzZKU3RyRVB1bVF4elR6N3lr?oc=5"
+    },
+    {
+      "id": "auto-7c35a852b3e2",
+      "rank": 6,
+      "title": "ロッテルダムとアンダルシア、2029年までのグリーン水素ロードマップに署名",
+      "category": "技術",
+      "source": "IndexBox",
+      "time": "11/14(土) 10:31",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGk4ZWVMVWNHa3VFSnc2Nlc3ZWFxeUJwM3RLT3NFdkNoZEJ3ZVhlN3JQM2I2eHNSYjRHM1p4Vm5VQzFhY0cyTGgtZWh5R1B4eERwUkFQS08xMERzVWVvQ2U4RENMZzdwVGlpMlBITVdLbjdFSTdWVFRUWFo0Q0NDbVpoQlgzV1hUenJMR1VnM0p4eHk5c1lrT3lqanJ0Zw?oc=5"
+    },
+    {
+      "id": "auto-fb60118ed01b",
+      "rank": 7,
+      "title": "米中間選挙で潮目に変化、「脱炭素」関連株への見直し機運は高まるか ＜株探トップ特集＞",
+      "category": "その他",
+      "source": "株探",
+      "time": "11/14(土) 10:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6NGlCeG9CMXRWREU3dzR5S1lra2VZVmJvX0RaVEFTelczQml4RzFRY2dHZS0zZkVzV0JyS2NXT2NJYTNPMHZDeU5OLWt3Y2t6NUhxTWsyVHNMek9sS2pNZw?oc=5"
+    },
+    {
+      "id": "auto-fe2aff86bc7f",
+      "rank": 8,
+      "title": "カーボンニュートラルや資源について考える 車のシート端材使いカードケース作りも 大手自動車メーカーと地元新聞社企画のイベント 盛岡市",
+      "category": "その他",
+      "source": "au Webポータル",
+      "time": "11/14(土) 10:14",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvQ2tSWXpqRzF4NG9fNVk5ZUJuTWVuOEU1RDh6MjJYMFdlMEhEa1dJdWpzdEk4Z0dxOGpobnpHdUFGcXVHczFXNGJhN2sxOHZKZ2JCSGs4amFXRk5lNG9sZDZsYTFoNUdkaXQ2WEJn?oc=5"
     }
   ]
 }
