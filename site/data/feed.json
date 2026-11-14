@@ -1,19 +1,69 @@
 [
   {
+    "id": "auto-8c460f8000ce",
+    "title": "ベトナム・タインホア省におけるカーボンニュートラルおよびCCSに関する協力覚書を締結",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000904.000012624.html",
+    "image": null
+  },
+  {
     "id": "auto-cfa9556fa31c",
     "title": "18トンの蓄電池コンテナをどう現場まで運ぶのか――輸送・搬入の実務を読み解くウェビナーを開催",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "23:10",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000118.000181124.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/181124/118/181124-118-3da87cc8ea26af9ebb1be1bc0a302d0d-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-c8c3c0814ae5",
+    "title": "フィンランド、水素・電気ハイブリッドトラック実証を2026年後半に開始へ - ニュースと統計",
+    "category": "技術",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "17:31",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUw0a1hqSHdLQ01Wdzc0QjV5ZzVadUtiTnJ1OW96UGNvWkxzbW1rYTZYdFA5N0VQQWJuR0NFVzVtbUFqNTEtb3RMQk1aQ2NLMVljaldNOURpVUllV3F2R0ZCYko1U3FpeFRjQ1k0Z0dNVmdmRkhWdmR1Y2ZGWUd2d19pWWFaalUzYkkwdUpvVC1TaVNIejctbk54dERjMUdTOEtnUzlBd2s?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-4845246af1f9",
+    "title": "SWITCH Maritime、150人乗り水素フェリーで米国沿岸警備隊の設計基準合意を取得",
+    "category": "技術",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "17:31",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVjlDLTlURjNscmdhWWFXWTNqcHVJQ29aQ1cyeHlfV1lSbVNPbEF3WHB3QU5tRE9tY2tWeG1pQWlGWXNSN1lxS0M3NmtYZldHbFVvN0N0c01JN05sR1dHekhKVG1lSE53NGdXRjZ4cDROUmdscHBfU1c5UDB5Qnp0UDJ2RHludDBXSEM1MnJmRWZ6Z0hxWUJ4bUZlT29mS1VYVHZBUGNISHk4SWM3MUFBM1lrR1Jsa204eXllWnhQTUxGcTJ1UGc?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d771eaa7f885",
+    "title": "トゥウェンテ大学の研究者3人がネットワーク・水素・廃熱研究でVidi助成金を獲得",
+    "category": "技術",
+    "accent": true,
+    "source": "IndexBox",
+    "time": "17:01",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzFQZWdzbmhDd0szUUliMm54VG56UHNYU3Z0dlBCM2t6YzBTLVlobG5MQl9kMWJjLXExblFKcy13OWhHQUFOejY4Tl95QzFXa1RGcXBnTkFHRlFMd011YnlyNWxFcC10d1J0UnczMUJTX1dRTzRXTFBBOFlUdmt0bTRnNTMyZkZGU25UM1p6MmNQbXo4ZjdEVkNFaG5qaDNGTk1mNnZxSHpoTnBfTm9kOXY5XzJiRUY5a1RoUERMbzRHTUFTWnJR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6dbe6b67b663",
+    "title": "【脱炭素化支援】ベストデリカ有限会社 大野原工場へ太陽光オンサイトPPAによる再エネ供給開始",
+    "category": "その他",
+    "accent": false,
+    "source": "山陽新聞",
+    "time": "15:09",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52RmUyZVBwSVk5aVM1X2lHbnVPdm1MeHl3YnFaeHdEQVN4cUJOaXNkcHNUSmh6NEFyMnk0THlMUEVXd0F6Z1hLSEpmUHZocnNubjVIZTRscGZjdFpJ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-0b5771a216c2",
     "title": "ケーブルコンジット市場、2035年までの成長見通し：電力網近代化と再生可能エネルギーが拡大を後押し - ニュースと統計",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "14:06",
     "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRmlrcnJza0h1WDFsM1ZHa3NCb01FZW1RTVdiVENnaXl5WjMydXY5SnlEakZGR0tjVTMzVkNsQXd5ZnZVWU5wU0xBWUd2M0RsdDFzLTF5d3FjQXVlOFg4MC15cHNHNE4tamJudnp1QUhDZVh5R0EwNWR6WTg2Uzh1MzVHd3ctdHhaQ1RsQV9fNXVpaFZ3VlVwajJMMF83RXVuZUowakE0NzdkeWRSTkNHdFRzNm12UXpXSzUxRldFNkVqdXRpMUY0MUhnYTNWVTNZN1VHRjF6c0c5UkZMRWc?oc=5",
@@ -23,10 +73,20 @@
     "id": "auto-cdd42b786a81",
     "title": "BYDは、太陽光発電を内蔵し、5分で超高速充電が可能で、充電器を差し込むための自動ロボットアームを備えた充電ステーションを発表した。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "14:05",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0p4TndGbThCanJhbGdWR3JtVTBVbWNSQ2RrQ19BUTlqT2k0NDB0STNhRUszR0VhY3dLV2J2cE9OaVBYWldEMWN5aEx1Nk9LeXhvRGVsaWJvWHRCMzRtcS1VV3dpNVhEQ194X190N1dlbDBkdm1fTlNBdFJtbnVJemo1dE9rRlNCYXhjb2ZrWmxaVjNrUC1zMGlOblYtXzM3MHQ3ajE0Q01jNXZKWXE3YkUxZWZ5SzNOUEpxSzMxUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5db01cc40e0f",
+    "title": "【千葉の「ヨウ素」が、世界の脱炭素を切り拓く！】 : ブログ : 赤間正明official website",
+    "category": "国際",
+    "accent": false,
+    "source": "公明党",
+    "time": "14:01",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOTlWNlRhQmZXVmZ6ZV94bHJFT2gzVnA4VzlpdEItajZhS1VXSHJqaGdkdmk3UXZWQWdnZlhIZzdtUkVIcWdxT09XM3RfbHFMZnpsODhtZ3BmVUdFMUU5cmlnaWRXYTFJSzJQVXE3dGFMcXk3Z2pJWHNsX0ZNMmZ6VVBNTzNIb0Z6VHNhWDVzOHlSZEYtT1BuemF6LXhEdW85QnJ6RHRCbTBSdHE2MUk0N0VlRGxIRWMtNkZueDdwcFRzbkhxdGtnWjhkU3VYRENQaTRoNE5WanF3MHItdFpPV0NkS3Zta2RiSWt1M0RYWlA3MmgxNV9BQmQza0ZlLWxRbkFiMVhwVE1sckhUQUF4REFNSFJETzFRN0llaHNxaXRhNzdqeW5pU2tWQktIaUt0RjRFcmpvOUlyYV9sdUcwT2FnTkQyN05hb3ctcW80SnFnTkgtMkQ2S0dpSURGM2cz?oc=5",
     "image": null
   },
   {
@@ -40,20 +100,10 @@
     "image": null
   },
   {
-    "id": "auto-fb60118ed01b",
-    "title": "米中間選挙で潮目に変化、「脱炭素」関連株への見直し機運は高まるか ＜株探トップ特集＞(株探ニュース)",
-    "category": "その他",
-    "accent": true,
-    "source": "Yahoo!ファイナンス",
-    "time": "13:29",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelI5RDh5ZldJVjJhMGdIX1ZSMmk1SGFSa04zUW82TGRGY291UmdHZFNpTGtFbkNuVTQ1RlBQZEVSNmVKcUpBUklwWjU1ZHRLc1Fhd1pOMExhVEFjNnJTeGJXWDZuY3BlM3FOVXFsdG9idFJSQUMtRURXUnZiUzNFbF9vWDAwSFU?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-6859f568beb6",
     "title": "過電流保護市場2035年予測：系統近代化と再生可能エネルギーの統合が拡大をけん引",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "IndexBox",
     "time": "13:26",
     "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSDJLU19mQzVLc3lfVmZ5MnFqN1pHT1N4d0xjWnNyMkgwXzU0NnlYbWhjSjN2dk54UTJ5RnYtb2RPX1NyaWV0c0piZDRMN0hxb1JVYVdEekluWlhIVDFaUW9vLWt6QVdoZmRESE12b2p4LUtMMlZQSFdMY1BDWlpRWU9SamVfRXhqTm5pVS1tM1hQOXhIcm9IOHFzdHpSOFQyY0VXOFN2Xy1weXl3alEyR3VhS1E1UmdncVIzSEgtNnUtUFNlazZUSjh6eWNzVmFJNmg4Uld0TGtCTDlCX2dxZA?oc=5",
@@ -73,7 +123,7 @@
     "id": "auto-a56fb7fe93a7",
     "title": "UCC、コーヒーで新提案 新たな味覚体験へ水素焙煎導入の家庭用製品",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "13:04",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84Umxzb0VFaWR6aWNlelBwNVBhOEN1c0pUU1JIZ3NCazVhR05JLXBaTC1LazNLYXdOaXRkUWhTc1E1QU1DU1lfaEx5RHpnU2VhZ3AwWlVhTTZKYmctZ0M0?oc=5",
@@ -83,7 +133,7 @@
     "id": "auto-7c8233f7a47b",
     "title": "太陽光発電の利用開始から6か月後、その製紙会社の電気料金は12億ベトナムドン減少した。",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "12:49",
     "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZibFZkSmY1OG5IaDd6VURLbzhvTjhYci1ocnNaX21ERXhaaXVZaHp3SnZ0c19wbF93RG1HdUtQU010aUN6ZkN6OURTTGJBSHVMLWhNWGNSRTJTN0NfbUdKVC1sM1lzRnJKU0NMdXdaSUhLZmRsVG44dU10cVEtX2pvUUdPX21LenRvdGZhaXpGbVdBMXpxWjZOWmloZw?oc=5",
@@ -103,7 +153,7 @@
     "id": "auto-869f05b23097",
     "title": "画像5 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "ウォーカープラス",
     "time": "11:17",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NdTdUZ2ExUlZIZ1pUOGZiUWcwZnd1T0l2UXR4N1BMMmt6ajlXSXFESlNWWlJUT3RwYzJWWkl4VHJzSGlBWDl0OHd6UWRHb0xfazlYY3dzajRDMjFvSmFURTFhSG5FWDJBOTlXaGVR?oc=5",
@@ -113,7 +163,7 @@
     "id": "auto-ce1ff7b4ed8e",
     "title": "製紙会社が太陽光発電設備を導入することで、電気料金を12億ベトナムドン以上節約した。",
     "category": "暮らし",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "10:41",
     "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemQwRzRUc0gzWW1PRjJkR09zSEJFZmhQdWFFVDFUYVptZjlxeS1JcS13X0k2U0dSVTBYVUl6UVRCOXhENXJXOW8xY25DRHJSU0dYcE9VWW84ck5DU0hWRmVtNHJveV9nREhsMjRzWjkwRmw5N0RzVUktcEQtYWUwcWpndFRIb2RYZUhFY1BGYnUtUzZKU3RyRVB1bVF4elR6N3lr?oc=5",
@@ -127,6 +177,16 @@
     "source": "IndexBox",
     "time": "10:31",
     "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGk4ZWVMVWNHa3VFSnc2Nlc3ZWFxeUJwM3RLT3NFdkNoZEJ3ZVhlN3JQM2I2eHNSYjRHM1p4Vm5VQzFhY0cyTGgtZWh5R1B4eERwUkFQS08xMERzVWVvQ2U4RENMZzdwVGlpMlBITVdLbjdFSTdWVFRUWFo0Q0NDbVpoQlgzV1hUenJMR1VnM0p4eHk5c1lrT3lqanJ0Zw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fb60118ed01b",
+    "title": "米中間選挙で潮目に変化、「脱炭素」関連株への見直し機運は高まるか ＜株探トップ特集＞(株探ニュース)",
+    "category": "その他",
+    "accent": false,
+    "source": "Yahoo!ファイナンス",
+    "time": "10:30",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelI5RDh5ZldJVjJhMGdIX1ZSMmk1SGFSa04zUW82TGRGY291UmdHZFNpTGtFbkNuVTQ1RlBQZEVSNmVKcUpBUklwWjU1ZHRLc1Fhd1pOMExhVEFjNnJTeGJXWDZuY3BlM3FOVXFsdG9idFJSQUMtRURXUnZiUzNFbF9vWDAwSFU?oc=5",
     "image": null
   },
   {
@@ -160,20 +220,10 @@
     "image": null
   },
   {
-    "id": "auto-0fb8f7f4486d",
-    "title": "相続・資産承継を見据えた“分けやすい資産”という選択肢。ZEH仕様・太陽光発電 を標準とした戸建賃貸住宅「GREEN BOND」発売",
-    "category": "暮らし",
-    "accent": true,
-    "source": "山陽新聞",
-    "time": "9:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92eFkxd3hNbFYzT0ZEaVA4Ym5JXzJSaHAwNDF1OFJLLXM5dWp4Mi1YTEVlaW5EM3A4Q09RSDlqRzFHZkF4TFJyRzNCTzNld1AyX0E?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-1e180b164c4b",
     "title": "内燃機関の音と振動を残してカーボンニュートラル！ カローラクロスH2コンセプトはナンバーを取得し公道走行の実証実験中",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ニュース",
     "time": "9:40",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zb2VOVVpSQXAyNUR6b1NHakZDUU5yOG9PYmp2V2F1YVBLZHlFcTgtN2FPWmdqc21MTW93QnUxYVlmNF9qQ0FiMmZLa3VFUjFnTzhoVHFDYXZraWI3NXh3X1FCdjNPaGhTOVhuSlFkOUllMllNNW9WVWpBdXdUU3M?oc=5",
@@ -193,7 +243,7 @@
     "id": "auto-42da6acb6eaa",
     "title": "クイズ・ワークショップ通して脱炭素の取り組み学ぶイベント 岩手県盛岡市",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Excite エキサイト",
     "time": "9:24",
     "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zcFVQNUlhdU0teVp1X0J6U1hTLWVXRGtZWWllZnh0a3huTDJGXzRwMVpDeDNUSXk5aDRpVGQxY3JibnhrdHNCb2hoRlZtRTBLWFVSTWdJODRwdGtvNjR0XzA3aDI5SG1aNTVDTGUzWjA3cmF1X3c?oc=5",
@@ -203,7 +253,7 @@
     "id": "auto-fad73cf1318c",
     "title": "ハノイ市は、電力供給への負担を軽減するため、住民に対し屋上への太陽光パネル設置を呼びかけている。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "9:06",
     "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWg0NWFJd2ZxZDk2ZlhKUV9KR012MGxxZjQ5QVhGREJmeDQ2SndNSFpVTEowc2Z2MzMyeWtocmZqeU0tY2I1YmdKQ005NHlJbzFaTHNYa09yMmdubElybmluYWZENzZ3OE1PMnZTZHk4Z0w0bnZ2Y1g3THhpLTdWVkQySm42R3c5V2E0dDhXWi11U1BTVU5XNnFsblRucGUzM0hVVA?oc=5",
@@ -223,7 +273,7 @@
     "id": "auto-0d0fd737e1ec",
     "title": "川崎で脱炭素の催し 食品ロス削減や廃材再利用、「アップサイクル」も体験",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "カナロコ",
     "time": "8:20",
     "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVjNnNUd1UC1MYWNEb0ZjWGVzVVRneEtjaG90dnBFQ0dQY3VpUTRCTzV3N2s5NkNXS3ZwVGFXNDd3d21UVGF5MkdfdzJJZk9YLUJMdl9VUmZkZTFUbU84Y3Z6b1JBZnM?oc=5",
@@ -233,70 +283,20 @@
     "id": "auto-4a035ecca778",
     "title": "東洋鋼鈑、マツダKDセンターに導入する屋根上太陽光発電設備の余剰電力に係る環境価値をオリックスから購入",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "山陽新聞",
     "time": "8:16",
     "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVdnNnJ1aW5fSWZEendNb3hJNTU1elFaMGNsRVQ3R09rQXU1UFhNRlVjY09QbXRDZ2Zhb0JPc2pjVktFdUNoR0dFbW5tTjFQYkVUMXlVVFRnajAya3FyRmtjRVhVVG5YdVdLLTNTc183S182aHFfa2tNdW5MdzRYTGpfRkpRX2cwNmEzMmpB?oc=5",
     "image": null
   },
   {
-    "id": "auto-55273eeaf5bc",
-    "title": "猛暑増加、背景に地球温暖化 脱炭素企業団体、都内でイベント",
+    "id": "auto-0e38a0ce9766",
+    "title": "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結",
     "category": "その他",
     "accent": false,
     "source": "山陽新聞",
-    "time": "7:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aV2tjSGtwcHNXVWVBdVhfbkdRNVBzOUFNRXVTQzhpd0NubU1kNFhlWTN0M0FHZmVicXRjTkpSM1RaQy1Lb2ZkY2NWdFRsd09rbUtCZk5NRk5oUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-5dc3271a1794",
-    "title": "東京ガスとPrinciple Power社 浮体式洋上風力発電設備でAiP取得",
-    "category": "その他",
-    "accent": true,
-    "source": "Dellows News",
-    "time": "6:59",
-    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16UkhSR0lPcWxWTXZVX0lpdVpwcGEwOGNHbVpvTmxCQ2VtMDBRX3lSTHRWNHBkNE1zTTBRMXA4OXMxT29La1E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3b81f964f94b",
-    "title": "NEV向け希土類水素貯蔵材料の世界市場（2026年～2032年）、市場規模（AB5タイプ（Lani5）、非AB5タイプ）・分析レポートを発表",
-    "category": "技術",
-    "accent": false,
-    "source": "アットプレス",
-    "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pelZVWGptSFRySGlaWGlCTTFTc0s4YWRoY211QlJqcFZPaWM4NzY0Y0w5SVI3MG4wczBTYzdSNDFXMVdPclpsVk80bmZfUXM?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-49d80fb0d167",
-    "title": "中国が完全太陽光発電ドローンの試験に成功。",
-    "category": "国際",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "5:36",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUtsSmlVR1Y1Y29BdFlGZ1BKX0FFUlgzMURqNkx5S0RWMkcxTGpBYXlaX2V3R3ozeE40WGRlMG5CaGFSeGFOR240Y1FPeFU5QzB1bVRxZWVXVTVwaFlCMHhBOFFpWU9VUUFVTlA0Szk3VGdJX0JFUHdhb0FoVFRMRjN4U3hBWUJjTkd4YVRXM1JvVkNSUi12eW9GV3dudDU5Y2dZcEl4TQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-73a3db7a6839",
-    "title": "「新エネ大賞」に洋上風力2件、東急のPPA太陽光も",
-    "category": "その他",
-    "accent": true,
-    "source": "日経BP",
-    "time": "5:18",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXByTzBTbkhXZDJmMEpCajR5OTVEdjZLUWZLcUg0aktvZXJmU0JYMGlUbVR0bnhWTmtvdk0wajU1S001VXNwTXNLS1ZpT0lENXowS2RFUjlhYm9WaklTcjdLX3JPWnFsc0tzVWdoYXRvcmwyeVhmWlJLYkxSS0E0Y0ZUT0ZEakZKQUhXeThrNWstUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-205c63020687",
-    "title": "グリーンエナジー＆カンパニー、「サステナブル経営WEEK［秋］2026 ― 脱炭素経営EXPO」に出展",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "4:58",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0xNLTlvOFpSVnI2WDk4Q2xUbmpoU2dpcTUyUjhSWWJNUFhKcS1ObE1aYmF0cUZ1X3pkOVp1OWhqVllsRVBaQzFGcTBHVzh4LUhfNDUzT0NKek9kbzlLMnJHeVdpYVFWdmhuXzRFX043VlB0YXdNLVd6Y2ozWmlXNTZhRnlod3luemp5a2Zn?oc=5",
+    "time": "8:10",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ncF91ckNIVHZMR2J2R2pWTjFpWXBpZXdFVVpLZm9YbVd5WFhlTk9Ibmpia1F1X1dRLXlZaGdHaExhLXRFY08wVWxpVWNRcmZUeVE?oc=5",
     "image": null
   }
 ]
