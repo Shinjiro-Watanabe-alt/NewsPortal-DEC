@@ -11,20 +11,97 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-cd20cc5d1c93",
-    "title": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了",
-    "summary": "[Second Foundation Japan合同会社] 東京、2026年[11月9日] Second Foundationは本日、日本国内の系統用蓄電池（BESS）プロジェクト4件について、レイエイトエナジー株式会社（Ray8 Energy Inc.、以下「レイエイトエナジー…",
+    "id": "auto-1e9d6f6f3ed8",
+    "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～",
+    "summary": "[株式会社エコスタイル] 太陽光発電開発事業を中核に再生可能エネルギーの普及促進を展開する株式会社エコスタイル（代表取締役 社長執行役員：木下 公貴、本社：大阪市中央区、以下「エコスタイル」）は、EPC（設計・調達・建設）・施...",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/19(木) 0:40",
+    "time": "11/19(木) 5:10",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000177112.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000398.000012501.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/12501/398/12501-398-80494f2bfbd8d909b2f154e2b48f40db-508x133.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-7ecfdbc11b5d",
+      "id": "auto-b5a395cb745a",
       "rank": 1,
+      "title": "石油精製所の敷地になぜ大型蓄電池が建つのか――合計290MWhの産業施設併設事例を読み解くウェビナーを開催",
+      "category": "その他",
+      "source": "ニコニコニュース",
+      "time": "11/18(水) 20:18",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yVklybW5sM2pxYXZZMVBkdS1IS3FjWHp0UzNiNzBIQklBNlpaemxkYXFXVTgxcnpSWXhLa2pKZjkzZVV3d3NIQm1rOWhvRXlYbHBVdl94S3U1S3JpLXJHc2RlWjVVVzVwZVYwTFM4YlVoQUxhRUtsTjlodw?oc=5"
+    },
+    {
+      "id": "auto-ac7fd74f22bf",
+      "rank": 2,
+      "title": "人工光合成でつくる水素とギ酸、2030年代にも家庭や産業へ実装狙う（2ページ目）",
+      "category": "技術",
+      "source": "日経クロステック",
+      "time": "11/18(水) 20:04",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTHB3eWpablpsVm4ySnUxWU42WUtrMkxHelUtUmo3RWZUNGZKNWZSSl9CbDZadWhDVWd0RHA2UXVmQS02SFg5Um83NmMtSlZramVKcnZ1NDJEV0NhWVVwYjZMUDByLTVqWV9TcA?oc=5"
+    },
+    {
+      "id": "auto-13385f3a098e",
+      "rank": 3,
+      "title": "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築",
+      "category": "技術",
+      "source": "日経クロステック",
+      "time": "11/18(水) 20:03",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxcU5tMUVGY1JTTFo0ME55VHYwcl9jUzc0NFFPckRWWk93WHZyTkZQU1BMVkVaRHh3b0VFclFyclU3WTNIYXpwLVVXTGNjeWdPNl9ERG1pOXI1ZkllWGNxXzdVWjhiaXM?oc=5"
+    },
+    {
+      "id": "auto-5bbc7738d1bd",
+      "rank": 4,
+      "title": "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）",
+      "category": "技術",
+      "source": "日経クロステック",
+      "time": "11/18(水) 20:01",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3VVUDg4ZlVvY1E3VHdVYmdyTGFndzNEYjFpa3NnZ0pkT3hiUEdIbFVfS1plalVjTEo4Nnp3MExGQVdJUFlRdmVyUEl0YUVTV0tkSFpEOVBjcExKNUZKcVVGX3lld1NZWDNuS1YxR3FvSktmSTRJZjVQZk5WdTgtTmFUaVRMeFliN2sxUExuMkxmc2xV?oc=5"
+    },
+    {
+      "id": "auto-b37c20791d78",
+      "rank": 5,
+      "title": "竹中工務店/夏の余剰電力 冬に活用/集合住宅で水素貯蔵",
+      "category": "技術",
+      "source": "建設通信新聞Digital",
+      "time": "11/18(水) 19:55",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lUzF4ZFBEaENBXzZCR2tNekZCdzgzRVNvMEo5REVzZVBQNWtNU3BuNU40OHRoN2M2SmVWc0dBcVFlNXRXT2tVSHRkSzBKS1pl?oc=5"
+    },
+    {
+      "id": "auto-88e94887ef06",
+      "rank": 6,
+      "title": "水素で動くショベル実演/30年以降に市場投入/神戸製鋼とコベルコ建機",
+      "category": "技術",
+      "source": "建設通信新聞Digital",
+      "time": "11/18(水) 19:55",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZSlVCb05WVl8wMXdQbXVFVG1NdF9qOGpkVnBMNDlCSmZDY2hjY2h6eFh0bmlGQWNabUtHYXlVRTFrc3Juai11WHFILUlJS3V5?oc=5"
+    },
+    {
+      "id": "auto-fc02a24e3094",
+      "rank": 7,
+      "title": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供",
+      "category": "その他",
+      "source": "アラブニュース",
+      "time": "11/18(水) 18:32",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMioANBVV95cUxObU5td1ZyZUIwZ0RodGhRUW9rcTdhZEdodVdOWWMzelhIcU1MZTdsdTlvZ1RxOGh2SWVKZWVzOHF6SFdtSno2all3QmpCTmNULTU4cDVKc2g3Vng1R1RZNzBpSFJUQU1QY0l1eVJFT2VtZ0RJa1JEMXR4N0ZxZEswOG81ZVU4djNVYklHZHk0QVZzblp6SEhjamdibjlfZWlTLXhJbGxvY19WcHVON0x6bi1NWFNPb1lObUdqdTJ4ejZ3LWhjdWtFVnhVeVN3T01VeWZueTRiZmdKUzhhV1lkdXhLWlo0YXhSZDVEcmNVejd2T1ZVUmcwbmdxaHVMSGJ5YlRqTWJJMlloVFdINjJCbWhPMXJhZzYydmswRkFPQ3Y3c2cwVTdfRG81eC02UTV5TzdGYnJsY0hiQUZfVUx5YlpKSmVXWWJ0XzdnOE5OanNPOGo0UVdWMWlSdU02ZHpCVXpXU2RyX1pPbGk5bTJLRXJPbWlSRzhaQ29MOE9zVlp6TUNOWl9SREhZZmFGU0VueGtXWDE2ZEhUX3JmM09maw?oc=5"
+    },
+    {
+      "id": "auto-7ecfdbc11b5d",
+      "rank": 8,
       "title": "ゼロボード、PT Alam Energy Indonesiaとインドネシアにおける脱炭素経営支援に向けたパートナーシップ契約を締結",
       "category": "国際",
       "source": "ニコニコニュース",
@@ -32,83 +109,6 @@
       "tag": "",
       "pr": false,
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tNno5dndsZDlJY2FHdHVtUi1KWDFjSERQemtDS29oMHJYMU5lODdab2hJNlpNX2ZTY3lPVTBUTVpKU0FaS0t4Z2d6VzhpeE5mRkVwQ2lPUXd5NFJ0SkVIX3hIdGx0Qmk3?oc=5"
-    },
-    {
-      "id": "auto-671a67417da8",
-      "rank": 2,
-      "title": "燃料電池モニター市場の収益予測と成長見通し：2026年から2033年までCAGR 4%で",
-      "category": "技術",
-      "source": "pando.life",
-      "time": "11/18(水) 15:30",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rZzhWMHlGZFBXT0U5VUttaHdUNjNodWR6ODlnZnR0OEFXVWxScnJZeENNdEJPaTFSVC1OZ2RTZFo4QkRHUk5BckJ3?oc=5"
-    },
-    {
-      "id": "auto-4279a2ef7caf",
-      "rank": 3,
-      "title": "彰化沖の洋上風力「海竜」完成、27年商業運転へ",
-      "category": "国際",
-      "source": "NNAアジア",
-      "time": "11/18(水) 15:00",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4ZWNfRlJnckJuTmY2T1JrTWRTMDlVRXFZZTlvMXNHZGZhMXNoQUI5aDd5RlpFWGJaVDkwMTR5d0NRTmlQREE?oc=5"
-    },
-    {
-      "id": "auto-c6e57ab49cdf",
-      "rank": 4,
-      "title": "太陽光発電（PV）市場の包括的な分析——市場規模、市場セグメンテーション、市場シェアを対",
-      "category": "その他",
-      "source": "pando.life",
-      "time": "11/18(水) 14:50",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51UnNKQV9lU2stSjVwS2pEX3dQVnpSdm9lNlRVcGdtaHQxRGI2UHV5WDVJWEJXTzNld0lxZlFrSWNfOS15Q3hZUVpn?oc=5"
-    },
-    {
-      "id": "auto-b95212dcbcf0",
-      "rank": 5,
-      "title": "太陽光発電：新たなエネルギー源による発展への道を開く。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "11/18(水) 13:51",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWZiN2VLcS1TWHNCMFB4RDRvRDJmdGxQeldwbklKR1hUQzd1dlJOMm1zQTZXU2NSdDVSSHBqeXA0dmN6QVNpN3lqNjc3Xzk5N2NMSjZHa3gwRm02Q0xYdXpQZ3llVXplSnFBcUZydXBfaGNFWVJkVjQxc25NckdxemFfRG9rVlVP?oc=5"
-    },
-    {
-      "id": "auto-25e0db9f1779",
-      "rank": 6,
-      "title": "SEETEL Groupが日本市場に「AUROSI 低圧蓄電池システム」を投入開始",
-      "category": "その他",
-      "source": "ニュースメディアVOIX",
-      "time": "11/18(水) 11:45",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11YnJ4blQ0RTZBS2hubkE4SHlwTzJ2aEZBcjJQYV9POGFGUTROeUNHSlFmaFZZZXdpMm5ETVp3SF9yVnpULV8tM0FPS19WVU4teXdkR2JzSFNRQlNMTFZrWHI2WGx5OWtENUE?oc=5"
-    },
-    {
-      "id": "auto-7108efe6051f",
-      "rank": 7,
-      "title": "中国3社、大豊H19と東台H4/H6の洋上風力で2億3800万ドルの契約獲得 - ニュースと統計",
-      "category": "国際",
-      "source": "IndexBox",
-      "time": "11/18(水) 11:41",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUlxbHNtOVpwSjZ4MTZsY05abWNvWi1FT0tvUE9EX0JsRzFPaklZSHhfN0NVc19UaDRjZElQZlVxMmI2V211Y0pnQXBUNXJTcGl0VUVVNlpnWnZ6OVo2ckphaWJPQnRZR3JoQnlfR0h6cUctdFl0b0lRWU9CdlpfTFZtcGZacTFNNXE1SzkzQ00xUG45bzZuQ2pNX2ZPaHJqS2pSSlJCaEt1d2xWVUlneWNILV9yLUJ2TDdvWFBNY3c?oc=5"
-    },
-    {
-      "id": "auto-e2d3e575a5a3",
-      "rank": 8,
-      "title": "【Meta】データセンター建設の脱炭素化を加速！低炭素セメント・鉄鋼・電動トラック・再生材の長期購入契約を発表",
-      "category": "その他",
-      "source": "DXマガジン",
-      "time": "11/18(水) 10:50",
-      "tag": "",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNRzVOVktJaEhCV2tuVWJfT0QxZ1o3aHNmbWhnOTF4UU1jUlRvcE9XQzhYbWdnXzFRREdBeWZ1NVJ1SFo3UkROTXNpOWxJdw?oc=5"
     }
   ]
 }

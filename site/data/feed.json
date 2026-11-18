@@ -1,19 +1,89 @@
 [
   {
-    "id": "auto-cd20cc5d1c93",
-    "title": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了",
+    "id": "auto-1e9d6f6f3ed8",
+    "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～",
     "category": "企業",
     "accent": false,
     "source": "PR TIMES",
-    "time": "0:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000177112.html",
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "time": "5:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000398.000012501.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/12501/398/12501-398-80494f2bfbd8d909b2f154e2b48f40db-508x133.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-b5a395cb745a",
+    "title": "石油精製所の敷地になぜ大型蓄電池が建つのか――合計290MWhの産業施設併設事例を読み解くウェビナーを開催",
+    "category": "その他",
+    "accent": true,
+    "source": "ニコニコニュース",
+    "time": "20:18",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yVklybW5sM2pxYXZZMVBkdS1IS3FjWHp0UzNiNzBIQklBNlpaemxkYXFXVTgxcnpSWXhLa2pKZjkzZVV3d3NIQm1rOWhvRXlYbHBVdl94S3U1S3JpLXJHc2RlWjVVVzVwZVYwTFM4YlVoQUxhRUtsTjlodw?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-ac7fd74f22bf",
+    "title": "人工光合成でつくる水素とギ酸、2030年代にも家庭や産業へ実装狙う（2ページ目）",
+    "category": "技術",
+    "accent": false,
+    "source": "日経クロステック",
+    "time": "20:04",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTHB3eWpablpsVm4ySnUxWU42WUtrMkxHelUtUmo3RWZUNGZKNWZSSl9CbDZadWhDVWd0RHA2UXVmQS02SFg5Um83NmMtSlZramVKcnZ1NDJEV0NhWVVwYjZMUDByLTVqWV9TcA?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-13385f3a098e",
+    "title": "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築",
+    "category": "技術",
+    "accent": false,
+    "source": "日経クロステック",
+    "time": "20:03",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxcU5tMUVGY1JTTFo0ME55VHYwcl9jUzc0NFFPckRWWk93WHZyTkZQU1BMVkVaRHh3b0VFclFyclU3WTNIYXpwLVVXTGNjeWdPNl9ERG1pOXI1ZkllWGNxXzdVWjhiaXM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-5bbc7738d1bd",
+    "title": "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）",
+    "category": "技術",
+    "accent": true,
+    "source": "日経クロステック",
+    "time": "20:01",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3VVUDg4ZlVvY1E3VHdVYmdyTGFndzNEYjFpa3NnZ0pkT3hiUEdIbFVfS1plalVjTEo4Nnp3MExGQVdJUFlRdmVyUEl0YUVTV0tkSFpEOVBjcExKNUZKcVVGX3lld1NZWDNuS1YxR3FvSktmSTRJZjVQZk5WdTgtTmFUaVRMeFliN2sxUExuMkxmc2xV?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b37c20791d78",
+    "title": "竹中工務店/夏の余剰電力 冬に活用/集合住宅で水素貯蔵",
+    "category": "技術",
+    "accent": false,
+    "source": "建設通信新聞Digital",
+    "time": "19:55",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lUzF4ZFBEaENBXzZCR2tNekZCdzgzRVNvMEo5REVzZVBQNWtNU3BuNU40OHRoN2M2SmVWc0dBcVFlNXRXT2tVSHRkSzBKS1pl?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-88e94887ef06",
+    "title": "水素で動くショベル実演/30年以降に市場投入/神戸製鋼とコベルコ建機",
+    "category": "技術",
+    "accent": false,
+    "source": "建設通信新聞Digital",
+    "time": "19:55",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZSlVCb05WVl8wMXdQbXVFVG1NdF9qOGpkVnBMNDlCSmZDY2hjY2h6eFh0bmlGQWNabUtHYXlVRTFrc3Juai11WHFILUlJS3V5?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-fc02a24e3094",
+    "title": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供",
+    "category": "その他",
+    "accent": true,
+    "source": "アラブニュース",
+    "time": "18:32",
+    "source_url": "https://news.google.com/rss/articles/CBMioANBVV95cUxObU5td1ZyZUIwZ0RodGhRUW9rcTdhZEdodVdOWWMzelhIcU1MZTdsdTlvZ1RxOGh2SWVKZWVzOHF6SFdtSno2all3QmpCTmNULTU4cDVKc2g3Vng1R1RZNzBpSFJUQU1QY0l1eVJFT2VtZ0RJa1JEMXR4N0ZxZEswOG81ZVU4djNVYklHZHk0QVZzblp6SEhjamdibjlfZWlTLXhJbGxvY19WcHVON0x6bi1NWFNPb1lObUdqdTJ4ejZ3LWhjdWtFVnhVeVN3T01VeWZueTRiZmdKUzhhV1lkdXhLWlo0YXhSZDVEcmNVejd2T1ZVUmcwbmdxaHVMSGJ5YlRqTWJJMlloVFdINjJCbWhPMXJhZzYydmswRkFPQ3Y3c2cwVTdfRG81eC02UTV5TzdGYnJsY0hiQUZfVUx5YlpKSmVXWWJ0XzdnOE5OanNPOGo0UVdWMWlSdU02ZHpCVXpXU2RyX1pPbGk5bTJLRXJPbWlSRzhaQ29MOE9zVlp6TUNOWl9SREhZZmFGU0VueGtXWDE2ZEhUX3JmM09maw?oc=5",
+    "image": null
   },
   {
     "id": "auto-7ecfdbc11b5d",
     "title": "ゼロボード、PT Alam Energy Indonesiaとインドネシアにおける脱炭素経営支援に向けたパートナーシップ契約を締結",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "ニコニコニュース",
     "time": "17:30",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tNno5dndsZDlJY2FHdHVtUi1KWDFjSERQemtDS29oMHJYMU5lODdab2hJNlpNX2ZTY3lPVTBUTVpKU0FaS0t4Z2d6VzhpeE5mRkVwQ2lPUXd5NFJ0SkVIX3hIdGx0Qmk3?oc=5",
@@ -33,7 +103,7 @@
     "id": "auto-4279a2ef7caf",
     "title": "彰化沖の洋上風力「海竜」完成、27年商業運転へ",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "NNAアジア",
     "time": "15:00",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4ZWNfRlJnckJuTmY2T1JrTWRTMDlVRXFZZTlvMXNHZGZhMXNoQUI5aDd5RlpFWGJaVDkwMTR5d0NRTmlQREE?oc=5",
@@ -43,7 +113,7 @@
     "id": "auto-c6e57ab49cdf",
     "title": "太陽光発電（PV）市場の包括的な分析——市場規模、市場セグメンテーション、市場シェアを対",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "pando.life",
     "time": "14:50",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51UnNKQV9lU2stSjVwS2pEX3dQVnpSdm9lNlRVcGdtaHQxRGI2UHV5WDVJWEJXTzNld0lxZlFrSWNfOS15Q3hZUVpn?oc=5",
@@ -60,6 +130,16 @@
     "image": null
   },
   {
+    "id": "auto-9cfbe5bda926",
+    "title": "シリコン太陽電池の発電コストは次世代型の半分以下 新潟で進む太陽光発電の普及と迫る設備老朽化の課題",
+    "category": "その他",
+    "accent": true,
+    "source": "classicnews.jp",
+    "time": "13:00",
+    "source_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPejNEeGFCY2VkdW1PRjZjQ2htUGlIdmlWWGZFZzVlUWxmN2x4dGQ5Y0ZZemVETmExT2lqRUVoWF9RaXJJWm5KYzFSaUJQUmY4SzZZaVZUVFlGVnd0aEh2V2gzTVdhVW83ckY4QVUxeGRKeXQ2RGt1cldYVzVDZG1OSXFaZlI5Z0thZEVmZXI1MmxyTWZGSnVJajNjWExCX2w4WHRBTkpLQTZWbXlWTFNZWGF4M0U4R0kxMDMtMm45UXVTZm9pYkVjeVFidEc5clI5UFIxRGpUZ2N5SFZsbzdJVkFjbkRLdTl2RUZPb1d3SldheExJU0xGcmdaUk9KclVMaWxRUjItcHliQTMzazZ6S28yZWROVHJvR2c4c3RpaklkZnBpT2FiQzg3dVRHX2RZMmhseVROc3U2RjR0R2tabTZCVVE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-25e0db9f1779",
     "title": "SEETEL Groupが日本市場に「AUROSI 低圧蓄電池システム」を投入開始",
     "category": "その他",
@@ -73,10 +153,20 @@
     "id": "auto-7108efe6051f",
     "title": "中国3社、大豊H19と東台H4/H6の洋上風力で2億3800万ドルの契約獲得 - ニュースと統計",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "11:41",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUlxbHNtOVpwSjZ4MTZsY05abWNvWi1FT0tvUE9EX0JsRzFPaklZSHhfN0NVc19UaDRjZElQZlVxMmI2V211Y0pnQXBUNXJTcGl0VUVVNlpnWnZ6OVo2ckphaWJPQnRZR3JoQnlfR0h6cUctdFl0b0lRWU9CdlpfTFZtcGZacTFNNXE1SzkzQ00xUG45bzZuQ2pNX2ZPaHJqS2pSSlJCaEt1d2xWVUlneWNILV9yLUJ2TDdvWFBNY3c?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c848a3e68d26",
+    "title": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース",
+    "category": "技術",
+    "accent": true,
+    "source": "中日BIZナビ",
+    "time": "10:52",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkd0dYblRMb09RcXkxVF81dkd1YXc1dUhVRmdWNm5UTGw2SnhNRGY2bXBQNXZEbjNwQ095Si1nTDZYZExpaEFqYmN0QmhyMHp5V1ljN3lLX2RldVVEWVpocVAwVQ?oc=5",
     "image": null
   },
   {
@@ -90,10 +180,20 @@
     "image": null
   },
   {
+    "id": "auto-6948a2afe697",
+    "title": "【2026年度】燃料転換・電化・水素対応で使える省エネ・非化石転換補助「電化・脱炭素燃転型（Ⅱ型）」を解説",
+    "category": "技術",
+    "accent": false,
+    "source": "補助金ポータル",
+    "time": "10:31",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DV2FCcWlvbG1tLUhmTTRBQjdDVUtQWEt3NFM2QXZyTm1SVWFWQm4xQkY1VTNfaGkxd25PTFFUck8yOVNQbW9xckVMcVlDRlE3VUg1d0F5cmcxUDhnWlJR?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-1ca25028d54c",
     "title": "屋上太陽光発電の経済的メリット。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "9:42",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2ZzhQNlAxeEp4UlMzRl9Bc09EZlktX1VBREU1Q2U0R1ZtcUNjWFFHQ0hMc0xrX0JsM2hBb3dKUWp2aURaZE52RXZKVFRzNFZkU3pOdU5CRHcxRS1fVEVYclVwdzUxbGt5R3IyY0IzdElsT0pM?oc=5",
@@ -103,7 +203,7 @@
     "id": "auto-c18b39881fb5",
     "title": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "9:40",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGlMVEM2eV85M0VZamc3X3Y1U1lDd3YtenhxSnJrTjRRaG80N1JCVjVob0JONVlhTnlCVXNNNFNMQTRma3RNOExIM3AxbXRCUnN6cm1OcWJVcU1SRmdXemFROTR6ZHZ5bkVtZEJoNWRHaVJidlE5bWVndzRUOVlaRnNaU3lySWRLbjI5Njl6MGZSMnN5YzNodkFweGgyU0Zid3h5TkhR?oc=5",
@@ -123,7 +223,7 @@
     "id": "auto-afe3b7337e01",
     "title": "JR西日本、調達網の脱炭素に外部支援活用",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "LOGISTICS TODAY",
     "time": "8:49",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TX254b3lsYVVSc1A1cUtJenR3YmVhM3h4aUMxcEdIeG5CdGtVZ3hYdFdWMWt2YjBRYjdFOFlKY0FtdUlnNzBvcWJ3?oc=5",
@@ -133,17 +233,27 @@
     "id": "auto-20317c1f61a7",
     "title": "ＹＫＫＡＰ・黒部越湖製造所 再エネ導入、脱炭素化推進（日刊産業新聞）",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Yahoo!ニュース",
     "time": "8:30",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RR1BxUXFCWXlKVDVLQXZzc2pfR1hZdUhwX1AwaGpNa3dvZkthbGRBcE1jY0JEVGhBTEtJQlVFQlFyTHZFVTZVTU02ZXRud2JBNDgtYTM2UGhHV3E0Q0VqWElSZGVBTDkzb3FDSWJDdkRQNG5MbVRnN3ROcjBSTU0?oc=5",
     "image": null
   },
   {
+    "id": "auto-06f67668b8e6",
+    "title": "日東工業、環境省「令和8年度 再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業」に採択",
+    "category": "技術",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "8:15",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3Yms0X1lMTW92OFRHVnhIV01LNW5JaXhiUDR4YzBaQ3pXdkg5cXRIN28wNHJDU0dwX2tWTzlmMWxHdUdmYi1FRjIzYVNHaXVLV0RPV1NQdU0wNFlla0ZLQXJhQ2xHc0VZZzBWSm90Q2FUZw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-224870fa500b",
     "title": "日東工業、環境省のグリーン水素活用事業に採択、瀬戸工場に分散型エネルギーシステム構築 - https://kabu-ir.com/",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "検索: グリーン水素",
     "time": "7:46",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94bVlLRUtjazc1Mm5wM2tmTnNmX0VROXROQ2pjX28xcnNia2xNNVA2WDB6cjRSaGFlcVo4OU5mMWs1eWtTMWhROGk3YVpqNmVINFBwWQ?oc=5",
@@ -163,7 +273,7 @@
     "id": "auto-d4021d52cfb0",
     "title": "AC結合型太陽光発電システムの世界市場（2026年～2032年）、市場規模（10kWh以下、10～19kWh、20～29kWh、30kWh以上）・分析レポートを発表",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "アットプレス",
     "time": "7:30",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tR1ZHV3VmcmFQcmRhekVmb04yQmZUa3JwMUFDSkQxbW9UZWZmNVFLX3MxcHRJRWpJVGlaVlZLNXpablU2TWtvZWVUbHI4WXM?oc=5",
@@ -173,7 +283,7 @@
     "id": "auto-27b084728aa4",
     "title": "水素タクシーの「乗り心地は驚くほど静か」 SNS注目「かなり高そう」「すごい時代」…地方局アナが紹介",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "au Webポータル",
     "time": "7:01",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XLTZhbTliWUtja01EUUFqZkFTN2tvcktQZDdWS1pBZ0NGXzFkbDY1NEFtOFllUUNzdnJWTy1tend0VDNSNlhvT0xxcjJIa3hoM1FJblRyVWd3Ry1xLVVwMjhXV1U0d3dHQXVNc1VR?oc=5",
@@ -188,115 +298,5 @@
     "time": "7:00",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/18/news034.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/18/cover_news034.jpg"
-  },
-  {
-    "id": "auto-70ca80075fbe",
-    "title": "再生可能エネルギー開発において、水資源の安全保障を優先する。",
-    "category": "その他",
-    "accent": true,
-    "source": "Vietnam.vn",
-    "time": "6:57",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFgyemk1VmtxWkM2TjhGMzI3bWt1OHhVRDJqbGtJZDFMd3QxbzdaMEJTV2Q0X01VWWozYVdQSVFJenFVWTkzckRCX1ZDaXJvN1BsdG9FRkdXV0VmUjY1UDN4a1plTmc1b1dta1JQZHJuNTNfNlMzSHhJWUt6eTdVTHE2VGo0MXB1aTJNZjlRVlp6QQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-80a2a89943a3",
-    "title": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。",
-    "category": "その他",
-    "accent": false,
-    "source": "Vietnam.vn",
-    "time": "6:49",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWt4ZkNjN1pkbnRxdlRlVklUQjcxTUR2LUJoQjJ2VDNjdEtfZW8wb3E0c2RLNTduTHhReGhYZEZ2WGZEQVg3dVBIVUFpSDNkZEVBSDdGMHpER3dKYmRoUnlMRHFlMWpBY3hrNEhkeDdQMXFTcXFhR21pNEtYcUF1R25RUTdUcUNwRDJ6VW93by1LM2p5NmN4QkR0aHVwbS1jU0Z4UVpLNVJTUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d8c279f8539f",
-    "title": "水素タクシーの「乗り心地は驚くほど静か」 SNS注目「かなり高そう」「すごい時代」…テレビ山梨・西垣友香アナが紹介",
-    "category": "技術",
-    "accent": false,
-    "source": "ENCOUNT",
-    "time": "6:39",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTGRYY3gyMVlyY1JKUzBLNVowM0t3c2FGNUUydklTSTdmc0szOGlQUUtESGdKSjFqc1U0bmN2MVFIRHhiZEdvdzZVdVpJSHVVejlJ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-01a60639083e",
-    "title": "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める",
-    "category": "その他",
-    "accent": true,
-    "source": "TVer",
-    "time": "6:38",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zYlRzM253NUpoSEtkQUpXTnNGaXNUVkxkVkpGVDZTbFp0RTUwMDB6MzR0TGZIczhrRlpfNmNxeEt3QzdQRjFpMVh2UQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-06f67668b8e6",
-    "title": "日東工業、環境省「令和8年度 再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業」に採択",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sNTdyeXBIaDFUX0hXLUE0RWxfMmNpeDZUcW9Lc05Vd08yaUhkNXFOcVZoVk5KdnZ4MXFhQk9WRnJrc3RTWTE2UDdXM3QyVFhERXVLM1FQQlEzdGlhb2VLX3pwZ2J3aVhaZGc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-93ecf423f1fa",
-    "title": "韓国SKイノベーション、再生可能エネルギーの変動に耐える水電解触媒を開発…e-SAF商用化を加速",
-    "category": "国際",
-    "accent": false,
-    "source": "BigGo ファイナンス",
-    "time": "6:05",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBubHFFYTN1dmpVMmVFZUlCSmgzRkR5WS1kNjZuR0hjRTNpaXN2b3JaQTVMZUFrR20wQmRxS2dyZXU1dmdjU0llN3RnUDdOSGdfX1JQYldhWmVfZWRZSFBPLTc5S2RUVl8wWV9hUEJzVUU2MzBo?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-66453152c611",
-    "title": "SKイノベ、航空燃料向け水素の製造触媒を開発",
-    "category": "技術",
-    "accent": true,
-    "source": "Chosunbiz",
-    "time": "5:42",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODE3RUdBTExDOEZzMkJhNWZCX3dsdm8zX3RXUlZiZUVUR3Z3TjNJamFqS21QTHF5em5vLWx5TG1ZOERGaHAzTi05STZVbTlOazFTWXBoZHJtUjJJaXFMdS10dGVvYnhfN3h1eTI5WE5wV3EyR21VQm9FcnB2c21vTXdB0gGWAUFVX3lxTE5uZmVPOERkWkVtRXlBaXM1N3lIbmZlNGNyVEdUTW1HMk9OVTJoQUdTM0FQWjhQVGdqeUZLTjU5bFdZV1dNLWhhdHh6YWpKZzh5VDQwMXJXcVJraDdzOHdlWWpYUlBpY1NHUzNTUmo5Und5bXJPTGpnTlNsQ0wzc05MVzh1QW93aEtCLVpXQ0lnRmhLdE5sdw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-aa165fae4f48",
-    "title": "中国石化、ウランチャブ・グリーン水素・パイプライン・プロジェクトを始動",
-    "category": "技術",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "5:00",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZE1WczdmQmxnWVBUN1g3T2VBTG8tRXNkWENOQ3lJYlBETU9iLWlJdzVKamlfS2hnRlU5WVRjbEF2aVpER2pTdDV3LUFvWm1aRjhBSDdENjFqQkQtdEtCdGk0UHBjc0F1Y2ZBRGFqM3FES2YyRE5qeHFGOTZQM19SMWsya3lmbnFidVBJVmZ3LTFILUJNT3dsXw?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0fcad0b2c04e",
-    "title": "Plug、大規模水素製造向け電解装置プラントGenEco Scaleを商用化 - ニュースと統計",
-    "category": "技術",
-    "accent": false,
-    "source": "IndexBox",
-    "time": "5:00",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajctdGNabnUxTkJxUHJwaVdOcnViWloyQ2dSTDFsSlBiZ2o1cXZxd29JbG00VVE0ZmhlX1R2Vjl2V2czWHl6b0NISE94WGdJaDRidWVnNGlDbnRRclhXeEZROHlkM3pQTGU0U1VoWXZCLUVZMmNqSHdfX1hwV2Q4cExCY3cxakRmb0lBSkdJV3kwUTE2M3F0NA?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-ed50d70c18a1",
-    "title": "EXI、チリとガーナでグリーン水素プロジェクトを始動 - ニュースと統計",
-    "category": "技術",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "4:52",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenNmLWplUnhVQm9Vek5lNGhKaHNmbUVldWtlTm55OHdYSXFGdUNpZ0Y1Mk9HWHJxUzU4a1hqb3JPTDdFNmw0T1B6b0pZN3FpcDBVRm80MVdiR0l5Y1NVSVN1cktNOXJyV2ZiREdsc0psTHNZYk9LT0gtSktidU1GRkd3SmZZUjdZT0NHVUJ6QmFzUzhUcXRxbjEzRHZPNVA1SGNSRmhWUjQtNEtldFg1alltSUlleXIxNkFWQkExT3NWVjYz?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-a525002778f7",
-    "title": "ホンダが業界初の快挙!! 850度の熱を電気で生み出す!? 寄居工場がCO2排出実質ゼロを達成した舞台裏",
-    "category": "その他",
-    "accent": false,
-    "source": "bestcarweb.jp",
-    "time": "4:45",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ea093SVFvZ1pKc2tnektQM18zNHBWN2RNN1RLNUtZVkhPdENQWXlDM1JwbG1IR0RlTzRUWmVzaVFGYjB6YTd5MlFmTzVPTXNoRjdtQ3NEVEF5WkJTWEE?oc=5",
-    "image": null
   }
 ]
