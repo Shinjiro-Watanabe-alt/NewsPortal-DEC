@@ -11,104 +11,104 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-b0daaf7789c4",
-    "title": "京大発OOYOO、独自開発の分離膜・膜モジュールを搭載した日量100kgの小型CO2回収システム「100KPD」の提供を開始",
-    "summary": "[株式会社OOYOO] 京都大学発のスタートアップ、株式会社OOYOO（読み：ウーユー、本社：京都府京都市、代表取締役：大谷 彰悟、以下「OOYOO」）は、独自に開発した高分子分離膜と膜モジュールを搭載した小型CO2回収システム「100KP...",
-    "category": "自治体",
-    "source": "PR TIMES",
-    "time": "11/18(水) 6:10",
+    "id": "auto-8b8f040ab97f",
+    "title": "省エネ・非化石転換法ベンチマーク制度、電力供給業の目標値を見直しへ",
+    "summary": "省エネルギー小委員会 工場等判断基準ワーキンググループで、省エネ・非化石転換法における電力供給業（いわゆる発電事業者など）のベンチマーク目標の見直しと、新たな目標案が公開された。",
+    "category": "技術",
+    "source": "ITmedia スマートジャパン",
+    "time": "11/18(水) 7:00",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000151584.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/151584/12/151584-12-3cc0de06c26ff336c10990af4950bf1c-1280x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/18/news034.html",
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/18/cover_news034.jpg"
   },
   "headlines": [
     {
-      "id": "auto-8ddafa62af3c",
+      "id": "auto-b0daaf7789c4",
       "rank": 1,
-      "title": "【松本市の系統用蓄電池案件で事業承継手続きを推進】名義変更・連系申込の手続きを進め、2027年11月の系統連系へ",
-      "category": "企業",
+      "title": "京大発OOYOO、独自開発の分離膜・膜モジュールを搭載した日量100kgの小型CO2回収システム「100KPD」の提供を開始",
+      "category": "自治体",
       "source": "PR TIMES",
-      "time": "11/18(水) 5:40",
+      "time": "11/18(水) 6:10",
       "tag": "",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000210.000096742.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000012.000151584.html"
+    },
+    {
+      "id": "auto-65c51782ce86",
+      "rank": 2,
+      "title": "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証",
+      "category": "暮らし",
+      "source": "PR TIMES",
+      "time": "11/18(水) 0:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSEVYd3BiT25qUDlPbm5TU1ZnbzdKNi1NMGVDRlZJWXFMX1dlQ1MyRGZXd1NiWG8yNUZoOWQ4WUQ2VzRlUGlVamtnOC1oT0ZkWkhDbHQxcUpSNFZ5VTJ3c2J4V2pwSXVzVEE?oc=5"
+    },
+    {
+      "id": "auto-4665f4ef7682",
+      "rank": 3,
+      "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる (2026年11月18日掲載)",
+      "category": "その他",
+      "source": "ライブドアニュース",
+      "time": "11/17(火) 23:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSEZhTzhlOWUwUlo0aERlLXBsMkpxZlVBZlp0MER1RXJ3cHFXUXVDbTBvTG41TlBWUzVUQnVtUWR1cUJJMHp2RFoxUXZ4SGQ5Ti1uT2JPdk9wZjBqeWc?oc=5"
+    },
+    {
+      "id": "auto-a2b28f4e91db",
+      "rank": 4,
+      "title": "小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
+      "category": "技術",
+      "source": "ウォーカープラス",
+      "time": "11/17(火) 22:34",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuRndveVAwSzVabFpSRmQ4UzV5UExLNWpsMWhDLWZBNkdxSHRvQXEyLUlqNDFPb3dSWFVqaWNtQkVLbHBvSnp2aGlRSTlPTFZ4VnZxZVln0gFbQVVfeXFMUG1KZWNKbUdWcXdHdzZJaGRiYWZpRDhGOFRzWExEdzlpYVhUYmNyNHVaR0tNcEV5d09KX1BWYkktQ1pDUkJ4dks0Ty1kTG4xZEtPU3pLRzVNb0tLcw?oc=5"
+    },
+    {
+      "id": "auto-e06ab5aa6146",
+      "rank": 5,
+      "title": "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！（MotorFan）",
+      "category": "その他",
+      "source": "Yahoo!ニュース",
+      "time": "11/17(火) 22:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OWnhRNDU1TnR3SGJNWk10ZHVmMEM5SHR4eUd3TE1CMzZnVEQ3ZDhCVG9NYm1OYmpXdm5lVzQzTFpGQUtqMDN5WFpWV0N3X1NQQWNPSWdzOU12WHZ1N240U1BqdXZQbnBEREMxNXIxNm9iOXpNYTF5Qk1tY2JJSFE?oc=5"
+    },
+    {
+      "id": "auto-b44a4b6c3d22",
+      "rank": 6,
+      "title": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）",
+      "category": "その他",
+      "source": "MONOist",
+      "time": "11/17(火) 22:30",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2ZkFkajJiVWpXQVhNUjZoaU5yU2w5Q3o1Z3ZIdzZLMmNkSUItMUpSdTN3d1lmV05TeXYtV2Y0RzY0UE1jXzEzOHJRWlNTM08yZElranNUMDY5UXA1Ujg1R0I5bHRRX0hYMzMtOVJ0VQ?oc=5"
+    },
+    {
+      "id": "auto-ba4d37870c9c",
+      "rank": 7,
+      "title": "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発",
+      "category": "技術",
+      "source": "環境新聞オンライン",
+      "time": "11/17(火) 22:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12X2h4TENTdTRxRVVMaHF0NlpEQ2NXX1JQcUo5T2N5Y182SE15OXd2RU15QUVZaEZHWlhEamZpTFFnTVluSDlUYmY0LWlnQTlPYzBwMDlVSXdPUkVVQTFueGJ6cFFpbXRLWFh6RVc4YW5QaFBkVWR1UUxrbw?oc=5"
     },
     {
       "id": "auto-cc9d2a2a2d72",
-      "rank": 2,
+      "rank": 8,
       "title": "熊谷組／スペインの浮体式洋上風力実証参画／実海域で運用データ分析",
       "category": "その他",
-      "source": "日刊建設工業新聞",
-      "time": "11/17(火) 21:03",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CNjczNzBIdDNTQ3JOODNuNXVDUEpuVldPTmhWZ0dZMFVVRzJETkl6amtqbFh1aUZJbGZVV3NFUU84SXlkbXNv?oc=5"
-    },
-    {
-      "id": "auto-a84355e68b41",
-      "rank": 3,
-      "title": "現代建設がアンマ洋上風力再建提案",
-      "category": "その他",
-      "source": "Chosunbiz",
-      "time": "11/17(火) 21:01",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORkNpMy1wR3dqeDhOR0UtQ0ljOEhhOFF2Q3Q4OXdZN3o2cjFySkVJOEJMbWZUeE9xb0hTdVIyVGQyQ1JUUy1pSEZtZ1FaRjMtOGk1ZEtiTEIzODg2T2lPeDNsdlE1WE1iUmVyWU1SZmQ0TGFCb2cwN0VxU1lWS3pOWHRn0gGWAUFVX3lxTE5LNl85N3BHVTFFWDdQeFZYMEtjWWVHYTctVFVtdFI5S0x2dTFTS2VmYThjc0pCeVItTWJ2RWM2UU1ScWJaQUNjVWpEV2FrS0VDUWxGX3hkRG1NUm1QbDNWQnpRTXIwdTlUUXM2ZDUtdWxmeGQ5cGRDQ2JJbjZuSWNxNVl1WlUxNVNkcWdFa3lxQmJ6eEVPdw?oc=5"
-    },
-    {
-      "id": "auto-cd8e09993012",
-      "rank": 4,
-      "title": "エネルギーの安全保障や経済性を無視した気候変動政策は誤り､『脱炭素現実主義』著者の有馬純氏に聞く",
-      "category": "その他",
-      "source": "東洋経済オンライン",
-      "time": "11/17(火) 21:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JNTU0VHlEY1lMMzRXTm5LSGRuQmN0QW9WTEtRcVMtUElaR18zeEZrNExiUFlLbHlHUkFjdTBLclkzdnZySWtrczBtdklJYXdySGFIeHdwMUVOZmlJQm9R?oc=5"
-    },
-    {
-      "id": "auto-20317c1f61a7",
-      "rank": 5,
-      "title": "ＹＫＫＡＰ・黒部越湖製造所 再エネ導入、脱炭素化推進",
-      "category": "その他",
-      "source": "WEB産業新聞",
-      "time": "11/17(火) 20:59",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vYmgyZ0EtM0dic25qdGxqTnluR244Sk9veEVfSjFKNTZlR2kzUWZZOTNlXzdrcjBfMGNfYlMwLWotQzlOOUEzVEFCODJoRDBYa3JkTUhIT1BJVXRnR2dfSFBB?oc=5"
-    },
-    {
-      "id": "auto-dd07098dfb8a",
-      "rank": 6,
-      "title": "「おうちEV充電サービス」を活用したEV充電の遠隔制御実証の結果を発表",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "11/17(火) 20:30",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MbVZKU1dIdTduTkJOcmFwT3YwSGplSXVsSFZZdDRGc2tOR1BRb1l0VW5qNkNSSExMOGhScG5OdDQ0M1RFRGJYOXowV3FWcjE1QzQ4TzhMTi1HNWplaGp1UVBVVkFXT0I2RnNXZUtmdEN0NVlqU3BNNV9aMA?oc=5"
-    },
-    {
-      "id": "auto-aeb602f7a0ef",
-      "rank": 7,
-      "title": "停電したとき蓄電池は何をしてくれるのか――岐阜県恵那市の防災電源モデルを読み解くウェビナーを開催",
-      "category": "その他",
-      "source": "ニコニコニュース",
-      "time": "11/17(火) 20:21",
+      "source": "千葉テレビ放送",
+      "time": "11/17(火) 21:11",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTkxDVGZkREpCSnJoOEtzSENJcXdaZXFCVXBGSHZjYndSSUZDS1hKVHcxQU9pR3RzbU9yYnlxTnNrSDQ3X3pydVVfRGpTT1JJSHlRT0lWRVJOaWV4MUJZYWVXZ1F1WjNUeE83dGVNVWlEc0ZLMnc?oc=5"
-    },
-    {
-      "id": "auto-47d3e6cad701",
-      "rank": 8,
-      "title": "京都：脱炭素経営促進へ支援 地域金融機関 ＣＯ２削減ノウハウ指導 金利優遇 ：地域ニュース",
-      "category": "自治体",
-      "source": "読売新聞",
-      "time": "11/17(火) 20:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zOXNsZHctWmRVa2syV3Y2dElQVl9nN29hNW4zQTRKUnROODN1ZnRGMmdzc21tTmdGaUdhUkR0LU9iVEN5aGQ2endaNlVJXzhGWngyUkJVa0pqeTBBajZVWGFlRXRmdk4yTXVsNEZQWlE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iSGdvOHFnRFVndEgwQlBqN1B3c2g0bzlVc0tyNnJ2LXJlckV6c3NWemRWZDNlVGxUMDZhZHVzYVJKTS1Od3o3cWo1TmhrU3BJeHhTUlVXamtaV3VSNjBV?oc=5"
     }
   ]
 }
