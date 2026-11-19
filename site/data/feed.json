@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-0ad2478b46ba",
+    "title": "GX推進機構・東京証券取引所・GX先進企業等が集結。「GX CONNECT」を12/3に北九州で開催",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "0:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000149401.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/149401/18/149401-18-edf961135344ad6e2b45bd0b25292377-789x350.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-742fe218c9a9",
+    "title": "「蓄電池ビジネスの事業化戦略と実践」と題して、Energy&ICTコンサルティング株式会社 永井 卓氏/株式会社グリーングロース 河野 淳平氏によるセミナーを2026年12月23日(水)に開催!!",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "0:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000004795.000032407.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/32407/4795/32407-4795-cb97fb81107f3e3a2a0c002cf929ec38-1672x941.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-8dacf0c20e2e",
     "title": "韓国NEPIRITY、済州のエネルギーAIコンソーシアムを率いて「スマートグリッドEXPO【関西】」に出展 風力・太陽光・ESS・スマート農業のAIサービス8種を紹介",
     "category": "国際",
@@ -10,30 +30,50 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/195066/1/195066-1-e8eb3433f6c5ada3e9789cd5a2d77fd0-900x514.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-319a81f670ba",
-    "title": "電力系統のCO2排出量予測・評価技術に関する特許取得",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "16:15",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000195050.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/195050/1/195050-1-514dfe1d1cedca462fe330e4a7bc73c9-1200x720.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "id": "auto-9dfed874eb06",
+    "title": "三菱ＵＦＪなど３社、建築分野の脱炭素化で協力",
+    "category": "国際",
+    "accent": false,
+    "source": "NNAアジア",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80MUxiSzYtaUt1X25IaGdnVTNvNDdyQXlheFhGZmswSndRY1h2WVJ5a1JZaWFxLUtMX1ozcHVaUlJBeTlTZmc?oc=5",
+    "image": null
   },
   {
-    "id": "auto-5d5c9ce60dbb",
-    "title": "Carbon EX、「SBTi・ネットゼロ経営実態調査 2026」結果レポートを公開",
-    "category": "企業",
+    "id": "auto-d18ddfe707c0",
+    "title": "太陽光発電向け送電網を整備、再エネ導入拡大へ",
+    "category": "国際",
+    "accent": true,
+    "source": "NNAアジア",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96UE91Q3JFSEQtbGExVmY5RWlfTTZEU0xFQnhvQ2ViREQwMUp4aTVzNU9BeVFrZndUVDBYRnpSOXotSlJuMVE?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8efb97cdadc5",
+    "title": "【脱炭素化を加速】国内10事業拠点・営業拠点の電力を実質再エネ100％化達成",
+    "category": "その他",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "16:15",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000132.000143261.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/143261/132/143261-132-9f0809d48c147e38d31ea70cf58957a7-1800x960.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "Infoseek",
+    "time": "13:40",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EaUI3a3JIQkVfZGlCNzVfc3F4VmJFRFJpZWt0Ym5ublBKRUVnTVAxUDQxY2FITG1FdEJCT28xQ0pwNTR1SmNCdExScG15SHMxcUFILUVpU2xtVVlDMENWbW00aFVNOWd5cTlzb05zUV9MQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-73e3347b36d8",
+    "title": "画像1 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
+    "category": "技術",
+    "accent": false,
+    "source": "ウォーカープラス",
+    "time": "12:16",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13eGRLbzJpVmJYcVlIdDdDU19ISkcySlZIdVFrcEEybWhwNXczZTRLRHdsUWgzenFEdHFyc0lYcHE2czBNTWtWUHhDZzlod0dSa1lUTTJjOXhaX2hHTi12Wm5ET0M0T1dYTjdhV3JR?oc=5",
+    "image": null
   },
   {
     "id": "auto-c7feadb84ee9",
     "title": "水素自動車市場の冷え込みで、中国の億華通が日本での研究開発を停止し非車載用途へ転換",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "BigGo ファイナンス",
     "time": "12:05",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ic1RzYkVWenNZay1xUG1uelotTm5henV0anBNcTcwcjkzMThtQUlwT3hkLV8tN3JBazJMVEYweFFWM09qS0Y0SEVTVmk5a1NnSk56YzBuR3F4aTNpdFN0WVd5MS1YWE1xbk1kWHNaVm93cFVp?oc=5",
@@ -43,10 +83,10 @@
     "id": "auto-b7aa3e778646",
     "title": "GRトヨタ、ダカールラリー2027参戦体制を発表。三浦昂が最高峰クラス初挑戦、水素燃料電池ハイラックスも投入",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "autosport web",
-    "time": "11:35",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZlhUWVIzcFpwaF85cFRoRTI3UDJZNzhFbVotVmFhdFhFenBwNldGc091c1BycTNtMmJvbEM4VE5zdmswLXBFRy11VQ?oc=5",
+    "time": "11:28",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NeUVzQTJjNFIxcFVMaEhVMWN2T3A2WE04bDBCa2pVUUtURWktNEVfRjVEalVnLWVjTG1PNkdxSlgyU2xWcldoQkl4QjhvdkpCVDN0aHAwYy05NWpFd0JTdE93?oc=5",
     "image": null
   },
   {
@@ -63,20 +103,10 @@
     "id": "auto-7e3c1da66511",
     "title": "脱炭素推進へEVの展示・試乗会 北島町、役場で開催",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "徳島新聞デジタル",
     "time": "11:00",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LNXI5cVVkTUZaY3J2aGJTRlBaazRQTzE2cFdKaHF6WXJ3S0ZtZXlsWEtJNUxGcnFlQ1c1QllPRHdkTGx4bUREblAxS0FKYmgxQ2ZhZXB3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-31f71980a425",
-    "title": "柏崎で工業人の集い 講演で水素エンジンの可能性探る",
-    "category": "技術",
-    "accent": true,
-    "source": "柏崎日報社",
-    "time": "10:40",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESmR5ZFJOZzBxNDNMcnlFLUVGM0xJb01KLVFZNS1YV2Y3MU5GMjJXVEFWUXFhak8zeDdJeFg1eW4yS3RQSEJkclRpd293VWdtNlRyaQ?oc=5",
     "image": null
   },
   {
@@ -180,22 +210,12 @@
     "image": null
   },
   {
-    "id": "auto-8efb97cdadc5",
-    "title": "【脱炭素化を加速】国内10事業拠点・営業拠点の電力を実質再エネ100％化達成",
-    "category": "その他",
-    "accent": false,
-    "source": "時事ドットコム",
-    "time": "7:15",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00V0lhN0RtU1VPWkFFN0VlMk5MRGJIZTk2SDk1bllFdU16SllfOTZKcWhZdVVrY0lkYWlkX2NhbHN0ZzhXWkdPbk5ieTlzeWg3T0RXdFdLRXdsYjZGeDRsV0VsaFp1VXd2cmZJ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-0d7c46e6115e",
     "title": "中国太陽光発電市場、シリコンウエハー・セル価格が下落続く モジュールは高効率・低効率品で明暗",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "BigGo ファイナンス",
-    "time": "7:05",
+    "time": "7:08",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iZ1o1UTRTMmktaURuZVpzWS1FcnYza3BCNTdyaDhXM3loN0hHd1MyTzZJcDFxX0lyS2lHRGYwOE42RzVxaWtLMDl0SXdLVVc0QUhQVnNPSUZBZFlZTG5XMmZtREpENnMwRnN2anhWYjh3NUpf?oc=5",
     "image": null
   },
@@ -203,7 +223,7 @@
     "id": "auto-fe33307ab726",
     "title": "OXExpo 2026（オーシャントランスフォーメーションエキスポ）に出展 ～海事・港湾・洋上風力に関する最先端技術を紹介～",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "一般財団法人 日本気象協会",
     "time": "7:01",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kX3FQcnBBcHVzVVQ2QXhWMDVRb3d1YjNKRjlBZXFUMUtNa2dQY3BlT3NVbFdRM0ZCX1NRbkhPUW5kWHNhakpHTVM2Z1VQaVlrWkJv?oc=5",
@@ -223,7 +243,7 @@
     "id": "auto-820cb655e53a",
     "title": "パワーエックス、UAE企業と中東での蓄電システム共同販売で提携",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "ニュースメディアVOIX",
     "time": "6:32",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tcTA3em94X0hBTlVtYnNUV3BQZGMydXFucFJfaE0yMmtGRG9YRTVsdm8xZWJ5NDM1dTNSdlFvaWZtUThhLUtlQUhOSTJQYldhREhv?oc=5",
@@ -233,10 +253,10 @@
     "id": "auto-6def6425811b",
     "title": "ＣＯＰ３１で日本の脱炭素技術をアピール…人工衛星「いぶきＧＷ」使いメタン漏えい場所を絞り込む技術など展示",
     "category": "その他",
-    "accent": false,
-    "source": "ライブドアニュース",
+    "accent": true,
+    "source": "Yahoo!ニュース",
     "time": "6:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QUGdOTjQyOUZhLWhwVlVTOVZRWl8wa3pIS3BOLWNwQnZ5emk0ZDc4bEVVUmRQZkRXZHpiR1JHUl9sZGt5REY3c0dSNjluc0ZyVUhWSl9UVEhBVU5nNHc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbHNjaGprUXpWUGxiSHBIMkJZM1dxU2Q1RWRjdDZfdkFNSWNnVFo4anBXSURQQTdqeGFleExHTFFXWUVsRjUyQXVNNk9fZUktLWYtOGltaTY3cm5LMUgzdmtCZlJXZjJFMUdEWWpjMWlCaVprYlJ5VVI5N3hRSDQ?oc=5",
     "image": null
   },
   {
@@ -253,7 +273,7 @@
     "id": "auto-f2bdae7cc51e",
     "title": "電通グループ、脱炭素経営ランキング「NIKKEI GX500」の「排出量の管理や削減実績」で第1位を獲得 (2026年11月19日掲載)",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "ライブドアニュース",
     "time": "6:15",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40TkE3N3N6WnRwVXhFM2g3VGJpLTc5MFRTNWhoVnlMeVFTb0g0LVNXNzhPeFBOdndEUjdtaHFLRjBMVHFvQkc4WVhrNDBzS0l0eFY5T2NGRnUyaEpTOHRPOEdn?oc=5",
@@ -263,7 +283,7 @@
     "id": "auto-fc70b5a3c03b",
     "title": "ホクト－3日ぶり反発 廃菌床活用の脱炭素エネルギー事業が経済産業大臣賞など受賞(トレーダーズ・ウェブ)",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ファイナンス",
     "time": "6:14",
     "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNTgxblpEaWFvMldtalZlbFBWMGRnUTJYRkhfUDJRaGJaeXg5eDlnamhabTl6Y1YtQ0dFdVJGZnJ2WXN4UmI4ZFZyazQwYTJqakNTRWY3djltQ2hBMjFrUTZxUGZxdnBTeVlhOVR1NFZLMlV3R0JPTWREaHhRTUJGSlh4R0pxdmM?oc=5",
@@ -277,26 +297,6 @@
     "source": "西日本新聞me",
     "time": "6:12",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaaFZlZG40WWg4TXR0NkYwQkNJcXNrS2E3Y1RBRVN0SGJoV1RCT2s5T2tmWUoxMTNZbExta2lwWFRXNDJ4QXB3WFY1WXVhakFrMkNkSkh4QQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-cc2704f1266d",
-    "title": "日本の脱炭素技術をPR 衛星でメタン漏えい検知など…COP31展示",
-    "category": "国際",
-    "accent": true,
-    "source": "読売新聞",
-    "time": "6:05",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ySHN0ZEtJM2t3VU4wcTlMS2hyNVlEcXB3TFRhSE5Da3hrREx5RUY4dHRla0VYQXFGOWxHLTBZT0VvNjRzSUV1c1o4M2FfUkR2empnd2hnaUVlZnZzSXJFUlljeFBWUQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-494ae7027b3f",
-    "title": "室蘭から洋上風力の可能性発信 人材育成や先進事例を北海道内外の専門家ら講演",
-    "category": "その他",
-    "accent": false,
-    "source": "北海道新聞デジタル",
-    "time": "6:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZEhCRTBEX3lmM2ZYSWlqWTFYa2VSMWtOWnN1aDlYYW94MWNTWjlRN1RycGZUa2hyX2tvaW9XZW9pSGhKbHo1TmppclA1Z1BEbldjdklrSjUxQQ?oc=5",
     "image": null
   }
 ]
