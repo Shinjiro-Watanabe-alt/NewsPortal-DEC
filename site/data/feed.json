@@ -1,25 +1,5 @@
 [
   {
-    "id": "auto-501bc922dd72",
-    "title": "系統用蓄電池はどこでつまずくのか――国の審議会資料から5つの失敗パターンを読み解くウェビナーを開催",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "18:00",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000280.000181124.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/181124/280/181124-280-00eaf588a2fbe502fbc1645bfeab2abe-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
-    "id": "auto-4c090a291eb8",
-    "title": "ホタテ貝殻の「ホワイトカーボン」クレジット化を目指すAICaS・北海道森町・北海道経済連合会が11月20日に連携協定を締結へ",
-    "category": "企業",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "17:41",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000008.000193912.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/193912/8/193912-8-97f169dc1dc2df537c887ed176e1639c-605x194.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-8dacf0c20e2e",
     "title": "韓国NEPIRITY、済州のエネルギーAIコンソーシアムを率いて「スマートグリッドEXPO【関西】」に出展 風力・太陽光・ESS・スマート農業のAIサービス8種を紹介",
     "category": "国際",
@@ -33,7 +13,7 @@
     "id": "auto-319a81f670ba",
     "title": "電力系統のCO2排出量予測・評価技術に関する特許取得",
     "category": "企業",
-    "accent": false,
+    "accent": true,
     "source": "PR TIMES",
     "time": "16:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000195050.html",
@@ -43,21 +23,91 @@
     "id": "auto-5d5c9ce60dbb",
     "title": "Carbon EX、「SBTi・ネットゼロ経営実態調査 2026」結果レポートを公開",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "16:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000132.000143261.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/143261/132/143261-132-9f0809d48c147e38d31ea70cf58957a7-1800x960.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
-    "id": "auto-671a4cc4bc89",
-    "title": "WeLion社製半固体リチウム電池を活用した蓄電システム事業への参入に関するお知らせ",
-    "category": "企業",
+    "id": "auto-c7feadb84ee9",
+    "title": "水素自動車市場の冷え込みで、中国の億華通が日本での研究開発を停止し非車載用途へ転換",
+    "category": "技術",
     "accent": false,
-    "source": "PR TIMES",
-    "time": "15:10",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000042.000183285.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/183285/42/183285-42-161ae8d35dc51264ca7d5d41a378ec23-196x289.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source": "BigGo ファイナンス",
+    "time": "12:05",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ic1RzYkVWenNZay1xUG1uelotTm5henV0anBNcTcwcjkzMThtQUlwT3hkLV8tN3JBazJMVEYweFFWM09qS0Y0SEVTVmk5a1NnSk56YzBuR3F4aTNpdFN0WVd5MS1YWE1xbk1kWHNaVm93cFVp?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b7aa3e778646",
+    "title": "GRトヨタ、ダカールラリー2027参戦体制を発表。三浦昂が最高峰クラス初挑戦、水素燃料電池ハイラックスも投入",
+    "category": "技術",
+    "accent": true,
+    "source": "autosport web",
+    "time": "11:35",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZlhUWVIzcFpwaF85cFRoRTI3UDJZNzhFbVotVmFhdFhFenBwNldGc091c1BycTNtMmJvbEM4VE5zdmswLXBFRy11VQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-8489eb4d7dc0",
+    "title": "台湾のダム水上太陽光発電をめぐる議論続く、太陽光発電7団体が「2大管理原則」を提示し汚名返上に反撃",
+    "category": "国際",
+    "accent": false,
+    "source": "BigGo ファイナンス",
+    "time": "11:26",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40dEZNOC1vc2NDRkhBM1RuS3lETnRWUkhTN2kwSzhpZUJMNm45Zi1MQzhFUmdOeVBzYmUtYWNlR0FEcV9EblhrU19nSlhIYkxEaFFwam5UdWJDcUxoQzNfN2NVd3JzRV9DekhMMk0yQWhxQ1NC?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-7e3c1da66511",
+    "title": "脱炭素推進へEVの展示・試乗会 北島町、役場で開催",
+    "category": "その他",
+    "accent": false,
+    "source": "徳島新聞デジタル",
+    "time": "11:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LNXI5cVVkTUZaY3J2aGJTRlBaazRQTzE2cFdKaHF6WXJ3S0ZtZXlsWEtJNUxGcnFlQ1c1QllPRHdkTGx4bUREblAxS0FKYmgxQ2ZhZXB3?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-31f71980a425",
+    "title": "柏崎で工業人の集い 講演で水素エンジンの可能性探る",
+    "category": "技術",
+    "accent": true,
+    "source": "柏崎日報社",
+    "time": "10:40",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESmR5ZFJOZzBxNDNMcnlFLUVGM0xJb01KLVFZNS1YV2Y3MU5GMjJXVEFWUXFhak8zeDdJeFg1eW4yS3RQSEJkclRpd293VWdtNlRyaQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d559f4dbf656",
+    "title": "レゴ・マニュファクチャリング・ベトナムは、バッテリー蓄電システムによる再生可能エネルギーの利用を正式に開始した。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "10:23",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUG41VnVLR1RfZHFXNDBmZFhMb193VmZZRUJQOVF5cXpqWXdQVnRYNmJLQ1IyZUp4MmpEV2ZFQWtnM21QX1F2azVoNHVEYk9IY1Y3OVFpTUd1SUFocmNLdzFWZVVPZHRiUEtzR3hMNGVwaVoyQ3dpTmZTMnB0dFlIQ2dLQWZyVURDZGhMbzFMWHlzMXMtQUZUdkxpbHAtdFQ5YTBuamtCd1FZZmUyamphTngwbVFSdFpzLWlpREsza0FpNXdYLVZOQVZ1R1h0emM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-d43afad4998c",
+    "title": "Averroes社と中東湾岸地域における蓄電システムの共同販売に関するパートナーシップ契約を締結",
+    "category": "自治体",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "10:15",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eDNEVkRsMUVVYWNscTJUS2VpQXhOS05Yd2YtcEFobFRVbTBEUTVoQ1lTaFJoMHliRUM3QUhzTXV3RnBvV0RkRzU4Vk5Rb0c0aGo1di1sZEV4andaa3FNdHl6emV5Vjl5T1Vhd09RQXFCUQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-501bc922dd72",
+    "title": "系統用蓄電池はどこでつまずくのか――国の審議会資料から5つの失敗パターンを読み解くウェビナーを開催",
+    "category": "その他",
+    "accent": true,
+    "source": "Infoseek",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NaWZ3NVNvQ2RlUmZjckxrV2NmUmNtZ3ZzMF9WVWFvcTJhZmtkWG5Wci1zckZwcVB5NWc2SnFlS014ZUdrdEtJZGtPTlBtZGltdThjOG1hb01DTXNDU2xlZHl4LVJNWlA5V19PanVtX1ZNdw?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/181124/280/181124-280-00eaf588a2fbe502fbc1645bfeab2abe-1672x875.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
     "id": "auto-b5863dce48c2",
@@ -73,37 +123,37 @@
     "id": "auto-255ec732b7a2",
     "title": "屋上太陽光発電からのグリーン移行。",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "Vietnam.vn",
     "time": "8:26",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MRkUtbE9kdjhBeHBFekVJaWg0S0toc0hRTmZlUjVIVk9XQUpxSGxJUmN5U2NLM1dtaHVLUjBDRWQzYVRSWURDQU5iRThSSE9kQnhvZU5vNzRwR3FkN2cyREd5THowVjRCMTVwZVhuOFRFRlN1?oc=5",
     "image": null
   },
   {
-    "id": "auto-0d6f0f82a876",
-    "title": "和モダンの客室と水素の湯！浪江町の宿「福島いこいの村なみえ」に泊まる【福島県浪江町】",
-    "category": "技術",
-    "accent": false,
-    "source": "ニコニコニュース",
-    "time": "8:03",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1RXN2dldvcGI2ZnhrRm4zd1BIemw0YUxETFJQc1J0YVJxNmZieDg1TlNzVHJPc0N3c29OWTdjTk83UVk0aVZUWmVwRm1qcGd1UnYydWNIeEM0VEZTRUNEelh6OTZNaVVaQWpNZ2xZZnRudmtyOFJRbno3TQ?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-4704d9220190",
     "title": "2035年に電化率35%、日本も賛同「脱炭素の手段」 COP31（朝日新聞）",
     "category": "国際",
-    "accent": false,
+    "accent": true,
     "source": "Yahoo!ニュース",
     "time": "8:00",
     "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fS2I4NFdHbUgtSHExWm1kSS1PSjVsbm9VeTBOYlNNdkVEUjVHLThBLUJSbko3ci01d3NVWEozWmg0N1JnWmowVmEtWXcxTS1sNTMydkVzNTJOTldMaWl4NEFyMFBQMXRkdXdnaXQzdnJraTZ1aWtZQnFGS1h2Njg?oc=5",
     "image": null
   },
   {
+    "id": "auto-f3424400feb6",
+    "title": "屋上太陽光発電システムを設置する世帯への財政支援。",
+    "category": "その他",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "7:54",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHhGaHVhRGh6TWpEMVdPTUJPSXVYU1BrVjQ4b0VKYWU3MzJwRkVWQ3pIY0txWGJIY0pnR3NpLTZ4QWpscTN0T2pGYnJxeDkxU1pnNEZ2Q1lRdGU3dXNJYW5LR1QzLXQ0WWlyV1ZlanRSakctT21Gd2xqRjYwbGtkUmtpSk5wNUhmdFlreFRMeG53UQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-17f1970bff87",
     "title": "クリーンエナジーコネクトのNon-FIT太陽光発電所が3,000箇所を突破",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "千葉テレビ放送株式会社",
     "time": "7:36",
     "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kcGYyaVYtX2dacTJUWnY1Z3Y4MWlNZnFMRXJGUHJSa0FnQWMyUnphZmF0Rm50VjlodEN4WVM2OWZONVN2YkFtU1JGQlkwTWJpZ0JqdGx1Vmdia0p5RDMw?oc=5",
@@ -113,11 +163,21 @@
     "id": "auto-cc11c536f1b4",
     "title": "風車タワーにカルコパイライト太陽電池、鹿児島県で実証",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ITmedia スマートジャパン",
     "time": "7:30",
     "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/19/news038.html",
     "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/19/l_rk_261118_taiyou.jpg"
+  },
+  {
+    "id": "auto-e4ff537efc1a",
+    "title": "を洗濯用洗剤に変える、TAKANAWA GATEWAY CITY発カーボンリサイクルの舞台裏",
+    "category": "その他",
+    "accent": false,
+    "source": "東京ガス",
+    "time": "7:19",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90blJURlpXMDNMS25kb0tsNWJoM2pXMHdjVFJZZGpUY0NNRmpOZXNOem82OFJoUFV0MmJZdUpyNFBOdjhWRlRlR3d3bWkyOVVCeXA4OWpGRERpUG00cUJ6RWRHSERfR0l0MDB5VWxSaw?oc=5",
+    "image": null
   },
   {
     "id": "auto-8efb97cdadc5",
@@ -230,16 +290,6 @@
     "image": null
   },
   {
-    "id": "auto-4f7ea69cf92a",
-    "title": "操電、シンガポール現地法人設立、フィリピン・モンゴルで再エネ案件開発を推進🔒",
-    "category": "その他",
-    "accent": false,
-    "source": "シンガポール新聞社",
-    "time": "6:02",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tVGVvbGc2Wm9RT0dMcGFDX05RcW1JSjRPSnQ3TDFrMXpuUDluREZ4cVhtcjJURjd6NGpNT2NpX2RlbUpQeUhhY2EzaF9HX1FlMVlsOEhR?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-494ae7027b3f",
     "title": "室蘭から洋上風力の可能性発信 人材育成や先進事例を北海道内外の専門家ら講演",
     "category": "その他",
@@ -247,56 +297,6 @@
     "source": "北海道新聞デジタル",
     "time": "6:00",
     "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZEhCRTBEX3lmM2ZYSWlqWTFYa2VSMWtOWnN1aDlYYW94MWNTWjlRN1RycGZUa2hyX2tvaW9XZW9pSGhKbHo1TmppclA1Z1BEbldjdklrSjUxQQ?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3443766721c9",
-    "title": "【総研ブログ】COP31におけるサーキュラーエコノミーとカーボンニュートラルの接続―Zero Wasteと産業のグリーン化をめぐる議論―",
-    "category": "国際",
-    "accent": true,
-    "source": "株式会社バイウィル",
-    "time": "5:42",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uTFQtN09Bb3AzU0JmYTdBTk5EbXh2bmZlYTRqMmhyZnl3b3IzeTRkazBSZjhNeWw4dWFmMWN0OFFGNXBoYTMwUUFnS244Z1RyU1Z2allDX1pTSVRoNXc?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fd99d1d3b7ae",
-    "title": "第10回中国（佛山）国際水素と燃料電池技術及び製品展覧会(CHFE2026)出展のお知らせ",
-    "category": "技術",
-    "accent": false,
-    "source": "Excite エキサイト",
-    "time": "5:15",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mc0duQzB6Q1VISklndlk4bGhodVNhd2dERXRjS1RZR2J4VVltRmlPaHhTVVhCQnhMOE82S0pfVHBxd3FJakpjMnVHYldFREt1OVdTOVpGbmx4VncyblZldVY2ckU5RC1vMVotb1NHVHpuempW?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d05a139ea89a",
-    "title": "衛星写真で「太陽光発電が載ってない工場・倉庫の屋根」を探すAIツール登場",
-    "category": "その他",
-    "accent": false,
-    "source": "環境ビジネスオンライン",
-    "time": "5:14",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Z01KdWE5dUhWdnA0Mms2alN6N0IxVXhkaXR1ZkUyTS00NmJhRGZMUFN6SXFMRUY4ZEFTMWVTRElSSDVtdHZaMWE0cERFLXBRRTRlLXZwRmpWMDI5VnNrR1pjcGl1dVRCRmhYc1R3anF2UGRkV1U3WGNKdFM?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8e5e5cf35307",
-    "title": "燃料電池システム用水素循環ポンプのメーカー別シェアと動向",
-    "category": "技術",
-    "accent": true,
-    "source": "pando.life",
-    "time": "4:56",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nMUw5bHhCMFZoN2NhZ1ctRnNJUlhndXpQWmtCQlRhNjBIX0hPbTM1aUJzMXQ4STlXRjlrRWNhUmVULVNBLTRRSkR3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-16442880029a",
-    "title": "【太陽光発電】CPower、長州産業・東日本工場で生産される日本製太陽光パネルを提供",
-    "category": "その他",
-    "accent": false,
-    "source": "www.ctiweb.co.jp",
-    "time": "4:36",
-    "source_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPekN3UVRoSXRQbWVENkZqNDlRTng5RHFCWWg3SUR5VGZuMEpnT0JhRWkwZmVOTkpCT29WRElXVHhzQnBTVUtvWmFUbkZ4NUYta0FNWkk3M0UwMTlmZ0lUWVg5eXBUYUVVZTIyNENET2JKcTN3OVFub3lORGctLVlIZjVpNS1pQzdzeG5ZOG15a0pLeUVQRjNNSGNzQXBxOG8zMUtPYTVLZ19JMW1nWFowcl9ycDFOOEZja2JiY2Qwd0pabUZ6bGlzZURPMWxwQWMzUmtjdGtCU19QTVFWeDF5NmlkZlV1VW50MjF4Q1JSWFI2amIzRWJvVGdPNjl0cmt2M2FCNmhIeWxOdHBsT2Q0R2dxRW9BTGc3ZHVWYkg1SHVIYkh1TmE2OV9la3BXamtaNktuUW0wNFY5Um5NQ1BWejltUkJScWFoYzJoM2NzREZFQQ?oc=5",
     "image": null
   }
 ]
