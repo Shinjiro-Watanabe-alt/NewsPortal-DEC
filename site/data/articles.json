@@ -1,24 +1,195 @@
 {
-  "auto-1e9d6f6f3ed8": {
-    "id": "auto-1e9d6f6f3ed8",
-    "category": "企業",
-    "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～",
-    "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000398.000012501.html",
-    "time": "11/19(木) 5:10",
+  "auto-cc11c536f1b4": {
+    "id": "auto-cc11c536f1b4",
+    "category": "技術",
+    "title": "風車タワーにカルコパイライト太陽電池、鹿児島県で実証",
+    "source": "ITmedia スマートジャパン",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/19/news038.html",
+    "time": "11/19(木) 7:30",
     "comments": 0,
     "tags": [
-      "蓄電",
-      "太陽光",
-      "再生可能エネルギー"
+      "風力"
     ],
-    "summary": "[株式会社エコスタイル] 太陽光発電開発事業を中核に再生可能エネルギーの普及促進を展開する株式会社エコスタイル（代表取締役 社長執行役員：木下 公貴、本社：大阪市中央区、以下「エコスタイル」）は、EPC（設計・調達・建設）・施...",
+    "summary": "古河産業、四電エンジニアリング、頴娃風力発電3社は、フィルム型カルコパイライト太陽電池を風車タワーの側面に設置するための共同実証実験を2026年11月10日から開始した。",
     "body": [
-      "[株式会社エコスタイル] 太陽光発電開発事業を中核に再生可能エネルギーの普及促進を展開する株式会社エコスタイル（代表取締役 社長執行役員：木下 公貴、本社：大阪市中央区、以下「エコスタイル」）は、EPC（設計・調達・建設）・施..."
+      "古河産業、四電エンジニアリング、頴娃風力発電3社は、フィルム型カルコパイライト太陽電池を風車タワーの側面に設置するための共同実証実験を2026年11月10日から開始した。"
     ],
     "related": [],
     "collected": true,
-    "image": "https://prcdn.freetls.fastly.net/release_image/12501/398/12501-398-80494f2bfbd8d909b2f154e2b48f40db-508x133.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2611/19/l_rk_261118_taiyou.jpg"
+  },
+  "auto-cd20cc5d1c93": {
+    "id": "auto-cd20cc5d1c93",
+    "category": "企業",
+    "title": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了",
+    "source": "PR TIMES",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000177112.html",
+    "time": "11/19(木) 6:40",
+    "comments": 0,
+    "tags": [
+      "蓄電池"
+    ],
+    "summary": "[Second Foundation Japan合同会社] 東京、2026年[11月9日] Second Foundationは本日、日本国内の系統用蓄電池（BESS）プロジェクト4件について、レイエイトエナジー株式会社（Ray8 Energy Inc.、以下「レイエイトエナジー…",
+    "body": [
+      "[Second Foundation Japan合同会社] 東京、2026年[11月9日] Second Foundationは本日、日本国内の系統用蓄電池（BESS）プロジェクト4件について、レイエイトエナジー株式会社（Ray8 Energy Inc.、以下「レイエイトエナジー株式会社」）への売却を完..."
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://prtimes.jp/common/pc_v4/og.png"
+  },
+  "auto-fc02a24e3094": {
+    "id": "auto-fc02a24e3094",
+    "category": "その他",
+    "title": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供",
+    "source": "アラブニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMioANBVV95cUxObU5td1ZyZUIwZ0RodGhRUW9rcTdhZEdodVdOWWMzelhIcU1MZTdsdTlvZ1RxOGh2SWVKZWVzOHF6SFdtSno2all3QmpCTmNULTU4cDVKc2g3Vng1R1RZNzBpSFJUQU1QY0l1eVJFT2VtZ0RJa1JEMXR4N0ZxZEswOG81ZVU4djNVYklHZHk0QVZzblp6SEhjamdibjlfZWlTLXhJbGxvY19WcHVON0x6bi1NWFNPb1lObUdqdTJ4ejZ3LWhjdWtFVnhVeVN3T01VeWZueTRiZmdKUzhhV1lkdXhLWlo0YXhSZDVEcmNVejd2T1ZVUmcwbmdxaHVMSGJ5YlRqTWJJMlloVFdINjJCbWhPMXJhZzYydmswRkFPQ3Y3c2cwVTdfRG81eC02UTV5TzdGYnJsY0hiQUZfVUx5YlpKSmVXWWJ0XzdnOE5OanNPOGo0UVdWMWlSdU02ZHpCVXpXU2RyX1pPbGk5bTJLRXJPbWlSRzhaQ29MOE9zVlp6TUNOWl9SREhZZmFGU0VueGtXWDE2ZEhUX3JmM09maw?oc=5",
+    "time": "11/19(木) 0:31",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供&nbsp;&nbsp;アラブニュース",
+    "body": [
+      "日本、ベイルートに太陽光発電システム設置のため1500万円を提供&nbsp;&nbsp;アラブニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-369995f779d5": {
+    "id": "auto-369995f779d5",
+    "category": "その他",
+    "title": "信濃町町民向け脱炭素研修 ~ボードゲームでゼロカーボンを学ぼう~（12/5）",
+    "source": "環境新聞オンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmVFVBbDRDbW1WcGJjVmhYaWtKRnZ0eDI4M2ktVDdSeGdVd0hXWnJjdDYxUXE5UHRoZnRQNVJISzBBcVNBUXdlS3VTaXo4RDlsNlRVMW9wYXY3M3pyWFRQQlBzeXNtMXMzTlR3NWROYTVlYWVwZmttV2JkTk1pZw?oc=5",
+    "time": "11/19(木) 0:27",
+    "comments": 0,
+    "tags": [
+      "脱炭素",
+      "ゼロカーボン"
+    ],
+    "summary": "信濃町町民向け脱炭素研修 ~ボードゲームでゼロカーボンを学ぼう~（12/5）&nbsp;&nbsp;環境新聞オンライン",
+    "body": [
+      "信濃町町民向け脱炭素研修 ~ボードゲームでゼロカーボンを学ぼう~（12/5）&nbsp;&nbsp;環境新聞オンライン"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-a268cb825320": {
+    "id": "auto-a268cb825320",
+    "category": "その他",
+    "title": "太陽光発電の電力で電気代を削減：時間帯別料金の導入効果 | 報告書・提言",
+    "source": "自然エネルギー財団",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUXp6b3QyRHgwVExGSnpwOXRqNnlRMklNaDFXTDduQ1ZKVUNlMTBtbWhFblVVbWY4SGRjN3FnamFWVEMxUWtWOXVrUkRHWG5QMUpSZzNSOVEwakFYcVh5clVqbklXWlJVWk5wVw?oc=5",
+    "time": "11/19(木) 0:05",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "太陽光発電の電力で電気代を削減：時間帯別料金の導入効果 | 報告書・提言&nbsp;&nbsp;自然エネルギー財団",
+    "body": [
+      "太陽光発電の電力で電気代を削減：時間帯別料金の導入効果 | 報告書・提言&nbsp;&nbsp;自然エネルギー財団"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-58763a9e4dda": {
+    "id": "auto-58763a9e4dda",
+    "category": "その他",
+    "title": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減（MONOist）",
+    "source": "Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRE9hYXVfNWJpc2JoMEFILUNKQTNZMEs0U3ZXaHB3WWt2VmdCd1ZYa3pDZEh5M0xVNGc3MF9Lc1RoUDd4YnhQUk9EN1o5T3VYbkpLUWhCR1ZrZENacXhpdHUzRzRYQWFEcXpCS0ozeG9TeWI1bjB6OGZXdHRVOHFCeG9INTVhbkFr?oc=5",
+    "time": "11/18(水) 23:31",
+    "comments": 0,
+    "tags": [
+      "カーボン",
+      "CO2"
+    ],
+    "summary": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減（MONOist）&nbsp;&nbsp;Yahoo!ニュース",
+    "body": [
+      "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減（MONOist）&nbsp;&nbsp;Yahoo!ニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-93dcc7c3cf63": {
+    "id": "auto-93dcc7c3cf63",
+    "category": "技術",
+    "title": "水素ビジネス実装の壁とは 富士ハイドロジェン・サミット2026",
+    "source": "Sustainable Brands Japan",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ya2JPT000bjBDY2NaVXE4SkZvdURmRklUMFFXelBPUHNZMjYtZnc4aEJ1UXlqbEFQS1JjSkZyNU9PbDVEem43c2paTWxyYTFRRjdaSVZPWkJrZw?oc=5",
+    "time": "11/18(水) 23:06",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "水素ビジネス実装の壁とは 富士ハイドロジェン・サミット2026&nbsp;&nbsp;Sustainable Brands Japan",
+    "body": [
+      "水素ビジネス実装の壁とは 富士ハイドロジェン・サミット2026&nbsp;&nbsp;Sustainable Brands Japan"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-9f9420af0499": {
+    "id": "auto-9f9420af0499",
+    "category": "その他",
+    "title": "神社屋根の銅板、太陽光発電の電線…盗み防止へ ５～９月に被害続いた浜松市浜名区の細江警察署管内で「出発式」 静岡県警と住民",
+    "source": "静岡新聞DIGITAL",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zMzI4bGZHT2lkc1FOUlIxTnRNTlFIbTJMUkNoMklrOHhvMDU3ZFlRT3I1bDY2RUlSUHllVV96UUhmVzlCMXBYNjRSLUN4Zw?oc=5",
+    "time": "11/18(水) 22:52",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "神社屋根の銅板、太陽光発電の電線…盗み防止へ ５～９月に被害続いた浜松市浜名区の細江警察署管内で「出発式」 静岡県警と住民&nbsp;&nbsp;静岡新聞DIGITAL",
+    "body": [
+      "神社屋根の銅板、太陽光発電の電線…盗み防止へ ５～９月に被害続いた浜松市浜名区の細江警察署管内で「出発式」 静岡県警と住民&nbsp;&nbsp;静岡新聞DIGITAL"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-dea004316007": {
+    "id": "auto-dea004316007",
+    "category": "技術",
+    "title": "日本の燃料電池市場規模は2034年までに17億2,210万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）14.25%で推移する見込みである。",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByaHIwS0d2aE1hYllpdEVyZUJqalhtU29SUDkwX3d1RHNBSmdDSGxNb1ZXcFdLdHY1ZnhUdVRaTlJRTGU4YW9kMlp2c1lXTTg?oc=5",
+    "time": "11/18(水) 22:35",
+    "comments": 0,
+    "tags": [
+      "燃料電池"
+    ],
+    "summary": "日本の燃料電池市場規模は2034年までに17億2,210万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）14.25%で推移する見込みである。&nbsp;&nbsp;Newscast.jp",
+    "body": [
+      "日本の燃料電池市場規模は2034年までに17億2,210万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）14.25%で推移する見込みである。&nbsp;&nbsp;Newscast.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-b939599357a3": {
+    "id": "auto-b939599357a3",
+    "category": "その他",
+    "title": "第6回 脱炭素経営 EXPO【関西】【11/18〜11/20・インテックス大阪】｜RX Japan合同会社 - www.event-marketing.co.jp",
+    "source": "検索: 脱炭素・カーボンニュートラル",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamJZQ19QYWN5X3lKQ0NiUTlLTDlyU2JoRUEteHlWVEJJUkladDlmMU5wak5wYVRGNEZFUmF5VTRPT1QwZUY0RnktU3g2RE5JWGJhYTVsUExaZS1Yd004T25NbzNWR0UtbUgyQ2JWaUZBblpXR0dvSi1iX2cyYXpRaG9CbUo5U3A4MUVzdERMbmdfaGxwVm1zeW5B?oc=5",
+    "time": "11/18(水) 22:25",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "第6回 脱炭素経営 EXPO【関西】【11/18〜11/20・インテックス大阪】｜RX Japan合同会社&nbsp;&nbsp;www.event-marketing.co.jp",
+    "body": [
+      "第6回 脱炭素経営 EXPO【関西】【11/18〜11/20・インテックス大阪】｜RX Japan合同会社&nbsp;&nbsp;www.event-marketing.co.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
   },
   "auto-b5a395cb745a": {
     "id": "auto-b5a395cb745a",
@@ -44,7 +215,7 @@
     "category": "技術",
     "title": "人工光合成でつくる水素とギ酸、2030年代にも家庭や産業へ実装狙う（2ページ目）",
     "source": "日経クロステック",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTHB3eWpablpsVm4ySnUxWU42WUtrMkxHelUtUmo3RWZUNGZKNWZSSl9CbDZadWhDVWd0RHA2UXVmQS02SFg5Um83NmMtSlZramVKcnZ1NDJEV0NhWVVwYjZMUDByLTVqWV9TcA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWllUZ09hT3VlSHZTOU5pSFVKUF94dlRyM2pjb2dHWndpY2dOVGUxeTVJNm94aWtsMm50NHpTeEtYdzM5UFE1YjdLVlpFSnA3SVFwR1J4ZVU3cVFVdDBaZUNGRE5JYTdiYS1iVEFaRk5rU2xTNi1KNEpiaEk1SmhhamlSUzA4M05NS0tCSEp4LWc4Wm11?oc=5",
     "time": "11/18(水) 20:04",
     "comments": 0,
     "tags": [
@@ -61,37 +232,18 @@
   "auto-13385f3a098e": {
     "id": "auto-13385f3a098e",
     "category": "技術",
-    "title": "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築",
+    "title": "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築（2ページ目）",
     "source": "日経クロステック",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxcU5tMUVGY1JTTFo0ME55VHYwcl9jUzc0NFFPckRWWk93WHZyTkZQU1BMVkVaRHh3b0VFclFyclU3WTNIYXpwLVVXTGNjeWdPNl9ERG1pOXI1ZkllWGNxXzdVWjhiaXM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGYW9keVJ3cGlxeUZmenVuZkxGbWFYeS1yRzVURXduN2xEQXNYQVRRSUZDZU00UW5sYkZvVUgxSmljcG5MS3dOcnQ1N0h4Z2hESUJzWHotMjBqMzZ5Q19YR1VDRS0yTEJKdXFPMA?oc=5",
     "time": "11/18(水) 20:03",
     "comments": 0,
     "tags": [
       "水素",
       "アンモニア"
     ],
-    "summary": "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築&nbsp;&nbsp;日経クロステック",
+    "summary": "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築（2ページ目）&nbsp;&nbsp;日経クロステック",
     "body": [
-      "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築&nbsp;&nbsp;日経クロステック"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-5bbc7738d1bd": {
-    "id": "auto-5bbc7738d1bd",
-    "category": "技術",
-    "title": "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）",
-    "source": "日経クロステック",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3VVUDg4ZlVvY1E3VHdVYmdyTGFndzNEYjFpa3NnZ0pkT3hiUEdIbFVfS1plalVjTEo4Nnp3MExGQVdJUFlRdmVyUEl0YUVTV0tkSFpEOVBjcExKNUZKcVVGX3lld1NZWDNuS1YxR3FvSktmSTRJZjVQZk5WdTgtTmFUaVRMeFliN2sxUExuMkxmc2xV?oc=5",
-    "time": "11/18(水) 20:01",
-    "comments": 0,
-    "tags": [
-      "合成燃料"
-    ],
-    "summary": "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）&nbsp;&nbsp;日経クロステック",
-    "body": [
-      "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）&nbsp;&nbsp;日経クロステック"
+      "水素・アンモニアは燃料とキャリアに、海外で進む供給網の構築（2ページ目）&nbsp;&nbsp;日経クロステック"
     ],
     "related": [],
     "collected": true,
@@ -135,20 +287,40 @@
     "collected": true,
     "image": null
   },
-  "auto-fc02a24e3094": {
-    "id": "auto-fc02a24e3094",
+  "auto-f0cd85019872": {
+    "id": "auto-f0cd85019872",
     "category": "その他",
-    "title": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供",
-    "source": "アラブニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMioANBVV95cUxObU5td1ZyZUIwZ0RodGhRUW9rcTdhZEdodVdOWWMzelhIcU1MZTdsdTlvZ1RxOGh2SWVKZWVzOHF6SFdtSno2all3QmpCTmNULTU4cDVKc2g3Vng1R1RZNzBpSFJUQU1QY0l1eVJFT2VtZ0RJa1JEMXR4N0ZxZEswOG81ZVU4djNVYklHZHk0QVZzblp6SEhjamdibjlfZWlTLXhJbGxvY19WcHVON0x6bi1NWFNPb1lObUdqdTJ4ejZ3LWhjdWtFVnhVeVN3T01VeWZueTRiZmdKUzhhV1lkdXhLWlo0YXhSZDVEcmNVejd2T1ZVUmcwbmdxaHVMSGJ5YlRqTWJJMlloVFdINjJCbWhPMXJhZzYydmswRkFPQ3Y3c2cwVTdfRG81eC02UTV5TzdGYnJsY0hiQUZfVUx5YlpKSmVXWWJ0XzdnOE5OanNPOGo0UVdWMWlSdU02ZHpCVXpXU2RyX1pPbGk5bTJLRXJPbWlSRzhaQ29MOE9zVlp6TUNOWl9SREhZZmFGU0VueGtXWDE2ZEhUX3JmM09maw?oc=5",
-    "time": "11/18(水) 18:32",
+    "title": "洋上風力工事 石狩から支援 国内最大級 ケーブル敷設船が入港 ノルウェーで建造 全長151メートル 28年稼働目指す",
+    "source": "北海道新聞デジタル",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3bDN5WGhyaVpQckx6ZHFfR08zSnI5Q1ZZeXF4ajlqeUxmSnZNUWFSamlzQ29zWjZNejZlVnBpYjI1Vnp2M0pWR3lHOHlKMlVpVUhjU1d1OFo4UQ?oc=5",
+    "time": "11/18(水) 19:00",
     "comments": 0,
     "tags": [
-      "太陽光"
+      "洋上風力"
     ],
-    "summary": "日本、ベイルートに太陽光発電システム設置のため1500万円を提供&nbsp;&nbsp;アラブニュース",
+    "summary": "洋上風力工事 石狩から支援 国内最大級 ケーブル敷設船が入港 ノルウェーで建造 全長151メートル 28年稼働目指す&nbsp;&nbsp;北海道新聞デジタル",
     "body": [
-      "日本、ベイルートに太陽光発電システム設置のため1500万円を提供&nbsp;&nbsp;アラブニュース"
+      "洋上風力工事 石狩から支援 国内最大級 ケーブル敷設船が入港 ノルウェーで建造 全長151メートル 28年稼働目指す&nbsp;&nbsp;北海道新聞デジタル"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-65c51782ce86": {
+    "id": "auto-65c51782ce86",
+    "category": "暮らし",
+    "title": "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証",
+    "source": "フーズチャネル",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1USmZJZm9qa0pSRmxvQzA2UzBHMmZyVkpIWEZPLWZWVHBEUDhXcWNzS1RFdXhocE5SYmtWdHhOSkh1bzFrU196NzdEclduV2tuR2k3dmpR?oc=5",
+    "time": "11/18(水) 17:47",
+    "comments": 0,
+    "tags": [
+      "CO2",
+      "脱炭素"
+    ],
+    "summary": "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証&nbsp;&nbsp;フーズチャネル",
+    "body": [
+      "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証&nbsp;&nbsp;フーズチャネル"
     ],
     "related": [],
     "collected": true,
@@ -168,6 +340,25 @@
     "summary": "ゼロボード、PT Alam Energy Indonesiaとインドネシアにおける脱炭素経営支援に向けたパートナーシップ契約を締結&nbsp;&nbsp;ニコニコニュース",
     "body": [
       "ゼロボード、PT Alam Energy Indonesiaとインドネシアにおける脱炭素経営支援に向けたパートナーシップ契約を締結&nbsp;&nbsp;ニコニコニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-617196cc7990": {
+    "id": "auto-617196cc7990",
+    "category": "国際",
+    "title": "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状",
+    "source": "PRESIDENT Online（プレジデントオンライン）",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NLTNXNXU4eHR1RE5DUWNzWm9UVUtBLVNNa200TE55SzQ3TmFfMHQtNjNoNHNPd2VhT0RkenB2S0lMbXlVU0x4eVozVWFpZ1BEaW5jeUZFaXJOVU0?oc=5",
+    "time": "11/18(水) 16:06",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+    "body": [
+      "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）"
     ],
     "related": [],
     "collected": true,
@@ -249,6 +440,25 @@
     "collected": true,
     "image": null
   },
+  "auto-2e405a7c736f": {
+    "id": "auto-2e405a7c736f",
+    "category": "その他",
+    "title": "アスエネヴェリタス、GX-ETSの登録確認機関に",
+    "source": "Dellows News",
+    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1velBLZUJMNGliRUg3SnhhZGN0c0ZXZHNFVENCc2N0VGxfZm5ieWVUckVUb0xkMHB6S3BKVk1IUVNub0dQNVBj?oc=5",
+    "time": "11/18(水) 13:10",
+    "comments": 0,
+    "tags": [
+      "GX"
+    ],
+    "summary": "アスエネヴェリタス、GX-ETSの登録確認機関に&nbsp;&nbsp;Dellows News",
+    "body": [
+      "アスエネヴェリタス、GX-ETSの登録確認機関に&nbsp;&nbsp;Dellows News"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-9cfbe5bda926": {
     "id": "auto-9cfbe5bda926",
     "category": "その他",
@@ -263,6 +473,25 @@
     "summary": "シリコン太陽電池の発電コストは次世代型の半分以下 新潟で進む太陽光発電の普及と迫る設備老朽化の課題&nbsp;&nbsp;classicnews.jp",
     "body": [
       "シリコン太陽電池の発電コストは次世代型の半分以下 新潟で進む太陽光発電の普及と迫る設備老朽化の課題&nbsp;&nbsp;classicnews.jp"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-b4129785f702": {
+    "id": "auto-b4129785f702",
+    "category": "自治体",
+    "title": "NTT西日本 生成AI活用の自治体向け脱炭素計画策定支援手法を確立",
+    "source": "Dellows News",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YMVlSYXhkaHlPXzVBd3lwWlU3TXN5bGJBQ2xIM1VOS0g5RGxQMDNRNllqR0MzV1JkSlhiSk1TNVFvVmd3TlE?oc=5",
+    "time": "11/18(水) 11:52",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "NTT西日本 生成AI活用の自治体向け脱炭素計画策定支援手法を確立&nbsp;&nbsp;Dellows News",
+    "body": [
+      "NTT西日本 生成AI活用の自治体向け脱炭素計画策定支援手法を確立&nbsp;&nbsp;Dellows News"
     ],
     "related": [],
     "collected": true,
@@ -306,25 +535,6 @@
     "collected": true,
     "image": null
   },
-  "auto-c848a3e68d26": {
-    "id": "auto-c848a3e68d26",
-    "category": "技術",
-    "title": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース",
-    "source": "中日BIZナビ",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkd0dYblRMb09RcXkxVF81dkd1YXc1dUhVRmdWNm5UTGw2SnhNRGY2bXBQNXZEbjNwQ095Si1nTDZYZExpaEFqYmN0QmhyMHp5V1ljN3lLX2RldVVEWVpocVAwVQ?oc=5",
-    "time": "11/18(水) 10:52",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース&nbsp;&nbsp;中日BIZナビ",
-    "body": [
-      "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース&nbsp;&nbsp;中日BIZナビ"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-e2d3e575a5a3": {
     "id": "auto-e2d3e575a5a3",
     "category": "その他",
@@ -360,6 +570,25 @@
     "summary": "【2026年度】燃料転換・電化・水素対応で使える省エネ・非化石転換補助「電化・脱炭素燃転型（Ⅱ型）」を解説&nbsp;&nbsp;補助金ポータル",
     "body": [
       "【2026年度】燃料転換・電化・水素対応で使える省エネ・非化石転換補助「電化・脱炭素燃転型（Ⅱ型）」を解説&nbsp;&nbsp;補助金ポータル"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-e6a7cc1358c7": {
+    "id": "auto-e6a7cc1358c7",
+    "category": "その他",
+    "title": "脱炭素コンクリートが地球を救う",
+    "source": "日経クロステック",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdTFMT3NidllTYmlPdDVlc3g4b0N1aElkT1hWbDRoWFFLdkpGSnNUMDd0WWdPNk5rMms5TjZsSWtpc2ZJRFJkOThRaWx1TlpoWGpQaHR4aTdaWVZJZlhRRjdMMzlpTWNKWUkxM3k5LVp4MlA2NnRnb0FNZmpjcVhDc3k2SlNaN0xvUjE0OGtaWnZpOERJNWJtNm1xNU95VDJjYnFIX2JIUmp1WnlmU05DclhUYTFTX2tqZThIY3lKSm1Gc3V3R2p5QmpuUUNodUlodWZBLWFBOURvY3VBSFE?oc=5",
+    "time": "11/18(水) 10:07",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "脱炭素コンクリートが地球を救う&nbsp;&nbsp;日経クロステック",
+    "body": [
+      "脱炭素コンクリートが地球を救う&nbsp;&nbsp;日経クロステック"
     ],
     "related": [],
     "collected": true,
@@ -636,6 +865,26 @@
     "collected": true,
     "image": null
   },
+  "auto-01a60639083e": {
+    "id": "auto-01a60639083e",
+    "category": "その他",
+    "title": "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める",
+    "source": "TVer",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zYlRzM253NUpoSEtkQUpXTnNGaXNUVkxkVkpGVDZTbFp0RTUwMDB6MzR0TGZIczhrRlpfNmNxeEt3QzdQRjFpMVh2UQ?oc=5",
+    "time": "11/18(水) 6:38",
+    "comments": 0,
+    "tags": [
+      "脱炭素",
+      "EV"
+    ],
+    "summary": "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める&nbsp;&nbsp;TVer",
+    "body": [
+      "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める&nbsp;&nbsp;TVer"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-93ecf423f1fa": {
     "id": "auto-93ecf423f1fa",
     "category": "国際",
@@ -670,26 +919,6 @@
     "summary": "SKイノベ、航空燃料向け水素の製造触媒を開発&nbsp;&nbsp;Chosunbiz",
     "body": [
       "SKイノベ、航空燃料向け水素の製造触媒を開発&nbsp;&nbsp;Chosunbiz"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-01a60639083e": {
-    "id": "auto-01a60639083e",
-    "category": "その他",
-    "title": "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める （2026年11月17日掲載）",
-    "source": "日テレNEWS NNN",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HTkFGdUdub3dXdmhIMHhXbEJuemliZkFDSmpzZ3dyMlAzRzlGLW5rbkYyZDhJYktpbmY1OTZZYlZ0b1hsWHBkVVlCTTdhSU1GMXJET1gzVjd2a2k3dlZxdnV5VDdudFJvbG95cmctWWFOUHk2eXN3QWRCdzI2ck0?oc=5",
-    "time": "11/18(水) 5:27",
-    "comments": 0,
-    "tags": [
-      "脱炭素",
-      "EV"
-    ],
-    "summary": "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める （2026年11月17日掲載）&nbsp;&nbsp;日テレNEWS NNN",
-    "body": [
-      "島根県隠岐の島町 脱炭素社会の構築に向け自動車会社などと連携協定を締結 電気自動車の普及やEV急速充電器の設置などを進める （2026年11月17日掲載）&nbsp;&nbsp;日テレNEWS NNN"
     ],
     "related": [],
     "collected": true,
@@ -1024,83 +1253,6 @@
     "collected": true,
     "image": null
   },
-  "auto-65c51782ce86": {
-    "id": "auto-65c51782ce86",
-    "category": "暮らし",
-    "title": "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証",
-    "source": "PR TIMES",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSEVYd3BiT25qUDlPbm5TU1ZnbzdKNi1NMGVDRlZJWXFMX1dlQ1MyRGZXd1NiWG8yNUZoOWQ4WUQ2VzRlUGlVamtnOC1oT0ZkWkhDbHQxcUpSNFZ5VTJ3c2J4V2pwSXVzVEE?oc=5",
-    "time": "11/18(水) 0:00",
-    "comments": 0,
-    "tags": [
-      "CO2",
-      "脱炭素"
-    ],
-    "summary": "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証&nbsp;&nbsp;PR TIMES",
-    "body": [
-      "「みんなで減CO2（ゲンコツ）プロジェクト2026」「e-メタン×ピュレグミ」の脱炭素価値の訴求で生活者の行動変容を実証&nbsp;&nbsp;PR TIMES"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-737915596f29": {
-    "id": "auto-737915596f29",
-    "category": "その他",
-    "title": "想定を超えるスピードで進む環境変化｡｢守りの脱炭素｣から脱し､企業競争力を高めよ",
-    "source": "東洋経済オンライン",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3MWtNcWNkVC1yeDBJa19oanFKZFZRbzVpNk0zRWZwdGd0SU54WFdmaWQxWmVJNm4zTnU0OTA4cE5IZzZjVXJMcU5USnJzclVIbGc?oc=5",
-    "time": "11/18(水) 0:00",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "想定を超えるスピードで進む環境変化｡｢守りの脱炭素｣から脱し､企業競争力を高めよ&nbsp;&nbsp;東洋経済オンライン",
-    "body": [
-      "想定を超えるスピードで進む環境変化｡｢守りの脱炭素｣から脱し､企業競争力を高めよ&nbsp;&nbsp;東洋経済オンライン"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-e06ab5aa6146": {
-    "id": "auto-e06ab5aa6146",
-    "category": "その他",
-    "title": "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！ (MotorFan)",
-    "source": "Yahoo!ニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakdicjJOdTZ5ZXlEdzJyc3pRakRnTzItTVdadzY3djVpbm9CNGhQaFBfaGliZUVRVTRHUi1GcHRGUUtuWEhLbnJWNzJQNHRnU3hBZVVTVmNBbHBOUWhLNWgtS2dMRm8zdWoyR3daREpZRzFJcnRzYnlrQ0JmZFFLS3BCYkI4TnZRQW9zZ193?oc=5",
-    "time": "11/17(火) 23:09",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！ (MotorFan)&nbsp;&nbsp;Yahoo!ニュース",
-    "body": [
-      "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！ (MotorFan)&nbsp;&nbsp;Yahoo!ニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-4665f4ef7682": {
-    "id": "auto-4665f4ef7682",
-    "category": "その他",
-    "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる",
-    "source": "GIGAZINE",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RUM2S0NJM0c4Ti1GNThpN1VFWnByTmxGdHBYaXQ1VzljSHJXcE5kQXl5ZzJrYm50ajQ4VnR4bFNpd3ltR2NlMFBHS1h3ckhfM2Z0RWppd2pSdUR3eUJWYVhYcXdxcDJmb1NpSkt0cTVpOUlDR3k0?oc=5",
-    "time": "11/17(火) 23:01",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる&nbsp;&nbsp;GIGAZINE",
-    "body": [
-      "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる&nbsp;&nbsp;GIGAZINE"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
   "auto-a2b28f4e91db": {
     "id": "auto-a2b28f4e91db",
     "category": "技術",
@@ -1116,104 +1268,6 @@
     "summary": "小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催&nbsp;&nbsp;ウォーカープラス",
     "body": [
       "小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催&nbsp;&nbsp;ウォーカープラス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-b44a4b6c3d22": {
-    "id": "auto-b44a4b6c3d22",
-    "category": "その他",
-    "title": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）",
-    "source": "MONOist",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2ZkFkajJiVWpXQVhNUjZoaU5yU2w5Q3o1Z3ZIdzZLMmNkSUItMUpSdTN3d1lmV05TeXYtV2Y0RzY0UE1jXzEzOHJRWlNTM08yZElranNUMDY5UXA1Ujg1R0I5bHRRX0hYMzMtOVJ0VQ?oc=5",
-    "time": "11/17(火) 22:30",
-    "comments": 0,
-    "tags": [
-      "カーボン",
-      "CO2",
-      "脱炭素"
-    ],
-    "summary": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）&nbsp;&nbsp;MONOist",
-    "body": [
-      "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）&nbsp;&nbsp;MONOist"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-f23850648cd3": {
-    "id": "auto-f23850648cd3",
-    "category": "その他",
-    "title": "護得久栄昇やなかちが「脱炭素」で漫才・コント？ 11月23日、与那原町でイベント (沖縄タイムス)",
-    "source": "Yahoo!ニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTAtTDJZb184X001WEdhMWQ1OEpyVGc0WjBtOVdCbHcwTWpwSVdCRkNKcm1lRmVpZ3YwRmdmQk1tVWNkc0tpUHpaTTU0WVB0d1c0blZvazNybW5jeFU2Tnc2dmI3RHBMTzRCSHFsUUZjTGMxSDdfWkJXMDAxNmYzMWVXNFRpaFhFcHlRQlhB?oc=5",
-    "time": "11/17(火) 22:28",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "護得久栄昇やなかちが「脱炭素」で漫才・コント？ 11月23日、与那原町でイベント (沖縄タイムス)&nbsp;&nbsp;Yahoo!ニュース",
-    "body": [
-      "護得久栄昇やなかちが「脱炭素」で漫才・コント？ 11月23日、与那原町でイベント (沖縄タイムス)&nbsp;&nbsp;Yahoo!ニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-0e38a0ce9766": {
-    "id": "auto-0e38a0ce9766",
-    "category": "その他",
-    "title": "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結",
-    "source": "山陽新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ncF91ckNIVHZMR2J2R2pWTjFpWXBpZXdFVVpLZm9YbVd5WFhlTk9Ibmpia1F1X1dRLXlZaGdHaExhLXRFY08wVWxpVWNRcmZUeVE?oc=5",
-    "time": "11/17(火) 22:10",
-    "comments": 0,
-    "tags": [
-      "EV",
-      "脱炭素"
-    ],
-    "summary": "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結&nbsp;&nbsp;山陽新聞",
-    "body": [
-      "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結&nbsp;&nbsp;山陽新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ba4d37870c9c": {
-    "id": "auto-ba4d37870c9c",
-    "category": "技術",
-    "title": "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発",
-    "source": "環境新聞オンライン",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12X2h4TENTdTRxRVVMaHF0NlpEQ2NXX1JQcUo5T2N5Y182SE15OXd2RU15QUVZaEZHWlhEamZpTFFnTVluSDlUYmY0LWlnQTlPYzBwMDlVSXdPUkVVQTFueGJ6cFFpbXRLWFh6RVc4YW5QaFBkVWR1UUxrbw?oc=5",
-    "time": "11/17(火) 22:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発&nbsp;&nbsp;環境新聞オンライン",
-    "body": [
-      "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発&nbsp;&nbsp;環境新聞オンライン"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-cddcf32a844d": {
-    "id": "auto-cddcf32a844d",
-    "category": "技術",
-    "title": "低コスト・低炭素の水素製造 広島大など４者、ごみ焼却などの排熱活用",
-    "source": "環境新聞オンライン",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01bVNySWw1bVY4MUdFOUZ5dWtEaUhuak9jWTIwUXJ1a3I5a1IwYlh5cWNaamt0OU5hVXhSQXNLdkdwSXpCSnRUcmVMUFQ5M3ZWMVNaLXRVLWd5OEdQR2hUZVRHRGtlQXRzUEQ4bUxYTWJ3WFZJVjNhWFdLZw?oc=5",
-    "time": "11/17(火) 22:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "低コスト・低炭素の水素製造 広島大など４者、ごみ焼却などの排熱活用&nbsp;&nbsp;環境新聞オンライン",
-    "body": [
-      "低コスト・低炭素の水素製造 広島大など４者、ごみ焼却などの排熱活用&nbsp;&nbsp;環境新聞オンライン"
     ],
     "related": [],
     "collected": true,
@@ -1493,16 +1547,16 @@
     "id": "auto-491e71c21eba",
     "category": "技術",
     "title": "世界のIGBT PWM水素生成用整流器市場規模、2026年97百万米ドルから2032年695百万米ドルへ拡大",
-    "source": "アットプレス",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95Z1o3cEU2ZHNJNXU5MFFTb3MyVGlseUlORVpZaGcyN3hrM182RUdaVHFmTmJxTjUwMVZySnZXYUF2d0RSNlNQT2VLdTRORm8?oc=5",
+    "source": "Newscast.jp",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tbUpQRndmXzhKM0tnMWtYLUhkOVNYRkc0bUlkb3dQdGhnV3B2QUJjcF91S0RzX29YajZqTm9zQ05TOHNLM2djRUpsa2FBS1E?oc=5",
     "time": "11/17(火) 0:11",
     "comments": 0,
     "tags": [
       "水素"
     ],
-    "summary": "世界のIGBT PWM水素生成用整流器市場規模、2026年97百万米ドルから2032年695百万米ドルへ拡大&nbsp;&nbsp;アットプレス",
+    "summary": "世界のIGBT PWM水素生成用整流器市場規模、2026年97百万米ドルから2032年695百万米ドルへ拡大&nbsp;&nbsp;Newscast.jp",
     "body": [
-      "世界のIGBT PWM水素生成用整流器市場規模、2026年97百万米ドルから2032年695百万米ドルへ拡大&nbsp;&nbsp;アットプレス"
+      "世界のIGBT PWM水素生成用整流器市場規模、2026年97百万米ドルから2032年695百万米ドルへ拡大&nbsp;&nbsp;Newscast.jp"
     ],
     "related": [],
     "collected": true,
@@ -1570,7 +1624,7 @@
     "category": "技術",
     "title": "FCEVに試乗できる一日 トヨタとBMWが愛知で水素の日 (FINDERS)",
     "source": "Yahoo!ニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVFSU3B0cWw5UXZyc3ZHV01qNU1IdlpuaThfdTZnREd2UzlSX2c1WUk2NW1Xcml5cWtJYlc1NWlsOFNrS1Q5Y1Z0SFp4Mi1Ld01ETTA5VDE2WDFadXVQU1RmRTc2M3BDZGtjaXlDSEJuTERjdjA0Y0s1cGluOWQ5TjRUNENKWUd2QzlCSHBR?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjFKakQ0c3R0UU9PdXIwVlZ6dGR6WWtrOTFPVmpRMzZiNU8zZ0kwSW1WandiZTRHUTBzVzF5bnFuTE0tOXZxU0Qydy1zdEF4MnZES3NqSW9tTVo4UDMtbjJvRExkMjBWVGRzUXFzVjJLMUZJdWJ4c0NZUG5tcENQSUlfQnNTbzk2bExKckdB?oc=5",
     "time": "11/16(月) 22:04",
     "comments": 0,
     "tags": [
@@ -1801,6 +1855,25 @@
     "collected": true,
     "image": null
   },
+  "auto-a122b9b6bfaa": {
+    "id": "auto-a122b9b6bfaa",
+    "category": "企業",
+    "title": "パワーエックスがトヨタ東日本から大型蓄電システムを受注",
+    "source": "ニュースメディアVOIX",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CU0hVYTRzNXh5WTcxOWhZS1M2R1RGLVVNV3hDR3g3WnhoMlFTbjh3ZUNuQncwREM2R29heGJqd25sSzB0Rjlla2FGVHczUVlhLXJR?oc=5",
+    "time": "11/16(月) 2:03",
+    "comments": 0,
+    "tags": [
+      "蓄電"
+    ],
+    "summary": "パワーエックスがトヨタ東日本から大型蓄電システムを受注&nbsp;&nbsp;ニュースメディアVOIX",
+    "body": [
+      "パワーエックスがトヨタ東日本から大型蓄電システムを受注&nbsp;&nbsp;ニュースメディアVOIX"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
   "auto-1264510d0dec": {
     "id": "auto-1264510d0dec",
     "category": "技術",
@@ -1843,54 +1916,16 @@
     "id": "auto-0f0f0ed2b6e5",
     "category": "その他",
     "title": "GX-ETS実務セミナー第2回に、対象事業者へのインタビューを追加――現場の問いに検証人と算定ツールの実務者が答える",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6NVk1ZjUtRGxKWGJKMTFBc0J1REhPQzFjdUZBRHhPdVUwTk01WVgyUWwwUHI1Tklka1pFWHRIbV90SWIxX1pmQVJsUW5HNGl1UFF4bWJXemFOZUM3LVh0YjB0aHk3TU5DdlcxdzhJMEJ3WUtmY3gyVVZIQQ?oc=5",
-    "time": "11/16(月) 1:30",
+    "source": "Infoseek",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DUHplZ3I1VUJKV05TdTBXY3ZmNkVOWlJRLXBjWDJmUUdpbkI2NnZyN0wxMzg1S3RISXBnRUdOb202dElsWGVIc0ZNOHptclFGclRfaElWdEk2cXJRSjF5NU5jOWtpRlhibERGSGMzZmNaUQ?oc=5",
+    "time": "11/16(月) 1:15",
     "comments": 0,
     "tags": [
       "GX"
     ],
-    "summary": "GX-ETS実務セミナー第2回に、対象事業者へのインタビューを追加――現場の問いに検証人と算定ツールの実務者が答える&nbsp;&nbsp;ニコニコニュース",
+    "summary": "GX-ETS実務セミナー第2回に、対象事業者へのインタビューを追加――現場の問いに検証人と算定ツールの実務者が答える&nbsp;&nbsp;Infoseek",
     "body": [
-      "GX-ETS実務セミナー第2回に、対象事業者へのインタビューを追加――現場の問いに検証人と算定ツールの実務者が答える&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-76eae42a92da": {
-    "id": "auto-76eae42a92da",
-    "category": "技術",
-    "title": "BMWとトヨタが水素イベント「BMW x TOYOTA H2 DAY」第2弾を12月13日にトヨタ博物館で開催。「クラウンFCEV」と「BMW iX5ハイドロジェン」の試乗や新型「X5」の展示を実施",
-    "source": "LE VOLANT WEB",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81QnJUcTJRa2VZcjlIcE1PRWcwS2dwUFR4S0FaU3Z3ZGVicEROWnBJMzljcHF1YUlHaEljNFRlaVExRHJoR3ZkTmk3V3ZzYXc?oc=5",
-    "time": "11/16(月) 0:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "BMWとトヨタが水素イベント「BMW x TOYOTA H2 DAY」第2弾を12月13日にトヨタ博物館で開催。「クラウンFCEV」と「BMW iX5ハイドロジェン」の試乗や新型「X5」の展示を実施&nbsp;&nbsp;LE VOLANT WEB",
-    "body": [
-      "BMWとトヨタが水素イベント「BMW x TOYOTA H2 DAY」第2弾を12月13日にトヨタ博物館で開催。「クラウンFCEV」と「BMW iX5ハイドロジェン」の試乗や新型「X5」の展示を実施&nbsp;&nbsp;LE VOLANT WEB"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-efa7f9b2d02a": {
-    "id": "auto-efa7f9b2d02a",
-    "category": "その他",
-    "title": "CORSIA合意10年、IATAが制度強化要求 EU排出量取引制度の域外拡大に反対",
-    "source": "Aviation Wire",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bTVMOGhJNEdpbTl3MlN5WlNja3p3SVVlcnZMZmUxOUhocVZzVjdKeld3MTVqY0E1aGxGa0h1YlN0ZU9ZRmV1M3ZkcjhZUTNnZUQtXy1n?oc=5",
-    "time": "11/15(日) 21:50",
-    "comments": 0,
-    "tags": [
-      "排出量取引"
-    ],
-    "summary": "CORSIA合意10年、IATAが制度強化要求 EU排出量取引制度の域外拡大に反対&nbsp;&nbsp;Aviation Wire",
-    "body": [
-      "CORSIA合意10年、IATAが制度強化要求 EU排出量取引制度の域外拡大に反対&nbsp;&nbsp;Aviation Wire"
+      "GX-ETS実務セミナー第2回に、対象事業者へのインタビューを追加――現場の問いに検証人と算定ツールの実務者が答える&nbsp;&nbsp;Infoseek"
     ],
     "related": [],
     "collected": true,
@@ -2670,45 +2705,6 @@
     "related": [],
     "collected": true,
     "image": "https://www.sankei.com/resizer/v2/JH3D7W2WD5KMJFJW5EBQ3TDXNU.jpg?auth=5987f20bdc0e3fe1931cec5a1d74ab8dfd8aaa8e876ab23f7b11ebccd06db7db&amp;quality=50&amp;focal=2161%2C1665&amp;width=1200&amp;height=675"
-  },
-  "auto-a820d6622bd1": {
-    "id": "auto-a820d6622bd1",
-    "category": "自治体",
-    "title": "J-クレジットの適用を緩和 東京都など太陽光発電の導入義務化自治体でも登録可能に",
-    "source": "ITmedia スマートジャパン",
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/21/news029.html",
-    "time": "10/21(水) 7:00",
-    "comments": 0,
-    "tags": [
-      "J-クレジット",
-      "太陽光"
-    ],
-    "summary": "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認め…",
-    "body": [
-      "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認める方針だ。"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-515e162b395f": {
-    "id": "auto-515e162b395f",
-    "category": "技術",
-    "title": "日本の地熱発電システム市場は2050年度に3500億円規模へ 次世代型が急拡大",
-    "source": "ITmedia スマートジャパン",
-    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
-    "time": "10/20(火) 7:00",
-    "comments": 0,
-    "tags": [
-      "地熱"
-    ],
-    "summary": "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。",
-    "body": [
-      "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。"
-    ],
-    "related": [],
-    "collected": true,
-    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/20/cover_news036.jpg"
   },
   "auto-104cb693514b": {
     "id": "auto-104cb693514b",
@@ -4574,24 +4570,296 @@
     "collected": true,
     "image": null
   },
-  "auto-cd20cc5d1c93": {
-    "id": "auto-cd20cc5d1c93",
+  "auto-1e9d6f6f3ed8": {
+    "id": "auto-1e9d6f6f3ed8",
     "category": "企業",
-    "title": "Second Foundation、国内の系統用蓄電池プロジェクト4件をレイエイトエナジーへ売却完了",
+    "title": "エコスタイル、低圧系統用蓄電所の「機器パッケージ」（キット販売）提供開始～最新連系規格対応・選べる3メーカー・200kWh／100kWh（1,300万円／950万円～・税抜）～",
     "source": "PR TIMES",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000177112.html",
-    "time": "11/19(木) 0:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000398.000012501.html",
+    "time": "11/19(木) 5:10",
     "comments": 0,
     "tags": [
-      "蓄電池"
+      "蓄電",
+      "太陽光",
+      "再生可能エネルギー"
     ],
-    "summary": "[Second Foundation Japan合同会社] 東京、2026年[11月9日] Second Foundationは本日、日本国内の系統用蓄電池（BESS）プロジェクト4件について、レイエイトエナジー株式会社（Ray8 Energy Inc.、以下「レイエイトエナジー…",
+    "summary": "[株式会社エコスタイル] 太陽光発電開発事業を中核に再生可能エネルギーの普及促進を展開する株式会社エコスタイル（代表取締役 社長執行役員：木下 公貴、本社：大阪市中央区、以下「エコスタイル」）は、EPC（設計・調達・建設）・施...",
     "body": [
-      "[Second Foundation Japan合同会社] 東京、2026年[11月9日] Second Foundationは本日、日本国内の系統用蓄電池（BESS）プロジェクト4件について、レイエイトエナジー株式会社（Ray8 Energy Inc.、以下「レイエイトエナジー株式会社」）への売却を完..."
+      "[株式会社エコスタイル] 太陽光発電開発事業を中核に再生可能エネルギーの普及促進を展開する株式会社エコスタイル（代表取締役 社長執行役員：木下 公貴、本社：大阪市中央区、以下「エコスタイル」）は、EPC（設計・調達・建設）・施..."
     ],
     "related": [],
     "collected": true,
-    "image": "https://prtimes.jp/common/pc_v4/og.png"
+    "image": "https://prcdn.freetls.fastly.net/release_image/12501/398/12501-398-80494f2bfbd8d909b2f154e2b48f40db-508x133.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  "auto-5bbc7738d1bd": {
+    "id": "auto-5bbc7738d1bd",
+    "category": "技術",
+    "title": "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）",
+    "source": "日経クロステック",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3VVUDg4ZlVvY1E3VHdVYmdyTGFndzNEYjFpa3NnZ0pkT3hiUEdIbFVfS1plalVjTEo4Nnp3MExGQVdJUFlRdmVyUEl0YUVTV0tkSFpEOVBjcExKNUZKcVVGX3lld1NZWDNuS1YxR3FvSktmSTRJZjVQZk5WdTgtTmFUaVRMeFliN2sxUExuMkxmc2xV?oc=5",
+    "time": "11/18(水) 20:01",
+    "comments": 0,
+    "tags": [
+      "合成燃料"
+    ],
+    "summary": "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）&nbsp;&nbsp;日経クロステック",
+    "body": [
+      "合成燃料でエネルギー自給率向上 コストが壁、三菱重工とENEOSで対応に差（2ページ目）&nbsp;&nbsp;日経クロステック"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-c848a3e68d26": {
+    "id": "auto-c848a3e68d26",
+    "category": "技術",
+    "title": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース",
+    "source": "中日BIZナビ",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkd0dYblRMb09RcXkxVF81dkd1YXc1dUhVRmdWNm5UTGw2SnhNRGY2bXBQNXZEbjNwQ095Si1nTDZYZExpaEFqYmN0QmhyMHp5V1ljN3lLX2RldVVEWVpocVAwVQ?oc=5",
+    "time": "11/18(水) 10:52",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース&nbsp;&nbsp;中日BIZナビ",
+    "body": [
+      "JERA 天然水素探索のスタートアップに出資 額は非公表：ニュース&nbsp;&nbsp;中日BIZナビ"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-737915596f29": {
+    "id": "auto-737915596f29",
+    "category": "その他",
+    "title": "想定を超えるスピードで進む環境変化｡｢守りの脱炭素｣から脱し､企業競争力を高めよ",
+    "source": "東洋経済オンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3MWtNcWNkVC1yeDBJa19oanFKZFZRbzVpNk0zRWZwdGd0SU54WFdmaWQxWmVJNm4zTnU0OTA4cE5IZzZjVXJMcU5USnJzclVIbGc?oc=5",
+    "time": "11/18(水) 0:00",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "想定を超えるスピードで進む環境変化｡｢守りの脱炭素｣から脱し､企業競争力を高めよ&nbsp;&nbsp;東洋経済オンライン",
+    "body": [
+      "想定を超えるスピードで進む環境変化｡｢守りの脱炭素｣から脱し､企業競争力を高めよ&nbsp;&nbsp;東洋経済オンライン"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-e06ab5aa6146": {
+    "id": "auto-e06ab5aa6146",
+    "category": "その他",
+    "title": "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！ (MotorFan)",
+    "source": "Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakdicjJOdTZ5ZXlEdzJyc3pRakRnTzItTVdadzY3djVpbm9CNGhQaFBfaGliZUVRVTRHUi1GcHRGUUtuWEhLbnJWNzJQNHRnU3hBZVVTVmNBbHBOUWhLNWgtS2dMRm8zdWoyR3daREpZRzFJcnRzYnlrQ0JmZFFLS3BCYkI4TnZRQW9zZ193?oc=5",
+    "time": "11/17(火) 23:09",
+    "comments": 0,
+    "tags": [
+      "カーボン"
+    ],
+    "summary": "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！ (MotorFan)&nbsp;&nbsp;Yahoo!ニュース",
+    "body": [
+      "【ホンダ初！】シビックタイプRは環境にやさしかった？生産工場の埼玉製作所がカーボンニュートラルを達成！ (MotorFan)&nbsp;&nbsp;Yahoo!ニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-4665f4ef7682": {
+    "id": "auto-4665f4ef7682",
+    "category": "その他",
+    "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる",
+    "source": "GIGAZINE",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RUM2S0NJM0c4Ti1GNThpN1VFWnByTmxGdHBYaXQ1VzljSHJXcE5kQXl5ZzJrYm50ajQ4VnR4bFNpd3ltR2NlMFBHS1h3ckhfM2Z0RWppd2pSdUR3eUJWYVhYcXdxcDJmb1NpSkt0cTVpOUlDR3k0?oc=5",
+    "time": "11/17(火) 23:01",
+    "comments": 0,
+    "tags": [
+      "太陽光"
+    ],
+    "summary": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる&nbsp;&nbsp;GIGAZINE",
+    "body": [
+      "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる&nbsp;&nbsp;GIGAZINE"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-b44a4b6c3d22": {
+    "id": "auto-b44a4b6c3d22",
+    "category": "その他",
+    "title": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）",
+    "source": "MONOist",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2ZkFkajJiVWpXQVhNUjZoaU5yU2w5Q3o1Z3ZIdzZLMmNkSUItMUpSdTN3d1lmV05TeXYtV2Y0RzY0UE1jXzEzOHJRWlNTM08yZElranNUMDY5UXA1Ujg1R0I5bHRRX0hYMzMtOVJ0VQ?oc=5",
+    "time": "11/17(火) 22:30",
+    "comments": 0,
+    "tags": [
+      "カーボン",
+      "CO2",
+      "脱炭素"
+    ],
+    "summary": "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）&nbsp;&nbsp;MONOist",
+    "body": [
+      "ホンダ初、完成車工場でカーボンニュートラル達成 CO2排出量を年間2600トン削減：脱炭素（1/3 ページ）&nbsp;&nbsp;MONOist"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-f23850648cd3": {
+    "id": "auto-f23850648cd3",
+    "category": "その他",
+    "title": "護得久栄昇やなかちが「脱炭素」で漫才・コント？ 11月23日、与那原町でイベント (沖縄タイムス)",
+    "source": "Yahoo!ニュース",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTAtTDJZb184X001WEdhMWQ1OEpyVGc0WjBtOVdCbHcwTWpwSVdCRkNKcm1lRmVpZ3YwRmdmQk1tVWNkc0tpUHpaTTU0WVB0d1c0blZvazNybW5jeFU2Tnc2dmI3RHBMTzRCSHFsUUZjTGMxSDdfWkJXMDAxNmYzMWVXNFRpaFhFcHlRQlhB?oc=5",
+    "time": "11/17(火) 22:28",
+    "comments": 0,
+    "tags": [
+      "脱炭素"
+    ],
+    "summary": "護得久栄昇やなかちが「脱炭素」で漫才・コント？ 11月23日、与那原町でイベント (沖縄タイムス)&nbsp;&nbsp;Yahoo!ニュース",
+    "body": [
+      "護得久栄昇やなかちが「脱炭素」で漫才・コント？ 11月23日、与那原町でイベント (沖縄タイムス)&nbsp;&nbsp;Yahoo!ニュース"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-0e38a0ce9766": {
+    "id": "auto-0e38a0ce9766",
+    "category": "その他",
+    "title": "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結",
+    "source": "山陽新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ncF91ckNIVHZMR2J2R2pWTjFpWXBpZXdFVVpLZm9YbVd5WFhlTk9Ibmpia1F1X1dRLXlZaGdHaExhLXRFY08wVWxpVWNRcmZUeVE?oc=5",
+    "time": "11/17(火) 22:10",
+    "comments": 0,
+    "tags": [
+      "EV",
+      "脱炭素"
+    ],
+    "summary": "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結&nbsp;&nbsp;山陽新聞",
+    "body": [
+      "島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結&nbsp;&nbsp;山陽新聞"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-ba4d37870c9c": {
+    "id": "auto-ba4d37870c9c",
+    "category": "技術",
+    "title": "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発",
+    "source": "環境新聞オンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12X2h4TENTdTRxRVVMaHF0NlpEQ2NXX1JQcUo5T2N5Y182SE15OXd2RU15QUVZaEZHWlhEamZpTFFnTVluSDlUYmY0LWlnQTlPYzBwMDlVSXdPUkVVQTFueGJ6cFFpbXRLWFh6RVc4YW5QaFBkVWR1UUxrbw?oc=5",
+    "time": "11/17(火) 22:00",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発&nbsp;&nbsp;環境新聞オンライン",
+    "body": [
+      "水素吸蔵合金配送システム 陸上養殖モデル実証事業に 三菱化工機ら開発&nbsp;&nbsp;環境新聞オンライン"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-cddcf32a844d": {
+    "id": "auto-cddcf32a844d",
+    "category": "技術",
+    "title": "低コスト・低炭素の水素製造 広島大など４者、ごみ焼却などの排熱活用",
+    "source": "環境新聞オンライン",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01bVNySWw1bVY4MUdFOUZ5dWtEaUhuak9jWTIwUXJ1a3I5a1IwYlh5cWNaamt0OU5hVXhSQXNLdkdwSXpCSnRUcmVMUFQ5M3ZWMVNaLXRVLWd5OEdQR2hUZVRHRGtlQXRzUEQ4bUxYTWJ3WFZJVjNhWFdLZw?oc=5",
+    "time": "11/17(火) 22:00",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "低コスト・低炭素の水素製造 広島大など４者、ごみ焼却などの排熱活用&nbsp;&nbsp;環境新聞オンライン",
+    "body": [
+      "低コスト・低炭素の水素製造 広島大など４者、ごみ焼却などの排熱活用&nbsp;&nbsp;環境新聞オンライン"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-76eae42a92da": {
+    "id": "auto-76eae42a92da",
+    "category": "技術",
+    "title": "BMWとトヨタが水素イベント「BMW x TOYOTA H2 DAY」第2弾を12月13日にトヨタ博物館で開催。「クラウンFCEV」と「BMW iX5ハイドロジェン」の試乗や新型「X5」の展示を実施",
+    "source": "LE VOLANT WEB",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81QnJUcTJRa2VZcjlIcE1PRWcwS2dwUFR4S0FaU3Z3ZGVicEROWnBJMzljcHF1YUlHaEljNFRlaVExRHJoR3ZkTmk3V3ZzYXc?oc=5",
+    "time": "11/16(月) 0:00",
+    "comments": 0,
+    "tags": [
+      "水素"
+    ],
+    "summary": "BMWとトヨタが水素イベント「BMW x TOYOTA H2 DAY」第2弾を12月13日にトヨタ博物館で開催。「クラウンFCEV」と「BMW iX5ハイドロジェン」の試乗や新型「X5」の展示を実施&nbsp;&nbsp;LE VOLANT WEB",
+    "body": [
+      "BMWとトヨタが水素イベント「BMW x TOYOTA H2 DAY」第2弾を12月13日にトヨタ博物館で開催。「クラウンFCEV」と「BMW iX5ハイドロジェン」の試乗や新型「X5」の展示を実施&nbsp;&nbsp;LE VOLANT WEB"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-efa7f9b2d02a": {
+    "id": "auto-efa7f9b2d02a",
+    "category": "その他",
+    "title": "CORSIA合意10年、IATAが制度強化要求 EU排出量取引制度の域外拡大に反対",
+    "source": "Aviation Wire",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bTVMOGhJNEdpbTl3MlN5WlNja3p3SVVlcnZMZmUxOUhocVZzVjdKeld3MTVqY0E1aGxGa0h1YlN0ZU9ZRmV1M3ZkcjhZUTNnZUQtXy1n?oc=5",
+    "time": "11/15(日) 21:50",
+    "comments": 0,
+    "tags": [
+      "排出量取引"
+    ],
+    "summary": "CORSIA合意10年、IATAが制度強化要求 EU排出量取引制度の域外拡大に反対&nbsp;&nbsp;Aviation Wire",
+    "body": [
+      "CORSIA合意10年、IATAが制度強化要求 EU排出量取引制度の域外拡大に反対&nbsp;&nbsp;Aviation Wire"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-a820d6622bd1": {
+    "id": "auto-a820d6622bd1",
+    "category": "自治体",
+    "title": "J-クレジットの適用を緩和 東京都など太陽光発電の導入義務化自治体でも登録可能に",
+    "source": "ITmedia スマートジャパン",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/21/news029.html",
+    "time": "10/21(水) 7:00",
+    "comments": 0,
+    "tags": [
+      "J-クレジット",
+      "太陽光"
+    ],
+    "summary": "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認め…",
+    "body": [
+      "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認める方針だ。"
+    ],
+    "related": [],
+    "collected": true,
+    "image": null
+  },
+  "auto-515e162b395f": {
+    "id": "auto-515e162b395f",
+    "category": "技術",
+    "title": "日本の地熱発電システム市場は2050年度に3500億円規模へ 次世代型が急拡大",
+    "source": "ITmedia スマートジャパン",
+    "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+    "time": "10/20(火) 7:00",
+    "comments": 0,
+    "tags": [
+      "地熱"
+    ],
+    "summary": "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。",
+    "body": [
+      "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。"
+    ],
+    "related": [],
+    "collected": true,
+    "image": "https://image.itmedia.co.jp/smartjapan/articles/2610/20/cover_news036.jpg"
   },
   "auto-0fcad0b2c04e": {
     "id": "auto-0fcad0b2c04e",
@@ -4973,25 +5241,6 @@
     "summary": "石狩に「国産」特高蓄電所、再エネ地産地消に貢献も（3ページ目）&nbsp;&nbsp;日経クロステック",
     "body": [
       "石狩に「国産」特高蓄電所、再エネ地産地消に貢献も（3ページ目）&nbsp;&nbsp;日経クロステック"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-617196cc7990": {
-    "id": "auto-617196cc7990",
-    "category": "国際",
-    "title": "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状",
-    "source": "PRESIDENT Online（プレジデントオンライン）",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85NG1INWkwcXBhb2paMy1PalZEUlhsN0J6ekY0cXgwelNKM2lqNDVGVGZ1dFBPWm1JZHZEMjBfMWdpZGdSMzU0S196UXZwQ20wX3JybUlPUnktTWs?oc=5",
-    "time": "11/18(水) 10:19",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
-    "body": [
-      "画像 | 習近平が｢二酸化炭素を減らせ｣と大号令をかけた結果…世界の8割超を握った中国太陽光パネル業界の惨状&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）"
     ],
     "related": [],
     "collected": true,
@@ -8479,25 +8728,6 @@
     "summary": "企業の脱炭素を後押しする「カーボンインセット」とは？ 社会実装に向けた議論がスタート&nbsp;&nbsp;ソフトバンク",
     "body": [
       "企業の脱炭素を後押しする「カーボンインセット」とは？ 社会実装に向けた議論がスタート&nbsp;&nbsp;ソフトバンク"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a122b9b6bfaa": {
-    "id": "auto-a122b9b6bfaa",
-    "category": "その他",
-    "title": "パワーエックスがトヨタ東日本から大型蓄電システムを受注",
-    "source": "ニュースメディアVOIX",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CU0hVYTRzNXh5WTcxOWhZS1M2R1RGLVVNV3hDR3g3WnhoMlFTbjh3ZUNuQncwREM2R29heGJqd25sSzB0Rjlla2FGVHczUVlhLXJR?oc=5",
-    "time": "11/16(月) 2:03",
-    "comments": 0,
-    "tags": [
-      "蓄電"
-    ],
-    "summary": "パワーエックスがトヨタ東日本から大型蓄電システムを受注&nbsp;&nbsp;ニュースメディアVOIX",
-    "body": [
-      "パワーエックスがトヨタ東日本から大型蓄電システムを受注&nbsp;&nbsp;ニュースメディアVOIX"
     ],
     "related": [],
     "collected": true,
@@ -19018,237 +19248,6 @@
     "summary": "クロアチア、農業企業向けに3000万ユーロの再生可能エネルギー補助金を開始 - ニュースと統計&nbsp;&nbsp;IndexBox",
     "body": [
       "クロアチア、農業企業向けに3000万ユーロの再生可能エネルギー補助金を開始 - ニュースと統計&nbsp;&nbsp;IndexBox"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-f56dcccb65f8": {
-    "id": "auto-f56dcccb65f8",
-    "category": "その他",
-    "title": "ザライ省は、3つの再生可能エネルギープロジェクトに3兆8000億ベトナムドンを超える投資を承認した。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWtmc3EtU0U5dGY0eFhOcTQ3T2ZrS3lGblcwV0ZaZnI4aUVWREtHT01Jak9icVJiRmJONlNNcF9IQVpvczMtd0FpZWRYaGJtVmpaLXhYbVZfR1NFUVFMdVE2Vmpld18td29sNXdBbGhtaC1tTVI2ZWtORWNTVGRkdnFUTGF2RDY0MHRFem9uRE1RMl95SzNQVkdlamY?oc=5",
-    "time": "11/10(火) 9:23",
-    "comments": 0,
-    "tags": [
-      "再生可能エネルギー"
-    ],
-    "summary": "ザライ省は、3つの再生可能エネルギープロジェクトに3兆8000億ベトナムドンを超える投資を承認した。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "ザライ省は、3つの再生可能エネルギープロジェクトに3兆8000億ベトナムドンを超える投資を承認した。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a453e6233520": {
-    "id": "auto-a453e6233520",
-    "category": "その他",
-    "title": "2026年の太陽光発電の最高価格は2,120ベトナムドン/kWhを超える見込み：どの投資家が有利になるのか？",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzl4VlRxYjFua3EtXzV0NzhTWlBhOFJPMUhvZGU4aUlMMFZWTk9oV0p5RzdyLTJCMjJaemdCRUJncXZUR1lFeENKY0hMaGoyQ1ZwLUhJRUU0Ni10TXQzR183T2huazRwUXhSUC02Sms3MGdWOVctUWQ1NkJGOVBJTS14N1UzTnEtNkp0VkE1UW1IMmdEU0lHMlB4UG9CaXNTcFZYS29ud0lNZFNV?oc=5",
-    "time": "11/10(火) 9:03",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "2026年の太陽光発電の最高価格は2,120ベトナムドン/kWhを超える見込み：どの投資家が有利になるのか？&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "2026年の太陽光発電の最高価格は2,120ベトナムドン/kWhを超える見込み：どの投資家が有利になるのか？&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-c4e65048c527": {
-    "id": "auto-c4e65048c527",
-    "category": "その他",
-    "title": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpTUwzRW91X2pWWW00SldNTW9ySjVERDdMalZ3czgwT3pYWFc0WHZnZE5FRUFTSUs5TWQ2SGQ0RGlESnBiNnFHU3lmaEk5VUhTNHNqUExCUXlTY2pDaGY1bzlpTjlBc2Zsb1BMaElScHFYWkF3cVE?oc=5",
-    "time": "11/10(火) 9:00",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-211b12c24587": {
-    "id": "auto-211b12c24587",
-    "category": "自治体",
-    "title": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業",
-    "source": "ｄメニューニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWhRcURrZE1DWURYVzRHcVY5MGRoTGw0Mk5wMW5GM1BiTW9obnRkZ3VPS0xVeVpRTEFWcnROemYzamJ4T0FpbHdrSnJ2bVpaMkF5NlNFaTk3eXNsektyWkg2Znc0TUVQdWZVNVJLdjlyMUpLVUZzRlFnc2d2c2xmM3o4SDVzWlN5UUl6UUU2VkJCdExfMV9EZk1sM2xIZ9IBngFBVV95cUxORWhRcURrZE1DWURYVzRHcVY5MGRoTGw0Mk5wMW5GM1BiTW9obnRkZ3VPS0xVeVpRTEFWcnROemYzamJ4T0FpbHdrSnJ2bVpaMkF5NlNFaTk3eXNsektyWkg2Znc0TUVQdWZVNVJLdjlyMUpLVUZzRlFnc2d2c2xmM3o4SDVzWlN5UUl6UUU2VkJCdExfMV9EZk1sM2xIZw?oc=5",
-    "time": "11/10(火) 9:00",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "再エネ"
-    ],
-    "summary": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業&nbsp;&nbsp;ｄメニューニュース",
-    "body": [
-      "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業&nbsp;&nbsp;ｄメニューニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ef66268dc314": {
-    "id": "auto-ef66268dc314",
-    "category": "自治体",
-    "title": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業 [北海道]",
-    "source": "朝日新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdTdEekRrTGxfR3pWUE45VGxfWld0Rkk3UVZqdElPMnpyekpZWEpKblFlYnhjdDd1ZF93bFNUVW5HaktSM3FoZjE3TEtudlo1cldhNlJ6U0NPaGFQcV9IMUM4Ulp3RUk?oc=5",
-    "time": "11/10(火) 9:00",
-    "comments": 0,
-    "tags": [
-      "太陽光",
-      "再エネ"
-    ],
-    "summary": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業 [北海道]&nbsp;&nbsp;朝日新聞",
-    "body": [
-      "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業 [北海道]&nbsp;&nbsp;朝日新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-c4ba85462676": {
-    "id": "auto-c4ba85462676",
-    "category": "技術",
-    "title": "ニッケル水素二次電池の世界市場（2026年～2032年）、市場規模（円筒形セル、角形セル、ボタン型セル）・分析レポートを発表",
-    "source": "アットプレス",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94STBlcjlZRFc5US1hZ0JYbjRRRXBRcWZ2cE5wcWJmMkxLSmstdnZYaThEWmhJMEo4cXNTTFJURFpUaDlhc0FqUmJRdmdPelk?oc=5",
-    "time": "11/10(火) 9:00",
-    "comments": 0,
-    "tags": [
-      "水素"
-    ],
-    "summary": "ニッケル水素二次電池の世界市場（2026年～2032年）、市場規模（円筒形セル、角形セル、ボタン型セル）・分析レポートを発表&nbsp;&nbsp;アットプレス",
-    "body": [
-      "ニッケル水素二次電池の世界市場（2026年～2032年）、市場規模（円筒形セル、角形セル、ボタン型セル）・分析レポートを発表&nbsp;&nbsp;アットプレス"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-8574883a9840": {
-    "id": "auto-8574883a9840",
-    "category": "国際",
-    "title": "【インタビュー】三菱重工コンプレッサの真崎守彦社長 脱炭素強化の狙いは 火力発電や工場で需要",
-    "source": "中国新聞デジタル",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DYnVENmJMSjJnbWNmd3pRWm92YWVQbGdQV1I3M2dSYjFDUlRpanppeFRrWWZ0djd3OTJxSzF3ekVkMjFUTmx3MEk4WG1SS1dGeUFWZlhlM1ZMZw?oc=5",
-    "time": "11/10(火) 8:58",
-    "comments": 0,
-    "tags": [
-      "脱炭素"
-    ],
-    "summary": "【インタビュー】三菱重工コンプレッサの真崎守彦社長 脱炭素強化の狙いは 火力発電や工場で需要&nbsp;&nbsp;中国新聞デジタル",
-    "body": [
-      "【インタビュー】三菱重工コンプレッサの真崎守彦社長 脱炭素強化の狙いは 火力発電や工場で需要&nbsp;&nbsp;中国新聞デジタル"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-ee5ce98b2e64": {
-    "id": "auto-ee5ce98b2e64",
-    "category": "その他",
-    "title": "東京都、カーボンクレジット特設サイト開設 中小企業の脱炭素支援",
-    "source": "日本経済新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VX05HWnlQay1nb1hVNHlnYVRNN3RtY1JTYTZ5S0Z6Wm44WU4tTWthWDBXQWg1YWtOc0FDXzlwR0NXWmtTLXlpMEY1NGV1dFJJVnl5ZlJuTG14TzBxQ2hYdERxRU1XUWRuM24yRQ?oc=5",
-    "time": "11/10(火) 8:57",
-    "comments": 0,
-    "tags": [
-      "カーボン",
-      "脱炭素"
-    ],
-    "summary": "東京都、カーボンクレジット特設サイト開設 中小企業の脱炭素支援&nbsp;&nbsp;日本経済新聞",
-    "body": [
-      "東京都、カーボンクレジット特設サイト開設 中小企業の脱炭素支援&nbsp;&nbsp;日本経済新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-aeae2aba237d": {
-    "id": "auto-aeae2aba237d",
-    "category": "国際",
-    "title": "中部電力、英国で洋上風力の海底送電線を取得へ 同国3件目",
-    "source": "日本経済新聞",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jMHVObTJOYy1OT0gxU0hHS0I4WmF1U3Q0LW5aT2pEMTF2anFoNUdZM09ZZmJ6N3JiWW8wd1E5R01rS2JxSUxVZGY2U0JZcllzWXFfWDUzT1h2MlFXVXVGQjlIT0ZWemtLVTV1Vw?oc=5",
-    "time": "11/10(火) 8:57",
-    "comments": 0,
-    "tags": [
-      "洋上風力"
-    ],
-    "summary": "中部電力、英国で洋上風力の海底送電線を取得へ 同国3件目&nbsp;&nbsp;日本経済新聞",
-    "body": [
-      "中部電力、英国で洋上風力の海底送電線を取得へ 同国3件目&nbsp;&nbsp;日本経済新聞"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-60fa8a1f068c": {
-    "id": "auto-60fa8a1f068c",
-    "category": "その他",
-    "title": "Looopとユーラスエナジー、高圧太陽光発電の開発・譲渡に関する包括基本契約を締結",
-    "source": "ニコニコニュース",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYd1lpNnlRNmZHb0NqYTRXNWNURzdfaTJuMnVzUEpJbjIzZ3dfellBVlg5SWxPQnlMZG5sbGg5Z3dvcjQwSk96eFY1YVZsTmo3VDA2Y3djYWpnNWFJMmc1Z1pJNF9zMVJmZ0ZndW4zak1QOTJyN0E?oc=5",
-    "time": "11/10(火) 8:45",
-    "comments": 0,
-    "tags": [
-      "太陽光"
-    ],
-    "summary": "Looopとユーラスエナジー、高圧太陽光発電の開発・譲渡に関する包括基本契約を締結&nbsp;&nbsp;ニコニコニュース",
-    "body": [
-      "Looopとユーラスエナジー、高圧太陽光発電の開発・譲渡に関する包括基本契約を締結&nbsp;&nbsp;ニコニコニュース"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-02c23db9a207": {
-    "id": "auto-02c23db9a207",
-    "category": "その他",
-    "title": "2026年の風力発電の最高価格は2,187.83ベトナムドン/kWhです。",
-    "source": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2MxYUtCTU5PT0Q2WDZJVjVzXzNGYzc1clpVNW8taVI3Yi1qcG9FaThyQTVnQVRUN29KRnJmaEMyQmJMLWl0M0N1M3drSm5qeXpBaG9lSHBTcFd1Y3lUQ2ZzcW5SUEVMLTlSSTZZcWdIYkVvM2lhUmtQb2ppREl6bmRmam11ZnRDXzNROTZR?oc=5",
-    "time": "11/10(火) 7:45",
-    "comments": 0,
-    "tags": [
-      "風力"
-    ],
-    "summary": "2026年の風力発電の最高価格は2,187.83ベトナムドン/kWhです。&nbsp;&nbsp;Vietnam.vn",
-    "body": [
-      "2026年の風力発電の最高価格は2,187.83ベトナムドン/kWhです。&nbsp;&nbsp;Vietnam.vn"
-    ],
-    "related": [],
-    "collected": true,
-    "image": null
-  },
-  "auto-a2fd5d729952": {
-    "id": "auto-a2fd5d729952",
-    "category": "その他",
-    "title": "製造業はカーボンニュートラルをどう進めるか。レゾナックの戦略と川崎事業所の挑戦",
-    "source": "ビジネスジャーナル",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80MGRLdDJFZ05HTVVJa0x1UmpFdXF3YkRrV0xXdnVSVzc4Ums3TWp1NXZnMmx4aDl1M2ZXNFBvMDh1OFdGd0FuYi1YTmRUSVVHbkNvQjFRb3g5MzRYTnZwbw?oc=5",
-    "time": "11/10(火) 7:12",
-    "comments": 0,
-    "tags": [
-      "カーボン"
-    ],
-    "summary": "製造業はカーボンニュートラルをどう進めるか。レゾナックの戦略と川崎事業所の挑戦&nbsp;&nbsp;ビジネスジャーナル",
-    "body": [
-      "製造業はカーボンニュートラルをどう進めるか。レゾナックの戦略と川崎事業所の挑戦&nbsp;&nbsp;ビジネスジャーナル"
     ],
     "related": [],
     "collected": true,
