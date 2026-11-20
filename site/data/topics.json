@@ -11,31 +11,53 @@
     "その他"
   ],
   "lead": {
-    "id": "auto-301eb45e4829",
-    "title": "需給調整市場への参入済み容量が150MW超に",
-    "summary": "[デジタルグリッド] デジタルグリッド株式会社（本社：東京都港区、代表取締役社長CEO：豊田祐介、以下「当社」）は、需給調整市場に参入した系統用蓄電池アグリゲーション（運用受託）の容量が、2026年11月19日に150MWを突破した...",
+    "id": "auto-0886d09625d5",
+    "title": "カーボンクライオキャプチャー、環境省SBIRフェーズ3に採択",
+    "summary": "[株式会社カーボンクライオキャプチャー] (The English version follows below.) [画像1: https://prcdn.freetls.fastly.net/release_image/167919/9/167919-9-8bc03e1de13…",
     "category": "企業",
     "source": "PR TIMES",
-    "time": "11/20(金) 10:15",
+    "time": "11/20(金) 14:42",
     "comments": 0,
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000072.000045726.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/45726/72/45726-72-8eab386b8d28c067f9d85b320e9552e7-1281x766.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000167919.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/167919/9/167919-9-47b353de757f16b15112a51f6dd20546-420x200.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   "headlines": [
     {
-      "id": "auto-e56c8d4e717c",
+      "id": "auto-9d72bf2e85cc",
       "rank": 1,
-      "title": "ハンファジャパン、低圧系統用蓄電池事業に本格参入",
+      "title": "日東工業、充電コネクタを挿すだけで認証・充電できる新たなEV充電サービスの実証を開始",
       "category": "企業",
       "source": "PR TIMES",
-      "time": "11/20(金) 10:06",
+      "time": "11/20(金) 13:00",
       "tag": "NEW",
       "pr": false,
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000253.000009490.html"
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000138.000063241.html"
+    },
+    {
+      "id": "auto-c8d38562a812",
+      "rank": 2,
+      "title": "充電コネクタを挿すだけで認証・充電できる新たなEV充電サービスの実証を開始",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/20(金) 13:00",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000049.000071105.html"
+    },
+    {
+      "id": "auto-c72f41d8243c",
+      "rank": 3,
+      "title": "Hyundai Mobility Japanの技術協力のもと、被災地に電気を「届け続ける」運用の可能性を検証開始",
+      "category": "企業",
+      "source": "PR TIMES",
+      "time": "11/20(金) 9:41",
+      "tag": "NEW",
+      "pr": false,
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000401.000035080.html"
     },
     {
       "id": "auto-31472987b20c",
-      "rank": 2,
+      "rank": 4,
       "title": "建築物のライフサイクルカーボン、オフサイトの再エネ活用による排出削減量を評価",
       "category": "技術",
       "source": "ITmedia スマートジャパン",
@@ -45,70 +67,48 @@
       "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/20/news013.html"
     },
     {
-      "id": "auto-f0a10dab02c1",
-      "rank": 3,
-      "title": "屋上太陽光発電システムを設置する世帯に対し、最大1,000万ベトナムドンの補助金を提供する提案。",
-      "category": "その他",
-      "source": "Vietnam.vn",
-      "time": "11/20(金) 2:58",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWFkLVR3TXVRbmtjR0VKbXVWaldOMWdBeFgwTjFJQll1MDcxVDU2ZHhRSE8zaV90aWVQWWQxNFhraG5pXzEwRWtCb1puZVRleV9HZ09DZDEwd01SYnNzZ21kRjVjcUJxWnc3TW5uVkQyMDhDRzVYcW5mZW5QWWQtWGtLOTdvNF9QcEgxNGZmWFFRUXZWaFE?oc=5"
-    },
-    {
-      "id": "auto-eb897cecc40a",
-      "rank": 4,
-      "title": "北勢下水 南部浄化センターへ太陽光発電導入に向け事業者募集",
-      "category": "その他",
-      "source": "建通新聞",
-      "time": "11/20(金) 2:20",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT05SOEtNSlZNMWxaY2U1MWdDSEVlclVzd0l3OXBjbGJua2NFVkNrV1NfQWE5YnNGT0RvSGNZcDB3Q1ladDRBU2JFUFdoU2JQZnFXTTBTaGQ2ZDgwSWVhVFdReUhsYTNwOGpSam8zTWdBSC05OTNDd0NxVV9JUzkxQQ?oc=5"
-    },
-    {
-      "id": "auto-91849a2264ae",
+      "id": "auto-cc11c536f1b4",
       "rank": 5,
-      "title": "韓国・ノルウェー経済界が10年ぶりに再会…造船を超え防衛・洋上風力まで協力拡大",
-      "category": "国際",
-      "source": "BigGo ファイナンス",
-      "time": "11/20(金) 2:06",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50T0JTTzY1NTdUUzc3ZXJxc0VvOTUzQlNfY0prSjU5WTgybU1aQ3pLUHVlcVhOUzlOVEIxS0I4WXd2MFRFVkpVVzZkYXZGRDFwUUZKSnFTcHpjYWpSTGx6cVlqbm9uUWVJZEZ6Q3JMRWRGU0Ew?oc=5"
-    },
-    {
-      "id": "auto-435bbe58fee1",
-      "rank": 6,
-      "title": "K2戦車から洋上風力まで…韓国・ノルウェーの協力拡大 : 政治 : 財経日報",
-      "category": "国際",
-      "source": "재경일보",
-      "time": "11/20(金) 2:00",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VcUJNdXU4UHhqelVlYkZoYWhrM1FlYnQxYVBYZlFKWGpZOFhPc3B4ZFlYam9kQll1bWZfQ1dRcm1vQWhUaHRST3ZaUWlaVWJtZkFsQXVocDNmcEQ1NW1xQU5mUQ?oc=5"
-    },
-    {
-      "id": "auto-f8e9a1c2cacf",
-      "rank": 7,
-      "title": "エネルギーにおけるブロックチェーン市場、2035年に7,939億5,000万米ドルへ急拡大予測｜再生可能エネルギー取引・電力網の分散化・脱炭素投資が世界のエネルギー産業を変革",
-      "category": "国際",
-      "source": "アットプレス",
-      "time": "11/20(金) 1:51",
-      "tag": "NEW",
-      "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54UVljd0RTNlEtRlpKaGY0RkdVWGMtcVg2UEJOTkVPUHZodnhRZDJ1ZlRvbjRJckp5SWJnQ012YnpsdTl0R2hIRDU0eHdLdTQ?oc=5"
-    },
-    {
-      "id": "auto-88e94887ef06",
-      "rank": 8,
-      "title": "水素で動くショベル実演/30年以降に市場投入/神戸製鋼とコベルコ建機",
+      "title": "風車タワーにカルコパイライト太陽電池、鹿児島県で実証",
       "category": "技術",
-      "source": "建設通信新聞Digital",
-      "time": "11/20(金) 1:46",
+      "source": "ITmedia スマートジャパン",
+      "time": "11/19(木) 7:30",
       "tag": "",
       "pr": false,
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFbUlveExHMzFxdlB5QzhFQWU5ZGlUNEdjVzNJMXRCTF9pY1dzWXdOR3dhejFQaUZGT2dDOU4tM1lOVlF6czFZS1owang4V1FKVWZrYlhRVC0?oc=5"
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/19/news038.html"
+    },
+    {
+      "id": "auto-8b8f040ab97f",
+      "rank": 6,
+      "title": "省エネ・非化石転換法ベンチマーク制度、電力供給業の目標値を見直しへ",
+      "category": "技術",
+      "source": "ITmedia スマートジャパン",
+      "time": "11/18(水) 7:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/18/news034.html"
+    },
+    {
+      "id": "auto-ffe06c835dfc",
+      "rank": 7,
+      "title": "中国メーカーがJC-STAR対応に苦戦する理由──太陽光・蓄電池事業者がとるべき対応は",
+      "category": "国際",
+      "source": "ITmedia スマートジャパン",
+      "time": "11/16(月) 7:00",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://www.itmedia.co.jp/smartjapan/articles/2611/16/news007.html"
+    },
+    {
+      "id": "auto-6e824aaa2a09",
+      "rank": 8,
+      "title": "家畜といえば、日本の伝統的な食文化では「ヒツジ」を食べないんですよね。もっというとそもそもヒツジをまるで飼育してこなかった。中国ではありふれた家畜であり、例えば十二支の「未」にはヒツジが当てられるほどなのに、日本では干支は取り入れても羊自体には縁が薄かったのはなぜなんでしょうか。→「気候が合わなかったそうですね。 実物を見たことがない時代に書かれた羊🐏」",
+      "category": "国際",
+      "source": "はてなブックマーク",
+      "time": "11/12(木) 11:27",
+      "tag": "",
+      "pr": false,
+      "source_url": "https://posfie.com/@kalofollow/p/8m7dxtN"
     }
   ]
 }
