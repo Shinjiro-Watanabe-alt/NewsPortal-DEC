@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-c5c80da93fca",
+    "title": "JOAホールディング、系統用蓄電池のバルク販売における「特定生産性向上設備等投資促進税制（即時償却）」の個別相談・一括支援を開始",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "23:40",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000080655.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/80655/23/80655-23-418c2c306157ef7c79ee1ec8e9638950-1536x1024.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-d447ebae4c7e",
+    "title": "【フィリピンで1万ha以上の竹の植栽・再生】Green Carbon、カーボンクレジット事業開発に向けMOAを締結",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "22:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000324.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/324/117956-324-7ac382d942669089c47f7fbfdc65e728-1988x1120.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-2ac6185bdaf1",
+    "title": "蓄光塗料「レッドコート ルミナス」の開発のお知らせ",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "22:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000147704.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/147704/9/147704-9-b2f319cd823f3561c9915d45ca1133eb-2752x1536.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-61e00d771fed",
     "title": "【想定年利30.0％・運用期間 約11ヵ月】ミラリタ初回投資完了で「Amazonギフトコード5,000円分」プレゼント『兵庫県三木市緑が丘町西 蓄電所開発ファンド』開示",
     "category": "企業",
@@ -30,6 +60,26 @@
     "image": "https://cdn.image.st-hatena.com/image/scale/9236a5d70c07836c0e841a1d237e5056d5957ae8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftameyo%2F20261122%2F20261122113952.jpg"
   },
   {
+    "id": "auto-a45679c41dbd",
+    "title": "大統領、中国企業と洋上風力建設で協力合意",
+    "category": "国際",
+    "accent": false,
+    "source": "NNAアジア",
+    "time": "15:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sYTUzbVgxWDExNHg1cFZ2bmppREU4YWI4VVU0UGEzcE50ZVlTMXYxOFJiQ1pzVHZjaUx5QnpXeHRjTDNTN1E?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-b9975450bc98",
+    "title": "いであ・戸田建設など、海洋ドローンで洋上風力点検の事業化計画に採択",
+    "category": "その他",
+    "accent": true,
+    "source": "財経新聞",
+    "time": "14:46",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ENVo5SzVsMTdtdmw5V25MdzVFa1BPWFB6aDY5RjBVel9uWF94SjY1UzFIalI4VHJlM05EbmxtWnh6b1ZJMVE1UnJEUFZ3a2loNHJURzZOYmQtNXJmd1ZGaGNIVdIBaEFVX3lxTFBpNmZnYnZFdTZxUUd2MEFadUZMOHVjS0lvcWFwa0ZhaTNqQzNLRkpRd3hkSXdMVWdEREZQSTVpczkwdkJKaEJKYnFRY0RFQ1BCNi10ZU1wMzNxTm8tZ1Q0RzI1UzBYWmc5?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-0c3e9dc5853a",
     "title": "コスト面でのボトルネックを解消し、屋上太陽光発電を促進する。",
     "category": "その他",
@@ -43,7 +93,7 @@
     "id": "auto-94b258fee6b8",
     "title": "JA、成都で同源型太陽光発電・蓄電エコシステムを立ち上げ",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "千葉日報オンライン",
     "time": "10:07",
     "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFQng4N0lBOU5aanhFQ2cwazRJOEFlQ0dPb3duY29aRjZQamFrNE9PTlJjMmphUExsWVZocmtCWDJkZGJBdVFoYk1VM2RjZTJfTk01QXJB?oc=5",
@@ -53,7 +103,7 @@
     "id": "auto-f71a5fdea12f",
     "title": "屋上太陽光発電開発に67兆5000億ベトナムドン以上を投資する提案。",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "10:03",
     "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjBpSjFBbnZ1VEtrbmpES005dkZLbTVSVjN5aEVuVXQ0d2tWWHVJdWRzUG9XZ0xNaldYd0g3RGlYYTQ5MDI5Z0VxWXYyQ2tiVTNRako4UXZ3azkxNVpyTTdGbjhKZW14QnJxUU5ZcDF4LWI2ZWRZMmNpcktXcFZxazZGa2NSU0xzM1VRR0lSRzVlNnM?oc=5",
@@ -73,20 +123,20 @@
     "id": "auto-366631a87f27",
     "title": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "7:24",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tNmltM1cyU1NFcURKdEJjbWtlYWtaUVZyU1NDS0g1Z1BvVF9JRUlDUGxRNFFYUmt0alc4UmdoU09DSGl1Sk12ajBRWGhhZ0RqOUE?oc=5",
     "image": null
   },
   {
-    "id": "auto-67fded1147e3",
-    "title": "日本の液体水素市場の成長要因",
-    "category": "技術",
-    "accent": false,
-    "source": "pando.life",
-    "time": "6:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IcjE3YkVVZktPeUZXUll2SHQyb2g3U01iazV3bE43SUI4Q3owZDd3cmN2T0puZlR5c0lIZUplMU1XSjY1NFN3QXdn?oc=5",
+    "id": "auto-f97e98f6333e",
+    "title": "英国の屋上太陽光発電の設置数、2026年に年間最多を記録",
+    "category": "国際",
+    "accent": true,
+    "source": "Mezha.net",
+    "time": "6:35",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlNSX3Rldlpwai1hM3RtTUVtNFJYUk1UU1dDM3hKdzJlZmROUHRQeVl3RGJPdHFVRUNSOUpxc2FOOUdENnE4Z3R6TkxfeVhHQ29Vd1Y2M3JXTnl3YXhvam8xNFU1TmJjMlJBTW04XzBxT2VpRmlQOGh0Znd0RW9HQjFjdnlwZEFCRW5Menh1cnVjVXFFQ0IxcEJoNE1PeDl4?oc=5",
     "image": null
   },
   {
@@ -96,14 +146,14 @@
     "accent": false,
     "source": "山陽新聞",
     "time": "6:01",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bElfOUk5RzVFdE5xYWMweVdFR0taMmx1TDlONkNFTk9GQ3lnWEV6Vmpab2R6QktOa1dyYlQwVG94a29xeFkzNWFsR0RxSktXUmc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xT1V1ZUFEb2VhSFlYazhEMlA2UEhOMl9Id3lhc1hza2x1VEVkQ21uaTg5S0xBU0NER3FnMFpkQllJeHNPV3o3aVBCR1F3NDY1bktvYWNvSllhbnpqU1ExT0NOb2ZqcmF6TjE3ZQ?oc=5",
     "image": null
   },
   {
     "id": "auto-4033e3205b03",
     "title": "市場力学：地熱発電インフラ市場の予測成長、2026年から2033年にかけてのCAGRは6",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "pando.life",
     "time": "4:51",
     "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IZFZQaUotQlFkNEtPSk4ydXdtWTQtYlUtWnhZT1FVUkxmd3ZKTVRqd2pWak1oX0NYNjVSVTJLY05qbWdhOV9adlNn?oc=5",
@@ -113,7 +163,7 @@
     "id": "auto-ff28b2c7d5a0",
     "title": "Energy Vaultと蓄電システムの供給・事業協業に関する戦略的パートナーシップ契約を締結",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "山陽新聞",
     "time": "4:44",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WU5SWTh2NTlNWlgzNkNhdkU3aGdRb0NDZFFmM1YwWVUzNHZCZk94bzJVTzFvTm1PVFl2enVNVFNITkFEQXhWR2V1OEU2dmJoU1E?oc=5",
@@ -133,7 +183,7 @@
     "id": "auto-227f6a859dfe",
     "title": "送配電設備の負担抑える 需給状況に応じ充放電 蓄電池のパワーエックス 関西電力送配電と連携",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "山陽新聞",
     "time": "3:22",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6X29jWDNLNGZpdFc2aXlNRXdQdFZBTzlQRXI2YTBTdkZnT2FaVHNaUS1qdnZMT1hMLWxWVkFOTThWbEJxVGhEdnpGWHA4MDc4OFE?oc=5",
@@ -143,30 +193,10 @@
     "id": "auto-08391badc59c",
     "title": "ベトナムの大手ガス会社が、グリーン水素の製造試験を開始しようとしている。",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Vietnam.vn",
     "time": "2:00",
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHZsT2R2dnRfY2xuX2F5aTVOQVEzOTFRTlctenJkZ1JSMWRMNDdORGxGaXRjUVlTNXF1b0d5YmgyN2lmNGE1ZmtIWHl4VlVpZ25aaGVtb0p4Y1JranJCWTJMQWdsVGtZSTZEZnhEdmh2NE56aWw2WDJDQ294Z0h6NUx6TzNVVm41RU10X2pTY0piV0ht?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-58a606835fe3",
-    "title": "画像4 / 4＞電気事業連合会の新CMに女優・今田美桜が登場！電気の脱炭素化や安定供給確保の必要性をわかりやすく紹介",
-    "category": "その他",
-    "accent": false,
-    "source": "ウォーカープラス",
-    "time": "1:09",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdkxsakNwMVZreGNXTlliZkVHZ2R2Y1dNSFByRnVkeUdTVFpNb3AzY0NoekdlQ2dXMFpLTnZHYTBrc0FDb2FKWHdlTUxFSWt0VmlROTFYM20tQk0weXBYSkVvMmlSODYxS2pNeVVR?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-f14820e0a274",
-    "title": "ファミリーマートと富士通、AIで脱炭素製品の販促を検証",
-    "category": "その他",
-    "accent": true,
-    "source": "Dellows News",
-    "time": "1:06",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BMVEyVUxzeHpsREdDQnE4dlNJMzByLTdxOTZpVjdfSmo1YUtLZUp3bERUV1NlcGZqQVBncVpMdURBZzlQb2xJ?oc=5",
     "image": null
   },
   {
@@ -180,10 +210,20 @@
     "image": null
   },
   {
+    "id": "auto-ae09a06ce85d",
+    "title": "クルマ製造工場が出すCO2、じつは半分以上が「塗装」!? ホンダが挑む業界初のクリーンエネルギーによる「電化工場」に潜入した",
+    "category": "その他",
+    "accent": false,
+    "source": "carview!",
+    "time": "1:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTE1WHBkY0dmcHVkeXRzNXFzN3U4bS1YTExxcXRXbUgyd2FfQWppblZvSjZOZWM3R2paSnV1UnRsaXlFMjd4UUtiSTBpdU9WR0FTcUJSUzljZ0VBQ2JSUi1oSUF4MWxSUVFSbTBPeHQ4cTF0VjZka1BVaW5xbVlCUTBiMHR2YlY4?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-f6ca693daebf",
     "title": "El Toyota FT-EV III y el FCV-R se presentarán en Tokio",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Highmotor",
     "time": "0:22",
     "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOXdReHlHU0hxODhzWm9PZ2RQZ2tNZ3lzR2huNDNYZF96TGNpXzJ2N3dBaEF1SGJieXEzeWhZb0h1bERzaWtjTTBMX0FwOEtTRjQwenptQXB2LW1qVzV2aFlNYnJRYXQ3SGhMMWFmTHBBNWhqaEFjMkZqa1NRdEgyWEN1QzFkWXVBOTJOUmswbDRVNzJMWUpLNmpDQWJpWFBkUjkyMDlFM3Q2czN4WmgzRmRUVjhkYjI1NVhFYldyWmVQWXg1S0JmYlAzY2R0NTVRS3ZZb1gxVzlUZU4zcmtSS1BlT0lWT3RnODNUcQ?oc=5",
@@ -193,7 +233,7 @@
     "id": "auto-8da44d905487",
     "title": "中国の寧夏化学大手・英力特、約10億元で支配権売却へ 寧夏回族自治区の富豪・党彦宝氏が傘下に収め太陽光資産を注入計画",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "BigGo ファイナンス",
     "time": "0:05",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wLUhnQTlReWtOX0dJTXBMVlkzZU1QTEU3a0Flem5QVVJlMFJBWkd0UHl3aTN0MzZLRjdJTE5Xd3k5YmVSOGxVTEo3S1BpVHh0VGtROXBwd1l3ZEYxOEJyWk90bjU5Rkd3cGV4VTVFbkdfQk03?oc=5",
@@ -213,7 +253,7 @@
     "id": "auto-6d6abc8b571f",
     "title": "大阪ガスとSonnedix社、大分市の太陽光発電所で蓄電池の商業運転開始",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "Dellows News",
     "time": "23:14",
     "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EanVMczlfSFkySnFCTngzWUFSVjhabnZlQ0ZoR2hEblgxZEd3ZEtuMXl3WHlaTEVoN28ySC1zMFFsVFBTdExz?oc=5",
@@ -223,80 +263,40 @@
     "id": "auto-fdf0c2574046",
     "title": "ゼロカーボンシティ宣言で日本の自治体は何が変わる？まちの本気度を見る3つの目印",
     "category": "自治体",
-    "accent": true,
+    "accent": false,
     "source": "MIRASUS（ミラサス）",
     "time": "23:09",
     "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CaEVWQU93Y3R6RklaNUpEUFIwVWpwRm5wR1RtSGZmYmQ2OExNZk10TjlTa2FwVWxremtBMGQ4cEUteklvRnByVTRTN3c?oc=5",
     "image": null
   },
   {
+    "id": "auto-fbcfa06ea970",
+    "title": "東京製鐵×日本通運、低CO2鋼材「ほぼゼロ」PR動画を小林幸子起用で公開",
+    "category": "その他",
+    "accent": false,
+    "source": "SDGs NAVI",
+    "time": "22:01",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vU3RWOXF5ZG1zWTBPZ2R3T1NBUnBoMFB1SGJYVmhCa09aOGNFdUJ1YVVES2lSM3V2Y0JWeHRIRndnT1BvcU5CMWVmZ2o1NmZqLUotVXhjV0xvQXVOWXdBVm1fM2NVcloyYkdURTJaZGphenAtRWc?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-5354905a9297",
     "title": "中国初の100kmを超える純水素長距離輸送パイプラインが稼働",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "22:00",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MSHNRRW5EUFluM2V2VzBPa1FaMzhvWm9yODdsU3VTdTZiSUc4Y21qLV8zNW01UmlvM0thMHJfNURjYWtJYUVyZmw2c1p4TXZQeTFGRW1xR1J3OExNdnhWM3E4OWU5dzhZSFhJRnd1TUQtMVE?oc=5",
     "image": null
   },
   {
-    "id": "auto-6dbe6b67b663",
-    "title": "【脱炭素化支援】ベストデリカ有限会社 大野原工場へ太陽光オンサイトPPAによる再エネ供給開始",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "21:48",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zYXc0NmFrVVNNaFkxQUVrV29iSWJMR2dELVBCRWhmZTlqR1R6eEF5UkR2akZPc0ZwaUFqWl9QYjlYdTRZNWc2LVpmQXVRTFhac1JHbVQtcHYzWXRISV9UeWdUc05TOXN6OGQ4RzFpc0xWdHZKZ0JsMDJR?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-bf29c43596a5",
     "title": "EUが風車の健康リスクに言及！それでも脱炭素はやめない",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "アゴラ 言論プラットフォーム",
     "time": "21:40",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5d295S0VJVFJ4RGVpNVN0R2N5NjdLOVU0aVlGQnQzMTlNUUJWNFl3ZVNVcXRMMnNyUEdsLXc2V3p6cjd2MWRDRU5rLW9nYlpTblFfdGNSMDBkMWs?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3191d953f192",
-    "title": "日鉄エンジニアリングなど6社、海洋ドローンを活用した洋上風力維持管理の事業に採択",
-    "category": "その他",
-    "accent": false,
-    "source": "Dellows News",
-    "time": "20:53",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53TExGMDZmdkV6VmpyODJ3OUpYbzJOTDEtOFJUc3RvdTViaTFXcWtNSC1ITGhQc1ZyR3RhVlNNdVBrMFpYMDV3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-b37c20791d78",
-    "title": "竹中工務店/夏の余剰電力 冬に活用/集合住宅で水素貯蔵",
-    "category": "技術",
-    "accent": false,
-    "source": "ニッキンONLINE",
-    "time": "20:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mUklka2tOZjhqalU5RlJXREMxcjlhSHFGaWM5aGZyUlhQMjM4ZUVveUlQVXlER0E2aFB4OVEtbm9ZS0lIOXd5X21yMmlSeERNRU9mRmpn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-3662fc60c990",
-    "title": "難燃フィルム市場、2035年までの成長予測：EV電池の安全性と防火規制がけん引 - ニュースと統計",
-    "category": "その他",
-    "accent": true,
-    "source": "IndexBox",
-    "time": "17:46",
-    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZjdqM051c3hCV3VmWUFNMVFxTldNaVNNOGtsbHJuYjVhQUtRMW9NSkVVeWZXN1p4VnFCR1EyYzFuZHVPUGRBZjJSUi1fem50cno1SHVsLThSc1F2cFNGbUtYd3F5VlFIX1NfODMtdDY2UUlmUnZyQV9ab3hHaEs5clJEVjAyRjlubkdqLVQyOF9QX09TVW5CRjFBS2VHeXJ3NWpNMXVFUTlCRFB4ay1Gb1hmWExXV3N3ckJSMExUd3B6d0JlSjdueUpJVUtOSl9RT3kycWxn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-50aa33ae0af5",
-    "title": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結",
-    "category": "その他",
-    "accent": false,
-    "source": "Infoseek",
-    "time": "17:10",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VQUpOWC1vSUxNRzhUWFczMHFSd3l4Zks0VnhvN2pibDB3TjdROW5yT1BUcFM5T0lBNThCY0J2UFczckdZU09OUTZ4OU45V0tVa2hfYndLbXBwTFdsZGtCTFhlNFNqclhQS3owclBDU25XQQ?oc=5",
     "image": null
   }
 ]
