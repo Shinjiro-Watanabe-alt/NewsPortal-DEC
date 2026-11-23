@@ -1,32 +1,62 @@
 [
   {
-    "id": "auto-edce95add2d4",
-    "title": "元東芝 執行役上席常務 大谷文夫氏が、次世代型地熱スタートアップGeoDreamsの顧問に就任",
-    "category": "企業",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "18:40",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000162716.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/162716/22/162716-22-364bc7b21e1fef294fe8268ccd576e29-1440x1920.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-c5c80da93fca",
     "title": "JOAホールディング、系統用蓄電池のバルク販売における「特定生産性向上設備等投資促進税制（即時償却）」の個別相談・一括支援を開始",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
-    "time": "17:40",
+    "time": "23:40",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000023.000080655.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/80655/23/80655-23-418c2c306157ef7c79ee1ec8e9638950-1536x1024.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-d447ebae4c7e",
+    "title": "【フィリピンで1万ha以上の竹の植栽・再生】Green Carbon、カーボンクレジット事業開発に向けMOAを締結",
+    "category": "企業",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "22:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000324.000117956.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/117956/324/117956-324-7ac382d942669089c47f7fbfdc65e728-1988x1120.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-2ac6185bdaf1",
+    "title": "蓄光塗料「レッドコート ルミナス」の開発のお知らせ",
+    "category": "企業",
+    "accent": false,
+    "source": "PR TIMES",
+    "time": "22:10",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000147704.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/147704/9/147704-9-b2f319cd823f3561c9915d45ca1133eb-2752x1536.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
+    "id": "auto-b89801084dcd",
+    "title": "30メガワット級水素専焼ガス発稼働へ ＮＥＤＯと川重、ドイツ社が実証",
+    "category": "技術",
+    "accent": false,
+    "source": "環境新聞オンライン",
+    "time": "12:18",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oRUU3cUswYnpKRXpGYm9HZnc1NmUzcjllVkkwWTM0MEgxcmVZbHdiRlFtVkZTMWZaQm1UcEVwY05TOXpjV1VDRUZDYkZtc1BPcWdtYXRFbEVmLW9oV0NmVzhOMF9tVTQ3MzNEVWVRVjhJMDdZbnd4Y0N1VQ?oc=5",
+    "image": null
   },
   {
     "id": "auto-d9e366e824d9",
     "title": "中国聯通とファーウェイ、5G－AとAI活用のスマート風力発電所モデルを構築",
     "category": "国際",
-    "accent": false,
-    "source": "Infoseek",
+    "accent": true,
+    "source": "ニコニコニュース",
     "time": "10:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmRTNDRW5YYWpsMGVEblhQVE5GdnBNZ2ZTSkhmemlDS0lzQ0poVFp2VmE5SVFuSmJHN3QyQ0lOVjg2SU5HQ3k1bmFwN3lxX3RCYWljS3BSb005bFhpY2llSzU3dVAySUZTX2c?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5OW0yUEZqTmc2WGxodTk0eTVESVpiajNsczBGeE01Y2NxQ3R1QldWV0dmUGZaRUl0RGRhazZObG8xRDJBNlZTOXNQd2tlUFUzVjhmd1BoRi1vSnhVVlhzcWpFOGcwY0hCaFIwbVlfazhLcHM?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-6a3cb0df829d",
+    "title": "屋上太陽光発電の目標設定を地方自治体に「委託」するという提案。",
+    "category": "自治体",
+    "accent": false,
+    "source": "Vietnam.vn",
+    "time": "10:26",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTVJUnZjNE1RRVFwTWtKRGk1ZUkyczhhbGV2LTFkYVlDYnV5eUVidTVvbDItOFQ1Q3N5OVpjQ1M4Wm8zU3BpVW5FWFp3OTQ0bXFkNGtOU2RQX2ZQM1ZkcEJWUHo5TXVUVEs1UEc2WkdCNjh6TG1PXzE5WXFCNm5vWDJNdFd6YWJkRjlHMjdR?oc=5",
     "image": null
   },
   {
@@ -105,7 +135,7 @@
     "category": "その他",
     "accent": true,
     "source": "電波新聞デジタル",
-    "time": "8:09",
+    "time": "8:10",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLOFVFQm1pTmZESmNsc09BUXBSYzRDRFJHcFpseEJ0YXJqQzNVTGN5dXpWLURiMFhMZkRLWm52MlVvaHExcUV2VVR6LTFHdzhjYWc?oc=5",
     "image": null
   },
@@ -140,6 +170,16 @@
     "image": null
   },
   {
+    "id": "auto-1dc9db944781",
+    "title": "韓国のH Energy、GS Energy、STIC Investmentsと屋根型太陽光1GW共同開発を推進",
+    "category": "国際",
+    "accent": false,
+    "source": "BigGo ファイナンス",
+    "time": "6:56",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51aUhKNnRHV3dzbHpVQ1ZURDIxOVoxaEhNVnBQVmpHNGl2M0Q2cE0wREVMUkZYSGNMSUg3Y2VScjRKRC1rcGhNZkR5NUYwTU1BQUp0OWx1Tk12aXJfNWYtYU13aFFoaXltenF1NUl2UUVIUU1v?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-bcf4c35c5d7a",
     "title": "屋上太陽光発電5,630MWの配分：どの地域が最も多くの電力を受け取るのか？",
     "category": "自治体",
@@ -153,7 +193,7 @@
     "id": "auto-969894d40f77",
     "title": "【12/4締切】脱炭素を環境部署だけの仕事にしない。関東環境局が「まちゴト脱炭素デザイン会議」の実施自治体を募集",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "IDEAS FOR GOOD",
     "time": "6:04",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wV0tncTk2LW12eklSX2lfbE5lZzV4eG5vb2pTNlBPTTR2VTM0S0hsY2tWeGhiLXhZaTBoV2o4OV8xQlBXcERzYkw3czhyOFVLbVhTY29TdUM4SlMzbEI1cVh3?oc=5",
@@ -163,7 +203,7 @@
     "id": "auto-c7fbc8f1c2be",
     "title": "断熱塗料市場、2035年まで拡大へ：省エネ規制が成長をけん引 - ニュースと統計",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "IndexBox",
     "time": "5:26",
     "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONFM5Vnp6ckJXZUtpeExJNFVlX1V1R0VFTEtqWjYtMjgtNmVnNXBtdWgzTkNsOWZ4Y1RPVzM1ckRPQWdZYlF2VjdyQ1c0YlI2MERNQlB4ZUh3UjJTSTl0SExCejZMMmt1ZUk1aFhNUEFyQVlfTWQ1eWUyMVBDZElFck5wLXZtLXVsZVl4WUNYb3c5VUdDOGYtVVVmT0w0UjRUdzlZTlRhbU5ncG9XdW5fMHZrQV9LRXRHRjE5UWF5NFlaQXFPNEtsSl95Ny0wWHVXWVdoN0pyTmlKR09kSFFsZmxVcjEzdw?oc=5",
@@ -180,6 +220,16 @@
     "image": null
   },
   {
+    "id": "auto-58734166721f",
+    "title": "高麗亜鉛、米太陽光パネル再生事業を主導 製錬所で金属回収へ",
+    "category": "その他",
+    "accent": true,
+    "source": "Chosunbiz",
+    "time": "4:46",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXZOUXlTREJ6ZEcyb19yWm9iS1d1NDBjUjV4QWRFOXVFU0JHZ29hWjhVM1BNQTVBUTU5UGU3Z1Q1aG1oZVVVMk1UZ2xVNFJTMW13a1RKWjlYNDhDblEtaXU1a012b3dDaGhwc0pZWnhRbHlQMDJ3a0toR1d5MTZ6VjVXUHRlQ3BUYy1xZWhZOTZmc0E3dGfSAZYBQVVfeXFMTlV2TlF5U0RCemRHMm9fclpvYktXdTQwY1I1eEFkRTl1RVNCR2dvYVo4VTNQTUE1QVE1OVBlN2dUNWhtaGVVVTJNVGdsVTRSUzFtd2tUSlo5WDQ4Q25RLWl1NWtNdm93Q2hocHNKWVp4UWx5UDAyd2tLaEdXeTE2elY1V1B0ZUNwVGMtcWVoWTk2ZnNBN3Rn?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-968511de639b",
     "title": "ドライバー・フィードバック・サイン（DFS）の世界市場（2026年～2032年）、市場規模（バッテリー電源、AC電源、太陽光発電）・分析レポートを発表",
     "category": "国際",
@@ -193,7 +243,7 @@
     "id": "auto-39763c1cf504",
     "title": "COP31閉幕、採択見送り: 脱炭素も再エネ利用の電化も打ち出せず",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "オルタナ",
     "time": "4:01",
     "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JNDVtSmtITXloakRBc3Q5Tjg2QndGTUlRX0VMYWlpZi1TWl9tU0lBNFhKYXdKQmprM2ptRGR3M2JtdmFRSU9ZTw?oc=5",
@@ -203,7 +253,7 @@
     "id": "auto-440cc0f43aab",
     "title": "水素貯蔵ボトル用複合材料の世界市場（2026年～2032年）、市場規模（標準弾性率繊維、高弾性率繊維）・分析レポートを発表",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "Newscast.jp",
     "time": "4:00",
     "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9OMF9OaXY4QjUxblpFM2xrVVYtanFCT2JpWkVpM25YcDgzVzFsS19PaEJzd0RFOHB5Sl84SFJocXo4c3cyWmlz?oc=5",
@@ -220,83 +270,33 @@
     "image": null
   },
   {
+    "id": "auto-63c4313e889e",
+    "title": "洋上風力発電と漁業 日本の経験＃１４７ 魚礁効果の幻想 “半径５０m問題” 北海道機船漁業協同組合連合会内 一般社団法人北洋開発協会 原口聖二",
+    "category": "その他",
+    "accent": false,
+    "source": "Howl.Link",
+    "time": "3:15",
+    "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9FREE1Qmo2NDlzUEtNZW43YkRCek9YMFRwby16bVFGRXZYcGtWUjNZTlE5WjdEcHFSMm1z?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-81d78d8dd4ec",
+    "title": "2026年太陽光発電の消費は増加すると予測され、 ペルタミナは理由を説明する",
+    "category": "その他",
+    "accent": true,
+    "source": "VOI.ID",
+    "time": "2:54",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXVsUHdrbE82d1ZBY0ZKeXcyTXFvRTZRRldiMnhwVnhaVHhISHB1eVJIeW43b1ZhZ19HcDZzR2U5MzJlN1BIQ2pHeVVNcXNHRFNuS1B1VDRic0U0OV9yUWw4ODdhOTAtbHZHazVZSWxsTC1KcTlFRGxYbnlCaEtReXFrZ1ZNdDlqcm5uU2dwYVJGOV9JVmJSY2cyVVZuZThMQURxSXl6Q3lmZFpWTW9sTnVPMEJzdlZB?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-8403707fb470",
     "title": "QatarEnergyトップが訪韓…韓国、LNG優先供給に太陽光・造船協力まで",
     "category": "国際",
-    "accent": true,
+    "accent": false,
     "source": "BigGo ファイナンス",
     "time": "2:35",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYbWRLNEdvTm1tdENqTDEtSFE2cGRYdTNCWm85S2FnT2tiRjM1NGdqbUNsQTYzVUZYRXBKVTlma0dmYm1DWmJrYTZQcDNpclRlVFphRnhWdjd1RXpNc2lvanhob3NPNG5zXzJ1a09YRy00Q1U3?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-db7939c5cd8b",
-    "title": "世界の持続可能な航空燃料（SAF）市場は、2025年に22億2,000万米ドルと評価され、2036年には289億6,000万米ドルに達すると予測されています。2026",
-    "category": "国際",
-    "accent": false,
-    "source": "Newscast.jp",
-    "time": "2:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4czdQNFItUy1YaDk5cVRBZmFqR3dqWE5DYlFBZVE3N3llMlZyY2RvdFlPMHRqLWxBN2Z4UW9aQUZSTTdJdlpN?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-9b28d6d7d60e",
-    "title": "COP31、包括合意見送り 韓国は脱炭素・電化協力を推進",
-    "category": "国際",
-    "accent": false,
-    "source": "디지털투데이",
-    "time": "2:13",
-    "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVVRtNkJnRHQtUnItTGVCOHBrc0NPSnpXTDlXTFlZVkl6V2d6ZzM1Z0RyQU9vSHJHNUlqU01XcGRuTkM1TnNjbkhWNUdjM3JBQmh4ZGh0TVI5N1JWNGoxbzBDQkRvXzJvWXdma3BUV3oyWXBNUmFxazZqeGZwOHMzTlhPUFl5ZE1PVjU0YVpMeXhkSlJCcG00RjBSNUxfclZjaW9rQlo3YzVWdVBhbVFhbHlRZXR2VUdQMzF0c3dDc2NZeW8wYkFHb0dLdWV6NW9NeHBGb2FzVWRWbnUybjZPVnQwX1RlWVpiYWRzX1FlckFCTUtOMDZkdg?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c8487ea644b3",
-    "title": "供給過剰の中国電解槽メーカー、活路求め海外へ グリーン水素市場では需要確保が課題",
-    "category": "技術",
-    "accent": true,
-    "source": "https://connec2.jp/",
-    "time": "2:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VZmRhMGhzaFhwVkpSWjdzUEstMENkcXZSZHM4UWNKZFFQeXd1NVFOZVNSU1R2TzlTdkdTbmR3UDRQNUV1eERn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-d13c38b05b23",
-    "title": "3-10蓄電池2 | Motor Fan｜自動車情報のモーターファン",
-    "category": "その他",
-    "accent": false,
-    "source": "Motor Fan",
-    "time": "0:47",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83VkxDS2pMZ0FRTGNFeUVXNnlDUEFlM2Y4NkdWX3A5eUh0YWN4OW45cm5uMEJ0RVZqa0tkX3doY0s5MTg0NC05S3VONm9EQTdyQWNHRnJCRF9XUnFuZmk3RWZOUmdNc3BBSEJ4YUZZaHlwNTcweTNZV1FB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-187dd41fd172",
-    "title": "バルコニー用太陽光発電システムの世界市場（2026年～2032年）、市場規模（300W-450W、450W-600W、600W以上）・分析レポートを発表",
-    "category": "国際",
-    "accent": false,
-    "source": "Newscast.jp",
-    "time": "0:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SU0llWFNVaTBpY3I5YXc3LXVtSWU2ZzBzSFR2bHJjWm04cXpLYjMxRGhJa2swalRnUGgxbWNTMF9uMlZMdGNN?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-0706f36b65aa",
-    "title": "大阪ガスとSonnedix社、大分市の太陽光発電所で国内最大級の再エネ併設型蓄電池の商業運転を開始",
-    "category": "その他",
-    "accent": true,
-    "source": "LIGARE（リガーレ）",
-    "time": "23:30",
-    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tZ3FNUW9wRmZVbVE5cVdaZ0RTZkJuV2FHamNSYl84WUlQWkJ3M2JQaXRlY1pGQi1RMldYZFg1LWk2VkZMX01ZWkE0dlRPVGJSUUlN?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-19a68db4c34a",
-    "title": "カーボンニュートラル 自治体の取り組み｜4つの制度と調べ方 – SDGs特化メディア-持続可能な未来のために",
-    "category": "自治体",
-    "accent": false,
-    "source": "MIRASUS（ミラサス）",
-    "time": "23:11",
-    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iNUNZSEkxTm5aNTNlT1lsdG5mcTlyR2k5S2V5RWh1eVFjZW1ud09HUzNCUlhKZEpXY0hBTmR6TzJJYW04YUZBNG9tQ2s?oc=5",
     "image": null
   }
 ]
