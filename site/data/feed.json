@@ -1,32 +1,62 @@
 [
   {
-    "id": "auto-5cbfe839f907",
-    "title": "BASFと日揮グローバルのHiPACT(R)技術、INPEXの柏崎ブルー水素・アンモニア製造・利用一貫実証試験の立ち上げとCO2圧入開始を支援",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "18:45",
-    "source_url": "https://prtimes.jp/main/html/rd/p/000000088.000092340.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/92340/88/92340-88-7b1a9060fb3ea44d6584efe19ef88957-2025x2700.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
-  },
-  {
     "id": "auto-6948a2f2715f",
     "title": "Carbon EX、2030年削減目標に向けた環境価値の調達実務を解説するホワイトペーパーを無料公開",
     "category": "企業",
-    "accent": true,
+    "accent": false,
     "source": "PR TIMES",
     "time": "18:15",
     "source_url": "https://prtimes.jp/main/html/rd/p/000000133.000143261.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/143261/133/143261-133-75fad541d050a64860292733ab562037-1800x960.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-8a001fd78f8d",
+    "title": "Mavin Austfeed Dong Thap社が屋上太陽光発電システムを稼働開始。",
+    "category": "その他",
+    "accent": true,
+    "source": "Vietnam.vn",
+    "time": "14:54",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTVrOE5XQm45RndKQWFtNnZhbkZMbk1HYVVoLVVGaHFqT24zYkNtNTEtNy13d3NWeVZucnVpb3JLbnlrMGtCRHl0WllfdktyMjlDbDA0VXlXcFFwUkFMajZGb2owS0tHYTJKQ3BzVzFwa1M1Z0RUX1plcmRDN2ZucmFYUkxvSHEtMlVCTzM0NWFzUmk3RmQ5OEUyU0oxQQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-1a472c76ae95",
+    "title": "川崎重工、大容量水素圧縮機を開発／１０分で大型車６割分充填 –",
+    "category": "技術",
+    "accent": false,
+    "source": "電気新聞ウェブサイト",
+    "time": "13:27",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90WEctY0trbi1uQUtYRGxSV0g0QWtpaEVLV2VQRHNRTlVmdGhvMlN1U0VrTEo2V09NOG9zQ0NkTzMzUUxvX1VXbElsc09hX1NuTWlhY1lXRQ?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-c83f58ed2d48",
+    "title": "Jパワー、東邦ガスに風力の脱炭素価値を譲渡 発電地域の電力に活用",
+    "category": "自治体",
+    "accent": false,
+    "source": "日本経済新聞",
+    "time": "12:36",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VVVCMzB3dmtGSnJjZGNNZGRka2wtbFVST1NBU1NIMG1HajJsZW1PNlJ6Tkt5VVl3NzEyZ2JqdHhraEJhN3JLUXl6TFpaR1lyZVg1dW8xLUtmVjI3YUtVaWlwWDMtLW03NzdFVQ?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-fb838171653c",
     "title": "ヴィクトン＜3840＞、ネクストエナジーから太陽光発電設備事業を取得",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ｄメニューニュース",
     "time": "12:19",
-    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWd1d3FsdmxuR3Y2Z1dlbFQxWVE0dDNwZWFJdlJWYlE2ZEc3V3VOc1ZYQ0xPOEJTVHdjZUtLcVlEOUxjaXVSX3U3NE1HWF9qZjlJOGdaVks0MDJkZWk4QnV0T0JjRlhCRE1rQS14Nkt1TWxtSVZ2Um5NWjNrYmZWYWxR0gGHAUFVX3lxTE5BQ0N2SUQ1RVA0N19rUUlWZXB5MUFlcFRRb0ZFaEFjQjNGck84bU1HdXJxVk5yb3RUYzI0YmNBOU8yQUtLWE9CX1FVU1gyNFEyRnY5Ym5vWXRfblp0Z1BWYnZneFRLS2ViWklVc0tEZDlQWkczVnVTd3VGMFdOcXowemY3ZlllUQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUNDdklENUVQNDdfa1FJVmVweTFBZXBUUW9GRWhBY0IzRnJPOG1NR3VycVZOcm90VGMyNGJjQTlPMkFLS1hPQl9RVVNYMjRRMkZ2OWJub1l0X25adGdQVmJ2Z3hUS0tlYlpJVXNLRGQ5UFpHM1Z1U3d1RjBXTnF6MHpmN2ZZZVHSAYcBQVVfeXFMTkFDQ3ZJRDVFUDQ3X2tRSVZlcHkxQWVwVFFvRkVoQWNCM0ZyTzhtTUd1cnFWTnJvdFRjMjRiY0E5TzJBS0tYT0JfUVVTWDI0UTJGdjlibm9ZdF9uWnRnUFZidmd4VEtLZWJaSVVzS0RkOVBaRzNWdVN3dUYwV05xejB6ZjdmWWVR?oc=5",
+    "image": null
+  },
+  {
+    "id": "auto-9cc27e2bfeb3",
+    "title": "NPCL、300MWの24時間再生可能エネルギー入札をReNewとPurvah Green Powerに割り当て - ニュースと統計",
+    "category": "その他",
+    "accent": false,
+    "source": "IndexBox",
+    "time": "10:54",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2RTVzRTenFBQXpaTzlfSjRYdFd4WE83bTR2UGh4TmdSeHZsN0hnNHhqbGhqd3NNSlJqMkRpNWZTTXVKR1JzdUQ4Mzk2a0hZRlI3elpuU1lQU3VjTXhFZDJiU1pyQnNhRmpYNlJkdEVvUVBCVHVaa1pTbmNob2pLcVpIc3RySHc0QXRnWA?oc=5",
     "image": null
   },
   {
@@ -50,13 +80,13 @@
     "image": null
   },
   {
-    "id": "auto-051d604e4d57",
-    "title": "電力需要が5倍になる国で蓄電池はどこまで必要か――東南アジアの可能性を読み解くウェビナーを開催",
-    "category": "国際",
+    "id": "auto-dccea04aa0de",
+    "title": "Hyundai Motor Groupの水素・ロボティクス技術がGenesis Magma Racingのル・マン24時間レース初参戦を支援",
+    "category": "技術",
     "accent": false,
-    "source": "時事ドットコム",
-    "time": "10:16",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jVWVNcVlFczFtcXJscUU0bUlrcWo0MWEyOFRkOWlRcTBXekdoSjVvTzBYajVjYnBhd2hMXzBQb2tKeFNlMEdtdTBZOU0xQmppTFlVMHFZNEVhUFhZdDNIZy0xRjVzb3RIX1Ew?oc=5",
+    "source": "hyundai.com",
+    "time": "10:21",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuTlAxREVZRzNWSGFidWNPcFZNNkFUVVNLZ0Ywc2pBM0luN1hWQWY4V0hZdjhOS0UwT09PVzQ3NmtwU3VjemZ5Y2g4WUkwZDR5RGtrbmpqZDNYUl8zdURVeg?oc=5",
     "image": null
   },
   {
@@ -130,10 +160,20 @@
     "image": "https://prcdn.freetls.fastly.net/release_image/161802/127/161802-127-8e32c826b5d2fcd15986071a409739ea-864x648.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
   },
   {
+    "id": "auto-051d604e4d57",
+    "title": "電力需要が5倍になる国で蓄電池はどこまで必要か――東南アジアの可能性を読み解くウェビナーを開催",
+    "category": "国際",
+    "accent": true,
+    "source": "PR TIMES",
+    "time": "9:00",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xeV8wWThLT3ktNXgwMXctdXB0RjVETTFXbUx6QnJhV184V3E3b3F4anFCMDBheWFoOENjZWRPcU5IcDNqTVpleEl4TTZ1dVk4YnRQazdkeHlQZ1J1U3QzUElfUlRQMi1aeVE?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-1dceae21db19",
     "title": "分布型光ファイバセンシングによる洋上風力O&M常時一括監視システムの開発・実証を開始",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "時事ドットコム",
     "time": "8:46",
     "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYUJheldNandpWGlNOW5kU2QwWW5lVm5UcWFPWjU5UEVqNWw4UU4xNkdaaVRTTzF3dk5UNnpMVlB0WnpsMkFBa1NZM1lwcW1yOFR6VTItdXl0QXhBRG4wVElXWGNYYXQ1ODlB?oc=5",
@@ -153,7 +193,7 @@
     "id": "auto-45ee6bf1f248",
     "title": "東京都産グリーン水素を活用したワセリンを開発します|11月",
     "category": "技術",
-    "accent": false,
+    "accent": true,
     "source": "東京都産業労働局",
     "time": "8:27",
     "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVBsVXFGSllITFFfelBHdDZ3VXFySlZNZDVzajVORFBESlVwbTBFUm1HTkJqSEFibkxPd0k2aVd0aGY1NlV2S0VkdnNmN1BOZ3BwcTYyc3ZYRkhHZGFqbjdCczlWQVU1WnMwcVMtNHRPN2dsRjlHLWNjTXM1Z3pxODRRTkY?oc=5",
@@ -163,37 +203,37 @@
     "id": "auto-f0611d4c1685",
     "title": "水素の社会実装に向けて都と民間企業等が共同で行う取組を決定しました|11月",
     "category": "技術",
-    "accent": true,
+    "accent": false,
     "source": "都庁総合ホームページ",
     "time": "8:15",
     "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80c2hpVzdfT1F1alNhcWNKNEowNnNhMHdTekNmb3c4cG5PY0RlRTM3WmUzVnFyOTNObHY5eFFrdXVnemczejR1dmZFMkhmcnYydFFsaVlvRGpLVElaTThYSTh3dkNoVkhEZXdLSmxFYjZzRG1n?oc=5",
     "image": null
   },
   {
+    "id": "auto-5cbfe839f907",
+    "title": "BASFと日揮グローバルのHiPACT(R)技術、INPEXの柏崎ブルー水素・アンモニア製造・利用一貫実証試験の立ち上げとCO2圧入開始を支援",
+    "category": "技術",
+    "accent": false,
+    "source": "Infoseek",
+    "time": "8:06",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6d2Zsa0ZtUVl5NEFDQXJfSHI1YXN0djR4MDN5VjF3MTJhUldMVktvWkVhRFZzSzVGRGdVZ0pldnFCbkRoRndBX1ViVmpuYVJ0NUxTalpMdjdPVlhpaHB1Y2RsYnVBSnZzR2s2bXlQaDRSZw?oc=5",
+    "image": "https://prcdn.freetls.fastly.net/release_image/92340/88/92340-88-7b1a9060fb3ea44d6584efe19ef88957-2025x2700.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+  },
+  {
     "id": "auto-d9b58e1cebdb",
     "title": "中国四国環境局の管内の脱炭素先行地域19件を独自調査。若者・学生が担い手の計画は5件。若者と自治体をつなぐ一般社団法人リジェネレーションが調査レポートを11月2日に公開",
     "category": "自治体",
-    "accent": false,
+    "accent": true,
     "source": "Glocal Mission Times",
     "time": "8:03",
     "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRElsS1JHczRKMTlzV0k2NDFhZGF1eW5JTEtZck9GQkU4TkVkd2pjLUtRa3o1NG5xM1dPYU9iaUFVOGo5d3hTd2pZX0tlSjJubTlaVG9YUQ?oc=5",
     "image": null
   },
   {
-    "id": "auto-6dbe6b67b663",
-    "title": "【脱炭素化支援】ベストデリカ有限会社 大野原工場へ太陽光オンサイトPPAによる再エネ供給開始",
-    "category": "その他",
-    "accent": false,
-    "source": "山陽新聞",
-    "time": "8:03",
-    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ud1ZyWmZjT2xEcmlXWFJyYVB3MEtqQmFobTljTjE5cFZ6X0pwdDVYUVlTOUpXQ3JJXzhkdTZ4b1BuS3VRLXFkVFpKaVl3cUpKZEhIelBxTVBnS3J6NFN6eC01YWRnN2M?oc=5",
-    "image": null
-  },
-  {
     "id": "auto-f961d4ee721d",
     "title": "東京ガス、マレーシア国営ペトロナスと戦略的協業、ＬＮＧ安定供給と脱炭素化を推進 - https://kabu-ir.com/",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "検索: 脱炭素・カーボンニュートラル",
     "time": "7:34",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xd3lRVDZYUTZGdEtndGNtSGxXTVdYaTJWbG1PQ2F3bVdYQm9BUjdlYU5PQVluV0pjdDRZa21PZUQzQjc0ZjRLT1pwSWlmb2swdTh2SQ?oc=5",
@@ -213,19 +253,29 @@
     "id": "auto-9ae19c50c6d8",
     "title": "北米の太陽光発電（PV）：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "アットプレス",
     "time": "7:31",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYzNNY1p4M2lCZ2VuMmJyYnhOdXY5emFMX2VWRzRYZmNlRDBuZlFmYXhhM21kdXVsQXB3ODdDazItNkhYLTNMVEtiUENXSk0?oc=5",
     "image": null
   },
   {
+    "id": "auto-953df65643ee",
+    "title": "【脱炭素化支援】株式会社タグチ工業 大山工場へ太陽光オンサイトPPAによる再エネ供給開始",
+    "category": "その他",
+    "accent": false,
+    "source": "ニコニコニュース",
+    "time": "7:21",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtN1VIdjI0d01uWXMxSGtjanRlb25HWFhmdVFpbVBVbXkyTWswZlBHWldDNVpNU0NGeVN3WWJkTm9GTWpDNXltdUpDc3g4ZnUzbXREYmlRamZGblc1MW95T2daTjFOckFrREVrOEFWLVRERGhUbG5KalpZdw?oc=5",
+    "image": null
+  },
+  {
     "id": "auto-883c92e46d21",
     "title": "JR東日本など6社／廃食用油由来の国産HVOを活用、バス・物流車両の脱炭素化へ",
     "category": "その他",
-    "accent": true,
+    "accent": false,
     "source": "物流ニュースのLNEWS",
-    "time": "6:46",
+    "time": "6:57",
     "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vV21yckJCeGthM295SVhYbkJBNE5rVHpGZzFVMmFDMjNrdDE0OWd3VFk2cVpBRUV5bHVVSGN3VEFnRnJhSkxtbE9yZjV0ZDAyRFhFUQ?oc=5",
     "image": null
   },
@@ -233,7 +283,7 @@
     "id": "auto-bc3b4fbee894",
     "title": "日本のグリーンデータセンター市場：AIインフラブーム、再生可能エネルギー投資、持続可能な冷却技術が巨大なビジネス機会を",
     "category": "その他",
-    "accent": false,
+    "accent": true,
     "source": "ニコニコニュース",
     "time": "6:36",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OcTRDUlJydk1jYmREYjBVLWpLaVM5c19CVnY3dWRYVW1qX2dBbDdtUFpiRTZjZ0pPQ25JV09STUEwUnJZVWNZVzYzZE9Ga01sNEsyekVuTWdvUGJCOU1GV0FjYURxMW9k?oc=5",
@@ -247,56 +297,6 @@
     "source": "ニュースメディアVOIX",
     "time": "6:02",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13TXo0ekE5Z2hjWHJXZW1KcmZlRnhLMmw5bVQzTGd1UV9fclpseTRTTVVheTc3cHBzZFZFNHgtYmE2WEd6cHhaMWszSnRXU05PUFFF?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-fe434916dc64",
-    "title": "八王子市とパナソニック エレクトリックワークス株式会社との「脱炭素社会の実現に向けた連携協定」を締結",
-    "category": "その他",
-    "accent": true,
-    "source": "PR TIMES",
-    "time": "6:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ha1U5NFQ0Z1hyUFFGSFA2OXFqY1MwT0Z4Q3JRc1pyMGZsVlpSemJUVDQ2dVBFM0dpeElSTVRoYWVZUTZyZUtjdkRnMl94QTBKMVBJQkpvWmYzM3owN013aUxjNmwzWEVHV0E?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-8cc368e05450",
-    "title": "丸山製作所、２ストローク水素エンジンの製品化に向けた開発を開始 燃料電池・バッテリーに続く “第三のパワーユニット” へ",
-    "category": "技術",
-    "accent": false,
-    "source": "ライブドアニュース",
-    "time": "6:00",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XZEtDNmU3ZGJEZGhWOUZoNWxGRFhLMkY4am0zTmlLMGcxdkJzOFNMc2UtOFVxcHZZbEFFdUh1M3k3bEZqdHZucmYzVnpwcmMxMm5WbmptVG82QlRSODZzc1JB?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-c1a62c40167d",
-    "title": "「つくる・ためる・つかう」を一つに、水素を都市の日常へ メグレナジー、東京都「水素実装課題解決技術開発促進事業」に採択",
-    "category": "技術",
-    "accent": false,
-    "source": "PR TIMES",
-    "time": "5:49",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tUUhXMzA4WFBCcWhnZjJHdlBweG1LNUpoMGN3ZWtFeVRSTGh4X21FQ0RHaTBiQ0owdWljN0JXZnZHaXJndmNrYmJLS0RxWl9WSlZjVDF1dDdGamtsMW9wN1JGRFAtQXFMMUE?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-466fec75759d",
-    "title": "脱炭素社会目指して 中古EVを公用車として導入 久万高原町【愛媛】",
-    "category": "その他",
-    "accent": true,
-    "source": "Excite エキサイト",
-    "time": "5:34",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYlBsWE1EbFVsYktlOHVjeFBienQtdl82NFo4T09DU2VTRDh3ZWRYeFhoX3oya3pERkZyZFdXVlpnZDVqNnU1NVEwSGE1ZGE2dlhiLV9oaWY1WUNQM1ZBak5Ndzd4SjhZVmpHandn?oc=5",
-    "image": null
-  },
-  {
-    "id": "auto-00c6de26814b",
-    "title": "データセンターの洋上風力で日本国民が年間1000億円を負担",
-    "category": "その他",
-    "accent": false,
-    "source": "キヤノングローバル戦略研究所",
-    "time": "5:18",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NEp2WUZsNTdNeVZiQmJHcEgxUmRrWUVCSmJhS0dsVDJ3czBHdVAtQjFFLUxfOE1NcEd1MmNMNjZod216ZEJfVVJzTWVLRXlDWWMwa0JlZUs2UQ?oc=5",
     "image": null
   }
 ]
